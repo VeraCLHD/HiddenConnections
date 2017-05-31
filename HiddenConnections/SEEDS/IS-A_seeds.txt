@@ -1,0 +1,409 @@
+dump sentences\A-76_17_.txt	antioxidants	vitamin c	and nutrients, such as	IS-A	[CC, NNS, ,, JJ, IN]	22
+dump sentences\A-352_5_.txt	plants	plant-based	, such as berries, and	IS-A	[,, JJ, IN, NNS, ,, CC]	22
+dump sentences\T-511_0_.txt	bugs	c. diff	such as salmonella and	IS-A	[JJ, IN, NN, CC]	22
+dump sentences\A-336_4_.txt	meat	ham	and lunch meat such as	IS-A	[CC, NN, NN, JJ, IN]	22
+dump sentences\A-336_4_.txt	ground meat	ham	and lunch meat such as	IS-A	[CC, NN, NN, JJ, IN]	22
+dump sentences\A-139_10_.txt	vegetables	grapes	such as red onions and	IS-A	[JJ, IN, JJ, NNS, CC]	22
+dump sentences\A-245_2_.txt	vitamin b1	magnesium	, and minerals such as	IS-A	[,, CC, NNS, JJ, IN]	22
+dump sentences\A-76_17_.txt	antioxidants	vitamin	and nutrients, such as	IS-A	[CC, NNS, ,, JJ, IN]	22
+dump sentences\V-1035_6_.txt	animal products	dairy	such as fish, meat and	IS-A	[JJ, IN, NN, ,, NN, CC]	22
+dump sentences\A-352_5_.txt	plants	plant	, such as berries, and	IS-A	[,, JJ, IN, NNS, ,, CC]	22
+dump sentences\T-31_7_.txt	vegetables	peaches	, such as oranges and	IS-A	[,, JJ, IN, NNS, CC]	21
+dump sentences\T-159_2_.txt	pollutants	smoke	, such as second hand	IS-A	[,, JJ, IN, JJ, NN]	21
+dump sentences\V-195_0_.txt	heavy metals	lead	, such as mercury and	IS-A	[,, JJ, IN, NN, CC]	21
+dump sentences\T-1783_17_.txt	supplements	airborne supplements	such as vitamin c and	IS-A	[JJ, IN, NN, NN, CC]	21
+dump sentences\T-103_8_.txt	amino acids	methionine	, such as leucine and	IS-A	[,, JJ, IN, NN, CC]	21
+dump sentences\A-336_4_.txt	spermidine	american	; and cheese such as	IS-A	[:, CC, NN, JJ, IN]	20
+dump sentences\A-54_4_.txt	neurotransmitters	serotonin	such as dopamine and	IS-A	[JJ, IN, NN, CC]	20
+dump sentences\V-356_11_.txt	neurotransmitters	serotonin	such as dopamine and	IS-A	[JJ, IN, NN, CC]	20
+dump sentences\A-281_26_.txt	plants	beet	—such as beets and	IS-A	[:, JJ, IN, NNS, CC]	20
+dump sentences\A-281_26_.txt	plants	beet greens	—such as beets and	IS-A	[:, JJ, IN, NNS, CC]	20
+dump sentences\V-108_8_.txt	fruits	soy	, and beans, such as	IS-A	[,, CC, NNS, ,, JJ, IN]	20
+dump sentences\T-1406_1_.txt	legumes	beans	such as lentils and	IS-A	[JJ, IN, NNS, CC]	19
+dump sentences\V-170_0_.txt	vegetables	green	, such as beets and	IS-A	[,, JJ, IN, NNS, CC]	19
+dump sentences\T-1133_1_.txt	greens	kale	such as spinach and	IS-A	[JJ, IN, NN, CC]	19
+dump sentences\T-158_6_.txt	plants	curcumin	such as aspirin and	IS-A	[JJ, IN, NN, CC]	19
+dump sentences\T-992_0_.txt	breast milk	pesticides	, such as pcbs and	IS-A	[,, JJ, IN, NNS, CC]	18
+dump sentences\T-992_0_.txt	milk	pesticides	, such as pcbs and	IS-A	[,, JJ, IN, NNS, CC]	18
+dump sentences\T-1041_1_.txt	phytonutrients	zeaxanthin	such as lutein and	IS-A	[JJ, IN, NN, CC]	18
+dump sentences\V-664_8_.txt	whole grains	barley	, such as oats and	IS-A	[,, JJ, IN, NNS, CC]	18
+dump sentences\A-184_38_.txt	spices	amla	such as garlic and	IS-A	[JJ, IN, NN, CC]	18
+dump sentences\A-370_22_.txt	chronic diseases	cardiovascular disease	such as cancer and	IS-A	[JJ, IN, NN, CC]	18
+dump sentences\V-988_4_.txt	chronic diseases	cardiovascular disease	such as cancer and	IS-A	[JJ, IN, NN, CC]	18
+dump sentences\V-664_8_.txt	grains	barley	, such as oats and	IS-A	[,, JJ, IN, NNS, CC]	18
+dump sentences\A-370_22_.txt	diseases	cardiovascular disease	such as cancer and	IS-A	[JJ, IN, NN, CC]	18
+dump sentences\V-988_4_.txt	diseases	cardiovascular disease	such as cancer and	IS-A	[JJ, IN, NN, CC]	18
+dump sentences\A-184_38_.txt	herbs	garlic	and spices such as	IS-A	[CC, NNS, JJ, IN]	18
+dump sentences\T-120_9_.txt	herbs	cinnamon	and spices such as	IS-A	[CC, NNS, JJ, IN]	18
+dump sentences\A-491_0_.txt	herbs	cinnamon	and spices such as	IS-A	[CC, NNS, JJ, IN]	18
+dump sentences\T-916_3_.txt	plant-based diets	corn	(such as beans and	IS-A	[-LRB-, JJ, IN, NNS, CC]	18
+dump sentences\T-916_3_.txt	diets	corn	(such as beans and	IS-A	[-LRB-, JJ, IN, NNS, CC]	18
+dump sentences\T-585_3_.txt	fish	tuna	such as salmon and	IS-A	[JJ, IN, NN, CC]	18
+dump sentences\T-1495_1_.txt	meats	ham	such as bacon and	IS-A	[JJ, IN, NN, CC]	17
+dump sentences\T-1495_1_.txt	cured meats	ham	such as bacon and	IS-A	[JJ, IN, NN, CC]	17
+dump sentences\T-4_7_.txt	beans	nuts	such as soy, and	IS-A	[JJ, IN, NN, ,, CC]	16
+dump sentences\A-29_23_.txt	plant foods	soy	such as nuts and	IS-A	[JJ, IN, NNS, CC]	16
+dump sentences\A-219_2_.txt	plants	collard greens	such as kale and	IS-A	[JJ, IN, NN, CC]	16
+dump sentences\T-347_0_.txt	greens	broccoli	such as kale and	IS-A	[JJ, IN, NN, CC]	16
+dump sentences\T-305_0_.txt	animal products	dairy	such as meat and	IS-A	[JJ, IN, NN, CC]	16
+dump sentences\T-225_5_.txt	fruit juices	mangosteen	such as noni and	IS-A	[JJ, IN, NNS, CC]	16
+dump sentences\A-435_10_.txt	greens	collards	such as kale and	IS-A	[JJ, IN, NN, CC]	16
+dump sentences\A-219_2_.txt	plants	collard	such as kale and	IS-A	[JJ, IN, NN, CC]	16
+dump sentences\A-278_21_.txt	drugs	viagra	like	IS-A	[IN]	9
+dump sentences\V-437_8_.txt	drugs	ibuprofen	like	IS-A	[IN]	9
+dump sentences\A-243_16_.txt	cruciferous vegetables	broccoli	such as	IS-A	[JJ, IN]	8
+dump sentences\A-1_19_.txt	chronic diseases	coronary heart disease	such as	IS-A	[JJ, IN]	8
+dump sentences\V-128_17_.txt	diseases	colon cancer	like	IS-A	[IN]	8
+dump sentences\V-1054_9_.txt	diseases	breast cancer	like	IS-A	[IN]	7
+dump sentences\A-243_18_.txt	inflammatory bowel diseases	ulcerative colitis	such as	IS-A	[JJ, IN]	7
+dump sentences\V-307_2_.txt	cardiovascular diseases	stroke	such as	IS-A	[JJ, IN]	7
+dump sentences\A-448_13_.txt	cured meats	bacon	such as	IS-A	[JJ, IN]	6
+dump sentences\V-971_12_.txt	baking soda	sodium bicarbonate	is	IS-A	[VBZ]	6
+dump sentences\T-1667_1_.txt	industrial pollutants	pcbs	such as	IS-A	[JJ, IN]	6
+dump sentences\V-1261_13_.txt	cured meats	bacon	like	IS-A	[IN]	5
+dump sentences\A-370_22_.txt	chronic diseases	cancer	such as	IS-A	[JJ, IN]	5
+dump sentences\V-574_11_.txt	drugs	aspirin	like	IS-A	[IN]	5
+dump sentences\A-395_2_.txt	persistent organic pollutants	dioxins	like	IS-A	[IN]	5
+dump sentences\T-1914_27_.txt	greens	kale	such as	IS-A	[JJ, IN]	5
+dump sentences\A-137_9_.txt	lung cancer	genetic	was a	IS-A	[VBD, DT]	4
+dump sentences\T-494_0_.txt	cruciferous vegetables	collard greens	like	IS-A	[IN]	4
+dump sentences\T-1773_3_.txt	cruciferous vegetables	kale	like	IS-A	[IN]	4
+dump sentences\V-300_10_.txt	inflammatory bowel diseases	ulcerative colitis	like	IS-A	[IN]	4
+dump sentences\V-1259_8_.txt	leafy vegetables	kale	like	IS-A	[IN]	4
+dump sentences\V-15_315_.txt	high blood pressure	symptom	is just a	IS-A	[VBZ, RB, DT]	4
+dump sentences\A-52_9_.txt	processed meats	bacon	like	IS-A	[IN]	4
+dump sentences\V-381_14_.txt	breast milk	gold	is the	IS-A	[VBZ, DT]	4
+dump sentences\V-603_21_.txt	high fructose corn syrup	oxidant	acts as a pro-	IS-A	[VBZ, IN, DT]	4
+dump sentences\V-212_29_.txt	diet	plant-based diet	is a	IS-A	[VBZ, DT]	4
+dump sentences\A-433_10_.txt	inflammatory diseases	heart disease	such as	IS-A	[JJ, IN]	4
+dump sentences\V-589_3_.txt	dental plaque	bacteria	is	IS-A	[VBZ]	4
+dump sentences\V-16_227_.txt	drugs	prozac	like	IS-A	[IN]	4
+dump sentences\V-328_6_.txt	amino acids	methionine	like	IS-A	[IN]	4
+dump sentences\V-603_21_.txt	high fructose corn syrup	pro-oxidant	acts as a	IS-A	[VBZ, IN, DT]	4
+dump sentences\V-872_2_.txt	antioxidants	vitamin c	like	IS-A	[IN]	4
+dump sentences\A-114_37_.txt	bacteria	green tea	like	IS-A	[IN]	4
+dump sentences\A-77_12_.txt	fruit juice	fiber	is	IS-A	[VBZ]	4
+dump sentences\A-331_5_.txt	menstrual symptoms	breast pain	such as	IS-A	[JJ, IN]	4
+dump sentences\A-20_0_.txt	nuts	plant foods	are	IS-A	[VBP]	4
+dump sentences\V-748_1_.txt	plant-based diets	anti-inflammatory	are so	IS-A	[VBP, RB]	4
+dump sentences\A-489_4_.txt	drugs	lipitor	like	IS-A	[IN]	4
+dump sentences\A-83_1_.txt	beverages	fruit juice	such as	IS-A	[JJ, IN]	4
+dump sentences\T-1350_7_.txt	beverages	hibiscus tea	such as	IS-A	[JJ, IN]	4
+dump sentences\A-49_28_.txt	artificial sweeteners	splenda	like	IS-A	[IN]	4
+dump sentences\T-437_0_.txt	industrial toxins	dioxins	such as	IS-A	[JJ, IN]	4
+dump sentences\V-233_8_.txt	diet	fish	was	IS-A	[VBD]	3
+dump sentences\V-69_19_.txt	drugs	premarin	like	IS-A	[IN]	3
+dump sentences\A-358_7_.txt	upper respiratory tract infections	common cold	such as the	IS-A	[JJ, IN, DT]	3
+dump sentences\T-752_2_.txt	persistent organic pollutants	pcb	such as	IS-A	[JJ, IN]	3
+dump sentences\T-563_0_.txt	pollutants	ddt	like	IS-A	[IN]	3
+dump sentences\T-1576_12_.txt	plant foods	cooked	like	IS-A	[IN]	3
+dump sentences\T-440_14_.txt	animal products	fish oil	such as	IS-A	[JJ, IN]	3
+dump sentences\A-174_15_.txt	dioxins	dairy	was	IS-A	[VBD]	3
+dump sentences\A-94_16_.txt	garlic	vegetables	stood out for the	IS-A	[VBD, RP, IN, DT]	2
+dump sentences\T-161_0_.txt	vegetables	beets	such as	IS-A	[JJ, IN]	2
+dump sentences\V-737_6_.txt	olive oil	fruit juice	like	IS-A	[IN]	2
+dump sentences\A-230_13_.txt	drugs	fosamax	like	IS-A	[IN]	2
+dump sentences\A-448_24_.txt	diseases	emphysema	like	IS-A	[IN]	2
+dump sentences\V-381_10_.txt	fish	anchovies	like	IS-A	[IN]	2
+dump sentences\A-54_4_.txt	neurotransmitters	dopamine	such as	IS-A	[JJ, IN]	2
+dump sentences\A-143_24_.txt	drugs	allopurinol	like	IS-A	[IN]	2
+dump sentences\V-686_1_.txt	smell	maple syrup	like	IS-A	[IN]	2
+dump sentences\A-147_11_.txt	exercise	medicine	is	IS-A	[VBZ]	2
+dump sentences\A-405_11_.txt	drugs	antibiotic residues	such as	IS-A	[JJ, IN]	2
+dump sentences\V-222_13_.txt	beet juice	nitrate	is	IS-A	[VBZ]	2
+dump sentences\V-207_2_.txt	respiratory tract infections	pneumonia	such as	IS-A	[JJ, IN]	2
+dump sentences\A-395_3_.txt	contaminants	antibiotic residues	such as	IS-A	[JJ, IN]	2
+dump sentences\A-174_13_.txt	arsenic	poultry	was	IS-A	[VBD]	2
+dump sentences\T-123_5_.txt	drugs	valium	like	IS-A	[IN]	2
+dump sentences\A-219_1_.txt	phytonutrients	zeaxanthin	like	IS-A	[IN]	2
+dump sentences\T-1446_17_.txt	phytonutrients	lycopene	like	IS-A	[IN]	2
+dump sentences\A-296_15_.txt	mushrooms	vegetable	were the	IS-A	[VBD, DT]	2
+dump sentences\T-120_9_.txt	spices	cinnamon	such as	IS-A	[JJ, IN]	2
+dump sentences\T-511_0_.txt	brain parasites	worms	such as	IS-A	[JJ, IN]	2
+dump sentences\T-1352_8_.txt	fruit juices	orange juice	such as	IS-A	[JJ, IN]	2
+dump sentences\T-1753_3_.txt	steroid hormones	estrogen	like	IS-A	[IN]	2
+dump sentences\V-796_3_.txt	brain diseases	schizophrenia	such as	IS-A	[JJ, IN]	2
+dump sentences\T-633_1_.txt	herbs	goji berries	such as	IS-A	[JJ, IN]	2
+dump sentences\T-316_2_.txt	food poisoning	alfalfa sprouts	like	IS-A	[IN]	2
+dump sentences\A-160_24_.txt	fish	salmon	like	IS-A	[IN]	2
+dump sentences\A-337_6_.txt	hypertension	diseases	are the	IS-A	[VBP, DT]	2
+dump sentences\A-38_6_.txt	spices	saffron	such as	IS-A	[JJ, IN]	2
+dump sentences\A-46_27_.txt	desserts	cake	like	IS-A	[IN]	2
+dump sentences\T-322_0_.txt	cruciferous vegetables	brussels sprouts	like	IS-A	[IN]	2
+dump sentences\V-297_3_.txt	pesticides	ddt	like	IS-A	[IN]	2
+dump sentences\V-463_10_.txt	lead	dairy	was	IS-A	[VBD]	2
+dump sentences\V-377_0_.txt	fruits	blueberries	such as	IS-A	[JJ, IN]	2
+dump sentences\V-412_18_.txt	chemicals	chlorhexidine	like	IS-A	[IN]	2
+dump sentences\T-1725_12_.txt	cancers	skin cancer	such as	IS-A	[JJ, IN]	2
+dump sentences\A-90_37_.txt	fats	palmitic acid	like	IS-A	[IN]	2
+dump sentences\V-522_4_.txt	abnormalities	microcephaly	like	IS-A	[IN]	2
+dump sentences\V-876_0_.txt	cured meats	bologna	like	IS-A	[IN]	2
+dump sentences\V-377_5_.txt	colon	butyrate	is	IS-A	[VBZ]	2
+dump sentences\V-305_13_.txt	bacteria	c. diff	like	IS-A	[IN]	2
+dump sentences\A-450_14_.txt	industrial carcinogens	dioxins	such as	IS-A	[JJ, IN]	2
+dump sentences\V-820_9_.txt	carrots	roots	are	IS-A	[VBP]	2
+dump sentences\V-841_15_.txt	foodborne pathogens	salmonella	like	IS-A	[IN]	2
+dump sentences\T-751_2_.txt	industrial pollutants	mercury	such as	IS-A	[JJ, IN]	2
+dump sentences\A-350_9_.txt	herbal tea	hibiscus	is	IS-A	[VBZ]	2
+dump sentences\A-75_11_.txt	xenoestrogens	chemicals	are	IS-A	[VBP]	2
+dump sentences\T-1298_3_.txt	myelopathy	vitamin b12	refers to	IS-A	[VBZ, TO]	2
+dump sentences\V-361_19_.txt	sciatica	back pain	is	IS-A	[VBZ]	2
+dump sentences\A-369_8_.txt	cooked meat	phip	like	IS-A	[IN]	2
+dump sentences\T-1424_13_.txt	bt corn	pesticide	is a	IS-A	[VBZ, DT]	2
+dump sentences\A-311_12_.txt	phytonutrients	vitamin c	like	IS-A	[IN]	2
+dump sentences\A-397_7_.txt	inflammatory diseases	asthma	such as	IS-A	[JJ, IN]	2
+dump sentences\A-446_11_.txt	lemonoids	lemonin	like	IS-A	[IN]	2
+dump sentences\T-1204_5_.txt	artificial sweeteners	saccharin	such as	IS-A	[JJ, IN]	2
+dump sentences\V-175_13_.txt	respiratory infections	influenza	like	IS-A	[IN]	2
+dump sentences\A-64_3_.txt	mediterranean diet	diet	is a	IS-A	[VBZ, DT]	2
+dump sentences\V-177_1_.txt	diseases	strokes	like	IS-A	[IN]	2
+dump sentences\A-63_23_.txt	drugs	aspirin	such as	IS-A	[JJ, IN]	2
+dump sentences\A-66_6_.txt	sugar	empty calories	is	IS-A	[VBZ]	2
+dump sentences\T-1699_15_.txt	ct scan	risk	is like the	IS-A	[VBZ, IN, DT]	2
+dump sentences\T-511_0_.txt	superbugs	mrsa	such as	IS-A	[JJ, IN]	2
+dump sentences\V-380_13_.txt	side effects	uterine cancer	such as	IS-A	[JJ, IN]	2
+dump sentences\A-9_12_.txt	diseases	als	like	IS-A	[IN]	2
+dump sentences\T-301_5_.txt	supplements	iron supplements	such as	IS-A	[JJ, IN]	2
+dump sentences\A-151_8_.txt	drug	aspirin	is	IS-A	[VBZ]	2
+dump sentences\A-428_26_.txt	longevity	nuts	was	IS-A	[VBD]	2
+dump sentences\A-362_25_.txt	fruit	cavity	is	IS-A	[VBZ]	2
+dump sentences\A-362_0_.txt	periodontal diseases	gingivitis	like	IS-A	[IN]	2
+dump sentences\T-293_5_.txt	radiation	dental x-rays	such as	IS-A	[JJ, IN]	2
+dump sentences\A-104_25_.txt	plant foods	grains	like	IS-A	[IN]	2
+dump sentences\V-302_16_.txt	leafy vegetables	spinach	like	IS-A	[IN]	2
+dump sentences\T-1288_5_.txt	sweet potatoes	health	are a	IS-A	[VBP, DT]	2
+dump sentences\A-288_13_.txt	acrylamide	chemical	is a	IS-A	[VBZ, DT]	2
+dump sentences\T-1643_0_.txt	oils	coconut oil	like	IS-A	[IN]	2
+dump sentences\V-351_14_.txt	fiber	prebiotic	acts as a	IS-A	[VBZ, IN, DT]	2
+dump sentences\V-101_150_.txt	plant-based diets	low-calorie diets	are	IS-A	[VBP]	2
+dump sentences\A-378_3_.txt	autoimmune diseases	psoriasis	such as	IS-A	[JJ, IN]	2
+dump sentences\T-1783_17_.txt	supplements	vitamin c	such as	IS-A	[JJ, IN]	2
+dump sentences\A-137_11_.txt	smoking	risk	was a	IS-A	[VBD, DT]	2
+dump sentences\V-496_6_.txt	turmeric	plant	is just a	IS-A	[VBZ, RB, DT]	2
+dump sentences\A-293_13_.txt	sleeping pills	valium	like	IS-A	[IN]	2
+dump sentences\V-590_19_.txt	symptoms	nausea	like	IS-A	[IN]	2
+dump sentences\T-1783_13_.txt	supplements	fish oil	is	IS-A	[VBZ]	2
+dump sentences\T-170_0_.txt	autoimmune diseases	lichen planus	 such as 	IS-A	[JJ, IN]	2
+dump sentences\T-1018_3_.txt	legumes	lentils	such as	IS-A	[JJ, IN]	2
+dump sentences\T-884_1_.txt	processed meats	ham	such as	IS-A	[JJ, IN]	2
+dump sentences\V-872_5_.txt	phytonutrients	vitamin c	such as 	IS-A	[JJ, IN]	2
+dump sentences\A-80_30_.txt	meats	veggie burgers	like	IS-A	[IN]	2
+dump sentences\V-578_13_.txt	phytonutrients	lutein	like	IS-A	[IN]	2
+dump sentences\A-360_14_.txt	mushrooms	vitamin d2	is	IS-A	[VBZ]	2
+dump sentences\A-427_13_.txt	iron	pro-oxidant	is a	IS-A	[VBZ, DT]	2
+dump sentences\T-238_5_.txt	industrial pollutants	alkylphenols	such as	IS-A	[JJ, IN]	2
+dump sentences\V-348_24_.txt	saturated fat	cheese	are 	IS-A	[VBP]	2
+dump sentences\T-1535_11_.txt	meat substitutes	veggie chicken	such as	IS-A	[JJ, IN]	2
+dump sentences\T-1400_2_.txt	diseases	diabetes	like	IS-A	[IN]	2
+dump sentences\T-1768_2_.txt	carbohydrates	rice	like	IS-A	[IN]	1
+dump sentences\V-752_5_.txt	nuts	pain	are just such a	IS-A	[VBP, RB, JJ, DT]	1
+dump sentences\T-716_8_.txt	pathogens	salmonella	such as	IS-A	[JJ, IN]	1
+dump sentences\A-139_0_.txt	antioxidants	curcumin	such as	IS-A	[JJ, IN]	1
+dump sentences\V-920_2_.txt	atherosclerosis	hardening of the arteries	is	IS-A	[VBZ]	1
+dump sentences\V-26_17_.txt	living	americans	like	IS-A	[IN]	1
+dump sentences\A-66_4_.txt	sugar	fructose	is	IS-A	[VBZ]	1
+dump sentences\A-345_7_.txt	carbs	sun	such as	IS-A	[JJ, IN]	1
+dump sentences\A-163_6_.txt	obesity	risk	was a	IS-A	[VBD, DT]	1
+dump sentences\V-772_5_.txt	death	smoking	was	IS-A	[VBD]	1
+dump sentences\T-439_0_.txt	chickpeas	legume	are a	IS-A	[VBP, DT]	1
+dump sentences\T-1004_5_.txt	medications	insulin	like	IS-A	[IN]	1
+dump sentences\V-1167_11_.txt	nuts	cashews	like	IS-A	[IN]	1
+dump sentences\T-1114_0_.txt	diseases	hepatitis	such as 	IS-A	[JJ, IN]	1
+dump sentences\V-827_9_.txt	insects	contaminants	are just	IS-A	[VBP, RB]	1
+dump sentences\V-1281_18_.txt	nuts	health	are	IS-A	[VBP]	1
+dump sentences\T-158_6_.txt	plants	aspirin	such as	IS-A	[JJ, IN]	1
+dump sentences\A-384_3_.txt	sweeteners	fibromyalgia	such as	IS-A	[JJ, IN]	1
+dump sentences\T-1911_19_.txt	animal products	dairy	such as	IS-A	[JJ, IN]	1
+dump sentences\V-960_4_.txt	carbohydrates	white	like	IS-A	[IN]	1
+dump sentences\V-1035_3_.txt	organochlorines	chemical	are	IS-A	[VBP]	1
+dump sentences\V-1095_19_.txt	vegetable	bell peppers	is	IS-A	[VBZ]	1
+dump sentences\T-701_0_.txt	estrogen	steroid	is a	IS-A	[VBZ, DT]	1
+dump sentences\T-580_1_.txt	diarrhea	meat	such as	IS-A	[JJ, IN]	1
+dump sentences\T-990_6_.txt	toxins	perfluorochemicals	such as	IS-A	[JJ, IN]	1
+dump sentences\V-993_9_.txt	phthalates	poultry	was	IS-A	[VBD]	1
+dump sentences\T-327_8_.txt	processed foods	hamburgers	such as	IS-A	[JJ, IN]	1
+dump sentences\V-300_4_.txt	short-chain fatty acids	butyrate	like	IS-A	[IN]	1
+dump sentences\T-1892_6_.txt	phytonutrients	lignans	 such as	IS-A	[JJ, IN]	1
+dump sentences\T-538_0_.txt	vegetables	bok choy	are	IS-A	[VBP]	1
+dump sentences\V-255_15_.txt	chocolate	weight gain	is	IS-A	[VBZ]	1
+dump sentences\V-278_6_.txt	adverse effects	erectile dysfunction	such as	IS-A	[JJ, IN]	1
+dump sentences\A-139_10_.txt	vegetables	red onions	such as	IS-A	[JJ, IN]	1
+dump sentences\T-633_0_.txt	fruits	currants	such as	IS-A	[JJ, IN]	1
+dump sentences\T-851_4_.txt	plant foods	cauliflower	like	IS-A	[IN]	1
+dump sentences\T-1347_9_.txt	cooking method	microwaving	is	IS-A	[VBZ]	1
+dump sentences\V-171_4_.txt	plants	beans	like	IS-A	[IN]	1
+dump sentences\A-200_6_.txt	bug	e. coli	like	IS-A	[IN]	1
+dump sentences\V-141_6_.txt	oils	canola	like	IS-A	[IN]	1
+dump sentences\A-146_15_.txt	fiber	potassium	is	IS-A	[VBZ]	1
+dump sentences\A-284_14_.txt	phytonutrients	hesperidin	like	IS-A	[IN]	1
+dump sentences\V-1277_2_.txt	plant foods	flax	like	IS-A	[IN]	1
+dump sentences\V-14_110_.txt	eggs	trans fats	was	IS-A	[VBD]	1
+dump sentences\V-1090_4_.txt	rose hips	fruits	are the	IS-A	[VBP, DT]	1
+dump sentences\V-141_30_.txt	vinegar	product	is a	IS-A	[VBZ, DT]	1
+dump sentences\A-280_4_.txt	pills	viagra	like	IS-A	[IN]	1
+dump sentences\T-990_17_.txt	heavy metals	cadmium	such as	IS-A	[JJ, IN]	1
+dump sentences\V-284_16_.txt	bacteria	campylobacter	like	IS-A	[IN]	1
+dump sentences\T-181_5_.txt	animal products	bacon	such as	IS-A	[JJ, IN]	1
+dump sentences\T-238_8_.txt	toxins	arsenic	like	IS-A	[IN]	1
+dump sentences\V-195_4_.txt	lead	toxin	is a	IS-A	[VBZ, DT]	1
+dump sentences\V-1159_5_.txt	parasites	brain	such as	IS-A	[JJ, IN]	1
+dump sentences\T-1406_0_.txt	peas	split peas	such as	IS-A	[JJ, IN]	1
+dump sentences\V-574_13_.txt	cherries	plant	are a	IS-A	[VBP, DT]	1
+dump sentences\V-54_13_.txt	teens	pizza	is	IS-A	[VBZ]	1
+dump sentences\V-193_23_.txt	roots	sweet potatoes	like	IS-A	[IN]	1
+dump sentences\T-687_8_.txt	animal proteins	dairy	like	IS-A	[IN]	1
+dump sentences\A-153_17_.txt	phytonutrients	resveratrol	like	IS-A	[IN]	1
+dump sentences\T-1090_6_.txt	legumes	lentils	like	IS-A	[IN]	1
+dump sentences\T-511_0_.txt	bugs	salmonella	such as	IS-A	[JJ, IN]	1
+dump sentences\V-375_7_.txt	xenoestrogens	pcbs	like	IS-A	[IN]	1
+dump sentences\V-906_9_.txt	drugs	candy	like	IS-A	[IN]	1
+dump sentences\A-214_30_.txt	inflammatory diseases	osteoarthritis	such as	IS-A	[JJ, IN]	1
+dump sentences\A-108_30_.txt	neurotoxins	blue-green algae	(is	IS-A	[-LRB-, VBZ]	1
+dump sentences\A-357_0_.txt	nanoparticles	titanium dioxide	such as	IS-A	[JJ, IN]	1
+dump sentences\T-1026_0_.txt	legumes	soy	such as	IS-A	[JJ, IN]	1
+dump sentences\V-238_24_.txt	healthy food	cranberries	like	IS-A	[IN]	1
+dump sentences\A-120_6_.txt	side effects	weight gain	such as	IS-A	[JJ, IN]	1
+dump sentences\V-176_3_.txt	colic	pain	is	IS-A	[VBZ]	1
+dump sentences\T-1133_1_.txt	greens	spinach	such as	IS-A	[JJ, IN]	1
+dump sentences\A-438_22_.txt	nausea	ginger	like	IS-A	[IN]	1
+dump sentences\T-1886_3_.txt	side effects	nausea	like	IS-A	[IN]	1
+dump sentences\A-369_23_.txt	women	vegetarian	was	IS-A	[VBD]	1
+dump sentences\T-262_4_.txt	neurotoxins	bmaa	is	IS-A	[VBZ]	1
+dump sentences\T-437_0_.txt	cancers	breast cancer	such as	IS-A	[JJ, IN]	1
+dump sentences\T-981_3_.txt	inflammation	heart disease	such as	IS-A	[JJ, IN]	1
+dump sentences\T-590_9_.txt	dna damage	turmeric	such as	IS-A	[JJ, IN]	1
+dump sentences\T-1347_8_.txt	antioxidants	boiling	is	IS-A	[VBZ]	1
+dump sentences\T-1585_2_.txt	diseases	scurvy	such as	IS-A	[JJ, IN]	1
+dump sentences\T-1814_11_.txt	nettle tea	mineral	is	IS-A	[VBZ]	1
+dump sentences\A-75_10_.txt	xenoestrogens	polychlorinated biphenyls	like	IS-A	[IN]	1
+dump sentences\A-457_10_.txt	vegetables	greens	such as	IS-A	[JJ, IN]	1
+dump sentences\T-1873_0_.txt	poultry	turkey	such as	IS-A	[JJ, IN]	1
+dump sentences\A-421_0_.txt	statins	lipitor	like	IS-A	[IN]	1
+dump sentences\T-1088_2_.txt	fruit	lemons	like	IS-A	[IN]	1
+dump sentences\T-103_3_.txt	carcinogens	phip	such as	IS-A	[JJ, IN]	1
+dump sentences\V-1075_5_.txt	hepatitis e	zoonotic disease	is a	IS-A	[VBZ, DT]	1
+dump sentences\V-1264_1_.txt	smell	urine	like	IS-A	[IN]	1
+dump sentences\V-203_20_.txt	animal foods	protein	like	IS-A	[IN]	1
+dump sentences\V-16_32_.txt	side effects	memory	such as	IS-A	[JJ, IN]	1
+dump sentences\V-866_13_.txt	therapies	antiangiogenesis	like	IS-A	[IN]	1
+dump sentences\A-110_6_.txt	sulforaphane	chemical	is like a	IS-A	[VBZ, IN, DT]	1
+dump sentences\T-1445_0_.txt	plant foods	beans	such as	IS-A	[JJ, IN]	1
+dump sentences\T-1137_0_.txt	lymphoma	cancer	is	IS-A	[VBZ]	1
+dump sentences\V-337_1_.txt	drugs	cholesterol	like	IS-A	[IN]	1
+dump sentences\T-114_8_.txt	drugs	antibiotics	like	IS-A	[IN]	1
+dump sentences\V-824_6_.txt	diseases	autism	such as	IS-A	[JJ, IN]	1
+dump sentences\T-1041_1_.txt	phytonutrients	lutein	such as	IS-A	[JJ, IN]	1
+dump sentences\V-424_20_.txt	cooking	microwaving	was like	IS-A	[VBD, IN]	1
+dump sentences\T-437_8_.txt	animal products	chicken	like	IS-A	[IN]	1
+dump sentences\V-188_12_.txt	prediabetes	disease	is a	IS-A	[VBZ, DT]	1
+dump sentences\T-806_0_.txt	bean	legume	are a	IS-A	[VBP, DT]	1
+dump sentences\T-137_11_.txt	vegetables	apples	like	IS-A	[IN]	1
+dump sentences\T-1345_4_.txt	animal products	chicken	such as	IS-A	[JJ, IN]	1
+dump sentences\A-164_20_.txt	diseases	diabetes	such as	IS-A	[JJ, IN]	1
+dump sentences\A-451_12_.txt	coffee	banana	is like a	IS-A	[VBZ, IN, DT]	1
+dump sentences\T-356_0_.txt	campylobacter	bacteria	is a	IS-A	[VBZ, DT]	1
+dump sentences\T-1129_8_.txt	contaminants	asbestos	such as	IS-A	[JJ, IN]	1
+dump sentences\T-1725_13_.txt	spices	turmeric	such as	IS-A	[JJ, IN]	1
+dump sentences\T-1874_4_.txt	spices	turmeric	like	IS-A	[IN]	1
+dump sentences\V-207_1_.txt	antibodies	iga	like	IS-A	[IN]	1
+dump sentences\A-160_1_.txt	pollutants	hexachlorobenzene	like	IS-A	[IN]	1
+dump sentences\T-633_5_.txt	supplements	triphala	like	IS-A	[IN]	1
+dump sentences\A-421_0_.txt	medications	statins	such as	IS-A	[JJ, IN]	1
+dump sentences\T-115_6_.txt	drugs	prozac	such as	IS-A	[JJ, IN]	1
+dump sentences\A-345_4_.txt	energy	raisins	such as	IS-A	[JJ, IN]	1
+dump sentences\T-573_3_.txt	heavy metals	mercury	such as	IS-A	[JJ, IN]	1
+dump sentences\V-753_68_.txt	processed foods	nuts	such as	IS-A	[JJ, IN]	1
+dump sentences\V-16_280_.txt	toxins	tetrahydroisoquinoline	like	IS-A	[IN]	1
+dump sentences\A-334_2_.txt	spices	nutmeg	such as	IS-A	[JJ, IN]	1
+dump sentences\V-240_1_.txt	hormones	adrenaline	like	IS-A	[IN]	1
+dump sentences\V-1277_24_.txt	minerals	arsenic	like	IS-A	[IN]	1
+dump sentences\T-1653_0_.txt	heavy metals	arsenic	such as	IS-A	[JJ, IN]	1
+dump sentences\T-308_5_.txt	toxins	pcb	such as	IS-A	[JJ, IN]	1
+dump sentences\T-225_5_.txt	fruit juices	noni	such as	IS-A	[JJ, IN]	1
+dump sentences\T-1208_43_.txt	carbs	french fries	such as	IS-A	[JJ, IN]	1
+dump sentences\V-149_6_.txt	tobacco	nightshade	is a	IS-A	[VBZ, DT]	1
+dump sentences\A-338_15_.txt	angiogenesis inhibitors	endostatin	like	IS-A	[IN]	1
+dump sentences\A-292_4_.txt	melatonin	hormone	is a	IS-A	[VBZ, DT]	1
+dump sentences\V-161_9_.txt	fruit	apples	like	IS-A	[IN]	1
+dump sentences\V-1094_10_.txt	phytonutrients	beta-carotene	like	IS-A	[IN]	1
+dump sentences\V-821_9_.txt	diseases	obesity	like	IS-A	[IN]	1
+dump sentences\A-321_5_.txt	cancers	prostate	like	IS-A	[IN]	1
+dump sentences\V-1291_1_.txt	fruits	noni	like	IS-A	[IN]	1
+dump sentences\A-184_38_.txt	spices	garlic	such as	IS-A	[JJ, IN]	1
+dump sentences\A-197_23_.txt	food additives	trans fats	like	IS-A	[IN]	1
+dump sentences\A-289_16_.txt	symptoms	bloating	such as	IS-A	[JJ, IN]	1
+dump sentences\T-305_0_.txt	animal products	meat	such as	IS-A	[JJ, IN]	1
+dump sentences\T-867_11_.txt	fats	nuts	like	IS-A	[IN]	1
+dump sentences\V-813_2_.txt	drugs	tylenol	like	IS-A	[IN]	1
+dump sentences\V-242_24_.txt	beverages	soda	like	IS-A	[IN]	1
+dump sentences\A-56_0_.txt	book	how not to die	like	IS-A	[IN]	1
+dump sentences\V-905_3_.txt	medication	glyburide	like	IS-A	[IN]	1
+dump sentences\A-241_33_.txt	meat	arsenic	is	IS-A	[VBZ]	1
+dump sentences\V-1262_0_.txt	soy foods	tofu	like	IS-A	[IN]	1
+dump sentences\V-117_8_.txt	vitamin e	vitamin	was the	IS-A	[VBD, DT]	1
+dump sentences\A-278_19_.txt	plant foods	nuts	like	IS-A	[IN]	1
+dump sentences\T-4_7_.txt	beans	soy	such as	IS-A	[JJ, IN]	1
+dump sentences\V-637_5_.txt	microparticles	titanium dioxide	such as	IS-A	[JJ, IN]	1
+dump sentences\A-29_23_.txt	plant foods	nuts	such as	IS-A	[JJ, IN]	1
+dump sentences\T-1725_2_.txt	spices	ginger	such as	IS-A	[JJ, IN]	1
+dump sentences\V-827_1_.txt	cheeses	aged	like	IS-A	[IN]	1
+dump sentences\V-505_6_.txt	disease	glaucoma	like	IS-A	[IN]	1
+dump sentences\A-94_16_.txt	raisins	dried fruit	stood out for the	IS-A	[VBD, RP, IN, DT]	1
+dump sentences\T-1133_0_.txt	lutein	carotenoid	is a	IS-A	[VBZ, DT]	1
+dump sentences\T-428_3_.txt	cancers	pancreatic cancer	such as	IS-A	[JJ, IN]	1
+dump sentences\T-1747_6_.txt	therapies	statins	such as	IS-A	[JJ, IN]	1
+dump sentences\T-1911_25_.txt	plant foods	soy	like	IS-A	[IN]	1
+dump sentences\T-1730_0_.txt	spirulina	blue-green algae	is a type of	IS-A	[VBZ, DT, NN, IN]	1
+dump sentences\V-1111_9_.txt	coffee	beans	is	IS-A	[VBZ]	1
+dump sentences\T-1532_8_.txt	animal products	milk	such as	IS-A	[JJ, IN]	1
+dump sentences\A-388_21_.txt	spices	fenugreek	like	IS-A	[IN]	1
+dump sentences\A-245_2_.txt	minerals	magnesium	such as	IS-A	[JJ, IN]	1
+dump sentences\T-1135_1_.txt	phytonutrients	lycopene	such as	IS-A	[JJ, IN]	1
+dump sentences\V-13_53_.txt	plant proteins	beans	like	IS-A	[IN]	1
+dump sentences\T-661_0_.txt	perfluorochemicals	pcb	like	IS-A	[IN]	1
+dump sentences\T-1783_11_.txt	myelopathy	syndrome	is a	IS-A	[VBZ, DT]	1
+dump sentences\V-1236_28_.txt	nuts	pecans	are	IS-A	[VBP]	1
+dump sentences\A-210_32_.txt	osteoarthritis	rose hips	is	IS-A	[VBZ]	1
+dump sentences\T-1525_11_.txt	food additives	polysorbate 80	like	IS-A	[IN]	1
+dump sentences\T-1643_0_.txt	animal foods	dairy	such as	IS-A	[JJ, IN]	1
+dump sentences\A-165_9_.txt	carcinogens	heterocyclic amines	such as	IS-A	[JJ, IN]	1
+dump sentences\T-1730_0_.txt	spirulina	green	is a type of blue-	IS-A	[VBZ, DT, NN, IN]	1
+dump sentences\T-1208_17_.txt	cancer	insulin	is	IS-A	[VBZ]	1
+dump sentences\T-1747_0_.txt	statins	drugs	are a class of	IS-A	[VBP, DT, NN, IN]	1
+dump sentences\A-200_0_.txt	food poisoning	salmonella	like	IS-A	[IN]	1
+dump sentences\A-302_27_.txt	fat	nuts	such as	IS-A	[JJ, IN]	1
+dump sentences\V-1018_2_.txt	aging	disease	is a	IS-A	[VBZ, DT]	1
+dump sentences\V-383_1_.txt	market	antacids	like	IS-A	[IN]	1
+dump sentences\V-300_14_.txt	preservatives	sulfites	like	IS-A	[IN]	1
+dump sentences\T-1293_11_.txt	multiple sclerosis	disease	is a	IS-A	[VBZ, DT]	1
+dump sentences\T-756_0_.txt	flavonoids	antioxidant	are a group of	IS-A	[VBP, DT, NN, IN]	1
+dump sentences\A-435_11_.txt	phytonutrients	rosmarinic acid	like	IS-A	[IN]	1
+dump sentences\V-765_1_.txt	neurotransmitters	serotonin	like	IS-A	[IN]	1
+dump sentences\V-289_1_.txt	symptoms	heartburn	are	IS-A	[VBP]	1
+dump sentences\V-77_2_.txt	brain	fat	is	IS-A	[VBZ]	1
+dump sentences\V-41_14_.txt	biomarkers	psa	such as	IS-A	[JJ, IN]	1
+dump sentences\T-220_2_.txt	antioxidants	beta-carotene	like	IS-A	[IN]	1
+dump sentences\V-729_25_.txt	igf-1	growth hormone	is a	IS-A	[VBZ, DT]	1
+dump sentences\A-438_11_.txt	side effects	nausea	such as	IS-A	[JJ, IN]	1
+dump sentences\A-247_1_.txt	legumes	beans	such as	IS-A	[JJ, IN]	1
+dump sentences\V-993_2_.txt	phthalates	chemical	are [	IS-A	[VBP, -LRB-]	1
+dump sentences\T-884_0_.txt	ham	pork	is	IS-A	[VBZ]	1
+dump sentences\V-875_6_.txt	nitrosamines	carcinogens	are the	IS-A	[VBP, DT]	1
+dump sentences\V-1193_2_.txt	patulin	mycotoxin	is a	IS-A	[VBZ, DT]	1
+dump sentences\V-125_10_.txt	pollutants	mercury	like	IS-A	[IN]	1
+dump sentences\V-579_7_.txt	drugs	penicillin	like	IS-A	[IN]	1
+dump sentences\V-692_2_.txt	supplements	potassium	such as	IS-A	[JJ, IN]	1
+dump sentences\A-420_33_.txt	legumes	peanuts	such as	IS-A	[JJ, IN]	1
+dump sentences\A-260_5_.txt	pills	tums	like	IS-A	[IN]	1
+dump sentences\A-478_6_.txt	arachidonic acid	cholesterol	is like	IS-A	[VBZ, IN]	1
+dump sentences\A-336_4_.txt	cheese	american	such as	IS-A	[JJ, IN]	1
+dump sentences\V-1259_3_.txt	diet	dairy	is	IS-A	[VBZ]	1
+dump sentences\A-219_2_.txt	plants	kale	such as	IS-A	[JJ, IN]	1
+dump sentences\T-1352_0_.txt	fruits	oranges	such as	IS-A	[JJ, IN]	1
+dump sentences\V-833_10_.txt	tomatoes	vegetables	were	IS-A	[VBD]	1
+dump sentences\V-906_1_.txt	drug	lovastatin	like	IS-A	[IN]	1
+dump sentences\V-292_21_.txt	cancers	leukemias	like	IS-A	[IN]	1
+dump sentences\A-484_3_.txt	phthalates	chemical	are	IS-A	[VBP]	1
+dump sentences\T-585_3_.txt	fish	salmon	such as	IS-A	[JJ, IN]	1
+dump sentences\V-151_12_.txt	pollutants	dioxins	such as	IS-A	[JJ, IN]	1
+dump sentences\T-472_6_.txt	sugar	empty calories	is just	IS-A	[VBZ, RB]	1
