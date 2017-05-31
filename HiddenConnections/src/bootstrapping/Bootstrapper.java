@@ -46,7 +46,9 @@ public abstract class Bootstrapper {
 	
 	private static final int numberOfIterations = 10;
 	
-	private Set<String> allTerms = new HashSet<String>();
+
+
+	private static Set<String> allTerms = new HashSet<String>();
 	private static final String pathToAllTerms = "all_terms_and_variants.txt";
 	
 	public static void main(String[] args) {
@@ -57,12 +59,14 @@ public abstract class Bootstrapper {
 		try {
 			isa.bootstrapp();
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		} catch (ParseException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+		
+		//System.out.println(isa.getPatterns().toString());
+		isa.getFound().removeAll(isa.getSeedsOnly());
+		System.out.println(isa.getFound());
 	}
 	
 	
@@ -71,32 +75,15 @@ public abstract class Bootstrapper {
 	}
 	
 	
-	public abstract void filterConnectionsForType(String type);
+	public abstract boolean filterConnectionsForType(String candidate);
 	
 	public void bootstrapp() throws IOException, ParseException{
 		 LuceneSearcher ls = new LuceneSearcher();
 		// the outer lopp for limiting the iterations
 		for(int i= 0; i<=numberOfIterations ;i++){
-			Set<String> patterns = new HashSet<String>();
+			Set<String> local_patterns = new HashSet<String>();
 			Set<Pair<String>> seeds = new HashSet<Pair<String>>();
-			
-			// for loop for the patterns: empty at the beginning
-			for(String pattern: patterns){
-				Set<String> set = ls.doSearch("\"" +pattern + "\"");
-				// angenommen, der pattern würde so gefunden werden
-				if(!set.isEmpty()){
-					for(String path: set){
-						String sentence = Reader.readContentOfFile(path).toLowerCase();
-						seeds.addAll(lookForPatternMatch( sentence, pattern));
-						
-					}
-					
-				}
-				
-			}
-			
-			// rate the instances here, temp solution addAll
-			this.found.addAll(seeds);
+
 			// for loop for the seed instances -> the found contain the seeds as well; will be excluded later
 			for(Pair<String> instance: this.getFound()){
 				
@@ -113,11 +100,18 @@ public abstract class Bootstrapper {
 						 
 						 if(!stdCase.isEmpty()){
 							 for(String match: stdCase){
-								 patterns.add(match);
+								 match = match.trim();
+								 if(!filterConnectionsForType(match)){
+									 local_patterns.add(match);
+								 }
+								
 								} 
 						 } if(!stdCase2.isEmpty()){
 							 for(String match: stdCase2){
-								 patterns.add(match);
+								 match = match.trim();
+								 if(!filterConnectionsForType(match.trim())){
+									 local_patterns.add(match);
+								 }
 								} 
 						 }
 						 
@@ -128,7 +122,26 @@ public abstract class Bootstrapper {
 			}
 			// rate patterns here and add them to this.patterns
 			// temp solution: add all
-			this.patterns.addAll(patterns);
+			this.patterns.addAll(local_patterns);
+			
+			// for loop for the patterns: empty at the beginning
+			//https://stackoverflow.com/questions/11624220/java-adding-elements-to-list-while-iterating-over-it
+			for(String pattern: patterns){
+				Set<String> set = ls.doSearch("\"" +pattern + "\"");
+				// angenommen, der pattern würde so gefunden werden
+				if(!set.isEmpty()){
+					for(String path: set){
+						String sentence = Reader.readContentOfFile(path).toLowerCase();
+						seeds.addAll(lookForPatternMatch( sentence, pattern));
+						
+					}
+					
+				}
+				
+			}
+			
+			// rate the instances here, temp solution addAll
+			this.found.addAll(seeds);
 		}
 	}
 	
@@ -157,23 +170,26 @@ public abstract class Bootstrapper {
 	
 	
 	public Set<Pair<String>> lookForPatternMatch(String sentenceString, String pattern) {
+		pattern = pattern.replaceAll("\\p{Punct}", "").trim();
 		Set<Pair<String>> candidates = new HashSet<Pair<String>>();
 		String temp1 = "";
 	    String temp2 = "";
 		final Matcher matcher = Pattern.compile("\\b" +
 				 Pattern.quote(pattern) + "\\b").matcher(sentenceString);
 		if(matcher.find()){
-		    String before = sentenceString.substring(matcher.end()).trim();
-		    String after = sentenceString.substring(0, matcher.start()).trim();
+		    String before = sentenceString.substring(0, matcher.start()).trim();
+		    String after = sentenceString.substring(matcher.end()).trim();
 		    
 		    List<String> term1_candidate = Arrays.asList(before.split(" "));
-		    List<String> term2_candidate = Arrays.asList(before.split(" "));
+		    List<String> term2_candidate = Arrays.asList(after.split(" "));
 		    
 		    
-		    
-		    for(int i = before.length()-1; i>= 0; i--){
+		    //Exception in thread "main" java.lang.IllegalArgumentException: fromIndex(85) > toIndex(15)
+		    for(int i = term1_candidate.size()-1; i>= 0; i--){
 		    	String t1_candidate = String.join(" ", term1_candidate.subList(i, term1_candidate.size()));
-		    	if(this.allTerms.contains(t1_candidate)){
+
+		    	// has to contain t1_candidate the first time, after that temp1. How?
+		    	if(Bootstrapper.allTerms.contains(t1_candidate) ){
 		    		temp1 = t1_candidate;
 		    		continue;
 		    	} else{
@@ -181,9 +197,9 @@ public abstract class Bootstrapper {
 		    	}
 		    }
 		    
-		    for(int i = 0; i>= after.length()-1; i++){
+		    for(int i = 0; i== term2_candidate.size()-2; i++){
 		    	String t2_candidate = String.join(" ", term2_candidate.subList(i, term2_candidate.size()));
-		    	if(this.allTerms.contains(t2_candidate)){
+		    	if(Bootstrapper.allTerms.contains(t2_candidate)){
 		    		temp2 = t2_candidate;
 		    		continue;
 		    	} else{
@@ -250,6 +266,8 @@ public abstract class Bootstrapper {
 			}
 		}
 	}
+	
+
 
 	
 	public Set<String> getPatterns() {
@@ -297,6 +315,19 @@ public abstract class Bootstrapper {
 
 	public Map<String, Integer> getFrequencyConnections() {
 		return frequencyConnections;
+	}
+	public static String getPathtoallterms() {
+		return pathToAllTerms;
+	}
+
+
+	public static Set<String> getAllTerms() {
+		return allTerms;
+	}
+
+
+	public static void setAllTerms(Set<String> allTerms) {
+		Bootstrapper.allTerms = allTerms;
 	}
 
 
