@@ -83,7 +83,7 @@ public abstract class Bootstrapper {
 		isa.getPatterns().removeAll(seeds);
 		for(String pattern: isa.getPatterns()){
 			int frequency = isa.getFrequencyConnections().get(pattern);
-			Writer.appendLineToFile(pattern + "\t" + frequency, "new_instances_ISA.txt");
+			Writer.appendLineToFile(pattern + "\t" + frequency, "new_patterns_ISA.txt");
 		}
 		
 		/*String str = Reader.readContentOfFile("current_match");
@@ -151,7 +151,7 @@ public abstract class Bootstrapper {
 									 
 									 this.frequencyConnections.put(match, freq + 1);
 								 } else{
-									 this.frequencyConnections.put(match, 0);
+									 this.frequencyConnections.put(match, 1);
 								 }
 							 }
 							} else{
@@ -160,7 +160,7 @@ public abstract class Bootstrapper {
 									 
 									 this.frequencyConnections.put("SPACE", freq + 1);
 								 } else{
-									 this.frequencyConnections.put("SPACE", 0);
+									 this.frequencyConnections.put("SPACE", 1);
 								 }
 							}
 							
