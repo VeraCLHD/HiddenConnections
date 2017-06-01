@@ -301,10 +301,10 @@ public abstract class Bootstrapper {
 			String postag2 = pos2.posTag(pos2.length()-1);
 			
 			// if both are nouns, then it is IS-A; the POS pattern must end with a noun -> then it is an NP
-			//if(postag1.matches("NN|NNS|NNP|NNPS") && postag2.matches("NN|NNS|NNP|NNPS")){
+			if(postag1.matches("NN|NNS|NNP|NNPS") && postag2.matches("NN|NNS|NNP|NNPS")){
 				Pair<String> pair = new Pair<String>(temp1, temp2);
 				candidates.add(pair);
-			//}
+			}
 			
 		}
 		
