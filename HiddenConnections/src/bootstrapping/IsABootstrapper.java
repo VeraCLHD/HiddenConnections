@@ -13,19 +13,18 @@ public class IsABootstrapper extends Bootstrapper {
 	
 
 	@Override
-	public boolean filterConnectionsForType(String candidate) {
+	public boolean filterConnectionsForType(String candidate, List<String> pos) {
 		boolean result = false;
-		if(!candidate.isEmpty() && !candidate.equals(" ")){
-			Sentence sent = new Sentence(candidate);
-			List<String> pos = sent.posTags();
+		
+			
 			String[] splitted = candidate.split(" ");
+			
 			if(RelationsFilter.candidateContainsOtherTerms(candidate)
 				|| RelationsFilter.isIncompleteNP(pos, candidate)
 				|| RelationsFilter.isSingleChar(candidate)
 				|| splitted.length >= 8){
 				
 				result = true;
-		}
 		
 		}
 		
