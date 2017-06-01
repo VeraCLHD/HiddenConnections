@@ -47,7 +47,7 @@ public abstract class Bootstrapper {
 	// no matter if a connection was a seed or is found, all frequencies are stored here
 	private Map<String, Integer> frequencyConnections = new HashMap<String, Integer>();
 	
-	private static final int numberOfIterations = 100;
+	private static final int numberOfIterations = 1000;
 	
 
 
@@ -55,7 +55,6 @@ public abstract class Bootstrapper {
 	private static final String pathToAllTerms = "all_terms_and_variants.txt";
 	
 	public static void main(String[] args) {
-		
 		
 		IsABootstrapper isa = new IsABootstrapper();
 		isa.readAllTerms();
@@ -78,6 +77,13 @@ public abstract class Bootstrapper {
 		
 		for(Pair<String> pair: isa.getFound()){
 			Writer.appendLineToFile(pair.first + "\t" + pair.second, "new_instances_ISA.txt");
+		}
+		
+		Set<String> seeds = isa.getSeedConnections().keySet();
+		isa.getPatterns().removeAll(seeds);
+		for(String pattern: isa.getPatterns()){
+			int frequency = isa.getFrequencyConnections().get(pattern);
+			Writer.appendLineToFile(pattern + "\t" + frequency, "new_instances_ISA.txt");
 		}
 		
 		/*String str = Reader.readContentOfFile("current_match");
