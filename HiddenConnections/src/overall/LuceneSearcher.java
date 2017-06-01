@@ -11,6 +11,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 import org.apache.lucene.analysis.Analyzer;
+import org.apache.lucene.analysis.CharArraySet;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.index.DirectoryReader;
@@ -37,7 +38,7 @@ public class LuceneSearcher {
  /** Simple command-line based search demo. */
   public static void main(String[] args) throws Exception {
 	  LuceneSearcher ls = new LuceneSearcher();
-	  Set<String> set = ls.doSearch("\"" + "uterine-stimulating" +"\"" + "AND" + "\"" + "may have" +"\"" );
+	  Set<String> set = ls.doSearch("\"" + "such as" +"\"" );
 	  for(String path: set){
 		  String str = Reader.readContentOfFile(path);
 		  System.out.println(path);
@@ -55,8 +56,10 @@ public class LuceneSearcher {
 	   
 	   IndexReader reader = DirectoryReader.open(FSDirectory.open(Paths.get(index)));
 	   IndexSearcher searcher = new IndexSearcher(reader);
-	    Analyzer analyzer = new StandardAnalyzer();
-
+	   // this makes an empty set of stoppwords -> we don't want to remove stoppwords
+	   // needed: https://stackoverflow.com/questions/9066347/lucene-multi-word-phrases-as-search-terms
+	    Analyzer analyzer = new StandardAnalyzer(CharArraySet.EMPTY_SET);
+	  
 	   BufferedReader in = null;
 	    if (queries != null) {
 	      in = Files.newBufferedReader(Paths.get(queries), StandardCharsets.UTF_8);

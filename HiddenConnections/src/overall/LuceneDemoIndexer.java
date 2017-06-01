@@ -13,6 +13,7 @@ import java.nio.file.attribute.BasicFileAttributes;
 import java.util.Date;
 
 import org.apache.lucene.analysis.Analyzer;
+import org.apache.lucene.analysis.CharArraySet;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.LongPoint;
 import org.apache.lucene.document.Document;
@@ -41,6 +42,8 @@ import org.apache.lucene.store.FSDirectory;
 014 * See the License for the specific language governing permissions and
 015 * limitations under the License.
 016 */
+
+import edu.stanford.nlp.util.Index;
 
 
 
@@ -76,7 +79,7 @@ public static void indexAllTexts(String docsPath) {
 	     System.out.println("Indexing to directory '" + indexPath + "'...");
 	
 	      Directory dir = FSDirectory.open(Paths.get(indexPath));
-	      Analyzer analyzer = new StandardAnalyzer();
+	      Analyzer analyzer = new StandardAnalyzer(CharArraySet.EMPTY_SET);
 	      IndexWriterConfig iwc = new IndexWriterConfig(analyzer);
 	
 	     if (create) {

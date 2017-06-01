@@ -21,6 +21,8 @@ import java.util.regex.Pattern;
 import org.apache.lucene.queryparser.classic.ParseException;
 
 import edu.stanford.nlp.simple.Sentence;
+import edu.stanford.nlp.tagger.maxent.MaxentTagger;
+import edu.stanford.nlp.util.StringUtils;
 import io.Reader;
 import io.Writer;
 import overall.LuceneSearcher;
@@ -45,7 +47,7 @@ public abstract class Bootstrapper {
 	// no matter if a connection was a seed or is found, all frequencies are stored here
 	private Map<String, Integer> frequencyConnections = new HashMap<String, Integer>();
 	
-	private static final int numberOfIterations = 10;
+	private static final int numberOfIterations = 100;
 	
 
 
@@ -53,10 +55,14 @@ public abstract class Bootstrapper {
 	private static final String pathToAllTerms = "all_terms_and_variants.txt";
 	
 	public static void main(String[] args) {
+		
+		
 		IsABootstrapper isa = new IsABootstrapper();
+		isa.readAllTerms();
+		
 		isa.readAndFilterSeedsFile();
 		isa.getFound().addAll(isa.getSeedsOnly());
-		isa.readAllTerms();
+		
 		try {
 			isa.bootstrapp();
 		} catch (IOException e) {
@@ -66,8 +72,25 @@ public abstract class Bootstrapper {
 		}
 		
 		//System.out.println(isa.getPatterns().toString());
-		//isa.getFound().removeAll(isa.getSeedsOnly());
-		System.out.println(isa.getFound().size());
+		isa.getFound().removeAll(isa.getSeedsOnly());
+		System.out.println(isa.getPatterns());
+			
+		
+		for(Pair<String> pair: isa.getFound()){
+			Writer.appendLineToFile(pair.first + "\t" + pair.second, "new_instances_ISA.txt");
+		}
+		
+		/*String str = Reader.readContentOfFile("current_match");
+		String[] arr = str.split("\t");
+		
+		System.out.println(arr[0].matches("\\W"));
+		System.out.println("such".split(" ").length == 1);
+		System.out.println(arr[0].equals(" "));
+		System.out.println("__"+arr[0].trim()+"__");*/
+
+		//System.out.println(RelationsFilter.candidateContainsOtherTerms("parasites and lipitor"));
+		
+		
 	}
 	
 	
@@ -76,7 +99,7 @@ public abstract class Bootstrapper {
 	}
 	
 	
-	public abstract boolean filterConnectionsForType(String candidate, List<String> pos);
+	public abstract boolean filterConnectionsForType(String candidate, List<String> pos, String[] splitted);
 	
 	public void bootstrapp() throws IOException, ParseException{
 		LuceneSearcher ls = new LuceneSearcher();
@@ -101,19 +124,21 @@ public abstract class Bootstrapper {
 				 for(String path: set){
 					 String sentenceString = Reader.readContentOfFile(path).toLowerCase();
 					 
+					
 					 // pair: first argument is the string without terms, second is the string with terms
 					 Set<String> stdCase = lookForTermMatch(sentenceString, t1, t2);
 					 Set<String> stdCase2 = lookForTermMatch(sentenceString, t2, t1);
 					 
 					 if(!stdCase.isEmpty()){
 						 for(String match: stdCase){
-							 //Writer.overwriteFile(match + "\t" + t1 + "\t" + t2 + "\t" + path, "current_match");
-							 if(!match.isEmpty() && !match.equals(" ") && !match.matches("\\s") && match != null){
+							 Writer.overwriteFile(match + "\t" + t1 + "\t" + t2 + "\t" + path, "current_match");
+							 if(!match.isEmpty() && !match.equals(" ") && !match.matches("\\s") && match != null && !match.matches("\\W")){
 								 match = match.trim();
-							 Sentence sent = new Sentence(match);
-							List<String> pos = sent.posTags();
+								 String[] splitted = match.split(" ");
+								 Sentence sent = new Sentence(sentenceString);
+								 List<String> pos = sent.posTags();
 							
-							 if(!filterConnectionsForType(match, pos)){
+							 if(!filterConnectionsForType(match, pos, splitted)){
 								 local_patterns.add(match);
 								 Integer freq = this.getFrequencyConnections().get(match);
 								 if(freq !=null){
@@ -137,12 +162,12 @@ public abstract class Bootstrapper {
 					 } if(!stdCase2.isEmpty()){
 						 for(String match: stdCase2){
 							
-							 if(!match.isEmpty() && !match.equals(" ") && !match.matches("\\s") && match != null){
+							 if(!match.isEmpty() && !match.equals(" ") && !match.matches("\\s") && match != null && !match.matches("\\W")){
 								 match = match.trim();
-							 Sentence sent = new Sentence(match);
-								List<String> pos = sent.posTags();
-								
-							 if(!filterConnectionsForType(match, pos)){
+								 String[] splitted = match.split(" ");
+								 Sentence sent = new Sentence(sentenceString);
+								 List<String> pos = sent.posTags();
+							 if(!filterConnectionsForType(match, pos, splitted)){
 								 local_patterns.add(match);
 								 Integer frequency = this.getFrequencyConnections().get(match);
 								 if(frequency !=null){
@@ -176,7 +201,7 @@ public abstract class Bootstrapper {
 		// for loop for the patterns: empty at the beginning
 		//https://stackoverflow.com/questions/11624220/java-adding-elements-to-list-while-iterating-over-it
 		for(String pattern: patterns){
-			Set<String> set = ls.doSearch("\"" +pattern + "\"");
+			Set<String> set = ls.doSearch("\"" + pattern +"\"");
 			// angenommen, der pattern würde so gefunden werden
 			if(!set.isEmpty()){
 				for(String path: set){
@@ -270,10 +295,10 @@ public abstract class Bootstrapper {
 			String postag2 = pos2.posTag(pos2.length()-1);
 			
 			// if both are nouns, then it is IS-A; the POS pattern must end with a noun -> then it is an NP
-			if(postag1.matches("NN|NNS|NNP|NNPS") && postag2.matches("NN|NNS|NNP|NNPS")){
+			//if(postag1.matches("NN|NNS|NNP|NNPS") && postag2.matches("NN|NNS|NNP|NNPS")){
 				Pair<String> pair = new Pair<String>(temp1, temp2);
 				candidates.add(pair);
-			}
+			//}
 			
 		}
 		

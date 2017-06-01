@@ -4,6 +4,9 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Set;
+import java.util.regex.Pattern;
+
+import org.codehaus.plexus.util.StringUtils;
 
 
 
@@ -28,15 +31,26 @@ public class RelationsFilter {
 		return result;
 	}
 	
-	
+	// if candidate starts with or ends with or contains another term somewhere in between, then it shouldn't be taken into account.
 	public static boolean candidateContainsOtherTerms(String candidate){
+		boolean result = false;
 		Set<String> set = Bootstrapper.getAllTerms();
+		for(String term: set){
+			if(candidate.startsWith(term) || candidate.endsWith(term) 
+					|| candidate.matches("(\\w+\\b)*" + Pattern.quote(term) + "(\\w+\\b)*")){
+				result = true;
+				break;
+			}
+		}
 		
-		List<String> list = new ArrayList<String>(set);
-	    
-	    boolean match = list.stream().anyMatch(s -> candidate.contains(s));
+		/*int index = StringUtils.indexOfAny(candidate, set.toArray(new String[set.size()]));
+	    if(index !=-1){
+	    	result = true;
+		
+	    }*/
+		
 
-		return match;
+		return result;
 	}
 	
 	// When the word is health and the match is healthy, the connection starts with y"
