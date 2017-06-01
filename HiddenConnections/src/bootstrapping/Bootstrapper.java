@@ -54,7 +54,7 @@ public abstract class Bootstrapper {
 	
 	public static void main(String[] args) {
 		IsABootstrapper isa = new IsABootstrapper();
-		isa.readSeedsFile();
+		isa.readAndFilterSeedsFile();
 		isa.getFound().addAll(isa.getSeedsOnly());
 		isa.readAllTerms();
 		try {
@@ -281,43 +281,7 @@ public abstract class Bootstrapper {
 	}
 	
 	
-	public void readSeedsFile(){
-		List<String> lines = Reader.readLinesList(this.pathToSeeds);
-		for(String line: lines){
-			if(!line.isEmpty() && !line.equals(" ")){
-				String[] splitted = line.split("\t");
-				if(splitted.length ==7){
-				
-					String term1 = splitted[1];
-					String term2 = splitted[2];
-					String connection = splitted[3];
-					
-					Sentence pos1 = new Sentence(term1);
-					Sentence pos2 = new Sentence(term2);
-					
-					String postag1 = pos1.posTag(pos1.length()-1);
-					String postag2 = pos2.posTag(pos2.length()-1);
-					
-					// if both are nouns, then it is IS-A; the POS pattern must end with a noun -> then it is an NP
-					if(postag1.matches("NN|NNS|NNP|NNPS") && postag2.matches("NN|NNS|NNP|NNPS")){
-						Pair<String> pair = new Pair<String>(term1, term2);
-						this.getSeedsOnly().add(pair);
-						List<String> pos = Arrays.asList(splitted[5]);
-						this.getSeedConnections().put(connection, pos);
-						Integer frequency = this.frequencyConnections.get(splitted[3]);
-						if( frequency == null){
-							this.frequencyConnections.put(splitted[3], Integer.parseInt(splitted[6]));
-						} else{
-							this.frequencyConnections.put(splitted[3], frequency + Integer.parseInt(splitted[6]));
-						}
-					}
-				    
-
-					
-				}
-			}
-		}
-	}
+	public abstract void readAndFilterSeedsFile();
 	
 	public void readAllTerms(){
 		List<String> lines = Reader.readLinesList(Bootstrapper.pathToAllTerms);
