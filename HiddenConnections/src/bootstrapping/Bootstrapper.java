@@ -180,7 +180,7 @@ public abstract class Bootstrapper {
 									 
 									 this.frequencyConnections.put(match, frequency + 1);
 								 } else{
-									 this.frequencyConnections.put(match, 0);
+									 this.frequencyConnections.put(match, 1);
 								 }
 							 }
 								} else{
@@ -189,7 +189,7 @@ public abstract class Bootstrapper {
 										 
 										 this.frequencyConnections.put("SPACE", freq + 1);
 									 } else{
-										 this.frequencyConnections.put("SPACE", 0);
+										 this.frequencyConnections.put("SPACE", 1);
 									 }
 								}
 							} 
