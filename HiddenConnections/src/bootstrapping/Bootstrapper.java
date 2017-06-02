@@ -60,7 +60,7 @@ public abstract class Bootstrapper {
 	
 	
 	
-	private static final int numberOfIterations = 2;
+	private static final int numberOfIterations = 100;
 
 	private static Set<String> allTerms = new HashSet<String>();
 
