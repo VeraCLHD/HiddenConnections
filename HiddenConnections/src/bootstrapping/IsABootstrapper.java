@@ -17,12 +17,12 @@ public class IsABootstrapper extends Bootstrapper {
 	
 
 	@Override
-	public boolean filterConnectionsForType(String candidate, List<String> pos, String[] splitted, Bootstrapper bs) {
+	public boolean filterConnectionsForType(String candidate, List<String> pos, String[] splitted) {
 		boolean result = false;
 		
 			
-			if(RelationsFilter.isInAnotherRelation(candidate, pos.toString(), bs)
-				|| RelationsFilter.candidateContainsOtherTerms(candidate)
+			if(RelationsFilter.isInAnotherRelation(candidate, pos.toString())||
+				 RelationsFilter.candidateContainsOtherTerms(candidate)
 				|| RelationsFilter.isIncompleteNP(pos)
 				|| RelationsFilter.isSingleChar(candidate)
 				|| splitted.length >= 8){
@@ -59,7 +59,7 @@ public class IsABootstrapper extends Bootstrapper {
 						this.getSeedsOnly().add(pair);
 						String pos = splitted[5];
 						
-						this.getSeedConnections().put(connection, pos);
+						Bootstrapper.getSeedConnections().put(connection, pos);
 						// handle the frequencies of POS patterns
 						Integer posFrequency = this.getPosFrequencyConnections().get(pos);
 						if(posFrequency !=null){
@@ -68,12 +68,12 @@ public class IsABootstrapper extends Bootstrapper {
 							this.getPosFrequencyConnections().put(pos, 1);
 						}
 						
-						String posPattern = this.getSeedConnections().get(splitted[3]);
+						String posPattern = Bootstrapper.getSeedConnections().get(splitted[3]);
 						if( posPattern != null){
-							this.getSeedConnections().put(splitted[3], posPattern);
+							Bootstrapper.getSeedConnections().put(splitted[3], posPattern);
 							this.getAllConnections().put(splitted[3], posPattern);
 						} else{
-							this.getSeedConnections().put(splitted[3], "");
+							Bootstrapper.getSeedConnections().put(splitted[3], "");
 							this.getAllConnections().put(splitted[3], "");
 						}
 					}

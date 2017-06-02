@@ -39,7 +39,7 @@ public abstract class Bootstrapper {
 
 	// key: plain strings that come from the seeds; value: POS patterns as list
 	// example: such as: [JJ, NN]
-	private Map<String, String> seedConnections = new HashMap<String, String>();
+	private static Map<String, String> seedConnections = new HashMap<String, String>();
 	
 	// key: plain strings that come from the seeds; value: POS patterns as list
 	// example: such as: [JJ, NN]
@@ -91,7 +91,7 @@ public abstract class Bootstrapper {
 			Writer.appendLineToFile(pair.first + "\t" + pair.second, "new_instances_ISA.txt");
 		}
 		
-		Set<String> seeds = isa.getSeedConnections().keySet();
+		//Set<String> seeds = isa.getSeedConnections().keySet();
 		//isa.getPatterns().removeAll(seeds);
 		
 		
@@ -110,7 +110,7 @@ public abstract class Bootstrapper {
 	}
 	
 	
-	public abstract boolean filterConnectionsForType(String candidate, List<String> pos, String[] splitted, Bootstrapper bs);
+	public abstract boolean filterConnectionsForType(String candidate, List<String> pos, String[] splitted);
 	
 	public void bootstrapp() throws IOException, ParseException{
 		LuceneSearcher ls = new LuceneSearcher();
@@ -211,7 +211,7 @@ public abstract class Bootstrapper {
 				 List<String> pos = sent.posTags();
 				 String posString = pos.toString();
 				 
-			 if(!filterConnectionsForType(match, pos, splitted, this)){
+			 if(!filterConnectionsForType(match, pos, splitted)){
 				 
 				 local_patterns.add(match);
 				 
@@ -356,7 +356,7 @@ public abstract class Bootstrapper {
 	public static int getNumberofiterations() {
 		return numberOfIterations;
 	}
-	public Map<String, String> getSeedConnections() {
+	public static Map<String, String> getSeedConnections() {
 		return seedConnections;
 	}
 	public Set<Pair<String>> getSeedsOnly() {

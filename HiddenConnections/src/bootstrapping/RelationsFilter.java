@@ -75,11 +75,11 @@ public class RelationsFilter {
 		 * @param match
 		 * @return
 		 */
-		public static boolean isInAnotherRelation(String match, String pos, Bootstrapper bs){
+		public static boolean isInAnotherRelation(String match, String pos){
 			
 			boolean result = false;
 			Set<String> set = RelationsFilter.getComplementaryConnections();
-			Set<String> set2 = bs.getSeedConnections().keySet();
+			Set<String> set2 = Bootstrapper.getSeedConnections().keySet();
 			    if(set.contains(pos) && !set2.contains(match)){
 			    	result = true;
 
