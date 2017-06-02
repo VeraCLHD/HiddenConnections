@@ -80,7 +80,7 @@ public abstract class Bootstrapper {
 		for(String seed_connection: Bootstrapper.getSeedConnections().keySet()){
 			Writer.appendLineToFile(seed_connection, "seed_connections.txt");
 		}
-		/*RelationsFilter.readComplementaryFile(isa.getPathToComplementarySeeds());
+		RelationsFilter.readComplementaryFile(isa.getPathToComplementarySeeds());
 		isa.getFound().addAll(isa.getSeedsOnly());
 		
 		try {
@@ -110,7 +110,7 @@ public abstract class Bootstrapper {
 			// The pos pattern of following sequence was that frequent:
 			
 			Writer.appendLineToFile(pattern + "\t" + frequency, "new_patterns_ISA.txt");	
-		}*/
+		}
 		
 
 	}
@@ -196,7 +196,8 @@ public abstract class Bootstrapper {
 			if(!set.isEmpty()){
 				for(String path: set){
 					String sentence = Reader.readContentOfFile(path).toLowerCase();
-					Set<Pair<String>> instances = lookForPatternMatch( sentence, pattern);
+					//Sentence sent = new Sentence(sentence);
+					Set<Pair<String>> instances = lookForPatternMatch(sentence, pattern);
 			
 					seeds.addAll(instances);
 					
@@ -284,18 +285,34 @@ public abstract class Bootstrapper {
 		    String before = sentenceString.substring(0, matcher.start()).trim();
 		    String after = sentenceString.substring(matcher.end()).trim();
 		    
-		    List<String> term1_candidate = Arrays.asList(before.split(" "));
-		    List<String> term2_candidate = Arrays.asList(after.split(" "));
+		    List<String> term1_candidate = new ArrayList<String>();
+		    List<String> term2_candidate = new ArrayList<String>();
 		    
+		    if(!before.isEmpty()){
+		    	Sentence beforeSentence = new Sentence(before);
+		    	term1_candidate = beforeSentence.words();
+		    } else{
+		    	term1_candidate = Arrays.asList(before.split(" "));
+		    }
 		    
-		    
-		    //Exception in thread "main" java.lang.IllegalArgumentException: fromIndex(85) > toIndex(15)
+		    if(!after.isEmpty()){
+		    	Sentence afterSentence = new Sentence(after);
+				 term2_candidate = afterSentence.words();
+		    } else{
+		    	term2_candidate = Arrays.asList(after.split(" "));
+		    }
+
+		    //
 		    for(int i = term1_candidate.size()-1; i>= 0; i--){
 		    	String t1_candidate = String.join(" ", term1_candidate.subList(i, term1_candidate.size()));
-
+		    	String t1_candidateWP = t1_candidate.replaceAll("\\p{P}", "");
 		    	// has to contain t1_candidate the first time, after that temp1. How?
 		    	if(Bootstrapper.allTerms.contains(t1_candidate) ){
 		    		temp1 = t1_candidate;
+		    		continue;
+		    	}// in the sentence string, punctiation is directly in the word 
+		    	else if(Bootstrapper.allTerms.contains(t1_candidateWP)){
+		    		temp1 = t1_candidateWP;
 		    		continue;
 		    	} else{
 		    		break;
@@ -304,16 +321,20 @@ public abstract class Bootstrapper {
 		    
 		    for(int i = 1; i<= term2_candidate.size(); i++){
 		    	String t2_candidate = String.join(" ", term2_candidate.subList(0, i));
+		    	String t2_candidateWP = t2_candidate.replaceAll("\\p{P}", "");
 		    	if(Bootstrapper.allTerms.contains(t2_candidate)){
 		    		temp2 = t2_candidate;
 		    		continue;
-		    	} else{
+		    	}
+		    	else if(Bootstrapper.allTerms.contains(t2_candidateWP)){
+		    		temp2 = t2_candidateWP;
+		    		continue;
+		    	}else{
 		    		break;
 		    	}
 		    }
 		
 		
-		}
 		
 		
 		
@@ -332,7 +353,7 @@ public abstract class Bootstrapper {
 			}
 			
 		}
-		
+	}
 		return candidates;
 	}
 	
@@ -348,9 +369,6 @@ public abstract class Bootstrapper {
 			}
 		}
 	}
-	
-
-
 	
 	public Set<String> getPatterns() {
 		return patterns;
