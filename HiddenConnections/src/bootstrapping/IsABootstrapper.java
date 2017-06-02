@@ -21,11 +21,11 @@ public class IsABootstrapper extends Bootstrapper {
 		boolean result = false;
 		
 			
-			if(RelationsFilter.candidateContainsOtherTerms(candidate)
+			if(RelationsFilter.isInAnotherRelation(candidate, pos.toString(), bs)
+				|| RelationsFilter.candidateContainsOtherTerms(candidate)
 				|| RelationsFilter.isIncompleteNP(pos)
 				|| RelationsFilter.isSingleChar(candidate)
-				|| splitted.length >= 8
-				|| RelationsFilter.isInAnotherRelation(candidate, pos.toString(), bs)){
+				|| splitted.length >= 8){
 					 
 				
 				result = true;

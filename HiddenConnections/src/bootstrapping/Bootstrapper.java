@@ -60,7 +60,7 @@ public abstract class Bootstrapper {
 	
 	
 	
-	private static final int numberOfIterations = 1000;
+	private static final int numberOfIterations = 2;
 
 	private static Set<String> allTerms = new HashSet<String>();
 
@@ -115,7 +115,7 @@ public abstract class Bootstrapper {
 	public void bootstrapp() throws IOException, ParseException{
 		LuceneSearcher ls = new LuceneSearcher();
 		// the outer lopp for limiting the iterations
-		for(int i= 0; i<=numberOfIterations ;i++){
+		for(int i= 0; i<numberOfIterations ;i++){
 			extractNewInstancesAndPatterns(ls);
 			System.out.println("iteration " + String.valueOf(i));
 		}
@@ -174,7 +174,7 @@ public abstract class Bootstrapper {
 			}
 		}
 		
-		this.patterns.addAll(local_patterns);
+		
 		// for loop for the patterns: empty at the beginning
 		//https://stackoverflow.com/questions/11624220/java-adding-elements-to-list-while-iterating-over-it
 		for(String pattern: patterns){
