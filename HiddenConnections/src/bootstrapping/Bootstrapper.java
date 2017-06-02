@@ -66,12 +66,21 @@ public abstract class Bootstrapper {
 
 	
 	public static void main(String[] args) {
+		Writer.overwriteFile("", "seeds.txt");
+		Writer.appendLineToFile("", "seed_connections.txt");
 		
 		IsABootstrapper isa = new IsABootstrapper();
 		isa.readAllTerms();
 		
 		isa.readAndFilterSeedsFile();
-		RelationsFilter.readComplementaryFile(isa.getPathToComplementarySeeds());
+		for(Pair<String> seeds: isa.getSeedsOnly()){
+			Writer.appendLineToFile(seeds.first + "\t" + seeds.second, "seeds.txt");
+		}
+		
+		for(String seed_connection: Bootstrapper.getSeedConnections().keySet()){
+			Writer.appendLineToFile(seed_connection, "seed_connections.txt");
+		}
+		/*RelationsFilter.readComplementaryFile(isa.getPathToComplementarySeeds());
 		isa.getFound().addAll(isa.getSeedsOnly());
 		
 		try {
@@ -101,7 +110,9 @@ public abstract class Bootstrapper {
 			// The pos pattern of following sequence was that frequent:
 			
 			Writer.appendLineToFile(pattern + "\t" + frequency, "new_patterns_ISA.txt");	
-		}
+		}*/
+		
+
 	}
 	
 	
