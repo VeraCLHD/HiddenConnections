@@ -32,9 +32,18 @@ import overall.Pair;
 public abstract class Bootstrapper {
 	private String type;
 	private String pathToSeeds;
+	private String pathToComplementarySeeds;
+	
+	private static final String pathToAllTerms = "all_terms_and_variants.txt";
+
 	// key: plain strings that come from the seeds; value: POS patterns as list
 	// example: such as: [JJ, NN]
-	private Map<String, List<String>> seedConnections = new HashMap<String, List<String>>();
+	private Map<String, String> seedConnections = new HashMap<String, String>();
+	
+	// key: plain strings that come from the seeds; value: POS patterns as list
+	// example: such as: [JJ, NN]
+	private Map<String, String> allConnections = new HashMap<String, String>();
+	
 	// the seed pairs: (caffeine, migrane pain), (wine, blood pressure)
 	private Set<Pair<String>> seedsOnly = new HashSet<Pair<String>>();
 	
@@ -45,14 +54,15 @@ public abstract class Bootstrapper {
 	private Set<Pair<String>> found = new HashSet<Pair<String>>();
 	
 	// no matter if a connection was a seed or is found, all frequencies are stored here
-	private Map<String, Integer> frequencyConnections = new HashMap<String, Integer>();
+	// same for the list of pos tags of each pattern: key: list of pos to String, value: frequency
+	private Map<String, Integer> posFrequencyConnections = new HashMap<String, Integer>();
+	
+	
 	
 	private static final int numberOfIterations = 1000;
-	
-
 
 	private static Set<String> allTerms = new HashSet<String>();
-	private static final String pathToAllTerms = "all_terms_and_variants.txt";
+
 	
 	public static void main(String[] args) {
 		
@@ -60,6 +70,7 @@ public abstract class Bootstrapper {
 		isa.readAllTerms();
 		
 		isa.readAndFilterSeedsFile();
+		RelationsFilter.readComplementaryFile(isa.getPathToComplementarySeeds());
 		isa.getFound().addAll(isa.getSeedsOnly());
 		
 		try {
@@ -81,20 +92,20 @@ public abstract class Bootstrapper {
 		
 		Set<String> seeds = isa.getSeedConnections().keySet();
 		isa.getPatterns().removeAll(seeds);
+		
+		
 		for(String pattern: isa.getPatterns()){
-			int frequency = isa.getFrequencyConnections().get(pattern);
+			String posPattern = isa.getAllConnections().get(pattern);
+			int frequency = isa.getPosFrequencyConnections().get(posPattern);
+			// The pos pattern of following sequence was that frequent:
+			
 			Writer.appendLineToFile(pattern + "\t" + frequency, "new_patterns_ISA.txt");
+	
+
+			
 		}
 		
-		/*String str = Reader.readContentOfFile("current_match");
-		String[] arr = str.split("\t");
 		
-		System.out.println(arr[0].matches("\\W"));
-		System.out.println("such".split(" ").length == 1);
-		System.out.println(arr[0].equals(" "));
-		System.out.println("__"+arr[0].trim()+"__");*/
-
-		//System.out.println(RelationsFilter.candidateContainsOtherTerms("parasites and lipitor"));
 		
 		
 	}
@@ -129,70 +140,22 @@ public abstract class Bootstrapper {
 			 if(!set.isEmpty()){
 				 for(String path: set){
 					 String sentenceString = Reader.readContentOfFile(path).toLowerCase();
-					 
-					
-					 // pair: first argument is the string without terms, second is the string with terms
+
 					 Set<String> stdCase = lookForTermMatch(sentenceString, t1, t2);
 					 Set<String> stdCase2 = lookForTermMatch(sentenceString, t2, t1);
 					 
 					 if(!stdCase.isEmpty()){
 						 for(String match: stdCase){
-							 Writer.overwriteFile(match + "\t" + t1 + "\t" + t2 + "\t" + path, "current_match");
-							 if(!match.isEmpty() && !match.equals(" ") && !match.matches("\\s") && match != null && !match.matches("\\W")){
-								 match = match.trim();
-								 String[] splitted = match.split(" ");
-								 Sentence sent = new Sentence(sentenceString);
-								 List<String> pos = sent.posTags();
 							
-							 if(!filterConnectionsForType(match, pos, splitted)){
-								 local_patterns.add(match);
-								 Integer freq = this.getFrequencyConnections().get(match);
-								 if(freq !=null){
-									 
-									 this.frequencyConnections.put(match, freq + 1);
-								 } else{
-									 this.frequencyConnections.put(match, 1);
-								 }
-							 }
-							} else{
-								Integer freq = this.getFrequencyConnections().get("SPACE");
-								 if(freq !=null){
-									 
-									 this.frequencyConnections.put("SPACE", freq + 1);
-								 } else{
-									 this.frequencyConnections.put("SPACE", 1);
-								 }
-							}
-							
-							} 
+							 handleOneSentence(local_patterns, sentenceString, match); 
+						 }
+						
 					 } if(!stdCase2.isEmpty()){
-						 for(String match: stdCase2){
-							
-							 if(!match.isEmpty() && !match.equals(" ") && !match.matches("\\s") && match != null && !match.matches("\\W")){
-								 match = match.trim();
-								 String[] splitted = match.split(" ");
-								 Sentence sent = new Sentence(sentenceString);
-								 List<String> pos = sent.posTags();
-							 if(!filterConnectionsForType(match, pos, splitted)){
-								 local_patterns.add(match);
-								 Integer frequency = this.getFrequencyConnections().get(match);
-								 if(frequency !=null){
-									 
-									 this.frequencyConnections.put(match, frequency + 1);
-								 } else{
-									 this.frequencyConnections.put(match, 1);
-								 }
-							 }
-								} else{
-									Integer freq = this.getFrequencyConnections().get("SPACE");
-									 if(freq !=null){
-										 
-										 this.frequencyConnections.put("SPACE", freq + 1);
-									 } else{
-										 this.frequencyConnections.put("SPACE", 1);
-									 }
-								}
-							} 
+						 for(String match: stdCase){
+							 
+							 handleOneSentence(local_patterns, sentenceString, match); 
+						 }
+						
 					 }
 					 
 						
@@ -201,27 +164,72 @@ public abstract class Bootstrapper {
 			 }
 		}
 		// rate patterns here and add them to this.patterns
-		// temp solution: add all
+		// a place holder for how to rate the patterns
 		this.patterns.addAll(local_patterns);
 		
 		// for loop for the patterns: empty at the beginning
 		//https://stackoverflow.com/questions/11624220/java-adding-elements-to-list-while-iterating-over-it
 		for(String pattern: patterns){
+			// a positive match is defined as a match of a viable instance. Like could be 1000 in the texts but only 40 produce a viable instance.
+			
 			Set<String> set = ls.doSearch("\"" + pattern +"\"");
-			// angenommen, der pattern würde so gefunden werden
+
 			if(!set.isEmpty()){
 				for(String path: set){
 					String sentence = Reader.readContentOfFile(path).toLowerCase();
-					seeds.addAll(lookForPatternMatch( sentence, pattern));
+					Set<Pair<String>> instances = lookForPatternMatch( sentence, pattern);
+			
+					seeds.addAll(instances);
 					
 				}
 				
 			}
 			
+			
+			
 		}
 		
-		// rate the instances here, temp solution addAll
+
+		// a place holder for how to rate the instances
 		this.found.addAll(seeds);
+	}
+
+
+	private void handleOneSentence(Set<String> local_patterns, String sentenceString, String match) {
+			
+			 if(!match.isEmpty() && !match.equals(" ") && !match.matches("\\s") && match != null && !match.matches("\\W")){
+				 match = match.trim();
+				 String[] splitted = match.split(" ");
+				 // the pos tags of the candidate are being checked here, not of the sentence!
+				 Sentence sent = new Sentence(match);
+				 List<String> pos = sent.posTags();
+				 String posString = pos.toString();
+				 
+			 if(!filterConnectionsForType(match, pos, splitted)){
+				 
+				 local_patterns.add(match);
+				 
+				 Integer posFrequency = this.getPosFrequencyConnections().get(posString);
+				 if(posFrequency !=null){
+					 
+					 this.getPosFrequencyConnections().put(posString, posFrequency + 1);
+					 this.getAllConnections().put(match, posString);
+				 } else{
+					 this.getPosFrequencyConnections().put(posString, 1);
+					 this.getAllConnections().put(match, posString);
+				 }
+			 }
+			} else{
+				Integer freq = this.getPosFrequencyConnections().get("SPACE");
+				 if(freq !=null){
+					 
+					 this.getPosFrequencyConnections().put("SPACE", freq + 1);
+				 } else{
+					 this.getPosFrequencyConnections().put("SPACE", 1);
+				 }
+			}
+			
+			
 	}
 	
 	
@@ -255,7 +263,7 @@ public abstract class Bootstrapper {
 	    String temp2 = "";
 		final Matcher matcher = Pattern.compile("\\b" +
 				 Pattern.quote(pattern) + "\\b").matcher(sentenceString);
-		if(matcher.find()){
+		while(matcher.find()){
 		    String before = sentenceString.substring(0, matcher.start()).trim();
 		    String after = sentenceString.substring(matcher.end()).trim();
 		    
@@ -293,7 +301,7 @@ public abstract class Bootstrapper {
 		
 		
 		if(!temp1.isEmpty() && !temp2.isEmpty()){
-			// both must be nouns or end with a noun -> otherwise no IS-A
+			// both must be nouns or end with a noun -> otherwise no IS-A, PART-OF...
 			Sentence pos1 = new Sentence(temp1);
 			Sentence pos2 = new Sentence(temp2);
 			
@@ -342,7 +350,7 @@ public abstract class Bootstrapper {
 	public static int getNumberofiterations() {
 		return numberOfIterations;
 	}
-	public Map<String, List<String>> getSeedConnections() {
+	public Map<String, String> getSeedConnections() {
 		return seedConnections;
 	}
 	public Set<Pair<String>> getSeedsOnly() {
@@ -369,10 +377,6 @@ public abstract class Bootstrapper {
 		this.pathToSeeds = pathToSeeds;
 	}
 
-
-	public Map<String, Integer> getFrequencyConnections() {
-		return frequencyConnections;
-	}
 	public static String getPathtoallterms() {
 		return pathToAllTerms;
 	}
@@ -388,5 +392,40 @@ public abstract class Bootstrapper {
 	}
 
 
+	public Map<String, Integer> getPosFrequencyConnections() {
+		return posFrequencyConnections;
+	}
+
+
+	public void setPosFrequencyConnections(Map<String, Integer> posFrequencyConnections) {
+		this.posFrequencyConnections = posFrequencyConnections;
+	}
+
+
+	public Map<String, String> getAllConnections() {
+		return allConnections;
+	}
+
+
+	public void setAllConnections(Map<String, String> allConnections) {
+		this.allConnections = allConnections;
+	}
+
+
+	public String getPathToComplementarySeeds() {
+		return pathToComplementarySeeds;
+	}
+
+
+	public  void setPathToComplementarySeeds(String pathToComplementarySeeds) {
+		this.pathToComplementarySeeds = pathToComplementarySeeds;
+	}
+	
+	
+
+	
+
+	
+	
 
 }

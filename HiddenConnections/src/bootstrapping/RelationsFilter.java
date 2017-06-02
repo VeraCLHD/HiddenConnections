@@ -2,22 +2,28 @@ package bootstrapping;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
+import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 import org.codehaus.plexus.util.StringUtils;
 
+import io.Reader;
+
 
 
 public class RelationsFilter {
+	
+	private static Set<String> complementaryConnections = new HashSet<String>();
+	
 	/**
 	 * A method that checks for incomplete nout phrases - if the first or the last elements of a candidate are nouns, the noun phrase is incomplete
 	 * example: disease study about heart disease. Candidate: study about heart -> makes no sense.
-	 * @param candidate
 	 * @return
 	 */
-	public static boolean isIncompleteNP(List<String> pos, String candidate){
+	public static boolean isIncompleteNP(List<String> pos){
 		
 		boolean result = false;
 		
@@ -63,10 +69,47 @@ public class RelationsFilter {
 			
 			return result;
 		}
+		
+		/**
+		 * If a connection is in the set of complementary connections, that is: in PART-OF, AND etc., it shouldn't be considered for a certain relation.
+		 * @param match
+		 * @return
+		 */
+		public static boolean isInAnotherRelation(String match){
+			
+			boolean result = false;
+			
+			    if(RelationsFilter.getComplementaryConnections().contains(match)){
+			    	result = true;
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+			    }
+			
+			return result;
+		}
+
+		public static void readComplementaryFile(String path){
+			List<String> lines = Reader.readLinesList(path);
+			for(String line: lines){
+				if(!line.isEmpty() && !line.equals(" ")){
+					String[] splitted = line.split("\t");
+					if(splitted.length ==7){
+						String connection = splitted[3];
+						RelationsFilter.getComplementaryConnections().add(connection.trim());
+						
+					}
+				}
+			}
+
 
 	}
+		
+		public static Set<String> getComplementaryConnections() {
+			return complementaryConnections;
+		}
+
+
+		public void setComplementaryConnections(Set<String> complementaryConnections) {
+			this.complementaryConnections = complementaryConnections;
+		}
 
 }

@@ -12,6 +12,7 @@ public class IsABootstrapper extends Bootstrapper {
 	public IsABootstrapper(){
 		this.setType("IS-A");
 		this.setPathToSeeds("SEEDS/IS-A_seeds.txt");
+		this.setPathToComplementarySeeds("COMPLEMENTARY_TO_ISA.txt");
 	}
 	
 
@@ -21,9 +22,11 @@ public class IsABootstrapper extends Bootstrapper {
 		
 			
 			if(RelationsFilter.candidateContainsOtherTerms(candidate)
-				|| RelationsFilter.isIncompleteNP(pos, candidate)
+				|| RelationsFilter.isIncompleteNP(pos)
 				|| RelationsFilter.isSingleChar(candidate)
-				|| splitted.length >= 8){
+				|| splitted.length >= 8
+				|| RelationsFilter.isInAnotherRelation(candidate)){
+					 
 				
 				result = true;
 		
@@ -54,13 +57,24 @@ public class IsABootstrapper extends Bootstrapper {
 					if(postag1.matches("NN|NNS|NNP|NNPS") && postag2.matches("NN|NNS|NNP|NNPS")){
 						Pair<String> pair = new Pair<String>(term1, term2);
 						this.getSeedsOnly().add(pair);
-						List<String> pos = Arrays.asList(splitted[5]);
+						String pos = splitted[5];
+						
 						this.getSeedConnections().put(connection, pos);
-						Integer frequency = this.getFrequencyConnections().get(splitted[3]);
-						if( frequency == null){
-							this.getFrequencyConnections().put(splitted[3], Integer.parseInt(splitted[6]));
+						// handle the frequencies of POS patterns
+						Integer posFrequency = this.getPosFrequencyConnections().get(pos);
+						if(posFrequency !=null){
+							this.getPosFrequencyConnections().put(pos, posFrequency + 1);
 						} else{
-							this.getFrequencyConnections().put(splitted[3], frequency + Integer.parseInt(splitted[6]));
+							this.getPosFrequencyConnections().put(pos, 1);
+						}
+						
+						String posPattern = this.getSeedConnections().get(splitted[3]);
+						if( posPattern != null){
+							this.getSeedConnections().put(splitted[3], posPattern);
+							this.getAllConnections().put(splitted[3], posPattern);
+						} else{
+							this.getSeedConnections().put(splitted[3], "");
+							this.getAllConnections().put(splitted[3], "");
 						}
 					}
 				    
