@@ -15,7 +15,7 @@ import io.Reader;
 
 
 public class RelationsFilter {
-	
+	// complementary pos patterns of connections
 	private static Set<String> complementaryConnections = new HashSet<String>();
 	
 	/**
@@ -75,11 +75,11 @@ public class RelationsFilter {
 		 * @param match
 		 * @return
 		 */
-		public static boolean isInAnotherRelation(String match){
+		public static boolean isInAnotherRelation(String match, String pos, Bootstrapper bs){
 			
 			boolean result = false;
 			
-			    if(RelationsFilter.getComplementaryConnections().contains(match)){
+			    if(RelationsFilter.getComplementaryConnections().contains(pos) && !bs.getSeedConnections().keySet().contains(match)){
 			    	result = true;
 
 			    }
@@ -93,7 +93,7 @@ public class RelationsFilter {
 				if(!line.isEmpty() && !line.equals(" ")){
 					String[] splitted = line.split("\t");
 					if(splitted.length ==7){
-						String connection = splitted[3];
+						String connection = splitted[5];
 						RelationsFilter.getComplementaryConnections().add(connection.trim());
 						
 					}
@@ -108,8 +108,8 @@ public class RelationsFilter {
 		}
 
 
-		public void setComplementaryConnections(Set<String> complementaryConnections) {
-			this.complementaryConnections = complementaryConnections;
+		public static void setComplementaryConnections(Set<String> complementaryConnections) {
+			RelationsFilter.complementaryConnections = complementaryConnections;
 		}
 
 }

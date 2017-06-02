@@ -35,8 +35,8 @@ public class TesterForStuff {
 		System.out.println("__"+arr[0].trim()+"__");*/
 
 		//System.out.println(RelationsFilter.candidateContainsOtherTerms("parasites and lipitor"));
-		
-
+		double d = (double)1/2;
+		System.out.println(d);
 	}
 
 }

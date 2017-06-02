@@ -10,6 +10,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collection;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
@@ -91,7 +92,7 @@ public abstract class Bootstrapper {
 		}
 		
 		Set<String> seeds = isa.getSeedConnections().keySet();
-		isa.getPatterns().removeAll(seeds);
+		//isa.getPatterns().removeAll(seeds);
 		
 		
 		for(String pattern: isa.getPatterns()){
@@ -99,15 +100,8 @@ public abstract class Bootstrapper {
 			int frequency = isa.getPosFrequencyConnections().get(posPattern);
 			// The pos pattern of following sequence was that frequent:
 			
-			Writer.appendLineToFile(pattern + "\t" + frequency, "new_patterns_ISA.txt");
-	
-
-			
+			Writer.appendLineToFile(pattern + "\t" + frequency, "new_patterns_ISA.txt");	
 		}
-		
-		
-		
-		
 	}
 	
 	
@@ -116,13 +110,14 @@ public abstract class Bootstrapper {
 	}
 	
 	
-	public abstract boolean filterConnectionsForType(String candidate, List<String> pos, String[] splitted);
+	public abstract boolean filterConnectionsForType(String candidate, List<String> pos, String[] splitted, Bootstrapper bs);
 	
 	public void bootstrapp() throws IOException, ParseException{
 		LuceneSearcher ls = new LuceneSearcher();
 		// the outer lopp for limiting the iterations
 		for(int i= 0; i<=numberOfIterations ;i++){
 			extractNewInstancesAndPatterns(ls);
+			System.out.println("iteration " + String.valueOf(i));
 		}
 	}
 
@@ -163,10 +158,23 @@ public abstract class Bootstrapper {
 				
 			 }
 		}
+		
 		// rate patterns here and add them to this.patterns
 		// a place holder for how to rate the patterns
-		this.patterns.addAll(local_patterns);
+		// the sum of frequencies of all pos patterns in the corpus that have been added (no trash)
+		Integer freqsum = this.getPosFrequencyConnections().values().stream().reduce(0, Integer::sum);
 		
+		
+		for(String pattern: local_patterns){
+			String posPattern = this.getAllConnections().get(pattern);
+			int frequencyP = this.getPosFrequencyConnections().get(posPattern);
+			double ratio = (double) frequencyP/ freqsum;
+			if(ratio > 0.05){
+				this.patterns.add(pattern);
+			}
+		}
+		
+		this.patterns.addAll(local_patterns);
 		// for loop for the patterns: empty at the beginning
 		//https://stackoverflow.com/questions/11624220/java-adding-elements-to-list-while-iterating-over-it
 		for(String pattern: patterns){
@@ -183,15 +191,13 @@ public abstract class Bootstrapper {
 					
 				}
 				
-			}
-			
-			
-			
+			}	
 		}
 		
 
 		// a place holder for how to rate the instances
 		this.found.addAll(seeds);
+	
 	}
 
 
@@ -205,7 +211,7 @@ public abstract class Bootstrapper {
 				 List<String> pos = sent.posTags();
 				 String posString = pos.toString();
 				 
-			 if(!filterConnectionsForType(match, pos, splitted)){
+			 if(!filterConnectionsForType(match, pos, splitted, this)){
 				 
 				 local_patterns.add(match);
 				 

@@ -4,7 +4,6 @@ public class PatternsRater {
 	
 	public double ratePatternWithPOSFrequency(String pattern, Bootstrapper isa){
 		double result = 0.0;
-
 		
 		return result;
 	}

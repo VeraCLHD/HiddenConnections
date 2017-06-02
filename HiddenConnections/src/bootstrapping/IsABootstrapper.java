@@ -12,12 +12,12 @@ public class IsABootstrapper extends Bootstrapper {
 	public IsABootstrapper(){
 		this.setType("IS-A");
 		this.setPathToSeeds("SEEDS/IS-A_seeds.txt");
-		this.setPathToComplementarySeeds("COMPLEMENTARY_TO_ISA.txt");
+		this.setPathToComplementarySeeds("SEEDS/COMPLEMENTARY_TO_ISA.txt");
 	}
 	
 
 	@Override
-	public boolean filterConnectionsForType(String candidate, List<String> pos, String[] splitted) {
+	public boolean filterConnectionsForType(String candidate, List<String> pos, String[] splitted, Bootstrapper bs) {
 		boolean result = false;
 		
 			
@@ -25,7 +25,7 @@ public class IsABootstrapper extends Bootstrapper {
 				|| RelationsFilter.isIncompleteNP(pos)
 				|| RelationsFilter.isSingleChar(candidate)
 				|| splitted.length >= 8
-				|| RelationsFilter.isInAnotherRelation(candidate)){
+				|| RelationsFilter.isInAnotherRelation(candidate, pos.toString(), bs)){
 					 
 				
 				result = true;
