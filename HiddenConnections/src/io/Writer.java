@@ -10,6 +10,13 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.io.UnsupportedEncodingException;
+import java.util.List;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
+import edu.stanford.nlp.simple.Document;
+import edu.stanford.nlp.simple.Sentence;
+
 
 /**
  * Contains methods that write (in) files.
@@ -19,7 +26,7 @@ import java.io.UnsupportedEncodingException;
  */
 
 public class Writer {
-	
+	private static final String NFDUMP_TXT = "nfdump.txt";
 	/**
 	 * Appends a line to a file.
 	 */
@@ -96,10 +103,39 @@ public class Writer {
 		}
 		Editor.deleteLastLine(outfilename);
 	}
+	
+public static void rewriteDumpInSentences(){
+		
+		
+		List<String> linesOfDump = Reader.readLinesList(NFDUMP_TXT);
+		for (int i=0;i< linesOfDump.size();i++) {
+			String line = linesOfDump.get(i);
+			String[] elements = line.split("\t");
+			String id = elements[0].trim();
+			
+			String processedDoc = elements[3];
+			
+			// inserts a whitespace after a sentence if there is none.
+			processedDoc = processedDoc.replaceAll("([\\p{Lower}\\d\\\\p{Punct}][,.!?;:])" +
+					 "(\\p{Upper})", "$1 $2").replaceAll("\\s+", " ");
+			
+			Document doc = new Document(processedDoc);
+			List<Sentence> sentences = doc.sentences();
+			
+
+			for(int sent = 0; sent< sentences.size(); sent++){
+				String sentenceString = sentences.get(sent).toString();
+				String file = "Indexed_Corpus/" + id + "_" + sent + ".txt";
+				
+				Writer.appendLineToFile(sentenceString, file);
+			}
+			
+		}
+			
+	}
 
 	public static void main(String[] args) {
-		String[] array = {"empty.txt", "nfdump_old.txt"};
-		Writer.concatenateFiles(array, "nfdump.txt");
+		Writer.rewriteDumpInSentences();
 		
 	}
 }

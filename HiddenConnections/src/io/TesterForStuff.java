@@ -2,6 +2,8 @@ package io;
 
 import java.io.IOException;
 import java.util.Set;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 import org.apache.lucene.queryparser.classic.ParseException;
 
@@ -44,7 +46,31 @@ public class TesterForStuff {
 		double d = (double)1/2;
 		System.out.println(d);*/
 		
-		 LuceneSearcher ls = new LuceneSearcher();
+		 //luceneSearch();
+		
+		String sent = "U.S. ake the energy to fuel our brains and muscles. Our perceived level of energy relates to our mood, general happiness, and productivity.After being on a plant-based diet for five and a half months in a study looking at how an inflammation-reducing diet could affect persons with depression, a group of overweight or diabetic individuals reported increased energy, along with improved digestion, better sleep, better work productivity, and an increase in physical functioning, general health, vitality, and mental health.In a study treating women’s painful menstrual periods with a vegan diet, the women not only had fewer cramps, but lost weight and experienced increased energy, better digestion, and better sleep.Raisins worked as well as commercial energy supplements in a study looking at replacing glycogen stores—the body’s source of quick energy—during athletic performance.Among other things, caffeine increases energy availability and expenditure, and decreases fatigue and the sense of effort associated with physical activity.Beets can enhance energy production at the subcellular level and thereby improve athletic performance. Human energy production (mitochondrial efficiency) was improved by consuming a beet-juice beveragebeet juice.Fatty and sugary foods are energy-dense foods, but eating a calorie-dense diet leads to a numbing of the dopamine response, making it harder to feel satisfied without increasing our consumption.";
+		//sent = sent.replaceAll("[,.!?;:]", "$0 ").replaceAll("\\s+", " ");
+		String processedDoc = sent;
+
+		sent = sent.replaceAll("([\\p{Lower}\\d\\\\p{Punct}][,.!?;:])" +
+				 "(\\p{Upper})", "$1 $2").replaceAll("\\s+", " ");
+		System.out.println(sent);
+		/*Matcher matcher = Pattern.compile(
+				"\\p{Lower}?" +
+				"[,.!?;:]" +
+				 "\\p{Upper}"
+				 ).matcher(processedDoc);
+		if(matcher.find()){
+			String matchWithoutTerms = matcher.group();
+			System.out.println(matchWithoutTerms);
+		}*/
+		
+		
+	
+	}
+
+	private static void luceneSearch() {
+		LuceneSearcher ls = new LuceneSearcher();
 		  Set<String> set;
 		try {
 			set = ls.doSearch("\"" + "hormones" + "\"" + "AND" +  "\"" + "nicotine" + "\"");
@@ -59,11 +85,6 @@ public class TesterForStuff {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		
-		String sent = "nd that’s not just-ploizt happening in our arm; the lining of our whole vascular tree gets inflamed, stiffened, crippled, from just one meal!And just as it starts to calm down, five or six hours later, we may whack it with another load of meat, eggs, or dairy for lunch—such that most of our lives, we’re stuck in this chronic low-grade inflammation danger zone, which may set us up for inflammatory diseases, such as heart disease, diabetes, cancer, kind of one meal at a time.Does the same thing happen in our lungs?".toLowerCase();
-		sent = sent.replaceAll("\\p{P}", "");
-		System.out.println(sent);
-	
 	}
 
 }
