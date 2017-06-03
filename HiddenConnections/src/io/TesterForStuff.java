@@ -47,7 +47,7 @@ public class TesterForStuff {
 		 LuceneSearcher ls = new LuceneSearcher();
 		  Set<String> set;
 		try {
-			set = ls.doSearch("\"" + "beverages" + "\"" + "AND" +  "\"" + "hibiscus" + "\"");
+			set = ls.doSearch("\"" + "hormones" + "\"" + "AND" +  "\"" + "nicotine" + "\"");
 			for(String path: set){
 				  String str = Reader.readContentOfFile(path);
 				  System.out.println(path);
@@ -63,9 +63,7 @@ public class TesterForStuff {
 		String sent = "nd that’s not just-ploizt happening in our arm; the lining of our whole vascular tree gets inflamed, stiffened, crippled, from just one meal!And just as it starts to calm down, five or six hours later, we may whack it with another load of meat, eggs, or dairy for lunch—such that most of our lives, we’re stuck in this chronic low-grade inflammation danger zone, which may set us up for inflammatory diseases, such as heart disease, diabetes, cancer, kind of one meal at a time.Does the same thing happen in our lungs?".toLowerCase();
 		sent = sent.replaceAll("\\p{P}", "");
 		System.out.println(sent);
-		  
-		
-			
+	
 	}
 
 }
