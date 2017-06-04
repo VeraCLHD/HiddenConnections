@@ -35,7 +35,7 @@ public abstract class Bootstrapper {
 	private String pathToSeeds;
 	private String pathToComplementarySeeds;
 	
-	private static final String pathToAllTerms = "all_terms_and_variants.txt";
+	private static final String pathToAllTerms = "terms/all_terms_and_variants_with10.txt";
 
 	// key: plain strings that come from the seeds; value: POS patterns as list
 	// example: such as: [JJ, NN]
