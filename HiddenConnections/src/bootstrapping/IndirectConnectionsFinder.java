@@ -1,5 +1,6 @@
 package bootstrapping;
 
+import java.util.ArrayList;
 import java.util.Collection;
 import java.util.HashSet;
 import java.util.Iterator;
@@ -13,7 +14,7 @@ import overall.Pair;
 public class IndirectConnectionsFinder {
 	private static Set<Pair<String>> allConnections = new HashSet<Pair<String>>();
 	private static Set<Pair<String>> allConnectionsCopy = new HashSet<Pair<String>>(allConnections);
-	private static String pathToInstances = "new_instances_ISA - Copy.txt";
+	private static String pathToInstances = "self-made rating/new_instances_ISA1.txt";
 	private static Set<Pair<String>> newlyEmerged = new HashSet<Pair<String>>();
 	// a variable to check if there were newly emerged in the last method call (method for identification is recursive)
 	private static int newlyEmergedCount = 0;
@@ -34,25 +35,28 @@ public class IndirectConnectionsFinder {
 	// unnecessary duplicates arise: x-z, z-y -> x-y, y-x (not necessary when IS-A)
 	public static void traverseAndFindHidden(Collection<Pair<String>> collection){
 		IndirectConnectionsFinder.setNewlyEmergedCount(0);
-		for(Pair<String> pair: collection){
-			for(Pair<String> secondPair: collection){
-				if(!pair.equals(secondPair)){
-					if(pair.second.equals(secondPair.first)){
-						Pair<String> newPair = new Pair<String>(pair.first,secondPair.second);
-						
-						if(allConnectionsCopy.add(newPair) ){
+		List<Pair<String>> list1 = new ArrayList<Pair<String>>(collection);
+		List<Pair<String>> list2 = new ArrayList<Pair<String>>(collection);
+		
+		for(int i= 0; i< list1.size(); i++){
+			for(int j= i; j< list2.size(); j++){
+				if(!list1.get(i).equals(list2.get(j))){
+					if(list1.get(i).second.equals(list2.get(j).first)){
+						Pair<String> newPair = new Pair<String>(list1.get(i).first,list2.get(j).second);
+						// the relation should go into one consistent direction
+						if(allConnectionsCopy.add(newPair)  && !newPair.first.equals(newPair.second)){
 							IndirectConnectionsFinder.newlyEmerged.add(newPair);
 							IndirectConnectionsFinder.newlyEmergedCount +=1;
 						}
 						
-					} else if(pair.first.equals(secondPair.second)){
-						Pair<String> newPair = new Pair<String>(pair.second, secondPair.first);
+					} /*else if(list1.get(i).first.equals(list2.get(j).second)){
+						Pair<String> newPair = new Pair<String>(list1.get(i).second, list2.get(j).first);
 						
 						if(allConnectionsCopy.add(newPair)){
 							IndirectConnectionsFinder.newlyEmerged.add(newPair);
 							IndirectConnectionsFinder.newlyEmergedCount +=1;
 						}
-					}
+					}*/
 				}
 			}
 		} 
@@ -75,6 +79,7 @@ public class IndirectConnectionsFinder {
 	}
 	
 	public static void main(String[] args) {
+		Writer.overwriteFile("", "evaluation/toEvaluate_ISA.txt");
 		IndirectConnectionsFinder.readAllConnections();
 		IndirectConnectionsFinder.traverseAndFindHidden(allConnections);
 		IndirectConnectionsFinder.filter();
