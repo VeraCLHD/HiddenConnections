@@ -1,0 +1,16 @@
+Y	X
+Z	Y
+Y	Y
+X	X
+Z	Z
+P	P
+X	Y
+Y	Z
+X	Z
+P	X
+P	Y
+P	Z
+Z	P
+Y	P
+X	P
+Z	X
