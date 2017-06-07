@@ -60,13 +60,6 @@ public class IsABootstrapper extends Bootstrapper {
 						String pos = splitted[5];
 						
 						Bootstrapper.getSeedConnections().put(connection, pos);
-						// handle the frequencies of POS patterns
-						Integer posFrequency = this.getPosFrequencyConnections().get(pos);
-						if(posFrequency !=null){
-							this.getPosFrequencyConnections().put(pos, posFrequency + 1);
-						} else{
-							this.getPosFrequencyConnections().put(pos, 1);
-						}
 						
 						String posPattern = Bootstrapper.getSeedConnections().get(splitted[3]);
 						if( posPattern != null){

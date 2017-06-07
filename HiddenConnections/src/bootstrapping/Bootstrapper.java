@@ -52,18 +52,13 @@ public abstract class Bootstrapper {
 	private Set<Pair<String>> found = new HashSet<Pair<String>>();
 	// this set would be empty at the beginning
 	
+	// this is the collection for the final rated patterns
 	private Set<String> patterns = new HashSet<String>();
-
-	// no matter if a connection was a seed or is found, all frequencies are stored here
-	// same for the list of pos tags of each pattern: key: list of pos to String, value: frequency
-	private Map<String, Integer> posFrequencyConnections = new HashMap<String, Integer>();
-	
-	
-	
-	private static final int numberOfIterations = 100;
+	private static final int numberOfIterations = 5;
 
 	private static Set<String> allTerms = new HashSet<String>();
-
+	// here, all patterns and seeds are added to be rated
+	private Map<String, Set<Pair<String>>> patternsToRate = new HashMap<String, Set<Pair<String>>>();
 	
 	public static void main(String[] args) {
 		Writer.overwriteFile("", "seeds.txt");
@@ -100,10 +95,10 @@ public abstract class Bootstrapper {
 		
 		for(String pattern: isa.getPatterns()){
 			String posPattern = isa.getAllConnections().get(pattern);
-			int frequency = isa.getPosFrequencyConnections().get(posPattern);
+			
 			// The pos pattern of following sequence was that frequent:
 			
-			Writer.appendLineToFile(pattern + "\t" + frequency, "new_patterns_ISA.txt");	
+			Writer.appendLineToFile(pattern + "\t" + posPattern + "\t", "new_patterns_ISA.txt");	
 		}
 		
 
@@ -128,8 +123,7 @@ public abstract class Bootstrapper {
 
 
 	private void extractNewInstancesAndPatterns(LuceneSearcher ls) {
-		Set<String> local_patterns = new HashSet<String>();
-		Set<Pair<String>> seeds = new HashSet<Pair<String>>();
+		//Set<Pair<String>> seeds = new HashSet<Pair<String>>();
 
 		// for loop for the seed instances -> the found contain the seeds as well; will be excluded later
 		for(Pair<String> instance: this.getFound()){
@@ -140,7 +134,6 @@ public abstract class Bootstrapper {
 			try {
 				set = ls.doSearch("\"" + t1 +"\"" + "AND" + "\"" + t2 +"\"" );
 			} catch (IOException e) {
-				// TODO Auto-generated catch block
 				e.printStackTrace();
 			} catch (ParseException e) {
 				System.err.println("Could not parse " + "\"" + t1 +"\"" + "AND" + "\"" + t2 +"\"");
@@ -155,13 +148,13 @@ public abstract class Bootstrapper {
 					 if(!stdCase.isEmpty()){
 						 for(String match: stdCase){
 							
-							 handleOneSentence(local_patterns, sentenceString, match); 
+							 handleOneSentence( match, t1, t2); 
 						 }
 						
 					 } if(!stdCase2.isEmpty()){
 						 for(String match: stdCase){
 							 
-							 handleOneSentence(local_patterns, sentenceString, match); 
+							 handleOneSentence( match, t1, t2); 
 						 }
 						
 					 }
@@ -187,7 +180,10 @@ public abstract class Bootstrapper {
 			}
 		}*/
 		
-		this.patterns.addAll(local_patterns);
+
+		
+		
+		//this.patterns.addAll(local_patterns);
 		// for loop for the patterns: empty at the beginning
 		//https://stackoverflow.com/questions/11624220/java-adding-elements-to-list-while-iterating-over-it
 		for(String pattern: patterns){
@@ -197,7 +193,6 @@ public abstract class Bootstrapper {
 			try {
 				set = ls.doSearch("\"" + pattern +"\"");
 			} catch (IOException e) {
-				// TODO Auto-generated catch block
 				e.printStackTrace();
 			} catch (ParseException e) {
 				System.err.println("Could not parse " + "\"" + pattern +"\"");
@@ -207,23 +202,28 @@ public abstract class Bootstrapper {
 				for(String path: set){
 					String sentence = Reader.readContentOfFile(path).toLowerCase();
 					//Sentence sent = new Sentence(sentence);
-					Set<Pair<String>> instances = lookForPatternMatch(sentence, pattern);
+					lookForPatternMatch(sentence, pattern);
 			
-					seeds.addAll(instances);
+					//seeds.addAll(instances);
 					
 				}
 				
 			}	
 		}
+		// rate the patterns from the collection patternsToRate and add the instances found for the good ones of them
+		for(String patt: this.getPatternsToRate().keySet()){
+			this.patterns.add(patt);
+			this.found.addAll(this.getPatternsToRate().get(patt));
+			
+		}
 		
-
-		// a place holder for how to rate the instances
-		this.found.addAll(seeds);
+		//this.found.addAll(seeds);
+		//this.patterns.addAll(local_patterns);
 	
 	}
 
 
-	private void handleOneSentence(Set<String> local_patterns, String sentenceString, String match) {
+	private void handleOneSentence(String match, String term1, String term2) {
 			
 			 if(!match.isEmpty() && !match.equals(" ") && !match.matches("\\s") && match != null && !match.matches("\\W")){
 				 match = match.trim();
@@ -234,36 +234,25 @@ public abstract class Bootstrapper {
 				 String posString = pos.toString();
 				 
 			 if(!filterConnectionsForType(match, pos, splitted)){
-				 
-				 local_patterns.add(match);
-				 
-				 Integer posFrequency = this.getPosFrequencyConnections().get(posString);
-				 if(posFrequency !=null){
-					 
-					 this.getPosFrequencyConnections().put(posString, posFrequency + 1);
-					 this.getAllConnections().put(match, posString);
-				 } else{
-					 this.getPosFrequencyConnections().put(posString, 1);
-					 this.getAllConnections().put(match, posString);
+				
+				Set<Pair<String>> instancesForPattern =  this.getPatternsToRate().get(match);
+				if(instancesForPattern !=null){
+					instancesForPattern.add(new Pair<String>(term1, term2));
+					this.getPatternsToRate().put(match, instancesForPattern); 
+				} else{
+					this.getPatternsToRate().put(match, new HashSet<Pair<String>>());
+				}
+
+				this.getAllConnections().put(match, posString);
 				 }
 			 }
-			} else{
-				Integer freq = this.getPosFrequencyConnections().get("SPACE");
-				 if(freq !=null){
-					 
-					 this.getPosFrequencyConnections().put("SPACE", freq + 1);
-				 } else{
-					 this.getPosFrequencyConnections().put("SPACE", 1);
-				 }
 			}
-			
-			
-	}
 	
 	
 	//http://stackoverflow.com/questions/11255353/java-best-way-to-grab-all-strings-between-two-strings-regex
 	//http://stackoverflow.com/questions/4769652/how-do-you-use-the-java-word-boundary-with-apostrophes
 	public  Set<String> lookForTermMatch(String sentenceString, String term1, String term2) {
+		//
 		Set<String> candidates = new HashSet<String>();
 		Matcher matcher = Pattern.compile(
 				"\\b" +
@@ -280,11 +269,16 @@ public abstract class Bootstrapper {
 			candidates.add(matchWithoutTerms.trim());
 			
 		}
+		
 		return candidates;
 	}
 	
-	
-	public Set<Pair<String>> lookForPatternMatch(String sentenceString, String pattern) {
+	/**
+	 * look for the instances that match a pattern
+	 * @param sentenceString
+	 * @param pattern
+	 */
+	public void lookForPatternMatch(String sentenceString, String pattern) {
 		Set<Pair<String>> candidates = new HashSet<Pair<String>>();
 		String temp1 = "";
 	    String temp2 = "";
@@ -363,7 +357,17 @@ public abstract class Bootstrapper {
 			
 		}
 	}
-		return candidates;
+		
+		for(Pair<String> candidate: candidates){
+			Set<Pair<String>> instancesForPattern =  this.getPatternsToRate().get(pattern);
+			if(instancesForPattern !=null){
+				instancesForPattern.add(candidate);
+				this.getPatternsToRate().put(pattern, instancesForPattern); 
+			} else{
+				this.getPatternsToRate().put(pattern, new HashSet<Pair<String>>());
+			}
+		}
+		
 	}
 	
 	
@@ -436,16 +440,6 @@ public abstract class Bootstrapper {
 	}
 
 
-	public Map<String, Integer> getPosFrequencyConnections() {
-		return posFrequencyConnections;
-	}
-
-
-	public void setPosFrequencyConnections(Map<String, Integer> posFrequencyConnections) {
-		this.posFrequencyConnections = posFrequencyConnections;
-	}
-
-
 	public Map<String, String> getAllConnections() {
 		return allConnections;
 	}
@@ -463,6 +457,16 @@ public abstract class Bootstrapper {
 
 	public  void setPathToComplementarySeeds(String pathToComplementarySeeds) {
 		this.pathToComplementarySeeds = pathToComplementarySeeds;
+	}
+
+
+	public Map<String, Set<Pair<String>>> getPatternsToRate() {
+		return patternsToRate;
+	}
+
+
+	public void setPatternsToRate(Map<String, Set<Pair<String>>> patternsToRate) {
+		this.patternsToRate = patternsToRate;
 	}
 	
 	

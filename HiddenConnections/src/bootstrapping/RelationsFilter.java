@@ -80,7 +80,11 @@ public class RelationsFilter {
 			boolean result = false;
 			Set<String> set = RelationsFilter.getComplementaryConnections();
 			Set<String> set2 = Bootstrapper.getSeedConnections().keySet();
-			    if(set.contains(pos) && !set2.contains(match)){
+			/*
+			 * the pos pattern is contained in the complementary pos patterns
+			 * and at the same time the string pattern itself is not contained in the seeds of the relation
+			 */
+			if(set.contains(pos) && !set2.contains(match)){
 			    	result = true;
 
 			    }
