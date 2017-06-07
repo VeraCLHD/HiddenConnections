@@ -13,6 +13,8 @@ public class IsABootstrapper extends Bootstrapper {
 		this.setType("IS-A");
 		this.setPathToSeeds("SEEDS/IS-A_seeds.txt");
 		this.setPathToComplementarySeeds("SEEDS/COMPLEMENTARY_TO_ISA.txt");
+		this.setNEW_INSTANCES_ISA_TXT("new_instances_ISA.txt");
+		this.setNEW_PATTERNS_ISA_TXT("new_patterns_ISA.txt");
 	}
 	
 

@@ -31,9 +31,12 @@ import overall.Pair;
 
 
 public abstract class Bootstrapper {
+	private  String NEW_PATTERNS_ISA_TXT = "";
+	private  String NEW_INSTANCES_ISA_TXT = "";
 	private String type;
 	private String pathToSeeds;
 	private String pathToComplementarySeeds;
+	private String pathToIndexedCorpus = "IndexDirectory";
 	
 	private static final String pathToAllTerms = "terms/all_terms_and_variants_with10_filtered.txt";
 
@@ -86,7 +89,7 @@ public abstract class Bootstrapper {
 			
 		
 		for(Pair<String> pair: isa.getFound()){
-			Writer.appendLineToFile(pair.first + "\t" + pair.second, "new_instances_ISA.txt");
+			Writer.appendLineToFile(pair.first + "\t" + pair.second, isa.getNEW_INSTANCES_ISA_TXT());
 		}
 		
 		//Set<String> seeds = isa.getSeedConnections().keySet();
@@ -98,7 +101,7 @@ public abstract class Bootstrapper {
 			
 			// The pos pattern of following sequence was that frequent:
 			
-			Writer.appendLineToFile(pattern + "\t" + posPattern + "\t", "new_patterns_ISA.txt");	
+			Writer.appendLineToFile(pattern + "\t" + posPattern + "\t", isa.getNEW_PATTERNS_ISA_TXT());	
 		}
 		
 
@@ -132,7 +135,7 @@ public abstract class Bootstrapper {
 			 String t2 = instance.second;
 			 Set<String> set = new HashSet<String>();
 			try {
-				set = ls.doSearch("\"" + t1 +"\"" + "AND" + "\"" + t2 +"\"" );
+				set = ls.doSearch("\"" + t1 +"\"" + "AND" + "\"" + t2 +"\"", "IndexDirectory" );
 			} catch (IOException e) {
 				e.printStackTrace();
 			} catch (ParseException e) {
@@ -188,7 +191,7 @@ public abstract class Bootstrapper {
 			Set<String> set = new HashSet<String>();
 			 
 			try {
-				set = ls.doSearch("\"" + pattern +"\"");
+				set = ls.doSearch("\"" + pattern +"\"", "IndexDirectory");
 			} catch (IOException e) {
 				e.printStackTrace();
 			} catch (ParseException e) {
@@ -464,6 +467,26 @@ public abstract class Bootstrapper {
 
 	public void setPatternsToRate(Map<String, Set<Pair<String>>> patternsToRate) {
 		this.patternsToRate = patternsToRate;
+	}
+
+
+	public String getNEW_PATTERNS_ISA_TXT() {
+		return NEW_PATTERNS_ISA_TXT;
+	}
+
+
+	public void setNEW_PATTERNS_ISA_TXT(String nEW_PATTERNS_ISA_TXT) {
+		NEW_PATTERNS_ISA_TXT = nEW_PATTERNS_ISA_TXT;
+	}
+
+
+	public String getNEW_INSTANCES_ISA_TXT() {
+		return NEW_INSTANCES_ISA_TXT;
+	}
+
+
+	public void setNEW_INSTANCES_ISA_TXT(String nEW_INSTANCES_ISA_TXT) {
+		NEW_INSTANCES_ISA_TXT = nEW_INSTANCES_ISA_TXT;
 	}
 	
 	

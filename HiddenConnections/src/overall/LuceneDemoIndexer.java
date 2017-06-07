@@ -59,12 +59,12 @@ public class LuceneDemoIndexer {
   /** Index all text files under a directory. */
   public static void main(String[] args) {
 	// this is done only once
-	LuceneDemoIndexer.indexAllTexts("Indexed_Corpus/");
+	LuceneDemoIndexer.indexAllTexts("IndexDirectory", "Indexed_Corpus/");
    
   }
 
-public static void indexAllTexts(String docsPath) {
-	String indexPath = "IndexDirectory";
+public static void indexAllTexts(String indexed, String docsPath) {
+	String indexPath = indexed;
 	   boolean create = true;
 	   
 	

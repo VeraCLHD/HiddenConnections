@@ -38,16 +38,16 @@ public class LuceneSearcher {
  /** Simple command-line based search demo. */
   public static void main(String[] args) throws Exception {
 	  LuceneSearcher ls = new LuceneSearcher();
-	  Set<String> set = ls.doSearch("\"" + "such as" +"\"" );
+	  Set<String> set = ls.doSearch("\"" + "such as" +"\"", "IndexDirectory");
 	  for(String path: set){
 		  String str = Reader.readContentOfFile(path);
 		  System.out.println(path);
 	  }
   }
   
-  public Set<String> doSearch(String queryString) throws IOException, ParseException{
+  public Set<String> doSearch(String queryString, String indexDir) throws IOException, ParseException{
 	  
-	  String index = "IndexDirectory";
+	  String index = indexDir;
 	    String field = "contents";
 	   String queries = null;
 

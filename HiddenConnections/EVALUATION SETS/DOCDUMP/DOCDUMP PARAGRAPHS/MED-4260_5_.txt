@@ -1,0 +1,1 @@
+Each interruption in sedentary time (counts/min > or = 100) was considered a break. Fasting plasma glucose, 2-h plasma glucose, serum triglycerides, HDL cholesterol, weight, height, waist circumference, and resting blood pressure were measured. MatLab was used to derive the breaks variable; SPSS was used for the statistical analysis. 

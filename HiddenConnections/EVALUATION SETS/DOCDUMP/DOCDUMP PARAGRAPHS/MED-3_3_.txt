@@ -1,0 +1,1 @@
+Cox proportional hazards models were fit using person-years as the underlying time metric. We estimated multivariate hazard ratios and 95% confidence intervals for death associated with increasing quintiles of diet quality index scores. During 12.9 years of follow-up, 5,692 deaths occurred, including 1,483 from CVD and 2,384 from cancer. 

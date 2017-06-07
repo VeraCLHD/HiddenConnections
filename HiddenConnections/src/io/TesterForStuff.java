@@ -73,7 +73,7 @@ public class TesterForStuff {
 		LuceneSearcher ls = new LuceneSearcher();
 		  Set<String> set;
 		try {
-			set = ls.doSearch("\"" + "hormones" + "\"" + "AND" +  "\"" + "nicotine" + "\"");
+			set = ls.doSearch("\"" + "hormones" + "\"" + "AND" +  "\"" + "nicotine" + "\"", "IndexDirectory");
 			for(String path: set){
 				  String str = Reader.readContentOfFile(path);
 				  System.out.println(path);
