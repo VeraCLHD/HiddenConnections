@@ -180,9 +180,6 @@ public abstract class Bootstrapper {
 			}
 		}*/
 		
-
-		
-		
 		//this.patterns.addAll(local_patterns);
 		// for loop for the patterns: empty at the beginning
 		//https://stackoverflow.com/questions/11624220/java-adding-elements-to-list-while-iterating-over-it

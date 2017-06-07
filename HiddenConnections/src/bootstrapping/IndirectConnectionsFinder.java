@@ -14,10 +14,11 @@ import overall.Pair;
 public class IndirectConnectionsFinder {
 	private static Set<Pair<String>> allConnections = new HashSet<Pair<String>>();
 	private static Set<Pair<String>> allConnectionsCopy = new HashSet<Pair<String>>(allConnections);
-	private static String pathToInstances = "self-made rating/new_instances_ISA1.txt";
+	private static String pathToInstances = "new_instances_ISA_5incomplete terms_only seed filtering.txt";
 	private static Set<Pair<String>> newlyEmerged = new HashSet<Pair<String>>();
 	// a variable to check if there were newly emerged in the last method call (method for identification is recursive)
 	private static int newlyEmergedCount = 0;
+	private static int run = 1;
 	
 	public static void readAllConnections(){
 		List<String> lines = Reader.readLinesList(pathToInstances);
@@ -35,12 +36,13 @@ public class IndirectConnectionsFinder {
 	// unnecessary duplicates arise: x-z, z-y -> x-y, y-x (not necessary when IS-A)
 	public static void traverseAndFindHidden(Collection<Pair<String>> collection){
 		IndirectConnectionsFinder.setNewlyEmergedCount(0);
+		IndirectConnectionsFinder.run +=1; 
 		List<Pair<String>> list1 = new ArrayList<Pair<String>>(collection);
 		List<Pair<String>> list2 = new ArrayList<Pair<String>>(collection);
 		
 		for(int i= 0; i< list1.size(); i++){
 			for(int j= i; j< list2.size(); j++){
-				if(!list1.get(i).equals(list2.get(j))){
+				if(!list1.get(i).first.equals(list2.get(j).second)){
 					if(list1.get(i).second.equals(list2.get(j).first)){
 						Pair<String> newPair = new Pair<String>(list1.get(i).first,list2.get(j).second);
 						// the relation should go into one consistent direction
@@ -61,7 +63,7 @@ public class IndirectConnectionsFinder {
 			}
 		} 
 		allConnections.addAll(allConnectionsCopy);
-		if(IndirectConnectionsFinder.newlyEmergedCount > 0){
+		if( IndirectConnectionsFinder.run <= 2 && IndirectConnectionsFinder.newlyEmergedCount > 0){
 			traverseAndFindHidden(collection);
 		}
 		
