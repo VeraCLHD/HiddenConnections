@@ -21,8 +21,12 @@ import java.util.regex.Pattern;
 
 import org.apache.lucene.queryparser.classic.ParseException;
 
+import edu.stanford.nlp.parser.lexparser.LexicalizedParser;
 import edu.stanford.nlp.simple.Sentence;
 import edu.stanford.nlp.tagger.maxent.MaxentTagger;
+import edu.stanford.nlp.trees.Tree;
+import edu.stanford.nlp.trees.tregex.TregexMatcher;
+import edu.stanford.nlp.trees.tregex.TregexPattern;
 import edu.stanford.nlp.util.StringUtils;
 import io.Reader;
 import io.Writer;
@@ -31,8 +35,7 @@ import overall.Pair;
 
 
 public abstract class Bootstrapper {
-	private  String NEW_PATTERNS_ISA_TXT = "";
-	private  String NEW_INSTANCES_ISA_TXT = "";
+	
 	private String type;
 	private String pathToSeeds;
 	private String pathToComplementarySeeds;
@@ -53,8 +56,8 @@ public abstract class Bootstrapper {
 	
 	// the seed pairs: (caffeine, migrane pain), (wine, blood pressure)
 	private Set<Pair<String>> found = new HashSet<Pair<String>>();
-	// this set would be empty at the beginning
 	
+	// this set would be empty at the beginning
 	// this is the collection for the final rated patterns
 	private Set<String> patterns = new HashSet<String>();
 	private static final int numberOfIterations = 5;
@@ -308,54 +311,36 @@ public abstract class Bootstrapper {
 		    //
 		    for(int i = term1_candidate.size()-1; i>= 0; i--){
 		    	String t1_candidate = String.join(" ", term1_candidate.subList(i, term1_candidate.size()));
-		    	String t1_candidateWP = t1_candidate.replaceAll("\\p{P}", "");
-		    	// has to contain t1_candidate the first time, after that temp1. How?
-		    	if(Bootstrapper.allTerms.contains(t1_candidate) ){
+		    	String t1_candidateWP = t1_candidate.replaceAll("[^a-zA-Z]+$", "");
+		    	if(Bootstrapper.allTerms.contains(t1_candidateWP)){
 		    		temp1 = t1_candidate;
 		    		continue;
 		    	}// in the sentence string, punctiation is directly in the word 
-		    	else if(Bootstrapper.allTerms.contains(t1_candidateWP)){
-		    		temp1 = t1_candidateWP;
-		    		continue;
-		    	} else{
+		    	else{
 		    		break;
 		    	}
 		    }
 		    
 		    for(int i = 1; i<= term2_candidate.size(); i++){
 		    	String t2_candidate = String.join(" ", term2_candidate.subList(0, i));
-		    	String t2_candidateWP = t2_candidate.replaceAll("\\p{P}", "");
-		    	if(Bootstrapper.allTerms.contains(t2_candidate)){
+		    	String t2_candidateWP = t2_candidate.replaceAll("[^a-zA-Z]+$", "");
+		    	if(Bootstrapper.allTerms.contains(t2_candidateWP)){
 		    		temp2 = t2_candidate;
 		    		continue;
 		    	}
-		    	else if(Bootstrapper.allTerms.contains(t2_candidateWP)){
-		    		temp2 = t2_candidateWP;
-		    		continue;
-		    	}else{
-		    		break;
+		    	else{
+						break;
+					}
+		    		
 		    	}
-		    }
 		
-		
-		
-		
-		
-		if(!temp1.isEmpty() && !temp2.isEmpty()){
-			// both must be nouns or end with a noun -> otherwise no IS-A, PART-OF...
-			Sentence pos1 = new Sentence(temp1);
-			Sentence pos2 = new Sentence(temp2);
-			
-		    String postag1 = pos1.posTag(pos1.length()-1);
-			String postag2 = pos2.posTag(pos2.length()-1);
-			
-			// if both are nouns, then it is IS-A; the POS pattern must end with a noun -> then it is an NP
-			if(postag1.matches("NN|NNS|NNP|NNPS") && postag2.matches("NN|NNS|NNP|NNPS")){
+		  //Bootstrapper.allTerms.contains(t1_candidate)
+		    if(!temp1.isEmpty() && !temp2.isEmpty()){
+				
 				Pair<String> pair = new Pair<String>(temp1, temp2);
 				candidates.add(pair);
 			}
-			
-		}
+
 	}
 		
 		for(Pair<String> candidate: candidates){
@@ -368,6 +353,22 @@ public abstract class Bootstrapper {
 			}
 		}
 		
+	}
+	
+	public boolean isTempANP(String temp){
+		boolean result = false;
+		LexicalizedParser lp1 = LexicalizedParser.loadModel();
+		Tree parse = lp1.parse(temp);
+		TregexPattern patternM2 = TregexPattern.compile("(@NP !<< @NP)"); 
+		// Run the pattern on one particular tree 
+		TregexMatcher matcher = patternM2.matcher(parse);
+		if (matcher.findNextMatchingNode()) { 
+		  Tree match = matcher.getMatch(); 
+		  // do what we want to with the subtree
+		  result = true;
+		 
+		}
+	return result;
 	}
 	
 	
@@ -468,32 +469,6 @@ public abstract class Bootstrapper {
 	public void setPatternsToRate(Map<String, Set<Pair<String>>> patternsToRate) {
 		this.patternsToRate = patternsToRate;
 	}
-
-
-	public String getNEW_PATTERNS_ISA_TXT() {
-		return NEW_PATTERNS_ISA_TXT;
-	}
-
-
-	public void setNEW_PATTERNS_ISA_TXT(String nEW_PATTERNS_ISA_TXT) {
-		NEW_PATTERNS_ISA_TXT = nEW_PATTERNS_ISA_TXT;
-	}
-
-
-	public String getNEW_INSTANCES_ISA_TXT() {
-		return NEW_INSTANCES_ISA_TXT;
-	}
-
-
-	public void setNEW_INSTANCES_ISA_TXT(String nEW_INSTANCES_ISA_TXT) {
-		NEW_INSTANCES_ISA_TXT = nEW_INSTANCES_ISA_TXT;
-	}
-	
-	
-
-	
-
-	
 	
 
 }

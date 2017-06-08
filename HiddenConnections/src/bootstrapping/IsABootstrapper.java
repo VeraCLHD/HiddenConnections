@@ -8,6 +8,8 @@ import io.Reader;
 import overall.Pair;
 
 public class IsABootstrapper extends Bootstrapper {
+	private  String NEW_PATTERNS_ISA_TXT = "";
+	private  String NEW_INSTANCES_ISA_TXT = "";
 	
 	public IsABootstrapper(){
 		this.setType("IS-A");
@@ -78,6 +80,25 @@ public class IsABootstrapper extends Bootstrapper {
 				}
 			}
 		}
+	}
+	
+	public String getNEW_PATTERNS_ISA_TXT() {
+		return NEW_PATTERNS_ISA_TXT;
+	}
+
+
+	public void setNEW_PATTERNS_ISA_TXT(String nEW_PATTERNS_ISA_TXT) {
+		NEW_PATTERNS_ISA_TXT = nEW_PATTERNS_ISA_TXT;
+	}
+
+
+	public String getNEW_INSTANCES_ISA_TXT() {
+		return NEW_INSTANCES_ISA_TXT;
+	}
+
+
+	public void setNEW_INSTANCES_ISA_TXT(String nEW_INSTANCES_ISA_TXT) {
+		NEW_INSTANCES_ISA_TXT = nEW_INSTANCES_ISA_TXT;
 	}
 
 	public static void main(String[] args) {

@@ -1,13 +1,21 @@
 package io;
 
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 import java.util.Set;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 import org.apache.lucene.queryparser.classic.ParseException;
 
+import edu.stanford.nlp.parser.lexparser.LexicalizedParser;
+import edu.stanford.nlp.parser.lexparser.Options;
 import edu.stanford.nlp.simple.Sentence;
+import edu.stanford.nlp.trees.Tree;
+import edu.stanford.nlp.trees.tregex.TregexMatcher;
+import edu.stanford.nlp.trees.tregex.TregexPattern;
 import overall.LuceneSearcher;
 
 public class TesterForStuff {
@@ -48,7 +56,7 @@ public class TesterForStuff {
 		
 		 //luceneSearch();
 		
-		String sent = "U.S. ake the energy to fuel our brains and muscles. Our perceived level of energy relates to our mood, general happiness, and productivity.After being on a plant-based diet for five and a half months in a study looking at how an inflammation-reducing diet could affect persons with depression, a group of overweight or diabetic individuals reported increased energy, along with improved digestion, better sleep, better work productivity, and an increase in physical functioning, general health, vitality, and mental health.In a study treating women’s painful menstrual periods with a vegan diet, the women not only had fewer cramps, but lost weight and experienced increased energy, better digestion, and better sleep.Raisins worked as well as commercial energy supplements in a study looking at replacing glycogen stores—the body’s source of quick energy—during athletic performance.Among other things, caffeine increases energy availability and expenditure, and decreases fatigue and the sense of effort associated with physical activity.Beets can enhance energy production at the subcellular level and thereby improve athletic performance. Human energy production (mitochondrial efficiency) was improved by consuming a beet-juice beveragebeet juice.Fatty and sugary foods are energy-dense foods, but eating a calorie-dense diet leads to a numbing of the dopamine response, making it harder to feel satisfied without increasing our consumption.";
+		String sent = "Since the same hormonal changes associated with eating more plant-based diets seemed to improve premenstrual and menstrual symptoms such as breast pain (see my video Plant-Based Diets For Breast Pain), researchers decided to test whether flax seeds would help as well.";
 		//sent = sent.replaceAll("[,.!?;:]", "$0 ").replaceAll("\\s+", " ");
 		String processedDoc = sent;
 
@@ -65,8 +73,72 @@ public class TesterForStuff {
 			System.out.println(matchWithoutTerms);
 		}*/
 		
+		//TesterForStuff.GetNounPhrases();
+		
 		
 	
+	}
+	
+	public static void GetNounPhrases()
+	{
+		LexicalizedParser lp1 = LexicalizedParser.loadModel();
+		
+		String sentence = "Since the same hormonal changes associated with eating more plant-based diets seemed to improve premenstrual and menstrual symptoms.".replaceAll("[^a-zA-Z]+$", "");
+		// output: [degenerative, cancer, cancer], [alzheimers]. The risk of terms not being recognized is too high
+		/*Sentence sent = new Sentence(sentence);
+		sent.posTags();
+		sent.words();*/
+		
+		Tree parse = lp1.parse(sentence);
+		//(Adjective | Noun)* (Noun Preposition)? (Adjective | Noun)* Noun
+		
+		// Create a reusable pattern object 
+		//https://nlp.stanford.edu/software/tregex/The_Wonderful_World_of_Tregex.ppt/ - NP parent of NP extracts the longest NP
+		//TregexPattern patternMW = TregexPattern.compile("NP [ << NNS | << NN | << NNPS | << NNP ]");
+		// NP < (@NP !<< @NP . (/^such/ . /^as/))
+		TregexPattern patternMW = TregexPattern.compile("(@NP !<< @NP . (/^such/ . /^as/))");
+		TregexPattern patternM2 = TregexPattern.compile("(@NP !<< @NP)"); 
+		// Run the pattern on one particular tree 
+		TregexMatcher matcher = patternM2.matcher(parse); 
+		// Iterate over all of the subtrees that matched
+		List<Tree> phraseList=new ArrayList<Tree>();
+		if (matcher.findNextMatchingNode()) { 
+		  Tree match = matcher.getMatch(); 
+		  // do what we want to with the subtree
+		  phraseList.add(match);
+		  
+		 
+		}
+	for(Tree subtree: phraseList){
+		System.out.println(subtree.getLeaves().toString());
+	}
+	
+	
+	/*for(int i = 0; i< phraseList.size(); i++){
+		for(int j = i; i< phraseList.size(); j++){
+		
+		List<Tree> np1 = phraseList.get(i).getLeaves();
+		List<Tree> np2 = phraseList.get(j).getLeaves();
+		
+		//Arrays.asList(phraseList.subList(i+1, phraseList.size())).containsAll(Arrays.asList(inner));
+	}*/
+		
+	    /*List<Tree> phraseList=new ArrayList<Tree>();
+	    for (Tree subtree: parse)
+	    {
+
+	      if(subtree.label().value().equals("NP"))
+	      {
+
+	        phraseList.add(subtree);
+	       // System.out.println(subtree);
+	        System.out.println(String.join(" ", subtree.getLeaves().toString()));
+
+	      }
+	    }*/
+
+	      //return phraseList;
+
 	}
 
 	private static void luceneSearch() {
