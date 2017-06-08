@@ -11,6 +11,7 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
@@ -189,7 +190,9 @@ public abstract class Bootstrapper {
 		//this.patterns.addAll(local_patterns);
 		// for loop for the patterns: empty at the beginning
 		//https://stackoverflow.com/questions/11624220/java-adding-elements-to-list-while-iterating-over-it
+		Map<String, Double> scores = new HashMap<String, Double>();
 		for(String pattern: patterns){
+			
 			// a positive match is defined as a match of a viable instance. Like could be 1000 in the texts but only 40 produce a viable instance.
 			Set<String> set = new HashSet<String>();
 			 
@@ -206,14 +209,22 @@ public abstract class Bootstrapper {
 					String sentence = Reader.readContentOfFile(path).toLowerCase();
 					//Sentence sent = new Sentence(sentence);
 					lookForPatternMatch(sentence, pattern);
-			
-					//seeds.addAll(instances);
 					
 				}
 				
 			}	
+			Double numberOfInstAllPatterns = (double) this.getPatternsToRate().values().size();
+			Double numberOfInstPattern_I = (double) this.getPatternsToRate().get(pattern).size();
+			Double score = (numberOfInstPattern_I/numberOfInstAllPatterns)* (Math.log(numberOfInstPattern_I) / Math.log(2));
+			scores.put(pattern, score);
 		}
+		
 		// rate the patterns from the collection patternsToRate and add the instances found for the good ones of them
+		List<Double> list = new ArrayList<Double>(scores.values());
+		Collections.sort(list, Collections.reverseOrder());
+		List<Double> top5 = list.subList(0, 5);
+		
+		// deal with top 5 and run
 		for(String patt: this.getPatternsToRate().keySet()){
 			this.patterns.add(patt);
 			this.found.addAll(this.getPatternsToRate().get(patt));
@@ -243,7 +254,9 @@ public abstract class Bootstrapper {
 					instancesForPattern.add(new Pair<String>(term1, term2));
 					this.getPatternsToRate().put(match, instancesForPattern); 
 				} else{
-					this.getPatternsToRate().put(match, new HashSet<Pair<String>>());
+					Set<Pair<String>> set = new HashSet<Pair<String>>();
+					set.add(new Pair<String>(term1, term2));
+					this.getPatternsToRate().put(match, set);
 				}
 
 				this.getAllConnections().put(match, posString);
@@ -349,7 +362,9 @@ public abstract class Bootstrapper {
 				instancesForPattern.add(candidate);
 				this.getPatternsToRate().put(pattern, instancesForPattern); 
 			} else{
-				this.getPatternsToRate().put(pattern, new HashSet<Pair<String>>());
+				Set<Pair<String>> set = new HashSet<Pair<String>>();
+				set.add(candidate);
+				this.getPatternsToRate().put(pattern, set);
 			}
 		}
 		

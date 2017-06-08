@@ -1,7 +1,9 @@
 package bootstrapping;
 
 import java.util.Arrays;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 
 import edu.stanford.nlp.simple.Sentence;
 import io.Reader;
@@ -61,17 +63,30 @@ public class IsABootstrapper extends Bootstrapper {
 					if(postag1.matches("NN|NNS|NNP|NNPS") && postag2.matches("NN|NNS|NNP|NNPS")){
 						Pair<String> pair = new Pair<String>(term1, term2);
 						this.getSeedsOnly().add(pair);
-						String pos = splitted[5];
+						String pos = splitted[5].trim();
+						String pattern = splitted[3].trim();
 						
 						Bootstrapper.getSeedConnections().put(connection, pos);
 						
 						String posPattern = Bootstrapper.getSeedConnections().get(splitted[3]);
 						if( posPattern != null){
-							Bootstrapper.getSeedConnections().put(splitted[3], posPattern);
-							this.getAllConnections().put(splitted[3], posPattern);
+							Bootstrapper.getSeedConnections().put(pattern, posPattern);
+							this.getAllConnections().put(pattern, posPattern);
 						} else{
 							Bootstrapper.getSeedConnections().put(splitted[3], "");
-							this.getAllConnections().put(splitted[3], "");
+							this.getAllConnections().put(pattern, "");
+						}
+						
+						// this is for the rating of patterns later
+						Set<Pair<String>> instancesForPattern =  this.getPatternsToRate().get(pattern);
+						Pair<String> seedPair = new Pair<String>(splitted[1], splitted[2]);
+						if(instancesForPattern !=null){
+							instancesForPattern.add(seedPair);
+							this.getPatternsToRate().put(pattern, instancesForPattern); 
+						} else{
+							Set<Pair<String>> set = new HashSet<Pair<String>>();
+							set.add(seedPair);
+							this.getPatternsToRate().put(pattern, set);
 						}
 					}
 				    
