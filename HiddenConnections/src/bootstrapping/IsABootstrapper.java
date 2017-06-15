@@ -1,13 +1,17 @@
 package bootstrapping;
 
 import java.util.Arrays;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 
 import edu.stanford.nlp.simple.Sentence;
 import io.Reader;
 import overall.Pair;
 
 public class IsABootstrapper extends Bootstrapper {
+	private  String NEW_PATTERNS_ISA_TXT = "";
+	private  String NEW_INSTANCES_ISA_TXT = "";
 	
 	public IsABootstrapper(){
 		this.setType("IS-A");
@@ -59,17 +63,30 @@ public class IsABootstrapper extends Bootstrapper {
 					if(postag1.matches("NN|NNS|NNP|NNPS") && postag2.matches("NN|NNS|NNP|NNPS")){
 						Pair<String> pair = new Pair<String>(term1, term2);
 						this.getSeedsOnly().add(pair);
-						String pos = splitted[5];
+						String pos = splitted[5].trim();
+						String pattern = splitted[3].trim();
 						
 						Bootstrapper.getSeedConnections().put(connection, pos);
 						
 						String posPattern = Bootstrapper.getSeedConnections().get(splitted[3]);
 						if( posPattern != null){
-							Bootstrapper.getSeedConnections().put(splitted[3], posPattern);
-							this.getAllConnections().put(splitted[3], posPattern);
+							Bootstrapper.getSeedConnections().put(pattern, posPattern);
+							this.getAllConnections().put(pattern, posPattern);
 						} else{
 							Bootstrapper.getSeedConnections().put(splitted[3], "");
-							this.getAllConnections().put(splitted[3], "");
+							this.getAllConnections().put(pattern, "");
+						}
+						
+						// this is for the rating of patterns later
+						Set<Pair<String>> instancesForPattern =  this.getPatternsToRate().get(pattern);
+						Pair<String> seedPair = new Pair<String>(splitted[1], splitted[2]);
+						if(instancesForPattern !=null){
+							instancesForPattern.add(seedPair);
+							this.getPatternsToRate().put(pattern, instancesForPattern); 
+						} else{
+							Set<Pair<String>> set = new HashSet<Pair<String>>();
+							set.add(seedPair);
+							this.getPatternsToRate().put(pattern, set);
 						}
 					}
 				    
@@ -78,6 +95,25 @@ public class IsABootstrapper extends Bootstrapper {
 				}
 			}
 		}
+	}
+	
+	public String getNEW_PATTERNS_ISA_TXT() {
+		return NEW_PATTERNS_ISA_TXT;
+	}
+
+
+	public void setNEW_PATTERNS_ISA_TXT(String nEW_PATTERNS_ISA_TXT) {
+		NEW_PATTERNS_ISA_TXT = nEW_PATTERNS_ISA_TXT;
+	}
+
+
+	public String getNEW_INSTANCES_ISA_TXT() {
+		return NEW_INSTANCES_ISA_TXT;
+	}
+
+
+	public void setNEW_INSTANCES_ISA_TXT(String nEW_INSTANCES_ISA_TXT) {
+		NEW_INSTANCES_ISA_TXT = nEW_INSTANCES_ISA_TXT;
 	}
 
 	public static void main(String[] args) {
