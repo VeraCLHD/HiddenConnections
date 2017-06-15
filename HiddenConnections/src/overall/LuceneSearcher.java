@@ -69,7 +69,7 @@ public class LuceneSearcher {
 	    
 	   
 	   QueryParser parser = new QueryParser(field, analyzer);
-	 
+	   //parser.setDefaultOperator(QueryParser.Operator.AND);
 
 	      String line = queryString != null ? queryString : in.readLine();
 	      if(line !=null){

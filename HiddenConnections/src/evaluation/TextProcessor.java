@@ -74,7 +74,8 @@ public class TextProcessor {
 		 * Commented out for rewriting docdump in texts and paragraphs and indexing them
 		 */
 		//tp.rewriteAndIndexTextsOfOneSource(DOCDUMP_TXT, EVALUATION_PATH_DOCDUMP, EVALUATION_PATH_DOCDUMP_PARAGRAPHS, INDEX_DOCDUMP_TEXTST, INDEX_DOCDUMP_PARAGRAHPS, 3);
-		
+		LuceneDemoIndexer.indexAllTexts(INDEX_DOCDUMP_TEXTST, EVALUATION_PATH_DOCDUMP);
+		LuceneDemoIndexer.indexAllTexts(INDEX_DOCDUMP_PARAGRAHPS, EVALUATION_PATH_DOCDUMP_PARAGRAPHS);
 		/*LuceneSearcher ls = new LuceneSearcher();  
 		Set<String> set;
 		try {
