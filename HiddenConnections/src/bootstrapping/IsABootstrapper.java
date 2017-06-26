@@ -24,7 +24,7 @@ public class IsABootstrapper extends Bootstrapper {
 		this.setPathToComplementarySeeds("SEEDS/IS-A/COMPLEMENTARY_TO_ISA.txt");
 		this.setNEW_INSTANCES_ISA_TXT("SEEDS/IS-A/new_instances_ISA.txt");
 		Writer.overwriteFile("", this.getNEW_INSTANCES_ISA_TXT());
-		this.setNEW_PATTERNS_ISA_TXT("SEEDS/IS-A/new_patterns_ISA.txt");
+		this.setNEW_PATTERNS_ISA_TXT("SEEDS/IS-A/patterns_with_highest_score_ISA.txt");
 		Writer.overwriteFile("", this.getNEW_PATTERNS_ISA_TXT());
 		this.setALL_INSTANCES_AND_PATTERNS("SEEDS/IS-A/all_instances_and_patterns.txt");
 		Writer.overwriteFile("", this.getALL_INSTANCES_AND_PATTERNS());

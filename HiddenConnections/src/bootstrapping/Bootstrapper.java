@@ -68,6 +68,8 @@ public abstract class Bootstrapper {
 	// this set would be empty at the beginning
 	// this is the collection for the final rated patterns
 	private Set<String> patterns = new HashSet<String>();
+	// scores for output at the end
+	private Map<String, Double> scores = new HashMap<String, Double>();
 	private static final int numberOfIterations = 5;
 
 	private static Set<String> allTerms = new HashSet<String>();
@@ -111,10 +113,10 @@ public abstract class Bootstrapper {
 		
 		for(String pattern: isa.getPatterns()){
 			String posPattern = isa.getAllConnections().get(pattern);
-			
+			Double score = isa.getScores().get(pattern);
 			// The pos pattern of following sequence was that frequent:
 			
-			Writer.appendLineToFile(pattern + "\t" + posPattern + "\t", isa.getNEW_PATTERNS_ISA_TXT());	
+			Writer.appendLineToFile(pattern + "\t" + posPattern + "\t" +  score, isa.getNEW_PATTERNS_ISA_TXT());	
 		}
 		
 		// a new file for all patterns and instances (including seeds)
@@ -131,6 +133,11 @@ public abstract class Bootstrapper {
 	}
 	
 	
+	public Map<String, Double> getScores() {
+		return scores;
+	}
+
+
 	public void getPathToSeeds(String type){
 		this.getPathToSeeds();
 	}
@@ -238,6 +245,7 @@ public abstract class Bootstrapper {
 				this.patterns.add(entry.getKey());
 				// add instances for this pattern
 				this.found.addAll(this.getPatternsToRate().get(entry.getKey()));
+				this.scores.put(entry.getKey(), entry.getValue());
 			}
 		}
 	
@@ -332,9 +340,9 @@ public abstract class Bootstrapper {
 		    //
 		    for(int i = term1_candidate.size()-1; i>= 0; i--){
 		    	String t1_candidate = String.join(" ", term1_candidate.subList(i, term1_candidate.size()));
-		    	String t1_candidateWP = t1_candidate.replaceAll("[^a-zA-Z]+$", "");
+		    	String t1_candidateWP = t1_candidate.replaceAll("[^a-zA-Z]+$", "").trim();
 		    	if(Bootstrapper.allTerms.contains(t1_candidateWP)){
-		    		temp1 = t1_candidate;
+		    		temp1 = t1_candidateWP;
 		    		continue;
 		    	}// in the sentence string, punctiation is directly in the word 
 		    	else{
@@ -346,7 +354,7 @@ public abstract class Bootstrapper {
 		    	String t2_candidate = String.join(" ", term2_candidate.subList(0, i));
 		    	String t2_candidateWP = t2_candidate.replaceAll("[^a-zA-Z]+$", "").trim();
 		    	if(Bootstrapper.allTerms.contains(t2_candidateWP)){
-		    		temp2 = t2_candidate;
+		    		temp2 = t2_candidateWP;
 		    		continue;
 		    	}
 		    	else{
