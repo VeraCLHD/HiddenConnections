@@ -1,0 +1,51 @@
+dump sentences\V-15_315_.txt	high blood pressure	symptom	is just a	HYPERNYMY	[VBZ, RB, DT]	4
+dump sentences\V-589_3_.txt	dental plaque	bacteria	is	HYPERNYMY	[VBZ]	4
+dump sentences\V-603_21_.txt	high fructose corn syrup	pro-oxidant	acts as a	HYPERNYMY	[VBZ, IN, DT]	4
+dump sentences\A-20_0_.txt	nuts	plant foods	are	HYPERNYMY	[VBP]	4
+dump sentences\A-94_16_.txt	garlic	vegetables	stood out for the	HYPERNYMY	[VBD, RP, IN, DT]	2
+dump sentences\A-296_15_.txt	mushrooms	vegetable	were the	HYPERNYMY	[VBD, DT]	2
+dump sentences\A-337_6_.txt	hypertension	diseases	are the	HYPERNYMY	[VBP, DT]	2
+dump sentences\V-820_9_.txt	carrots	roots	are	HYPERNYMY	[VBP]	2
+dump sentences\A-75_11_.txt	xenoestrogens	chemicals	are	HYPERNYMY	[VBP]	2
+dump sentences\V-361_19_.txt	sciatica	back pain	is	HYPERNYMY	[VBZ]	2
+dump sentences\T-1424_13_.txt	bt corn	pesticide	is a	HYPERNYMY	[VBZ, DT]	2
+dump sentences\A-64_3_.txt	mediterranean diet	diet	is a	HYPERNYMY	[VBZ, DT]	2
+dump sentences\A-288_13_.txt	acrylamide	chemical	is a	HYPERNYMY	[VBZ, DT]	2
+dump sentences\V-351_14_.txt	fiber	prebiotic	acts as a	HYPERNYMY	[VBZ, IN, DT]	2
+dump sentences\V-101_150_.txt	plant-based diets	low-calorie diets	are	HYPERNYMY	[VBP]	2
+dump sentences\A-137_11_.txt	smoking	risk	was a	HYPERNYMY	[VBD, DT]	2
+dump sentences\V-496_6_.txt	turmeric	plant	is just a	HYPERNYMY	[VBZ, RB, DT]	2
+dump sentences\T-1783_13_.txt	supplements	fish oil	is	HYPERNYMY	[VBZ]	2
+dump sentences\A-427_13_.txt	iron	pro-oxidant	is a	HYPERNYMY	[VBZ, DT]	2
+dump sentences\A-163_6_.txt	obesity	risk	was a	HYPERNYMY	[VBD, DT]	1
+dump sentences\T-439_0_.txt	chickpeas	legume	are a	HYPERNYMY	[VBP, DT]	1
+dump sentences\V-827_9_.txt	insects	contaminants	are just	HYPERNYMY	[VBP, RB]	1
+dump sentences\V-1035_3_.txt	organochlorines	chemical	are	HYPERNYMY	[VBP]	1
+dump sentences\T-701_0_.txt	estrogen	steroid	is a	HYPERNYMY	[VBZ, DT]	1
+dump sentences\V-141_30_.txt	vinegar	product	is a	HYPERNYMY	[VBZ, DT]	1
+dump sentences\V-195_4_.txt	lead	toxin	is a	HYPERNYMY	[VBZ, DT]	1
+dump sentences\V-574_13_.txt	cherries	plant	are a	HYPERNYMY	[VBP, DT]	1
+dump sentences\V-176_3_.txt	colic	pain	is	HYPERNYMY	[VBZ]	1
+dump sentences\V-1075_5_.txt	hepatitis e	zoonotic disease	is a	HYPERNYMY	[VBZ, DT]	1
+dump sentences\A-110_6_.txt	sulforaphane	chemical	is like a	HYPERNYMY	[VBZ, IN, DT]	1
+dump sentences\T-1137_0_.txt	lymphoma	cancer	is	HYPERNYMY	[VBZ]	1
+dump sentences\V-188_12_.txt	prediabetes	disease	is a	HYPERNYMY	[VBZ, DT]	1
+dump sentences\T-806_0_.txt	bean	legume	are a	HYPERNYMY	[VBP, DT]	1
+dump sentences\T-356_0_.txt	campylobacter	bacteria	is a	HYPERNYMY	[VBZ, DT]	1
+dump sentences\V-149_6_.txt	tobacco	nightshade	is a	HYPERNYMY	[VBZ, DT]	1
+dump sentences\A-292_4_.txt	melatonin	hormone	is a	HYPERNYMY	[VBZ, DT]	1
+dump sentences\V-117_8_.txt	vitamin e	vitamin	was the	HYPERNYMY	[VBD, DT]	1
+dump sentences\A-94_16_.txt	raisins	dried fruit	stood out for the	HYPERNYMY	[VBD, RP, IN, DT]	1
+dump sentences\T-1133_0_.txt	lutein	carotenoid	is a	HYPERNYMY	[VBZ, DT]	1
+dump sentences\T-1730_0_.txt	spirulina	blue-green algae	is a type of	HYPERNYMY	[VBZ, DT, NN, IN]	1
+dump sentences\T-1783_11_.txt	myelopathy	syndrome	is a	HYPERNYMY	[VBZ, DT]	1
+dump sentences\T-1747_0_.txt	statins	drugs	are a class of	HYPERNYMY	[VBP, DT, NN, IN]	1
+dump sentences\V-1018_2_.txt	aging	disease	is a	HYPERNYMY	[VBZ, DT]	1
+dump sentences\T-1293_11_.txt	multiple sclerosis	disease	is a	HYPERNYMY	[VBZ, DT]	1
+dump sentences\T-756_0_.txt	flavonoids	antioxidant	are a group of	HYPERNYMY	[VBP, DT, NN, IN]	1
+dump sentences\V-729_25_.txt	igf-1	growth hormone	is a	HYPERNYMY	[VBZ, DT]	1
+dump sentences\V-993_2_.txt	phthalates	chemical	are [	HYPERNYMY	[VBP, -LRB-]	1
+dump sentences\V-875_6_.txt	nitrosamines	carcinogens	are the	HYPERNYMY	[VBP, DT]	1
+dump sentences\V-1193_2_.txt	patulin	mycotoxin	is a	HYPERNYMY	[VBZ, DT]	1
+dump sentences\V-833_10_.txt	tomatoes	vegetables	were	HYPERNYMY	[VBD]	1
+dump sentences\A-484_3_.txt	phthalates	chemical	are	HYPERNYMY	[VBP]	1

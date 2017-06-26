@@ -98,9 +98,14 @@ public class Bootstrapper {
 	public static void main(String[] args) {
 		
 		Bootstrapper.readAllTerms();
+		List<String> types = new ArrayList<String>();
+		//types.add("IS-A");
+		//types.add("HYPERNYMY");
+		types.add("PART-OF");
 		
-		runForEachRelation("IS-A");
-		
+		for(String type: types){
+			runForEachRelation(type);
+		}
 
 	}
 

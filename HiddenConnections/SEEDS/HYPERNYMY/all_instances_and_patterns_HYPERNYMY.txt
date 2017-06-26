@@ -1,0 +1,291 @@
+
+chicken	low-fat	was a	HYPERNYMY
+smoking	risk	was a	HYPERNYMY
+obesity	risk factor	was a	HYPERNYMY
+obesity	risk	was a	HYPERNYMY
+infection	death	was a	HYPERNYMY
+kempner	lifestyle medicine	was a	HYPERNYMY
+smoking	risk factor	was a	HYPERNYMY
+rose hips	fruits	are the	HYPERNYMY
+anthocyanins	pigments	are the	HYPERNYMY
+hypertension	diseases	are the	HYPERNYMY
+odds	label	are the	HYPERNYMY
+berries	stars	are the	HYPERNYMY
+nitrosamines	carcinogens	are the	HYPERNYMY
+pecans	chart	are the	HYPERNYMY
+infants	fatter	are	HYPERNYMY
+japanese	dying	are	HYPERNYMY
+vegetables	bok choy	are	HYPERNYMY
+video	cats	are	HYPERNYMY
+campylobacter	poultry	are	HYPERNYMY
+greens	health-promoting	are	HYPERNYMY
+kids	eating	are	HYPERNYMY
+phthalates	chemical	are	HYPERNYMY
+million americans	blind	are	HYPERNYMY
+estrogens	milk	are	HYPERNYMY
+sorbitol	sugar	are	HYPERNYMY
+smoke	fat soluble	are	HYPERNYMY
+carrots	roots	are	HYPERNYMY
+calcium supplements	doing	are	HYPERNYMY
+vegetarians	iodine	are	HYPERNYMY
+teeth	brushed	are	HYPERNYMY
+strokes	killer	are	HYPERNYMY
+organochlorines	chemical	are	HYPERNYMY
+americans	vitamin d	are	HYPERNYMY
+who	leaner	are	HYPERNYMY
+vegetables	potato chips	are	HYPERNYMY
+chemicals	neurotoxic	are	HYPERNYMY
+tomatoes	water	are	HYPERNYMY
+longevity	legumes	are	HYPERNYMY
+breast tumors	estrogen receptor	are	HYPERNYMY
+rhubarb	roots	are	HYPERNYMY
+omega	flax seeds	are	HYPERNYMY
+americans	overweight	are	HYPERNYMY
+pesticides	fruits	are	HYPERNYMY
+women	dying	are	HYPERNYMY
+chickens	fatty	are	HYPERNYMY
+herbal teas	fine	are	HYPERNYMY
+abdominal aortic aneurysms	ballooning bulges	are	HYPERNYMY
+who	smart	are	HYPERNYMY
+antioxidants	plant	are	HYPERNYMY
+meat carcinogens	mutagenic	are	HYPERNYMY
+video	fatty foods	are	HYPERNYMY
+beans	fruit	are	HYPERNYMY
+birds	chemicals	are	HYPERNYMY
+grains	seeds	are	HYPERNYMY
+salmonella	poultry	are	HYPERNYMY
+stones	calcium	are	HYPERNYMY
+greens	fat soluble	are	HYPERNYMY
+xenoestrogens	chemicals	are	HYPERNYMY
+who	overweight	are	HYPERNYMY
+colon cancer	over	are	HYPERNYMY
+omega	bioequivalent	are	HYPERNYMY
+drugs	exposures	are	HYPERNYMY
+brown rice	smart	are	HYPERNYMY
+milk	muscles	are	HYPERNYMY
+million americans	gluten	are	HYPERNYMY
+who	insulin	are	HYPERNYMY
+symptoms	heartburn	are	HYPERNYMY
+liver cancer	diseases	are	HYPERNYMY
+salad	fat soluble	are	HYPERNYMY
+americans	eating	are	HYPERNYMY
+diverticula	outpouchings	are	HYPERNYMY
+odds	suffering	are	HYPERNYMY
+nuts	health-promoting	are	HYPERNYMY
+green leafies	roots	are	HYPERNYMY
+who	eating	are	HYPERNYMY
+cells	dying	are	HYPERNYMY
+who	lactose	are	HYPERNYMY
+workers	diseases	are	HYPERNYMY
+dietary guidelines	fine	are	HYPERNYMY
+peas	roots	are	HYPERNYMY
+floppy ears	cute	are	HYPERNYMY
+fruits	eaten	are	HYPERNYMY
+meat	overweight	are	HYPERNYMY
+greens	greens	are	HYPERNYMY
+candy	phytonutrient-rich	are	HYPERNYMY
+videos	multivitamins	are	HYPERNYMY
+children	eating	are	HYPERNYMY
+who	happier	are	HYPERNYMY
+vegetarians	overweight	are	HYPERNYMY
+citrus fruits	acidic	are	HYPERNYMY
+nuts	plant foods	are	HYPERNYMY
+rays	doing	are	HYPERNYMY
+kids	overweight	are	HYPERNYMY
+journalists	doing	are	HYPERNYMY
+babies	breast fed	are	HYPERNYMY
+flexitarians	overweight	are	HYPERNYMY
+breast cancer survival	flax seeds	are	HYPERNYMY
+snacks	fruit	are	HYPERNYMY
+supplements	supplement	are	HYPERNYMY
+video	goji berries	are	HYPERNYMY
+healthiest nuts	pecans	are	HYPERNYMY
+saturated fat	cheese	are	HYPERNYMY
+overweight	overweight	are	HYPERNYMY
+fruits	roots	are	HYPERNYMY
+nitrites	preservatives	are	HYPERNYMY
+phytonutrients	fat soluble	are	HYPERNYMY
+plant-based diets	low-calorie diets	are	HYPERNYMY
+plant-based diets	beta	are	HYPERNYMY
+cherries	plant	are a	HYPERNYMY
+tomatoes	billion dollar	are a	HYPERNYMY
+flavonoids	group	are a	HYPERNYMY
+dietary supplements	multibillion	are a	HYPERNYMY
+sweet potatoes	health-promoting	are a	HYPERNYMY
+chickpeas	legume	are a	HYPERNYMY
+bean	legume	are a	HYPERNYMY
+garbanzo bean	legume	are a	HYPERNYMY
+putrescine	chemical	is a	HYPERNYMY
+estrogen	steroid	is a	HYPERNYMY
+diet	heart-healthy	is a	HYPERNYMY
+mediterranean diet	diet	is a	HYPERNYMY
+myelopathy	syndrome	is a	HYPERNYMY
+heart disease	choice	is a	HYPERNYMY
+ibd	chronic inflammatory	is a	HYPERNYMY
+amyloidosis	group	is a	HYPERNYMY
+diverticulosis	disease	is a	HYPERNYMY
+acrylamide	chemical	is a	HYPERNYMY
+erythritol	nontoxic	is a	HYPERNYMY
+balsamic vinegar	product	is a	HYPERNYMY
+galactose	milk	is a	HYPERNYMY
+exercise	risk factor	is a	HYPERNYMY
+acrylamide	neurotoxic chemical	is a	HYPERNYMY
+depression	risk factor	is a	HYPERNYMY
+lutein	carotenoid phytonutrient	is a	HYPERNYMY
+lead	toxin	is a	HYPERNYMY
+bt corn	pesticide	is a	HYPERNYMY
+osteoarthritis	degenerative joint	is a	HYPERNYMY
+children	vegan diet	is a	HYPERNYMY
+poultry	risk factor	is a	HYPERNYMY
+campylobacter	bacteria	is a	HYPERNYMY
+irritable bowel syndrome	chronic	is a	HYPERNYMY
+prediabetes	disease	is a	HYPERNYMY
+caldwell esselstyn	practitioner pioneer	is a	HYPERNYMY
+atherosclerosis	disease	is a	HYPERNYMY
+salicylic acid	defense	is a	HYPERNYMY
+vinegar	product	is a	HYPERNYMY
+milk	trigger	is a	HYPERNYMY
+fluoride	poison	is a	HYPERNYMY
+gluten sensitivity	disease	is a	HYPERNYMY
+aging	disease	is a	HYPERNYMY
+diverticulosis	fiber	is a	HYPERNYMY
+supplements	bit	is a	HYPERNYMY
+mediterranean diet	diet high	is a	HYPERNYMY
+melatonin	hormone	is a	HYPERNYMY
+lutein	carotenoid	is a	HYPERNYMY
+cortisol	stress hormone	is a	HYPERNYMY
+asthma	chronic inflammatory	is a	HYPERNYMY
+streak	baby	is a	HYPERNYMY
+patulin	mycotoxin	is a	HYPERNYMY
+casein	milk protein	is a	HYPERNYMY
+maspin	tumor suppressor gene	is a	HYPERNYMY
+diabetes	risk factor	is a	HYPERNYMY
+multiple sclerosis	disease	is a	HYPERNYMY
+iron	pro-oxidant	is a	HYPERNYMY
+breastfed infants	diet	is a	HYPERNYMY
+acrylamide	neurotoxic	is a	HYPERNYMY
+tobacco	nightshade	is a	HYPERNYMY
+scurvy	vitamin c	is a	HYPERNYMY
+igf-1	growth hormone	is a	HYPERNYMY
+exercise	stress	is a	HYPERNYMY
+atherosclerosis	chronic	is a	HYPERNYMY
+rheumatoid arthritis	chronic	is a	HYPERNYMY
+neurotoxin	meat consumption	is	HYPERNYMY
+beet juice	nitrate	is	HYPERNYMY
+daily diet	vegetarian	is	HYPERNYMY
+saturated fat	beef	is	HYPERNYMY
+risk	over	is	HYPERNYMY
+baking soda	sodium bicarbonate	is	HYPERNYMY
+lymphoma	cancer	is	HYPERNYMY
+u.s	down	is	HYPERNYMY
+tea	fine	is	HYPERNYMY
+multiple sclerosis	beta	is	HYPERNYMY
+american diet	meat	is	HYPERNYMY
+american diet	dairy products	is	HYPERNYMY
+diseases	heart disease	is	HYPERNYMY
+leading killer	parkinson	is	HYPERNYMY
+brain	fat	is	HYPERNYMY
+supplements	fish oil	is	HYPERNYMY
+fruit	fruit	is	HYPERNYMY
+video	vitamin d	is	HYPERNYMY
+drug	aspirin	is	HYPERNYMY
+infants	breastmilk	is	HYPERNYMY
+drink	tea	is	HYPERNYMY
+bone	eaten	is	HYPERNYMY
+tea	matcha	is	HYPERNYMY
+milk	skim milk	is	HYPERNYMY
+exercise	down	is	HYPERNYMY
+cancer	insulin-like growth	is	HYPERNYMY
+antioxidants	boiling	is	HYPERNYMY
+tumor	eating	is	HYPERNYMY
+ham	pork	is	HYPERNYMY
+colon	butyrate	is	HYPERNYMY
+worry	eating	is	HYPERNYMY
+video	milk	is	HYPERNYMY
+video	monsanto	is	HYPERNYMY
+nutrition	diet	is	HYPERNYMY
+uric acid	over	is	HYPERNYMY
+colic	pain	is	HYPERNYMY
+salmon	fish consumption	is	HYPERNYMY
+diet	acid producing	is	HYPERNYMY
+vegetable	bell peppers	is	HYPERNYMY
+death	choline	is	HYPERNYMY
+signal	igf	is	HYPERNYMY
+fruit	fine	is	HYPERNYMY
+standard american diet	doing	is	HYPERNYMY
+flight	apple juice	is	HYPERNYMY
+plant protein	protein	is	HYPERNYMY
+video	homeopathy	is	HYPERNYMY
+pcbs	fish consumption	is	HYPERNYMY
+table sugar	fructose	is	HYPERNYMY
+fiber	potassium	is	HYPERNYMY
+disease	exercise	is	HYPERNYMY
+star anise	poisonous	is	HYPERNYMY
+label	lying	is	HYPERNYMY
+fiber	thrown	is	HYPERNYMY
+soymilk	shaken	is	HYPERNYMY
+disability	diet	is	HYPERNYMY
+gmo soy	gmo	is	HYPERNYMY
+trans fat	zero	is	HYPERNYMY
+calorie	junk	is	HYPERNYMY
+fuji	fuji	is	HYPERNYMY
+taking statins	suffering	is	HYPERNYMY
+neurotoxins	bmaa	is	HYPERNYMY
+heart	beating	is	HYPERNYMY
+video	hydroponic basil	is	HYPERNYMY
+teens	pizza	is	HYPERNYMY
+signal	butyrate	is	HYPERNYMY
+nettle tea	mineral	is	HYPERNYMY
+california	home	is	HYPERNYMY
+trans fats	zero	is	HYPERNYMY
+breast cancer	sensitive	is	HYPERNYMY
+adequate intake	zero	is	HYPERNYMY
+video	gluten	is	HYPERNYMY
+antioxidants	dandelion	is	HYPERNYMY
+hibiscus tea	sour	is	HYPERNYMY
+fat intake	zero	is	HYPERNYMY
+mediterranean diet	sodium intake	is	HYPERNYMY
+who	pritikin	is	HYPERNYMY
+can	iodine	is	HYPERNYMY
+who	who	is	HYPERNYMY
+mushrooms	vitamin d	is	HYPERNYMY
+mom	eating	is	HYPERNYMY
+fruit juice	fiber	is	HYPERNYMY
+trans fat	down	is	HYPERNYMY
+children	eaten	is	HYPERNYMY
+tea	beans	is	HYPERNYMY
+infection	hen	is	HYPERNYMY
+broccoli	broccoli	is	HYPERNYMY
+vision loss	cataracts	is	HYPERNYMY
+diet	vegetables	is	HYPERNYMY
+video	protein	is	HYPERNYMY
+video	fish oil	is	HYPERNYMY
+risk	down	is	HYPERNYMY
+u.s	overweight	is	HYPERNYMY
+carcinogenic	carcinogenic	is	HYPERNYMY
+urine	acidic	is	HYPERNYMY
+herbal tea	hibiscus	is	HYPERNYMY
+sciatica	back pain	is	HYPERNYMY
+depression	treated	is	HYPERNYMY
+dental plaque	bacteria	is	HYPERNYMY
+gluten	fine	is	HYPERNYMY
+videos	noni juice	is	HYPERNYMY
+salmonella infection	eating chicken	is	HYPERNYMY
+coffee	beans	is	HYPERNYMY
+raw	bell peppers	is	HYPERNYMY
+women	heart disease	is	HYPERNYMY
+diabetes	diabetes	is	HYPERNYMY
+osteoarthritis	rose hips	is	HYPERNYMY
+video	gluten sensitivity	is	HYPERNYMY
+anxiety	treated	is	HYPERNYMY
+exercise	medicine	is	HYPERNYMY
+culture	turmeric	is	HYPERNYMY
+specialty	lifestyle medicine	is	HYPERNYMY
+animal protein	proxy	is just a	HYPERNYMY
+high blood pressure	symptom	is just a	HYPERNYMY
+turmeric	plant	is just a	HYPERNYMY
+tea drinking	sign	is just a	HYPERNYMY
+plant-based diet	virus	is just a	HYPERNYMY
+garlic	vegetables	stood out for the	HYPERNYMY
+raisins	vegetables	stood out for the	HYPERNYMY
+raisins	dried fruit	stood out for the	HYPERNYMY
