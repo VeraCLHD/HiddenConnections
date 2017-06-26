@@ -36,7 +36,7 @@ import overall.LuceneSearcher;
 import overall.Pair;
 
 
-public abstract class Bootstrapper {
+public class Bootstrapper {
 	
 	private String SEED_CONNECTIONS_TXT;
 	
@@ -48,12 +48,15 @@ public abstract class Bootstrapper {
 	private String pathToSeeds;
 	private String pathToComplementarySeeds;
 	private String pathToIndexedCorpus = "IndexDirectory";
+	private  String NEW_PATTERNS = "";
+	private  String NEW_INSTANCES = "";
+	private  String ALL_INSTANCES_AND_PATTERNS = "";
 	
 	private static final String pathToAllTerms = "terms/all_terms_and_variants_with10_filtered.txt";
 
 	// key: plain strings that come from the seeds; value: POS patterns as list
 	// example: such as: [JJ, NN]
-	private static Map<String, String> seedConnections = new HashMap<String, String>();
+	private Map<String, String> seedConnections = new HashMap<String, String>();
 	
 	// key: plain strings; value: POS patterns as list
 	// example: such as: [JJ, NN]
@@ -70,66 +73,81 @@ public abstract class Bootstrapper {
 	private Set<String> patterns = new HashSet<String>();
 	// scores for output at the end
 	private Map<String, Double> scores = new HashMap<String, Double>();
-	private static final int numberOfIterations = 5;
+	private static final int numberOfIterations = 50;
 
 	private static Set<String> allTerms = new HashSet<String>();
 	// here, all patterns and seeds are added to be rated
 	private Map<String, Set<Pair<String>>> patternsToRate = new HashMap<String, Set<Pair<String>>>();
 	
+	public Bootstrapper(String type){
+		this.setType(type);
+		this.setPathToSeeds("SEEDS/"+ type + "/" + type + "_" +"seeds.txt");
+		this.setPathToComplementarySeeds("SEEDS/"+ type + "/COMPLEMENTARY_TO_" + type + ".txt");
+		this.setNEW_INSTANCES_ISA_TXT("SEEDS/"+ type + "/new_instances_" + type + ".txt");
+		Writer.overwriteFile("", this.getNEW_INSTANCES());
+		this.setNEW_PATTERNS("SEEDS/"+ type + "/patterns_with_highest_score_"+ type + ".txt");
+		Writer.overwriteFile("", this.getNEW_PATTERNS());
+		this.setALL_INSTANCES_AND_PATTERNS("SEEDS/"+ type + "/all_instances_and_patterns_" + type + ".txt");
+		Writer.overwriteFile("", this.getALL_INSTANCES_AND_PATTERNS());
+		this.setSEED_CONNECTIONS_TXT("SEEDS/" + type +"/seed_connections_" + type + ".txt");
+		Writer.overwriteFile("", this.getSEED_CONNECTIONS_TXT());
+		this.setSEEDS_TXT("SEEDS/" + type +"/seeds_" + type + ".txt");
+		Writer.overwriteFile("", this.getSEEDS_TXT());
+	}
+	
 	public static void main(String[] args) {
 		
+		Bootstrapper.readAllTerms();
 		
-		IsABootstrapper isa = new IsABootstrapper();
-		isa.readAllTerms();
+		runForEachRelation("IS-A");
 		
+
+	}
+
+	private static void runForEachRelation(String type) {
+		Bootstrapper bootstrapper = new Bootstrapper(type);
+		bootstrapper.readAndFilterSeedsFile();
 		
-		isa.readAndFilterSeedsFile();
-		
-		
-		for(Pair<String> seeds: isa.getSeedsOnly()){
-			Writer.appendLineToFile(seeds.first + "\t" + seeds.second, isa.getSEEDS_TXT());
+		for(Pair<String> seeds: bootstrapper.getSeedsOnly()){
+			Writer.appendLineToFile(seeds.first + "\t" + seeds.second, bootstrapper.getSEEDS_TXT());
 		}
 		
-		for(String seed_connection: Bootstrapper.getSeedConnections().keySet()){
-			Writer.appendLineToFile(seed_connection, isa.getSEED_CONNECTIONS_TXT());
+		for(String seed_connection: bootstrapper.getSeedConnections().keySet()){
+			Writer.appendLineToFile(seed_connection, bootstrapper.getSEED_CONNECTIONS_TXT());
 		}
-		RelationsFilter.readComplementaryFile(isa.getPathToComplementarySeeds());
-		isa.getFound().addAll(isa.getSeedsOnly());
+		RelationsFilter.readComplementaryFile(bootstrapper.getPathToComplementarySeeds());
+		bootstrapper.getFound().addAll(bootstrapper.getSeedsOnly());
 		
 	
-		isa.bootstrapp();
+		bootstrapper.bootstrapp();
 		
 		//System.out.println(isa.getPatterns().toString());
-		isa.getFound().removeAll(isa.getSeedsOnly());
+		bootstrapper.getFound().removeAll(bootstrapper.getSeedsOnly());
 			
 		
-		for(Pair<String> pair: isa.getFound()){
-			Writer.appendLineToFile(pair.first + "\t" + pair.second, isa.getNEW_INSTANCES_ISA_TXT());
+		for(Pair<String> pair: bootstrapper.getFound()){
+			Writer.appendLineToFile(pair.first + "\t" + pair.second, bootstrapper.getNEW_INSTANCES());
 		}
 		
-		//Set<String> seeds = isa.getSeedConnections().keySet();
-		//isa.getPatterns().removeAll(seeds);
 		
 		
-		for(String pattern: isa.getPatterns()){
-			String posPattern = isa.getAllConnections().get(pattern);
-			Double score = isa.getScores().get(pattern);
+		for(String pattern: bootstrapper.getPatterns()){
+			String posPattern = bootstrapper.getAllConnections().get(pattern);
+			Double score = bootstrapper.getScores().get(pattern);
 			// The pos pattern of following sequence was that frequent:
 			
-			Writer.appendLineToFile(pattern + "\t" + posPattern + "\t" +  score, isa.getNEW_PATTERNS_ISA_TXT());	
+			Writer.appendLineToFile(pattern + "\t" + posPattern + "\t" +  score, bootstrapper.getNEW_PATTERNS());	
 		}
 		
 		// a new file for all patterns and instances (including seeds)
-		for(String pattern: isa.getPatterns()){
-			for(Pair<String> instance: isa.getPatternsToRate().get(pattern)){
+		for(String pattern: bootstrapper.getPatterns()){
+			for(Pair<String> instance: bootstrapper.getPatternsToRate().get(pattern)){
 				Writer.appendLineToFile(instance.first + "\t" + instance.second 
-						+ "\t" + pattern + "\t" + isa.getType(), isa.getALL_INSTANCES_AND_PATTERNS());
+						+ "\t" + pattern + "\t" + bootstrapper.getType(), bootstrapper.getALL_INSTANCES_AND_PATTERNS());
 				
 				
 			}
 		}
-		
-
 	}
 	
 	
@@ -142,8 +160,6 @@ public abstract class Bootstrapper {
 		this.getPathToSeeds();
 	}
 	
-	
-	public abstract boolean filterConnectionsForType(String candidate, List<String> pos, String[] splitted);
 	
 	public void bootstrapp(){
 		LuceneSearcher ls = new LuceneSearcher();
@@ -341,7 +357,7 @@ public abstract class Bootstrapper {
 		    for(int i = term1_candidate.size()-1; i>= 0; i--){
 		    	String t1_candidate = String.join(" ", term1_candidate.subList(i, term1_candidate.size()));
 		    	String t1_candidateWP = t1_candidate.replaceAll("[^a-zA-Z]+$", "").trim();
-		    	if(Bootstrapper.allTerms.contains(t1_candidateWP)){
+		    	if(this.allTerms.contains(t1_candidateWP)){
 		    		temp1 = t1_candidateWP;
 		    		continue;
 		    	}// in the sentence string, punctiation is directly in the word 
@@ -353,7 +369,7 @@ public abstract class Bootstrapper {
 		    for(int i = 1; i<= term2_candidate.size(); i++){
 		    	String t2_candidate = String.join(" ", term2_candidate.subList(0, i));
 		    	String t2_candidateWP = t2_candidate.replaceAll("[^a-zA-Z]+$", "").trim();
-		    	if(Bootstrapper.allTerms.contains(t2_candidateWP)){
+		    	if(this.allTerms.contains(t2_candidateWP)){
 		    		temp2 = t2_candidateWP;
 		    		continue;
 		    	}
@@ -403,14 +419,85 @@ public abstract class Bootstrapper {
 	}
 	
 	
-	public abstract void readAndFilterSeedsFile();
-	
-	public void readAllTerms(){
+	public static void readAllTerms(){
 		List<String> lines = Reader.readLinesList(Bootstrapper.pathToAllTerms);
 		for(String line: lines){
 			if(!line.isEmpty() && !line.equals(" ")){
 				String term = line.trim().toLowerCase();
 				allTerms.add(term);
+			}
+		}
+	}
+	
+	public boolean filterConnectionsForType(String candidate, List<String> pos, String[] splitted) {
+		boolean result = false;
+		
+			
+			if(RelationsFilter.isInAnotherRelation(candidate, pos.toString(), this)||
+				 RelationsFilter.candidateContainsOtherTerms(candidate)
+				|| RelationsFilter.isIncompleteNP(pos)
+				|| RelationsFilter.isSingleChar(candidate)
+				|| splitted.length >= 8){
+					 
+				
+				result = true;
+		
+		}
+		
+		return result;
+	}
+	
+	public void readAndFilterSeedsFile(){
+		List<String> lines = Reader.readLinesList(this.getPathToSeeds());
+		for(String line: lines){
+			if(!line.isEmpty() && !line.equals(" ")){
+				String[] splitted = line.split("\t");
+				if(splitted.length ==7){
+				
+					String term1 = splitted[1];
+					String term2 = splitted[2];
+					String connection = splitted[3];
+					
+					Sentence pos1 = new Sentence(term1);
+					Sentence pos2 = new Sentence(term2);
+					
+					String postag1 = pos1.posTag(pos1.length()-1);
+					String postag2 = pos2.posTag(pos2.length()-1);
+					
+					// if both are nouns, then it is IS-A; the POS pattern must end with a noun -> then it is an NP
+					if(postag1.matches("NN|NNS|NNP|NNPS") && postag2.matches("NN|NNS|NNP|NNPS")){
+						Pair<String> pair = new Pair<String>(term1, term2);
+						this.getSeedsOnly().add(pair);
+						String pos = splitted[5].trim();
+						String pattern = splitted[3].trim();
+						
+						this.getSeedConnections().put(connection, pos);
+						
+						String posPattern = this.getSeedConnections().get(splitted[3]);
+						if( posPattern != null){
+							this.getSeedConnections().put(pattern, posPattern);
+							this.getAllConnections().put(pattern, posPattern);
+						} else{
+							this.getSeedConnections().put(splitted[3], "");
+							this.getAllConnections().put(pattern, "");
+						}
+						
+						// this is for the rating of patterns later
+						Set<Pair<String>> instancesForPattern =  this.getPatternsToRate().get(pattern);
+						Pair<String> seedPair = new Pair<String>(splitted[1], splitted[2]);
+						if(instancesForPattern !=null){
+							instancesForPattern.add(seedPair);
+							this.getPatternsToRate().put(pattern, instancesForPattern); 
+						} else{
+							Set<Pair<String>> set = new HashSet<Pair<String>>();
+							set.add(seedPair);
+							this.getPatternsToRate().put(pattern, set);
+						}
+					}
+				    
+
+					
+				}
 			}
 		}
 	}
@@ -430,7 +517,7 @@ public abstract class Bootstrapper {
 	public static int getNumberofiterations() {
 		return numberOfIterations;
 	}
-	public static Map<String, String> getSeedConnections() {
+	public Map<String, String> getSeedConnections() {
 		return seedConnections;
 	}
 	public Set<Pair<String>> getSeedsOnly() {
@@ -517,6 +604,35 @@ public abstract class Bootstrapper {
 
 	public void setSEEDS_TXT(String sEEDS_TXT) {
 		SEEDS_TXT = sEEDS_TXT;
+	}
+	
+	// from here only paths
+	public String getNEW_PATTERNS() {
+		return NEW_PATTERNS;
+	}
+
+
+	public void setNEW_PATTERNS(String nEW_PATTERNS) {
+		NEW_PATTERNS = nEW_PATTERNS;
+	}
+
+
+	public String getNEW_INSTANCES() {
+		return NEW_INSTANCES;
+	}
+
+
+	public void setNEW_INSTANCES_ISA_TXT(String nEW_INSTANCES) {
+		NEW_INSTANCES = nEW_INSTANCES;
+	}
+	
+	public String getALL_INSTANCES_AND_PATTERNS() {
+		return ALL_INSTANCES_AND_PATTERNS;
+	}
+
+
+	public void setALL_INSTANCES_AND_PATTERNS(String aLL_INSTANCES_AND_PATTERNS) {
+		ALL_INSTANCES_AND_PATTERNS = aLL_INSTANCES_AND_PATTERNS;
 	}
 
 

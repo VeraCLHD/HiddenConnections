@@ -75,11 +75,11 @@ public class RelationsFilter {
 		 * @param match
 		 * @return
 		 */
-		public static boolean isInAnotherRelation(String match, String pos){
+		public static boolean isInAnotherRelation(String match, String pos, Bootstrapper boot){
 			
 			boolean result = false;
 			Set<String> set = RelationsFilter.getComplementaryConnections();
-			Set<String> set2 = Bootstrapper.getSeedConnections().keySet();
+			Set<String> set2 = boot.getSeedConnections().keySet();
 			/*
 			 * the pos pattern is contained in the complementary pos patterns
 			 * and at the same time the string pattern itself is not contained in the seeds of the relation
