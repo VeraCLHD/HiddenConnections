@@ -74,8 +74,16 @@ public class TesterForStuff {
 		}*/
 		
 		//TesterForStuff.GetNounPhrases();
+		String sent2 = "eating fruit";
+		Sentence sent2_1 = new Sentence(sent2);
+		LexicalizedParser lp1 = LexicalizedParser.loadModel();
 		
+		Tree parse = lp1.parse(sent2);
+		List<Tree> phraseList=new ArrayList<Tree>();
 		
+	for(Tree subtree: parse){
+		System.out.println(subtree.getChildrenAsList());
+	}
 	
 	}
 	
