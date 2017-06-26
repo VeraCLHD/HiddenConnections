@@ -7,18 +7,31 @@ import java.util.Set;
 
 import edu.stanford.nlp.simple.Sentence;
 import io.Reader;
+import io.Writer;
 import overall.Pair;
 
 public class IsABootstrapper extends Bootstrapper {
 	private  String NEW_PATTERNS_ISA_TXT = "";
 	private  String NEW_INSTANCES_ISA_TXT = "";
+	private  String ALL_INSTANCES_AND_PATTERNS = "";
 	
+	
+
+
 	public IsABootstrapper(){
 		this.setType("IS-A");
-		this.setPathToSeeds("SEEDS/IS-A_seeds.txt");
-		this.setPathToComplementarySeeds("SEEDS/COMPLEMENTARY_TO_ISA.txt");
-		this.setNEW_INSTANCES_ISA_TXT("new_instances_ISA.txt");
-		this.setNEW_PATTERNS_ISA_TXT("new_patterns_ISA.txt");
+		this.setPathToSeeds("SEEDS/IS-A/IS-A_seeds.txt");
+		this.setPathToComplementarySeeds("SEEDS/IS-A/COMPLEMENTARY_TO_ISA.txt");
+		this.setNEW_INSTANCES_ISA_TXT("SEEDS/IS-A/new_instances_ISA.txt");
+		Writer.overwriteFile("", this.getNEW_INSTANCES_ISA_TXT());
+		this.setNEW_PATTERNS_ISA_TXT("SEEDS/IS-A/patterns_with_highest_score_ISA.txt");
+		Writer.overwriteFile("", this.getNEW_PATTERNS_ISA_TXT());
+		this.setALL_INSTANCES_AND_PATTERNS("SEEDS/IS-A/all_instances_and_patterns.txt");
+		Writer.overwriteFile("", this.getALL_INSTANCES_AND_PATTERNS());
+		this.setSEED_CONNECTIONS_TXT("SEEDS/" + this.getType() +"/seed_connections.txt");
+		Writer.overwriteFile("", this.getSEED_CONNECTIONS_TXT());
+		this.setSEEDS_TXT("SEEDS/" + this.getType() +"/seeds.txt");
+		Writer.overwriteFile("", this.getSEEDS_TXT());
 	}
 	
 
@@ -115,7 +128,15 @@ public class IsABootstrapper extends Bootstrapper {
 	public void setNEW_INSTANCES_ISA_TXT(String nEW_INSTANCES_ISA_TXT) {
 		NEW_INSTANCES_ISA_TXT = nEW_INSTANCES_ISA_TXT;
 	}
+	
+	public String getALL_INSTANCES_AND_PATTERNS() {
+		return ALL_INSTANCES_AND_PATTERNS;
+	}
 
+
+	public void setALL_INSTANCES_AND_PATTERNS(String aLL_INSTANCES_AND_PATTERNS) {
+		ALL_INSTANCES_AND_PATTERNS = aLL_INSTANCES_AND_PATTERNS;
+	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 

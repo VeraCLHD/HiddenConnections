@@ -16,6 +16,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
+import java.util.Map.Entry;
 import java.util.Set;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -37,6 +38,12 @@ import overall.Pair;
 
 public abstract class Bootstrapper {
 	
+	private String SEED_CONNECTIONS_TXT;
+	
+
+	private String SEEDS_TXT;
+	
+
 	private String type;
 	private String pathToSeeds;
 	private String pathToComplementarySeeds;
@@ -61,6 +68,8 @@ public abstract class Bootstrapper {
 	// this set would be empty at the beginning
 	// this is the collection for the final rated patterns
 	private Set<String> patterns = new HashSet<String>();
+	// scores for output at the end
+	private Map<String, Double> scores = new HashMap<String, Double>();
 	private static final int numberOfIterations = 5;
 
 	private static Set<String> allTerms = new HashSet<String>();
@@ -68,19 +77,21 @@ public abstract class Bootstrapper {
 	private Map<String, Set<Pair<String>>> patternsToRate = new HashMap<String, Set<Pair<String>>>();
 	
 	public static void main(String[] args) {
-		Writer.overwriteFile("", "seeds.txt");
-		Writer.appendLineToFile("", "seed_connections.txt");
+		
 		
 		IsABootstrapper isa = new IsABootstrapper();
 		isa.readAllTerms();
 		
+		
 		isa.readAndFilterSeedsFile();
+		
+		
 		for(Pair<String> seeds: isa.getSeedsOnly()){
-			Writer.appendLineToFile(seeds.first + "\t" + seeds.second, "seeds.txt");
+			Writer.appendLineToFile(seeds.first + "\t" + seeds.second, isa.getSEEDS_TXT());
 		}
 		
 		for(String seed_connection: Bootstrapper.getSeedConnections().keySet()){
-			Writer.appendLineToFile(seed_connection, "seed_connections.txt");
+			Writer.appendLineToFile(seed_connection, isa.getSEED_CONNECTIONS_TXT());
 		}
 		RelationsFilter.readComplementaryFile(isa.getPathToComplementarySeeds());
 		isa.getFound().addAll(isa.getSeedsOnly());
@@ -102,16 +113,31 @@ public abstract class Bootstrapper {
 		
 		for(String pattern: isa.getPatterns()){
 			String posPattern = isa.getAllConnections().get(pattern);
-			
+			Double score = isa.getScores().get(pattern);
 			// The pos pattern of following sequence was that frequent:
 			
-			Writer.appendLineToFile(pattern + "\t" + posPattern + "\t", isa.getNEW_PATTERNS_ISA_TXT());	
+			Writer.appendLineToFile(pattern + "\t" + posPattern + "\t" +  score, isa.getNEW_PATTERNS_ISA_TXT());	
+		}
+		
+		// a new file for all patterns and instances (including seeds)
+		for(String pattern: isa.getPatterns()){
+			for(Pair<String> instance: isa.getPatternsToRate().get(pattern)){
+				Writer.appendLineToFile(instance.first + "\t" + instance.second 
+						+ "\t" + pattern + "\t" + isa.getType(), isa.getALL_INSTANCES_AND_PATTERNS());
+				
+				
+			}
 		}
 		
 
 	}
 	
 	
+	public Map<String, Double> getScores() {
+		return scores;
+	}
+
+
 	public void getPathToSeeds(String type){
 		this.getPathToSeeds();
 	}
@@ -122,9 +148,11 @@ public abstract class Bootstrapper {
 	public void bootstrapp(){
 		LuceneSearcher ls = new LuceneSearcher();
 		// the outer lopp for limiting the iterations
-		for(int i= 0; i<numberOfIterations ;i++){
-			extractNewInstancesAndPatterns(ls);
+		for(int i= 1; i<=numberOfIterations ;i++){
+			
 			System.out.println("iteration " + String.valueOf(i));
+			extractNewInstancesAndPatterns(ls);
+			
 		}
 	}
 
@@ -172,22 +200,6 @@ public abstract class Bootstrapper {
 			 }
 		}
 		
-		// rate patterns here and add them to this.patterns
-		// a place holder for how to rate the patterns
-		// the sum of frequencies of all pos patterns in the corpus that have been added (no trash)
-		/*Integer freqsum = this.getPosFrequencyConnections().values().stream().reduce(0, Integer::sum);
-		
-		
-		for(String pattern: local_patterns){
-			String posPattern = this.getAllConnections().get(pattern);
-			int frequencyP = this.getPosFrequencyConnections().get(posPattern);
-			double ratio = (double) frequencyP/ freqsum;
-			if(ratio > 0.05){
-				this.patterns.add(pattern);
-			}
-		}*/
-		
-		//this.patterns.addAll(local_patterns);
 		// for loop for the patterns: empty at the beginning
 		//https://stackoverflow.com/questions/11624220/java-adding-elements-to-list-while-iterating-over-it
 		Map<String, Double> scores = new HashMap<String, Double>();
@@ -213,26 +225,30 @@ public abstract class Bootstrapper {
 				}
 				
 			}	
+		}
+		
+		for(String pattern_to_rate: this.getPatternsToRate().keySet()){
 			Double numberOfInstAllPatterns = (double) this.getPatternsToRate().values().size();
-			Double numberOfInstPattern_I = (double) this.getPatternsToRate().get(pattern).size();
+			Double numberOfInstPattern_I = (double) this.getPatternsToRate().get(pattern_to_rate).size();
 			Double score = (numberOfInstPattern_I/numberOfInstAllPatterns)* (Math.log(numberOfInstPattern_I) / Math.log(2));
-			scores.put(pattern, score);
+			scores.put(pattern_to_rate, score);
 		}
 		
 		// rate the patterns from the collection patternsToRate and add the instances found for the good ones of them
 		List<Double> list = new ArrayList<Double>(scores.values());
 		Collections.sort(list, Collections.reverseOrder());
-		List<Double> top5 = list.subList(0, 5);
+		List<Double> top5 = list.subList(0, Math.min(list.size(), 5));
 		
-		// deal with top 5 and run
-		for(String patt: this.getPatternsToRate().keySet()){
-			this.patterns.add(patt);
-			this.found.addAll(this.getPatternsToRate().get(patt));
-			
+		for(Entry<String, Double> entry: scores.entrySet()){
+			if(top5.contains(entry.getValue())){
+				// add pattern because score is high
+				this.patterns.add(entry.getKey());
+				// add instances for this pattern
+				this.found.addAll(this.getPatternsToRate().get(entry.getKey()));
+				this.scores.put(entry.getKey(), entry.getValue());
+			}
 		}
-		
-		//this.found.addAll(seeds);
-		//this.patterns.addAll(local_patterns);
+	
 	
 	}
 
@@ -324,9 +340,9 @@ public abstract class Bootstrapper {
 		    //
 		    for(int i = term1_candidate.size()-1; i>= 0; i--){
 		    	String t1_candidate = String.join(" ", term1_candidate.subList(i, term1_candidate.size()));
-		    	String t1_candidateWP = t1_candidate.replaceAll("[^a-zA-Z]+$", "");
+		    	String t1_candidateWP = t1_candidate.replaceAll("[^a-zA-Z]+$", "").trim();
 		    	if(Bootstrapper.allTerms.contains(t1_candidateWP)){
-		    		temp1 = t1_candidate;
+		    		temp1 = t1_candidateWP;
 		    		continue;
 		    	}// in the sentence string, punctiation is directly in the word 
 		    	else{
@@ -336,9 +352,9 @@ public abstract class Bootstrapper {
 		    
 		    for(int i = 1; i<= term2_candidate.size(); i++){
 		    	String t2_candidate = String.join(" ", term2_candidate.subList(0, i));
-		    	String t2_candidateWP = t2_candidate.replaceAll("[^a-zA-Z]+$", "");
+		    	String t2_candidateWP = t2_candidate.replaceAll("[^a-zA-Z]+$", "").trim();
 		    	if(Bootstrapper.allTerms.contains(t2_candidateWP)){
-		    		temp2 = t2_candidate;
+		    		temp2 = t2_candidateWP;
 		    		continue;
 		    	}
 		    	else{
@@ -485,5 +501,23 @@ public abstract class Bootstrapper {
 		this.patternsToRate = patternsToRate;
 	}
 	
+	public String getSEED_CONNECTIONS_TXT() {
+		return SEED_CONNECTIONS_TXT;
+	}
+
+
+	public String getSEEDS_TXT() {
+		return SEEDS_TXT;
+	}
+	
+	public void setSEED_CONNECTIONS_TXT(String sEED_CONNECTIONS_TXT) {
+		SEED_CONNECTIONS_TXT = sEED_CONNECTIONS_TXT;
+	}
+
+
+	public void setSEEDS_TXT(String sEEDS_TXT) {
+		SEEDS_TXT = sEEDS_TXT;
+	}
+
 
 }
