@@ -1,39 +1,27 @@
 
 animal products	fish oil
-estrogen	steroid
-vegetables	bok choy
 beans	soy
-myelopathy	syndrome
 cured meats	bacon
 processed foods	hamburgers
 industrial pollutants	pcbs
 phytonutrients	lutein
-women	vegetarian
 animal foods	protein
 fruits	oranges
-acrylamide	chemical
 persistent organic pollutants	dioxins
 heavy metals	cadmium
 plant proteins	beans
 adverse effects	erectile dysfunction
-turmeric	plant
 animal products	milk
 medications	statins
 pollutants	dioxins
 side effects	memory
-bt corn	pesticide
 drug	aspirin
 milk	pesticides
 phytonutrients	lycopene
-death	smoking
-garlic	vegetables
-rose hips	fruits
-mushrooms	vegetable
 diseases	strokes
 contaminants	antibiotic residues
 medications	insulin
 smell	urine
-prediabetes	disease
 amino acids	methionine
 drugs	aspirin
 fat	nuts
@@ -45,42 +33,29 @@ plants	beans
 spices	garlic
 microparticles	titanium dioxide
 bacteria	green tea
-ham	pork
-colon	butyrate
-diet	dairy
 diarrhea	meat
-meat	arsenic
-xenoestrogens	chemicals
 spices	turmeric
 beverages	soda
 pollutants	mercury
-smoking	risk
 carbs	french fries
 bacteria	campylobacter
-high blood pressure	symptom
 animal products	meat
-longevity	nuts
 cruciferous vegetables	kale
 greens	broccoli
 oils	coconut oil
 fruits	currants
 phytonutrients	hesperidin
-sulforaphane	chemical
 industrial pollutants	alkylphenols
 inflammation	heart disease
 toxins	tetrahydroisoquinoline
 preservatives	sulfites
 fish	tuna
-vegetable	bell peppers
 olive oil	fruit juice
 leafy vegetables	spinach
 greens	kale
-myelopathy	vitamin b12
-patulin	mycotoxin
 processed foods	nuts
 pathogens	salmonella
 greens	collards
-multiple sclerosis	disease
 beverages	hibiscus tea
 drugs	cholesterol
 pollutants	smoke
@@ -89,13 +64,7 @@ market	antacids
 plants	kale
 phytonutrients	resveratrol
 chronic diseases	coronary heart disease
-sugar	empty calories
-saturated fat	cheese
-tomatoes	vegetables
-tobacco	nightshade
 statins	lipitor
-insects	contaminants
-igf-1	growth hormone
 diseases	colon cancer
 diseases	autism
 chronic diseases	cardiovascular disease
@@ -109,9 +78,7 @@ cancers	leukemias
 spices	nutmeg
 inflammatory diseases	asthma
 vegetables	red onions
-diet	plant-based diet
 drugs	tylenol
-carrots	roots
 periodontal diseases	gingivitis
 inflammatory diseases	osteoarthritis
 industrial carcinogens	dioxins
@@ -122,12 +89,9 @@ radiation	dental x-rays
 cancers	skin cancer
 side effects	weight gain
 fats	palmitic acid
-teens	pizza
 inflammatory bowel diseases	ulcerative colitis
 diseases	hepatitis
 antioxidants	vitamin c
-nuts	pain
-campylobacter	bacteria
 symptoms	nausea
 supplements	potassium
 nuts	cashews
@@ -140,9 +104,6 @@ antibodies	iga
 plant foods	nuts
 heavy metals	mercury
 diseases	als
-vinegar	product
-fruit juice	fiber
-chickpeas	legume
 healthy food	cranberries
 diseases	diabetes
 pills	viagra
@@ -163,21 +124,15 @@ cardiovascular diseases	stroke
 fruit juices	mangosteen
 vegetables	beets
 phytonutrients	rosmarinic acid
-dioxins	dairy
 fruits	blueberries
-herbal tea	hibiscus
-sugar	fructose
 diseases	cardiovascular disease
-chocolate	weight gain
 fruits	noni
 bugs	c. diff
-dental plaque	bacteria
 supplements	triphala
 brain diseases	schizophrenia
 xenoestrogens	pcbs
 cooked meat	phip
 vegetables	apples
-statins	drugs
 fats	nuts
 meats	ham
 fruit	apples
@@ -185,36 +140,22 @@ carbohydrates	rice
 cancers	pancreatic cancer
 whole grains	barley
 meat substitutes	veggie chicken
-exercise	medicine
 phytonutrients	lignans
 cured meats	bologna
-sweet potatoes	health
 cruciferous vegetables	collard greens
-arsenic	poultry
-mediterranean diet	diet
-phthalates	chemical
-fruit	cavity
 roots	sweet potatoes
-baking soda	sodium bicarbonate
 heavy metals	arsenic
-lymphoma	cancer
 drugs	antibiotics
 chronic diseases	cancer
 upper respiratory tract infections	common cold
 industrial pollutants	mercury
-organochlorines	chemical
 angiogenesis inhibitors	endostatin
-brain	fat
-artificial sweeteners	saccharin
 spices	cinnamon
-supplements	fish oil
-arachidonic acid	cholesterol
 industrial toxins	dioxins
 plant foods	cauliflower
 food additives	trans fats
 minerals	magnesium
 diseases	breast cancer
-raisins	dried fruit
 medication	glyburide
 disease	glaucoma
 drugs	viagra
@@ -222,41 +163,29 @@ autoimmune diseases	lichen planus
 drugs	prozac
 spices	fenugreek
 plants	plant
-nuts	health
-nuts	pecans
-neurotoxins	blue-green algae
 plants	beet
-cherries	plant
-obesity	risk
 chemicals	chlorhexidine
 biomarkers	psa
 drugs	premarin
 fish	salmon
 respiratory tract infections	pneumonia
-diet	fish
 drugs	valium
 diseases	obesity
 pollutants	hexachlorobenzene
 therapies	antiangiogenesis
 symptoms	heartburn
-cancer	insulin
-flavonoids	antioxidant
 poultry	turkey
 plants	collard greens
 antioxidants	beta-carotene
 leafy vegetables	kale
-spirulina	blue-green algae
 lemonoids	lemonin
 breast milk	pesticides
 abnormalities	microcephaly
 sleeping pills	valium
 animal products	chicken
 drugs	lipitor
-nuts	plant foods
 artificial sweeteners	splenda
-lead	dairy
 parasites	brain
-fiber	potassium
 drugs	candy
 bacteria	c. diff
 steroid hormones	estrogen
@@ -264,18 +193,13 @@ respiratory infections	influenza
 peas	split peas
 spices	ginger
 vegetables	grapes
-mushrooms	vitamin d2
 legumes	beans
 toxins	perfluorochemicals
 neurotransmitters	dopamine
 toxins	arsenic
-eggs	trans fats
 heavy metals	lead
 soy foods	tofu
-bean	legume
-nitrosamines	carcinogens
 pollutants	ddt
-phthalates	poultry
 oils	canola
 plant foods	flax
 animal proteins	dairy
@@ -285,13 +209,11 @@ processed meats	bacon
 greens	spinach
 cruciferous vegetables	broccoli
 menstrual symptoms	breast pain
-lead	toxin
 hormones	adrenaline
 vegetables	peaches
 side effects	nausea
 desserts	cake
 nausea	ginger
-nettle tea	mineral
 legumes	peanuts
 nanoparticles	titanium dioxide
 carcinogens	heterocyclic amines
@@ -301,7 +223,6 @@ toxins	pcb
 plants	curcumin
 legumes	soy
 energy	raisins
-hypertension	diseases
 dna damage	turmeric
 phytonutrients	beta-carotene
 sweeteners	fibromyalgia
@@ -309,7 +230,6 @@ drug	lovastatin
 pills	tums
 legumes	lentils
 cured meats	ham
-high fructose corn syrup	oxidant
 animal products	dairy
 plants	beet greens
 perfluorochemicals	pcb
@@ -318,24 +238,16 @@ carcinogens	phip
 fruit juices	orange juice
 food poisoning	alfalfa sprouts
 contaminants	asbestos
-melatonin	hormone
-lutein	carotenoid
 bugs	salmonella
 antioxidants	curcumin
-coffee	banana
-sciatica	back pain
 plant foods	soy
 herbs	goji berries
 cancers	breast cancer
-breast milk	gold
-coffee	beans
 plant foods	grains
 grains	barley
 drugs	allopurinol
 brain parasites	worms
 phytonutrients	zeaxanthin
-atherosclerosis	hardening of the arteries
-osteoarthritis	rose hips
 carbs	sun
 neurotransmitters	serotonin
 processed meats	ham
@@ -344,4 +256,3 @@ short-chain fatty acids	butyrate
 beverages	fruit juice
 smell	maple syrup
 spices	saffron
-plant-based diets	low-calorie diets
