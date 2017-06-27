@@ -58,7 +58,6 @@ stones	calcium	are	HYPERNYMY
 greens	fat soluble	are	HYPERNYMY
 xenoestrogens	chemicals	are	HYPERNYMY
 who	overweight	are	HYPERNYMY
-colon cancer	over	are	HYPERNYMY
 omega	bioequivalent	are	HYPERNYMY
 drugs	exposures	are	HYPERNYMY
 brown rice	smart	are	HYPERNYMY
@@ -174,10 +173,8 @@ neurotoxin	meat consumption	is	HYPERNYMY
 beet juice	nitrate	is	HYPERNYMY
 daily diet	vegetarian	is	HYPERNYMY
 saturated fat	beef	is	HYPERNYMY
-risk	over	is	HYPERNYMY
 baking soda	sodium bicarbonate	is	HYPERNYMY
 lymphoma	cancer	is	HYPERNYMY
-u.s	down	is	HYPERNYMY
 tea	fine	is	HYPERNYMY
 multiple sclerosis	beta	is	HYPERNYMY
 american diet	meat	is	HYPERNYMY
@@ -194,7 +191,6 @@ drink	tea	is	HYPERNYMY
 bone	eaten	is	HYPERNYMY
 tea	matcha	is	HYPERNYMY
 milk	skim milk	is	HYPERNYMY
-exercise	down	is	HYPERNYMY
 cancer	insulin-like growth	is	HYPERNYMY
 antioxidants	boiling	is	HYPERNYMY
 tumor	eating	is	HYPERNYMY
@@ -204,7 +200,6 @@ worry	eating	is	HYPERNYMY
 video	milk	is	HYPERNYMY
 video	monsanto	is	HYPERNYMY
 nutrition	diet	is	HYPERNYMY
-uric acid	over	is	HYPERNYMY
 colic	pain	is	HYPERNYMY
 salmon	fish consumption	is	HYPERNYMY
 diet	acid producing	is	HYPERNYMY
@@ -251,7 +246,6 @@ who	who	is	HYPERNYMY
 mushrooms	vitamin d	is	HYPERNYMY
 mom	eating	is	HYPERNYMY
 fruit juice	fiber	is	HYPERNYMY
-trans fat	down	is	HYPERNYMY
 children	eaten	is	HYPERNYMY
 tea	beans	is	HYPERNYMY
 infection	hen	is	HYPERNYMY
@@ -260,7 +254,6 @@ vision loss	cataracts	is	HYPERNYMY
 diet	vegetables	is	HYPERNYMY
 video	protein	is	HYPERNYMY
 video	fish oil	is	HYPERNYMY
-risk	down	is	HYPERNYMY
 u.s	overweight	is	HYPERNYMY
 carcinogenic	carcinogenic	is	HYPERNYMY
 urine	acidic	is	HYPERNYMY
@@ -272,7 +265,6 @@ gluten	fine	is	HYPERNYMY
 videos	noni juice	is	HYPERNYMY
 salmonella infection	eating chicken	is	HYPERNYMY
 coffee	beans	is	HYPERNYMY
-raw	bell peppers	is	HYPERNYMY
 women	heart disease	is	HYPERNYMY
 diabetes	diabetes	is	HYPERNYMY
 osteoarthritis	rose hips	is	HYPERNYMY

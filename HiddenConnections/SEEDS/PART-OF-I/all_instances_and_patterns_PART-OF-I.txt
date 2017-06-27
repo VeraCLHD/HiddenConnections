@@ -1,0 +1,85 @@
+
+vegetables	cancer	without the	PART-OF-I
+rheumatoid arthritis	side effects	without the	PART-OF-I
+diseases	risk	without the	PART-OF-I
+drug	side effects	without the	PART-OF-I
+dried fruits	preservative	without the	PART-OF-I
+anxiety	downer	without the	PART-OF-I
+beef	saturated fat	without the	PART-OF-I
+vegetables	cancer risk	without the	PART-OF-I
+boost	brain damage	without the	PART-OF-I
+saturated fat	cholesterol	without the	PART-OF-I
+smoking	risks	without the	PART-OF-I
+saturated fat	egg	without the	PART-OF-I
+fruits	preservative	without the	PART-OF-I
+massage	fragrance	without the	PART-OF-I
+oatmeal	carbs	packed with	PART-OF-I
+diet	plants	packed with	PART-OF-I
+yogurt	butterfat	packed with	PART-OF-I
+vegetables	antioxidants	packed with	PART-OF-I
+yogurt	butter	packed with	PART-OF-I
+gallbladder	gallstones	packed with	PART-OF-I
+whole foods	fiber	packed with	PART-OF-I
+americans	diverticulosis	have	PART-OF-I
+dates	phytonutrients	have	PART-OF-I
+processed foods	health	have	PART-OF-I
+grapes	antioxidants	have	PART-OF-I
+dates	fiber	have	PART-OF-I
+poultry workers	excess	have	PART-OF-I
+can	toxicity	have	PART-OF-I
+who	mgus	have	PART-OF-I
+sea vegetables	phytonutrients	have	PART-OF-I
+vegetarians	thrown	have	PART-OF-I
+can	estrogenic effects	have	PART-OF-I
+women	iron	have	PART-OF-I
+plants	fiber	have	PART-OF-I
+u.s	chronic	have	PART-OF-I
+who	heart attacks	have	PART-OF-I
+plants	dna	have	PART-OF-I
+plant foods	fiber	have	PART-OF-I
+can	soybean	have	PART-OF-I
+can	synergistic effects	have	PART-OF-I
+can	life-threatening	have	PART-OF-I
+who	breast cancer	have	PART-OF-I
+vegetables	antioxidants	have	PART-OF-I
+soft drinks	benzene	have	PART-OF-I
+american women	pesticides	have	PART-OF-I
+who	prostate enlargement	have	PART-OF-I
+white women	iron deficiency	have	PART-OF-I
+plants	nicotine	have	PART-OF-I
+greens	myrosinase	have	PART-OF-I
+who	apoe	have	PART-OF-I
+can	blood	have	PART-OF-I
+animal foods	phosphorus	have	PART-OF-I
+women	pesticides	have	PART-OF-I
+who	eaten	have	PART-OF-I
+sea vegetables	anti-cancer properties	have	PART-OF-I
+kids	fatty streaks	have	PART-OF-I
+can	pro-oxidant	have	PART-OF-I
+sardines	sardines	have	PART-OF-I
+hypersensitivity	signs	have	PART-OF-I
+pregnancy	adverse effects	have	PART-OF-I
+smoothies	amla	have	PART-OF-I
+kiwifruits	antioxidants	have	PART-OF-I
+americans	aortic aneurysms	have	PART-OF-I
+grapes	polyphenols	have	PART-OF-I
+seeds	phytosterols	are packed with	PART-OF-I
+flaxseeds	lignans	are packed with	PART-OF-I
+nuts	nutrition	are packed with	PART-OF-I
+dried fruit	fiber	are packed with	PART-OF-I
+protein	phosphorus	has	PART-OF-I
+water	zero	has	PART-OF-I
+spice	health benefits	has	PART-OF-I
+mom	vitamin d	has	PART-OF-I
+dementia	shot	has	PART-OF-I
+intake	tobacco	has	PART-OF-I
+kiwifruit	folate	has	PART-OF-I
+turkey	salmonella	has	PART-OF-I
+casomorphin	opioid	has	PART-OF-I
+diet	bumped	has	PART-OF-I
+u.s	mrsa	has	PART-OF-I
+fernandez	received	has	PART-OF-I
+ice	zero	has	PART-OF-I
+american	celiac disease	has	PART-OF-I
+turmeric	received	has	PART-OF-I
+date sugar	fiber	has	PART-OF-I

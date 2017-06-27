@@ -101,7 +101,8 @@ public class Bootstrapper {
 		List<String> types = new ArrayList<String>();
 		//types.add("IS-A");
 		//types.add("HYPERNYMY");
-		types.add("PART-OF");
+		//types.add("PART-OF");
+		types.add("PART-OF-I");
 		
 		for(String type: types){
 			runForEachRelation(type);
