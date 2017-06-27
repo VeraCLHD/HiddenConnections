@@ -99,13 +99,17 @@ public class Bootstrapper {
 		
 		Bootstrapper.readAllTerms();
 		List<String> types = new ArrayList<String>();
-		//types.add("IS-A");
-		//types.add("HYPERNYMY");
-		//types.add("PART-OF");
+		types.add("EFFECT");
+		types.add("CAUSED-BY");
+		types.add("CAUSE");
+		types.add("IS-A");
+		types.add("HYPERNYMY");
+		types.add("PART-OF");
 		types.add("PART-OF-I");
-		
+
 		for(String type: types){
 			runForEachRelation(type);
+			System.out.println("Ready with " + type);
 		}
 
 	}
@@ -261,13 +265,17 @@ public class Bootstrapper {
 		Collections.sort(list, Collections.reverseOrder());
 		List<Double> top5 = list.subList(0, Math.min(list.size(), 5));
 		
+		
 		for(Entry<String, Double> entry: scores.entrySet()){
-			if(top5.contains(entry.getValue())){
+			
+			String patternToAdd = entry.getKey();
+			// manually excluded pattern "the" -> relvant for PART-OF
+			if(top5.contains(entry.getValue()) && patternToAdd.equals("the")){
 				// add pattern because score is high
-				this.patterns.add(entry.getKey());
+				this.patterns.add(patternToAdd);
 				// add instances for this pattern
-				this.found.addAll(this.getPatternsToRate().get(entry.getKey()));
-				this.scores.put(entry.getKey(), entry.getValue());
+				this.found.addAll(this.getPatternsToRate().get(patternToAdd));
+				this.scores.put(patternToAdd, entry.getValue());
 			}
 		}
 	

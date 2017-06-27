@@ -1,0 +1,230 @@
+dump sentences\V-16_71_.txt	standard american diet	cancer growth	slows	EFFECT	[VBZ]	12
+dump sentences\V-94_15_.txt	plant-based diets	prostate cancer	suppresses	EFFECT	[VBZ]	9
+dump sentences\A-33_29_.txt	saturated fat	blood sugar	raises	EFFECT	[VBZ]	8
+dump sentences\A-463_5_.txt	findings	plant-based diet	do suggest a favorable effect of a	EFFECT	[VBP, VB, DT, JJ, NN, IN, DT]	8
+dump sentences\A-137_33_.txt	beef	cholesterol	lowers	EFFECT	[VBZ]	8
+dump sentences\V-495_9_.txt	almond milk	cancer cells	suppressed the growth of these	EFFECT	[VBD, DT, NN, IN, DT]	8
+dump sentences\V-586_10_.txt	dental x-rays	brain tumors	are associated with	EFFECT	[VBP, VBN, IN]	6
+dump sentences\T-1576_9_.txt	plant-based diet	risk	helps lower the	EFFECT	[VBZ, VB, DT]	6
+dump sentences\V-722_3_.txt	plant-based diet	cancer growth	suppresses	EFFECT	[VBZ]	6
+dump sentences\T-1088_1_.txt	cranberry juice	liver cancer	suppressed the growth of	EFFECT	[VBD, DT, NN, IN]	6
+dump sentences\T-1446_10_.txt	pressure cooking	antioxidant content	reduce the	EFFECT	[VB, DT]	5
+dump sentences\T-1725_10_.txt	cayenne pepper	irritable bowel syndrome	could help with	EFFECT	[MD, VB, IN]	5
+dump sentences\V-290_16_.txt	high blood pressure	rice diet	was cured by the	EFFECT	[VBD, VBN, IN, DT]	5
+dump sentences\V-16_274_.txt	plant-based diet	risk	reduce	EFFECT	[VB]	5
+dump sentences\V-360_10_.txt	diet	blood pressure	helped with	EFFECT	[VBD, IN]	4
+dump sentences\A-167_3_.txt	pumpkin seeds	breast cancer	were associated with reduced	EFFECT	[VBD, VBN, IN, VBN]	4
+dump sentences\V-454_7_.txt	doughnuts	prostate cancer	was associated with about a third greater odds of	EFFECT	[VBD, VBN, IN, IN, DT, JJ, JJR, NNS, IN]	4
+dump sentences\A-359_1_.txt	pets	blood pressure	lower your	EFFECT	[JJR, PRP$]	4
+dump sentences\T-1208_6_.txt	plant foods	cancer	have lower rates of	EFFECT	[VBP, JJR, NNS, IN]	4
+dump sentences\V-634_4_.txt	vegan diet	risk	reduce	EFFECT	[VB]	4
+dump sentences\A-110_26_.txt	kale	cancer cell growth	suppresses	EFFECT	[VBZ]	4
+dump sentences\A-439_7_.txt	risks	processed meat	associated with	EFFECT	[VBN, IN]	3
+dump sentences\V-619_10_.txt	biomarker	cancer	associated with	EFFECT	[VBN, IN]	2
+dump sentences\V-52_16_.txt	breast milk	newborn	protects	EFFECT	[VBZ]	2
+dump sentences\A-267_5_.txt	farm	blood	is associated with higher rates of	EFFECT	[VBZ, VBN, IN, JJR, NNS, IN]	2
+dump sentences\A-370_25_.txt	plant-based diets	chronic pain	help with	EFFECT	[VBP, IN]	2
+dump sentences\A-409_11_.txt	plant foods	risk	reduce the	EFFECT	[VB, DT]	2
+dump sentences\A-166_1_.txt	cholesterol	breast cancer	boosts	EFFECT	[VBZ]	2
+dump sentences\V-411_24_.txt	caffeine	chickens	helps keeps the	EFFECT	[VBZ, VBZ, DT]	2
+dump sentences\A-75_25_.txt	sperm counts	processed meat	associated with	EFFECT	[VBN, IN]	2
+dump sentences\T-981_3_.txt	chronic diseases	inflammation	associated with	EFFECT	[VBN, IN]	2
+dump sentences\A-434_3_.txt	tomato juice	inflammation	decreases	EFFECT	[VBZ]	2
+dump sentences\A-353_6_.txt	vegan diet	risk	reduce the	EFFECT	[VB, DT]	2
+dump sentences\V-1022_1_.txt	walnuts	cholesterol	lower our	EFFECT	[JJR, PRP$]	2
+dump sentences\V-159_2_.txt	immune system	thyroid gland	attacks our	EFFECT	[VBZ, PRP$]	2
+dump sentences\V-403_11_.txt	saturated fat	cholesterol	were they able to boost their	EFFECT	[VBD, PRP, JJ, TO, VB, PRP$]	2
+dump sentences\A-180_15_.txt	phytates	cancer cells	help block the ability of	EFFECT	[VBP, VB, DT, NN, IN]	2
+dump sentences\T-1891_2_.txt	milk	uric acid	lowers	EFFECT	[VBZ]	2
+dump sentences\A-453_19_.txt	antibiotics	gut flora	wipe out the	EFFECT	[VBP, RP, DT]	2
+dump sentences\V-550_9_.txt	diseases	meat	were associated with which	EFFECT	[VBD, VBN, IN, WDT]	2
+dump sentences\A-63_1_.txt	vegetables	risk	reduce the	EFFECT	[VBP, DT]	2
+dump sentences\V-386_4_.txt	whole grains	risk	has associated with reduced	EFFECT	[VBZ, VBN, IN, VBN]	2
+dump sentences\A-184_23_.txt	curry powder	cancer cells	kills	EFFECT	[VBZ]	2
+dump sentences\A-292_9_.txt	juice	muscle soreness	could reduce	EFFECT	[MD, VB]	2
+dump sentences\A-251_27_.txt	nutritional yeast	infection	cut their rates of	EFFECT	[VBD, PRP$, NNS, IN]	2
+dump sentences\T-511_0_.txt	risks	brain parasites	associated with	EFFECT	[VBN, IN]	2
+dump sentences\V-1270_11_.txt	supplements	lifespan	decrease your	EFFECT	[VB, PRP$]	2
+dump sentences\T-457_5_.txt	plant-based diet	enzyme	helps to boost this	EFFECT	[VBZ, TO, VB, DT]	2
+dump sentences\V-460_13_.txt	fruits	risk	were associated with reduced	EFFECT	[VBD, VBN, IN, VBN]	2
+dump sentences\T-756_9_.txt	phytonutrients	dna damage	reduced	EFFECT	[VBD]	2
+dump sentences\V-299_16_.txt	strawberries	colon cancer	suppressed the growth of	EFFECT	[VBD, DT, NN, IN]	2
+dump sentences\A-235_8_.txt	mercury	brain	is bad for	EFFECT	[VBZ, JJ, IN]	2
+dump sentences\A-362_1_.txt	chronic gum disease	sexual dysfunction	is associated with	EFFECT	[VBZ, VBN, IN]	2
+dump sentences\V-582_22_.txt	beverage	infertility	associated with	EFFECT	[VBN, IN]	2
+dump sentences\V-375_0_.txt	saturated fat	semen	is associated with reduced	EFFECT	[VBZ, VBN, IN, VBN]	2
+dump sentences\V-673_10_.txt	growth hormone	animal protein	boosted by	EFFECT	[VBN, IN]	2
+dump sentences\V-528_8_.txt	pollutants	ah receptor	exert their toxic effects through the	EFFECT	[VBP, PRP$, JJ, NNS, IN, DT]	2
+dump sentences\A-166_12_.txt	statins	breast cancer	had decreased	EFFECT	[VBD, VBN]	2
+dump sentences\V-403_8_.txt	split peas	cholesterol	cut	EFFECT	[VBD]	2
+dump sentences\V-1062_13_.txt	tea	soy milk	are suppressed by	EFFECT	[VBP, VBN, IN]	2
+dump sentences\A-89_26_.txt	eggs	ldl	raise	EFFECT	[VBP]	2
+dump sentences\T-953_14_.txt	plant-based diets	igf-1	have lower levels of	EFFECT	[VBP, JJR, NNS, IN]	2
+dump sentences\V-509_9_.txt	blueberries	oxidative stress	could reduce the	EFFECT	[MD, VB, DT]	2
+dump sentences\T-1792_2_.txt	protein	colon cancer	slows the growth of	EFFECT	[VBZ, DT, NN, IN]	2
+dump sentences\A-265_7_.txt	free radicals	dna damage	would decrease the rate of	EFFECT	[MD, VB, DT, NN, IN]	2
+dump sentences\T-1658_11_.txt	flax seeds	risk	are associated with a	EFFECT	[VBP, VBN, IN, DT]	2
+dump sentences\V-448_13_.txt	eggs	cholesterol	could shoot their	EFFECT	[MD, VB, PRP$]	2
+dump sentences\V-479_7_.txt	vegetables	risk	help reduce the	EFFECT	[VBP, VB, DT]	2
+dump sentences\T-1518_4_.txt	processed meats	botulism	help reduce	EFFECT	[VBP, VB]	2
+dump sentences\V-551_11_.txt	poultry workers	wart	associated with these	EFFECT	[VBN, IN, DT]	2
+dump sentences\T-1573_3_.txt	plant-based diets	symptoms	reduced	EFFECT	[VBD]	2
+dump sentences\V-1233_7_.txt	strawberries	cancer growth	blocked	EFFECT	[VBD]	2
+dump sentences\T-28_3_.txt	dried fruit	risk	was associated with decreased	EFFECT	[VBD, VBN, IN, VBN]	2
+dump sentences\A-75_25_.txt	sperm counts	meat	associated with processed	EFFECT	[VBN, IN, VBN]	2
+dump sentences\V-1301_3_.txt	leafy vegetables	risk	cuts our	EFFECT	[VBZ, PRP$]	2
+dump sentences\V-55_17_.txt	fiber	blood pressure	lowered	EFFECT	[VBD]	2
+dump sentences\T-1930_6_.txt	pickled vegetables	multiple myeloma	are associated with	EFFECT	[VBP, VBN, IN]	2
+dump sentences\A-188_21_.txt	brain	memory	associated with	EFFECT	[VBN, IN]	2
+dump sentences\T-1206_0_.txt	brown adipose tissue	burn	helps	EFFECT	[VBZ]	2
+dump sentences\T-1219_4_.txt	carbohydrates	prevotella	are associated with the	EFFECT	[VBP, VBN, IN, DT]	2
+dump sentences\A-139_2_.txt	beta-carotene	risk	lower the	EFFECT	[JJR, DT]	2
+dump sentences\A-5_23_.txt	peppermint	nausea	cut	EFFECT	[VBD]	2
+dump sentences\V-20_3_.txt	stomach cancer	salt	associated with	EFFECT	[VBN, IN]	2
+dump sentences\V-1119_1_.txt	vegan diet	atherosclerosis	could reverse	EFFECT	[MD, VB]	2
+dump sentences\V-543_30_.txt	protein	calcium	boosts	EFFECT	[VBZ]	2
+dump sentences\T-1602_4_.txt	brown rice	diabetes	reduced	EFFECT	[VBD]	2
+dump sentences\V-777_3_.txt	standard american diet	blood	is so toxic to the	EFFECT	[VBZ, RB, JJ, TO, DT]	2
+dump sentences\V-1016_22_.txt	melatonin	cancer growth	is thought to suppress	EFFECT	[VBZ, VBN, TO, VB]	2
+dump sentences\V-16_217_.txt	standard american diet	blood	is so toxic to	EFFECT	[VBZ, RB, JJ, TO]	2
+dump sentences\V-785_0_.txt	plant-based diets	inflammation	decrease	EFFECT	[VBP]	2
+dump sentences\V-43_17_.txt	risks	diet soda	associated with	EFFECT	[VBN, IN]	2
+dump sentences\V-819_9_.txt	black pepper	turmeric	boosts the level of the	EFFECT	[VBZ, DT, NN, IN, DT]	2
+dump sentences\V-470_20_.txt	meat	risk	could reduce their	EFFECT	[MD, VB, PRP$]	2
+dump sentences\V-354_22_.txt	processed meat	cancer	were associated with	EFFECT	[VBD, VBN, IN]	2
+dump sentences\A-258_15_.txt	grapefruit	enzymes	suppress the	EFFECT	[VBP, DT]	2
+dump sentences\V-1078_10_.txt	pancreatic cancer	beef	is associated with	EFFECT	[VBZ, VBN, IN]	2
+dump sentences\V-538_18_.txt	parasites	meat	are associated with	EFFECT	[VBP, VBN, IN]	2
+dump sentences\T-496_8_.txt	production	ulcerative colitis	is associated with	EFFECT	[VBZ, VBN, IN]	2
+dump sentences\V-560_7_.txt	nuts	risk	reduce the	EFFECT	[VBP, DT]	2
+dump sentences\T-910_7_.txt	vegetarians	cadmium	had lower levels of	EFFECT	[VBD, JJR, NNS, IN]	1
+dump sentences\V-454_15_.txt	risk	french fries	associated with	EFFECT	[VBN, IN]	1
+dump sentences\V-599_17_.txt	risk	alcohol	associated with [the]	EFFECT	[VBN, IN, -LRB-, DT, -RRB-]	1
+dump sentences\V-758_5_.txt	nuts	ldl	lowers	EFFECT	[VBZ]	1
+dump sentences\T-4_11_.txt	legumes	belly fat	helps to reduce	EFFECT	[VBZ, TO, VB]	1
+dump sentences\T-1771_5_.txt	coffee	suicide	is associated with decreased	EFFECT	[VBZ, VBN, IN, VBN]	1
+dump sentences\V-717_1_.txt	risks	lead	associated with	EFFECT	[VBN, IN]	1
+dump sentences\V-239_7_.txt	protein	anxiety	are associated with lower levels of	EFFECT	[VBP, VBN, IN, JJR, NNS, IN]	1
+dump sentences\A-165_20_.txt	girls	french fries	associated with	EFFECT	[VBN, IN]	1
+dump sentences\A-382_6_.txt	immune function	risk	decreases 	EFFECT	[VBZ]	1
+dump sentences\V-302_12_.txt	blood	depression	are associated with	EFFECT	[VBP, VBN, IN]	1
+dump sentences\V-19_14_.txt	dna damage	treatment	associated with this	EFFECT	[VBN, IN, DT]	1
+dump sentences\V-1078_19_.txt	vegetable oil	pancreatic cancer	is associated with	EFFECT	[VBZ, VBN, IN]	1
+dump sentences\T-1504_15_.txt	poultry	risk	raises the	EFFECT	[VBZ, DT]	1
+dump sentences\T-791_4_.txt	plant foods	fruit	helps boost	EFFECT	[VBZ, VB]	1
+dump sentences\T-502_3_.txt	pain	osteoarthritis	associated with both	EFFECT	[VBN, IN, CC]	1
+dump sentences\A-356_10_.txt	girls	animal protein	associated with	EFFECT	[VBN, IN]	1
+dump sentences\V-13_161_.txt	nuts	stroke	could cut	EFFECT	[MD, VB]	1
+dump sentences\V-181_2_.txt	cancers	alcohol	associated with	EFFECT	[VBN, IN]	1
+dump sentences\V-744_11_.txt	meat	weight gain	is associated with	EFFECT	[VBZ, VBN, IN]	1
+dump sentences\T-353_4_.txt	amino acids	aging	associated with	EFFECT	[VBN, IN]	1
+dump sentences\A-386_8_.txt	headaches	aspartame	associated with	EFFECT	[VBN, IN]	1
+dump sentences\A-419_18_.txt	nuts	fat	boost	EFFECT	[VBP]	1
+dump sentences\T-1175_22_.txt	cooking	fecal bacteria	will kill these	EFFECT	[MD, VB, DT]	1
+dump sentences\T-258_6_.txt	symptoms	diabetes	associated with	EFFECT	[VBN, IN]	1
+dump sentences\V-647_6_.txt	vegetables	detoxifying enzymes	 boost the activity of the	EFFECT	[VBP, DT, NN, IN, DT]	1
+dump sentences\V-1166_3_.txt	vegetables	antioxidant	boosts our	EFFECT	[VBZ, PRP$]	1
+dump sentences\A-168_32_.txt	allergy	antibodies	associated	EFFECT	[VBD]	1
+dump sentences\V-880_5_.txt	vegetables	heart disease	reduce	EFFECT	[VBP]	1
+dump sentences\V-515_10_.txt	eggs	diabetes	associated with	EFFECT	[VBN, IN]	1
+dump sentences\T-1208_27_.txt	dairy	aging	accelerates the	EFFECT	[VBZ, DT]	1
+dump sentences\T-1896_12_.txt	eggs	macular degeneration	help people with	EFFECT	[VBP, NNS, IN]	1
+dump sentences\V-503_17_.txt	cholesterol	gestational diabetes	were associated with elevated [	EFFECT	[VBD, VBN, IN, JJ, -LRB-]	1
+dump sentences\V-289_10_.txt	meats	cancers	were associated with	EFFECT	[VBD, VBN, IN]	1
+dump sentences\V-1037_1_.txt	fish oil	inflammation	decreases	EFFECT	[VBZ]	1
+dump sentences\V-448_14_.txt	eggs	cholesterol	lowered	EFFECT	[VBD]	1
+dump sentences\A-297_6_.txt	immune systems	virus	clear the	EFFECT	[JJ, DT]	1
+dump sentences\A-487_7_.txt	risk	eggs	associated with	EFFECT	[VBN, IN]	1
+dump sentences\V-136_0_.txt	vegetables	risk	helps to reduce the	EFFECT	[VBZ, TO, VB, DT]	1
+dump sentences\A-88_29_.txt	beans	astrocytes	help protect	EFFECT	[VBP, VB]	1
+dump sentences\V-503_11_.txt	iron	diabetes	was associated with	EFFECT	[VBD, VBN, IN]	1
+dump sentences\V-767_2_.txt	death	nut	associated with	EFFECT	[VBN, IN]	1
+dump sentences\V-896_3_.txt	viagra	nitric oxide	works: it boosts	EFFECT	[VBZ, :, PRP, VBZ]	1
+dump sentences\V-1026_1_.txt	vegetables	cancer	reduce	EFFECT	[VBP]	1
+dump sentences\A-306_25_.txt	risk	thallium heart scans	associated with the	EFFECT	[VBN, IN, DT]	1
+dump sentences\V-274_18_.txt	cholesterol	nonalcoholic fatty liver	are associated with	EFFECT	[VBP, VBN, IN]	1
+dump sentences\V-178_10_.txt	meat	inflammation	is associated with	EFFECT	[VBZ, VBN, IN]	1
+dump sentences\V-264_9_.txt	fruits	scurvy	could cure	EFFECT	[MD, VB]	1
+dump sentences\V-707_2_.txt	bpa	cardiovascular disease	is associated with	EFFECT	[VBZ, VBN, IN]	1
+dump sentences\V-671_1_.txt	tumors	immune system	are able to trick our	EFFECT	[VBP, JJ, TO, VB, PRP$]	1
+dump sentences\A-33_31_.txt	risk	obesity	associated with	EFFECT	[VBN, IN]	1
+dump sentences\V-146_8_.txt	plant foods	risks	lower the	EFFECT	[JJR, DT]	1
+dump sentences\A-73_6_.txt	operations	mrsa	was each associated with	EFFECT	[VBD, DT, VBN, IN]	1
+dump sentences\T-510_19_.txt	cooking	toxicity	will reduce the	EFFECT	[MD, VB, DT]	1
+dump sentences\A-306_26_.txt	risks	heart disease	associated with	EFFECT	[VBN, IN]	1
+dump sentences\V-867_3_.txt	broccoli	detoxifying enzymes	boosted the	EFFECT	[VBD, DT]	1
+dump sentences\T-1368_0_.txt	phytonutrients	risk	cut the	EFFECT	[VBD, DT]	1
+dump sentences\V-753_84_.txt	nuts	fat	boosted	EFFECT	[VBD]	1
+dump sentences\V-277_25_.txt	music	metabolism	slow our	EFFECT	[JJ, PRP$]	1
+dump sentences\A-78_7_.txt	virus	obesity	first associated with	EFFECT	[JJ, VBN, IN]	1
+dump sentences\V-758_7_.txt	nuts	bad cholesterol	drop your	EFFECT	[VB, PRP$]	1
+dump sentences\T-440_7_.txt	xenoestrogens	birth defects	are associated with	EFFECT	[VBP, VBN, IN]	1
+dump sentences\V-277_38_.txt	mozart	testosterone	suppressed	EFFECT	[VBD]	1
+dump sentences\V-8_2_.txt	tea	antioxidant	boost the	EFFECT	[VB, DT]	1
+dump sentences\T-1951_4_.txt	fertility	saturated fat	associated with	EFFECT	[VBN, IN]	1
+dump sentences\V-671_15_.txt	risk	veganism	associated with	EFFECT	[VBN, IN]	1
+dump sentences\V-1301_18_.txt	plant foods	risk	could cut our	EFFECT	[MD, VB, PRP$]	1
+dump sentences\V-646_5_.txt	barbecue	birth weight	was associated with a	EFFECT	[VBD, VBN, IN, DT]	1
+dump sentences\T-45_5_.txt	grapes	aromatase	suppress the activity of	EFFECT	[VBP, DT, NN, IN]	1
+dump sentences\V-105_1_.txt	liver	estrogens	clears	EFFECT	[VBZ]	1
+dump sentences\V-203_20_.txt	fat	bacteroides	are associated with the	EFFECT	[VBP, VBN, IN, DT]	1
+dump sentences\V-655_8_.txt	diets	pain	helped with	EFFECT	[VBD, IN]	1
+dump sentences\V-379_22_.txt	carbs	pancreatic cancer	was associated with	EFFECT	[VBD, VBN, IN]	1
+dump sentences\A-455_1_.txt	greens	dna	protect our	EFFECT	[VBP, PRP$]	1
+dump sentences\A-157_18_.txt	eggs	cholesterol	lowers	EFFECT	[VBZ]	1
+dump sentences\A-279_20_.txt	fiber	cholesterol	lowers	EFFECT	[VBZ]	1
+dump sentences\V-1054_12_.txt	greens	risk	lower the	EFFECT	[JJR, DT]	1
+dump sentences\A-296_20_.txt	risk	alcohol	associated with	EFFECT	[VBN, IN]	1
+dump sentences\V-751_0_.txt	nuts	fat	boost	EFFECT	[VBP]	1
+dump sentences\V-1231_3_.txt	plants	dna	protects our 	EFFECT	[VBZ, PRP$]	1
+dump sentences\T-1347_5_.txt	beans	dioxins	block the effects of	EFFECT	[VBP, DT, NNS, IN]	1
+dump sentences\V-211_1_.txt	mints	gastrocolic reflex	are used to reduce the	EFFECT	[VBP, VBN, TO, VB, DT]	1
+dump sentences\T-1129_10_.txt	risk	smoking	associated with	EFFECT	[VBN, IN]	1
+dump sentences\V-213_9_.txt	death	galactose	associated with the	EFFECT	[VBN, IN, DT]	1
+dump sentences\V-875_0_.txt	vegetables	risk	is associated with a reduced	EFFECT	[VBZ, VBN, IN, DT, VBN]	1
+dump sentences\V-107_22_.txt	enzymes	salt	crippled by the	EFFECT	[VBN, IN, DT]	1
+dump sentences\T-31_4_.txt	turmeric	multiple myeloma	killed	EFFECT	[VBN]	1
+dump sentences\A-434_3_.txt	garlic	inflammation	decreases	EFFECT	[VBZ]	1
+dump sentences\V-1016_36_.txt	adolescence	breast cancer	was associated with	EFFECT	[VBD, VBN, IN]	1
+dump sentences\A-89_27_.txt	eggs	oxidation	would reduce	EFFECT	[MD, VB]	1
+dump sentences\A-283_17_.txt	massage	inflammation	could decrease	EFFECT	[MD, VB]	1
+dump sentences\V-97_15_.txt	risk	dairy	associated with	EFFECT	[VBN, IN]	1
+dump sentences\V-14_152_.txt	grains	brain	protective of the	EFFECT	[JJ, IN, DT]	1
+dump sentences\V-15_158_.txt	immune systems	virus	are able to clear the	EFFECT	[VBP, JJ, TO, VB, DT]	1
+dump sentences\V-933_1_.txt	deformities	rickets	associated with	EFFECT	[VBN, IN]	1
+dump sentences\V-1082_6_.txt	almonds	cholesterol	lower our	EFFECT	[JJR, PRP$]	1
+dump sentences\T-275_9_.txt	pain	rheumatoid arthritis	associated with	EFFECT	[VBN, IN]	1
+dump sentences\A-455_0_.txt	broccoli	detoxifying enzymes	boosts the	EFFECT	[VBZ, DT]	1
+dump sentences\V-375_7_.txt	pcbs	fats	are associated with the	EFFECT	[VBP, VBN, IN, DT]	1
+dump sentences\V-672_9_.txt	vegetarianism	risk	decreases the	EFFECT	[VBZ, DT]	1
+dump sentences\V-160_21_.txt	sodium bicarbonate	kidney	decreases	EFFECT	[VBZ]	1
+dump sentences\T-1105_9_.txt	arteries	cardiac disease	associated with	EFFECT	[VBN, IN]	1
+dump sentences\V-203_20_.txt	plant foods	prevotella	are associated with	EFFECT	[VBP, VBN, IN]	1
+dump sentences\A-376_31_.txt	spinach	aromatase	dropped	EFFECT	[VBD]	1
+dump sentences\A-389_13_.txt	phytonutrients	skin	were able to protect	EFFECT	[VBD, JJ, TO, VB]	1
+dump sentences\V-198_10_.txt	animal foods	coronary heart disease	were associated with	EFFECT	[VBD, VBN, IN]	1
+dump sentences\V-1091_4_.txt	supplements	cold	help with a	EFFECT	[VBP, IN, DT]	1
+dump sentences\V-200_3_.txt	fiber	risk	gets us a 9% reduced	EFFECT	[VBZ, PRP, DT, CD, NN, VBD]	1
+dump sentences\A-474_13_.txt	risk	ground beef	associated with	EFFECT	[VBN, IN]	1
+dump sentences\V-49_11_.txt	drugs	stomach	reduce our	EFFECT	[VB, PRP$]	1
+dump sentences\V-30_17_.txt	diets	testosterone	suppress	EFFECT	[VBP]	1
+dump sentences\T-275_9_.txt	side effects	drugs	associated with	EFFECT	[VBN, IN]	1
+dump sentences\T-1725_5_.txt	turmeric	bioavailability	boosts the	EFFECT	[VBZ, DT]	1
+dump sentences\V-338_6_.txt	drug	risk	would reduce your	EFFECT	[MD, VB, PRP$]	1
+dump sentences\V-280_8_.txt	vegetables	risk	were each associated with a reduced	EFFECT	[VBD, DT, VBN, IN, DT, VBN]	1
+dump sentences\V-142_30_.txt	vinegar	appetite	helps with both	EFFECT	[VBZ, IN, CC]	1
+dump sentences\A-259_0_.txt	symptoms	wheat	associated with the	EFFECT	[VBN, IN, DT]	1
+dump sentences\V-420_18_.txt	nuts	breast cancer	suppressed	EFFECT	[VBD]	1
+dump sentences\V-1301_26_.txt	isoflavones	risk	cut our	EFFECT	[VBD, PRP$]	1
+dump sentences\V-1262_9_.txt	soy	risk	cut our	EFFECT	[VBD, PRP$]	1
+dump sentences\V-843_1_.txt	mortality	poultry	associated with	EFFECT	[VBN, IN]	1
+dump sentences\V-387_15_.txt	beans	astrocytes	would help protect	EFFECT	[MD, VB, VB]	1
+dump sentences\V-211_3_.txt	peppermint	muscles	does is relax the	EFFECT	[VBZ, VBZ, VB, DT]	1
+dump sentences\T-1976_8_.txt	vomiting	morning sickness	associated with	EFFECT	[VBN, IN]	1
+dump sentences\V-1167_18_.txt	fat	nutrition	helps suck up the	EFFECT	[VBZ, VB, RP, DT]	1
+dump sentences\T-923_2_.txt	herbs	inflammation	has the power to reduce	EFFECT	[VBZ, DT, NN, TO, VB]	1
+dump sentences\T-1911_32_.txt	animal products	weight gain	is associated with	EFFECT	[VBZ, VBN, IN]	1
+dump sentences\A-170_24_.txt	vegetables	asthma	help with	EFFECT	[VBP, IN]	1
+dump sentences\A-63_20_.txt	tomatoes	platelet	lowered	EFFECT	[VBD]	1
+dump sentences\A-112_26_.txt	plants	platelets	help keep	EFFECT	[VBP, VB]	1
+dump sentences\V-667_7_.txt	vegetables	stroke	per day are associated with [a quarter] lower rate of	EFFECT	[IN, NN, VBP, VBN, IN, -LRB-, DT, NN, -RRB-, JJR, NN, IN]	1

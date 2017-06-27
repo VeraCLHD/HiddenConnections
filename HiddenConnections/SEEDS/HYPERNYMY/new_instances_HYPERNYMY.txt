@@ -9,7 +9,6 @@ million americans	blind
 sorbitol	sugar
 diverticulosis	disease
 calcium supplements	doing
-u.s	down
 vegetarians	iodine
 multiple sclerosis	beta
 american diet	meat
@@ -26,7 +25,6 @@ bone	eaten
 irritable bowel syndrome	chronic
 herbal teas	fine
 caldwell esselstyn	practitioner pioneer
-exercise	down
 cancer	insulin-like growth
 fluoride	poison
 salmonella	poultry
@@ -40,7 +38,6 @@ nutrition	diet
 milk	muscles
 million americans	gluten
 who	insulin
-uric acid	over
 colic	pain
 chicken	low-fat
 nuts	health-promoting
@@ -130,7 +127,6 @@ heart disease	choice
 ibd	chronic inflammatory
 estrogens	milk
 smoke	fat soluble
-risk	over
 baking soda	sodium bicarbonate
 tea	fine
 american diet	dairy products
@@ -215,12 +211,10 @@ who	who
 mushrooms	vitamin d
 mom	eating
 milk	trigger
-trans fat	down
 children	eaten
 tea	beans
 garbanzo bean	legume
 aging	disease
-colon cancer	over
 drugs	exposures
 broccoli	broccoli
 kempner	lifestyle medicine
@@ -230,7 +224,6 @@ liver cancer	diseases
 video	fish oil
 diverticula	outpouchings
 green leafies	roots
-risk	down
 cells	dying
 dietary supplements	multibillion
 carcinogenic	carcinogenic

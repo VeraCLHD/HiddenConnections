@@ -1,0 +1,45 @@
+dump sentences\A-125_14_.txt	non-alcoholic fatty liver disease	obesity	due to	CAUSED-BY	[JJ, TO]	12
+dump sentences\T-1208_28_.txt	premature puberty	chemical pollutants	due to	CAUSED-BY	[JJ, TO]	5
+dump sentences\T-1298_2_.txt	muscle tremors	cooked meat	due to the levels of	CAUSED-BY	[JJ, TO, DT, NNS, IN]	4
+dump sentences\A-284_17_.txt	inflammation	muscle	caused by	CAUSED-BY	[VBN, IN]	3
+dump sentences\T-495_2_.txt	carcinogens	cooking	created by 	CAUSED-BY	[VBN, IN]	3
+dump sentences\A-261_22_.txt	toxicity	broccoli	due to	CAUSED-BY	[JJ, TO]	3
+dump sentences\A-289_13_.txt	pain	inflammation	caused by	CAUSED-BY	[VBN, IN]	3
+dump sentences\V-733_3_.txt	cancer growth	exercise	was because of the	CAUSED-BY	[VBD, IN, IN, DT]	3
+dump sentences\A-173_8_.txt	cancers	arsenic	caused by	CAUSED-BY	[VBN, IN]	3
+dump sentences\V-432_1_.txt	skin cancer	arsenic	caused by	CAUSED-BY	[VBN, IN]	3
+dump sentences\V-412_11_.txt	plaque	bacteria	is caused by	CAUSED-BY	[VBZ, VBN, IN]	2
+dump sentences\V-796_3_.txt	dementia	vitamin b12	due to	CAUSED-BY	[JJ, TO]	2
+dump sentences\V-308_0_.txt	diabetes	insulin resistance	are caused by	CAUSED-BY	[VBP, VBN, IN]	2
+dump sentences\T-1699_11_.txt	mutations	smoking	caused by	CAUSED-BY	[VBN, IN]	2
+dump sentences\A-97_10_.txt	health	obesity	caused by	CAUSED-BY	[VBN, IN]	2
+dump sentences\A-289_5_.txt	pain	inflammation	is caused by	CAUSED-BY	[VBZ, VBN, IN]	2
+dump sentences\A-52_35_.txt	carcinogens	cooking meat	caused by	CAUSED-BY	[VBN, IN]	2
+dump sentences\A-367_7_.txt	breast cancer	cooked meat	caused by the	CAUSED-BY	[VBN, IN, DT]	2
+dump sentences\T-573_5_.txt	chickens	genetic manipulation	due to	CAUSED-BY	[JJ, TO]	2
+dump sentences\V-405_13_.txt	inflammation	gluten	caused by	CAUSED-BY	[VBN, IN]	2
+dump sentences\V-356_21_.txt	adverse effects	aspartame	caused by	CAUSED-BY	[VBN, IN]	2
+dump sentences\A-141_31_.txt	production	cadmium	caused by the	CAUSED-BY	[VBN, IN, DT]	2
+dump sentences\A-341_9_.txt	oxidant stress	antioxidant	due to the	CAUSED-BY	[JJ, TO, DT]	2
+dump sentences\T-730_10_.txt	pathogens	noroviruses	due to	CAUSED-BY	[JJ, TO]	1
+dump sentences\T-428_6_.txt	irritation	cetuximab	caused by	CAUSED-BY	[VBN, IN]	1
+dump sentences\T-1129_7_.txt	smoke	frying	caused by	CAUSED-BY	[VBN, IN]	1
+dump sentences\A-302_9_.txt	oils	steam	due to	CAUSED-BY	[JJ, TO]	1
+dump sentences\T-1495_3_.txt	tumor	can	caused by hpv, which	CAUSED-BY	[VBN, IN, NN, ,, WDT]	1
+dump sentences\T-983_0_.txt	arteries	cholesterol	due to	CAUSED-BY	[JJ, TO]	1
+dump sentences\T-1653_1_.txt	brains	mercury	due to the high levels of	CAUSED-BY	[JJ, TO, DT, JJ, NNS, IN]	1
+dump sentences\V-268_7_.txt	sexual dysfunction	drugs	caused by these three	CAUSED-BY	[VBN, IN, DT, CD]	1
+dump sentences\T-1339_4_.txt	risk	carcinogens	due to	CAUSED-BY	[JJ, TO]	1
+dump sentences\T-1424_5_.txt	viruses	manure	due to	CAUSED-BY	[JJ, TO]	1
+dump sentences\T-1326_6_.txt	meat	arachidonic acid	due to	CAUSED-BY	[JJ, TO]	1
+dump sentences\V-25_10_.txt	dna damage	free radicals	caused by	CAUSED-BY	[VBN, IN]	1
+dump sentences\A-448_6_.txt	copd	tobacco	is caused by	CAUSED-BY	[VBZ, VBN, IN]	1
+dump sentences\V-152_8_.txt	brain damage	mercury	caused by the	CAUSED-BY	[VBN, IN, DT]	1
+dump sentences\T-400_2_.txt	fish	food poisoning	due to the	CAUSED-BY	[JJ, TO, DT]	1
+dump sentences\A-371_22_.txt	uric acid	meat	caused by	CAUSED-BY	[VBN, IN]	1
+dump sentences\T-1446_6_.txt	phytonutrients	nutrient synergy	due to	CAUSED-BY	[JJ, TO]	1
+dump sentences\T-18_3_.txt	carbohydrates	acrylamide	due to the effects of	CAUSED-BY	[JJ, TO, DT, NNS, IN]	1
+dump sentences\V-85_13_.txt	ph	short-chain fatty acids	is caused by	CAUSED-BY	[VBZ, VBN, IN]	1
+dump sentences\V-781_7_.txt	mutations	carcinogen	caused by the	CAUSED-BY	[VBN, IN, DT]	1
+dump sentences\A-224_1_.txt	oxidation	metabolism	caused by	CAUSED-BY	[VBN, IN]	1
+dump sentences\T-590_10_.txt	dna damage	radiation	caused by	CAUSED-BY	[VBN, IN]	1

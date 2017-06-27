@@ -265,6 +265,7 @@ gluten	fine	is	HYPERNYMY
 videos	noni juice	is	HYPERNYMY
 salmonella infection	eating chicken	is	HYPERNYMY
 coffee	beans	is	HYPERNYMY
+raw	bell peppers	is	HYPERNYMY
 women	heart disease	is	HYPERNYMY
 diabetes	diabetes	is	HYPERNYMY
 osteoarthritis	rose hips	is	HYPERNYMY

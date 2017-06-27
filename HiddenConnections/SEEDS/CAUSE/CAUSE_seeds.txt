@@ -1,0 +1,69 @@
+dump sentences\V-586_8_.txt	dental x-rays	brain tumors	cause	CAUSE	[VBP]	24
+dump sentences\A-58_22_.txt	cigarette smoking	lung cancer	causes	CAUSE	[VBZ]	12
+dump sentences\A-190_7_.txt	liquid smoke	dna	causes	CAUSE	[VBZ]	4
+dump sentences\A-309_0_.txt	bacteria	bladder infection	cause a	CAUSE	[VBP, DT]	4
+dump sentences\V-410_11_.txt	platelets	blood clots	are what trigger the	CAUSE	[VBP, WP, VB, DT]	4
+dump sentences\A-381_31_.txt	animal products	inflammation	cause	CAUSE	[VBP]	3
+dump sentences\V-115_7_.txt	risk	vitamin d	led to the	CAUSE	[VBD, TO, DT]	2
+dump sentences\V-382_19_.txt	manganese	risk	poses a	CAUSE	[VBZ, DT]	2
+dump sentences\A-33_1_.txt	insulin resistance	prediabetes	is what causes	CAUSE	[VBZ, WP, VBZ]	2
+dump sentences\V-823_11_.txt	milk	acne	cause	CAUSE	[VB]	2
+dump sentences\V-335_27_.txt	blood	insulin resistance	causes	CAUSE	[VBZ]	2
+dump sentences\V-447_22_.txt	allergies	tick bites	triggered by	CAUSE	[VBN, IN]	2
+dump sentences\A-308_7_.txt	bacteria	plaque	cause	CAUSE	[VBP]	2
+dump sentences\V-586_10_.txt	x-rays	brain tumors	caused the	CAUSE	[VBD, DT]	2
+dump sentences\T-75_2_.txt	egg nutrition center	american egg board	was created by the	CAUSE	[VBD, VBN, IN, DT]	2
+dump sentences\V-266_6_.txt	homocysteine	brain damage	could cause	CAUSE	[MD, VB]	2
+dump sentences\T-1535_5_.txt	animal protein	cancer	triggers the release of the	CAUSE	[VBZ, DT, NN, IN, DT]	2
+dump sentences\V-1300_22_.txt	bladder infections	breast cancer	tied to	CAUSE	[VBN, TO]	2
+dump sentences\V-212_25_.txt	inflammation	depressive symptoms	to trigger	CAUSE	[TO, VB]	2
+dump sentences\V-452_6_.txt	obesity	diabetes	predisposes us to	CAUSE	[VBZ, PRP, TO]	2
+dump sentences\V-637_1_.txt	carcinogens	cooking	 created by	CAUSE	[VBN, IN]	2
+dump sentences\A-2_17_.txt	c. diff	contamination	is because of cross-	CAUSE	[VBZ, IN, IN]	2
+dump sentences\A-357_13_.txt	titanium dioxide	inflammation	to see if it would cause	CAUSE	[TO, VB, IN, PRP, MD, VB]	2
+dump sentences\A-42_11_.txt	raisins	blood sugar	caused less of a	CAUSE	[VBD, JJR, IN, DT]	2
+dump sentences\T-1339_0_.txt	eggs	inflammation	thought to cause	CAUSE	[VBD, TO, VB]	1
+dump sentences\A-357_2_.txt	toxins	cooking	created by	CAUSE	[VBN, IN]	1
+dump sentences\V-981_3_.txt	arachidonic acid	inflammatory	to trigger the	CAUSE	[TO, VB, DT]	1
+dump sentences\V-23_15_.txt	paratuberculosis	type 1 diabetes	be a "trigger€ for	CAUSE	[VB, DT, ``, NN, '', IN]	1
+dump sentences\A-305_20_.txt	doctors	cat	cause with	CAUSE	[VBP, IN]	1
+dump sentences\A-266_5_.txt	cancer	cancer cells	is harder because	CAUSE	[VBZ, RBR, IN]	1
+dump sentences\A-155_28_.txt	fish	chicken	could get triggered by	CAUSE	[MD, VB, VBN, IN]	1
+dump sentences\V-1164_1_.txt	muscles	cancer	caused	CAUSE	[VBD]	1
+dump sentences\A-425_18_.txt	carbohydrates	insulin	trigger a release of	CAUSE	[VBP, DT, NN, IN]	1
+dump sentences\A-433_22_.txt	animal products	inflammation	caused	CAUSE	[VBD]	1
+dump sentences\V-212_20_.txt	inflammation	depression	causes	CAUSE	[VBZ]	1
+dump sentences\V-101_178_.txt	inflammation	animal protein	triggered by the	CAUSE	[VBN, IN, DT]	1
+dump sentences\V-1120_11_.txt	cholesterol	atherosclerosis	is the cause of	CAUSE	[VBZ, DT, NN, IN]	1
+dump sentences\T-794_0_.txt	fish	heterocyclic amines	creates	CAUSE	[VBZ]	1
+dump sentences\A-156_11_.txt	neu5gc	inflammation	triggers	CAUSE	[VBZ]	1
+dump sentences\V-783_0_.txt	animal foods	inflammation	causes	CAUSE	[VBZ]	1
+dump sentences\A-2_26_.txt	foodborne illness	pork	tied to	CAUSE	[VBN, TO]	1
+dump sentences\V-221_23_.txt	inflammatory response	animal protein	triggered by the	CAUSE	[VBN, IN, DT]	1
+dump sentences\A-268_12_.txt	poultry	liver	tied to	CAUSE	[VBD, TO]	1
+dump sentences\V-875_7_.txt	nitrosamines	cancers	are what cause the	CAUSE	[VBP, WP, VB, DT]	1
+dump sentences\V-1194_11_.txt	carcinogens	dna	cause	CAUSE	[VBP]	1
+dump sentences\A-282_9_.txt	exercise	free radicals	creates	CAUSE	[VBZ]	1
+dump sentences\T-3_1_.txt	cholesterol	blood	cause the	CAUSE	[VB, DT]	1
+dump sentences\V-701_3_.txt	inflammation	dioxin	triggered by	CAUSE	[VBN, IN]	1
+dump sentences\V-163_5_.txt	sucralose	insulin	causes	CAUSE	[VBZ]	1
+dump sentences\V-1297_2_.txt	food poisoning	sprouts	tied to	CAUSE	[VBN, TO]	1
+dump sentences\A-306_34_.txt	cell phones	cancer	cause	CAUSE	[VBP]	1
+dump sentences\V-988_13_.txt	risk	multivitamin	tied to	CAUSE	[VBD, TO]	1
+dump sentences\V-1120_10_.txt	arteries	strokes	to trigger	CAUSE	[TO, VB]	1
+dump sentences\V-299_6_.txt	phytonutrients	plant	are created by the	CAUSE	[VBP, VBN, IN, DT]	1
+dump sentences\A-404_7_.txt	inflammation	domesticated animal	triggered by	CAUSE	[VBN, IN]	1
+dump sentences\V-1080_7_.txt	muscle damage	pain	to cause	CAUSE	[TO, VB]	1
+dump sentences\V-102_10_.txt	plants	antioxidants	create	CAUSE	[VBP]	1
+dump sentences\A-52_18_.txt	celery	nitrites	to create	CAUSE	[TO, VB]	1
+dump sentences\A-475_17_.txt	amyloidosis	leprosy	triggered by	CAUSE	[VBN, IN]	1
+dump sentences\V-140_24_.txt	fish	insulin	causes triple the	CAUSE	[VBZ, RB, DT]	1
+dump sentences\V-783_0_.txt	inflammation	animal foods	is because	CAUSE	[VBZ, IN]	1
+dump sentences\T-996_6_.txt	carcinogens	cooking	created by	CAUSE	[VBN, IN]	1
+dump sentences\V-302_12_.txt	folate	depression	led to	CAUSE	[VBD, TO]	1
+dump sentences\V-763_2_.txt	carbohydrates	insulin	cause a release of	CAUSE	[VBP, DT, NN, IN]	1
+dump sentences\V-784_22_.txt	fat	gut	causes our	CAUSE	[VBZ, PRP$]	1
+dump sentences\T-1891_2_.txt	milk	uric acid	caused	CAUSE	[VBD]	1
+dump sentences\A-404_0_.txt	animal products	inflammation	trigger	CAUSE	[VBP]	1
+dump sentences\A-280_26_.txt	cholesterol	erectile dysfunction	is because it predicts	CAUSE	[VBZ, IN, PRP, VBZ]	1
+dump sentences\V-10_18_.txt	sugar	pancreatic cancer	tied to	CAUSE	[VBD, TO]	1
