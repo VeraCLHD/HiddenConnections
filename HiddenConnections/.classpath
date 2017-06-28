@@ -24,5 +24,6 @@
 	<classpathentry kind="lib" path="E:/Bachelor_Computerlinguistik/Bachelorarbeit/lucene-6.5.1/lucene-6.5.1/queryparser/lucene-queryparser-6.5.1.jar"/>
 	<classpathentry kind="lib" path="E:/Bachelor_Computerlinguistik/Bachelorarbeit/lucene-6.5.1/lucene-6.5.1/core/lucene-core-6.5.1.jar"/>
 	<classpathentry kind="lib" path="E:/Bachelor_Computerlinguistik/Bachelorarbeit/plexus-utils-1.5.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vera/Google Drive/Bacheloarbeit/resources/edu.mit.jwi_2.4.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

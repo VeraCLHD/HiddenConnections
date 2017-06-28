@@ -52,7 +52,7 @@ public class Bootstrapper {
 	private  String NEW_INSTANCES = "";
 	private  String ALL_INSTANCES_AND_PATTERNS = "";
 	
-	private static final String pathToAllTerms = "terms/all_terms_and_variants_with10_filtered.txt";
+	public static final String pathToAllTerms = "terms/all_terms_and_variants_with10_filtered.txt";
 
 	// key: plain strings that come from the seeds; value: POS patterns as list
 	// example: such as: [JJ, NN]
@@ -270,7 +270,7 @@ public class Bootstrapper {
 			
 			String patternToAdd = entry.getKey();
 			// manually excluded pattern "the" -> relvant for PART-OF
-			if(top5.contains(entry.getValue()) && patternToAdd.equals("the")){
+			if(top5.contains(entry.getValue()) && !patternToAdd.equals("the")){
 				// add pattern because score is high
 				this.patterns.add(patternToAdd);
 				// add instances for this pattern

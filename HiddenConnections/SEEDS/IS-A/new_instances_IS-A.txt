@@ -59,7 +59,6 @@ sweetener	erythritol
 disease	tremor
 symptoms	brain
 whole grains	gluten
-findings	eating nuts
 diseases	asthma
 autoimmune diseases	meat glue
 videos	apples
@@ -164,11 +163,9 @@ vitamin supplements	multivitamins
 illnesses	heart disease
 plant fat	nuts
 drug	valium
-attacks	inflammatory bowel disease
 drinks	wine
 inflammation	inflammation
 animal proteins	soy
-gut bacteria	inflammatory bowel diseases
 plant-based diet	seeds
 treatments	tamoxifen
 medications	aspirin

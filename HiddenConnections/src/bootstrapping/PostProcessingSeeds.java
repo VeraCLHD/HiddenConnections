@@ -8,7 +8,11 @@ import edu.stanford.nlp.simple.Sentence;
 import io.Reader;
 import io.Writer;
 import overall.Pair;
-
+/**
+ * A class that has the purpose to align the originally extracted seeds with the final set of manually adjusted terms.
+ * 
+ * @author Vera
+ */
 public class PostProcessingSeeds {
 
 

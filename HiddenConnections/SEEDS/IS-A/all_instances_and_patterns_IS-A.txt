@@ -143,7 +143,6 @@ antibodies	iga	like	IS-A
 plant foods	nuts	like	IS-A
 diseases	als	like	IS-A
 drug	valium	like	IS-A
-attacks	inflammatory bowel disease	like	IS-A
 healthy food	cranberries	like	IS-A
 diseases	diabetes	like	IS-A
 pills	viagra	like	IS-A
@@ -358,7 +357,6 @@ vitamin supplements	vitamin c	, such as	IS-A
 spices	cloves	, such as	IS-A
 chronic diseases	diabetes	, such as	IS-A
 arthritis	rheumatoid arthritis	, such as	IS-A
-gut bacteria	inflammatory bowel diseases	, such as	IS-A
 prebiotics	fiber	, such as	IS-A
 statins	lipitor	, such as	IS-A
 drugs	cholesterol-lowering	, such as	IS-A
@@ -393,7 +391,6 @@ chronic diseases	cancer	such as	IS-A
 industrial pollutants	mercury	such as	IS-A
 diseases	heart disease	such as	IS-A
 heavy metals	cadmium	such as	IS-A
-findings	eating nuts	such as	IS-A
 symptoms	bloating	such as	IS-A
 greens	turmeric	such as	IS-A
 spices	cinnamon	such as	IS-A

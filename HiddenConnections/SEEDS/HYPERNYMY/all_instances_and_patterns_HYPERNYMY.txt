@@ -19,7 +19,6 @@ vegetables	bok choy	are	HYPERNYMY
 video	cats	are	HYPERNYMY
 campylobacter	poultry	are	HYPERNYMY
 greens	health-promoting	are	HYPERNYMY
-kids	eating	are	HYPERNYMY
 phthalates	chemical	are	HYPERNYMY
 million americans	blind	are	HYPERNYMY
 estrogens	milk	are	HYPERNYMY
@@ -67,12 +66,10 @@ who	insulin	are	HYPERNYMY
 symptoms	heartburn	are	HYPERNYMY
 liver cancer	diseases	are	HYPERNYMY
 salad	fat soluble	are	HYPERNYMY
-americans	eating	are	HYPERNYMY
 diverticula	outpouchings	are	HYPERNYMY
 odds	suffering	are	HYPERNYMY
 nuts	health-promoting	are	HYPERNYMY
 green leafies	roots	are	HYPERNYMY
-who	eating	are	HYPERNYMY
 cells	dying	are	HYPERNYMY
 who	lactose	are	HYPERNYMY
 workers	diseases	are	HYPERNYMY
@@ -84,7 +81,6 @@ meat	overweight	are	HYPERNYMY
 greens	greens	are	HYPERNYMY
 candy	phytonutrient-rich	are	HYPERNYMY
 videos	multivitamins	are	HYPERNYMY
-children	eating	are	HYPERNYMY
 who	happier	are	HYPERNYMY
 vegetarians	overweight	are	HYPERNYMY
 citrus fruits	acidic	are	HYPERNYMY
@@ -193,10 +189,8 @@ tea	matcha	is	HYPERNYMY
 milk	skim milk	is	HYPERNYMY
 cancer	insulin-like growth	is	HYPERNYMY
 antioxidants	boiling	is	HYPERNYMY
-tumor	eating	is	HYPERNYMY
 ham	pork	is	HYPERNYMY
 colon	butyrate	is	HYPERNYMY
-worry	eating	is	HYPERNYMY
 video	milk	is	HYPERNYMY
 video	monsanto	is	HYPERNYMY
 nutrition	diet	is	HYPERNYMY
@@ -241,10 +235,8 @@ hibiscus tea	sour	is	HYPERNYMY
 fat intake	zero	is	HYPERNYMY
 mediterranean diet	sodium intake	is	HYPERNYMY
 who	pritikin	is	HYPERNYMY
-can	iodine	is	HYPERNYMY
 who	who	is	HYPERNYMY
 mushrooms	vitamin d	is	HYPERNYMY
-mom	eating	is	HYPERNYMY
 fruit juice	fiber	is	HYPERNYMY
 children	eaten	is	HYPERNYMY
 tea	beans	is	HYPERNYMY
@@ -263,7 +255,6 @@ depression	treated	is	HYPERNYMY
 dental plaque	bacteria	is	HYPERNYMY
 gluten	fine	is	HYPERNYMY
 videos	noni juice	is	HYPERNYMY
-salmonella infection	eating chicken	is	HYPERNYMY
 coffee	beans	is	HYPERNYMY
 raw	bell peppers	is	HYPERNYMY
 women	heart disease	is	HYPERNYMY

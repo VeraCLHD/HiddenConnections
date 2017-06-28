@@ -1,0 +1,91 @@
+
+risk	dairy	associated with	EFFECT
+girls	french fries	associated with	EFFECT
+cancer risk	alcohol intake	associated with	EFFECT
+irritation	chemotherapy	associated with	EFFECT
+risk	smoking	associated with	EFFECT
+fish intake	brain	associated with	EFFECT
+risk	veganism	associated with	EFFECT
+cancer risk	smoking	associated with	EFFECT
+sperm counts	processed meat	associated with	EFFECT
+fertility	saturated fat	associated with	EFFECT
+risk	diet soda	associated with	EFFECT
+lead poisoning	ayurvedic	associated with	EFFECT
+risks	iron supplements	associated with	EFFECT
+stomach cancer	salt	associated with	EFFECT
+amino acids	aging	associated with	EFFECT
+eggs	diabetes risk	associated with	EFFECT
+risks	diet soda	associated with	EFFECT
+risks	lead	associated with	EFFECT
+cancer mortality	poultry exposure	associated with	EFFECT
+risks	heart disease	associated with	EFFECT
+risks	diagnostic	associated with	EFFECT
+risk	ground beef	associated with	EFFECT
+pain	rheumatoid arthritis	associated with	EFFECT
+deformities	rickets	associated with	EFFECT
+risks	brain parasites	associated with	EFFECT
+increased risk	dairy intake	associated with	EFFECT
+inflammation	depression	associated with	EFFECT
+meat molecule	inflammation	associated with	EFFECT
+risks	processed meat	associated with	EFFECT
+death	nut	associated with	EFFECT
+rosy glow	cardiovascular health	associated with	EFFECT
+chronic diseases	inflammation	associated with	EFFECT
+risk	alcohol	associated with	EFFECT
+inflammatory reaction	egg	associated with	EFFECT
+risk	eggs	associated with	EFFECT
+eggs	diabetes	associated with	EFFECT
+risk	iron supplements	associated with	EFFECT
+side effects	drugs	associated with	EFFECT
+disorder	gluten intolerance	associated with	EFFECT
+risk	french fries	associated with	EFFECT
+risk	obesity	associated with	EFFECT
+toxin	alzheimer	associated with	EFFECT
+death	nut consumption	associated with	EFFECT
+arteries	cardiac disease	associated with	EFFECT
+girls	animal protein	associated with	EFFECT
+disease risk	obesity	associated with	EFFECT
+cancers	alcohol	associated with	EFFECT
+disability	heart disease	associated with	EFFECT
+biomarker	cancer	associated with	EFFECT
+cancer risk	veganism	associated with	EFFECT
+pain	drugs	associated with	EFFECT
+headaches	aspartame	associated with	EFFECT
+glaucoma risk	carrot consumption	associated with	EFFECT
+beverage	infertility	associated with	EFFECT
+mortality	poultry	associated with	EFFECT
+brain	memory	associated with	EFFECT
+symptoms	diabetes	associated with	EFFECT
+stomach cancer	salt intake	associated with	EFFECT
+nuts	risk	reduce the	EFFECT
+plant foods	risk	reduce the	EFFECT
+vegetables	risk	reduce the	EFFECT
+pressure cooking	antioxidant content	reduce the	EFFECT
+vegan diet	risk	reduce the	EFFECT
+chronic gum disease	sexual dysfunction	is associated with	EFFECT
+bpa	cardiovascular disease	is associated with	EFFECT
+meat intake	infertility	is associated with	EFFECT
+production	ulcerative colitis	is associated with	EFFECT
+animal products	weight gain	is associated with	EFFECT
+pancreatic cancer	beef	is associated with	EFFECT
+vegetable oil	pancreatic cancer	is associated with	EFFECT
+meat	inflammation	is associated with	EFFECT
+meat	weight gain	is associated with	EFFECT
+parasites	meat	are associated with	EFFECT
+fat	prevotella	are associated with	EFFECT
+blood	depression	are associated with	EFFECT
+xenoestrogens	birth defects	are associated with	EFFECT
+dental x-rays	brain tumors	are associated with	EFFECT
+cholesterol	nonalcoholic fatty liver	are associated with	EFFECT
+pickled vegetables	multiple myeloma	are associated with	EFFECT
+plant foods	prevotella	are associated with	EFFECT
+beef	cholesterol	lowers	EFFECT
+milk	uric acid	lowers	EFFECT
+eating eggs	cholesterol levels	lowers	EFFECT
+eating nuts	ldl	lowers	EFFECT
+intake	ldl-cholesterol	lowers	EFFECT
+eggs	cholesterol	lowers	EFFECT
+fiber	cholesterol	lowers	EFFECT
+nuts	ldl	lowers	EFFECT
+vegans	cancer risk	lowers	EFFECT
+tea	blood pressure	lowers	EFFECT

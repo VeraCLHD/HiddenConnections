@@ -26,20 +26,15 @@ processed foods	health	have	PART-OF-I
 grapes	antioxidants	have	PART-OF-I
 dates	fiber	have	PART-OF-I
 poultry workers	excess	have	PART-OF-I
-can	toxicity	have	PART-OF-I
 who	mgus	have	PART-OF-I
 sea vegetables	phytonutrients	have	PART-OF-I
 vegetarians	thrown	have	PART-OF-I
-can	estrogenic effects	have	PART-OF-I
 women	iron	have	PART-OF-I
 plants	fiber	have	PART-OF-I
 u.s	chronic	have	PART-OF-I
 who	heart attacks	have	PART-OF-I
 plants	dna	have	PART-OF-I
 plant foods	fiber	have	PART-OF-I
-can	soybean	have	PART-OF-I
-can	synergistic effects	have	PART-OF-I
-can	life-threatening	have	PART-OF-I
 who	breast cancer	have	PART-OF-I
 vegetables	antioxidants	have	PART-OF-I
 soft drinks	benzene	have	PART-OF-I
@@ -49,13 +44,11 @@ white women	iron deficiency	have	PART-OF-I
 plants	nicotine	have	PART-OF-I
 greens	myrosinase	have	PART-OF-I
 who	apoe	have	PART-OF-I
-can	blood	have	PART-OF-I
 animal foods	phosphorus	have	PART-OF-I
 women	pesticides	have	PART-OF-I
 who	eaten	have	PART-OF-I
 sea vegetables	anti-cancer properties	have	PART-OF-I
 kids	fatty streaks	have	PART-OF-I
-can	pro-oxidant	have	PART-OF-I
 sardines	sardines	have	PART-OF-I
 hypersensitivity	signs	have	PART-OF-I
 pregnancy	adverse effects	have	PART-OF-I

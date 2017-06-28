@@ -28,11 +28,9 @@ caldwell esselstyn	practitioner pioneer
 cancer	insulin-like growth
 fluoride	poison
 salmonella	poultry
-tumor	eating
 ham	pork
 colon	butyrate
 greens	fat soluble
-worry	eating
 brown rice	smart
 nutrition	diet
 milk	muscles
@@ -84,7 +82,6 @@ antioxidants	dandelion
 hibiscus tea	sour
 meat carcinogens	mutagenic
 who	pritikin
-can	iodine
 atherosclerosis	disease
 fruit juice	fiber
 grains	seeds
@@ -154,11 +151,9 @@ diverticulosis	fiber
 smoking	risk factor
 symptoms	heartburn
 salad	fat soluble
-americans	eating
 odds	suffering
 salmon	fish consumption
 diet	acid producing
-who	eating
 signal	igf
 fruit	fine
 dietary guidelines	fine
@@ -166,7 +161,6 @@ peas	roots
 diabetes	risk factor
 flight	apple juice
 meat	overweight
-children	eating
 citrus fruits	acidic
 plant protein	protein
 video	goji berries
@@ -186,7 +180,6 @@ trans fat	zero
 japanese	dying
 video	cats
 campylobacter	poultry
-kids	eating
 fuji	fuji
 tomatoes	billion dollar
 taking statins	suffering
@@ -209,7 +202,6 @@ salicylic acid	defense
 beans	fruit
 who	who
 mushrooms	vitamin d
-mom	eating
 milk	trigger
 children	eaten
 tea	beans
@@ -233,7 +225,6 @@ floppy ears	cute
 vegetarians	overweight
 kids	overweight
 flexitarians	overweight
-salmonella infection	eating chicken
 healthiest nuts	pecans
 coffee	beans
 breastfed infants	diet

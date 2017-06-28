@@ -1,17 +1,15 @@
 
--containing	[:, VBG]	0.10363914715548926
-— but that’s better than dying from	[:, CC, DT, VBZ, JJR, IN, VBG, IN]	0.006514657980456026
-—possibly found in animal products such as	[:, RB, VBN, IN, NN, NNS, JJ, IN]	0.006514657980456026
-, but that’s better than dying from	[,, CC, DT, VBZ, JJR, IN, VBG, IN]	0.006514657980456026
-in	[IN]	8.610114031148301
-—but, that’s better than dying from	[:, CC, ,, DT, VBZ, JJR, IN, VBG, IN]	0.006514657980456026
-in both men and	[IN, DT, NNS, CC]	0.009454104620876883
-found mostly in	[VBN, RB, IN]	0.009454104620876883
-their	[PRP$]	0.19051814514311344
-, found in	[,, VBN, IN]	0.0626084847543207
-(in	[-LRB-, IN]	0.007499822558617459
-our	[PRP$]	0.47664816982312663
-the	[DT]	2.3763939700705015
-, and mortality rates from breast and	[,, CC, NN, NNS, IN, NN, CC]	0.006514657980456026
-that when pregnant women eat	[IN, WRB, JJ, NNS, VBP]	0.007499822558617459
-(including	[-LRB-, VBG]	0.006514657980456026
+-containing	[:, VBG]	0.14062905414838336
+— but that’s better than dying from	[:, CC, DT, VBZ, JJR, IN, VBG, IN]	0.006552006552006552
+—possibly found in animal products such as	[:, RB, VBN, IN, NN, NNS, JJ, IN]	0.006552006552006552
+, but that’s better than dying from	[,, CC, DT, VBZ, JJR, IN, VBG, IN]	0.006552006552006552
+in	[IN]	11.62526248714561
+—but, that’s better than dying from	[:, CC, ,, DT, VBZ, JJR, IN, VBG, IN]	0.006552006552006552
+in both men and	[IN, DT, NNS, CC]	0.009438732093038058
+found mostly in	[VBN, RB, IN]	0.009438732093038058
+, found in	[,, VBN, IN]	0.07976219155286224
+(in	[-LRB-, IN]	0.007559439590085005
+, and mortality rates from breast and	[,, CC, NN, NNS, IN, NN, CC]	0.006552006552006552
+that when pregnant women eat	[IN, WRB, JJ, NNS, VBP]	0.007559439590085005
+that eating	[IN, VBG]	0.006552006552006552
+(including	[-LRB-, VBG]	0.006552006552006552
