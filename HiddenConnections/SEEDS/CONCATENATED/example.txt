@@ -1,0 +1,4 @@
+inflammation	dioxin	triggered by	CAUSE
+dioxins	meat	in	PART-OF
+dioxin	preservatives	-containing	PART-OF
+dioxins	dairy products	in	PART-OF

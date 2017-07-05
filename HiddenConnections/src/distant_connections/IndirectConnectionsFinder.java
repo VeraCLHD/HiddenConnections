@@ -1,4 +1,4 @@
-package bootstrapping;
+package distant_connections;
 
 import java.util.ArrayList;
 import java.util.Collection;
