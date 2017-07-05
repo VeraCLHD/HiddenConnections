@@ -395,9 +395,11 @@ public class Bootstrapper {
 		
 		  //Bootstrapper.allTerms.contains(t1_candidate)
 		    if(!temp1.isEmpty() && !temp2.isEmpty()){
+				if(!temp1.equals(temp2)){
+					Pair<String> pair = new Pair<String>(temp1, temp2);
+					candidates.add(pair);	
+				}
 				
-				Pair<String> pair = new Pair<String>(temp1, temp2);
-				candidates.add(pair);
 			}
 
 	}

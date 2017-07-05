@@ -1,0 +1,275 @@
+
+low-fat	chicken	was a	IS-A-S
+risk	smoking	was a	IS-A-S
+risk factor	obesity	was a	IS-A-S
+risk	obesity	was a	IS-A-S
+death	infection	was a	IS-A-S
+lifestyle medicine	kempner	was a	IS-A-S
+risk factor	smoking	was a	IS-A-S
+fruits	rose hips	are the	IS-A-S
+pigments	anthocyanins	are the	IS-A-S
+diseases	hypertension	are the	IS-A-S
+label	odds	are the	IS-A-S
+stars	berries	are the	IS-A-S
+carcinogens	nitrosamines	are the	IS-A-S
+chart	pecans	are the	IS-A-S
+fatter	infants	are	IS-A-S
+dying	japanese	are	IS-A-S
+bok choy	vegetables	are	IS-A-S
+cats	video	are	IS-A-S
+poultry	campylobacter	are	IS-A-S
+health-promoting	greens	are	IS-A-S
+chemical	phthalates	are	IS-A-S
+blind	million americans	are	IS-A-S
+milk	estrogens	are	IS-A-S
+sugar	sorbitol	are	IS-A-S
+fat soluble	smoke	are	IS-A-S
+roots	carrots	are	IS-A-S
+doing	calcium supplements	are	IS-A-S
+iodine	vegetarians	are	IS-A-S
+brushed	teeth	are	IS-A-S
+killer	strokes	are	IS-A-S
+chemical	organochlorines	are	IS-A-S
+vitamin d	americans	are	IS-A-S
+leaner	who	are	IS-A-S
+potato chips	vegetables	are	IS-A-S
+neurotoxic	chemicals	are	IS-A-S
+water	tomatoes	are	IS-A-S
+legumes	longevity	are	IS-A-S
+estrogen receptor	breast tumors	are	IS-A-S
+roots	rhubarb	are	IS-A-S
+flax seeds	omega	are	IS-A-S
+overweight	americans	are	IS-A-S
+fruits	pesticides	are	IS-A-S
+dying	women	are	IS-A-S
+fatty	chickens	are	IS-A-S
+fine	herbal teas	are	IS-A-S
+ballooning bulges	abdominal aortic aneurysms	are	IS-A-S
+smart	who	are	IS-A-S
+plant	antioxidants	are	IS-A-S
+mutagenic	meat carcinogens	are	IS-A-S
+fatty foods	video	are	IS-A-S
+fruit	beans	are	IS-A-S
+chemicals	birds	are	IS-A-S
+seeds	grains	are	IS-A-S
+poultry	salmonella	are	IS-A-S
+calcium	stones	are	IS-A-S
+fat soluble	greens	are	IS-A-S
+chemicals	xenoestrogens	are	IS-A-S
+overweight	who	are	IS-A-S
+bioequivalent	omega	are	IS-A-S
+exposures	drugs	are	IS-A-S
+smart	brown rice	are	IS-A-S
+muscles	milk	are	IS-A-S
+gluten	million americans	are	IS-A-S
+insulin	who	are	IS-A-S
+heartburn	symptoms	are	IS-A-S
+diseases	liver cancer	are	IS-A-S
+fat soluble	salad	are	IS-A-S
+outpouchings	diverticula	are	IS-A-S
+suffering	odds	are	IS-A-S
+health-promoting	nuts	are	IS-A-S
+roots	green leafies	are	IS-A-S
+dying	cells	are	IS-A-S
+lactose	who	are	IS-A-S
+diseases	workers	are	IS-A-S
+fine	dietary guidelines	are	IS-A-S
+roots	peas	are	IS-A-S
+cute	floppy ears	are	IS-A-S
+eaten	fruits	are	IS-A-S
+overweight	meat	are	IS-A-S
+greens	greens	are	IS-A-S
+phytonutrient-rich	candy	are	IS-A-S
+multivitamins	videos	are	IS-A-S
+happier	who	are	IS-A-S
+overweight	vegetarians	are	IS-A-S
+acidic	citrus fruits	are	IS-A-S
+plant foods	nuts	are	IS-A-S
+doing	rays	are	IS-A-S
+overweight	kids	are	IS-A-S
+doing	journalists	are	IS-A-S
+breast fed	babies	are	IS-A-S
+overweight	flexitarians	are	IS-A-S
+flax seeds	breast cancer survival	are	IS-A-S
+fruit	snacks	are	IS-A-S
+supplement	supplements	are	IS-A-S
+goji berries	video	are	IS-A-S
+pecans	healthiest nuts	are	IS-A-S
+cheese	saturated fat	are	IS-A-S
+overweight	overweight	are	IS-A-S
+roots	fruits	are	IS-A-S
+preservatives	nitrites	are	IS-A-S
+fat soluble	phytonutrients	are	IS-A-S
+low-calorie diets	plant-based diets	are	IS-A-S
+beta	plant-based diets	are	IS-A-S
+plant	cherries	are a	IS-A-S
+billion dollar	tomatoes	are a	IS-A-S
+group	flavonoids	are a	IS-A-S
+multibillion	dietary supplements	are a	IS-A-S
+health-promoting	sweet potatoes	are a	IS-A-S
+legume	chickpeas	are a	IS-A-S
+legume	bean	are a	IS-A-S
+legume	garbanzo bean	are a	IS-A-S
+chemical	putrescine	is a	IS-A-S
+steroid	estrogen	is a	IS-A-S
+heart-healthy	diet	is a	IS-A-S
+diet	mediterranean diet	is a	IS-A-S
+syndrome	myelopathy	is a	IS-A-S
+choice	heart disease	is a	IS-A-S
+chronic inflammatory	ibd	is a	IS-A-S
+group	amyloidosis	is a	IS-A-S
+disease	diverticulosis	is a	IS-A-S
+chemical	acrylamide	is a	IS-A-S
+nontoxic	erythritol	is a	IS-A-S
+product	balsamic vinegar	is a	IS-A-S
+milk	galactose	is a	IS-A-S
+risk factor	exercise	is a	IS-A-S
+neurotoxic chemical	acrylamide	is a	IS-A-S
+risk factor	depression	is a	IS-A-S
+carotenoid phytonutrient	lutein	is a	IS-A-S
+toxin	lead	is a	IS-A-S
+pesticide	bt corn	is a	IS-A-S
+degenerative joint	osteoarthritis	is a	IS-A-S
+vegan diet	children	is a	IS-A-S
+risk factor	poultry	is a	IS-A-S
+bacteria	campylobacter	is a	IS-A-S
+chronic	irritable bowel syndrome	is a	IS-A-S
+disease	prediabetes	is a	IS-A-S
+practitioner pioneer	caldwell esselstyn	is a	IS-A-S
+disease	atherosclerosis	is a	IS-A-S
+defense	salicylic acid	is a	IS-A-S
+product	vinegar	is a	IS-A-S
+trigger	milk	is a	IS-A-S
+poison	fluoride	is a	IS-A-S
+disease	gluten sensitivity	is a	IS-A-S
+disease	aging	is a	IS-A-S
+fiber	diverticulosis	is a	IS-A-S
+bit	supplements	is a	IS-A-S
+diet high	mediterranean diet	is a	IS-A-S
+hormone	melatonin	is a	IS-A-S
+carotenoid	lutein	is a	IS-A-S
+stress hormone	cortisol	is a	IS-A-S
+chronic inflammatory	asthma	is a	IS-A-S
+baby	streak	is a	IS-A-S
+mycotoxin	patulin	is a	IS-A-S
+milk protein	casein	is a	IS-A-S
+tumor suppressor gene	maspin	is a	IS-A-S
+risk factor	diabetes	is a	IS-A-S
+disease	multiple sclerosis	is a	IS-A-S
+pro-oxidant	iron	is a	IS-A-S
+diet	breastfed infants	is a	IS-A-S
+neurotoxic	acrylamide	is a	IS-A-S
+nightshade	tobacco	is a	IS-A-S
+vitamin c	scurvy	is a	IS-A-S
+growth hormone	igf-1	is a	IS-A-S
+stress	exercise	is a	IS-A-S
+chronic	atherosclerosis	is a	IS-A-S
+chronic	rheumatoid arthritis	is a	IS-A-S
+meat consumption	neurotoxin	is	IS-A-S
+nitrate	beet juice	is	IS-A-S
+vegetarian	daily diet	is	IS-A-S
+beef	saturated fat	is	IS-A-S
+sodium bicarbonate	baking soda	is	IS-A-S
+cancer	lymphoma	is	IS-A-S
+fine	tea	is	IS-A-S
+beta	multiple sclerosis	is	IS-A-S
+meat	american diet	is	IS-A-S
+dairy products	american diet	is	IS-A-S
+heart disease	diseases	is	IS-A-S
+parkinson	leading killer	is	IS-A-S
+fat	brain	is	IS-A-S
+fish oil	supplements	is	IS-A-S
+fruit	fruit	is	IS-A-S
+vitamin d	video	is	IS-A-S
+aspirin	drug	is	IS-A-S
+breastmilk	infants	is	IS-A-S
+tea	drink	is	IS-A-S
+eaten	bone	is	IS-A-S
+matcha	tea	is	IS-A-S
+skim milk	milk	is	IS-A-S
+insulin-like growth	cancer	is	IS-A-S
+boiling	antioxidants	is	IS-A-S
+pork	ham	is	IS-A-S
+butyrate	colon	is	IS-A-S
+milk	video	is	IS-A-S
+monsanto	video	is	IS-A-S
+diet	nutrition	is	IS-A-S
+pain	colic	is	IS-A-S
+fish consumption	salmon	is	IS-A-S
+acid producing	diet	is	IS-A-S
+bell peppers	vegetable	is	IS-A-S
+choline	death	is	IS-A-S
+igf	signal	is	IS-A-S
+fine	fruit	is	IS-A-S
+doing	standard american diet	is	IS-A-S
+apple juice	flight	is	IS-A-S
+protein	plant protein	is	IS-A-S
+homeopathy	video	is	IS-A-S
+fish consumption	pcbs	is	IS-A-S
+fructose	table sugar	is	IS-A-S
+potassium	fiber	is	IS-A-S
+exercise	disease	is	IS-A-S
+poisonous	star anise	is	IS-A-S
+lying	label	is	IS-A-S
+thrown	fiber	is	IS-A-S
+shaken	soymilk	is	IS-A-S
+diet	disability	is	IS-A-S
+gmo	gmo soy	is	IS-A-S
+zero	trans fat	is	IS-A-S
+junk	calorie	is	IS-A-S
+fuji	fuji	is	IS-A-S
+suffering	taking statins	is	IS-A-S
+bmaa	neurotoxins	is	IS-A-S
+beating	heart	is	IS-A-S
+hydroponic basil	video	is	IS-A-S
+pizza	teens	is	IS-A-S
+butyrate	signal	is	IS-A-S
+mineral	nettle tea	is	IS-A-S
+home	california	is	IS-A-S
+zero	trans fats	is	IS-A-S
+sensitive	breast cancer	is	IS-A-S
+zero	adequate intake	is	IS-A-S
+gluten	video	is	IS-A-S
+dandelion	antioxidants	is	IS-A-S
+sour	hibiscus tea	is	IS-A-S
+zero	fat intake	is	IS-A-S
+sodium intake	mediterranean diet	is	IS-A-S
+pritikin	who	is	IS-A-S
+who	who	is	IS-A-S
+vitamin d	mushrooms	is	IS-A-S
+fiber	fruit juice	is	IS-A-S
+eaten	children	is	IS-A-S
+beans	tea	is	IS-A-S
+hen	infection	is	IS-A-S
+broccoli	broccoli	is	IS-A-S
+cataracts	vision loss	is	IS-A-S
+vegetables	diet	is	IS-A-S
+protein	video	is	IS-A-S
+fish oil	video	is	IS-A-S
+overweight	u.s	is	IS-A-S
+carcinogenic	carcinogenic	is	IS-A-S
+acidic	urine	is	IS-A-S
+hibiscus	herbal tea	is	IS-A-S
+back pain	sciatica	is	IS-A-S
+treated	depression	is	IS-A-S
+bacteria	dental plaque	is	IS-A-S
+fine	gluten	is	IS-A-S
+noni juice	videos	is	IS-A-S
+beans	coffee	is	IS-A-S
+bell peppers	raw	is	IS-A-S
+heart disease	women	is	IS-A-S
+diabetes	diabetes	is	IS-A-S
+rose hips	osteoarthritis	is	IS-A-S
+gluten sensitivity	video	is	IS-A-S
+treated	anxiety	is	IS-A-S
+medicine	exercise	is	IS-A-S
+turmeric	culture	is	IS-A-S
+lifestyle medicine	specialty	is	IS-A-S
+proxy	animal protein	is just a	IS-A-S
+symptom	high blood pressure	is just a	IS-A-S
+plant	turmeric	is just a	IS-A-S
+sign	tea drinking	is just a	IS-A-S
+virus	plant-based diet	is just a	IS-A-S
+vegetables	garlic	stood out for the	IS-A-S
+vegetables	raisins	stood out for the	IS-A-S
+dried fruit	raisins	stood out for the	IS-A-S

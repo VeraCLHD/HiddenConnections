@@ -1,0 +1,78 @@
+
+cancer	vegetables	without the	PART-OF-S
+side effects	rheumatoid arthritis	without the	PART-OF-S
+risk	diseases	without the	PART-OF-S
+side effects	drug	without the	PART-OF-S
+preservative	dried fruits	without the	PART-OF-S
+downer	anxiety	without the	PART-OF-S
+saturated fat	beef	without the	PART-OF-S
+cancer risk	vegetables	without the	PART-OF-S
+brain damage	boost	without the	PART-OF-S
+cholesterol	saturated fat	without the	PART-OF-S
+risks	smoking	without the	PART-OF-S
+egg	saturated fat	without the	PART-OF-S
+preservative	fruits	without the	PART-OF-S
+fragrance	massage	without the	PART-OF-S
+carbs	oatmeal	packed with	PART-OF-S
+plants	diet	packed with	PART-OF-S
+butterfat	yogurt	packed with	PART-OF-S
+antioxidants	vegetables	packed with	PART-OF-S
+butter	yogurt	packed with	PART-OF-S
+gallstones	gallbladder	packed with	PART-OF-S
+fiber	whole foods	packed with	PART-OF-S
+diverticulosis	americans	have	PART-OF-S
+phytonutrients	dates	have	PART-OF-S
+health	processed foods	have	PART-OF-S
+antioxidants	grapes	have	PART-OF-S
+fiber	dates	have	PART-OF-S
+excess	poultry workers	have	PART-OF-S
+mgus	who	have	PART-OF-S
+phytonutrients	sea vegetables	have	PART-OF-S
+thrown	vegetarians	have	PART-OF-S
+iron	women	have	PART-OF-S
+fiber	plants	have	PART-OF-S
+chronic	u.s	have	PART-OF-S
+heart attacks	who	have	PART-OF-S
+dna	plants	have	PART-OF-S
+fiber	plant foods	have	PART-OF-S
+breast cancer	who	have	PART-OF-S
+antioxidants	vegetables	have	PART-OF-S
+benzene	soft drinks	have	PART-OF-S
+pesticides	american women	have	PART-OF-S
+prostate enlargement	who	have	PART-OF-S
+iron deficiency	white women	have	PART-OF-S
+nicotine	plants	have	PART-OF-S
+myrosinase	greens	have	PART-OF-S
+apoe	who	have	PART-OF-S
+phosphorus	animal foods	have	PART-OF-S
+pesticides	women	have	PART-OF-S
+eaten	who	have	PART-OF-S
+anti-cancer properties	sea vegetables	have	PART-OF-S
+fatty streaks	kids	have	PART-OF-S
+sardines	sardines	have	PART-OF-S
+signs	hypersensitivity	have	PART-OF-S
+adverse effects	pregnancy	have	PART-OF-S
+amla	smoothies	have	PART-OF-S
+antioxidants	kiwifruits	have	PART-OF-S
+aortic aneurysms	americans	have	PART-OF-S
+polyphenols	grapes	have	PART-OF-S
+phytosterols	seeds	are packed with	PART-OF-S
+lignans	flaxseeds	are packed with	PART-OF-S
+nutrition	nuts	are packed with	PART-OF-S
+fiber	dried fruit	are packed with	PART-OF-S
+phosphorus	protein	has	PART-OF-S
+zero	water	has	PART-OF-S
+health benefits	spice	has	PART-OF-S
+vitamin d	mom	has	PART-OF-S
+shot	dementia	has	PART-OF-S
+tobacco	intake	has	PART-OF-S
+folate	kiwifruit	has	PART-OF-S
+salmonella	turkey	has	PART-OF-S
+opioid	casomorphin	has	PART-OF-S
+bumped	diet	has	PART-OF-S
+mrsa	u.s	has	PART-OF-S
+received	fernandez	has	PART-OF-S
+zero	ice	has	PART-OF-S
+celiac disease	american	has	PART-OF-S
+received	turmeric	has	PART-OF-S
+fiber	date sugar	has	PART-OF-S
