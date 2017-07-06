@@ -19,10 +19,13 @@ import terms_processing.StanfordLemmatizer;
  *
  */
 public class InformationContent {
-	private static String pathToInstances = "SEEDS/CONCATENATED/IS-A_final - Copy.txt";
+	private static String pathToInstances = "SEEDS/CONCATENATED/IS-A_final.txt";
 	private Map<String, Set<String>> isAPairs = new HashMap<String, Set<String>>();
 	private StanfordLemmatizer lemm = new StanfordLemmatizer();
 	private int N;
+	private Double freq = 1.0;
+	
+
 	private Map<String, Double> information_content = new HashMap<String, Double>();
 	
 	public void readIsAHierarchy(){
@@ -66,32 +69,32 @@ public class InformationContent {
 	public void computeInformationContent(){
 		Set<String> allTerms = new HashSet<String>();
 		this.readIsAHierarchy();
-		this.setN(this.getIsAPairs().keySet().size() + this.getIsAPairs().values().size());
-		
 		
 		allTerms.addAll(this.getIsAPairs().keySet());
 		for(String key: this.getIsAPairs().keySet()){
 			allTerms.addAll(this.getIsAPairs().get(key));
 		}
 		
+		this.setN(allTerms.size());
+		
 		for(String term: allTerms){
-			Double freq = 1.0;
-			Double f =countFreqForTerm(freq, term);
-			Double information_content = - Math.log10(f/N);
+			this.setFreq(1.0);
+			countFreqForTerm(term);
+			Double information_content = - Math.log10(this.getFreq()/N);
 			this.getInformation_content().put(term, information_content);
 		}
 
 	}
 
-	private Double countFreqForTerm(Double freq, String term) {
+	private void countFreqForTerm(String term) {
 		Set<String> concrete = this.getIsAPairs().get(term);
 		if(concrete !=null && !concrete.isEmpty()){
-			freq +=concrete.size();
+			Double f = freq + concrete.size();
+			this.setFreq(f);
 			for(String cterm: concrete){
-				countFreqForTerm(freq, cterm);
+				countFreqForTerm(cterm);
 			}
 		}
-		return freq;
 	
 	}
 	
@@ -125,6 +128,7 @@ public class InformationContent {
 		ic.computeInformationContent();
 		ic.writeIC();
 		System.out.println(ic.getIsAPairs());
+		System.out.println(ic.getInformation_content());
 		
 
 	}
@@ -135,6 +139,13 @@ public class InformationContent {
 
 	public void setInformation_content(Map<String, Double> information_content) {
 		this.information_content = information_content;
+	}
+	public Double getFreq() {
+		return freq;
+	}
+
+	public void setFreq(Double freq) {
+		this.freq = freq;
 	}
 
 }
