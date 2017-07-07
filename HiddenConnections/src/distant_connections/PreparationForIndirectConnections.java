@@ -222,8 +222,42 @@ public class PreparationForIndirectConnections {
 		}
 	}
 	
-	
-	
+	/**
+	 * Input for graph traversal algorithm
+	 */
+	public void rewriteInstances(){
+		// die produzierte Datei enthält noch california, adjectives
+		Writer.overwriteFile("", "distant connections/ALL_RELATIONS_WITH_RELEVANT_INFO.txt");
+		for(Quadruple<String> relation: this.getAllConnections()){
+			String first = relation.first;
+			String second = relation.second;
+			String newLine = first + "\t";
+			
+			String firstLemma = this.getLemm().lemmatize(relation.first);
+			String secondLemma = this.getLemm().lemmatize(relation.second);
+			if(!first.contains(" ") && firstLemma !=null){
+				newLine += firstLemma +"\t";
+				newLine += this.getFoodDiseaseMapping().get(firstLemma) + "\t";
+			} else if(first.contains(" ")){
+				newLine += first +"\t";
+				newLine += this.getFoodDiseaseMapping().get(first) + "\t";
+			}
+			
+			newLine += second + "\t";
+			
+			if(!second.contains(" ") && secondLemma !=null){
+				newLine += secondLemma +"\t";
+				newLine += this.getFoodDiseaseMapping().get(secondLemma) +"\t";
+			} else if(second.contains(" ")){
+				newLine += second +"\t";
+				newLine += this.getFoodDiseaseMapping().get(second) +"\t";
+			}
+			
+			newLine += relation.third +"\t";
+			newLine += relation.forth;
+			Writer.appendLineToFile(newLine, "distant connections/ALL_RELATIONS_WITH_RELEVANT_INFO.txt");
+		}
+	}
 	
 	public static void main(String[] args) {
 		

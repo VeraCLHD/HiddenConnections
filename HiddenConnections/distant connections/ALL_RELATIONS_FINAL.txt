@@ -2,6 +2,9 @@
 dna mutations	smoking	caused by	CAUSED-BY
 dna damage	radiation	caused by	CAUSED-BY
 skin cancer	arsenic	caused by	CAUSED-BY
+arsenic	poultry	-containing	PART-OF
+toxins	arsenic	like	IS-A
+toxins	seafood	in	PART-OF
 inflammation	gluten	caused by	CAUSED-BY
 pain	inflammation	caused by	CAUSED-BY
 carcinogens	cooking	caused by	CAUSED-BY

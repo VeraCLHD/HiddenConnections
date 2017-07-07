@@ -81,7 +81,7 @@ public class RelationsTraversal {
 
 	}
 	
-	private void travelThroughRelationsRecursive(String term, PreparationForIndirectConnections prep, int countSteps) {
+	/*private void travelThroughRelationsRecursive(String term, PreparationForIndirectConnections prep, int countSteps) {
 		Set<String> connected = this.getRelations().get(term);
 		if(connected !=null && !connected.isEmpty()){
 			Double f = freq + concrete.size();
@@ -91,7 +91,7 @@ public class RelationsTraversal {
 			}
 		}
 	
-	}
+	}*/
 	
 	//____________________________________________________________________________
 		// unnecessary duplicates arise: x-z, z-y -> x-y, y-x (not necessary when IS-A)
@@ -162,13 +162,15 @@ public class RelationsTraversal {
 		// setzt voraus, dass information content file already there
 		prep.readInformationContentFile();
 		//Writer.overwriteFile("", "evaluation/toEvaluate_all.txt");
-		prep.readAllConnections();
-		
 		prep.readClusteredTerms();
-		RelationsTraversal rt = new RelationsTraversal();
-		rt.traverseRelations( prep);
+		prep.readAllConnections();
+		prep.rewriteInstances();
+		//RelationsTraversal rt = new RelationsTraversal();
+		//rt.traverseRelations( prep);
 
 	}
+	
+
 
 	public Map<String, Set<String>> getRelations() {
 		return relations;
