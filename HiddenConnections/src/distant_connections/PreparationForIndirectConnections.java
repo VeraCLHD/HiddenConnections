@@ -18,7 +18,7 @@ import io.Writer;
 import overall.Pair;
 import terms_processing.StanfordLemmatizer;
 
-public class IndirectConnectionsFinder2 {
+public class PreparationForIndirectConnections {
 	private static Set<Quadruple<String>> allConnections = new HashSet<Quadruple<String>>();
 	private static String pathToInstances = "SEEDS/CONCATENATED/ALL_RELATIONS_FINAL.txt";
 	private static String pathToClusteredTerms = "terms/all_terms_and_variants_with10_filtered_clustered.txt";
@@ -80,9 +80,9 @@ public class IndirectConnectionsFinder2 {
 		Writer.overwriteFile("", "SEEDS/CONCATENATED/" + "CAUSE" + "_final.txt");
 		Writer.overwriteFile("", "SEEDS/CONCATENATED/" + "IS-A" + "_final.txt");
 		Writer.overwriteFile("", "SEEDS/CONCATENATED/" + "PART-OF" + "_final.txt");
-		IndirectConnectionsFinder2.prepareInstances("IS-A", "HYPERNYMY");
-		IndirectConnectionsFinder2.prepareInstances("CAUSE", "CAUSED-BY");
-		IndirectConnectionsFinder2.prepareInstances("PART-OF", "PART-OF-I");
+		PreparationForIndirectConnections.prepareInstances("IS-A", "HYPERNYMY");
+		PreparationForIndirectConnections.prepareInstances("CAUSE", "CAUSED-BY");
+		PreparationForIndirectConnections.prepareInstances("PART-OF", "PART-OF-I");
 		List<String> finalFiles = new ArrayList<String>();
 		
 		
@@ -105,7 +105,7 @@ public class IndirectConnectionsFinder2 {
 		for(String lineToExclude: lines){
 			if(!lineToExclude.isEmpty()){
 				String[] splitted =  lineToExclude.split("\t");
-				IndirectConnectionsFinder2.getGeneralTermsToExclude().add(splitted[0]);
+				PreparationForIndirectConnections.getGeneralTermsToExclude().add(splitted[0]);
 			}
 			
 		}
@@ -118,7 +118,7 @@ public class IndirectConnectionsFinder2 {
 				String[] splitted = line.split("\t");
 				if(splitted.length == 4){
 					Quadruple<String> isAPair = new Quadruple<String>(splitted[0], splitted[1], splitted[2], splitted[3]);
-					IndirectConnectionsFinder2.getAllConnections().add(isAPair);
+					PreparationForIndirectConnections.getAllConnections().add(isAPair);
 				}
 			}
 	}
@@ -132,7 +132,8 @@ public class IndirectConnectionsFinder2 {
 	public boolean isTooGeneral(String term){
 		boolean result = false;
 		String lemma = lemm.lemmatize(term);
-		if(!term.contains(" ") && IndirectConnectionsFinder2.getGeneralTermsToExclude().contains(lemma)){
+		if((!term.contains(" ") && PreparationForIndirectConnections.getGeneralTermsToExclude().contains(lemma))
+				|| (term.contains(" ") && PreparationForIndirectConnections.getGeneralTermsToExclude().contains(term))){
 			result = true;
 		}
 		return result;
@@ -144,7 +145,7 @@ public class IndirectConnectionsFinder2 {
 		for(String term: terms){
 			if(!term.isEmpty()){
 				String[] splitted = term.split("\t");
-				IndirectConnectionsFinder2.getFoodDiseaseMapping().put(splitted[0].trim(), splitted[1].trim());
+				PreparationForIndirectConnections.getFoodDiseaseMapping().put(splitted[0].trim(), splitted[1].trim());
 			}
 		}
 	}
@@ -153,8 +154,8 @@ public class IndirectConnectionsFinder2 {
 	//____________________________________________________________________________
 	// unnecessary duplicates arise: x-z, z-y -> x-y, y-x (not necessary when IS-A)
 	public static void traverseAndFindHidden(Collection<Quadruple<String>> collection){
-		IndirectConnectionsFinder2.setNewlyEmergedCount(0);
-		IndirectConnectionsFinder2.run +=1; 
+		PreparationForIndirectConnections.setNewlyEmergedCount(0);
+		PreparationForIndirectConnections.run +=1; 
 		List<Quadruple<String>> list1 = new ArrayList<Quadruple<String>>(collection);
 		List<Quadruple<String>> list2 = new ArrayList<Quadruple<String>>(collection);
 		
@@ -197,7 +198,7 @@ public class IndirectConnectionsFinder2 {
 	 * A method to identify which relations are newly emerged.
 	 */
 	public static void filter(){
-		newlyEmerged.remove(IndirectConnectionsFinder2.getAllConnections());
+		newlyEmerged.remove(PreparationForIndirectConnections.getAllConnections());
 		Set<Quadruple<String>> fin = newlyEmerged;
 		for(Quadruple<String> pair: fin){
 			Writer.appendLineToFile(pair.first + "\t" + pair.second, "evaluation/toEvaluate_ISA.txt");
@@ -213,7 +214,7 @@ public class IndirectConnectionsFinder2 {
 		// to exclude too general terms
 		
 		Writer.overwriteFile("", "evaluation/toEvaluate_all.txt");
-		IndirectConnectionsFinder2.readAllConnections();
+		PreparationForIndirectConnections.readAllConnections();
 		readInformationContentFile();
 		readClusteredTerms();
 		//IndirectConnectionsFinder2.traverseAndFindHidden(allConnections);
@@ -225,7 +226,7 @@ public class IndirectConnectionsFinder2 {
 		return allConnections;
 	}
 	public static void setAllConnections(Set<Quadruple<String>> allConnections) {
-		IndirectConnectionsFinder2.allConnections = allConnections;
+		PreparationForIndirectConnections.allConnections = allConnections;
 	}
 
 	public static int getNewlyEmergedCount() {
@@ -233,14 +234,14 @@ public class IndirectConnectionsFinder2 {
 	}
 
 	public static void setNewlyEmergedCount(int newlyEmergedCount) {
-		IndirectConnectionsFinder2.newlyEmergedCount = newlyEmergedCount;
+		PreparationForIndirectConnections.newlyEmergedCount = newlyEmergedCount;
 	}
 	public static Set<String> getGeneralTermsToExclude() {
 		return generalTermsToExclude;
 	}
 
 	public static void setGeneralTermsToExclude(Set<String> generalTermsToExclude) {
-		IndirectConnectionsFinder2.generalTermsToExclude = generalTermsToExclude;
+		PreparationForIndirectConnections.generalTermsToExclude = generalTermsToExclude;
 	}
 	public static Map<String, String> getFoodDiseaseMapping() {
 		return foodDiseaseMapping;
