@@ -1,6 +1,0 @@
-diseases	asthma	, including	IS-A
-milk	skim milk	, including	IS-A
-asthma	diseases	, including	IS-A
-disease	heart disease	, including	IS-A
-disease	tremor	, including	IS-A
-tremor	la	la la	IS-A

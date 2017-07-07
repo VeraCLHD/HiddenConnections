@@ -19,8 +19,10 @@ import terms_processing.StanfordLemmatizer;
  *
  */
 public class InformationContent {
+	private static final String TERMS_TO_EXCLUDE_TXT = "SEEDS/INFORMATION CONTENT/to_exclude.txt";
 	private static final double MIN_INFORMATION_CONTENT = 2.0;
 	private static String pathToInstances = "SEEDS/CONCATENATED/IS-A_final.txt";
+	// key: general term, value: list of children
 	private Map<String, Set<String>> isAPairs = new HashMap<String, Set<String>>();
 	private StanfordLemmatizer lemm = new StanfordLemmatizer();
 	private int N;
@@ -118,13 +120,13 @@ public class InformationContent {
 	}
 	
 	public void writeIC(){
-		Writer.overwriteFile("", "SEEDS/CONCATENATED/isA_ic.txt");
+		Writer.overwriteFile("", "SEEDS/INFORMATION CONTENT/isA_ic.txt");
 		for(String term: this.getInformation_content().keySet()){
 			
 			if( this.getInformation_content().get(term) >= MIN_INFORMATION_CONTENT){
 				Writer.appendLineToFile(term + "\t" + Double.toString(this.getInformation_content().get(term)), "SEEDS/CONCATENATED/isA_ic.txt");
 			} else{
-				Writer.appendLineToFile(term + "\t" + Double.toString(this.getInformation_content().get(term)), "SEEDS/CONCATENATED/to_exclude.txt");
+				Writer.appendLineToFile(term + "\t" + Double.toString(this.getInformation_content().get(term)), TERMS_TO_EXCLUDE_TXT);
 			}
 			
 		}

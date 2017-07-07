@@ -1,0 +1,112 @@
+
+cancers	arsenic	caused by	CAUSED-BY
+dna mutations	smoking	caused by	CAUSED-BY
+uric acid	meat	caused by	CAUSED-BY
+dna damage	radiation	caused by	CAUSED-BY
+skin cancer	arsenic	caused by	CAUSED-BY
+inflammation	gluten	caused by	CAUSED-BY
+pain	inflammation	caused by	CAUSED-BY
+carcinogens	cooking	caused by	CAUSED-BY
+epidemic	obesity	caused by	CAUSED-BY
+health	obesity	caused by	CAUSED-BY
+irritation	cetuximab	caused by	CAUSED-BY
+fatty liver	excess	caused by	CAUSED-BY
+inflammation	muscle	caused by	CAUSED-BY
+carcinogens	cooking meat	caused by	CAUSED-BY
+giantism	excess	caused by	CAUSED-BY
+adverse effects	aspartame	caused by	CAUSED-BY
+tumor	hpv	caused by	CAUSED-BY
+smoke	frying	caused by	CAUSED-BY
+mutations	smoking	caused by	CAUSED-BY
+dna damage	free radicals	caused by	CAUSED-BY
+oxidation	metabolism	caused by	CAUSED-BY
+inflammation	muscle cell	caused by	CAUSED-BY
+breast cancer	cooked meat	caused by the	CAUSED-BY
+inflammatory arthritis	crystallization	caused by the	CAUSED-BY
+oxidative stress	pesticide	caused by the	CAUSED-BY
+dna mutations	carcinogen	caused by the	CAUSED-BY
+production	cadmium	caused by the	CAUSED-BY
+production	cadmium exposure	caused by the	CAUSED-BY
+brain damage	mercury	caused by the	CAUSED-BY
+mutations	carcinogen	caused by the	CAUSED-BY
+carcinogenic	heterocyclic	due to	CAUSED-BY
+cancer risk	carcinogens	due to	CAUSED-BY
+non-alcoholic fatty liver disease	obesity	due to	CAUSED-BY
+arteries	cholesterol	due to	CAUSED-BY
+oils	steam	due to	CAUSED-BY
+meat	arachidonic acid	due to	CAUSED-BY
+risk	carcinogens	due to	CAUSED-BY
+brain	atherosclerosis	due to	CAUSED-BY
+liver toxicity	broccoli	due to	CAUSED-BY
+chickens	genetic manipulation	due to	CAUSED-BY
+dementia	vitamin	due to	CAUSED-BY
+narrowed arteries	cholesterol	due to	CAUSED-BY
+dementia	vitamin b12	due to	CAUSED-BY
+penis	phthalate	due to	CAUSED-BY
+fecal pathogens	noroviruses	due to	CAUSED-BY
+premature puberty	chemical pollutants	due to	CAUSED-BY
+calcium intake	dairy consumption	due to	CAUSED-BY
+pathogens	noroviruses	due to	CAUSED-BY
+meat	vitamin a	due to	CAUSED-BY
+toxicity	broccoli	due to	CAUSED-BY
+gluten	symptoms	due to	CAUSED-BY
+viruses	manure	due to	CAUSED-BY
+coli exposure	bacteria	due to	CAUSED-BY
+reaction	seafood	due to	CAUSED-BY
+phytonutrients	nutrient synergy	due to	CAUSED-BY
+copd	tobacco	is caused by	CAUSED-BY
+cartilage	inflammation	is caused by	CAUSED-BY
+fever	strep	is caused by	CAUSED-BY
+ph	short-chain fatty acids	is caused by	CAUSED-BY
+pain	inflammation	is caused by	CAUSED-BY
+plaque	bacteria	is caused by	CAUSED-BY
+diabetes	insulin resistance	is caused by	CAUSED-BY
+oxidant stress	antioxidant	due to the	CAUSED-BY
+production	estrogen	due to the	CAUSED-BY
+fish	food poisoning	due to the	CAUSED-BY
+
+domesticated animal	inflammation	triggered by	CAUSED-BY
+leprosy	amyloidosis	triggered by	CAUSED-BY
+kangaroo meat	inflammation	triggered by	CAUSED-BY
+dioxin	inflammation	triggered by	CAUSED-BY
+tick bites	meat allergies	triggered by	CAUSED-BY
+breathing	asthma	triggered by	CAUSED-BY
+uric acid	milk	caused	CAUSED-BY
+cancer	coffee drinking	caused	CAUSED-BY
+inflammation	animal products	caused	CAUSED-BY
+cancer	muscles	caused	CAUSED-BY
+cancer	coffee-drinking	caused	CAUSED-BY
+lung cancer	cigarette smoking	causes	CAUSED-BY
+depression	inflammation	causes	CAUSED-BY
+acne	milk intake	causes	CAUSED-BY
+smoking	lung cancer	causes	CAUSED-BY
+dna	liquid smoke	causes	CAUSED-BY
+insulin resistance	blood	causes	CAUSED-BY
+inflammation	animal foods	causes	CAUSED-BY
+dysfunction	saturated fat	causes	CAUSED-BY
+insulin resistance	sucralose	causes	CAUSED-BY
+insulin	sucralose	causes	CAUSED-BY
+cancer	cigarette smoking	causes	CAUSED-BY
+dna mutations	liquid smoke	causes	CAUSED-BY
+acne	milk	cause	CAUSED-BY
+dna mutations	carcinogens	cause	CAUSED-BY
+brain tumors	dental x-rays	cause	CAUSED-BY
+cancer	betel nuts	cause	CAUSED-BY
+plaque	bacteria	cause	CAUSED-BY
+dna mutations	hormones	cause	CAUSED-BY
+inflammation	meat	cause	CAUSED-BY
+lung inflammation	air pollution	cause	CAUSED-BY
+dna	carcinogens	cause	CAUSED-BY
+infections	bacteria	cause	CAUSED-BY
+estrogenic effects	beer	cause	CAUSED-BY
+dysfunction	free radicals	cause	CAUSED-BY
+cancer	cell phones	cause	CAUSED-BY
+inflammation	animal products	cause	CAUSED-BY
+obesity	obesity	cause	CAUSED-BY
+breast cancer	bladder infections	tied to	CAUSED-BY
+multivitamin use	cancer risk	tied to	CAUSED-BY
+pancreatic cancer	sugar	tied to	CAUSED-BY
+sprouts	food poisoning	tied to	CAUSED-BY
+liver	poultry	tied to	CAUSED-BY
+multivitamin	risk	tied to	CAUSED-BY
+liver	poultry exposure	tied to	CAUSED-BY

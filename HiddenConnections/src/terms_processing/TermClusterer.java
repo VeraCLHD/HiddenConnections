@@ -243,7 +243,17 @@ public class TermClusterer {
 	
 	public static void writeAllTerms(){
 		for(String t: categorizedTerms.keySet()){
-			Writer.appendLineToFile(t + "\t" + categorizedTerms.get(t), pathToAllTermsAfterWordNet);
+			String lemma = "-";
+			String lemmatized = lemmatizer.lemmatize(t);
+			if(!t.contains(" ")){
+				if(lemmatized !=null){
+					lemma = lemmatized;
+				}	
+			}
+			
+			Writer.appendLineToFile(t + "\t" + lemma + "\t" + categorizedTerms.get(t), pathToAllTermsAfterWordNet);
+			
+			
 		}
 	}
 

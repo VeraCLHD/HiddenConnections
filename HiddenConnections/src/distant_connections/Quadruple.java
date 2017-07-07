@@ -28,11 +28,6 @@ public class Quadruple<X>
 		result = prime * result + ((third == null) ? 0 : third.hashCode());
 		return result;
 	}
-	
-	/**
-	 * A relation equals another if term1, term2 are equal and the pattern is equal
-	 */
-	
 	@Override
 	public boolean equals(Object obj) {
 		if (this == obj)
@@ -64,7 +59,11 @@ public class Quadruple<X>
 			return false;
 		return true;
 	}
-	
+	@Override
+	public String toString() {
+		return first + "\t"  + second + "\t" + third + "\t" +forth;
+	}
+
 	
 
 	

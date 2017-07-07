@@ -8,6 +8,7 @@ import java.util.HashSet;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
+import java.util.Map.Entry;
 import java.util.Set;
 
 import javax.swing.event.ListSelectionEvent;
@@ -19,25 +20,27 @@ import overall.Pair;
 import terms_processing.StanfordLemmatizer;
 
 public class PreparationForIndirectConnections {
-	private static Set<Quadruple<String>> allConnections = new HashSet<Quadruple<String>>();
+	private static final String DISTANT_CONNECTIONS_FILTERED = "distant connections/ALL_RELATIONS_FINAL.txt";
+	private static final String DISTANT_CONNECTIONS_TOO_GENERAL_RELATIONS_TXT = "distant connections/too_general_relations.txt";
+	private static final String TERMS_LEMMATIZED_TXT = "terms/lemmatized.txt";
+	private static final String TERMS_TO_EXCLUDE_TXT = "SEEDS/INFORMATION CONTENT/to_exclude.txt";
+	private Set<Quadruple<String>> allConnections = new HashSet<Quadruple<String>>();
 	private static String pathToInstances = "SEEDS/CONCATENATED/ALL_RELATIONS_FINAL.txt";
 	private static String pathToClusteredTerms = "terms/all_terms_and_variants_with10_filtered_clustered.txt";
 	
-	private static Map<String, String> foodDiseaseMapping = new HashMap<String, String>();
+	private Map<String, String> foodDiseaseMapping = new HashMap<String, String>();
 	
+	private Set<String> generalTermsToExclude = new HashSet<String>();
+	private StanfordLemmatizer lemm = new StanfordLemmatizer();
+	
+	private Map<String, String> lemmatized = new HashMap<String, String>();
 
-	private static Set<Quadruple<String>> newlyEmerged = new HashSet<Quadruple<String>>();
-	// a variable to check if there were newly emerged in the last method call (method for identification is recursive)
-	private static int newlyEmergedCount = 0;
-	private static int run = 1;
-	private static Set<String> generalTermsToExclude = new HashSet<String>();
-	private static StanfordLemmatizer lemm = new StanfordLemmatizer();
-	
+
 	/**
 	 * A method that switches the direction of some results (IS-A, HYPERNYMY have to be in the same direction).
 	 * Type 1 is the leading: how to rewrite the other one.
 	 */
-	public static void prepareInstances(String type1, String type2){
+	public void prepareInstances(String type1, String type2){
 		String filename_type2 = "SEEDS/" + type2 +"/all_instances_and_patterns_" + type2 + ".txt";
 		String filename_type1 = "SEEDS/" + type1 +"/all_instances_and_patterns_" + type1 + ".txt";
 		String filename_type2_inverted = "SEEDS/" + type2 +"/all_instances_and_patterns_" + type2 + "_inverted.txt";
@@ -65,7 +68,7 @@ public class PreparationForIndirectConnections {
 	 * Concatenates all the switched files from all relations into one.
 	 * @param dir
 	 */
-	public static void concatenateFinalFiles(String[] files){
+	public void concatenateFinalFiles(String[] files){
 		Writer.concatenateFiles(files, "SEEDS/" + "all_relations_final.txt");
 		
 	}
@@ -74,15 +77,19 @@ public class PreparationForIndirectConnections {
 	/**
 	 * Rewrites all relations of the same type in the same direction, then concatenates to a single file.
 	 */
-	private static void rewriteResultsInSameDirection() {
+	public void rewriteResultsInSameDirection() {
+		// Direction schema: this schema is going to be used even if the pattern reads the other way around
+		//G in P (contained term at the beginning) PART-OF
+		//P such as X, (more general term at the beginning) IS-A
+		//X triggered by Y CAUSED-BY
 		String outfilename = "SEEDS/CONCATENATED/" + "ALL_RELATIONS_FINAL.txt";
 		Writer.overwriteFile("", outfilename);
-		Writer.overwriteFile("", "SEEDS/CONCATENATED/" + "CAUSE" + "_final.txt");
+		Writer.overwriteFile("", "SEEDS/CONCATENATED/" + "CAUSED-BY" + "_final.txt");
 		Writer.overwriteFile("", "SEEDS/CONCATENATED/" + "IS-A" + "_final.txt");
 		Writer.overwriteFile("", "SEEDS/CONCATENATED/" + "PART-OF" + "_final.txt");
-		PreparationForIndirectConnections.prepareInstances("IS-A", "HYPERNYMY");
-		PreparationForIndirectConnections.prepareInstances("CAUSE", "CAUSED-BY");
-		PreparationForIndirectConnections.prepareInstances("PART-OF", "PART-OF-I");
+		this.prepareInstances("IS-A", "HYPERNYMY");
+		this.prepareInstances("CAUSED-BY", "CAUSE");
+		this.prepareInstances("PART-OF", "PART-OF");
 		List<String> finalFiles = new ArrayList<String>();
 		
 		
@@ -100,25 +107,77 @@ public class PreparationForIndirectConnections {
 		Writer.concatenateFiles(filesArray, outfilename);
 	}
 	
-	public static void readInformationContentFile(){
-		List<String> lines = Reader.readLinesList("SEEDS/CONCATENATED/to_exclude.txt");
+	public void readInformationContentFile(){
+		List<String> lines = Reader.readLinesList(TERMS_TO_EXCLUDE_TXT);
 		for(String lineToExclude: lines){
 			if(!lineToExclude.isEmpty()){
 				String[] splitted =  lineToExclude.split("\t");
-				PreparationForIndirectConnections.getGeneralTermsToExclude().add(splitted[0]);
+				this.getGeneralTermsToExclude().add(splitted[0]);
 			}
 			
 		}
 	}
 	
-	public static void readAllConnections(){
+	public void readAllConnections(){
+		Writer.overwriteFile("", DISTANT_CONNECTIONS_TOO_GENERAL_RELATIONS_TXT);
+		Writer.overwriteFile("", DISTANT_CONNECTIONS_FILTERED);
 		List<String> lines = Reader.readLinesList(pathToInstances);
 		for(String line: lines){
 			if(!line.isEmpty() && !line.equals(" ")){
 				String[] splitted = line.split("\t");
 				if(splitted.length == 4){
-					Quadruple<String> isAPair = new Quadruple<String>(splitted[0], splitted[1], splitted[2], splitted[3]);
-					PreparationForIndirectConnections.getAllConnections().add(isAPair);
+
+					String first = splitted[0];
+					String second = splitted[1];
+					String firstLemma = this.getLemm().lemmatize(first);
+					String secondLemma = this.getLemm().lemmatize(second);
+					
+					Set<String> generalTerms = this.getGeneralTermsToExclude();
+					Quadruple<String> instance = new Quadruple<String>(first, second, splitted[2], splitted[3]);
+					if(first.contains(" ") && second.contains(" ")){
+						if(!generalTerms.contains(first) &&
+							!generalTerms.contains(second)){
+								
+								this.getAllConnections().add(instance);
+								Writer.appendLineToFile(instance.toString(), DISTANT_CONNECTIONS_FILTERED);
+							} else{
+								Writer.appendLineToFile(instance.toString(), DISTANT_CONNECTIONS_TOO_GENERAL_RELATIONS_TXT);
+							}
+					} else if(first.contains(" ") && !second.contains(" ")){
+						if(!generalTerms.contains(first) && secondLemma !=null &&
+							!generalTerms.contains(secondLemma)){
+								
+								this.getAllConnections().add(instance);
+								Writer.appendLineToFile(instance.toString(), DISTANT_CONNECTIONS_FILTERED);
+							} else{
+								Writer.appendLineToFile(instance.toString(), DISTANT_CONNECTIONS_TOO_GENERAL_RELATIONS_TXT);
+							}
+					} else if(!first.contains(" ") && second.contains(" ")){
+						if(
+							!generalTerms.contains(second) && firstLemma != null &&
+							!generalTerms.contains(firstLemma)
+							){
+								
+								this.getAllConnections().add(instance);
+								Writer.appendLineToFile(instance.toString(), DISTANT_CONNECTIONS_FILTERED);
+							} else{
+								Writer.appendLineToFile(instance.toString(), DISTANT_CONNECTIONS_TOO_GENERAL_RELATIONS_TXT);
+							}
+						
+					} else if(!first.contains(" ") && !second.contains(" ")){
+						if(firstLemma != null & secondLemma !=null &&
+								!generalTerms.contains(firstLemma) && 
+								!generalTerms.contains(secondLemma)){
+								
+								this.getAllConnections().add(instance);
+								Writer.appendLineToFile(instance.toString(), DISTANT_CONNECTIONS_FILTERED);
+							} else{
+								Writer.appendLineToFile(instance.toString(), DISTANT_CONNECTIONS_TOO_GENERAL_RELATIONS_TXT);
+							}
+					}
+					
+					
+					
 				}
 			}
 	}
@@ -132,118 +191,79 @@ public class PreparationForIndirectConnections {
 	public boolean isTooGeneral(String term){
 		boolean result = false;
 		String lemma = lemm.lemmatize(term);
-		if((!term.contains(" ") && PreparationForIndirectConnections.getGeneralTermsToExclude().contains(lemma))
-				|| (term.contains(" ") && PreparationForIndirectConnections.getGeneralTermsToExclude().contains(term))){
+		if((!term.contains(" ") && this.getGeneralTermsToExclude().contains(lemma))
+				|| (term.contains(" ") && this.getGeneralTermsToExclude().contains(term))){
 			result = true;
 		}
 		return result;
 		
 		}
 	
-	public static void readClusteredTerms(){
+	// reads the clustered terms, puts them into a map and writes the lemmas of all single word terms into a file btw
+	public void readClusteredTerms(){
 		List<String> terms = Reader.readLinesList(pathToClusteredTerms);
-		for(String term: terms){
-			if(!term.isEmpty()){
-				String[] splitted = term.split("\t");
-				PreparationForIndirectConnections.getFoodDiseaseMapping().put(splitted[0].trim(), splitted[1].trim());
-			}
-		}
-	}
-	
-	
-	//____________________________________________________________________________
-	// unnecessary duplicates arise: x-z, z-y -> x-y, y-x (not necessary when IS-A)
-	public static void traverseAndFindHidden(Collection<Quadruple<String>> collection){
-		PreparationForIndirectConnections.setNewlyEmergedCount(0);
-		PreparationForIndirectConnections.run +=1; 
-		List<Quadruple<String>> list1 = new ArrayList<Quadruple<String>>(collection);
-		List<Quadruple<String>> list2 = new ArrayList<Quadruple<String>>(collection);
-		
-		for(int i= 0; i< list1.size(); i++){
-			for(int j= i; j< list2.size(); j++){
-				
-			}
-		}
-		
-			
-				
-				/*if(!list1.get(i).first.equals(list2.get(j).second)){
-					if(list1.get(i).second.equals(list2.get(j).first)){
-						//Quadruple<String> newPair = new Quadruple<String>(list1.get(i).first,list2.get(j).second);
-						// the relation should go into one consistent direction
-						if(!newPair.first.equals(newPair.second)){
-							IndirectConnectionsFinder2.newlyEmerged.add(newPair);
-							IndirectConnectionsFinder2.newlyEmergedCount +=1;
-						}
-						
-					} /*else if(list1.get(i).first.equals(list2.get(j).second)){
-						Pair<String> newPair = new Pair<String>(list1.get(i).second, list2.get(j).first);
-						
-						if(allConnectionsCopy.add(newPair)){
-							IndirectConnectionsFinder.newlyEmerged.add(newPair);
-							IndirectConnectionsFinder.newlyEmergedCount +=1;
-						}
-					}
+		for(String termLine: terms){
+			if(!termLine.isEmpty()){
+				String[] splitted = termLine.split("\t");
+				String term = splitted[0].trim();
+				String lemma = splitted[1];
+				if(!lemma.equals("-")){
+					this.getFoodDiseaseMapping().put(lemma, splitted[2].trim());
+				} else{
+					this.getFoodDiseaseMapping().put(term, splitted[2].trim());
 				}
+				
+				
 			}
-		} 
-		allConnections.addAll(allConnectionsCopy);
-		if( IndirectConnectionsFinder2.run <= 2 && IndirectConnectionsFinder2.newlyEmergedCount > 0){
-			traverseAndFindHidden(collection);
-		}*/
-
-	}
-	
-	/**
-	 * A method to identify which relations are newly emerged.
-	 */
-	public static void filter(){
-		newlyEmerged.remove(PreparationForIndirectConnections.getAllConnections());
-		Set<Quadruple<String>> fin = newlyEmerged;
-		for(Quadruple<String> pair: fin){
-			Writer.appendLineToFile(pair.first + "\t" + pair.second, "evaluation/toEvaluate_ISA.txt");
+		}
+		
+		for(Entry<String, String> term: this.getLemmatized().entrySet()){
+			Writer.appendLineToFile(term.getKey() + "\t" + term.getValue(), TERMS_LEMMATIZED_TXT);
 		}
 	}
+	
+	
+	
 	
 	public static void main(String[] args) {
 		
 		//IndirectConnectionsFinder2.filter();
 		
 		
-		//rewriteResultsInSameDirection();
-		// to exclude too general terms
 		
-		Writer.overwriteFile("", "evaluation/toEvaluate_all.txt");
-		PreparationForIndirectConnections.readAllConnections();
-		readInformationContentFile();
-		readClusteredTerms();
 		//IndirectConnectionsFinder2.traverseAndFindHidden(allConnections);
 
 	}
 	
 	
-	public static Set<Quadruple<String>> getAllConnections() {
+	public Set<Quadruple<String>> getAllConnections() {
 		return allConnections;
 	}
-	public static void setAllConnections(Set<Quadruple<String>> allConnections) {
-		PreparationForIndirectConnections.allConnections = allConnections;
+	public void setAllConnections(Set<Quadruple<String>> allConnections) {
+		this.allConnections = allConnections;
 	}
 
-	public static int getNewlyEmergedCount() {
-		return newlyEmergedCount;
-	}
-
-	public static void setNewlyEmergedCount(int newlyEmergedCount) {
-		PreparationForIndirectConnections.newlyEmergedCount = newlyEmergedCount;
-	}
-	public static Set<String> getGeneralTermsToExclude() {
+	
+	public Set<String> getGeneralTermsToExclude() {
 		return generalTermsToExclude;
 	}
 
-	public static void setGeneralTermsToExclude(Set<String> generalTermsToExclude) {
-		PreparationForIndirectConnections.generalTermsToExclude = generalTermsToExclude;
+	public void setGeneralTermsToExclude(Set<String> generalTermsToExclude) {
+		this.generalTermsToExclude = generalTermsToExclude;
 	}
-	public static Map<String, String> getFoodDiseaseMapping() {
+	public  Map<String, String> getFoodDiseaseMapping() {
 		return foodDiseaseMapping;
+	}
+	
+	public StanfordLemmatizer getLemm() {
+		return lemm;
+	}
+
+	public Map<String, String> getLemmatized() {
+		return lemmatized;
+	}
+
+	public void setLemmatized(Map<String, String> lemmatized) {
+		this.lemmatized = lemmatized;
 	}
 }
