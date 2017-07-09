@@ -1,0 +1,89 @@
+
+dump sentences\V-1300_22_.txt	bladder infections	breast cancer	tied to	LINKED-TO	[VBN, TO]	2
+dump sentences\A-2_26_.txt	foodborne illness	pork	tied to	LINKED-TO	[VBN, TO]	1
+dump sentences\A-268_12_.txt	poultry	liver	tied to	LINKED-TO	[VBD, TO]	1
+dump sentences\V-1297_2_.txt	food poisoning	sprouts	tied to	LINKED-TO	[VBN, TO]	1
+dump sentences\V-988_13_.txt	risk	multivitamin	tied to	LINKED-TO	[VBD, TO]	1
+dump sentences\V-10_18_.txt	sugar	pancreatic cancer	tied to	LINKED-TO	[VBD, TO]	1
+dump sentences\V-586_10_.txt	dental x-rays	brain tumors	are associated with	LINKED-TO	[VBP, VBN, IN]	6
+dump sentences\A-167_3_.txt	pumpkin seeds	breast cancer	were associated with reduced	LINKED-TO	[VBD, VBN, IN, VBN]	4
+dump sentences\V-454_7_.txt	doughnuts	prostate cancer	was associated with about a third greater odds of	LINKED-TO	[VBD, VBN, IN, IN, DT, JJ, JJR, NNS, IN]	4
+dump sentences\A-439_7_.txt	risks	processed meat	associated with	LINKED-TO	[VBN, IN]	3
+dump sentences\V-619_10_.txt	biomarker	cancer	associated with	LINKED-TO	[VBN, IN]	2
+dump sentences\A-267_5_.txt	farm	blood	is associated with higher rates of	LINKED-TO	[VBZ, VBN, IN, JJR, NNS, IN]	2
+dump sentences\A-75_25_.txt	sperm counts	processed meat	associated with	LINKED-TO	[VBN, IN]	2
+dump sentences\T-981_3_.txt	chronic diseases	inflammation	associated with	LINKED-TO	[VBN, IN]	2
+dump sentences\T-511_0_.txt	risks	brain parasites	associated with	LINKED-TO	[VBN, IN]	2
+dump sentences\V-460_13_.txt	fruits	risk	were associated with reduced	LINKED-TO	[VBD, VBN, IN, VBN]	2
+dump sentences\A-362_1_.txt	chronic gum disease	sexual dysfunction	is associated with	LINKED-TO	[VBZ, VBN, IN]	2
+dump sentences\V-582_22_.txt	beverage	infertility	associated with	LINKED-TO	[VBN, IN]	2
+dump sentences\V-375_0_.txt	saturated fat	semen	is associated with reduced	LINKED-TO	[VBZ, VBN, IN, VBN]	2
+dump sentences\T-1658_11_.txt	flax seeds	risk	are associated with a	LINKED-TO	[VBP, VBN, IN, DT]	2
+dump sentences\V-551_11_.txt	poultry workers	wart	associated with these	LINKED-TO	[VBN, IN, DT]	2
+dump sentences\T-28_3_.txt	dried fruit	risk	was associated with decreased	LINKED-TO	[VBD, VBN, IN, VBN]	2
+dump sentences\A-75_25_.txt	sperm counts	meat	associated with processed	LINKED-TO	[VBN, IN, VBN]	2
+dump sentences\T-1930_6_.txt	pickled vegetables	multiple myeloma	are associated with	LINKED-TO	[VBP, VBN, IN]	2
+dump sentences\A-188_21_.txt	brain	memory	associated with	LINKED-TO	[VBN, IN]	2
+dump sentences\T-1219_4_.txt	carbohydrates	prevotella	are associated with the	LINKED-TO	[VBP, VBN, IN, DT]	2
+dump sentences\V-20_3_.txt	stomach cancer	salt	associated with	LINKED-TO	[VBN, IN]	2
+dump sentences\V-43_17_.txt	risks	diet soda	associated with	LINKED-TO	[VBN, IN]	2
+dump sentences\V-354_22_.txt	processed meat	cancer	were�associated with	LINKED-TO	[VBD, VBN, IN]	2
+dump sentences\V-1078_10_.txt	pancreatic cancer	beef	is associated with	LINKED-TO	[VBZ, VBN, IN]	2
+dump sentences\V-538_18_.txt	parasites	meat	are associated with	LINKED-TO	[VBP, VBN, IN]	2
+dump sentences\T-496_8_.txt	production	ulcerative colitis	is associated with	LINKED-TO	[VBZ, VBN, IN]	2
+dump sentences\V-454_15_.txt	risk	french fries	associated with	LINKED-TO	[VBN, IN]	1
+dump sentences\V-599_17_.txt	risk	alcohol	associated with [the]	LINKED-TO	[VBN, IN, -LRB-, DT, -RRB-]	1
+dump sentences\T-1771_5_.txt	coffee	suicide	is associated with decreased	LINKED-TO	[VBZ, VBN, IN, VBN]	1
+dump sentences\V-717_1_.txt	risks	lead	associated with	LINKED-TO	[VBN, IN]	1
+dump sentences\V-239_7_.txt	protein	anxiety	are associated with lower levels of	LINKED-TO	[VBP, VBN, IN, JJR, NNS, IN]	1
+dump sentences\A-165_20_.txt	girls	french fries	associated with	LINKED-TO	[VBN, IN]	1
+dump sentences\V-302_12_.txt	blood	depression	are associated with	LINKED-TO	[VBP, VBN, IN]	1
+dump sentences\V-19_14_.txt	dna damage	treatment	associated with this	LINKED-TO	[VBN, IN, DT]	1
+dump sentences\V-1078_19_.txt	vegetable oil	pancreatic cancer	is associated with	LINKED-TO	[VBZ, VBN, IN]	1
+dump sentences\T-502_3_.txt	pain	osteoarthritis	associated with both	LINKED-TO	[VBN, IN, CC]	1
+dump sentences\A-356_10_.txt	girls	animal protein	associated with	LINKED-TO	[VBN, IN]	1
+dump sentences\V-181_2_.txt	cancers	alcohol	associated with	LINKED-TO	[VBN, IN]	1
+dump sentences\V-744_11_.txt	meat	weight gain	is associated with	LINKED-TO	[VBZ, VBN, IN]	1
+dump sentences\T-353_4_.txt	amino acids	aging	associated with	LINKED-TO	[VBN, IN]	1
+dump sentences\A-386_8_.txt	headaches	aspartame	associated with	LINKED-TO	[VBN, IN]	1
+dump sentences\T-258_6_.txt	symptoms	diabetes	associated with	LINKED-TO	[VBN, IN]	1
+dump sentences\A-168_32_.txt	allergy	antibodies	associated	LINKED-TO	[VBD]	1
+dump sentences\V-515_10_.txt	eggs	diabetes	associated with	LINKED-TO	[VBN, IN]	1
+dump sentences\V-503_17_.txt	cholesterol	gestational diabetes	were associated with elevated [	LINKED-TO	[VBD, VBN, IN, JJ, -LRB-]	1
+dump sentences\V-289_10_.txt	meats	cancers	were associated with	LINKED-TO	[VBD, VBN, IN]	1
+dump sentences\A-487_7_.txt	risk	eggs	associated with	LINKED-TO	[VBN, IN]	1
+dump sentences\V-503_11_.txt	iron	diabetes	was associated with	LINKED-TO	[VBD, VBN, IN]	1
+dump sentences\V-767_2_.txt	death	nut	associated with	LINKED-TO	[VBN, IN]	1
+dump sentences\A-306_25_.txt	risk	thallium heart scans	associated with the	LINKED-TO	[VBN, IN, DT]	1
+dump sentences\V-274_18_.txt	cholesterol	nonalcoholic fatty liver	are associated with	LINKED-TO	[VBP, VBN, IN]	1
+dump sentences\V-178_10_.txt	meat	inflammation	is associated with	LINKED-TO	[VBZ, VBN, IN]	1
+dump sentences\V-707_2_.txt	bpa	cardiovascular disease	is associated with	LINKED-TO	[VBZ, VBN, IN]	1
+dump sentences\A-33_31_.txt	risk	obesity	associated with	LINKED-TO	[VBN, IN]	1
+dump sentences\A-73_6_.txt	operations	mrsa	was each associated with	LINKED-TO	[VBD, DT, VBN, IN]	1
+dump sentences\A-306_26_.txt	risks	heart disease	associated with	LINKED-TO	[VBN, IN]	1
+dump sentences\A-78_7_.txt	virus	obesity	first associated with	LINKED-TO	[JJ, VBN, IN]	1
+dump sentences\T-440_7_.txt	xenoestrogens	birth defects	are associated with	LINKED-TO	[VBP, VBN, IN]	1
+dump sentences\T-1951_4_.txt	fertility	saturated fat	associated with	LINKED-TO	[VBN, IN]	1
+dump sentences\V-671_15_.txt	risk	veganism	associated with	LINKED-TO	[VBN, IN]	1
+dump sentences\V-646_5_.txt	barbecue	birth weight	was associated with a	LINKED-TO	[VBD, VBN, IN, DT]	1
+dump sentences\V-203_20_.txt	fat	bacteroides	are associated with the	LINKED-TO	[VBP, VBN, IN, DT]	1
+dump sentences\V-379_22_.txt	carbs	pancreatic cancer	was associated with	LINKED-TO	[VBD, VBN, IN]	1
+dump sentences\A-296_20_.txt	risk	alcohol	associated with	LINKED-TO	[VBN, IN]	1
+dump sentences\T-1129_10_.txt	risk	smoking	associated with	LINKED-TO	[VBN, IN]	1
+dump sentences\V-213_9_.txt	death	galactose	associated with the	LINKED-TO	[VBN, IN, DT]	1
+dump sentences\V-875_0_.txt	vegetables	risk	is�associated with a reduced	LINKED-TO	[VBZ, VBN, IN, DT, VBN]	1
+dump sentences\V-1016_36_.txt	adolescence	breast cancer	was associated with	LINKED-TO	[VBD, VBN, IN]	1
+dump sentences\V-97_15_.txt	risk	dairy	associated with	LINKED-TO	[VBN, IN]	1
+dump sentences\V-933_1_.txt	deformities	rickets	associated with	LINKED-TO	[VBN, IN]	1
+dump sentences\T-275_9_.txt	pain	rheumatoid arthritis	associated with	LINKED-TO	[VBN, IN]	1
+dump sentences\V-375_7_.txt	pcbs	fats	are associated with the	LINKED-TO	[VBP, VBN, IN, DT]	1
+dump sentences\T-1105_9_.txt	arteries	cardiac disease	associated with	LINKED-TO	[VBN, IN]	1
+dump sentences\V-203_20_.txt	plant foods	prevotella	are associated with	LINKED-TO	[VBP, VBN, IN]	1
+dump sentences\V-198_10_.txt	animal foods	coronary heart disease	were associated with	LINKED-TO	[VBD, VBN, IN]	1
+dump sentences\A-474_13_.txt	risk	ground beef	associated with	LINKED-TO	[VBN, IN]	1
+dump sentences\T-275_9_.txt	side effects	drugs	associated with	LINKED-TO	[VBN, IN]	1
+dump sentences\V-280_8_.txt	vegetables	risk	were each associated with a reduced	LINKED-TO	[VBD, DT, VBN, IN, DT, VBN]	1
+dump sentences\A-259_0_.txt	symptoms	wheat	associated with the	LINKED-TO	[VBN, IN, DT]	1
+dump sentences\V-843_1_.txt	mortality	poultry	associated with	LINKED-TO	[VBN, IN]	1
+dump sentences\T-1976_8_.txt	vomiting	morning sickness	associated with	LINKED-TO	[VBN, IN]	1
+dump sentences\T-1911_32_.txt	animal products	weight gain	is associated with	LINKED-TO	[VBZ, VBN, IN]	1

@@ -1,3 +1,4 @@
+
 dump sentences\V-587_7_.txt	x-rays	cat	released by	PART-OF	[VBN, IN]	2
 dump sentences\A-141_39_.txt	pollution	seafood	in	PART-OF	[IN]	2
 dump sentences\A-57_26_.txt	caffeine	tea	in	PART-OF	[IN]	2
@@ -44,8 +45,6 @@ dump sentences\V-40_26_.txt	cancer	chickens	in	PART-OF	[IN]	2
 dump sentences\T-759_1_.txt	survival	cancer	in	PART-OF	[IN]	2
 dump sentences\V-75_18_.txt	antibodies	cancer	in	PART-OF	[IN]	2
 dump sentences\A-369_16_.txt	igf-1	liver	is released by our	PART-OF	[VBZ, VBN, IN, PRP$]	1
-dump sentences\V-327_3_.txt	cancer	africa	in	PART-OF	[IN]	2
-dump sentences\A-25_3_.txt	cancer	africa	in	PART-OF	[IN]	2
 dump sentences\A-119_25_.txt	cancer	prostate	in	PART-OF	[IN]	2
 dump sentences\T-751_2_.txt	aid	cancer	in	PART-OF	[IN]	2
 dump sentences\V-139_18_.txt	vinegar	pill	in	PART-OF	[IN]	2
@@ -87,7 +86,6 @@ dump sentences\V-846_5_.txt	lymphoma	women	in	PART-OF	[IN]	2
 dump sentences\V-612_1_.txt	agent	alcoholic beverages	in	PART-OF	[IN]	2
 dump sentences\V-462_12_.txt	drugs	chicken	in	PART-OF	[IN]	2
 dump sentences\A-113_20_.txt	drugs	chicken	in	PART-OF	[IN]	2
-dump sentences\V-268_7_.txt	drugs	over	in	PART-OF	[IN]	2
 dump sentences\V-784_11_.txt	protein	whipped cream	in	PART-OF	[IN]	2
 dump sentences\A-291_35_.txt	findings	lavender	in	PART-OF	[IN]	2
 dump sentences\A-220_23_.txt	findings	eggs	in	PART-OF	[IN]	2
@@ -493,8 +491,6 @@ dump sentences\A-297_13_.txt	pigment	tomatoes	in	PART-OF	[IN]	2
 dump sentences\A-442_16_.txt	pigment	tomatoes	in	PART-OF	[IN]	2
 dump sentences\V-817_4_.txt	pigment	tomatoes	in	PART-OF	[IN]	2
 dump sentences\A-184_23_.txt	pigment	curry powder	in	PART-OF	[IN]	2
-dump sentences\A-84_29_.txt	aluminum	dented	in	PART-OF	[IN]	2
-dump sentences\V-383_16_.txt	aluminum	dented	in	PART-OF	[IN]	2
 dump sentences\T-568_1_.txt	aluminum	cheese	in	PART-OF	[IN]	2
 dump sentences\A-239_11_.txt	aluminum	cheese	in	PART-OF	[IN]	2
 dump sentences\A-239_11_.txt	cheese	aluminum	in	PART-OF	[IN]	2
@@ -508,7 +504,6 @@ dump sentences\V-354_17_.txt	nitrates	vegetables	in	PART-OF	[IN]	2
 dump sentences\A-457_10_.txt	nitrates	vegetables	in	PART-OF	[IN]	2
 dump sentences\A-457_6_.txt	nitrate	vegetables	in	PART-OF	[IN]	2
 dump sentences\V-234_24_.txt	nitrate	vegetables	in	PART-OF	[IN]	2
-dump sentences\A-454_0_.txt	disease	california	in	PART-OF	[IN]	2
 dump sentences\A-460_6_.txt	antioxidants	disease	in	PART-OF	[IN]	2
 dump sentences\T-1130_1_.txt	disease	microwave	in	PART-OF	[IN]	2
 dump sentences\T-1131_1_.txt	disease	microwave	in	PART-OF	[IN]	2
@@ -619,7 +614,6 @@ dump sentences\A-206_25_.txt	industrial carcinogens	animal fat	in	PART-OF	[IN]	2
 dump sentences\T-101_11_.txt	saturated fat	animal fat	in	PART-OF	[IN]	2
 dump sentences\A-398_1_.txt	carcinogens	animal fat	in	PART-OF	[IN]	2
 dump sentences\A-206_25_.txt	carcinogens	animal fat	in	PART-OF	[IN]	2
-dump sentences\V-972_18_.txt	heart attack	asia	in	PART-OF	[IN]	2
 dump sentences\V-768_7_.txt	iron	animal foods	in	PART-OF	[IN]	2
 dump sentences\A-427_9_.txt	iron	animal foods	in	PART-OF	[IN]	2
 dump sentences\A-80_35_.txt	cancer prevention	poultry	in	PART-OF	[IN]	2
@@ -782,7 +776,6 @@ dump sentences\A-343_6_.txt	salmonella	eggs	in	PART-OF	[IN]	2
 dump sentences\V-485_55_.txt	salmonella	eggs	in	PART-OF	[IN]	2
 dump sentences\V-625_5_.txt	salmonella	eggs	in	PART-OF	[IN]	2
 dump sentences\A-195_44_.txt	salmonella	eggs	in	PART-OF	[IN]	2
-dump sentences\V-287_7_.txt	medicine	africa	in	PART-OF	[IN]	2
 dump sentences\V-670_3_.txt	inflammation	atherosclerosis	in	PART-OF	[IN]	2
 dump sentences\V-16_44_.txt	inflammation	arthritis	in	PART-OF	[IN]	2
 dump sentences\A-321_33_.txt	esophageal cancer	bacon	in	PART-OF	[IN]	2
@@ -876,8 +869,6 @@ dump sentences\A-247_23_.txt	phytonutrients	soy	in	PART-OF	[IN]	2
 dump sentences\V-636_17_.txt	phytonutrients	soy	in	PART-OF	[IN]	2
 dump sentences\T-1446_26_.txt	phytonutrients	flax	in	PART-OF	[IN]	2
 dump sentences\T-305_0_.txt	phytonutrients	flax	in	PART-OF	[IN]	2
-dump sentences\V-327_3_.txt	colon cancer	africa	in	PART-OF	[IN]	2
-dump sentences\A-25_3_.txt	colon cancer	africa	in	PART-OF	[IN]	2
 dump sentences\A-81_29_.txt	phytoestrogens	flaxseeds	in	PART-OF	[IN]	2
 dump sentences\V-380_14_.txt	phytoestrogens	flaxseeds	in	PART-OF	[IN]	2
 dump sentences\T-1590_1_.txt	pollutant	fish	in	PART-OF	[IN]	2
@@ -940,10 +931,6 @@ dump sentences\T-1599_3_.txt	toxins	animal products	in	PART-OF	[IN]	2
 dump sentences\V-503_7_.txt	iron	animal products	in	PART-OF	[IN]	2
 dump sentences\V-1046_5_.txt	estrogens	american	in	PART-OF	[IN]	2
 dump sentences\V-1262_8_.txt	estrogens	soy	in	PART-OF	[IN]	2
-dump sentences\A-454_0_.txt	mad cow disease	california	in	PART-OF	[IN]	2
-dump sentences\A-174_28_.txt	pollutants	california	in	PART-OF	[IN]	2
-dump sentences\V-233_17_.txt	vegetarians	california	in	PART-OF	[IN]	2
-dump sentences\T-28_8_.txt	vegetarians	california	in	PART-OF	[IN]	2
 dump sentences\T-1783_3_.txt	folate	beans	in	PART-OF	[IN]	2
 dump sentences\A-481_15_.txt	folate	beans	in	PART-OF	[IN]	2
 dump sentences\V-302_12_.txt	folate	greens	in	PART-OF	[IN]	2
@@ -1004,7 +991,6 @@ dump sentences\V-954_1_.txt	nutrition education	medical schools	in	PART-OF	[IN]	
 dump sentences\A-321_1_.txt	nutrient synergy	cranberries	in	PART-OF	[IN]	2
 dump sentences\T-1175_9_.txt	breast development	girls	in	PART-OF	[IN]	2
 dump sentences\V-51_26_.txt	antibodies	children	in	PART-OF	[IN]	2
-dump sentences\V-519_2_.txt	plant-based diets	africa	in	PART-OF	[IN]	2
 dump sentences\A-233_2_.txt	plant-based diets	uganda	in	PART-OF	[IN]	2
 dump sentences\A-104_18_.txt	prediabetes	children	in	PART-OF	[IN]	2
 dump sentences\A-4_32_.txt	prediabetes	children	in	PART-OF	[IN]	2
@@ -1026,9 +1012,6 @@ dump sentences\V-814_12_.txt	lies	infants	in	PART-OF	[IN]	2
 dump sentences\T-154_2_.txt	steroids	farm animals	in	PART-OF	[IN]	2
 dump sentences\T-511_1_.txt	endotoxins	raw	in	PART-OF	[IN]	2
 dump sentences\T-661_3_.txt	hormones	eggs	in	PART-OF	[IN]	2
-dump sentences\V-519_2_.txt	diets	africa	in	PART-OF	[IN]	2
-dump sentences\A-25_8_.txt	children	africa	in	PART-OF	[IN]	2
-dump sentences\V-327_7_.txt	children	africa	in	PART-OF	[IN]	2
 dump sentences\A-109_2_.txt	constipation	infants	in	PART-OF	[IN]	2
 dump sentences\V-408_1_.txt	constipation	infants	in	PART-OF	[IN]	2
 dump sentences\V-840_2_.txt	infections	infants	in	PART-OF	[IN]	2

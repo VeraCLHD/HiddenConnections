@@ -1,4 +1,3 @@
-
 dump sentences\A-99_3_.txt	saturated fat	cholesterol	without the	PART-OF	[IN, DT]	4
 dump sentences\A-52_24_.txt	vegetables	cancer	without the	PART-OF	[IN, DT]	2
 dump sentences\A-321_30_.txt	diets	meat	with lots of	PART-OF	[IN, NNS, IN]	2
@@ -21,6 +20,7 @@ dump sentences\A-99_4_.txt	egg	saturated fat	would have	PART-OF	[MD, VB]	2
 dump sentences\V-393_12_.txt	dried fruit	fiber	are packed with	PART-OF	[VBP, VBN, IN]	2
 dump sentences\A-162_12_.txt	nutritional yeast	lead	carry	PART-OF	[VBP]	2
 dump sentences\A-313_31_.txt	broccoli florets	flower	are just clusters of	PART-OF	[VBP, RB, NNS, IN]	2
+dump sentences\V-605_19_.txt	doctors	can	have a duty to do the best they	PART-OF	[VBP, DT, NN, TO, VB, DT, JJS, PRP]	2
 dump sentences\V-753_0_.txt	nuts	nutrition	are packed with	PART-OF	[VBP, VBN, IN]	2
 dump sentences\A-281_28_.txt	sea vegetables	phytonutrients	have	PART-OF	[VBP]	2
 dump sentences\T-1699_7_.txt	meat	cadmium	have higher levels of	PART-OF	[VBP, JJR, NNS, IN]	2

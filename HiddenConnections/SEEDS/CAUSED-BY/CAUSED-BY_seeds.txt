@@ -1,3 +1,4 @@
+
 dump sentences\A-125_14_.txt	non-alcoholic fatty liver disease	obesity	due to	CAUSED-BY	[JJ, TO]	12
 dump sentences\T-1208_28_.txt	premature puberty	chemical pollutants	due to	CAUSED-BY	[JJ, TO]	5
 dump sentences\T-1298_2_.txt	muscle tremors	cooked meat	due to the levels of	CAUSED-BY	[JJ, TO, DT, NNS, IN]	4
@@ -25,7 +26,6 @@ dump sentences\T-730_10_.txt	pathogens	noroviruses	due to	CAUSED-BY	[JJ, TO]	1
 dump sentences\T-428_6_.txt	irritation	cetuximab	caused by	CAUSED-BY	[VBN, IN]	1
 dump sentences\T-1129_7_.txt	smoke	frying	caused by	CAUSED-BY	[VBN, IN]	1
 dump sentences\A-302_9_.txt	oils	steam	due to	CAUSED-BY	[JJ, TO]	1
-dump sentences\T-1495_3_.txt	tumor	can	caused by hpv, which	CAUSED-BY	[VBN, IN, NN, ,, WDT]	1
 dump sentences\T-983_0_.txt	arteries	cholesterol	due to	CAUSED-BY	[JJ, TO]	1
 dump sentences\T-1653_1_.txt	brains	mercury	due to the high levels of	CAUSED-BY	[JJ, TO, DT, JJ, NNS, IN]	1
 dump sentences\V-268_7_.txt	sexual dysfunction	drugs	caused by these three	CAUSED-BY	[VBN, IN, DT, CD]	1
@@ -43,3 +43,15 @@ dump sentences\V-85_13_.txt	ph	short-chain fatty acids	is caused by	CAUSED-BY	[V
 dump sentences\V-781_7_.txt	mutations	carcinogen	caused by the	CAUSED-BY	[VBN, IN, DT]	1
 dump sentences\A-224_1_.txt	oxidation	metabolism	caused by	CAUSED-BY	[VBN, IN]	1
 dump sentences\T-590_10_.txt	dna damage	radiation	caused by	CAUSED-BY	[VBN, IN]	1
+dump sentences\V-637_1_.txt	carcinogens	cooking	created by	CAUSED-BY	[VBN, IN]	2
+dump sentences\V-299_6_.txt	phytonutrients	plant	are created by the	CAUSED-BY	[VBP, VBN, IN, DT]	1
+dump sentences\A-155_28_.txt	fish	chicken	could get triggered by	CAUSED-BY	[MD, VB, VBN, IN]	1
+dump sentences\A-357_2_.txt	toxins	cooking	created by	CAUSED-BY	[VBN, IN]	1
+dump sentences\T-996_6_.txt	carcinogens	cooking	created by	CAUSED-BY	[VBN, IN]	1
+dump sentences\V-447_22_.txt	allergies	tick bites	triggered by	CAUSED-BY	[VBN, IN]	2
+dump sentences\T-75_2_.txt	egg nutrition center	american egg board	was created by the	CAUSED-BY	[VBD, VBN, IN, DT]	2
+dump sentences\V-101_178_.txt	inflammation	animal protein	triggered by the	CAUSED-BY	[VBN, IN, DT]	1
+dump sentences\V-221_23_.txt	inflammatory response	animal protein	triggered by the	CAUSED-BY	[VBN, IN, DT]	1
+dump sentences\V-701_3_.txt	inflammation	dioxin	triggered by	CAUSED-BY	[VBN, IN]	1
+dump sentences\A-404_7_.txt	inflammation	domesticated animal	triggered by	CAUSED-BY	[VBN, IN]	1
+dump sentences\A-475_17_.txt	amyloidosis	leprosy	triggered by	CAUSED-BY	[VBN, IN]	1

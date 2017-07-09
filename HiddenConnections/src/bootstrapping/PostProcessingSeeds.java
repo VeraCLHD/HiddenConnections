@@ -32,8 +32,9 @@ public class PostProcessingSeeds {
 		}
 	}
 	
-	public static void readAndFilterSeedsFile(){
-		List<String> lines = Reader.readLinesList(PostProcessingSeeds.seeds_old);
+	public static void readAndFilterSeedsFile(String pathOld, String pathNew){
+		Writer.overwriteFile("", pathNew);
+		List<String> lines = Reader.readLinesList(pathOld);
 		for(String line: lines){
 			if(!line.isEmpty() && !line.equals(" ")){
 				String[] splitted = line.split("\t");
@@ -51,7 +52,7 @@ public class PostProcessingSeeds {
 				    if(terms.contains(term1) && terms.contains(term2)){
 				    	String new_line = path + "\t" + term1 + "\t" + term2 + "\t" +
 				    			candidate_relation + "\t" + type + "\t" + pos + "\t" + freq;
-				    	Writer.appendLineToFile(new_line, seeds_new);
+				    	Writer.appendLineToFile(new_line, pathNew);
 				    }
 
 					
@@ -61,10 +62,24 @@ public class PostProcessingSeeds {
 	}
 	
 	public static void main(String[] args) {
-		Writer.overwriteFile("", seeds_new);
+		
 		readTerms();
-		readAndFilterSeedsFile();
-
+		//readAndFilterSeedsFile("SEEDS/IS-A/IS-A_seeds.txt", "SEEDS/IS-A/IS-A_seeds_new.txt");
+		//readAndFilterSeedsFile("SEEDS/IS-A/COMPLEMENTARY_TO_IS-A_old.txt", "SEEDS/IS-A/COMPLEMENTARY_TO_IS-A.txt");
+		//readAndFilterSeedsFile("SEEDS/HYPERNYMY/HYPERNYMY_seeds_old.txt", "SEEDS/HYPERNYMY/HYPERNYMY_seeds.txt");
+		//readAndFilterSeedsFile("SEEDS/HYPERNYMY/COMPLEMENTARY_TO_HYPERNYMY_old.txt", "SEEDS/HYPERNYMY/COMPLEMENTARY_TO_HYPERNYMY.txt");
+		//readAndFilterSeedsFile("SEEDS/PART-OF/PART-OF_seeds_old.txt", "SEEDS/PART-OF/PART-OF_seeds.txt");
+		//readAndFilterSeedsFile("SEEDS/PART-OF/COMPLEMENTARY_TO_PART-OF_old.txt", "SEEDS/PART-OF/COMPLEMENTARY_TO_PART-OF.txt");
+		//readAndFilterSeedsFile("SEEDS/PART-OF-I/PART-OF-I_seeds_old.txt", "SEEDS/PART-OF-I/PART-OF-I_seeds.txt");
+		//readAndFilterSeedsFile("SEEDS/PART-OF-I/COMPLEMENTARY_TO_PART-OF-I_old.txt", "SEEDS/PART-OF-I/COMPLEMENTARY_TO_PART-OF-I.txt");
+		//readAndFilterSeedsFile("SEEDS/CAUSE/CAUSE_seeds_old.txt", "SEEDS/CAUSE/CAUSE_seeds.txt");
+		//readAndFilterSeedsFile("SEEDS/CAUSE/COMPLEMENTARY_TO_CAUSE_old.txt", "SEEDS/CAUSE/COMPLEMENTARY_TO_CAUSE.txt");
+		//readAndFilterSeedsFile("SEEDS/CAUSED-BY/CAUSED-BY_seeds_old.txt", "SEEDS/CAUSED-BY/CAUSED-BY_seeds.txt");
+		//readAndFilterSeedsFile("SEEDS/CAUSED-BY/COMPLEMENTARY_TO_CAUSED-BY_old.txt", "SEEDS/CAUSED-BY/COMPLEMENTARY_TO_CAUSED-BY.txt");
+		//readAndFilterSeedsFile("SEEDS/EFFECT/EFFECT_seeds_old.txt", "SEEDS/EFFECT/EFFECT_seeds.txt");
+		//readAndFilterSeedsFile("SEEDS/EFFECT/COMPLEMENTARY_TO_EFFECT_old.txt", "SEEDS/EFFECT/COMPLEMENTARY_TO_EFFECT.txt");
+		//readAndFilterSeedsFile("SEEDS/LINKED-TO/LINKED-TO_seeds_old.txt", "SEEDS/LINKED-TO/LINKED-TO_seeds.txt");
+		//readAndFilterSeedsFile("SEEDS/LINKED-TO/COMPLEMENTARY_TO_LINKED-TO_old.txt", "SEEDS/LINKED-TO/COMPLEMENTARY_TO_LINKED-TO.txt");
 	}
 	public static String getSeeds_old() {
 		return seeds_old;

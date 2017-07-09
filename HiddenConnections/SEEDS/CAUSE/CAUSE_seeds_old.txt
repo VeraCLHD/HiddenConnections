@@ -1,4 +1,3 @@
-
 dump sentences\V-586_8_.txt	dental x-rays	brain tumors	cause	CAUSE	[VBP]	24
 dump sentences\A-58_22_.txt	cigarette smoking	lung cancer	causes	CAUSE	[VBZ]	12
 dump sentences\A-190_7_.txt	liquid smoke	dna	causes	CAUSE	[VBZ]	4
@@ -18,6 +17,7 @@ dump sentences\V-452_6_.txt	obesity	diabetes	predisposes us to	CAUSE	[VBZ, PRP, 
 dump sentences\A-357_13_.txt	titanium dioxide	inflammation	to see if it would cause	CAUSE	[TO, VB, IN, PRP, MD, VB]	2
 dump sentences\A-42_11_.txt	raisins	blood sugar	caused less of a	CAUSE	[VBD, JJR, IN, DT]	2
 dump sentences\T-1339_0_.txt	eggs	inflammation	thought to cause	CAUSE	[VBD, TO, VB]	1
+dump sentences\V-981_3_.txt	arachidonic acid	inflammatory	to trigger the	CAUSE	[TO, VB, DT]	1
 dump sentences\V-23_15_.txt	paratuberculosis	type 1 diabetes	be a "trigger for	CAUSE	[VB, DT, ``, NN, '', IN]	1
 dump sentences\V-1164_1_.txt	muscles	cancer	caused	CAUSE	[VBD]	1
 dump sentences\A-425_18_.txt	carbohydrates	insulin	trigger a release of	CAUSE	[VBP, DT, NN, IN]	1

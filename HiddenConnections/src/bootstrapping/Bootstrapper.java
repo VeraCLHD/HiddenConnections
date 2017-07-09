@@ -106,6 +106,8 @@ public class Bootstrapper {
 		types.add("HYPERNYMY");
 		types.add("PART-OF");
 		types.add("PART-OF-I");
+		types.add("LINKED-TO");
+		types.add("EFFECT");
 
 		for(String type: types){
 			runForEachRelation(type);
@@ -270,12 +272,13 @@ public class Bootstrapper {
 			
 			String patternToAdd = entry.getKey();
 			// manually excluded pattern "the" -> relvant for PART-OF
-			if(top5.contains(entry.getValue()) && !patternToAdd.equals("the")){
+			Double score = entry.getValue();
+			if(top5.contains(score) && score > 0.05 && !patternToAdd.equals("the")){
 				// add pattern because score is high
 				this.patterns.add(patternToAdd);
 				// add instances for this pattern
 				this.found.addAll(this.getPatternsToRate().get(patternToAdd));
-				this.scores.put(patternToAdd, entry.getValue());
+				this.scores.put(patternToAdd, score);
 			}
 		}
 	

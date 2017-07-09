@@ -1,3 +1,4 @@
+
 dump sentences\V-15_315_.txt	high blood pressure	symptom	is just a	HYPERNYMY	[VBZ, RB, DT]	4
 dump sentences\V-589_3_.txt	dental plaque	bacteria	is	HYPERNYMY	[VBZ]	4
 dump sentences\V-603_21_.txt	high fructose corn syrup	pro-oxidant	acts as a	HYPERNYMY	[VBZ, IN, DT]	4
