@@ -107,7 +107,6 @@ public class Bootstrapper {
 		types.add("PART-OF");
 		types.add("PART-OF-I");
 		types.add("LINKED-TO");
-		types.add("EFFECT");
 
 		for(String type: types){
 			runForEachRelation(type);
