@@ -3,6 +3,7 @@ package io;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 import java.util.regex.Matcher;
@@ -10,6 +11,7 @@ import java.util.regex.Pattern;
 
 import org.apache.lucene.queryparser.classic.ParseException;
 
+import bootstrapping.Bootstrapper;
 import edu.stanford.nlp.parser.lexparser.LexicalizedParser;
 import edu.stanford.nlp.parser.lexparser.Options;
 import edu.stanford.nlp.simple.Sentence;
@@ -19,6 +21,7 @@ import edu.stanford.nlp.trees.tregex.TregexPattern;
 import overall.LuceneSearcher;
 
 public class TesterForStuff {
+	public static final String pathToAllTerms = "terms/all_terms_and_variants_with10_filtered.txt";
 
 	public static void main(String[] args) {
 		/*String sentenceString = "I like the things I like.";
@@ -56,13 +59,13 @@ public class TesterForStuff {
 		
 		 //luceneSearch();
 		
-		String sent = "Since the same hormonal changes associated with eating more plant-based diets seemed to improve premenstrual and menstrual symptoms such as breast pain (see my video Plant-Based Diets For Breast Pain), researchers decided to test whether flax seeds would help as well.";
+		/*String sent = "Since the same hormonal changes associated with eating more plant-based diets seemed to improve premenstrual and menstrual symptoms such as breast pain (see my video Plant-Based Diets For Breast Pain), researchers decided to test whether flax seeds would help as well.";
 		//sent = sent.replaceAll("[,.!?;:]", "$0 ").replaceAll("\\s+", " ");
 		String processedDoc = sent;
 
 		sent = sent.replaceAll("([\\p{Lower}\\d\\\\p{Punct}][,.!?;:])" +
 				 "(\\p{Upper})", "$1 $2").replaceAll("\\s+", " ");
-		System.out.println(sent);
+		System.out.println(sent);/
 		/*Matcher matcher = Pattern.compile(
 				"\\p{Lower}?" +
 				"[,.!?;:]" +
@@ -74,6 +77,32 @@ public class TesterForStuff {
 		}*/
 		
 		//TesterForStuff.GetNounPhrases();
+		//parseTree();
+		tagTerms();
+	
+	}
+	
+	public static void tagTerms(){
+		Writer.overwriteFile("", "terms/cancidates_raus.txt");
+		List<String> lines = Reader.readLinesList(pathToAllTerms);
+		Set<String> termsNoNoun = new HashSet<String>();
+		for(String term: lines){
+
+			Sentence sent1 = new Sentence(term);
+			List<String> pos = sent1.posTags();
+			String lastPOS = pos.get(pos.size()-1);
+			if(!lastPOS.equals("NN") && !lastPOS.equals("NNS")){
+				termsNoNoun.add(term);
+				Writer.appendLineToFile(term, "terms/cancidates_raus.txt");
+			}
+			
+			
+		}
+		System.out.println(termsNoNoun.size());
+
+	}
+
+	private static void parseTree() {
 		String sent2 = "eating fruit";
 		Sentence sent2_1 = new Sentence(sent2);
 		LexicalizedParser lp1 = LexicalizedParser.loadModel();
@@ -84,7 +113,6 @@ public class TesterForStuff {
 	for(Tree subtree: parse){
 		System.out.println(subtree.getChildrenAsList());
 	}
-	
 	}
 	
 	public static void GetNounPhrases()
@@ -166,5 +194,7 @@ public class TesterForStuff {
 			e.printStackTrace();
 		}
 	}
+	
+	
 
 }
