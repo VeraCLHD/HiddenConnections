@@ -1,1 +1,1 @@
-Celery provides a flavoring that can be used in place of salt.
+celery provides a flavoring that can be used in place of salt.

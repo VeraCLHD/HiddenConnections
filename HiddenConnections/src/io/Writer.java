@@ -124,7 +124,7 @@ public static void rewriteDumpInSentences(){
 			
 
 			for(int sent = 0; sent< sentences.size(); sent++){
-				String sentenceString = sentences.get(sent).toString();
+				String sentenceString = sentences.get(sent).toString().toLowerCase();
 				String file = "Indexed_Corpus/" + id + "_" + sent + ".txt";
 				
 				Writer.appendLineToFile(sentenceString, file);
@@ -135,6 +135,7 @@ public static void rewriteDumpInSentences(){
 	}
 
 	public static void main(String[] args) {
+		// rewritest sentences of NF dump in single files
 		Writer.rewriteDumpInSentences();
 		
 	}
