@@ -76,13 +76,22 @@ public class Bootstrapper {
 	private Set<String> patterns = new HashSet<String>();
 	// scores for output at the end
 	private Map<String, Double> scores = new HashMap<String, Double>();
-	private static final int numberOfIterations = 50;
+	private static int numberOfIterations = 50;
+
+	public static int getNumberOfIterations() {
+		return numberOfIterations;
+	}
+
+	public static void setNumberOfIterations(int numberOfIterations) {
+		Bootstrapper.numberOfIterations = numberOfIterations;
+	}
+
 
 	private static Set<String> allTerms = new HashSet<String>();
 	// here, all patterns and seeds are added to be rated
 	private Map<String, Set<Pair<String>>> patternsToRate = new HashMap<String, Set<Pair<String>>>();
 	
-	public Bootstrapper(String type){
+	public Bootstrapper(String type, int NumberOfIterations){
 		this.setType(type);
 		this.setPathToSeeds("SEEDS/"+ type + "/" + type + "_" +"seeds.txt");
 		this.setPathToComplementarySeeds("SEEDS/"+ type + "/COMPLEMENTARY_TO_" + type + ".txt");
@@ -96,6 +105,7 @@ public class Bootstrapper {
 		Writer.overwriteFile("", this.getSEED_CONNECTIONS_TXT());
 		this.setSEEDS_TXT("SEEDS/" + type +"/seeds_" + type + ".txt");
 		Writer.overwriteFile("", this.getSEEDS_TXT());
+		this.setNumberOfIterations(NumberOfIterations);
 	}
 	
 	public static void main(String[] args) {
@@ -112,14 +122,14 @@ public class Bootstrapper {
 		types.add("LINKED-TO");
 
 		for(String type: types){
-			runForEachRelation(type);
+			runForEachRelation(type, 100);
 			System.out.println("Ready with " + type);
 		}
 
 	}
 
-	private static void runForEachRelation(String type) {
-		Bootstrapper bootstrapper = new Bootstrapper(type);
+	private static void runForEachRelation(String type, int NumberOfIterations) {
+		Bootstrapper bootstrapper = new Bootstrapper(type, NumberOfIterations);
 		bootstrapper.readAndFilterSeedsFile();
 		
 		for(Pair<String> seeds: bootstrapper.getSeedsOnly()){
@@ -276,7 +286,7 @@ public class Bootstrapper {
 			String patternToAdd = entry.getKey();
 			// manually excluded pattern "the" -> relvant for PART-OF
 			Double score = entry.getValue();
-			if(top5.contains(score) /*&& score >= MIN_SCORE_FOR_PATTERN*/ && !patternToAdd.equals("the")){
+			if(top5.contains(score) && score >= MIN_SCORE_FOR_PATTERN && !patternToAdd.equals("the")){
 				// add pattern because score is high
 				this.patterns.add(patternToAdd);
 				// add instances for this pattern

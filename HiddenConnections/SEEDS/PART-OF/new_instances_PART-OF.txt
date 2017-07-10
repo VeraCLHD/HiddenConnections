@@ -1,12 +1,10 @@
 
-estrogen	drugs
 fortification	meat
 boost	disease activity
 chemicals	poultry meat
 buttermilk	retail
 beta cells	diabetes
 bump	potassium
-lavender	lotions
 boost	calcium absorption
 popcorn lung	workers
 detoxifying enzymes	gut
@@ -23,7 +21,6 @@ salmonella	alfalfa sprout
 ingredient	salads
 sensitivity	dopamine
 pain	sesame seeds
-kombu	soymilk
 bacterial endotoxins	inflammation
 flavonoid phytonutrients	fruits
 zinc	vegetarians
@@ -42,7 +39,6 @@ life	prostate cancer
 depression	folks
 omega 3s	golden
 plays	boosting
-flax seed	muffin
 symptoms	men
 teats	cows
 asian diets	plant foods
@@ -56,7 +52,6 @@ endotoxins	raw
 cholesterol	diet
 lignans	tea
 eating eggs	egg consumption
-all-cause mortality	women
 yellow pigment	turmeric
 mucosa	man
 adhd symptoms	children
@@ -65,7 +60,6 @@ phytate	vegetarian diets
 active ingredient	marijuana
 cholesterol	meat
 pigments	grapes
-flaxseed	muffin
 carcinogens	plant foods
 nitrosamine production	fruits
 fat intake	meat
@@ -91,7 +85,6 @@ intake	pregnancy
 uc	remission
 dairy	acne
 campylobacter bacteria	chicken
-arsenic	poultry
 spike	blood pressure
 carcinogens	retail
 workers	poultry slaughtering
@@ -135,7 +128,6 @@ trans fat	junk food
 oxidized fat	vitamin e
 contaminants	cheese
 yersinia	u.s
-copper	supplements
 death	youth
 cancer-causing viruses	poultry products
 diabetes	men
@@ -197,12 +189,10 @@ no fiber	junk food
 play	turmeric
 bmaa	seafood
 diabetes	estrogen
-fiber	plant foods
 dairy	survival
 arsenic	meat
 puberty	women
 lead	chinese
-americans	dairy products
 estrogens	chicken
 asian diets	meat
 estrogens	hops
@@ -211,7 +201,6 @@ infection	prevalence
 toxins	cigarette smoke
 play	hearts
 prevalence	u.s
-arsenic	pesticides
 allergies	chicken
 rays	artery function
 disease risk	childhood
@@ -223,7 +212,6 @@ stuff	legumes
 excess	infants
 boost	defenses
 saturated fat	coconut oil
-leukemia	women
 acne	teenage
 graph	stevia
 bmaa	control
@@ -239,7 +227,6 @@ pregnant women	fish
 hormones	skim
 leading killer	pesticide
 tofu	indonesia
-arsenic	drugs
 placebo	boosting
 juice	smoothie
 dramamine	volunteers
@@ -268,7 +255,6 @@ production	vessels
 xenoestrogens	health
 aspirin	plants
 salmonella	salmonellosis
-gluten	grains
 bump	cancer risk
 infection	pork
 contaminants	chicken products
@@ -309,17 +295,13 @@ chemical pollutants	life
 risks	heart
 cancer prevention	health
 food poisoning	videos
-phytoestrogen	drugs
 agent	women
 dairy	meat
-meat	meal
 proteins	milk
 tuna	vaccinations
 igf	childhood
 boost	bioavailability
-dioxin	preservatives
 carcinogens	cigarette smoke
-arsenic	chemicals
 brain parasite	pork
 arterial stiffness	adulthood
 active ingredient	broccoli
@@ -339,7 +321,6 @@ swap	soy protein
 inflammation	antioxidants
 cancer cells	cancer growth
 use antibiotics	agriculture
-alcohol	mouthwash
 plant-based diets	symptoms
 carotenoids	fruits
 turmeric	curry powder
@@ -375,25 +356,20 @@ relapses	crohn
 phosphorus	kidney function
 lignans	breast cancer survival
 detoxifying enzymes	broccoli
-thyroid	sausages
-corn syrup	soda
 runny nose	adolescents
 choice	potato consumption
 doses	excess
 implant	farm animals
 prevent prediabetes	children
-zeranol	blood
 infectious virus	retail meat
 sensitivity	cocaine
 constipation	pre-school children
 angina	patients
 cells	cancer
-aluminum	antiperspirants
 life	men
 bullet fragments	venison
 plays	angiogenesis
 oxidative stress	carotenoids
-aluminum	drugs
 carrot	hummus
 flavonoid phytonutrients	nuts
 fat	insulin sensitivity
@@ -425,7 +401,6 @@ spike	blood sugar
 nitrate	vegetables
 chemicals	fish
 relaxant phytonutrient	green tea
-sulfur	amino acid
 chain omega-3s	flaxseeds
 spike	american meat
 acid	vinegar
@@ -468,13 +443,11 @@ homocysteine	brain damage
 diets	health
 cancer cells	check
 detoxifying enzymes	plants
-sulfur	amino acids
 loop	overeating
 men	chinese
 cancer cells	cranberries
 disease	workers
 diets	kale
-gluten	bread
 nutrition	u.s
 diets	berries
 carnitine	eggs
@@ -497,7 +470,6 @@ turmeric curcumin	pain
 yersinia enterocolitica	pork
 yellow	caucasian faces
 protein	milk
-carnitine	energy drinks
 fish	adolescents
 active ingredient	fruits
 inflammatory arthritis	men
@@ -548,7 +520,6 @@ hospital	boston
 colors	fruits
 piglets	baby
 spike	symptoms
-arsenic	drug
 boost	ampk
 hesperitin	citrus
 ear infections	doing
@@ -590,7 +561,6 @@ toxins	raw mushrooms
 attacks	gout sufferers
 mortality	men
 e. coli	chicken meat
-industrial pollutants	fish oil
 boost	testosterone
 dysfunction	brain
 hormones	cow
@@ -624,7 +594,6 @@ big spike	stevia
 disease	livestock
 bioaccumulate	fish
 patients	remission
-sulfur	proteins
 heterocyclic amines	restaurants
 teats	iodine
 phytonutrients	green tea
@@ -645,7 +614,6 @@ seaweed	pills
 spice turmeric	curry powder
 iq	babies
 nitrosamines	meat
-mercury	preservative
 radiation exposure	seafood
 fructose	hfcs
 dha	fish oil
@@ -673,14 +641,12 @@ salmonella infections	children
 infections	chicken
 lignans	flax seeds
 american diet	cheese
-pcbs	fish
 stuff	plants
 dairy intake	adolescence
 iron	plant foods
 excess calories	chocolate
 symptoms	infants
 dietary fiber	plants
-carnitine	supplements
 endometrial cancer	girls
 spike	aluminum excretion
 loss	phytonutrient
@@ -705,7 +671,6 @@ anthocyanin phytonutrients	sweet
 disease risk	ldl
 anthocyanin phytonutrients	tart
 deep-fry	vegan
-mercury	vaccines
 chicken	children
 sugar	date
 cancer	poultry

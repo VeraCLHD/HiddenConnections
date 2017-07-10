@@ -1,48 +1,4 @@
 
-arsenic	drugs	-containing	PART-OF
-carnitine	energy drinks	-containing	PART-OF
-arsenic	poultry	-containing	PART-OF
-estrogen	drugs	-containing	PART-OF
-gluten	bread	-containing	PART-OF
-dioxin	preservatives	-containing	PART-OF
-sulfur	proteins	-containing	PART-OF
-flax seed	muffin	-containing	PART-OF
-kombu	soymilk	-containing	PART-OF
-gluten	grains	-containing	PART-OF
-arsenic	chemicals	-containing	PART-OF
-fiber	plant foods	-containing	PART-OF
-flaxseed	muffin	-containing	PART-OF
-alcohol	mouthwash	-containing	PART-OF
-aluminum	drugs	-containing	PART-OF
-nitrate	vegetables	-containing	PART-OF
-mercury	preservative	-containing	PART-OF
-curcumin	turmeric	-containing	PART-OF
-lavender	lotions	-containing	PART-OF
-thyroid	sausages	-containing	PART-OF
-corn syrup	soda	-containing	PART-OF
-sulfur	amino acid	-containing	PART-OF
-arsenic	drug	-containing	PART-OF
-copper	supplements	-containing	PART-OF
-fiber	plant	-containing	PART-OF
-aluminum	vaccines	-containing	PART-OF
-zeranol	blood	-containing	PART-OF
-mercury	vaccines	-containing	PART-OF
-arsenic	pesticides	-containing	PART-OF
-phytoestrogen	drugs	-containing	PART-OF
-carnitine	supplements	-containing	PART-OF
-sulfur	amino acids	-containing	PART-OF
-meat	meal	-containing	PART-OF
-aluminum	antiperspirants	-containing	PART-OF
-prostate cancer	prostate	— but that’s better than dying from	PART-OF
-cancer	prostate cancer	— but that’s better than dying from	PART-OF
-cancer	prostate	— but that’s better than dying from	PART-OF
-industrial pollutants	fish oil	—possibly found in animal products such as	PART-OF
-industrial pollutants	fish	—possibly found in animal products such as	PART-OF
-pollutants	fish	—possibly found in animal products such as	PART-OF
-pollutants	fish oil	—possibly found in animal products such as	PART-OF
-prostate cancer	prostate	, but that’s better than dying from	PART-OF
-cancer	prostate cancer	, but that’s better than dying from	PART-OF
-cancer	prostate	, but that’s better than dying from	PART-OF
 grapes	red wine	in	PART-OF
 death	kidney	in	PART-OF
 fortification	meat	in	PART-OF
@@ -1328,19 +1284,6 @@ beta-carotene	risk	in	PART-OF
 blood sugar	diabetics	in	PART-OF
 production	nuts	in	PART-OF
 cholesterol	women	in	PART-OF
-prostate cancer	prostate	—but, that’s better than dying from	PART-OF
-cancer	prostate cancer	—but, that’s better than dying from	PART-OF
-cancer	prostate	—but, that’s better than dying from	PART-OF
-all-cause mortality	women	in both men and	PART-OF
-mortality	women	in both men and	PART-OF
-diabetes	women	in both men and	PART-OF
-leukemia	women	in both men and	PART-OF
-sexual dysfunction	women	in both men and	PART-OF
-pigments	greens	found mostly in	PART-OF
-industrial pollutants	fish	found mostly in	PART-OF
-pollutants	fish	found mostly in	PART-OF
-chemicals	fish	found mostly in	PART-OF
-pcbs	fish	found mostly in	PART-OF
 phytates	beans	, found in	PART-OF
 dietary cholesterol	eggs	, found in	PART-OF
 bpa	plastics	, found in	PART-OF
@@ -1363,20 +1306,3 @@ saturated fat	coconut oil	, found in	PART-OF
 fiber	baker	, found in	PART-OF
 dietary nitrate	beets	, found in	PART-OF
 cholesterol	eggs	, found in	PART-OF
-steroids	meat	(in	PART-OF
-aluminum	cheese	(in	PART-OF
-copper	meat	(in	PART-OF
-prostate cancer	prostate	, and mortality rates from breast and	PART-OF
-cancer	prostate cancer	, and mortality rates from breast and	PART-OF
-cancer	prostate	, and mortality rates from breast and	PART-OF
-sex steroid hormones	meat	that when pregnant women eat	PART-OF
-hormones	meat	that when pregnant women eat	PART-OF
-steroid hormones	meat	that when pregnant women eat	PART-OF
-sex steroid hormones	meat	that eating	PART-OF
-americans	dairy products	that eating	PART-OF
-hormones	meat	that eating	PART-OF
-steroid hormones	meat	that eating	PART-OF
-inflammation	arthritis	(including	PART-OF
-protein	meat	(including	PART-OF
-animal protein	meat	(including	PART-OF
-mortality	cancer	(including	PART-OF
