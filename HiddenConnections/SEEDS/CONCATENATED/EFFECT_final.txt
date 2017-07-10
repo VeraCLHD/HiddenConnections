@@ -1,0 +1,89 @@
+
+vegetables	cancer	reduce	EFFECT
+veggies	inflammation	reduce	EFFECT
+vegetables	cancer risk	reduce	EFFECT
+plant-based diet	risk	reduce	EFFECT
+vegetables	heart disease	reduce	EFFECT
+vegan diet	risk	reduce	EFFECT
+fish oil	inflammation	decreases	EFFECT
+turmeric	proteinuria	decreases	EFFECT
+tomato juice	inflammation	decreases	EFFECT
+sodium bicarbonate	kidney	decreases	EFFECT
+garlic	inflammation	decreases	EFFECT
+immunosuppression	cancer risk	decreases	EFFECT
+nuts	risk	reduce the	EFFECT
+plant foods	risk	reduce the	EFFECT
+vegetables	risk	reduce the	EFFECT
+pressure cooking	antioxidant content	reduce the	EFFECT
+vegan diet	risk	reduce the	EFFECT
+plant foods	risks	lower the	EFFECT
+beta-carotene	risk	lower the	EFFECT
+greens	risk	lower the	EFFECT
+eating eggs	cholesterol levels	lowered	EFFECT
+eggs	cholesterol	lowered	EFFECT
+tomatoes	platelet	lowered	EFFECT
+fish	risk	lowered	EFFECT
+tomatoes	platelet activation	lowered	EFFECT
+fiber	blood pressure	lowered	EFFECT
+plant-based diets	symptoms	reduced	EFFECT
+diet	asthma	reduced	EFFECT
+brown rice	diabetes	reduced	EFFECT
+brown rice	diabetes risk	reduced	EFFECT
+phytonutrients	dna damage	reduced	EFFECT
+plant-based diets	prostate cancer	suppresses	EFFECT
+plant-based diet	cancer growth	suppresses	EFFECT
+kale	cancer cell growth	suppresses	EFFECT
+beef	cholesterol	lowers	EFFECT
+milk	uric acid	lowers	EFFECT
+eating eggs	cholesterol levels	lowers	EFFECT
+eating nuts	ldl	lowers	EFFECT
+intake	ldl-cholesterol	lowers	EFFECT
+eggs	cholesterol	lowers	EFFECT
+fiber	cholesterol	lowers	EFFECT
+nuts	ldl	lowers	EFFECT
+vegans	cancer risk	lowers	EFFECT
+tea	blood pressure	lowers	EFFECT
+
+cancer	vegetables	reduce	EFFECT-I
+inflammation	veggies	reduce	EFFECT-I
+cancer risk	vegetables	reduce	EFFECT-I
+risk	plant-based diet	reduce	EFFECT-I
+heart disease	vegetables	reduce	EFFECT-I
+risk	vegan diet	reduce	EFFECT-I
+inflammation	fish oil	decreases	EFFECT-I
+proteinuria	turmeric	decreases	EFFECT-I
+inflammation	tomato juice	decreases	EFFECT-I
+kidney	sodium bicarbonate	decreases	EFFECT-I
+inflammation	garlic	decreases	EFFECT-I
+cancer risk	immunosuppression	decreases	EFFECT-I
+risk	nuts	reduce the	EFFECT-I
+risk	plant foods	reduce the	EFFECT-I
+risk	vegetables	reduce the	EFFECT-I
+antioxidant content	pressure cooking	reduce the	EFFECT-I
+risk	vegan diet	reduce the	EFFECT-I
+risks	plant foods	lower the	EFFECT-I
+risk	beta-carotene	lower the	EFFECT-I
+risk	greens	lower the	EFFECT-I
+cholesterol levels	eating eggs	lowered	EFFECT-I
+cholesterol	eggs	lowered	EFFECT-I
+platelet	tomatoes	lowered	EFFECT-I
+risk	fish	lowered	EFFECT-I
+platelet activation	tomatoes	lowered	EFFECT-I
+blood pressure	fiber	lowered	EFFECT-I
+symptoms	plant-based diets	reduced	EFFECT-I
+asthma	diet	reduced	EFFECT-I
+diabetes	brown rice	reduced	EFFECT-I
+diabetes risk	brown rice	reduced	EFFECT-I
+dna damage	phytonutrients	reduced	EFFECT-I
+prostate cancer	plant-based diets	suppresses	EFFECT-I
+cancer growth	plant-based diet	suppresses	EFFECT-I
+cancer cell growth	kale	suppresses	EFFECT-I
+cholesterol	beef	lowers	EFFECT-I
+uric acid	milk	lowers	EFFECT-I
+cholesterol levels	eating eggs	lowers	EFFECT-I
+ldl	eating nuts	lowers	EFFECT-I
+ldl-cholesterol	intake	lowers	EFFECT-I
+cholesterol	eggs	lowers	EFFECT-I
+cholesterol	fiber	lowers	EFFECT-I
+ldl	nuts	lowers	EFFECT-I
+cancer risk	vegans	lowers	EFFECT-I

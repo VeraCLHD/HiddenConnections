@@ -22,7 +22,7 @@ public class InformationContent {
 	private static final String SEEDS_INFORMATION_CONTENT_IS_A_IC_TXT = "SEEDS/INFORMATION CONTENT/isA_ic.txt";
 	private static final String TERMS_TO_EXCLUDE_TXT = "SEEDS/INFORMATION CONTENT/to_exclude.txt";
 	private static final double MIN_INFORMATION_CONTENT = 2.0;
-	private static String pathToInstances = "SEEDS/CONCATENATED/IS-A_final.txt";
+	private static String pathToInstances = "SEEDS/INFORMATION CONTENT/IS-A_final.txt";
 	// key: general term, value: list of children
 	private Map<String, Set<String>> isAPairs = new HashMap<String, Set<String>>();
 	private StanfordLemmatizer lemm = new StanfordLemmatizer();

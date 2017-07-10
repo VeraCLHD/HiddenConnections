@@ -1,0 +1,92 @@
+
+dairy	risk	associated with	LINKED-TO-I
+french fries	girls	associated with	LINKED-TO-I
+alcohol intake	cancer risk	associated with	LINKED-TO-I
+chemotherapy	irritation	associated with	LINKED-TO-I
+smoking	risk	associated with	LINKED-TO-I
+brain	fish intake	associated with	LINKED-TO-I
+veganism	risk	associated with	LINKED-TO-I
+smoking	cancer risk	associated with	LINKED-TO-I
+processed meat	sperm counts	associated with	LINKED-TO-I
+saturated fat	fertility	associated with	LINKED-TO-I
+diet soda	risk	associated with	LINKED-TO-I
+ayurvedic	lead poisoning	associated with	LINKED-TO-I
+iron supplements	risks	associated with	LINKED-TO-I
+salt	stomach cancer	associated with	LINKED-TO-I
+aging	amino acids	associated with	LINKED-TO-I
+diabetes risk	eggs	associated with	LINKED-TO-I
+diet soda	risks	associated with	LINKED-TO-I
+lead	risks	associated with	LINKED-TO-I
+poultry exposure	cancer mortality	associated with	LINKED-TO-I
+heart disease	risks	associated with	LINKED-TO-I
+diagnostic	risks	associated with	LINKED-TO-I
+ground beef	risk	associated with	LINKED-TO-I
+rheumatoid arthritis	pain	associated with	LINKED-TO-I
+rickets	deformities	associated with	LINKED-TO-I
+brain parasites	risks	associated with	LINKED-TO-I
+dairy intake	increased risk	associated with	LINKED-TO-I
+depression	inflammation	associated with	LINKED-TO-I
+inflammation	meat molecule	associated with	LINKED-TO-I
+processed meat	risks	associated with	LINKED-TO-I
+nut	death	associated with	LINKED-TO-I
+cardiovascular health	rosy glow	associated with	LINKED-TO-I
+inflammation	chronic diseases	associated with	LINKED-TO-I
+alcohol	risk	associated with	LINKED-TO-I
+egg	inflammatory reaction	associated with	LINKED-TO-I
+eggs	risk	associated with	LINKED-TO-I
+diabetes	eggs	associated with	LINKED-TO-I
+iron supplements	risk	associated with	LINKED-TO-I
+drugs	side effects	associated with	LINKED-TO-I
+gluten intolerance	disorder	associated with	LINKED-TO-I
+french fries	risk	associated with	LINKED-TO-I
+obesity	risk	associated with	LINKED-TO-I
+alzheimer	toxin	associated with	LINKED-TO-I
+nut consumption	death	associated with	LINKED-TO-I
+cardiac disease	arteries	associated with	LINKED-TO-I
+animal protein	girls	associated with	LINKED-TO-I
+obesity	disease risk	associated with	LINKED-TO-I
+alcohol	cancers	associated with	LINKED-TO-I
+heart disease	disability	associated with	LINKED-TO-I
+cancer	biomarker	associated with	LINKED-TO-I
+veganism	cancer risk	associated with	LINKED-TO-I
+drugs	pain	associated with	LINKED-TO-I
+aspartame	headaches	associated with	LINKED-TO-I
+carrot consumption	glaucoma risk	associated with	LINKED-TO-I
+infertility	beverage	associated with	LINKED-TO-I
+poultry	mortality	associated with	LINKED-TO-I
+memory	brain	associated with	LINKED-TO-I
+diabetes	symptoms	associated with	LINKED-TO-I
+salt intake	stomach cancer	associated with	LINKED-TO-I
+prevotella	carbohydrates	are associated with the	LINKED-TO-I
+bacteroides	fat	are associated with the	LINKED-TO-I
+fats	pcbs	are associated with the	LINKED-TO-I
+sexual dysfunction	chronic gum disease	is associated with	LINKED-TO-I
+cardiovascular disease	bpa	is associated with	LINKED-TO-I
+infertility	meat intake	is associated with	LINKED-TO-I
+ulcerative colitis	production	is associated with	LINKED-TO-I
+weight gain	animal products	is associated with	LINKED-TO-I
+beef	pancreatic cancer	is associated with	LINKED-TO-I
+pancreatic cancer	vegetable oil	is associated with	LINKED-TO-I
+inflammation	meat	is associated with	LINKED-TO-I
+weight gain	meat	is associated with	LINKED-TO-I
+breast cancer	bladder infections	tied to	LINKED-TO-I
+multivitamin use	cancer risk	tied to	LINKED-TO-I
+pancreatic cancer	sugar	tied to	LINKED-TO-I
+sprouts	food poisoning	tied to	LINKED-TO-I
+liver	poultry	tied to	LINKED-TO-I
+multivitamin	risk	tied to	LINKED-TO-I
+liver	poultry exposure	tied to	LINKED-TO-I
+pork	foodborne illness	tied to	LINKED-TO-I
+meat	parasites	are associated with	LINKED-TO-I
+prevotella	fat	are associated with	LINKED-TO-I
+depression	blood	are associated with	LINKED-TO-I
+birth defects	xenoestrogens	are associated with	LINKED-TO-I
+brain tumors	dental x-rays	are associated with	LINKED-TO-I
+nonalcoholic fatty liver	cholesterol	are associated with	LINKED-TO-I
+multiple myeloma	pickled vegetables	are associated with	LINKED-TO-I
+prevotella	plant foods	are associated with	LINKED-TO-I
+pancreatic cancer	carbs	was associated with	LINKED-TO-I
+pancreatic cancer	refined carbs	was associated with	LINKED-TO-I
+diabetes risk	iron	was associated with	LINKED-TO-I
+diabetes	iron	was associated with	LINKED-TO-I
+breast cancer	adolescence	was associated with	LINKED-TO-I

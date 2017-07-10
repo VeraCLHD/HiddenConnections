@@ -15,6 +15,34 @@ cancer	betel nuts	cause	CAUSED-BY
 dna mutations	hormones	cause	CAUSED-BY
 inflammation	meat	cause	CAUSED-BY
 cancer	cell phones	cause	CAUSED-BY
+arsenic	cancers	caused by	CAUSE
+meat	uric acid	caused by	CAUSE
+arachidonic acid	meat	due to	CAUSE
+vitamin a	meat	due to	CAUSE
+symptoms	gluten	due to	CAUSE
+ddt	meat	due to	CAUSE
+nutrient synergy	phytonutrients	due to	CAUSE
+coffee drinking	cancer	caused	CAUSE
+muscles	cancer	caused	CAUSE
+coffee-drinking	cancer	caused	CAUSE
+animal foods	inflammation	causes	CAUSE
+cigarette smoking	cancer	causes	CAUSE
+betel nuts	cancer	cause	CAUSE
+hormones	dna mutations	cause	CAUSE
+meat	inflammation	cause	CAUSE
+cell phones	cancer	cause	CAUSE
+vegetables	cancer	reduce	EFFECT
+vegetables	cancer risk	reduce	EFFECT
+vegetables	heart disease	reduce	EFFECT
+vegetables	risk	reduce the	EFFECT
+plant-based diets	symptoms	reduced	EFFECT
+phytonutrients	dna damage	reduced	EFFECT
+cancer	vegetables	reduce	EFFECT-I
+cancer risk	vegetables	reduce	EFFECT-I
+heart disease	vegetables	reduce	EFFECT-I
+risk	vegetables	reduce the	EFFECT-I
+symptoms	plant-based diets	reduced	EFFECT-I
+dna damage	phytonutrients	reduced	EFFECT-I
 disease	tremor	, including	IS-A
 meat	poultry	, including	IS-A
 diseases	heart disease	, including	IS-A
@@ -264,6 +292,271 @@ symptom	high blood pressure	is just a	IS-A
 plant	turmeric	is just a	IS-A
 vegetables	garlic	stood out for the	IS-A
 vegetables	raisins	stood out for the	IS-A
+tremor	disease	, including	HYPERNYMY
+poultry	meat	, including	HYPERNYMY
+heart disease	diseases	, including	HYPERNYMY
+fruits	plant kingdom	, including	HYPERNYMY
+cinnamon	spices	, including	HYPERNYMY
+steroids	hormones	, including	HYPERNYMY
+cancer	illnesses	, including	HYPERNYMY
+dioxins	pollutants	, including	HYPERNYMY
+asthma	diseases	, including	HYPERNYMY
+breast	cancers	, including	HYPERNYMY
+beef	meat	, including	HYPERNYMY
+asthma	symptoms	, including	HYPERNYMY
+chicken	meat	, including	HYPERNYMY
+cancer	chronic disease	, including	HYPERNYMY
+pancreatic enzymes	supplements	, including	HYPERNYMY
+greens	vegetables	, including	HYPERNYMY
+heart disease	illnesses	, including	HYPERNYMY
+vitamin a	supplements	, including	HYPERNYMY
+als	diseases	, including	HYPERNYMY
+apples	plants	, including	HYPERNYMY
+cancer	diseases	, including	HYPERNYMY
+apples	fruits	, including	HYPERNYMY
+poultry	meats	, including	HYPERNYMY
+formaldehyde	pollutants	, including	HYPERNYMY
+prostate cancer	cancer	, including	HYPERNYMY
+pathogens	meat	, including	HYPERNYMY
+resveratrol	phytonutrients	, including	HYPERNYMY
+strawberries	fruits	, including	HYPERNYMY
+pancreatic cancer	cancers	, including	HYPERNYMY
+aspirin	medications	, including	HYPERNYMY
+beans	legumes	, including	HYPERNYMY
+lutein	phytonutrients	like	HYPERNYMY
+protein	animal foods	like	HYPERNYMY
+midazolam	drugs	like	HYPERNYMY
+dioxins	pollutants	like	HYPERNYMY
+igf	hormones	like	HYPERNYMY
+lycopene	phytonutrients	like	HYPERNYMY
+strokes	diseases	like	HYPERNYMY
+insulin	medications	like	HYPERNYMY
+aspirin	drugs	like	HYPERNYMY
+benadryl	medications	like	HYPERNYMY
+beans	plants	like	HYPERNYMY
+turmeric	spices	like	HYPERNYMY
+mercury	pollutants	like	HYPERNYMY
+hesperidin	phytonutrients	like	HYPERNYMY
+stroke	diseases	like	HYPERNYMY
+cholesterol	drugs	like	HYPERNYMY
+cancer	tissues	like	HYPERNYMY
+resveratrol	phytonutrients	like	HYPERNYMY
+beta	drugs	like	HYPERNYMY
+childhood leukemia	cancers	like	HYPERNYMY
+colon cancer	diseases	like	HYPERNYMY
+arsenic	minerals	like	HYPERNYMY
+leukemias	cancers	like	HYPERNYMY
+tylenol	drugs	like	HYPERNYMY
+nicotine	hormones	like	HYPERNYMY
+lemons	fruit	like	HYPERNYMY
+zeranol	drugs	like	HYPERNYMY
+nausea	symptoms	like	HYPERNYMY
+fosamax	drugs	like	HYPERNYMY
+emphysema	diseases	like	HYPERNYMY
+ibuprofen	drugs	like	HYPERNYMY
+vitamin c	phytonutrients	like	HYPERNYMY
+als	diseases	like	HYPERNYMY
+valium	drug	like	HYPERNYMY
+diabetes	diseases	like	HYPERNYMY
+veggie burgers	meats	like	HYPERNYMY
+depression	illnesses	like	HYPERNYMY
+rosmarinic acid	phytonutrients	like	HYPERNYMY
+noni	fruits	like	HYPERNYMY
+triphala	supplements	like	HYPERNYMY
+apples	vegetables	like	HYPERNYMY
+apples	fruit	like	HYPERNYMY
+antibiotics	drugs	like	HYPERNYMY
+breast cancer	diseases	like	HYPERNYMY
+glyburide	medication	like	HYPERNYMY
+glaucoma	disease	like	HYPERNYMY
+viagra	drugs	like	HYPERNYMY
+prozac	drugs	like	HYPERNYMY
+fenugreek	spices	like	HYPERNYMY
+premarin	drug	like	HYPERNYMY
+chlorhexidine	chemicals	like	HYPERNYMY
+premarin	drugs	like	HYPERNYMY
+valium	drugs	like	HYPERNYMY
+cancer	diseases	like	HYPERNYMY
+obesity	diseases	like	HYPERNYMY
+hexachlorobenzene	pollutants	like	HYPERNYMY
+arugula	vegetables	like	HYPERNYMY
+lipitor	drugs	like	HYPERNYMY
+candy	drugs	like	HYPERNYMY
+ddt	pollutants	like	HYPERNYMY
+ibuprofen	drug	like	HYPERNYMY
+prostate	cancers	like	HYPERNYMY
+penicillin	drugs	like	HYPERNYMY
+adrenaline	hormones	like	HYPERNYMY
+nicotine	drugs	like	HYPERNYMY
+heroin	drugs	like	HYPERNYMY
+beta-carotene	phytonutrients	like	HYPERNYMY
+kale	vegetables	like	HYPERNYMY
+lovastatin	drug	like	HYPERNYMY
+lentils	legumes	like	HYPERNYMY
+lipitor	drug	like	HYPERNYMY
+allopurinol	drugs	like	HYPERNYMY
+zeaxanthin	phytonutrients	like	HYPERNYMY
+iodine	minerals	—like	HYPERNYMY
+breast	cancers	—like	HYPERNYMY
+breast cancer	cancers	—like	HYPERNYMY
+salad	vegetables	—like	HYPERNYMY
+berries	vegetables	—like	HYPERNYMY
+fruit	meal	—like	HYPERNYMY
+teenagers	illnesses	, such as	HYPERNYMY
+nutmeg	spices	, such as	HYPERNYMY
+berries	plants	, such as	HYPERNYMY
+potato chips	plants	, such as	HYPERNYMY
+parkinson	diseases	, such as	HYPERNYMY
+ibuprofen	medications	, such as	HYPERNYMY
+oranges	vegetables	, such as	HYPERNYMY
+heart disease	diseases	, such as	HYPERNYMY
+pesticides	meat	, such as	HYPERNYMY
+curcumin	spices	, such as	HYPERNYMY
+alzheimer	diseases	, such as	HYPERNYMY
+breast	cancers	, such as	HYPERNYMY
+vitamin c	supplements	, such as	HYPERNYMY
+meat	animal protein	, such as	HYPERNYMY
+clove	spices	, such as	HYPERNYMY
+mercury	pollutants	, such as	HYPERNYMY
+diabetes	diseases	, such as	HYPERNYMY
+cancer	diseases	, such as	HYPERNYMY
+acne	illnesses	, such as	HYPERNYMY
+pcbs	pollutants	, such as	HYPERNYMY
+beets	vegetables	, such as	HYPERNYMY
+ham	meat	, such as	HYPERNYMY
+mustard	spices	, such as	HYPERNYMY
+breast cancer	cancers	, such as	HYPERNYMY
+cholesterol	drugs	, such as	HYPERNYMY
+cloves	spices	, such as	HYPERNYMY
+breast	cancers	(like	HYPERNYMY
+breast cancer	cancers	(like	HYPERNYMY
+penicillin	drugs	(like	HYPERNYMY
+peanuts	legumes	(like	HYPERNYMY
+lutein	phytonutrients	such as	HYPERNYMY
+meat	methionine	such as	HYPERNYMY
+oranges	fruits	such as	HYPERNYMY
+brain	symptoms	such as	HYPERNYMY
+cancer	chronic diseases	such as	HYPERNYMY
+heart disease	diseases	such as	HYPERNYMY
+bloating	symptoms	such as	HYPERNYMY
+cinnamon	spices	such as	HYPERNYMY
+magnesium	minerals	such as	HYPERNYMY
+statins	medications	such as	HYPERNYMY
+dioxins	pollutants	such as	HYPERNYMY
+asthma	diseases	such as	HYPERNYMY
+lycopene	phytonutrients	such as	HYPERNYMY
+breast	cancers	such as	HYPERNYMY
+prozac	drugs	such as	HYPERNYMY
+aspirin	drugs	such as	HYPERNYMY
+vitamin c	supplements	such as	HYPERNYMY
+greens	vegetables	such as	HYPERNYMY
+iron supplements	supplements	such as	HYPERNYMY
+garlic	spices	such as	HYPERNYMY
+meat	diarrhea	such as	HYPERNYMY
+chickpeas	legumes	such as	HYPERNYMY
+turmeric	spices	such as	HYPERNYMY
+mercury	pollutants	such as	HYPERNYMY
+cancer	diseases	such as	HYPERNYMY
+meat	animal products	such as	HYPERNYMY
+currants	fruits	such as	HYPERNYMY
+stroke	diseases	such as	HYPERNYMY
+kale	plants	such as	HYPERNYMY
+autism	diseases	such as	HYPERNYMY
+ginger	spices	such as	HYPERNYMY
+beans	legumes	such as	HYPERNYMY
+aspirin	plants	such as	HYPERNYMY
+nutmeg	spices	such as	HYPERNYMY
+onions	vegetables	such as	HYPERNYMY
+red onions	vegetables	such as	HYPERNYMY
+skin cancer	cancers	such as	HYPERNYMY
+alzheimer	diseases	such as	HYPERNYMY
+hepatitis	diseases	such as	HYPERNYMY
+peanuts	legumes	such as	HYPERNYMY
+chicken	meat	such as	HYPERNYMY
+potassium	supplements	such as	HYPERNYMY
+tomatoes	fruits	such as	HYPERNYMY
+vitamin c	phytonutrients	such as	HYPERNYMY
+soy	legumes	such as	HYPERNYMY
+lentils	legumes	such as	HYPERNYMY
+diabetes	diseases	such as	HYPERNYMY
+scurvy	diseases	such as	HYPERNYMY
+antibiotic residues	drugs	such as	HYPERNYMY
+dairy	animal foods	such as	HYPERNYMY
+pcbs	pollutants	such as	HYPERNYMY
+beets	vegetables	such as	HYPERNYMY
+ham	meat	such as	HYPERNYMY
+blueberries	fruits	such as	HYPERNYMY
+breast cancer	cancers	such as	HYPERNYMY
+ham	meats	such as	HYPERNYMY
+pancreatic cancer	cancers	such as	HYPERNYMY
+lignans	phytonutrients	such as	HYPERNYMY
+saffron	spices	such as	HYPERNYMY
+rose hips	fruits	are the	HYPERNYMY
+hypertension	diseases	are the	HYPERNYMY
+vegetables	bok choy	are	HYPERNYMY
+phthalates	chemical	are	HYPERNYMY
+organochlorines	chemical	are	HYPERNYMY
+vegetables	potato chips	are	HYPERNYMY
+longevity	legumes	are	HYPERNYMY
+pesticides	fruits	are	HYPERNYMY
+antioxidants	plant	are	HYPERNYMY
+beans	fruit	are	HYPERNYMY
+birds	chemicals	are	HYPERNYMY
+xenoestrogens	chemicals	are	HYPERNYMY
+drugs	exposures	are	HYPERNYMY
+symptoms	heartburn	are	HYPERNYMY
+liver cancer	diseases	are	HYPERNYMY
+workers	diseases	are	HYPERNYMY
+fruits	eaten	are	HYPERNYMY
+snacks	fruit	are	HYPERNYMY
+supplements	supplement	are	HYPERNYMY
+fruits	roots	are	HYPERNYMY
+phytonutrients	fat soluble	are	HYPERNYMY
+cherries	plant	are a	HYPERNYMY
+chickpeas	legume	are a	HYPERNYMY
+bean	legume	are a	HYPERNYMY
+garbanzo bean	legume	are a	HYPERNYMY
+gluten sensitivity	disease	is a	HYPERNYMY
+putrescine	chemical	is a	HYPERNYMY
+aging	disease	is a	HYPERNYMY
+supplements	bit	is a	HYPERNYMY
+diverticulosis	disease	is a	HYPERNYMY
+acrylamide	chemical	is a	HYPERNYMY
+melatonin	hormone	is a	HYPERNYMY
+multiple sclerosis	disease	is a	HYPERNYMY
+prediabetes	disease	is a	HYPERNYMY
+atherosclerosis	disease	is a	HYPERNYMY
+lymphoma	cancer	is	HYPERNYMY
+american diet	meat	is	HYPERNYMY
+diseases	heart disease	is	HYPERNYMY
+supplements	fish oil	is	HYPERNYMY
+drug	aspirin	is	HYPERNYMY
+nettle tea	mineral	is	HYPERNYMY
+cancer	insulin-like growth	is	HYPERNYMY
+diet	vegetables	is	HYPERNYMY
+vegetable	bell peppers	is	HYPERNYMY
+fruit	fine	is	HYPERNYMY
+disease	exercise	is	HYPERNYMY
+high blood pressure	symptom	is just a	HYPERNYMY
+turmeric	plant	is just a	HYPERNYMY
+garlic	vegetables	stood out for the	HYPERNYMY
+raisins	vegetables	stood out for the	HYPERNYMY
+side effects	drugs	associated with	LINKED-TO
+cancers	alcohol	associated with	LINKED-TO
+biomarker	cancer	associated with	LINKED-TO
+pain	drugs	associated with	LINKED-TO
+symptoms	diabetes	associated with	LINKED-TO
+meat	inflammation	is associated with	LINKED-TO
+meat	weight gain	is associated with	LINKED-TO
+parasites	meat	are associated with	LINKED-TO
+drugs	side effects	associated with	LINKED-TO-I
+alcohol	cancers	associated with	LINKED-TO-I
+cancer	biomarker	associated with	LINKED-TO-I
+drugs	pain	associated with	LINKED-TO-I
+diabetes	symptoms	associated with	LINKED-TO-I
+inflammation	meat	is associated with	LINKED-TO-I
+weight gain	meat	is associated with	LINKED-TO-I
+meat	parasites	are associated with	LINKED-TO-I
 fortification	meat	in	PART-OF
 chemicals	poultry meat	in	PART-OF
 phytonutrients	plant foods	in	PART-OF
@@ -540,17 +833,279 @@ antioxidants	vegetables	have	PART-OF
 nicotine	plants	have	PART-OF
 phosphorus	animal foods	have	PART-OF
 health benefits	spice	has	PART-OF
-vegetables	cancer	reduce	EFFECT
-vegetables	cancer risk	reduce	EFFECT
-vegetables	heart disease	reduce	EFFECT
-vegetables	risk	reduce the	EFFECT
-plant-based diets	symptoms	reduced	EFFECT
-phytonutrients	dna damage	reduced	EFFECT
-side effects	drugs	associated with	LINKED-TO
-cancers	alcohol	associated with	LINKED-TO
-biomarker	cancer	associated with	LINKED-TO
-pain	drugs	associated with	LINKED-TO
-symptoms	diabetes	associated with	LINKED-TO
-meat	inflammation	is associated with	LINKED-TO
-meat	weight gain	is associated with	LINKED-TO
-parasites	meat	are associated with	LINKED-TO
+meat	fortification	in	PART-OF-I
+poultry meat	chemicals	in	PART-OF-I
+plant foods	phytonutrients	in	PART-OF-I
+foie gras	diseases	in	PART-OF-I
+meat	antibodies	in	PART-OF-I
+fruits	vitamin c	in	PART-OF-I
+meat	vegetables	in	PART-OF-I
+fruits	flavonoid phytonutrients	in	PART-OF-I
+chickens	diseases	in	PART-OF-I
+drug	contamination	in	PART-OF-I
+meat	heme iron	in	PART-OF-I
+bacon	cancer	in	PART-OF-I
+men	symptoms	in	PART-OF-I
+childhood	fruit	in	PART-OF-I
+fruits	sodium	in	PART-OF-I
+turmeric	drug	in	PART-OF-I
+cancer prevention	vegetables	in	PART-OF-I
+meat	copper	in	PART-OF-I
+pregnancy	pollutants	in	PART-OF-I
+kiwis	phytonutrient	in	PART-OF-I
+meat	cholesterol	in	PART-OF-I
+plant	zinc	in	PART-OF-I
+fruits	nitrosamine production	in	PART-OF-I
+meat	fat intake	in	PART-OF-I
+cacao	phytonutrients	in	PART-OF-I
+plants	adrenaline	in	PART-OF-I
+hepatitis e	disease	in	PART-OF-I
+plants	cadmium	in	PART-OF-I
+antioxidants	spices	in	PART-OF-I
+broccoli	phytonutrient	in	PART-OF-I
+meat	glycotoxins	in	PART-OF-I
+grapes	phytonutrients	in	PART-OF-I
+eggs	chemicals	in	PART-OF-I
+meat	dioxins	in	PART-OF-I
+meat	polycyclic aromatic hydrocarbons	in	PART-OF-I
+meat	pollutants	in	PART-OF-I
+beet juice	phytonutrients	in	PART-OF-I
+disease	play	in	PART-OF-I
+cancer	plant foods	in	PART-OF-I
+ammonia	cancer	in	PART-OF-I
+salad	phytonutrients	in	PART-OF-I
+plants	dna	in	PART-OF-I
+chicken	chemicals	in	PART-OF-I
+vegetables	nitrates	in	PART-OF-I
+cocoa	phytonutrients	in	PART-OF-I
+fruit	fiber	in	PART-OF-I
+meat	bacteria	in	PART-OF-I
+vegans	hormones	in	PART-OF-I
+sheep	disease	in	PART-OF-I
+meat	arachidonic acid	in	PART-OF-I
+chocolate	phytonutrients	in	PART-OF-I
+meat	phosphate additives	in	PART-OF-I
+fruit	sugar	in	PART-OF-I
+meat	cancer	in	PART-OF-I
+fruits	phytonutrients	in	PART-OF-I
+ayurvedic medicine	plant	in	PART-OF-I
+stool size	cancer	in	PART-OF-I
+flax	phytonutrients	in	PART-OF-I
+berries	phytonutrients	in	PART-OF-I
+plants	protein	in	PART-OF-I
+plant	survival	in	PART-OF-I
+meat	arsenic	in	PART-OF-I
+oats	phytonutrients	in	PART-OF-I
+meat	asian diets	in	PART-OF-I
+meat	carcinogens	in	PART-OF-I
+meat	obesogens	in	PART-OF-I
+legumes	stuff	in	PART-OF-I
+chicken	drugs	in	PART-OF-I
+chickens	cancers	in	PART-OF-I
+plant	phytonutrients	in	PART-OF-I
+tea	phytonutrients	in	PART-OF-I
+fish oil	pollutants	in	PART-OF-I
+skim	hormones	in	PART-OF-I
+legumes	polyphenols	in	PART-OF-I
+meat	growth promoters	in	PART-OF-I
+plants	phytoestrogens	in	PART-OF-I
+dairy products	hormones	in	PART-OF-I
+meat	chicken	in	PART-OF-I
+plants	drugs	in	PART-OF-I
+meat	ldl cholesterol	in	PART-OF-I
+meat	molecule	in	PART-OF-I
+seafood	pollutants	in	PART-OF-I
+pigs	disease	in	PART-OF-I
+cherries	phytonutrients	in	PART-OF-I
+beef	hormones	in	PART-OF-I
+plants	aspirin	in	PART-OF-I
+meat	pathogens	in	PART-OF-I
+plants	antioxidants	in	PART-OF-I
+pills	hormones	in	PART-OF-I
+milk	hormones	in	PART-OF-I
+diet	meat	in	PART-OF-I
+supplements	aluminum	in	PART-OF-I
+animal foods	iron	in	PART-OF-I
+meat	early onset puberty	in	PART-OF-I
+ability	vegetables	in	PART-OF-I
+meat	cancers	in	PART-OF-I
+plants	nitrates	in	PART-OF-I
+plant	antioxidants	in	PART-OF-I
+microwave	disease	in	PART-OF-I
+primates	disease	in	PART-OF-I
+vegetables	acid	in	PART-OF-I
+meat	antibiotics	in	PART-OF-I
+meat	hormones	in	PART-OF-I
+meat	trans fat	in	PART-OF-I
+fruit	phytonutrients	in	PART-OF-I
+meat	dairy	in	PART-OF-I
+black pepper	phytonutrient	in	PART-OF-I
+cancer	vegetables	in	PART-OF-I
+plant	potassium	in	PART-OF-I
+eggs	phytonutrients	in	PART-OF-I
+chicken	disease	in	PART-OF-I
+prevalence	disease	in	PART-OF-I
+fruits	fiber	in	PART-OF-I
+flax seeds	phytonutrients	in	PART-OF-I
+dairy	hormones	in	PART-OF-I
+symptoms	plant-based diets	in	PART-OF-I
+fruits	carotenoids	in	PART-OF-I
+fruit	variety	in	PART-OF-I
+men	cancer	in	PART-OF-I
+health	phytonutrients	in	PART-OF-I
+meat	berries	in	PART-OF-I
+dairy	diseases	in	PART-OF-I
+prostate cancer	cancer	in	PART-OF-I
+diet	plants	in	PART-OF-I
+meat	heavy metals	in	PART-OF-I
+meat	fiber	in	PART-OF-I
+kids	symptoms	in	PART-OF-I
+soy	phytonutrients	in	PART-OF-I
+meat	chemical pollutants	in	PART-OF-I
+cancer	cells	in	PART-OF-I
+vegetarian	cancer	in	PART-OF-I
+broccoli	phytonutrients	in	PART-OF-I
+fruits	salicylic acid	in	PART-OF-I
+meat	contamination	in	PART-OF-I
+meat	antibiotic residues	in	PART-OF-I
+meat	neurotoxins	in	PART-OF-I
+children	diseases	in	PART-OF-I
+cancer	oxidation	in	PART-OF-I
+meat	estrogen	in	PART-OF-I
+soy foods	phytonutrients	in	PART-OF-I
+meat	toxins	in	PART-OF-I
+plant	angiogenesis inhibitors	in	PART-OF-I
+children	disease	in	PART-OF-I
+vegetables	nitrate	in	PART-OF-I
+cancer	antibodies	in	PART-OF-I
+fish	chemicals	in	PART-OF-I
+processed meat	chemicals	in	PART-OF-I
+plant	fiber	in	PART-OF-I
+cranberries	phytonutrients	in	PART-OF-I
+plants	phytochemicals	in	PART-OF-I
+plants	phytonutrients	in	PART-OF-I
+vegetarians	diseases	in	PART-OF-I
+meat	ammonia	in	PART-OF-I
+meat	parasites	in	PART-OF-I
+fibromyalgia	symptoms	in	PART-OF-I
+fish	pollutant	in	PART-OF-I
+fish	pollutants	in	PART-OF-I
+childhood	meat	in	PART-OF-I
+meat	anabolic steroids	in	PART-OF-I
+life	pollutant	in	PART-OF-I
+animal fats	pollutants	in	PART-OF-I
+meat	pigs	in	PART-OF-I
+supplements	steroids	in	PART-OF-I
+meat	viruses	in	PART-OF-I
+nuts	phytonutrients	in	PART-OF-I
+whole grains	mineral	in	PART-OF-I
+vegetarians	disease	in	PART-OF-I
+plants	detoxifying enzymes	in	PART-OF-I
+meat	animal protein	in	PART-OF-I
+workers	disease	in	PART-OF-I
+cherries	phytonutrient	in	PART-OF-I
+children	symptoms	in	PART-OF-I
+meat	blood	in	PART-OF-I
+meat	protein	in	PART-OF-I
+plants	arachidonic acid	in	PART-OF-I
+red wine	phytonutrients	in	PART-OF-I
+walnuts	pollutants	in	PART-OF-I
+meat	brain parasites	in	PART-OF-I
+tumor growth	chemicals	in	PART-OF-I
+meat	manure	in	PART-OF-I
+fruits	active ingredient	in	PART-OF-I
+plants	molecules	in	PART-OF-I
+junk foods	phytonutrients	in	PART-OF-I
+chickens	cancer	in	PART-OF-I
+meat	superbugs	in	PART-OF-I
+fruits	colon cancer	in	PART-OF-I
+meat	endocrine disrupting chemicals	in	PART-OF-I
+fat	hormone	in	PART-OF-I
+alzheimer	disease	in	PART-OF-I
+children	cancers	in	PART-OF-I
+blood	pollutants	in	PART-OF-I
+dermatology	drugs	in	PART-OF-I
+dairy products	pollutants	in	PART-OF-I
+plant	cadmium	in	PART-OF-I
+meat	iron	in	PART-OF-I
+legumes	phytates	in	PART-OF-I
+meat	phosphorus	in	PART-OF-I
+meat	c. diff	in	PART-OF-I
+diabetes	pollutants	in	PART-OF-I
+green tea	phytonutrient	in	PART-OF-I
+meat	steroids	in	PART-OF-I
+fruits	colors	in	PART-OF-I
+eggs	hormones	in	PART-OF-I
+symptoms	spike	in	PART-OF-I
+meat	chemicals	in	PART-OF-I
+cruciferous vegetables	phytonutrients	in	PART-OF-I
+cancer	aid	in	PART-OF-I
+salmon	pollutants	in	PART-OF-I
+patients	symptoms	in	PART-OF-I
+raisins	phytonutrients	in	PART-OF-I
+meat	no fiber	in	PART-OF-I
+meat	steroid hormones	in	PART-OF-I
+plant	phytosterols	in	PART-OF-I
+cancer	vitamin c	in	PART-OF-I
+prostate	cancer	in	PART-OF-I
+cow	hormones	in	PART-OF-I
+disease	diet	in	PART-OF-I
+meat	saturated fat	in	PART-OF-I
+raw broccoli	phytonutrients	in	PART-OF-I
+men	cancers	in	PART-OF-I
+plant	phosphorus	in	PART-OF-I
+meat	salmonella	in	PART-OF-I
+vegans	pollutants	in	PART-OF-I
+plants	serotonin	in	PART-OF-I
+acne	hormones	in	PART-OF-I
+supplement	phytonutrients	in	PART-OF-I
+disease	antioxidants	in	PART-OF-I
+meat	human carcinogen	in	PART-OF-I
+meat	sex steroid hormones	in	PART-OF-I
+livestock	disease	in	PART-OF-I
+meat	drug residues	in	PART-OF-I
+plants	fiber	in	PART-OF-I
+green tea	phytonutrients	in	PART-OF-I
+meat	vitamin c	in	PART-OF-I
+spices	phytonutrients	in	PART-OF-I
+videos	spices	in	PART-OF-I
+meat	nitrosamines	in	PART-OF-I
+fruit	fructose	in	PART-OF-I
+plant	diseases	in	PART-OF-I
+fruits	antioxidants	in	PART-OF-I
+tumor	chemicals	in	PART-OF-I
+adulthood	diseases	in	PART-OF-I
+adulthood	hormones	in	PART-OF-I
+plants	neurotransmitters	in	PART-OF-I
+plants	purines	in	PART-OF-I
+plant	carbs	in	PART-OF-I
+blueberries	phytonutrients	in	PART-OF-I
+ginger	chemical	in	PART-OF-I
+meat	carnitine	in	PART-OF-I
+burgers	meat	in	PART-OF-I
+plants	stuff	in	PART-OF-I
+meat	pesticides	in	PART-OF-I
+cheese	chemicals	in	PART-OF-I
+infants	symptoms	in	PART-OF-I
+plants	dietary fiber	in	PART-OF-I
+phytonutrient	loss	in	PART-OF-I
+cancer	survival	in	PART-OF-I
+men	disease	in	PART-OF-I
+cancer	mortality	in	PART-OF-I
+meat	fat	in	PART-OF-I
+poultry	cancer	in	PART-OF-I
+vegetables	cancer	without the	PART-OF-I
+diseases	risk	without the	PART-OF-I
+drug	side effects	without the	PART-OF-I
+vegetables	cancer risk	without the	PART-OF-I
+fruits	preservative	without the	PART-OF-I
+diet	plants	packed with	PART-OF-I
+vegetables	antioxidants	packed with	PART-OF-I
+dates	phytonutrients	have	PART-OF-I
+sea vegetables	phytonutrients	have	PART-OF-I
+plants	fiber	have	PART-OF-I
+plants	dna	have	PART-OF-I
+vegetables	antioxidants	have	PART-OF-I
+plants	nicotine	have	PART-OF-I
+animal foods	phosphorus	have	PART-OF-I
+spice	health benefits	has	PART-OF-I

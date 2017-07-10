@@ -101,3 +101,107 @@ dysfunction	free radicals	cause	CAUSED-BY
 cancer	cell phones	cause	CAUSED-BY
 inflammation	animal products	cause	CAUSED-BY
 depressive symptoms	inflammation	to trigger	CAUSED-BY
+strokes	arteries	to trigger	CAUSED-BY
+
+arsenic	cancers	caused by	CAUSE
+smoking	dna mutations	caused by	CAUSE
+meat	uric acid	caused by	CAUSE
+radiation	dna damage	caused by	CAUSE
+arsenic	skin cancer	caused by	CAUSE
+gluten	inflammation	caused by	CAUSE
+inflammation	pain	caused by	CAUSE
+cooking	carcinogens	caused by	CAUSE
+obesity	epidemic	caused by	CAUSE
+obesity	health	caused by	CAUSE
+cetuximab	irritation	caused by	CAUSE
+excess	fatty liver	caused by	CAUSE
+muscle	inflammation	caused by	CAUSE
+cooking meat	carcinogens	caused by	CAUSE
+excess	giantism	caused by	CAUSE
+aspartame	adverse effects	caused by	CAUSE
+hpv	tumor	caused by	CAUSE
+frying	smoke	caused by	CAUSE
+smoking	mutations	caused by	CAUSE
+free radicals	dna damage	caused by	CAUSE
+metabolism	oxidation	caused by	CAUSE
+muscle cell	inflammation	caused by	CAUSE
+cooked meat	breast cancer	caused by the	CAUSE
+crystallization	inflammatory arthritis	caused by the	CAUSE
+pesticide	oxidative stress	caused by the	CAUSE
+carcinogen	dna mutations	caused by the	CAUSE
+cadmium	production	caused by the	CAUSE
+cadmium exposure	production	caused by the	CAUSE
+mercury	brain damage	caused by the	CAUSE
+carcinogen	mutations	caused by the	CAUSE
+domesticated animal	inflammation	triggered by	CAUSE
+leprosy	amyloidosis	triggered by	CAUSE
+kangaroo meat	inflammation	triggered by	CAUSE
+dioxin	inflammation	triggered by	CAUSE
+breathing	asthma	triggered by	CAUSE
+carcinogens	cancer risk	due to	CAUSE
+obesity	non-alcoholic fatty liver disease	due to	CAUSE
+cholesterol	arteries	due to	CAUSE
+steam	oils	due to	CAUSE
+arachidonic acid	meat	due to	CAUSE
+carcinogens	risk	due to	CAUSE
+atherosclerosis	brain	due to	CAUSE
+broccoli	liver toxicity	due to	CAUSE
+genetic manipulation	chickens	due to	CAUSE
+vitamin	dementia	due to	CAUSE
+cholesterol	narrowed arteries	due to	CAUSE
+vitamin b12	dementia	due to	CAUSE
+phthalate	penis	due to	CAUSE
+noroviruses	fecal pathogens	due to	CAUSE
+chemical pollutants	premature puberty	due to	CAUSE
+dairy consumption	calcium intake	due to	CAUSE
+noroviruses	pathogens	due to	CAUSE
+vitamin a	meat	due to	CAUSE
+broccoli	toxicity	due to	CAUSE
+symptoms	gluten	due to	CAUSE
+manure	viruses	due to	CAUSE
+bacteria	coli exposure	due to	CAUSE
+seafood	reaction	due to	CAUSE
+ddt	meat	due to	CAUSE
+nutrient synergy	phytonutrients	due to	CAUSE
+tobacco	copd	is caused by	CAUSE
+inflammation	cartilage	is caused by	CAUSE
+strep	fever	is caused by	CAUSE
+short-chain fatty acids	ph	is caused by	CAUSE
+inflammation	pain	is caused by	CAUSE
+bacteria	plaque	is caused by	CAUSE
+insulin resistance	diabetes	is caused by	CAUSE
+
+milk	uric acid	caused	CAUSE
+coffee drinking	cancer	caused	CAUSE
+animal products	inflammation	caused	CAUSE
+muscles	cancer	caused	CAUSE
+coffee-drinking	cancer	caused	CAUSE
+cigarette smoking	lung cancer	causes	CAUSE
+inflammation	depression	causes	CAUSE
+milk intake	acne	causes	CAUSE
+lung cancer	smoking	causes	CAUSE
+liquid smoke	dna	causes	CAUSE
+blood	insulin resistance	causes	CAUSE
+animal foods	inflammation	causes	CAUSE
+saturated fat	dysfunction	causes	CAUSE
+sucralose	insulin resistance	causes	CAUSE
+sucralose	insulin	causes	CAUSE
+cigarette smoking	cancer	causes	CAUSE
+liquid smoke	dna mutations	causes	CAUSE
+who	guidelines	creates	CAUSE
+exercise	free radicals	creates	CAUSE
+fish	heterocyclic amines	creates	CAUSE
+milk	acne	cause	CAUSE
+carcinogens	dna mutations	cause	CAUSE
+dental x-rays	brain tumors	cause	CAUSE
+betel nuts	cancer	cause	CAUSE
+bacteria	plaque	cause	CAUSE
+hormones	dna mutations	cause	CAUSE
+meat	inflammation	cause	CAUSE
+air pollution	lung inflammation	cause	CAUSE
+carcinogens	dna	cause	CAUSE
+bacteria	infections	cause	CAUSE
+free radicals	dysfunction	cause	CAUSE
+cell phones	cancer	cause	CAUSE
+animal products	inflammation	cause	CAUSE
+inflammation	depressive symptoms	to trigger	CAUSE

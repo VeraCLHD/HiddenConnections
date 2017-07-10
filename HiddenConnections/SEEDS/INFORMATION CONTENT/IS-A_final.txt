@@ -1,4 +1,5 @@
 
+california	avocados	, including	IS-A
 disease	tremor	, including	IS-A
 radiation	radiation exposure	, including	IS-A
 meat	poultry	, including	IS-A
@@ -10,11 +11,13 @@ pregnancy	shorter cerebellums	, including	IS-A
 diseases	heart disease	, including	IS-A
 plant kingdom	fruits	, including	IS-A
 spices	cinnamon	, including	IS-A
+symptoms	chronic	, including	IS-A
 hormones	steroids	, including	IS-A
 illnesses	cancer	, including	IS-A
 pollutants	dioxins	, including	IS-A
 diseases	asthma	, including	IS-A
 cancers	breast	, including	IS-A
+diseases	coronary	, including	IS-A
 meat	beef	, including	IS-A
 symptoms	asthma	, including	IS-A
 atopic disease	asthma	, including	IS-A
@@ -37,7 +40,9 @@ preventing cancer	pancreatic cancer	, including	IS-A
 poultry	turkey	, including	IS-A
 fish	tuna	, including	IS-A
 meats	poultry	, including	IS-A
+artificial sweeteners	neurological	, including	IS-A
 pollutants	formaldehyde	, including	IS-A
+inflammation	inflammation	, including	IS-A
 cancer	prostate cancer	, including	IS-A
 plant-based diets	greens	, including	IS-A
 meat	pathogens	, including	IS-A
@@ -59,11 +64,13 @@ legumes	beans	, including	IS-A
 inflammation	bleeding	like	IS-A
 cured meats	bacon	like	IS-A
 phytonutrients	lutein	like	IS-A
+smelling	maple syrup	like	IS-A
 teas	hibiscus	like	IS-A
 animal foods	protein	like	IS-A
 plant-based diet	ornish	like	IS-A
 persistent organic pollutants	dioxins	like	IS-A
 plant proteins	beans	like	IS-A
+symptoms	chronic	like	IS-A
 drugs	midazolam	like	IS-A
 pollutants	dioxins	like	IS-A
 hormones	igf	like	IS-A
@@ -85,6 +92,7 @@ spices	turmeric	like	IS-A
 beverages	soda	like	IS-A
 pollutants	mercury	like	IS-A
 bacteria	campylobacter	like	IS-A
+smells	fenugreek	like	IS-A
 cruciferous vegetables	kale	like	IS-A
 oils	coconut oil	like	IS-A
 leading killers	diabetes	like	IS-A
@@ -153,6 +161,7 @@ cooked meat	phip	like	IS-A
 vegetables	apples	like	IS-A
 fats	nuts	like	IS-A
 fruit	apples	like	IS-A
+drugs	cholesterol-lowering	like	IS-A
 carbohydrates	rice	like	IS-A
 acids	vitamin c	like	IS-A
 cured meats	bologna	like	IS-A
@@ -172,6 +181,7 @@ spices	fenugreek	like	IS-A
 drug	premarin	like	IS-A
 recipe	mayo	like	IS-A
 anti-inflammatory drugs	ibuprofen	like	IS-A
+smells	mom	like	IS-A
 neurodegenerative diseases	als	like	IS-A
 chemicals	chlorhexidine	like	IS-A
 drugs	premarin	like	IS-A
@@ -235,6 +245,7 @@ legumes	lentils	like	IS-A
 perfluorochemicals	pcb	like	IS-A
 food poisoning	alfalfa sprouts	like	IS-A
 market	pancake	like	IS-A
+killers	coronary artery	like	IS-A
 plant foods	soy	like	IS-A
 drug	lipitor	like	IS-A
 whole grains	rye	like	IS-A
@@ -348,6 +359,7 @@ chronic diseases	diabetes	, such as	IS-A
 arthritis	rheumatoid arthritis	, such as	IS-A
 prebiotics	fiber	, such as	IS-A
 statins	lipitor	, such as	IS-A
+drugs	cholesterol-lowering	, such as	IS-A
 killers	heart disease	, such as	IS-A
 previous videos	kiwifruit	, such as	IS-A
 treatments	tamoxifen	, such as	IS-A
@@ -395,6 +407,7 @@ phytonutrients	lycopene	such as	IS-A
 cancers	breast	such as	IS-A
 videos	apples	such as	IS-A
 drugs	prozac	such as	IS-A
+diseases	coronary artery	such as	IS-A
 contaminants	antibiotic residues	such as	IS-A
 drugs	aspirin	such as	IS-A
 fat	nuts	such as	IS-A
@@ -459,6 +472,7 @@ industrial carcinogens	dioxins	such as	IS-A
 plant foods	beans	such as	IS-A
 fresh fruits	blueberries	such as	IS-A
 radiation	dental x-rays	such as	IS-A
+chronic diseases	coronary	such as	IS-A
 industrial pollutants	tuna	such as	IS-A
 dried fruits	currants	such as	IS-A
 cancers	skin cancer	such as	IS-A
@@ -470,6 +484,7 @@ diseases	alzheimer	such as	IS-A
 inflammatory bowel diseases	ulcerative colitis	such as	IS-A
 side effects	nausea	such as	IS-A
 diseases	hepatitis	such as	IS-A
+diseases	coronary	such as	IS-A
 sea vegetables	nori	such as	IS-A
 legumes	peanuts	such as	IS-A
 nanoparticles	titanium dioxide	such as	IS-A
@@ -508,6 +523,7 @@ pollutants	pcbs	such as	IS-A
 vegetables	beets	such as	IS-A
 bugs	salmonella	such as	IS-A
 meat	ham	such as	IS-A
+u.s	coronary	such as	IS-A
 antioxidants	curcumin	such as	IS-A
 fruits	blueberries	such as	IS-A
 herbs	goji berries	such as	IS-A
@@ -524,8 +540,10 @@ cancers	pancreatic cancer	such as	IS-A
 meat substitutes	veggie chicken	such as	IS-A
 beverages	fruit juice	such as	IS-A
 phytonutrients	lignans	such as	IS-A
+allow phytonutrients	lycopene	such as	IS-A
 spices	saffron	such as	IS-A
 
+low-fat	chicken	was a	IS-A
 risk	smoking	was a	IS-A
 risk factor	obesity	was a	IS-A
 risk	obesity	was a	IS-A
@@ -540,6 +558,7 @@ stars	berries	are the	IS-A
 carcinogens	nitrosamines	are the	IS-A
 chart	pecans	are the	IS-A
 fatter	infants	are	IS-A
+dying	japanese	are	IS-A
 bok choy	vegetables	are	IS-A
 cats	video	are	IS-A
 poultry	campylobacter	are	IS-A
@@ -558,17 +577,21 @@ chemical	organochlorines	are	IS-A
 vitamin d	americans	are	IS-A
 leaner	who	are	IS-A
 potato chips	vegetables	are	IS-A
+neurotoxic	chemicals	are	IS-A
 water	tomatoes	are	IS-A
 legumes	longevity	are	IS-A
 estrogen receptor	breast tumors	are	IS-A
 roots	rhubarb	are	IS-A
 flax seeds	omega	are	IS-A
+overweight	americans	are	IS-A
 fruits	pesticides	are	IS-A
 dying	women	are	IS-A
 fatty	chickens	are	IS-A
 fine	herbal teas	are	IS-A
 ballooning bulges	abdominal aortic aneurysms	are	IS-A
+smart	who	are	IS-A
 plant	antioxidants	are	IS-A
+mutagenic	meat carcinogens	are	IS-A
 fatty foods	video	are	IS-A
 fruit	beans	are	IS-A
 chemicals	birds	are	IS-A
@@ -577,15 +600,16 @@ poultry	salmonella	are	IS-A
 calcium	stones	are	IS-A
 fat soluble	greens	are	IS-A
 chemicals	xenoestrogens	are	IS-A
+overweight	who	are	IS-A
 bioequivalent	omega	are	IS-A
 exposures	drugs	are	IS-A
+smart	brown rice	are	IS-A
 muscles	milk	are	IS-A
 gluten	million americans	are	IS-A
 insulin	who	are	IS-A
 heartburn	symptoms	are	IS-A
 diseases	liver cancer	are	IS-A
 fat soluble	salad	are	IS-A
-muscles	kids	are	IS-A
 outpouchings	diverticula	are	IS-A
 suffering	odds	are	IS-A
 health-promoting	nuts	are	IS-A
@@ -597,20 +621,26 @@ fine	dietary guidelines	are	IS-A
 roots	peas	are	IS-A
 cute	floppy ears	are	IS-A
 eaten	fruits	are	IS-A
+overweight	meat	are	IS-A
+greens	greens	are	IS-A
 phytonutrient-rich	candy	are	IS-A
 multivitamins	videos	are	IS-A
 happier	who	are	IS-A
+overweight	vegetarians	are	IS-A
 acidic	citrus fruits	are	IS-A
 plant foods	nuts	are	IS-A
 doing	rays	are	IS-A
+overweight	kids	are	IS-A
 doing	journalists	are	IS-A
 breast fed	babies	are	IS-A
+overweight	flexitarians	are	IS-A
 flax seeds	breast cancer survival	are	IS-A
 fruit	snacks	are	IS-A
 supplement	supplements	are	IS-A
 goji berries	video	are	IS-A
 pecans	healthiest nuts	are	IS-A
 cheese	saturated fat	are	IS-A
+overweight	overweight	are	IS-A
 roots	fruits	are	IS-A
 preservatives	nitrites	are	IS-A
 fat soluble	phytonutrients	are	IS-A
@@ -618,65 +648,71 @@ low-calorie diets	plant-based diets	are	IS-A
 beta	plant-based diets	are	IS-A
 plant	cherries	are a	IS-A
 billion dollar	tomatoes	are a	IS-A
+group	flavonoids	are a	IS-A
 multibillion	dietary supplements	are a	IS-A
 health-promoting	sweet potatoes	are a	IS-A
 legume	chickpeas	are a	IS-A
 legume	bean	are a	IS-A
 legume	garbanzo bean	are a	IS-A
-disease	gluten sensitivity	is a	IS-A
 chemical	putrescine	is a	IS-A
 steroid	estrogen	is a	IS-A
 heart-healthy	diet	is a	IS-A
 diet	mediterranean diet	is a	IS-A
 syndrome	myelopathy	is a	IS-A
 choice	heart disease	is a	IS-A
-disease	aging	is a	IS-A
-fiber	diverticulosis	is a	IS-A
-bit	supplements	is a	IS-A
+chronic inflammatory	ibd	is a	IS-A
+group	amyloidosis	is a	IS-A
 disease	diverticulosis	is a	IS-A
 chemical	acrylamide	is a	IS-A
-diet high	mediterranean diet	is a	IS-A
 nontoxic	erythritol	is a	IS-A
 product	balsamic vinegar	is a	IS-A
 milk	galactose	is a	IS-A
 risk factor	exercise	is a	IS-A
-hormone	melatonin	is a	IS-A
-carotenoid	lutein	is a	IS-A
-stress hormone	cortisol	is a	IS-A
+neurotoxic chemical	acrylamide	is a	IS-A
 risk factor	depression	is a	IS-A
 carotenoid phytonutrient	lutein	is a	IS-A
-baby	streak	is a	IS-A
-mycotoxin	patulin	is a	IS-A
-milk protein	casein	is a	IS-A
 toxin	lead	is a	IS-A
-tumor suppressor gene	maspin	is a	IS-A
-risk factor	diabetes	is a	IS-A
 pesticide	bt corn	is a	IS-A
-disease	multiple sclerosis	is a	IS-A
 degenerative joint	osteoarthritis	is a	IS-A
 vegan diet	children	is a	IS-A
 risk factor	poultry	is a	IS-A
 bacteria	campylobacter	is a	IS-A
+chronic	irritable bowel syndrome	is a	IS-A
 disease	prediabetes	is a	IS-A
-pro-oxidant	iron	is a	IS-A
-diet	breastfed infants	is a	IS-A
-nightshade	tobacco	is a	IS-A
-vitamin c	scurvy	is a	IS-A
 practitioner pioneer	caldwell esselstyn	is a	IS-A
 disease	atherosclerosis	is a	IS-A
-growth hormone	igf-1	is a	IS-A
 defense	salicylic acid	is a	IS-A
 product	vinegar	is a	IS-A
-stress	exercise	is a	IS-A
 trigger	milk	is a	IS-A
 poison	fluoride	is a	IS-A
-gmo	gmo soy	is	IS-A
+disease	gluten sensitivity	is a	IS-A
+disease	aging	is a	IS-A
+fiber	diverticulosis	is a	IS-A
+bit	supplements	is a	IS-A
+diet high	mediterranean diet	is a	IS-A
+hormone	melatonin	is a	IS-A
+carotenoid	lutein	is a	IS-A
+stress hormone	cortisol	is a	IS-A
+chronic inflammatory	asthma	is a	IS-A
+baby	streak	is a	IS-A
+mycotoxin	patulin	is a	IS-A
+milk protein	casein	is a	IS-A
+tumor suppressor gene	maspin	is a	IS-A
+risk factor	diabetes	is a	IS-A
+disease	multiple sclerosis	is a	IS-A
+pro-oxidant	iron	is a	IS-A
+diet	breastfed infants	is a	IS-A
+neurotoxic	acrylamide	is a	IS-A
+nightshade	tobacco	is a	IS-A
+vitamin c	scurvy	is a	IS-A
+growth hormone	igf-1	is a	IS-A
+stress	exercise	is a	IS-A
+chronic	atherosclerosis	is a	IS-A
+chronic	rheumatoid arthritis	is a	IS-A
 meat consumption	neurotoxin	is	IS-A
-junk	calorie	is	IS-A
 nitrate	beet juice	is	IS-A
 vegetarian	daily diet	is	IS-A
 beef	saturated fat	is	IS-A
-suffering	taking statins	is	IS-A
 sodium bicarbonate	baking soda	is	IS-A
 cancer	lymphoma	is	IS-A
 fine	tea	is	IS-A
@@ -685,70 +721,93 @@ meat	american diet	is	IS-A
 dairy products	american diet	is	IS-A
 heart disease	diseases	is	IS-A
 parkinson	leading killer	is	IS-A
-bmaa	neurotoxins	is	IS-A
 fat	brain	is	IS-A
 fish oil	supplements	is	IS-A
-beating	heart	is	IS-A
-pizza	teens	is	IS-A
+fruit	fruit	is	IS-A
 vitamin d	video	is	IS-A
 aspirin	drug	is	IS-A
 breastmilk	infants	is	IS-A
-butyrate	signal	is	IS-A
-mineral	nettle tea	is	IS-A
 tea	drink	is	IS-A
 eaten	bone	is	IS-A
-gluten	video	is	IS-A
 matcha	tea	is	IS-A
-dandelion	antioxidants	is	IS-A
-sodium intake	mediterranean diet	is	IS-A
 skim milk	milk	is	IS-A
-pritikin	who	is	IS-A
-vitamin d	mushrooms	is	IS-A
 insulin-like growth	cancer	is	IS-A
 boiling	antioxidants	is	IS-A
-fiber	fruit juice	is	IS-A
-eaten	children	is	IS-A
-beans	tea	is	IS-A
 pork	ham	is	IS-A
 butyrate	colon	is	IS-A
 milk	video	is	IS-A
-hen	infection	is	IS-A
 monsanto	video	is	IS-A
 diet	nutrition	is	IS-A
-cataracts	vision loss	is	IS-A
-vegetables	diet	is	IS-A
-protein	video	is	IS-A
 pain	colic	is	IS-A
-fish oil	video	is	IS-A
 fish consumption	salmon	is	IS-A
 acid producing	diet	is	IS-A
 bell peppers	vegetable	is	IS-A
 choline	death	is	IS-A
 igf	signal	is	IS-A
 fine	fruit	is	IS-A
-acidic	urine	is	IS-A
 doing	standard american diet	is	IS-A
 apple juice	flight	is	IS-A
-hibiscus	herbal tea	is	IS-A
-back pain	sciatica	is	IS-A
 protein	plant protein	is	IS-A
 homeopathy	video	is	IS-A
 fish consumption	pcbs	is	IS-A
-bacteria	dental plaque	is	IS-A
 fructose	table sugar	is	IS-A
+potassium	fiber	is	IS-A
+exercise	disease	is	IS-A
+poisonous	star anise	is	IS-A
+lying	label	is	IS-A
+thrown	fiber	is	IS-A
+shaken	soymilk	is	IS-A
+diet	disability	is	IS-A
+gmo	gmo soy	is	IS-A
+zero	trans fat	is	IS-A
+junk	calorie	is	IS-A
+fuji	fuji	is	IS-A
+suffering	taking statins	is	IS-A
+bmaa	neurotoxins	is	IS-A
+beating	heart	is	IS-A
+hydroponic basil	video	is	IS-A
+pizza	teens	is	IS-A
+butyrate	signal	is	IS-A
+mineral	nettle tea	is	IS-A
+home	california	is	IS-A
+zero	trans fats	is	IS-A
+sensitive	breast cancer	is	IS-A
+zero	adequate intake	is	IS-A
+gluten	video	is	IS-A
+dandelion	antioxidants	is	IS-A
+sour	hibiscus tea	is	IS-A
+zero	fat intake	is	IS-A
+sodium intake	mediterranean diet	is	IS-A
+pritikin	who	is	IS-A
+who	who	is	IS-A
+vitamin d	mushrooms	is	IS-A
+fiber	fruit juice	is	IS-A
+eaten	children	is	IS-A
+beans	tea	is	IS-A
+hen	infection	is	IS-A
+broccoli	broccoli	is	IS-A
+cataracts	vision loss	is	IS-A
+vegetables	diet	is	IS-A
+protein	video	is	IS-A
+fish oil	video	is	IS-A
+overweight	u.s	is	IS-A
+carcinogenic	carcinogenic	is	IS-A
+acidic	urine	is	IS-A
+hibiscus	herbal tea	is	IS-A
+back pain	sciatica	is	IS-A
+treated	depression	is	IS-A
+bacteria	dental plaque	is	IS-A
 fine	gluten	is	IS-A
 noni juice	videos	is	IS-A
 beans	coffee	is	IS-A
 bell peppers	raw	is	IS-A
-potassium	fiber	is	IS-A
 heart disease	women	is	IS-A
-exercise	disease	is	IS-A
+diabetes	diabetes	is	IS-A
 rose hips	osteoarthritis	is	IS-A
-lying	label	is	IS-A
 gluten sensitivity	video	is	IS-A
+treated	anxiety	is	IS-A
 medicine	exercise	is	IS-A
 turmeric	culture	is	IS-A
-diet	disability	is	IS-A
 lifestyle medicine	specialty	is	IS-A
 proxy	animal protein	is just a	IS-A
 symptom	high blood pressure	is just a	IS-A

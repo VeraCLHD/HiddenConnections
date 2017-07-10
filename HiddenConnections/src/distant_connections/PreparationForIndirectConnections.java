@@ -24,7 +24,6 @@ import terms_processing.TermClusterer;
 
 public class PreparationForIndirectConnections {
 	private static final String DISTANT_CONNECTIONS_FINAL_INPUT = "distant connections/ALL_RELATIONS_WITH_RELEVANT_INFO.txt";
-	private static final String DISTANT_CONNECTIONS_FINAL_INPUT2 = "distant connections/ALL_RELATIONS_WITH_RELEVANT_INFO_SHORT.txt";
 	// here, the too general connections are already filtered
 	private static final String DISTANT_CONNECTIONS_FILTERED = "distant connections/ALL_RELATIONS_FINAL.txt";
 	private static final String DISTANT_CONNECTIONS_TOO_GENERAL_RELATIONS_TXT = "distant connections/too_general_relations.txt";
@@ -60,7 +59,6 @@ public class PreparationForIndirectConnections {
 				String first = splitted[0];
 				String second = splitted[1];
 				String third = splitted[2];
-				String forth = splitted[3];
 				// S stands for "switched"
 				newLine += second + "\t" + first + "\t" + third + "\t" + type1;// + "-S";
 				Writer.appendLineToFile(newLine, filename_type2_inverted);
@@ -107,6 +105,105 @@ public class PreparationForIndirectConnections {
 		
 		finalFiles.add("SEEDS/EFFECT/" + "all_instances_and_patterns_EFFECT.txt");
 		finalFiles.add("SEEDS/LINKED-TO/" + "all_instances_and_patterns_LINKED-TO.txt");
+		String[] filesArray = new String[finalFiles.size()];
+		filesArray = finalFiles.toArray(filesArray);
+		
+		
+		Writer.concatenateFiles(filesArray, outfilename);
+	}
+	
+	
+	public void prepareInstancesDirectedPair(String type1, String type2){
+		String filename_type1 = "SEEDS/" + type1 +"/all_instances_and_patterns_" + type1 + ".txt";
+		String filename_type2 = "SEEDS/" + type2 +"/all_instances_and_patterns_" + type2 + ".txt";
+		
+		String filename_type1_inverted = "SEEDS/" + type1 +"/all_instances_and_patterns_" + type1 + "_inverted.txt";
+		String filename_type2_inverted = "SEEDS/" + type2 +"/all_instances_and_patterns_" + type2 + "_inverted.txt";
+		Writer.overwriteFile("", filename_type2_inverted);
+		Writer.overwriteFile("", filename_type1_inverted);
+		
+		List<String> lines2 = Reader.readLinesList(filename_type2);
+		for(String line: lines2){
+			if(!line.isEmpty()){
+				String newLine = "";
+				String[] splitted = line.split("\t");
+				String first = splitted[0];
+				String second = splitted[1];
+				String third = splitted[2];
+				// S stands for "switched"
+				newLine += second + "\t" + first + "\t" + third + "\t" + type1;// + "-S";
+				Writer.appendLineToFile(newLine, filename_type2_inverted);
+			}
+		}
+		
+		List<String> lines1 = Reader.readLinesList(filename_type1);
+		for(String line: lines1){
+			if(!line.isEmpty()){
+				String newLine = "";
+				String[] splitted = line.split("\t");
+				String first = splitted[0];
+				String second = splitted[1];
+				String third = splitted[2];
+				// S stands for "switched"
+				newLine += second + "\t" + first + "\t" + third + "\t" + type2;// + "-S";
+				Writer.appendLineToFile(newLine, filename_type1_inverted);
+			}
+		}
+		
+		String[] filenames = {filename_type1,filename_type2_inverted, filename_type1_inverted, filename_type2};
+		Writer.concatenateFiles(filenames, "SEEDS/CONCATENATED/" + type1 + "-" + type2 +"_final.txt");
+	}
+	
+	public void prepareInstancesDirectedSingle(String type1){
+		String filename_type1 = "SEEDS/" + type1 +"/all_instances_and_patterns_" + type1 + ".txt";
+		String filename_type1_inverted = "SEEDS/" + type1 +"/all_instances_and_patterns_" + type1 + "_inverted.txt";
+		Writer.overwriteFile("", filename_type1_inverted);
+		
+		
+		List<String> lines1 = Reader.readLinesList(filename_type1);
+		for(String line: lines1){
+			if(!line.isEmpty()){
+				String newLine = "";
+				String[] splitted = line.split("\t");
+				String first = splitted[0];
+				String second = splitted[1];
+				String third = splitted[2];
+				// S stands for "switched"
+				newLine += second + "\t" + first + "\t" + third + "\t" +type1+ "-I";// + "-S";
+				Writer.appendLineToFile(newLine, filename_type1_inverted);
+			}
+		}
+		
+		String[] filenames = {filename_type1, filename_type1_inverted};
+		Writer.concatenateFiles(filenames, "SEEDS/CONCATENATED/" + type1  + "_final.txt");
+	}
+	
+	public void rewriteResultsDirected() {
+		// Direction schema: this schema is going to be used even if the pattern reads the other way around
+		//G in P (contained term at the beginning) PART-OF
+		//P such as X, (more general term at the beginning) IS-A
+		//X triggered by Y CAUSED-BY
+		String outfilename = "SEEDS/CONCATENATED/" + "ALL_RELATIONS_FINAL.txt";
+		Writer.overwriteFile("", outfilename);
+		Writer.overwriteFile("", "SEEDS/CONCATENATED/" + "CAUSED-BY-CAUSE" + "_final.txt");
+		Writer.overwriteFile("", "SEEDS/CONCATENATED/" + "IS-A-HYPERNYMY" + "_final.txt");
+		Writer.overwriteFile("", "SEEDS/CONCATENATED/" + "PART-OF-PART-OF-I" + "_final.txt");
+		Writer.overwriteFile("", "SEEDS/CONCATENATED/" + "EFFECT" + "_final.txt");
+		Writer.overwriteFile("", "SEEDS/CONCATENATED/" + "LINKED-TO" + "_final.txt");
+		this.prepareInstancesDirectedPair("IS-A", "HYPERNYMY");
+		this.prepareInstancesDirectedPair("CAUSED-BY", "CAUSE");
+		this.prepareInstancesDirectedPair("PART-OF", "PART-OF-I");
+		this.prepareInstancesDirectedSingle("EFFECT");
+		this.prepareInstancesDirectedSingle("LINKED-TO");
+		List<String> finalFiles = new ArrayList<String>();
+		
+		
+		File concatenated = new File("SEEDS/CONCATENATED/");
+		File[] listFiles = concatenated.listFiles();
+		for(File file: listFiles){
+			finalFiles.add(file.getAbsolutePath());
+		}
+		
 		String[] filesArray = new String[finalFiles.size()];
 		filesArray = finalFiles.toArray(filesArray);
 		
@@ -269,7 +366,7 @@ public class PreparationForIndirectConnections {
 	
 	public static void main(String[] args) throws MalformedURLException, IOException {
 		PreparationForIndirectConnections prep = new PreparationForIndirectConnections();
-		prep.rewriteResultsInSameDirection();
+		prep.rewriteResultsDirected();
 		
 		InformationContent ic = new InformationContent();
 		ic.computeInformationContent();

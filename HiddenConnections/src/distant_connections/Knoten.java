@@ -14,7 +14,7 @@ import io.Writer;
 public class Knoten {
 	private static final String OUTPUT_OF_PROJECT = "distant connections/FINAL.txt";
 	private static String pathToClusteredTerms = "terms/all_terms_and_variants_with10_filtered_clustered.txt";
-	private static final String DISTANT_CONNECTIONS_FINAL_INPUT = "distant connections/ALL_RELATIONS_WITH_RELEVANT_INFO_FINAL.txt";
+	private static final String DISTANT_CONNECTIONS_FINAL_INPUT = "distant connections/ALL_RELATIONS_WITH_RELEVANT_INFO.txt";
 	String name;
 	String type;
 	HashMap<Kante,Knoten> neighbours = new HashMap<Kante,Knoten>();
@@ -43,7 +43,7 @@ public class Knoten {
 	public void setNeighbour(String kantentyp, Knoten knoten){
 		Kante kante = new Kante(kantentyp);
 		neighbours.put(kante, knoten);
-		knoten.neighbours.put(kante, this);
+		// ungerichtet: knoten.neighbours.put(kante, this);
 	}
 	
 	public ArrayList<String> BFS(int depth){
