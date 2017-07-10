@@ -1,7 +1,6 @@
 
 cartilage	inflammation
 inflammatory arthritis	crystallization
-production	estrogen
 fever	strep
 narrowed arteries	cholesterol
 dna mutations	carcinogen
@@ -16,8 +15,9 @@ tumor	hpv
 coli exposure	bacteria
 reaction	seafood
 smoke	frying
-carcinogenic	heterocyclic
+asthma	breathing
 cancer risk	carcinogens
+inflammation	kangaroo meat
 brain	atherosclerosis
 liver toxicity	broccoli
 dementia	vitamin
@@ -26,3 +26,4 @@ fecal pathogens	noroviruses
 dna mutations	smoking
 oxidative stress	pesticide
 epidemic	obesity
+meat	ddt

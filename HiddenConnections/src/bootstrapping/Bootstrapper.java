@@ -38,6 +38,9 @@ import overall.Pair;
 
 public class Bootstrapper {
 	
+	private static final double MIN_SCORE_FOR_PATTERN = 0.01;
+
+
 	private String SEED_CONNECTIONS_TXT;
 	
 
@@ -99,13 +102,13 @@ public class Bootstrapper {
 		
 		Bootstrapper.readAllTerms();
 		List<String> types = new ArrayList<String>();
-		types.add("EFFECT");
-		types.add("CAUSED-BY");
-		types.add("CAUSE");
-		types.add("IS-A");
-		types.add("HYPERNYMY");
 		types.add("PART-OF");
 		types.add("PART-OF-I");
+		types.add("IS-A");
+		types.add("HYPERNYMY");
+		types.add("CAUSED-BY");
+		types.add("CAUSE");
+		types.add("EFFECT");
 		types.add("LINKED-TO");
 
 		for(String type: types){
@@ -255,6 +258,7 @@ public class Bootstrapper {
 		}
 		
 		for(String pattern_to_rate: this.getPatternsToRate().keySet()){
+			// how many unique patterns are there
 			Double numberOfInstAllPatterns = (double) this.getPatternsToRate().values().size();
 			Double numberOfInstPattern_I = (double) this.getPatternsToRate().get(pattern_to_rate).size();
 			Double score = (numberOfInstPattern_I/numberOfInstAllPatterns)* (Math.log(numberOfInstPattern_I) / Math.log(2));
@@ -272,7 +276,7 @@ public class Bootstrapper {
 			String patternToAdd = entry.getKey();
 			// manually excluded pattern "the" -> relvant for PART-OF
 			Double score = entry.getValue();
-			if(top5.contains(score) && score > 0.05 && !patternToAdd.equals("the")){
+			if(top5.contains(score) /*&& score >= MIN_SCORE_FOR_PATTERN*/ && !patternToAdd.equals("the")){
 				// add pattern because score is high
 				this.patterns.add(patternToAdd);
 				// add instances for this pattern

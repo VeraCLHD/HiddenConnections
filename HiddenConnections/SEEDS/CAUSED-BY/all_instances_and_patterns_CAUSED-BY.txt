@@ -29,7 +29,11 @@ production	cadmium	caused by the	CAUSED-BY
 production	cadmium exposure	caused by the	CAUSED-BY
 brain damage	mercury	caused by the	CAUSED-BY
 mutations	carcinogen	caused by the	CAUSED-BY
-carcinogenic	heterocyclic	due to	CAUSED-BY
+inflammation	domesticated animal	triggered by	CAUSED-BY
+amyloidosis	leprosy	triggered by	CAUSED-BY
+inflammation	kangaroo meat	triggered by	CAUSED-BY
+inflammation	dioxin	triggered by	CAUSED-BY
+asthma	breathing	triggered by	CAUSED-BY
 cancer risk	carcinogens	due to	CAUSED-BY
 non-alcoholic fatty liver disease	obesity	due to	CAUSED-BY
 arteries	cholesterol	due to	CAUSED-BY
@@ -53,6 +57,7 @@ gluten	symptoms	due to	CAUSED-BY
 viruses	manure	due to	CAUSED-BY
 coli exposure	bacteria	due to	CAUSED-BY
 reaction	seafood	due to	CAUSED-BY
+meat	ddt	due to	CAUSED-BY
 phytonutrients	nutrient synergy	due to	CAUSED-BY
 copd	tobacco	is caused by	CAUSED-BY
 cartilage	inflammation	is caused by	CAUSED-BY
@@ -61,6 +66,3 @@ ph	short-chain fatty acids	is caused by	CAUSED-BY
 pain	inflammation	is caused by	CAUSED-BY
 plaque	bacteria	is caused by	CAUSED-BY
 diabetes	insulin resistance	is caused by	CAUSED-BY
-oxidant stress	antioxidant	due to the	CAUSED-BY
-production	estrogen	due to the	CAUSED-BY
-fish	food poisoning	due to the	CAUSED-BY

@@ -35,7 +35,6 @@ meat	meal	-containing	PART-OF
 aluminum	antiperspirants	-containing	PART-OF
 prostate cancer	prostate	— but that’s better than dying from	PART-OF
 cancer	prostate cancer	— but that’s better than dying from	PART-OF
-prostate cancer	prostate cancer	— but that’s better than dying from	PART-OF
 cancer	prostate	— but that’s better than dying from	PART-OF
 industrial pollutants	fish oil	—possibly found in animal products such as	PART-OF
 industrial pollutants	fish	—possibly found in animal products such as	PART-OF
@@ -43,14 +42,12 @@ pollutants	fish	—possibly found in animal products such as	PART-OF
 pollutants	fish oil	—possibly found in animal products such as	PART-OF
 prostate cancer	prostate	, but that’s better than dying from	PART-OF
 cancer	prostate cancer	, but that’s better than dying from	PART-OF
-prostate cancer	prostate cancer	, but that’s better than dying from	PART-OF
 cancer	prostate	, but that’s better than dying from	PART-OF
 grapes	red wine	in	PART-OF
 death	kidney	in	PART-OF
 fortification	meat	in	PART-OF
 boost	disease activity	in	PART-OF
 phytoestrogen	beer	in	PART-OF
-billions	billions	in	PART-OF
 chemicals	poultry meat	in	PART-OF
 phytonutrients	plant foods	in	PART-OF
 infections	baby	in	PART-OF
@@ -66,10 +63,8 @@ boost	calcium absorption	in	PART-OF
 popcorn lung	workers	in	PART-OF
 detoxifying enzymes	gut	in	PART-OF
 fertility	women	in	PART-OF
-ban	california	in	PART-OF
 sexual dysfunction	women	in	PART-OF
 spike	insulin	in	PART-OF
-phytonutrients	sedentary	in	PART-OF
 carb diets	atkins diet	in	PART-OF
 diseases	foie gras	in	PART-OF
 penis size	infant	in	PART-OF
@@ -79,7 +74,6 @@ peppermint	antioxidants	in	PART-OF
 vitamin	greens	in	PART-OF
 chart	trans fat	in	PART-OF
 viruses	chicken meat	in	PART-OF
-primates	primates	in	PART-OF
 treatment	diabetes	in	PART-OF
 amyloid beta	alzheimer	in	PART-OF
 hesperidin	citrus	in	PART-OF
@@ -98,7 +92,6 @@ diseases	chickens	in	PART-OF
 arteries	blood clotting	in	PART-OF
 carcinogens	cooked meat	in	PART-OF
 breast development	girls	in	PART-OF
-boost	detoxifying enzymes	in	PART-OF
 milk	girls	in	PART-OF
 eczema	children	in	PART-OF
 blue-green algae	seafood	in	PART-OF
@@ -134,13 +127,9 @@ asian diets	plant foods	in	PART-OF
 steroids	cheese	in	PART-OF
 good bacteria	videos	in	PART-OF
 fruit	childhood	in	PART-OF
-poultry	poultry	in	PART-OF
 cancer viruses	poultry workers	in	PART-OF
-nutritionfacts.org	nutritionfacts.org	in	PART-OF
-campylobacter bacteria	chicken exudates	in	PART-OF
 carcinogens	chicken	in	PART-OF
 sodium	fruits	in	PART-OF
-fiber	fiber	in	PART-OF
 drug	turmeric	in	PART-OF
 endotoxins	raw	in	PART-OF
 vegetables	cancer prevention	in	PART-OF
@@ -153,7 +142,6 @@ eating eggs	egg consumption	in	PART-OF
 yellow pigment	turmeric	in	PART-OF
 fructose	sugar	in	PART-OF
 diet	adolescence	in	PART-OF
-heart attacks	overweight	in	PART-OF
 mercury	corn syrup	in	PART-OF
 phytonutrient	kiwis	in	PART-OF
 mucosa	man	in	PART-OF
@@ -161,7 +149,6 @@ adhd symptoms	children	in	PART-OF
 dna mutations	bacteria	in	PART-OF
 phytate	vegetarian diets	in	PART-OF
 active ingredient	marijuana	in	PART-OF
-asia	asia	in	PART-OF
 cholesterol	meat	in	PART-OF
 prevention	poultry	in	PART-OF
 antibiotics	chicken	in	PART-OF
@@ -177,7 +164,6 @@ reduced symptoms	fibromyalgia patients	in	PART-OF
 book	american	in	PART-OF
 anthocyanins	yellow	in	PART-OF
 nitrosamines	secondhand	in	PART-OF
-lead	california	in	PART-OF
 alcohol	saliva	in	PART-OF
 ham	meat science	in	PART-OF
 antibodies	children	in	PART-OF
@@ -202,10 +188,10 @@ parasite	pork	in	PART-OF
 dynasty	chinese	in	PART-OF
 intake	pregnancy	in	PART-OF
 uc	remission	in	PART-OF
-disease	california	in	PART-OF
 dairy	acne	in	PART-OF
 death	rheumatoid arthritis	in	PART-OF
 nutrition	medical education	in	PART-OF
+campylobacter bacteria	chicken	in	PART-OF
 dha	fish	in	PART-OF
 spike	blood pressure	in	PART-OF
 carcinogens	retail	in	PART-OF
@@ -220,10 +206,8 @@ nitrates	celery	in	PART-OF
 spices	antioxidants	in	PART-OF
 phytonutrient	broccoli	in	PART-OF
 glycotoxins	meat	in	PART-OF
-anisakis	allergenic	in	PART-OF
 prediabetes	children	in	PART-OF
 leucine	protein	in	PART-OF
-breathe	oxygen	in	PART-OF
 phytonutrients	grapes	in	PART-OF
 muscle tissues	poultry	in	PART-OF
 industrial pollutants	vegans	in	PART-OF
@@ -231,7 +215,6 @@ oxalates	turmeric	in	PART-OF
 antibodies	crohn's disease	in	PART-OF
 play	cancer rates	in	PART-OF
 pesticides	children	in	PART-OF
-aluminum	dented	in	PART-OF
 isoflavones	soy	in	PART-OF
 sitting	raw broccoli	in	PART-OF
 reductionism	nutrition research	in	PART-OF
@@ -261,6 +244,7 @@ polychlorinated naphthalenes	fat	in	PART-OF
 boost	feelings	in	PART-OF
 survival	cancer patients	in	PART-OF
 cavities	kids	in	PART-OF
+dha	scurvy	in	PART-OF
 sodium	dietary guidelines	in	PART-OF
 industrial pollutants	fish	in	PART-OF
 casomorphin	cow	in	PART-OF
@@ -269,7 +253,6 @@ pollutants	meat	in	PART-OF
 eaters	wisconsin	in	PART-OF
 apples	smoothie	in	PART-OF
 phytonutrients	beet juice	in	PART-OF
-sensitive	picking	in	PART-OF
 play	disease	in	PART-OF
 plant foods	cancer	in	PART-OF
 lycopene	tomatoes	in	PART-OF
@@ -285,7 +268,6 @@ chain omega-3s	fish oil	in	PART-OF
 gluten	medical journals	in	PART-OF
 mercury	excess	in	PART-OF
 salmonella	eggs	in	PART-OF
-athletes	athletes	in	PART-OF
 lead	triphala	in	PART-OF
 cancer-causing herpesvirus	poultry	in	PART-OF
 anabolic steroids	farm	in	PART-OF
@@ -334,17 +316,13 @@ benzene	drinking water	in	PART-OF
 omega-3s	fish	in	PART-OF
 bump	breathing	in	PART-OF
 acrylamide	drinking water	in	PART-OF
-cancer	carcinogenic	in	PART-OF
 boost	antioxidant	in	PART-OF
 phosphate additives	meat	in	PART-OF
 dioxins	dairy products	in	PART-OF
-leucine	leucine	in	PART-OF
 oxalates	cinnamon	in	PART-OF
 muscle damage	statin	in	PART-OF
 allergies	adulthood	in	PART-OF
 reproductive health	men	in	PART-OF
-cholesterol	atherosclerotic plaques	in	PART-OF
-health	health	in	PART-OF
 doses	peoria	in	PART-OF
 steroids	fish	in	PART-OF
 dioxins	cigarette smoke	in	PART-OF
@@ -370,11 +348,9 @@ pcbs	children	in	PART-OF
 e. coli	beef	in	PART-OF
 plant	ayurvedic medicine	in	PART-OF
 insulin sensitivity	glucose	in	PART-OF
-adventist vegetarians	california	in	PART-OF
 methylmercury	seafood	in	PART-OF
 loss	intelligence	in	PART-OF
 rays	sunlight	in	PART-OF
-mad cow disease	california	in	PART-OF
 radioactive polonium	cigarettes	in	PART-OF
 spike	antioxidant activity	in	PART-OF
 cognitive dysfunction	alzheimer	in	PART-OF
@@ -389,14 +365,11 @@ neurotoxic chemicals	dairy	in	PART-OF
 meat carcinogens	chicken	in	PART-OF
 allergic reactions	chicken	in	PART-OF
 phosphorous	kidney failure	in	PART-OF
-eaters	california	in	PART-OF
-zero	scurvy rates	in	PART-OF
 alcohol	breast cancer	in	PART-OF
 fat	nuts	in	PART-OF
 vinegar	pill	in	PART-OF
 cancer	stool size	in	PART-OF
 iron	beef	in	PART-OF
-diabetics	diabetics	in	PART-OF
 contamination	chicken	in	PART-OF
 plaque	smokers	in	PART-OF
 fiber	whole grains	in	PART-OF
@@ -411,7 +384,6 @@ spike	blood	in	PART-OF
 bmaa	alzheimer	in	PART-OF
 no fiber	junk food	in	PART-OF
 play	turmeric	in	PART-OF
-zero	scurvy	in	PART-OF
 diabetes	estrogen	in	PART-OF
 dairy	survival	in	PART-OF
 survival	plant	in	PART-OF
@@ -463,12 +435,11 @@ boost	defenses	in	PART-OF
 preservatives	chicken	in	PART-OF
 acne	teenage	in	PART-OF
 drugs	chicken	in	PART-OF
+graph	stevia	in	PART-OF
 cancers	chickens	in	PART-OF
-prostate cancer	prostate cancer	in	PART-OF
 bmaa	control	in	PART-OF
 isoflavones	soy foods	in	PART-OF
 phytonutrients	plant	in	PART-OF
-angina attacks	angina attacks	in	PART-OF
 phytonutrients	tea	in	PART-OF
 flaxseeds	burgers	in	PART-OF
 ascorbic acid	soda	in	PART-OF
@@ -491,7 +462,6 @@ leading killer	pesticide	in	PART-OF
 growth promoters	meat	in	PART-OF
 heme iron	chicken	in	PART-OF
 tofu	indonesia	in	PART-OF
-spin	spin	in	PART-OF
 herbs	cardiovascular disease	in	PART-OF
 mortality	vitamin	in	PART-OF
 placebo	boosting	in	PART-OF
@@ -512,7 +482,6 @@ drinking	life	in	PART-OF
 pollutants	seafood	in	PART-OF
 carcinogenic nitrosamines	bacon	in	PART-OF
 carbohydrates	mood	in	PART-OF
-bill	california	in	PART-OF
 early-onset puberty	girls	in	PART-OF
 play	aging	in	PART-OF
 skin cancer	childhood	in	PART-OF
@@ -531,7 +500,6 @@ protein	plant foods	in	PART-OF
 bovine casomorphin	milk	in	PART-OF
 production	vessels	in	PART-OF
 xenoestrogens	health	in	PART-OF
-average age	cholesterol-lowering	in	PART-OF
 hormones	beef	in	PART-OF
 aspirin	plants	in	PART-OF
 muscle	death	in	PART-OF
@@ -541,7 +509,6 @@ antioxidants	plants	in	PART-OF
 bump	cancer risk	in	PART-OF
 infection	pork	in	PART-OF
 steroid	women	in	PART-OF
-risk	risk	in	PART-OF
 hormones	pills	in	PART-OF
 contaminants	chicken products	in	PART-OF
 omega	fish	in	PART-OF
@@ -561,7 +528,6 @@ vegetables	ability	in	PART-OF
 mercury	triphala	in	PART-OF
 leukemia	men	in	PART-OF
 cancers	meat	in	PART-OF
-breast cancer	asia	in	PART-OF
 nitrates	plants	in	PART-OF
 heme iron	animal products	in	PART-OF
 calcium	dairy	in	PART-OF
@@ -572,9 +538,7 @@ tangeretin	apples	in	PART-OF
 protein	cow	in	PART-OF
 meat glue	salmon	in	PART-OF
 antioxidants	plant	in	PART-OF
-remission	remission	in	PART-OF
 fish	fecal contamination	in	PART-OF
-broccoli phytonutrients	broccoli phytonutrients	in	PART-OF
 findings	lavender	in	PART-OF
 cancer cells	chicken	in	PART-OF
 mutations	bacteria	in	PART-OF
@@ -593,7 +557,6 @@ estrogen	breast cancer	in	PART-OF
 disease	primates	in	PART-OF
 liver	cassia cinnamon	in	PART-OF
 cholesterol	cake	in	PART-OF
-graph	mutagenic	in	PART-OF
 death	diet	in	PART-OF
 penicillin	peoria	in	PART-OF
 boy	israel	in	PART-OF
@@ -602,7 +565,6 @@ cause inflammation	chicken	in	PART-OF
 oxalate	cinnamon	in	PART-OF
 acid	vegetables	in	PART-OF
 rickets	children	in	PART-OF
-mortality	mortality	in	PART-OF
 ingredient	chai tea	in	PART-OF
 antibiotics	meat	in	PART-OF
 numbness	bowel habits	in	PART-OF
@@ -628,20 +590,16 @@ agent	women	in	PART-OF
 calories	chocolate	in	PART-OF
 arachidonic acid	fish	in	PART-OF
 dairy	meat	in	PART-OF
-allergic reactions	sensitive	in	PART-OF
-spices	spices	in	PART-OF
 proteins	milk	in	PART-OF
 orgasm	women	in	PART-OF
 tuna	vaccinations	in	PART-OF
 igf	childhood	in	PART-OF
 boost	bioavailability	in	PART-OF
 steroids	farm	in	PART-OF
-asia	men	in	PART-OF
 carcinogens	cigarette smoke	in	PART-OF
 vitamin c	beet juice	in	PART-OF
 phytonutrient	black pepper	in	PART-OF
 brain parasite	pork	in	PART-OF
-nutrition	nutrition	in	PART-OF
 heavy metals	creatine	in	PART-OF
 arterial stiffness	adulthood	in	PART-OF
 active ingredient	broccoli	in	PART-OF
@@ -649,9 +607,7 @@ salmonella	alfalfa	in	PART-OF
 risk	kids	in	PART-OF
 constipation	infants	in	PART-OF
 worm	fish	in	PART-OF
-kids	california	in	PART-OF
 zinc	plant foods	in	PART-OF
-women	women	in	PART-OF
 vegetables	cancer	in	PART-OF
 production	contamination	in	PART-OF
 potassium	plant	in	PART-OF
@@ -669,7 +625,6 @@ viruses	chicken	in	PART-OF
 preventing relapse	crohn	in	PART-OF
 disease	prevalence	in	PART-OF
 sulfur	plant proteins	in	PART-OF
-women	california	in	PART-OF
 breast cancer	vegetarian	in	PART-OF
 diabetes epidemic	china	in	PART-OF
 fish	fukushima	in	PART-OF
@@ -702,7 +657,6 @@ african americans	indianapolis	in	PART-OF
 berries	meat	in	PART-OF
 diseases	dairy	in	PART-OF
 cancer	prostate cancer	in	PART-OF
-sugar	sugar	in	PART-OF
 human cells	avocados	in	PART-OF
 placebo	ibs	in	PART-OF
 increased risk	women	in	PART-OF
@@ -715,7 +669,6 @@ plants	diet	in	PART-OF
 broccoli	garlic sauce	in	PART-OF
 viruses	poultry	in	PART-OF
 bread	uganda	in	PART-OF
-dairy	dairy	in	PART-OF
 neurotoxins	dairy	in	PART-OF
 play	childhood	in	PART-OF
 bph	check	in	PART-OF
@@ -748,9 +701,7 @@ runny nose	adolescents	in	PART-OF
 choice	potato consumption	in	PART-OF
 doses	excess	in	PART-OF
 acne	milk	in	PART-OF
-heart disease	overweight	in	PART-OF
 implant	farm animals	in	PART-OF
-mortality risk	mortality risk	in	PART-OF
 calcium	soy milk	in	PART-OF
 symptoms	kids	in	PART-OF
 prevent prediabetes	children	in	PART-OF
@@ -759,7 +710,6 @@ phytonutrients	soy	in	PART-OF
 infectious virus	retail meat	in	PART-OF
 sensitivity	cocaine	in	PART-OF
 constipation	pre-school children	in	PART-OF
-pollutants	california	in	PART-OF
 xylitol	sugar	in	PART-OF
 angina	patients	in	PART-OF
 chemical pollutants	meat	in	PART-OF
@@ -776,7 +726,6 @@ oxidative stress	carotenoids	in	PART-OF
 toxins	seafood	in	PART-OF
 cancer	vegetarian	in	PART-OF
 carrot	hummus	in	PART-OF
-medicine	africa	in	PART-OF
 flavonoid phytonutrients	nuts	in	PART-OF
 capsaicin	cluster headache	in	PART-OF
 phytonutrients	broccoli	in	PART-OF
@@ -814,7 +763,6 @@ fortification	fiber	in	PART-OF
 phytonutrients	soy foods	in	PART-OF
 diabetes	china	in	PART-OF
 smoking	moderation	in	PART-OF
-chicken	chicken	in	PART-OF
 pigment	turmeric	in	PART-OF
 toxins	meat	in	PART-OF
 angiogenesis inhibitors	plant	in	PART-OF
@@ -823,20 +771,15 @@ recall	u.s	in	PART-OF
 fat	eggs	in	PART-OF
 disease	children	in	PART-OF
 sex hormones	skim milk	in	PART-OF
-videos	videos	in	PART-OF
 spike	blood sugar	in	PART-OF
-plaque	plaque	in	PART-OF
 nitrate	vegetables	in	PART-OF
-phytonutrients	frozen cranberries	in	PART-OF
 infections	women	in	PART-OF
 antibodies	cancer	in	PART-OF
 amino acids	animal proteins	in	PART-OF
 beans	healthy diets	in	PART-OF
-reactions	chronic headaches	in	PART-OF
 acetic acid	vinegar	in	PART-OF
 amino acids	milk	in	PART-OF
 chemicals	fish	in	PART-OF
-reactions	sensitive	in	PART-OF
 relaxant phytonutrient	green tea	in	PART-OF
 arsenic	apple juice	in	PART-OF
 chain omega-3s	flaxseeds	in	PART-OF
@@ -874,7 +817,6 @@ antioxidant	leafy	in	PART-OF
 fiber	sea vegetables	in	PART-OF
 cigarettes	atherosclerosis	in	PART-OF
 premarin	breast cancer	in	PART-OF
-mood	mood	in	PART-OF
 ammonia	meat	in	PART-OF
 restaurants	hospitals	in	PART-OF
 soy protein	miso	in	PART-OF
@@ -898,20 +840,17 @@ pollutant	fish	in	PART-OF
 pollutants	fish	in	PART-OF
 zinc	rice	in	PART-OF
 growth hormones	vegans	in	PART-OF
-antioxidants	antioxidants	in	PART-OF
 grapes	fat burning	in	PART-OF
 aluminum	tea	in	PART-OF
 beta-carotene	carrot	in	PART-OF
 mood	fat	in	PART-OF
 sexual dysfunction	cholesterol	in	PART-OF
-energy production	energy production	in	PART-OF
 bone fractures	women	in	PART-OF
 antibiotics	white meat	in	PART-OF
 meat	childhood	in	PART-OF
 anabolic steroids	meat	in	PART-OF
 pollutant	life	in	PART-OF
 stones	vegetarian	in	PART-OF
-atherosclerotic plaques	atherosclerotic plaques	in	PART-OF
 pollutants	animal fats	in	PART-OF
 soda	cranberry	in	PART-OF
 pigs	meat	in	PART-OF
@@ -922,10 +861,7 @@ spike	oxidant stress	in	PART-OF
 active ingredient	diet	in	PART-OF
 esophageal cancer	bacon	in	PART-OF
 gout	men	in	PART-OF
-life	life	in	PART-OF
-men	asia	in	PART-OF
 synergy	videos	in	PART-OF
-israel	israel	in	PART-OF
 campylobacter infection	children	in	PART-OF
 steroids	supplements	in	PART-OF
 viruses	meat	in	PART-OF
@@ -941,7 +877,6 @@ homocysteine	brain damage	in	PART-OF
 infection	livestock	in	PART-OF
 diets	health	in	PART-OF
 cancer cells	check	in	PART-OF
-body fat	overweight men	in	PART-OF
 fructose	blueberries	in	PART-OF
 detoxifying enzymes	plants	in	PART-OF
 animal protein	meat	in	PART-OF
@@ -1005,7 +940,6 @@ molecules	plants	in	PART-OF
 yersinia	pork	in	PART-OF
 mortality	infants	in	PART-OF
 vision loss	men	in	PART-OF
-molecule	atherosclerotic plaques	in	PART-OF
 iq	childhood	in	PART-OF
 immunity	athletes	in	PART-OF
 phytonutrients	junk foods	in	PART-OF
@@ -1025,9 +959,7 @@ aid	diabetes	in	PART-OF
 cancer	chickens	in	PART-OF
 constipation	children	in	PART-OF
 superbugs	meat	in	PART-OF
-children	africa	in	PART-OF
 bpa	u.s	in	PART-OF
-heart attack	asia	in	PART-OF
 obesity epidemic	women	in	PART-OF
 campylobacter infections	infants	in	PART-OF
 folate	beans	in	PART-OF
@@ -1047,7 +979,6 @@ beans	water	in	PART-OF
 heavy metals	protein	in	PART-OF
 agent	alcoholic beverages	in	PART-OF
 strawberries	patients	in	PART-OF
-dioxins	dioxins	in	PART-OF
 manure	milk	in	PART-OF
 toxins	animal products	in	PART-OF
 calcium	soy	in	PART-OF
@@ -1108,7 +1039,6 @@ pollutants	salmon	in	PART-OF
 flax seeds	breast cancer	in	PART-OF
 inflammation	carcinoma	in	PART-OF
 bad cholesterol	fatty streaks	in	PART-OF
-mutagenic	bacteria	in	PART-OF
 decrease inflammation	autoimmune	in	PART-OF
 ages	apples	in	PART-OF
 standard diet	leucine	in	PART-OF
@@ -1125,7 +1055,6 @@ antibodies	crohn	in	PART-OF
 stickiness	urine	in	PART-OF
 manure	poultry	in	PART-OF
 proteins	cow	in	PART-OF
-sleep	sleep	in	PART-OF
 antioxidants	plant foods	in	PART-OF
 neurotoxic chemicals	chicken	in	PART-OF
 big spike	inflammation	in	PART-OF
@@ -1163,7 +1092,6 @@ alcohol	beer	in	PART-OF
 saturated fat	videos	in	PART-OF
 acetaldehyde	saliva	in	PART-OF
 health	videos	in	PART-OF
-california	california	in	PART-OF
 plaque	blood flow	in	PART-OF
 heavy metals	fish	in	PART-OF
 insulin	diabetics	in	PART-OF
@@ -1171,7 +1099,6 @@ nicotine	ketchup	in	PART-OF
 vitamin c	cancer	in	PART-OF
 toxins	raw mushrooms	in	PART-OF
 attacks	gout sufferers	in	PART-OF
-itching	itching	in	PART-OF
 folic acid	pills	in	PART-OF
 mortality	men	in	PART-OF
 cancer	prostate	in	PART-OF
@@ -1190,7 +1117,6 @@ mrsa	u.s	in	PART-OF
 spike	tuna	in	PART-OF
 heterocyclic amines	chicken	in	PART-OF
 protein	life	in	PART-OF
-plant-based diets	africa	in	PART-OF
 virus	breast cancer	in	PART-OF
 irony	vitamin	in	PART-OF
 allergies	fish	in	PART-OF
@@ -1224,13 +1150,11 @@ meat carcinogens	fish	in	PART-OF
 hormones	acne	in	PART-OF
 phytonutrients	supplement	in	PART-OF
 antioxidants	disease	in	PART-OF
-liquor	carcinogenic	in	PART-OF
 dioxins	dairy	in	PART-OF
 human carcinogen	meat	in	PART-OF
 bovine leukemia virus	breast cancer	in	PART-OF
 aid	diabetes control	in	PART-OF
 fatty streaks	childhood	in	PART-OF
-inflammation	inflammation	in	PART-OF
 diabetes	childhood	in	PART-OF
 cancer-causing viruses	poultry	in	PART-OF
 steroid hormones	milk	in	PART-OF
@@ -1238,34 +1162,29 @@ fiber	nuts	in	PART-OF
 sex steroid hormones	meat	in	PART-OF
 pesticides	chinese bamboo	in	PART-OF
 steroid hormones	beef	in	PART-OF
+big spike	stevia	in	PART-OF
 disease	livestock	in	PART-OF
-spoonful	water	in	PART-OF
 drug residues	meat	in	PART-OF
 bioaccumulate	fish	in	PART-OF
-big spike	mutagenic	in	PART-OF
 flaxseeds	breast cancer	in	PART-OF
 salmonella	chicken	in	PART-OF
 fiber	plants	in	PART-OF
 patients	remission	in	PART-OF
 biogenic amines	seafood	in	PART-OF
 diabetes	women	in	PART-OF
-vegetarians	california	in	PART-OF
 antibiotics	urine	in	PART-OF
 heterocyclic amines	restaurants	in	PART-OF
-plants	plants	in	PART-OF
 lies	infants	in	PART-OF
 teats	iodine	in	PART-OF
 carbs	lentil	in	PART-OF
 early onset puberty	girls	in	PART-OF
 kidney failure	children	in	PART-OF
-obesity	obesity	in	PART-OF
 phytonutrients	green tea	in	PART-OF
 phosphorus	plant foods	in	PART-OF
 angiogenesis inhibitors	plant foods	in	PART-OF
 active ingredient	aspirin	in	PART-OF
 salmonella contamination	poultry	in	PART-OF
 chicken	fecal bacteria	in	PART-OF
-kids	kids	in	PART-OF
 fry	vegan	in	PART-OF
 death receptors	kidney cancer	in	PART-OF
 chlorophyll	sunlight	in	PART-OF
@@ -1274,7 +1193,6 @@ iron	animal products	in	PART-OF
 phytonutrients	spices	in	PART-OF
 multiple myeloma	men	in	PART-OF
 broccoli	garlic	in	PART-OF
-stuff	atherosclerotic plaques	in	PART-OF
 ground flax	diabetics	in	PART-OF
 soy	women	in	PART-OF
 fat	chocolate	in	PART-OF
@@ -1292,9 +1210,7 @@ preservatives	junk food	in	PART-OF
 seaweed	pills	in	PART-OF
 citruline	watermelons	in	PART-OF
 carcinogens	smoke	in	PART-OF
-paradox	africa	in	PART-OF
 iq	babies	in	PART-OF
-colon cancer	africa	in	PART-OF
 nitrosamines	meat	in	PART-OF
 radiation exposure	seafood	in	PART-OF
 virus	pork	in	PART-OF
@@ -1305,13 +1221,11 @@ diseases	plant	in	PART-OF
 antioxidants	fruits	in	PART-OF
 chemicals	tumor	in	PART-OF
 cells	loss	in	PART-OF
-overweight	adulthood	in	PART-OF
 antioxidant intake	asthma	in	PART-OF
 intestinal infections	piglets	in	PART-OF
 casein	milk	in	PART-OF
 dha	brain health	in	PART-OF
 soda	cranberry juice	in	PART-OF
-cholesterol	cholesterol	in	PART-OF
 boost	bone eater	in	PART-OF
 infectious diseases	children	in	PART-OF
 diseases	adulthood	in	PART-OF
@@ -1351,7 +1265,6 @@ meat	burgers	in	PART-OF
 steroids	dairy	in	PART-OF
 stuff	plants	in	PART-OF
 arachidonic acid	chicken	in	PART-OF
-adventists	california	in	PART-OF
 aluminum	vaccines	in	PART-OF
 dairy intake	adolescence	in	PART-OF
 pepsi	dyspepsia	in	PART-OF
@@ -1390,14 +1303,12 @@ safety	chicken	in	PART-OF
 chicken	phosphate additives	in	PART-OF
 contaminants	chicken	in	PART-OF
 fractures	men	in	PART-OF
-carcinogens	carcinogens	in	PART-OF
 iron	chicken	in	PART-OF
 endotoxins	animal products	in	PART-OF
 radioactive iodine	drinking water	in	PART-OF
 death	hens	in	PART-OF
 carnitine	red meat	in	PART-OF
 anthocyanin phytonutrients	sweet	in	PART-OF
-lavender	lavender	in	PART-OF
 pesticides	water	in	PART-OF
 disease risk	ldl	in	PART-OF
 anthocyanin phytonutrients	tart	in	PART-OF
@@ -1419,7 +1330,6 @@ production	nuts	in	PART-OF
 cholesterol	women	in	PART-OF
 prostate cancer	prostate	—but, that’s better than dying from	PART-OF
 cancer	prostate cancer	—but, that’s better than dying from	PART-OF
-prostate cancer	prostate cancer	—but, that’s better than dying from	PART-OF
 cancer	prostate	—but, that’s better than dying from	PART-OF
 all-cause mortality	women	in both men and	PART-OF
 mortality	women	in both men and	PART-OF
@@ -1458,7 +1368,6 @@ aluminum	cheese	(in	PART-OF
 copper	meat	(in	PART-OF
 prostate cancer	prostate	, and mortality rates from breast and	PART-OF
 cancer	prostate cancer	, and mortality rates from breast and	PART-OF
-prostate cancer	prostate cancer	, and mortality rates from breast and	PART-OF
 cancer	prostate	, and mortality rates from breast and	PART-OF
 sex steroid hormones	meat	that when pregnant women eat	PART-OF
 hormones	meat	that when pregnant women eat	PART-OF

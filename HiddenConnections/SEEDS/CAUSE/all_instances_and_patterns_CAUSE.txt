@@ -1,10 +1,4 @@
 
-inflammation	domesticated animal	triggered by	CAUSE
-amyloidosis	leprosy	triggered by	CAUSE
-inflammation	kangaroo meat	triggered by	CAUSE
-inflammation	dioxin	triggered by	CAUSE
-meat allergies	tick bites	triggered by	CAUSE
-asthma	breathing	triggered by	CAUSE
 milk	uric acid	caused	CAUSE
 coffee drinking	cancer	caused	CAUSE
 animal products	inflammation	caused	CAUSE
@@ -22,6 +16,9 @@ sucralose	insulin resistance	causes	CAUSE
 sucralose	insulin	causes	CAUSE
 cigarette smoking	cancer	causes	CAUSE
 liquid smoke	dna mutations	causes	CAUSE
+who	guidelines	creates	CAUSE
+exercise	free radicals	creates	CAUSE
+fish	heterocyclic amines	creates	CAUSE
 milk	acne	cause	CAUSE
 carcinogens	dna mutations	cause	CAUSE
 dental x-rays	brain tumors	cause	CAUSE
@@ -32,16 +29,8 @@ meat	inflammation	cause	CAUSE
 air pollution	lung inflammation	cause	CAUSE
 carcinogens	dna	cause	CAUSE
 bacteria	infections	cause	CAUSE
-beer	estrogenic effects	cause	CAUSE
 free radicals	dysfunction	cause	CAUSE
 cell phones	cancer	cause	CAUSE
 animal products	inflammation	cause	CAUSE
-obesity	obesity	cause	CAUSE
-bladder infections	breast cancer	tied to	CAUSE
-cancer risk	multivitamin use	tied to	CAUSE
-sugar	pancreatic cancer	tied to	CAUSE
-food poisoning	sprouts	tied to	CAUSE
-poultry	liver	tied to	CAUSE
-risk	multivitamin	tied to	CAUSE
-poultry exposure	liver	tied to	CAUSE
-foodborne illness	pork	tied to	CAUSE
+inflammation	depressive symptoms	to trigger	CAUSE
+arteries	strokes	to trigger	CAUSE

@@ -2,7 +2,6 @@
 estrogen	drugs
 fortification	meat
 boost	disease activity
-billions	billions
 chemicals	poultry meat
 buttermilk	retail
 beta cells	diabetes
@@ -11,15 +10,12 @@ lavender	lotions
 boost	calcium absorption
 popcorn lung	workers
 detoxifying enzymes	gut
-ban	california
 spike	insulin
-phytonutrients	sedentary
 carb diets	atkins diet
 diseases	foie gras
 peppermint	antioxidants
 chart	trans fat
 viruses	chicken meat
-primates	primates
 amyloid beta	alzheimer
 vegetables	meat
 strains	retail
@@ -32,7 +28,6 @@ bacterial endotoxins	inflammation
 flavonoid phytonutrients	fruits
 zinc	vegetarians
 arteries	blood clotting
-boost	detoxifying enzymes
 milk	girls
 blue-green algae	seafood
 yellow pigment	patients
@@ -54,12 +49,8 @@ asian diets	plant foods
 steroids	cheese
 good bacteria	videos
 fruit	childhood
-poultry	poultry
 cancer viruses	poultry workers
-nutritionfacts.org	nutritionfacts.org
-campylobacter bacteria	chicken exudates
 sodium	fruits
-fiber	fiber
 drug	turmeric
 endotoxins	raw
 cholesterol	diet
@@ -67,13 +58,11 @@ lignans	tea
 eating eggs	egg consumption
 all-cause mortality	women
 yellow pigment	turmeric
-heart attacks	overweight
 mucosa	man
 adhd symptoms	children
 dna mutations	bacteria
 phytate	vegetarian diets
 active ingredient	marijuana
-asia	asia
 cholesterol	meat
 pigments	grapes
 flaxseed	muffin
@@ -85,7 +74,6 @@ reduced symptoms	fibromyalgia patients
 book	american
 anthocyanins	yellow
 nitrosamines	secondhand
-lead	california
 alcohol	saliva
 ham	meat science
 urinary tract infections	men
@@ -102,6 +90,7 @@ dynasty	chinese
 intake	pregnancy
 uc	remission
 dairy	acne
+campylobacter bacteria	chicken
 arsenic	poultry
 spike	blood pressure
 carcinogens	retail
@@ -110,10 +99,7 @@ fats	flax seeds
 brown fat	patients
 pregnant women	seaweed
 spices	antioxidants
-anisakis	allergenic
-breathe	oxygen
 play	cancer rates
-aluminum	dented
 sitting	raw broccoli
 reductionism	nutrition research
 uv rays	sunlight
@@ -132,19 +118,18 @@ curcumin	grapes
 arsenic	rice
 boost	feelings
 survival	cancer patients
+dha	scurvy
 casomorphin	cow
 eaters	wisconsin
 phytate	beans
 apples	smoothie
 phytonutrients	beet juice
-sensitive	picking
 play	disease
 antibodies	autoimmune
 blindness	african-american women
 cancer	ammonia
 chain omega-3s	fish oil
 mercury	excess
-athletes	athletes
 cancer-causing herpesvirus	poultry
 trans fat	junk food
 oxidized fat	vitamin e
@@ -172,14 +157,10 @@ benzene	drinking water
 omega-3s	fish
 bump	breathing
 acrylamide	drinking water
-cancer	carcinogenic
 boost	antioxidant
 dioxins	dairy products
-leucine	leucine
 allergies	adulthood
 reproductive health	men
-cholesterol	atherosclerotic plaques
-health	health
 doses	peoria
 steroids	fish
 dioxins	cigarette smoke
@@ -191,7 +172,6 @@ acidosis	patients
 cancer prevention	poultry exposure
 pcbs	children
 e. coli	beef
-adventist vegetarians	california
 methylmercury	seafood
 loss	intelligence
 rays	sunlight
@@ -206,10 +186,7 @@ rickets	childhood
 neurotoxic chemicals	dairy
 meat carcinogens	chicken
 phosphorous	kidney failure
-eaters	california
-zero	scurvy rates
 fat	nuts
-diabetics	diabetics
 plaque	smokers
 plaque	artery
 big spike	blood sugar
@@ -219,7 +196,6 @@ bmaa	alzheimer
 no fiber	junk food
 play	turmeric
 bmaa	seafood
-zero	scurvy
 diabetes	estrogen
 fiber	plant foods
 dairy	survival
@@ -249,9 +225,8 @@ boost	defenses
 saturated fat	coconut oil
 leukemia	women
 acne	teenage
-prostate cancer	prostate cancer
+graph	stevia
 bmaa	control
-angina attacks	angina attacks
 raisins	raisin bran
 womb	breast milk
 bump	bone formation
@@ -264,7 +239,6 @@ pregnant women	fish
 hormones	skim
 leading killer	pesticide
 tofu	indonesia
-spin	spin
 arsenic	drugs
 placebo	boosting
 juice	smoothie
@@ -281,7 +255,6 @@ drinking	life
 pollutants	seafood
 carcinogenic nitrosamines	bacon
 carbohydrates	mood
-bill	california
 early-onset puberty	girls
 play	aging
 skin cancer	childhood
@@ -293,13 +266,11 @@ protein	plant foods
 bovine casomorphin	milk
 production	vessels
 xenoestrogens	health
-average age	cholesterol-lowering
 aspirin	plants
 salmonella	salmonellosis
 gluten	grains
 bump	cancer risk
 infection	pork
-risk	risk
 contaminants	chicken products
 omega	fish
 meat	diet
@@ -310,15 +281,12 @@ early onset puberty	meat
 vegetables	ability
 leukemia	men
 cancers	meat
-breast cancer	asia
 nitrates	plants
 pyrogallol	mushrooms
 ingredient	curry powder
 epidemic	diabetes
 protein	cow
 phytoestrogens	soy foods
-remission	remission
-broccoli phytonutrients	broccoli phytonutrients
 cancer cells	chicken
 raw garlic	salsa
 white blood cells	autoimmune
@@ -327,13 +295,11 @@ infectious diseases	chickens
 billions	tax
 disease	primates
 liver	cassia cinnamon
-graph	mutagenic
 death	diet
 penicillin	peoria
 boy	israel
 cause inflammation	chicken
 acid	vegetables
-mortality	mortality
 ingredient	chai tea
 numbness	bowel habits
 cigarettes	hospitals
@@ -346,24 +312,18 @@ food poisoning	videos
 phytoestrogen	drugs
 agent	women
 dairy	meat
-allergic reactions	sensitive
-spices	spices
 meat	meal
 proteins	milk
 tuna	vaccinations
 igf	childhood
 boost	bioavailability
-asia	men
 dioxin	preservatives
 carcinogens	cigarette smoke
 arsenic	chemicals
 brain parasite	pork
-nutrition	nutrition
 arterial stiffness	adulthood
 active ingredient	broccoli
 fiber	baker
-kids	california
-women	women
 production	contamination
 dha	fish flesh
 radioactive iodine	milk
@@ -373,7 +333,6 @@ strawberries	cancer fighting
 preventing relapse	crohn
 disease	prevalence
 sulfur	plant proteins
-women	california
 diabetes epidemic	china
 fiber	fruits
 swap	soy protein
@@ -392,7 +351,6 @@ depression	tomatoes
 salmonella	deli meats
 african americans	indianapolis
 dietary cholesterol	eggs
-sugar	sugar
 human cells	avocados
 placebo	ibs
 increased risk	women
@@ -400,7 +358,6 @@ mood	carbohydrate
 death	sugar
 broccoli	garlic sauce
 bread	uganda
-dairy	dairy
 play	childhood
 bph	check
 rays	blood pressure
@@ -423,9 +380,7 @@ corn syrup	soda
 runny nose	adolescents
 choice	potato consumption
 doses	excess
-heart disease	overweight
 implant	farm animals
-mortality risk	mortality risk
 prevent prediabetes	children
 zeranol	blood
 infectious virus	retail meat
@@ -440,7 +395,6 @@ plays	angiogenesis
 oxidative stress	carotenoids
 aluminum	drugs
 carrot	hummus
-medicine	africa
 flavonoid phytonutrients	nuts
 fat	insulin sensitivity
 fracture risk	men
@@ -462,20 +416,14 @@ oxidation	cancer
 omega-3s	flax seeds
 fortification	fiber
 smoking	moderation
-chicken	chicken
 toxins	meat
 patient	diet
 recall	u.s
 fat	eggs
 sex hormones	skim milk
-videos	videos
 spike	blood sugar
-plaque	plaque
 nitrate	vegetables
-phytonutrients	frozen cranberries
-reactions	chronic headaches
 chemicals	fish
-reactions	sensitive
 relaxant phytonutrient	green tea
 sulfur	amino acid
 chain omega-3s	flaxseeds
@@ -491,7 +439,6 @@ iodine toxicity	breastfeeding
 diseases	vegetarians
 antioxidant	leafy
 premarin	breast cancer
-mood	mood
 ammonia	meat
 restaurants	hospitals
 teats	milk
@@ -500,24 +447,18 @@ pigment	cancer cells
 artificial sweeteners	sweet
 anthocyanin phytonutrients	yellow
 sugar control	diabetics
-antioxidants	antioxidants
 grapes	fat burning
 mood	fat
 sexual dysfunction	cholesterol
-energy production	energy production
 meat	childhood
 pollutant	life
 stones	vegetarian
-atherosclerotic plaques	atherosclerotic plaques
 pigs	meat
 cancer cells	beans
 spike	oxidant stress
 active ingredient	diet
 gout	men
-life	life
-men	asia
 synergy	videos
-israel	israel
 campylobacter infection	children
 steroids	supplements
 swap	igf
@@ -526,7 +467,6 @@ spike	radioactivity
 homocysteine	brain damage
 diets	health
 cancer cells	check
-body fat	overweight men
 detoxifying enzymes	plants
 sulfur	amino acids
 loop	overeating
@@ -563,7 +503,6 @@ active ingredient	fruits
 inflammatory arthritis	men
 molecules	plants
 vision loss	men
-molecule	atherosclerotic plaques
 iq	childhood
 immunity	athletes
 phytonutrients	junk foods
@@ -575,9 +514,7 @@ phytoestrogens	breast cancer
 dairy intake	life
 cancer risk	women
 cholesterol	pelvic
-children	africa
 bpa	u.s
-heart attack	asia
 obesity epidemic	women
 campylobacter infections	infants
 tor	broccoli
@@ -587,7 +524,6 @@ death	men
 sodium	cranberry juice
 hospitals	uganda
 strawberries	patients
-dioxins	dioxins
 manure	milk
 vaginal health	videos
 phthalates	chicken
@@ -619,7 +555,6 @@ ear infections	doing
 flax seeds	breast cancer
 inflammation	carcinoma
 bad cholesterol	fatty streaks
-mutagenic	bacteria
 decrease inflammation	autoimmune
 ages	apples
 standard diet	leucine
@@ -633,7 +568,6 @@ antibodies	crohn
 stickiness	urine
 manure	poultry
 proteins	cow
-sleep	sleep
 big spike	inflammation
 eggs	baking
 glycotoxins	cigarette smoke
@@ -650,12 +584,10 @@ vinegar	diabetics
 patients	tumor
 saturated fat	videos
 health	videos
-california	california
 plaque	blood flow
 insulin	diabetics
 toxins	raw mushrooms
 attacks	gout sufferers
-itching	itching
 mortality	men
 e. coli	chicken meat
 industrial pollutants	fish oil
@@ -667,7 +599,6 @@ diet	disease
 mrsa	u.s
 spike	tuna
 protein	life
-plant-based diets	africa
 phytonutrients	raw broccoli
 cancers	men
 phytoestrogens	nuts
@@ -682,33 +613,26 @@ allergies	childhood
 meat carcinogens	fish
 hormones	acne
 phytonutrients	supplement
-liquor	carcinogenic
 human carcinogen	meat
 aid	diabetes control
 fatty streaks	childhood
-inflammation	inflammation
 diabetes	childhood
 cancer-causing viruses	poultry
 fiber	nuts
 pesticides	chinese bamboo
+big spike	stevia
 disease	livestock
-spoonful	water
 bioaccumulate	fish
-big spike	mutagenic
 patients	remission
 sulfur	proteins
 heterocyclic amines	restaurants
-plants	plants
 teats	iodine
-obesity	obesity
 phytonutrients	green tea
 active ingredient	aspirin
 salmonella contamination	poultry
-kids	kids
 death receptors	kidney cancer
 chlorophyll	sunlight
 multiple myeloma	men
-stuff	atherosclerotic plaques
 ground flax	diabetics
 soy	women
 glycotoxins	inflammation
@@ -718,21 +642,17 @@ milk proteins	breast milk
 spices	videos
 curcumin	green tea
 seaweed	pills
-paradox	africa
 spice turmeric	curry powder
 iq	babies
-colon cancer	africa
 nitrosamines	meat
 mercury	preservative
 radiation exposure	seafood
 fructose	hfcs
 dha	fish oil
 cells	loss
-overweight	adulthood
 antioxidant intake	asthma
 intestinal infections	piglets
 dha	brain health
-cholesterol	cholesterol
 boost	bone eater
 diseases	adulthood
 abdominal fat	women
@@ -755,7 +675,6 @@ lignans	flax seeds
 american diet	cheese
 pcbs	fish
 stuff	plants
-adventists	california
 dairy intake	adolescence
 iron	plant foods
 excess calories	chocolate
@@ -780,11 +699,9 @@ antibodies	cancer patients
 safety	chicken
 chicken	phosphate additives
 fractures	men
-carcinogens	carcinogens
 radioactive iodine	drinking water
 death	hens
 anthocyanin phytonutrients	sweet
-lavender	lavender
 disease risk	ldl
 anthocyanin phytonutrients	tart
 deep-fry	vegan

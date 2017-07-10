@@ -30,7 +30,6 @@ phytonutrients	soy
 antibodies	meat
 protein	pork
 vitamin	greens
-pollutants	california
 xylitol	sugar
 treatment	diabetes
 hesperidin	citrus
@@ -155,7 +154,6 @@ carbohydrates	orange juice
 beta-carotene	carrot
 bone fractures	women
 parasite	pork
-disease	california
 death	rheumatoid arthritis
 nutrition	medical education
 antibiotics	white meat
@@ -323,7 +321,6 @@ vitamin c	apples
 antioxidants	grains
 contamination	dairy
 steroids	meat
-mad cow disease	california
 mortality	women
 hormones	eggs
 insulin sensitivity	pigs
@@ -469,7 +466,6 @@ muscle	death
 pathogens	meat
 antioxidants	plants
 diabetes	women
-vegetarians	california
 antibiotics	urine
 steroid	women
 hormones	pills

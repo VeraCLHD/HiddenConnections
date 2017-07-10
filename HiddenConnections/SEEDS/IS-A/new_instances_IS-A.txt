@@ -1,7 +1,5 @@
 
-california	avocados
 inflammation	bleeding
-smelling	maple syrup
 diseases	parkinson
 medications	ibuprofen
 menstrual symptoms	cramping
@@ -16,7 +14,6 @@ creatinine	cheese
 insulin	igf
 soyfoods	tofu
 western diseases	obesity
-smells	fenugreek
 good bacteria	vinegar
 dietary contaminants	antibiotic residues
 inflammatory bowel diseases	crohn
@@ -46,12 +43,10 @@ herb	tarragon
 bone health	bone mineral density
 illnesses	depression
 crystallizes	sugar water
-u.s	coronary
 meat	pathogens
 vitamin supplements	vitamin e
 eating meat	fish
 vitamin supplements	vitamin c
-drugs	cholesterol-lowering
 videos	prebiotics
 calcium	broccoli
 plants	potato chips
@@ -63,19 +58,16 @@ diseases	asthma
 autoimmune diseases	meat glue
 videos	apples
 cured meat	bacon
-diseases	coronary artery
 multidrug-resistant bacteria	mrsa
 supplements	pancreatic enzymes
 anti-inflammatory drugs	ibuprofen
 milk	skim milk
-smells	mom
 neurodegenerative diseases	als
 animal protein	meat
 anti-inflammatory drugs	aspirin
 top killers	heart disease
 vegetables	arugula
 family vegetables	garlic
-artificial sweeteners	neurological
 carbs	sun-dried
 stress hormones	adrenaline
 oils	olive oil
@@ -87,7 +79,6 @@ inflammatory bowel diseases	methionine
 fresh fruits	blueberries
 plant kingdom	fruits
 sour fruit	lemons
-chronic diseases	coronary
 spices	curcumin
 modern medicine	surgery
 vegetables	salad
@@ -104,21 +95,18 @@ fruits	apples
 contaminants	mercury
 fish	mercury
 market	pancake
-killers	coronary artery
 meat	ham
 drug	lipitor
 autoimmune diseases	rheumatoid arthritis
 whole grains	rye
 graphs	bpa
 protein	beans
-allow phytonutrients	lycopene
 western diseases	colon cancer
 plants	berries
 teas	hibiscus
 plant-based diet	ornish
 radiation	radiation exposure
 symptoms	bloating
-symptoms	chronic
 persistent organic pollutants	arsenic
 cancers	breast
 children	aggressiveness
@@ -157,14 +145,12 @@ drugs	zeranol
 herbs	ginger
 statin drugs	lipitor
 carcinogens	pesticides
-diseases	coronary
 baggage	cholesterol
 vitamin supplements	multivitamins
 illnesses	heart disease
 plant fat	nuts
 drug	valium
 drinks	wine
-inflammation	inflammation
 animal proteins	soy
 plant-based diet	seeds
 treatments	tamoxifen
