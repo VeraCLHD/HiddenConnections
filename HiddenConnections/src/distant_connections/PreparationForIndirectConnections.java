@@ -24,6 +24,7 @@ import terms_processing.TermClusterer;
 
 public class PreparationForIndirectConnections {
 	private static final String DISTANT_CONNECTIONS_FINAL_INPUT = "distant connections/ALL_RELATIONS_WITH_RELEVANT_INFO.txt";
+	private static final String DISTANT_CONNECTIONS_FINAL_INPUT2 = "distant connections/ALL_RELATIONS_WITH_RELEVANT_INFO_SHORT.txt";
 	// here, the too general connections are already filtered
 	private static final String DISTANT_CONNECTIONS_FILTERED = "distant connections/ALL_RELATIONS_FINAL.txt";
 	private static final String DISTANT_CONNECTIONS_TOO_GENERAL_RELATIONS_TXT = "distant connections/too_general_relations.txt";
@@ -264,6 +265,7 @@ public class PreparationForIndirectConnections {
 			Writer.appendLineToFile(newLine, DISTANT_CONNECTIONS_FINAL_INPUT);
 		}
 	}
+	
 	
 	public static void main(String[] args) throws MalformedURLException, IOException {
 		PreparationForIndirectConnections prep = new PreparationForIndirectConnections();
