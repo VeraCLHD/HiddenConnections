@@ -14,7 +14,7 @@ import io.Writer;
 public class Knoten {
 	private static final String OUTPUT_OF_PROJECT = "distant connections/FINAL.txt";
 	private static String pathToClusteredTerms = "terms/all_terms_and_variants_with10_filtered_clustered.txt";
-	private static final String DISTANT_CONNECTIONS_FINAL_INPUT = "distant connections/ALL_RELATIONS_FINAL_FIN.txt";
+	private static final String DISTANT_CONNECTIONS_FINAL_INPUT = "distant connections/ALL_RELATIONS_WITH_RELEVANT_INFO_FINAL.txt";
 	String name;
 	String type;
 	HashMap<Kante,Knoten> neighbours = new HashMap<Kante,Knoten>();
@@ -90,14 +90,21 @@ public class Knoten {
 		br = new BufferedReader(new FileReader(primaries));
 		String line;
 		String[] split_line;
+		
 		while ((line=br.readLine())!=null){
 			split_line = line.split("\t");
 			if (split_line.length==3){
+				
+				String lemma = split_line[1];
+				String term = split_line[0];
+				if(lemma.equals("-")){
+					lemma = term;
+				}
 				if (split_line[2].equals("DISEASE")){
-					Knoten k = new Knoten(split_line[0], "DISEASE");
+					Knoten k = new Knoten(lemma, "DISEASE");
 				}
 				if (split_line[2].equals("FOOD")){
-					Knoten k = new Knoten(split_line[0], "FOOD");
+					Knoten k = new Knoten(lemma, "FOOD");
 				}
 			}
 		}
@@ -105,10 +112,10 @@ public class Knoten {
 		br = new BufferedReader(new FileReader(relations));
 		while ((line=br.readLine())!=null){
 			split_line = line.split("\t");
-			if (split_line.length==4){
-				Knoten a = getKnotenforName(split_line[0], "else");
-				Knoten b = getKnotenforName(split_line[1], "else");
-				a.setNeighbour(split_line[3], b);
+			if (split_line.length==8){
+				Knoten a = getKnotenforName(split_line[1], "else");
+				Knoten b = getKnotenforName(split_line[4], "else");
+				a.setNeighbour(split_line[7], b);
 			}
 		}
 		br.close();
@@ -142,6 +149,9 @@ public class Knoten {
 		}
 		
 		for(String result: results){
+			if(result.split("\t").length == 3){
+				continue;
+			}
 			Writer.appendLineToFile(result, OUTPUT_OF_PROJECT);
 		}
 

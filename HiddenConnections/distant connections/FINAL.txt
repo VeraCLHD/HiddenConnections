@@ -1,468 +1,553 @@
 
-french fries LINKED-TO girls PART-OF endometrial cancer
-brown rice EFFECT diabetes IS-A chronic diseases
-fenugreek PART-OF antioxidants IS-A beta-carotene EFFECT risk LINKED-TO obesity
-french fries LINKED-TO risk IS-A smoking PART-OF emphysema
-plant foods PART-OF fiber EFFECT cholesterol CAUSED-BY arteries LINKED-TO cardiac disease
-apple juice PART-OF arsenic CAUSED-BY skin cancer
-beef IS-A saturated fat PART-OF cholesterol LINKED-TO nonalcoholic fatty liver
-eggs LINKED-TO risk IS-A smoking CAUSED-BY lung cancer
-apples IS-A videos PART-OF saturated fat CAUSED-BY dysfunction
-alcohol LINKED-TO risk EFFECT fish PART-OF allergies
-tomato juice EFFECT inflammation
-eggs LINKED-TO risk EFFECT vegan diet IS-A children PART-OF dental fluorosis
-french fries LINKED-TO risk EFFECT vegan diet IS-A children PART-OF rickets
-plant foods PART-OF fiber IS-A diverticulosis
-tomatoes PART-OF depression CAUSED-BY inflammation
-mushrooms PART-OF vitamin d IS-A diabetes CAUSED-BY insulin resistance
-plant foods EFFECT risks PART-OF smoking IS-A risk LINKED-TO obesity
-anchovies IS-A fish PART-OF allergies
-cheese PART-OF pesticides IS-A carcinogens CAUSED-BY risk LINKED-TO obesity
-cooked meat PART-OF heterocyclic amines CAUSED-BY fish EFFECT risk LINKED-TO obesity
-plant foods EFFECT risks PART-OF smoking LINKED-TO risk IS-A obesity
-milk IS-A animal products LINKED-TO weight gain
-diet PART-OF cholesterol LINKED-TO nonalcoholic fatty liver
-nuts EFFECT risk LINKED-TO obesity
-prebiotics IS-A fiber EFFECT cholesterol PART-OF saturated fat CAUSED-BY dysfunction
-chocolate PART-OF fat IS-A brain CAUSED-BY atherosclerosis
-eggs EFFECT cholesterol PART-OF women IS-A heart disease
-anchovies IS-A fish EFFECT risk LINKED-TO smoking PART-OF emphysema
-bacon PART-OF esophageal cancer
-milk IS-A animal products CAUSED-BY inflammation
-tea PART-OF antioxidants IS-A beta-carotene EFFECT risk LINKED-TO obesity
-white bread PART-OF antioxidants IS-A beta-carotene EFFECT risk LINKED-TO obesity
-milk IS-A animal products PART-OF bacteria CAUSED-BY infections
-eggs EFFECT cholesterol PART-OF saturated fat CAUSED-BY dysfunction
-eggs LINKED-TO risk PART-OF women IS-A heart disease
-multivitamin LINKED-TO risk EFFECT plant-based diet IS-A virus PART-OF breast cancer
-french fries LINKED-TO risk EFFECT vegan diet IS-A children PART-OF kidney failure
-desserts IS-A cake PART-OF cholesterol CAUSED-BY arteries LINKED-TO cardiac disease
-vegetable oil LINKED-TO pancreatic cancer
-alcohol LINKED-TO risk EFFECT vegan diet IS-A children PART-OF constipation
-prebiotics IS-A fiber EFFECT cholesterol PART-OF sexual dysfunction
-multivitamin LINKED-TO risk EFFECT vegan diet IS-A children PART-OF chronic disease
-plant foods PART-OF carcinogens CAUSED-BY risk LINKED-TO obesity
-alcohol LINKED-TO risk EFFECT vegan diet IS-A children PART-OF prediabetes
-bacon IS-A animal products PART-OF bacteria CAUSED-BY infections
-french fries LINKED-TO risk EFFECT vegan diet IS-A children PART-OF leukemia
-eating meat IS-A fish PART-OF xenoestrogens LINKED-TO birth defects
-prebiotics IS-A videos PART-OF health CAUSED-BY obesity
-breast milk IS-A pcbs LINKED-TO fats PART-OF animal products CAUSED-BY inflammation
-avocados PART-OF toxin LINKED-TO alzheimer IS-A neurodegenerative diseases
-cilantro IS-A who PART-OF heart attacks
-anchovies IS-A fish PART-OF xenoestrogens LINKED-TO birth defects
-eggs LINKED-TO diabetes PART-OF women IS-A heart disease
-eggs LINKED-TO risk EFFECT vegan diet IS-A children PART-OF constipation
-nutritional yeast PART-OF fiber EFFECT cholesterol LINKED-TO nonalcoholic fatty liver
-flaxseeds PART-OF breast cancer
-seeds PART-OF breast cancer
-french fries LINKED-TO risk IS-A obesity
-alcohol LINKED-TO risk EFFECT vegan diet IS-A children PART-OF dental fluorosis
-oatmeal PART-OF fiber EFFECT cholesterol LINKED-TO nonalcoholic fatty liver
-alcohol LINKED-TO risk EFFECT vegan diet IS-A children PART-OF infectious diseases
-bacon PART-OF nitrosamines IS-A carcinogens CAUSED-BY risk LINKED-TO obesity
-eggs EFFECT cholesterol LINKED-TO nonalcoholic fatty liver
-eggs LINKED-TO risk EFFECT vegan diet IS-A children PART-OF infectious diseases
-bacon IS-A animal products CAUSED-BY inflammation
-alcohol PART-OF breast cancer
-sugar PART-OF death
-organs PART-OF antioxidants IS-A beta-carotene EFFECT risk LINKED-TO obesity
-beef EFFECT cholesterol LINKED-TO nonalcoholic fatty liver
-cilantro IS-A who PART-OF breast cancer
-chickens PART-OF infectious diseases
-anchovies IS-A fish EFFECT risk LINKED-TO smoking CAUSED-BY lung cancer
-french fries LINKED-TO risk IS-A smoking CAUSED-BY lung cancer
-eggs PART-OF heterocyclic amines CAUSED-BY fish EFFECT risk LINKED-TO obesity
-chicken PART-OF campylobacter IS-A bacteria CAUSED-BY infections
-apples PART-OF toxins IS-A arsenic CAUSED-BY skin cancer
-coloring PART-OF fish EFFECT risk LINKED-TO smoking CAUSED-BY lung cancer
-ground beef LINKED-TO risk EFFECT vegan diet IS-A children PART-OF eczema
-alcohol LINKED-TO risk EFFECT vegan diet IS-A children PART-OF eczema
-french fries LINKED-TO risk EFFECT plant-based diet IS-A virus PART-OF breast cancer
-greens EFFECT risk IS-A smoking CAUSED-BY lung cancer
-dried fruit PART-OF fiber EFFECT cholesterol LINKED-TO nonalcoholic fatty liver
-alcohol LINKED-TO risk EFFECT vegan diet IS-A children PART-OF hormonal dysfunction
-anchovies IS-A fish EFFECT risk LINKED-TO dairy PART-OF acne
-multivitamin LINKED-TO risk EFFECT vegan diet IS-A children PART-OF infectious diseases
-ground beef LINKED-TO risk EFFECT plant-based diet IS-A virus PART-OF breast cancer
-greens EFFECT risk LINKED-TO obesity
-french fries LINKED-TO risk EFFECT fish PART-OF allergies
-ground beef LINKED-TO risk EFFECT vegan diet IS-A children PART-OF hives
-alcohol LINKED-TO risk EFFECT vegan diet IS-A children PART-OF rickets
-pickled vegetables LINKED-TO multiple myeloma
-ground beef LINKED-TO risk EFFECT vegan diet IS-A children PART-OF dental fluorosis
-multivitamin LINKED-TO risk EFFECT vegan diet IS-A children PART-OF pain
-flax seeds PART-OF breast cancer
-brown rice EFFECT diabetes LINKED-TO iron PART-OF muscle CAUSED-BY inflammation
-french fries LINKED-TO risk EFFECT vegan diet IS-A children PART-OF asthma
-french fries LINKED-TO risk EFFECT vegan diet IS-A children PART-OF infections
-multivitamins IS-A videos PART-OF health CAUSED-BY obesity
-ground beef LINKED-TO risk IS-A smoking CAUSED-BY lung cancer
-brown rice EFFECT diabetes LINKED-TO iron PART-OF women IS-A heart disease
-plant foods EFFECT risk IS-A smoking CAUSED-BY lung cancer
-multivitamin LINKED-TO risk EFFECT vegan diet IS-A children PART-OF prediabetes
-eggs LINKED-TO risk IS-A obesity
-eggs LINKED-TO risk EFFECT vegan diet IS-A children PART-OF chronic disease
-sesame seeds PART-OF pain
-multivitamin LINKED-TO risk EFFECT vegan diet IS-A children PART-OF asthma
-alcohol LINKED-TO risk EFFECT vegan diet IS-A children PART-OF kidney failure
-nuts EFFECT risk IS-A smoking PART-OF emphysema
-dandelion IS-A antioxidants PART-OF inflammation
-apple PART-OF arsenic CAUSED-BY skin cancer
-bananas PART-OF vitamin c IS-A scurvy
-processed meat LINKED-TO risks PART-OF smoking CAUSED-BY lung cancer
-eating meat IS-A fish PART-OF allergies
-ground beef LINKED-TO risk EFFECT fish PART-OF allergies
-seafood PART-OF pcbs IS-A xenoestrogens LINKED-TO birth defects
-oatmeal PART-OF fiber IS-A diverticulosis
-eating meat IS-A fish EFFECT risk LINKED-TO smoking CAUSED-BY lung cancer
-eggs PART-OF carotenoids IS-A beta-carotene EFFECT risk LINKED-TO obesity
-pork PART-OF virus IS-A plant-based diet EFFECT risk LINKED-TO obesity
-garlic EFFECT inflammation
-olives PART-OF fat IS-A brain CAUSED-BY atherosclerosis
-diet PART-OF death
-prebiotics IS-A fiber EFFECT cholesterol CAUSED-BY arteries LINKED-TO cardiac disease
-flax seeds PART-OF fiber EFFECT cholesterol LINKED-TO nonalcoholic fatty liver
-multivitamin LINKED-TO risk IS-A smoking CAUSED-BY lung cancer
-oatmeal PART-OF fiber EFFECT cholesterol CAUSED-BY arteries LINKED-TO cardiac disease
-plant foods PART-OF potassium IS-A fiber EFFECT cholesterol LINKED-TO nonalcoholic fatty liver
-alcohol LINKED-TO risk EFFECT vegan diet IS-A children PART-OF salmonella infections
-alcohol LINKED-TO risk EFFECT vegan diet IS-A children PART-OF infection
-chicken PART-OF infections
-fruit juice IS-A fiber EFFECT cholesterol CAUSED-BY arteries LINKED-TO cardiac disease
-poultry IS-A videos PART-OF health CAUSED-BY obesity
-eggs EFFECT cholesterol PART-OF sexual dysfunction
-carob PART-OF fiber IS-A diverticulosis
-milk PART-OF pesticides IS-A carcinogens CAUSED-BY risk LINKED-TO obesity
-beans PART-OF plant-based diets EFFECT prostate cancer
-chicken PART-OF salmonella IS-A pathogens CAUSED-BY noroviruses
-eggs LINKED-TO risk EFFECT vegan diet IS-A children PART-OF infection
-chicken IS-A animal products LINKED-TO weight gain
-sea vegetables PART-OF fiber IS-A diverticulosis
-plant foods PART-OF fiber EFFECT cholesterol LINKED-TO nonalcoholic fatty liver
-french fries LINKED-TO risk EFFECT vegan diet IS-A children PART-OF chronic disease
-eggs LINKED-TO risk EFFECT plant-based diet IS-A virus PART-OF breast cancer
-multivitamin LINKED-TO risk EFFECT vegan diet IS-A children PART-OF kidney failure
-apples IS-A videos PART-OF health CAUSED-BY obesity
-french fries LINKED-TO risk EFFECT vegan diet IS-A children PART-OF salmonella infections
-french fries LINKED-TO risk EFFECT vegan diet IS-A children PART-OF hormonal dysfunction
-poultry PART-OF salmonella IS-A pathogens CAUSED-BY noroviruses
-chocolate PART-OF saturated fat CAUSED-BY dysfunction
-beef LINKED-TO pancreatic cancer
-eggs LINKED-TO risk EFFECT vegan diet IS-A children PART-OF prediabetes
-whole foods PART-OF fiber IS-A diverticulosis
-eggs LINKED-TO risk EFFECT vegan diet IS-A children PART-OF salmonella infections
-beef PART-OF iron LINKED-TO diabetes CAUSED-BY insulin resistance
-plant foods PART-OF carbs LINKED-TO pancreatic cancer
-eggs LINKED-TO risk EFFECT vegan diet IS-A children PART-OF leukemia
-flax seeds PART-OF fiber EFFECT cholesterol CAUSED-BY arteries LINKED-TO cardiac disease
-multivitamin LINKED-TO risk EFFECT vegan diet IS-A children PART-OF constipation
-lentil PART-OF carbs LINKED-TO pancreatic cancer
-alcohol LINKED-TO risk EFFECT vegan diet IS-A children PART-OF leukemia
-tuna PART-OF toxin LINKED-TO alzheimer IS-A neurodegenerative diseases
-alcohol LINKED-TO risk PART-OF women IS-A heart disease
-french fries LINKED-TO risk EFFECT vegan diet IS-A children PART-OF eczema
-multivitamin LINKED-TO risk EFFECT fish PART-OF allergies
-greens EFFECT risk IS-A smoking PART-OF emphysema
-gluten CAUSED-BY inflammation
-alcohol LINKED-TO risk EFFECT plant-based diet IS-A virus PART-OF breast cancer
-food poisoning IS-A salmonella PART-OF salmonellosis
-ginger IS-A nausea
-eggs LINKED-TO risk EFFECT vegan diet IS-A children PART-OF asthma
-eggs LINKED-TO diabetes CAUSED-BY insulin resistance
-ground beef LINKED-TO risk EFFECT vegan diet IS-A children PART-OF kidney failure
-ground beef LINKED-TO risk EFFECT vegan diet IS-A children PART-OF prediabetes
-plant foods EFFECT risk LINKED-TO dairy PART-OF acne
-rose hips IS-A osteoarthritis
-multivitamin LINKED-TO risk IS-A smoking PART-OF emphysema
-seeds IS-A plant-based diet EFFECT risk LINKED-TO smoking CAUSED-BY lung cancer
-grapes PART-OF fat IS-A brain CAUSED-BY atherosclerosis
-chicken IS-A animal products PART-OF bacteria CAUSED-BY infections
-eggs LINKED-TO risk EFFECT beta-carotene IS-A antioxidants PART-OF inflammation
-nuts PART-OF fiber EFFECT cholesterol CAUSED-BY arteries LINKED-TO cardiac disease
-flax seeds PART-OF fiber IS-A diverticulosis
-beef EFFECT cholesterol PART-OF saturated fat CAUSED-BY dysfunction
-greens EFFECT risk LINKED-TO smoking PART-OF emphysema
-green tea IS-A bacteria PART-OF animal products LINKED-TO weight gain
-poultry IS-A salmonella PART-OF salmonellosis
-alcohol LINKED-TO risk IS-A smoking PART-OF emphysema
-alcohol LINKED-TO risk EFFECT beta-carotene IS-A antioxidants PART-OF inflammation
-ground beef LINKED-TO risk EFFECT vegan diet IS-A children PART-OF hormonal dysfunction
-nuts PART-OF production LINKED-TO ulcerative colitis
-eggs PART-OF heterocyclic amines IS-A carcinogens CAUSED-BY risk LINKED-TO obesity
-multivitamin LINKED-TO risk EFFECT vegan diet IS-A children PART-OF hives
-cooking meat CAUSED-BY carcinogens IS-A pesticides PART-OF animal products LINKED-TO weight gain
-nuts EFFECT risk IS-A smoking PART-OF risks LINKED-TO heart disease
-milk EFFECT uric acid PART-OF gout
-tuna PART-OF toxin LINKED-TO alzheimer IS-A brain diseases
-flaxseed PART-OF women IS-A heart disease
-plant foods PART-OF iron LINKED-TO diabetes IS-A chronic diseases
-whole grains PART-OF fiber IS-A diverticulosis
-french fries LINKED-TO risk EFFECT beta-carotene IS-A antioxidants PART-OF inflammation
-nuts PART-OF fiber IS-A diverticulosis
-greens EFFECT risk IS-A obesity
-coloring PART-OF fish EFFECT risk IS-A smoking CAUSED-BY lung cancer
-brown rice EFFECT diabetes PART-OF epidemic CAUSED-BY obesity
-prebiotics IS-A fiber EFFECT cholesterol LINKED-TO nonalcoholic fatty liver
-eggs LINKED-TO risk EFFECT vegan diet IS-A children PART-OF hormonal dysfunction
-tuna IS-A industrial pollutants PART-OF fish EFFECT risk LINKED-TO obesity
-seeds IS-A plant-based diet EFFECT risk LINKED-TO smoking PART-OF emphysema
-cooked meat PART-OF heterocyclic amines CAUSED-BY fish EFFECT risk IS-A obesity
-alcohol LINKED-TO risk EFFECT vegan diet IS-A children PART-OF chronic disease
-fruit juice IS-A fiber EFFECT cholesterol PART-OF sexual dysfunction
-dried fruit PART-OF fiber IS-A diverticulosis
-eggs LINKED-TO risk EFFECT vegan diet IS-A children PART-OF infections
-milk CAUSED-BY uric acid PART-OF gout
-eggs PART-OF salmonella IS-A pathogens CAUSED-BY noroviruses
-brown rice EFFECT diabetes risk LINKED-TO iron PART-OF muscle CAUSED-BY inflammation
-milk CAUSED-BY acne
-fruit juice IS-A fiber EFFECT cholesterol PART-OF atherosclerosis
-chicken PART-OF iron LINKED-TO diabetes IS-A chronic diseases
-rice PART-OF arsenic CAUSED-BY skin cancer
-oatmeal PART-OF carbs LINKED-TO pancreatic cancer
-tomatoes PART-OF depression LINKED-TO inflammation
-french fries LINKED-TO risk EFFECT vegan diet IS-A children PART-OF pain
-milk IS-A animal products PART-OF iron LINKED-TO diabetes CAUSED-BY insulin resistance
-greens EFFECT risk PART-OF women IS-A heart disease
-aspartame CAUSED-BY adverse effects IS-A erectile dysfunction
-seafood PART-OF toxins IS-A arsenic CAUSED-BY skin cancer
-nuts IS-A fats PART-OF animal products LINKED-TO weight gain
-eggs LINKED-TO diabetes IS-A chronic diseases
-nutritional yeast PART-OF fiber EFFECT cholesterol CAUSED-BY arteries LINKED-TO cardiac disease
-pork PART-OF infection
-carrot PART-OF beta-carotene EFFECT risk LINKED-TO smoking CAUSED-BY lung cancer
-chicken PART-OF carcinogens CAUSED-BY risk LINKED-TO obesity
-desserts IS-A cake PART-OF cholesterol LINKED-TO nonalcoholic fatty liver
-turmeric EFFECT proteinuria
-eggs LINKED-TO risk IS-A smoking PART-OF emphysema
-beef EFFECT cholesterol CAUSED-BY arteries PART-OF allergies
-alcohol LINKED-TO risk EFFECT vegan diet IS-A children PART-OF pain
-ground beef LINKED-TO risk EFFECT vegan diet IS-A children PART-OF infectious diseases
-coffee IS-A insomnia
-beverage LINKED-TO infertility
-alcohol LINKED-TO risk IS-A smoking CAUSED-BY lung cancer
-plant foods EFFECT risks LINKED-TO heart disease
-ground beef LINKED-TO risk EFFECT vegan diet IS-A children PART-OF infection
-eggs PART-OF cholesterol EFFECT fiber IS-A diverticulosis
-french fries LINKED-TO risk EFFECT vegan diet IS-A children PART-OF hives
-seafood IS-A mercury PART-OF fish EFFECT risk LINKED-TO obesity
-chicken PART-OF allergies
-ground beef LINKED-TO risk EFFECT vegan diet IS-A children PART-OF infections
-beef EFFECT cholesterol CAUSED-BY arteries LINKED-TO cardiac disease
-grapes PART-OF antioxidants IS-A beta-carotene EFFECT risk LINKED-TO obesity
-green tea IS-A bacteria PART-OF animal products CAUSED-BY inflammation
-plant foods PART-OF iron LINKED-TO diabetes CAUSED-BY insulin resistance
-multivitamin LINKED-TO risk EFFECT vegan diet IS-A children PART-OF rickets
-ground beef LINKED-TO risk EFFECT vegan diet IS-A children PART-OF constipation
-diet PART-OF cholesterol CAUSED-BY arteries LINKED-TO cardiac disease
-whole foods PART-OF fiber EFFECT cholesterol CAUSED-BY arteries LINKED-TO cardiac disease
-seafood IS-A mercury PART-OF excess CAUSED-BY fatty liver
-french fries LINKED-TO risk EFFECT vegan diet IS-A children PART-OF infection
-cheese IS-A american PART-OF arsenic CAUSED-BY skin cancer
-chicken PART-OF heterocyclic amines IS-A carcinogens CAUSED-BY risk LINKED-TO obesity
-ground beef LINKED-TO risk IS-A obesity
-diet IS-A disability LINKED-TO heart disease
-poultry PART-OF virus IS-A plant-based diet EFFECT risk LINKED-TO obesity
-tuna IS-A fish EFFECT risk LINKED-TO smoking CAUSED-BY lung cancer
-sea vegetables PART-OF fiber EFFECT cholesterol LINKED-TO nonalcoholic fatty liver
-cranberries PART-OF antioxidants IS-A beta-carotene EFFECT risk LINKED-TO obesity
-chicken PART-OF heterocyclic amines CAUSED-BY fish EFFECT risk IS-A obesity
-nuts PART-OF fat IS-A brain CAUSED-BY atherosclerosis
-brown rice EFFECT diabetes risk LINKED-TO iron PART-OF women IS-A heart disease
-milk PART-OF acne
-eating meat IS-A fish EFFECT risk LINKED-TO smoking PART-OF emphysema
-carrot PART-OF beta-carotene EFFECT risk LINKED-TO obesity
-plant foods EFFECT risk LINKED-TO smoking CAUSED-BY lung cancer
-whole grains PART-OF fiber EFFECT cholesterol CAUSED-BY arteries LINKED-TO cardiac disease
-french fries IS-A carbs LINKED-TO pancreatic cancer
-beef PART-OF iron LINKED-TO diabetes IS-A chronic diseases
-sea vegetables PART-OF fiber EFFECT cholesterol CAUSED-BY arteries LINKED-TO cardiac disease
-eggs PART-OF choline IS-A death
-kangaroo meat CAUSED-BY inflammation
-avocados PART-OF toxin LINKED-TO alzheimer IS-A brain diseases
-greens EFFECT risk IS-A smoking PART-OF risks LINKED-TO heart disease
-sugar LINKED-TO pancreatic cancer
-alcohol LINKED-TO risk EFFECT vegan diet IS-A children PART-OF campylobacter infection
-prebiotics IS-A videos PART-OF saturated fat CAUSED-BY dysfunction
-green tea IS-A bacteria CAUSED-BY infections
-multivitamin LINKED-TO risk EFFECT beta-carotene IS-A antioxidants PART-OF inflammation
-eggs LINKED-TO risk EFFECT vegan diet IS-A children PART-OF pain
-aspartame LINKED-TO headaches
-eggs LINKED-TO diabetes PART-OF epidemic CAUSED-BY obesity
-cheese IS-A american PART-OF blindness
-plant foods PART-OF antioxidants IS-A beta-carotene EFFECT risk LINKED-TO obesity
-beef EFFECT cholesterol PART-OF women IS-A heart disease
-alcohol LINKED-TO risk EFFECT vegan diet IS-A children PART-OF hives
-chicken PART-OF heterocyclic amines CAUSED-BY fish EFFECT risk LINKED-TO obesity
-multivitamins IS-A videos PART-OF saturated fat CAUSED-BY dysfunction
-multivitamin LINKED-TO risk EFFECT vegan diet IS-A children PART-OF salmonella infections
-poultry LINKED-TO mortality PART-OF vitamin d IS-A diabetes CAUSED-BY insulin resistance
-corn PART-OF mercury IS-A fish EFFECT risk LINKED-TO obesity
-nuts EFFECT risk LINKED-TO dairy PART-OF acne
-carrot PART-OF beta-carotene EFFECT risk IS-A smoking CAUSED-BY lung cancer
-coloring PART-OF fish EFFECT risk LINKED-TO obesity
-brown rice EFFECT diabetes risk LINKED-TO iron PART-OF animal products CAUSED-BY inflammation
-eggs LINKED-TO risk EFFECT vegan diet IS-A children PART-OF kidney failure
-nuts EFFECT risk LINKED-TO smoking PART-OF emphysema
-tuna IS-A fish EFFECT risk LINKED-TO dairy PART-OF acne
-corn syrup PART-OF mercury IS-A fish EFFECT risk LINKED-TO obesity
-chicken PART-OF iron LINKED-TO diabetes CAUSED-BY insulin resistance
-cooked meat CAUSED-BY breast cancer
-rice IS-A carbohydrates PART-OF brain CAUSED-BY atherosclerosis
-plant foods EFFECT risk LINKED-TO obesity
-nuts PART-OF fiber EFFECT cholesterol LINKED-TO nonalcoholic fatty liver
-diet PART-OF cholesterol EFFECT fiber IS-A diverticulosis
-chickens PART-OF obesity
-greens IS-A plant-based diets PART-OF excess CAUSED-BY fatty liver
-prebiotics IS-A fiber EFFECT cholesterol PART-OF atherosclerosis
-french fries LINKED-TO risk EFFECT vegan diet IS-A children PART-OF dental fluorosis
-ground beef LINKED-TO risk EFFECT vegan diet IS-A children PART-OF leukemia
-eggs LINKED-TO risk EFFECT vegan diet IS-A children PART-OF eczema
-peppermint PART-OF antioxidants IS-A beta-carotene EFFECT risk LINKED-TO obesity
-nuts IS-A fat PART-OF fish EFFECT risk LINKED-TO obesity
-tuna IS-A fish EFFECT risk LINKED-TO obesity
-tobacco CAUSED-BY copd
-ground beef LINKED-TO risk PART-OF women IS-A heart disease
-miso PART-OF salt LINKED-TO stomach cancer
-whole grains PART-OF fiber EFFECT cholesterol LINKED-TO nonalcoholic fatty liver
-ground beef LINKED-TO risk EFFECT vegan diet IS-A children PART-OF pain
-eggs LINKED-TO risk EFFECT vegan diet IS-A children PART-OF hives
-french fries LINKED-TO risk EFFECT vegan diet IS-A children PART-OF prediabetes
-nut LINKED-TO death
-greens EFFECT risk LINKED-TO smoking CAUSED-BY lung cancer
-cooked meat PART-OF heterocyclic amines IS-A carcinogens CAUSED-BY risk LINKED-TO obesity
-eggs EFFECT cholesterol CAUSED-BY arteries LINKED-TO cardiac disease
-eating meat IS-A fish EFFECT risk LINKED-TO obesity
-dairy products PART-OF pesticides IS-A carcinogens CAUSED-BY risk LINKED-TO obesity
-cooked meat PART-OF carcinogens CAUSED-BY risk IS-A obesity
-alfalfa PART-OF salmonella IS-A pathogens CAUSED-BY noroviruses
-beef PART-OF saturated fat CAUSED-BY dysfunction
-beef IS-A saturated fat CAUSED-BY dysfunction
-beef EFFECT cholesterol PART-OF atherosclerosis
-cranberries PART-OF ulcers
-cheese IS-A american PART-OF celiac disease
-chicken PART-OF allergic reactions
-plant foods PART-OF inflammation
-prebiotics IS-A fiber EFFECT cholesterol CAUSED-BY arteries PART-OF allergies
-processed foods PART-OF health CAUSED-BY obesity
-plant foods EFFECT risk IS-A obesity
-eggs LINKED-TO risk EFFECT fish PART-OF allergies
-coloring PART-OF fish EFFECT risk IS-A obesity
-carrot PART-OF beta-carotene EFFECT risk IS-A obesity
-chicken PART-OF carcinogens CAUSED-BY risk IS-A obesity
-eggs PART-OF cholesterol LINKED-TO nonalcoholic fatty liver
-gum IS-A inflammation
-multivitamin LINKED-TO risk EFFECT vegan diet IS-A children PART-OF infection
-greens IS-A plant-based diets EFFECT prostate cancer
-plant foods EFFECT risk IS-A smoking PART-OF risks LINKED-TO heart disease
-beet PART-OF vitamin c IS-A scurvy
-anchovies IS-A fish EFFECT risk LINKED-TO obesity
-alcohol LINKED-TO risk EFFECT vegan diet IS-A children PART-OF asthma
-turmeric IS-A dna damage PART-OF bacteria CAUSED-BY infections
-mint tea PART-OF excess CAUSED-BY fatty liver
-poultry IS-A videos PART-OF saturated fat CAUSED-BY dysfunction
-plant foods EFFECT risk LINKED-TO dairy IS-A animal products CAUSED-BY inflammation
-aspartame PART-OF diet soda LINKED-TO risk IS-A smoking CAUSED-BY lung cancer
-ground beef LINKED-TO risk EFFECT beta-carotene IS-A antioxidants PART-OF inflammation
-milk PART-OF leukemia
-milk PART-OF bovine leukemia
-multivitamin LINKED-TO risk EFFECT vegan diet IS-A children PART-OF hormonal dysfunction
-eggs EFFECT cholesterol PART-OF weight loss
-coconut oil PART-OF saturated fat CAUSED-BY dysfunction
-nuts IS-A fat PART-OF insulin sensitivity
-fruit juice IS-A fiber EFFECT cholesterol PART-OF weight loss
-dried fruit PART-OF fiber EFFECT cholesterol CAUSED-BY arteries LINKED-TO cardiac disease
-deli meats PART-OF salmonella IS-A pathogens CAUSED-BY noroviruses
-french fries LINKED-TO risk PART-OF women IS-A heart disease
-plant foods PART-OF cadmium CAUSED-BY production LINKED-TO ulcerative colitis
-nuts EFFECT risk LINKED-TO dairy IS-A animal products CAUSED-BY inflammation
-diets PART-OF health CAUSED-BY obesity
-multivitamin LINKED-TO risk EFFECT vegan diet IS-A children PART-OF dental fluorosis
-diet EFFECT asthma
-whole foods PART-OF fiber EFFECT cholesterol LINKED-TO nonalcoholic fatty liver
-nuts IS-A fats PART-OF animal products CAUSED-BY inflammation
-deli meat PART-OF salmonella IS-A pathogens CAUSED-BY noroviruses
-beef EFFECT cholesterol PART-OF weight loss
-brown rice EFFECT diabetes CAUSED-BY insulin resistance
-greens EFFECT risk LINKED-TO dairy PART-OF acne
-chicken IS-A animal products CAUSED-BY inflammation
-carrot juice IS-A health CAUSED-BY obesity
-eggs LINKED-TO risk EFFECT vegan diet IS-A children PART-OF rickets
-tuna IS-A fish EFFECT risk LINKED-TO smoking PART-OF emphysema
-eggs EFFECT cholesterol PART-OF atherosclerosis
-plant foods EFFECT risk LINKED-TO smoking PART-OF emphysema
-cheese IS-A saturated fat CAUSED-BY dysfunction
-cheese IS-A saturated fat PART-OF cholesterol LINKED-TO nonalcoholic fatty liver
-chicken IS-A animal products PART-OF iron LINKED-TO diabetes CAUSED-BY insulin resistance
-eggs PART-OF heterocyclic amines CAUSED-BY fish EFFECT risk IS-A obesity
-nuts EFFECT risk IS-A obesity
-seeds IS-A plant-based diet EFFECT risk LINKED-TO obesity
-cheese IS-A saturated fat PART-OF cholesterol CAUSED-BY arteries LINKED-TO cardiac disease
-chicken PART-OF arsenic CAUSED-BY skin cancer
-brown rice EFFECT diabetes LINKED-TO iron PART-OF animal products CAUSED-BY inflammation
-carrot juice IS-A health PART-OF xenoestrogens LINKED-TO birth defects
-multivitamin LINKED-TO risk IS-A obesity
-carob PART-OF fiber EFFECT cholesterol CAUSED-BY arteries LINKED-TO cardiac disease
-multivitamin LINKED-TO risk EFFECT vegan diet IS-A children PART-OF leukemia
-ground beef LINKED-TO risk IS-A smoking PART-OF emphysema
-eating nuts EFFECT ldl PART-OF disease risk LINKED-TO obesity
-chicken PART-OF bacteria IS-A dental plaque
-beef EFFECT cholesterol PART-OF sexual dysfunction
-eggs PART-OF fat IS-A brain CAUSED-BY atherosclerosis
-tuna IS-A fish PART-OF xenoestrogens LINKED-TO birth defects
-aspartame PART-OF diet soda LINKED-TO risk IS-A obesity
-brown rice EFFECT diabetes PART-OF women IS-A heart disease
-greens EFFECT risk LINKED-TO dairy IS-A animal products CAUSED-BY inflammation
-plant foods EFFECT risk IS-A smoking PART-OF emphysema
-flax seeds IS-A omega PART-OF fish EFFECT risk LINKED-TO obesity
-multivitamin LINKED-TO risk PART-OF women IS-A heart disease
-nuts EFFECT ldl PART-OF disease risk LINKED-TO obesity
-carob PART-OF fiber EFFECT cholesterol LINKED-TO nonalcoholic fatty liver
-multivitamin LINKED-TO risk EFFECT vegan diet IS-A children PART-OF infections
-ground beef LINKED-TO risk EFFECT vegan diet IS-A children PART-OF rickets
-strawberries PART-OF metastasis
-plant foods PART-OF carcinogens CAUSED-BY risk IS-A obesity
-ground beef LINKED-TO risk EFFECT vegan diet IS-A children PART-OF chronic disease
-alcohol LINKED-TO risk EFFECT vegan diet IS-A children PART-OF infections
-nutritional yeast PART-OF fiber IS-A diverticulosis
-nuts EFFECT risk IS-A smoking CAUSED-BY lung cancer
-nuts EFFECT risk LINKED-TO smoking CAUSED-BY lung cancer
-tomatoes PART-OF depression LINKED-TO blood CAUSED-BY insulin resistance
-eggs PART-OF cholesterol CAUSED-BY arteries LINKED-TO cardiac disease
-poultry LINKED-TO mortality PART-OF women IS-A heart disease
-seeds IS-A plant-based diet EFFECT risk LINKED-TO dairy PART-OF acne
-cooked meat PART-OF carcinogens CAUSED-BY risk LINKED-TO obesity
-veggies EFFECT inflammation
-french fries LINKED-TO risk EFFECT vegan diet IS-A children PART-OF infectious diseases
-alcohol LINKED-TO risk IS-A obesity
-fruit juice IS-A fiber EFFECT cholesterol CAUSED-BY arteries PART-OF allergies
-tuna PART-OF mercury IS-A fish EFFECT risk LINKED-TO obesity
-alfalfa sprout PART-OF salmonella IS-A pathogens CAUSED-BY noroviruses
-ground beef LINKED-TO risk EFFECT vegan diet IS-A children PART-OF campylobacter infection
-multivitamin LINKED-TO risk EFFECT vegan diet IS-A children PART-OF campylobacter infection
-apples PART-OF vitamin c IS-A scurvy
-eating meat IS-A fish EFFECT risk LINKED-TO dairy PART-OF acne
-bacon IS-A animal products PART-OF iron LINKED-TO diabetes CAUSED-BY insulin resistance
-vitamin CAUSED-BY dementia
-nuts EFFECT risk PART-OF women IS-A heart disease
-pepsi PART-OF dyspepsia
-eggs LINKED-TO risk EFFECT vegan diet IS-A children PART-OF campylobacter infection
-multivitamin LINKED-TO risk EFFECT vegan diet IS-A children PART-OF eczema
-ground beef LINKED-TO risk EFFECT vegan diet IS-A children PART-OF salmonella infections
-prebiotics IS-A fiber EFFECT cholesterol PART-OF weight loss
-fruit juice IS-A fiber EFFECT cholesterol LINKED-TO nonalcoholic fatty liver
-plant foods EFFECT risk PART-OF women IS-A heart disease
-chicken PART-OF bacteria CAUSED-BY infections
-plant foods EFFECT risks PART-OF smoking CAUSED-BY lung cancer
-soy PART-OF women IS-A heart disease
-bacon IS-A animal products LINKED-TO weight gain
-herbs PART-OF cardiovascular disease
-french fries LINKED-TO risk EFFECT vegan diet IS-A children PART-OF campylobacter infection
-eggs EFFECT cholesterol CAUSED-BY arteries PART-OF allergies
-ground beef LINKED-TO risk EFFECT vegan diet IS-A children PART-OF asthma
-tuna IS-A fish PART-OF allergies
-french fries LINKED-TO risk EFFECT vegan diet IS-A children PART-OF constipation
-chicken PART-OF children IS-A vegan diet EFFECT risk LINKED-TO obesity
-beef IS-A saturated fat PART-OF cholesterol CAUSED-BY arteries LINKED-TO cardiac disease
-fruit juice IS-A fiber EFFECT cholesterol PART-OF saturated fat CAUSED-BY dysfunction
-sweeteners IS-A fibromyalgia
+prebiotic	IS-A	video	PART-OF	health	CAUSED-BY	obesity
+egg	LINKED-TO	risk	EFFECT	fish	PART-OF	allergy
+french fries	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	campylobacter infection
+processed meat	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	dental fluorosis
+beef	EFFECT	cholesterol	PART-OF	sexual dysfunction
+oatmeal	PART-OF	carb	LINKED-TO	pancreatic cancer
+nut	EFFECT	risk	LINKED-TO	heart disease
+egg	EFFECT	cholesterol	PART-OF	sexual dysfunction
+beef	EFFECT	cholesterol	CAUSED-BY	artery	LINKED-TO	cardiac disease
+french fries	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	hive
+bacon	IS-A	animal products	PART-OF	bacterium	CAUSED-BY	infection
+plant foods	EFFECT	risk	IS-A	obesity
+apple	PART-OF	toxin	IS-A	dioxin	CAUSED-BY	inflammation
+ground beef	LINKED-TO	risk	PART-OF	woman	IS-A	heart disease
+flax seeds	IS-A	omega	PART-OF	fish	EFFECT	risk	LINKED-TO	obesity
+whole foods	PART-OF	fiber	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
+cooked meat	PART-OF	heterocyclic amines	CAUSED-BY	fish	EFFECT	risk	LINKED-TO	heart disease
+fenugreek	PART-OF	antioxidant	IS-A	beta-carotene	EFFECT	risk	LINKED-TO	obesity
+egg	PART-OF	cholesterol	EFFECT	fiber	IS-A	diverticulosis
+egg	LINKED-TO	risk	EFFECT	beta-carotene	IS-A	antioxidant	PART-OF	inflammation
+milk	IS-A	animal products	PART-OF	bacterium	CAUSED-BY	infection
+ground beef	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	dental fluorosis
+fruit juice	IS-A	fiber	EFFECT	cholesterol	PART-OF	sexual dysfunction
+french fries	LINKED-TO	risk	EFFECT	fish	PART-OF	dioxin	CAUSED-BY	inflammation
+alcohol	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	chronic disease
+fruit juice	IS-A	fiber	EFFECT	cholesterol	PART-OF	saturated fat	CAUSED-BY	dysfunction
+chicken	PART-OF	arsenic	CAUSED-BY	skin cancer
+french fries	LINKED-TO	risk	IS-A	smoking	CAUSED-BY	lung cancer
+aspartame	CAUSED-BY	adverse effects	IS-A	erectile dysfunction
+chicken	IS-A	animal products	LINKED-TO	weight gain
+nut	EFFECT	risk	IS-A	obesity
+chicken	PART-OF	iron	LINKED-TO	diabetes	IS-A	chronic diseases
+bt corn	IS-A	pesticide	PART-OF	animal products	CAUSED-BY	inflammation
+cheese	PART-OF	pesticide	IS-A	carcinogen	CAUSED-BY	risk	LINKED-TO	heart disease
+processed meat	LINKED-TO	risk	IS-A	obesity
+mushroom	PART-OF	vitamin d	IS-A	diabetes	CAUSED-BY	insulin resistance
+multivitamin	LINKED-TO	risk	PART-OF	woman	IS-A	heart disease
+processed meat	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	chronic disease
+processed meat	LINKED-TO	risk	EFFECT	plant-based diet	IS-A	virus	PART-OF	breast cancer
+alcohol	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	hormonal dysfunction
+egg	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	prediabete
+mint tea	PART-OF	excess	CAUSED-BY	fatty liver
+carrot	PART-OF	beta-carotene	EFFECT	risk	LINKED-TO	heart disease
+anchovy	IS-A	fish	EFFECT	risk	LINKED-TO	obesity
+chicken	PART-OF	bacterium	IS-A	dental plaque
+anchovy	IS-A	fish	EFFECT	risk	LINKED-TO	smoking	CAUSED-BY	lung cancer
+alcohol	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	prediabete
+ground beef	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	eczema
+diet	PART-OF	cholesterol	LINKED-TO	nonalcoholic fatty liver
+diet	PART-OF	cholesterol	EFFECT	fiber	IS-A	diverticulosis
+plant foods	EFFECT	risk	PART-OF	smoking	CAUSED-BY	lung cancer
+nut	PART-OF	fiber	IS-A	diverticulosis
+green	EFFECT	risk	IS-A	smoking	PART-OF	emphysema
+dried fruit	PART-OF	fiber	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
+milk	EFFECT	uric acid	PART-OF	gout
+tuna	PART-OF	toxin	LINKED-TO	alzheimer	IS-A	neurodegenerative diseases
+multivitamin	IS-A	video	PART-OF	health	CAUSED-BY	obesity
+french fries	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	kidney failure
+turmeric	IS-A	dna damage	PART-OF	bacterium	CAUSED-BY	infection
+diet	IS-A	disability	LINKED-TO	heart disease
+carrot	PART-OF	beta-carotene	EFFECT	risk	IS-A	obesity
+chicken	PART-OF	campylobacter	IS-A	bacterium	CAUSED-BY	infection
+goji berries	IS-A	video	PART-OF	saturated fat	CAUSED-BY	dysfunction
+ground beef	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	salmonella infections
+chicken	PART-OF	carcinogen	CAUSED-BY	risk	LINKED-TO	heart disease
+anchovy	IS-A	fish	PART-OF	xenoestrogen	LINKED-TO	birth defects
+cheese	IS-A	american	PART-OF	arsenic	CAUSED-BY	skin cancer
+french fries	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	asthma
+apple	PART-OF	vitamin c	IS-A	scurvy
+flax	PART-OF	video	IS-A	fish oil	EFFECT	inflammation
+anchovy	IS-A	fish	EFFECT	risk	LINKED-TO	smoking	PART-OF	emphysema
+ground beef	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	asthma
+egg	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	salmonella infections
+nut	EFFECT	risk	LINKED-TO	smoking	PART-OF	emphysema
+multivitamin	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	salmonella infections
+egg	EFFECT	cholesterol	PART-OF	woman	IS-A	heart disease
+tuna	PART-OF	toxin	IS-A	dioxin	CAUSED-BY	inflammation
+flax seeds	PART-OF	fat	IS-A	brain	CAUSED-BY	atherosclerosis
+celery	PART-OF	nitrate	IS-A	health	CAUSED-BY	obesity
+apple juice	PART-OF	arsenic	CAUSED-BY	skin cancer
+prebiotic	IS-A	fiber	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
+dairy products	PART-OF	pesticide	IS-A	carcinogen	CAUSED-BY	risk	LINKED-TO	heart disease
+cheese	IS-A	american	PART-OF	celiac disease
+processed meat	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	asthma
+chicken	PART-OF	carcinogen	CAUSED-BY	risk	IS-A	obesity
+plant foods	PART-OF	antioxidant	IS-A	beta-carotene	EFFECT	risk	LINKED-TO	heart disease
+alcohol	LINKED-TO	risk	EFFECT	fish	PART-OF	allergy
+ground beef	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	pain
+alcohol	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	salmonella infections
+poultry	IS-A	video	PART-OF	health	CAUSED-BY	obesity
+french fries	LINKED-TO	risk	PART-OF	smoking	CAUSED-BY	lung cancer
+peppermint	PART-OF	antioxidant	IS-A	beta-carotene	EFFECT	risk	LINKED-TO	obesity
+ground beef	LINKED-TO	risk	EFFECT	fish	PART-OF	dioxin	CAUSED-BY	inflammation
+seed	IS-A	plant-based diet	EFFECT	risk	LINKED-TO	dairy	PART-OF	acne
+egg	PART-OF	heterocyclic amines	CAUSED-BY	fish	EFFECT	risk	LINKED-TO	heart disease
+fatty foods	IS-A	video	PART-OF	saturated fat	CAUSED-BY	dysfunction
+nut	EFFECT	risk	LINKED-TO	dairy	PART-OF	dioxin	CAUSED-BY	inflammation
+plant foods	EFFECT	risk	LINKED-TO	dairy	PART-OF	acne
+multivitamin	LINKED-TO	risk	IS-A	smoking	CAUSED-BY	lung cancer
+egg	PART-OF	carotenoid	IS-A	beta-carotene	EFFECT	risk	LINKED-TO	heart disease
+anchovy	IS-A	fish	EFFECT	risk	LINKED-TO	dairy	PART-OF	acne
+pork	PART-OF	virus	IS-A	plant-based diet	EFFECT	risk	LINKED-TO	heart disease
+green	EFFECT	risk	LINKED-TO	heart disease
+egg	PART-OF	salmonella	IS-A	pathogen	CAUSED-BY	norovirus
+nut	EFFECT	risk	LINKED-TO	dairy	PART-OF	acne
+multivitamin	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	infectious diseases
+apple	PART-OF	arsenic	CAUSED-BY	skin cancer
+egg	LINKED-TO	risk	IS-A	smoking	CAUSED-BY	lung cancer
+carrot	PART-OF	beta-carotene	EFFECT	risk	IS-A	smoking	CAUSED-BY	lung cancer
+chicken	PART-OF	iron	LINKED-TO	diabetes	CAUSED-BY	insulin resistance
+french fries	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	hormonal dysfunction
+fruit juice	IS-A	fiber	EFFECT	cholesterol	PART-OF	weight loss
+tuna	IS-A	fish	EFFECT	risk	PART-OF	smoking	CAUSED-BY	lung cancer
+carob	PART-OF	fiber	EFFECT	cholesterol	CAUSED-BY	artery	LINKED-TO	cardiac disease
+dried fruit	PART-OF	fiber	EFFECT	cholesterol	CAUSED-BY	artery	LINKED-TO	cardiac disease
+avocado	PART-OF	toxin	IS-A	arsenic	CAUSED-BY	skin cancer
+green	EFFECT	risk	IS-A	smoking	CAUSED-BY	lung cancer
+tomato	PART-OF	depression	LINKED-TO	blood	CAUSED-BY	insulin resistance
+banana	PART-OF	vitamin c	IS-A	scurvy
+prebiotic	IS-A	video	PART-OF	saturated fat	CAUSED-BY	dysfunction
+flax seeds	PART-OF	fiber	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
+cooked meat	PART-OF	heterocyclic amines	CAUSED-BY	fish	EFFECT	risk	IS-A	obesity
+prebiotic	IS-A	fiber	EFFECT	cholesterol	PART-OF	sexual dysfunction
+soy	PART-OF	woman	IS-A	heart disease
+alcohol	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	eczema
+green	IS-A	plant-based diets	EFFECT	prostate cancer
+alcohol	LINKED-TO	risk	PART-OF	kid	IS-A	muscle	CAUSED-BY	inflammation
+fatty foods	IS-A	video	PART-OF	health	CAUSED-BY	obesity
+deli meats	PART-OF	salmonella	IS-A	pathogen	CAUSED-BY	norovirus
+plant foods	EFFECT	risk	LINKED-TO	smoking	PART-OF	emphysema
+egg	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	infection
+ground beef	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	kidney failure
+nut	IS-A	fat	PART-OF	fish	EFFECT	risk	LINKED-TO	obesity
+alcohol	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	infection
+multivitamin	LINKED-TO	risk	IS-A	smoking	PART-OF	emphysema
+plant foods	EFFECT	risk	LINKED-TO	dairy	IS-A	animal products	CAUSED-BY	inflammation
+white bread	PART-OF	antioxidant	IS-A	beta-carotene	EFFECT	risk	LINKED-TO	obesity
+milk	CAUSED-BY	uric acid	PART-OF	gout
+tuna	IS-A	fish	PART-OF	allergy
+whole grains	PART-OF	fiber	EFFECT	cholesterol	CAUSED-BY	artery	LINKED-TO	cardiac disease
+dessert	IS-A	cake	PART-OF	cholesterol	LINKED-TO	nonalcoholic fatty liver
+egg	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	campylobacter infection
+whole grains	PART-OF	fiber	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
+green	EFFECT	risk	PART-OF	smoking	CAUSED-BY	lung cancer
+prebiotic	IS-A	fiber	EFFECT	cholesterol	PART-OF	saturated fat	CAUSED-BY	dysfunction
+chicken	PART-OF	bacterium	CAUSED-BY	infection
+plant foods	EFFECT	risk	IS-A	smoking	CAUSED-BY	lung cancer
+cilantro	IS-A	who	PART-OF	breast cancer
+egg	LINKED-TO	risk	PART-OF	woman	IS-A	heart disease
+chocolate	PART-OF	saturated fat	CAUSED-BY	dysfunction
+egg	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	infectious diseases
+milk	IS-A	video	PART-OF	health	CAUSED-BY	obesity
+egg	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	eczema
+whole foods	PART-OF	fiber	IS-A	diverticulosis
+alcohol	LINKED-TO	risk	IS-A	smoking	PART-OF	emphysema
+tomato	PART-OF	depression	LINKED-TO	inflammation
+tuna	IS-A	fish	EFFECT	risk	LINKED-TO	smoking	CAUSED-BY	lung cancer
+french fries	LINKED-TO	risk	PART-OF	woman	IS-A	heart disease
+pork	PART-OF	parasite	IS-A	brain	CAUSED-BY	atherosclerosis
+brown rice	EFFECT	diabetes	PART-OF	aid
+alfalfa sprout	PART-OF	salmonella	IS-A	pathogen	CAUSED-BY	norovirus
+chicken	PART-OF	salmonella	IS-A	pathogen	CAUSED-BY	norovirus
+whole grains	PART-OF	fiber	IS-A	diverticulosis
+prebiotic	IS-A	fiber	EFFECT	cholesterol	CAUSED-BY	artery	LINKED-TO	cardiac disease
+brown rice	EFFECT	diabetes risk	LINKED-TO	iron	PART-OF	muscle	CAUSED-BY	inflammation
+multivitamin	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	chronic disease
+egg	EFFECT	cholesterol	PART-OF	atherosclerosis
+carrot juice	IS-A	health	PART-OF	xenoestrogen	LINKED-TO	birth defects
+cooking meat	CAUSED-BY	carcinogen	IS-A	pesticide	PART-OF	animal products	LINKED-TO	weight gain
+french fries	LINKED-TO	risk	IS-A	obesity
+seafood	IS-A	mercury	PART-OF	fish	EFFECT	risk	LINKED-TO	obesity
+multivitamin	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	hive
+processed meat	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	prediabete
+food poisoning	PART-OF	video	IS-A	fish oil	EFFECT	inflammation
+fruit juice	IS-A	fiber	EFFECT	cholesterol	CAUSED-BY	artery	PART-OF	allergy
+multivitamin	IS-A	video	PART-OF	saturated fat	CAUSED-BY	dysfunction
+nut	IS-A	fat	PART-OF	animal products	CAUSED-BY	inflammation
+processed meat	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	infectious diseases
+tuna	IS-A	fish	PART-OF	xenoestrogen	LINKED-TO	birth defects
+corn syrup	PART-OF	mercury	IS-A	fish	EFFECT	risk	LINKED-TO	heart disease
+beef	EFFECT	cholesterol	PART-OF	atherosclerosis
+french fries	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	prediabete
+poultry	PART-OF	virus	IS-A	plant-based diet	EFFECT	risk	LINKED-TO	obesity
+aspartame	PART-OF	diet soda	LINKED-TO	risk	IS-A	smoking	CAUSED-BY	lung cancer
+seafood	PART-OF	toxin	IS-A	arsenic	CAUSED-BY	skin cancer
+carob	PART-OF	fiber	IS-A	diverticulosis
+whole foods	PART-OF	fiber	EFFECT	cholesterol	CAUSED-BY	artery	LINKED-TO	cardiac disease
+cooked meat	PART-OF	heterocyclic amines	IS-A	carcinogen	CAUSED-BY	risk	LINKED-TO	heart disease
+nut	EFFECT	risk	IS-A	smoking	CAUSED-BY	lung cancer
+eating meat	IS-A	fish	EFFECT	risk	LINKED-TO	heart disease
+avocado	PART-OF	toxin	IS-A	dioxin	CAUSED-BY	inflammation
+plant foods	EFFECT	risk	IS-A	smoking	PART-OF	emphysema
+cranberry	PART-OF	antioxidant	IS-A	beta-carotene	EFFECT	risk	LINKED-TO	heart disease
+alcohol	LINKED-TO	risk	IS-A	obesity
+multivitamin	LINKED-TO	risk	PART-OF	kid	IS-A	muscle	CAUSED-BY	inflammation
+plant foods	PART-OF	antioxidant	IS-A	beta-carotene	EFFECT	risk	LINKED-TO	obesity
+french fries	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	constipation
+ground beef	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	campylobacter infection
+ground beef	LINKED-TO	risk	IS-A	obesity
+apple	IS-A	video	PART-OF	saturated fat	CAUSED-BY	dysfunction
+anchovy	IS-A	fish	EFFECT	risk	LINKED-TO	heart disease
+ground beef	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	infectious diseases
+dried fruit	PART-OF	fiber	IS-A	diverticulosis
+eating meat	IS-A	fish	EFFECT	risk	LINKED-TO	dairy	PART-OF	acne
+chicken	IS-A	animal products	PART-OF	bacterium	CAUSED-BY	infection
+ground beef	LINKED-TO	risk	PART-OF	kid	IS-A	muscle	CAUSED-BY	inflammation
+seed	IS-A	plant-based diet	EFFECT	risk	PART-OF	smoking	CAUSED-BY	lung cancer
+nut	PART-OF	fiber	EFFECT	cholesterol	CAUSED-BY	artery	LINKED-TO	cardiac disease
+egg	PART-OF	saturated fat	CAUSED-BY	dysfunction
+beef	IS-A	saturated fat	CAUSED-BY	dysfunction
+egg	PART-OF	heterocyclic amines	CAUSED-BY	fish	EFFECT	risk	LINKED-TO	obesity
+carrot	PART-OF	beta-carotene	EFFECT	risk	LINKED-TO	obesity
+chocolate	PART-OF	fat	IS-A	brain	CAUSED-BY	atherosclerosis
+french fries	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	dental fluorosis
+organ	PART-OF	antioxidant	IS-A	beta-carotene	EFFECT	risk	LINKED-TO	obesity
+french fries	LINKED-TO	risk	EFFECT	fish	PART-OF	allergy
+alcohol	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	pain
+processed meat	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	hive
+multivitamin	LINKED-TO	risk	PART-OF	smoking	CAUSED-BY	lung cancer
+alcohol	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	constipation
+nut	PART-OF	production	LINKED-TO	ulcerative colitis
+egg	PART-OF	cholesterol	LINKED-TO	nonalcoholic fatty liver
+cooked meat	PART-OF	heterocyclic amines	CAUSED-BY	fish	EFFECT	risk	LINKED-TO	obesity
+egg	EFFECT	cholesterol	PART-OF	saturated fat	CAUSED-BY	dysfunction
+alcohol	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	leukemia
+apple	PART-OF	toxin	LINKED-TO	alzheimer	IS-A	brain diseases
+plant foods	PART-OF	carcinogen	CAUSED-BY	risk	LINKED-TO	heart disease
+french fries	IS-A	carb	LINKED-TO	pancreatic cancer
+chicken meat	PART-OF	virus	IS-A	plant-based diet	EFFECT	risk	LINKED-TO	obesity
+dairy products	PART-OF	dioxin	CAUSED-BY	inflammation
+egg	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	leukemia
+dessert	IS-A	cake	PART-OF	cholesterol	CAUSED-BY	artery	LINKED-TO	cardiac disease
+ground beef	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	rickets
+brown rice	EFFECT	diabetes risk	LINKED-TO	iron	PART-OF	woman	IS-A	heart disease
+white bread	PART-OF	antioxidant	IS-A	beta-carotene	EFFECT	risk	LINKED-TO	heart disease
+french fries	LINKED-TO	risk	IS-A	smoking	PART-OF	emphysema
+corn syrup	PART-OF	mercury	IS-A	fish	EFFECT	risk	LINKED-TO	obesity
+grape	PART-OF	fat	IS-A	brain	CAUSED-BY	atherosclerosis
+seafood	PART-OF	pcb	IS-A	xenoestrogen	LINKED-TO	birth defects
+french fries	LINKED-TO	risk	EFFECT	beta-carotene	IS-A	antioxidant	PART-OF	inflammation
+egg	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	asthma
+green	EFFECT	risk	PART-OF	woman	IS-A	heart disease
+milk	IS-A	estrogen	PART-OF	diabetes	CAUSED-BY	insulin resistance
+corn	PART-OF	mercury	IS-A	fish	EFFECT	risk	LINKED-TO	obesity
+egg	LINKED-TO	diabetes	PART-OF	aid
+plant foods	EFFECT	risk	LINKED-TO	dairy	PART-OF	dioxin	CAUSED-BY	inflammation
+egg	LINKED-TO	diabetes	PART-OF	epidemic	CAUSED-BY	obesity
+beef	EFFECT	cholesterol	PART-OF	weight loss
+prebiotic	IS-A	fiber	EFFECT	cholesterol	PART-OF	weight loss
+egg	PART-OF	cholesterol	CAUSED-BY	artery	LINKED-TO	cardiac disease
+flax seeds	PART-OF	fiber	IS-A	diverticulosis
+eating meat	IS-A	fish	PART-OF	xenoestrogen	LINKED-TO	birth defects
+seafood	PART-OF	toxin	LINKED-TO	alzheimer	IS-A	brain diseases
+egg	LINKED-TO	risk	IS-A	obesity
+multivitamin	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	kidney failure
+milk	IS-A	muscle	CAUSED-BY	inflammation
+milk	IS-A	muscle	PART-OF	iron	LINKED-TO	diabetes	CAUSED-BY	insulin resistance
+tuna	PART-OF	mercury	IS-A	fish	EFFECT	risk	LINKED-TO	heart disease
+dandelion	IS-A	antioxidant	PART-OF	inflammation
+processed meat	LINKED-TO	risk	PART-OF	kid	IS-A	muscle	CAUSED-BY	inflammation
+avocado	PART-OF	toxin	LINKED-TO	alzheimer	IS-A	neurodegenerative diseases
+eating meat	IS-A	fish	EFFECT	risk	LINKED-TO	smoking	PART-OF	emphysema
+egg	LINKED-TO	diabetes	IS-A	chronic diseases
+color	PART-OF	fish	EFFECT	risk	LINKED-TO	smoking	CAUSED-BY	lung cancer
+cooking meat	PART-OF	video	IS-A	fish oil	EFFECT	inflammation
+fruit juice	IS-A	fiber	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
+sea vegetables	PART-OF	fiber	IS-A	diverticulosis
+plant foods	PART-OF	iron	LINKED-TO	diabetes	CAUSED-BY	insulin resistance
+tuna	IS-A	fish	EFFECT	risk	LINKED-TO	smoking	PART-OF	emphysema
+plant foods	EFFECT	risk	LINKED-TO	obesity
+stevia	PART-OF	graph	IS-A	bpa	LINKED-TO	cardiovascular disease
+seed	IS-A	plant-based diet	EFFECT	risk	LINKED-TO	smoking	CAUSED-BY	lung cancer
+processed meat	LINKED-TO	risk	EFFECT	beta-carotene	IS-A	antioxidant	PART-OF	inflammation
+alcohol	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	hive
+beef	PART-OF	iron	LINKED-TO	diabetes	CAUSED-BY	insulin resistance
+tuna	IS-A	industrial pollutants	PART-OF	fish	EFFECT	risk	LINKED-TO	obesity
+seafood	IS-A	mercury	PART-OF	excess	CAUSED-BY	fatty liver
+processed meat	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	campylobacter infection
+cranberry	PART-OF	antioxidant	IS-A	beta-carotene	EFFECT	risk	LINKED-TO	obesity
+cheese	IS-A	american	PART-OF	diverticulosis
+egg	LINKED-TO	diabetes	CAUSED-BY	insulin resistance
+tuna	IS-A	fish	EFFECT	risk	LINKED-TO	obesity
+alcohol	LINKED-TO	risk	EFFECT	fish	PART-OF	dioxin	CAUSED-BY	inflammation
+anchovy	IS-A	fish	PART-OF	dioxin	CAUSED-BY	inflammation
+fruit juice	IS-A	fiber	EFFECT	cholesterol	PART-OF	atherosclerosis
+cheese	IS-A	american	PART-OF	blindness
+ground beef	LINKED-TO	risk	EFFECT	plant-based diet	IS-A	virus	PART-OF	breast cancer
+ground beef	LINKED-TO	risk	PART-OF	smoking	CAUSED-BY	lung cancer
+green tea	IS-A	bacterium	CAUSED-BY	infection
+carrot juice	IS-A	health	CAUSED-BY	obesity
+nutritional yeast	PART-OF	fiber	EFFECT	cholesterol	CAUSED-BY	artery	LINKED-TO	cardiac disease
+multivitamin	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	asthma
+goji berries	IS-A	video	PART-OF	health	CAUSED-BY	obesity
+nut	IS-A	fat	PART-OF	animal products	LINKED-TO	weight gain
+nutritional yeast	PART-OF	fiber	IS-A	diverticulosis
+milk	IS-A	video	PART-OF	saturated fat	CAUSED-BY	dysfunction
+chicken	PART-OF	heterocyclic amines	IS-A	carcinogen	CAUSED-BY	risk	LINKED-TO	heart disease
+egg	EFFECT	cholesterol	CAUSED-BY	artery	LINKED-TO	cardiac disease
+nut	PART-OF	fat	IS-A	brain	CAUSED-BY	atherosclerosis
+french fries	LINKED-TO	girl	PART-OF	endometrial cancer
+oatmeal	PART-OF	fiber	IS-A	diverticulosis
+lentil	PART-OF	carb	LINKED-TO	pancreatic cancer
+poultry	LINKED-TO	mortality	PART-OF	vitamin d	IS-A	diabetes	CAUSED-BY	insulin resistance
+processed foods	PART-OF	health	CAUSED-BY	obesity
+sea vegetables	PART-OF	fiber	EFFECT	cholesterol	CAUSED-BY	artery	LINKED-TO	cardiac disease
+french fries	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	infection
+bacon	PART-OF	nitrosamine	IS-A	carcinogen	CAUSED-BY	risk	LINKED-TO	heart disease
+seafood	PART-OF	toxin	IS-A	dioxin	CAUSED-BY	inflammation
+brown rice	EFFECT	diabetes	IS-A	chronic diseases
+seed	IS-A	plant-based diet	EFFECT	risk	LINKED-TO	obesity
+beet	PART-OF	vitamin c	IS-A	scurvy
+bacon	IS-A	animal products	CAUSED-BY	inflammation
+seed	IS-A	plant-based diet	EFFECT	risk	LINKED-TO	smoking	PART-OF	emphysema
+green	EFFECT	risk	LINKED-TO	obesity
+dairy products	PART-OF	pesticide	IS-A	carcinogen	CAUSED-BY	risk	LINKED-TO	obesity
+plant foods	PART-OF	cadmium	CAUSED-BY	production	LINKED-TO	ulcerative colitis
+seafood	PART-OF	toxin	LINKED-TO	alzheimer	IS-A	neurodegenerative diseases
+rice	PART-OF	arsenic	CAUSED-BY	skin cancer
+ground beef	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	chronic disease
+plant foods	PART-OF	carb	LINKED-TO	pancreatic cancer
+bean	PART-OF	plant-based diets	EFFECT	prostate cancer
+cheese	IS-A	saturated fat	PART-OF	cholesterol	CAUSED-BY	artery	LINKED-TO	cardiac disease
+alfalfa	PART-OF	salmonella	IS-A	pathogen	CAUSED-BY	norovirus
+plant foods	PART-OF	fiber	IS-A	diverticulosis
+brown rice	EFFECT	diabetes	PART-OF	epidemic	CAUSED-BY	obesity
+multivitamin	LINKED-TO	risk	EFFECT	fish	PART-OF	allergy
+egg	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	kidney failure
+multivitamin	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	pain
+alcohol	LINKED-TO	risk	IS-A	smoking	CAUSED-BY	lung cancer
+alcohol	LINKED-TO	risk	PART-OF	smoking	CAUSED-BY	lung cancer
+french fries	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	rickets
+tea	PART-OF	antioxidant	IS-A	beta-carotene	EFFECT	risk	LINKED-TO	heart disease
+beef	EFFECT	cholesterol	PART-OF	saturated fat	CAUSED-BY	dysfunction
+nut	EFFECT	risk	PART-OF	woman	IS-A	heart disease
+tuna	PART-OF	toxin	LINKED-TO	alzheimer	IS-A	brain diseases
+ground beef	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	infection
+corn	PART-OF	mercury	IS-A	fish	EFFECT	risk	LINKED-TO	heart disease
+gluten	IS-A	video	PART-OF	health	CAUSED-BY	obesity
+alcohol	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	infectious diseases
+beef	EFFECT	cholesterol	CAUSED-BY	artery	PART-OF	allergy
+poultry	IS-A	video	PART-OF	saturated fat	CAUSED-BY	dysfunction
+eating meat	IS-A	fish	EFFECT	risk	LINKED-TO	smoking	CAUSED-BY	lung cancer
+aspartame	PART-OF	diet soda	LINKED-TO	risk	IS-A	obesity
+anchovy	IS-A	fish	PART-OF	allergy
+processed meat	LINKED-TO	risk	IS-A	smoking	PART-OF	emphysema
+egg	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	rickets
+green tea	IS-A	bacterium	PART-OF	animal products	CAUSED-BY	inflammation
+nut	EFFECT	risk	IS-A	smoking	PART-OF	emphysema
+green	EFFECT	risk	PART-OF	kid	IS-A	muscle	CAUSED-BY	inflammation
+multivitamin	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	infection
+processed meat	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	salmonella infections
+chicken	PART-OF	virus	IS-A	plant-based diet	EFFECT	risk	LINKED-TO	obesity
+prebiotic	IS-A	fiber	EFFECT	cholesterol	CAUSED-BY	artery	PART-OF	allergy
+grape	PART-OF	antioxidant	IS-A	beta-carotene	EFFECT	risk	LINKED-TO	heart disease
+nut	EFFECT	risk	PART-OF	smoking	CAUSED-BY	lung cancer
+processed meat	LINKED-TO	risk	EFFECT	fish	PART-OF	dioxin	CAUSED-BY	inflammation
+plant foods	PART-OF	carcinogen	CAUSED-BY	risk	LINKED-TO	obesity
+cooked meat	PART-OF	carcinogen	CAUSED-BY	risk	IS-A	obesity
+nut	IS-A	fat	PART-OF	insulin sensitivity
+bt corn	IS-A	pesticide	PART-OF	animal products	LINKED-TO	weight gain
+sea vegetables	PART-OF	fiber	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
+multivitamin	LINKED-TO	risk	IS-A	obesity
+green	EFFECT	risk	IS-A	obesity
+processed meat	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	pain
+oatmeal	PART-OF	fiber	EFFECT	cholesterol	CAUSED-BY	artery	LINKED-TO	cardiac disease
+eating meat	IS-A	fish	PART-OF	dioxin	CAUSED-BY	inflammation
+beef	PART-OF	saturated fat	CAUSED-BY	dysfunction
+olive	PART-OF	fat	IS-A	brain	CAUSED-BY	atherosclerosis
+color	PART-OF	fish	EFFECT	risk	LINKED-TO	heart disease
+organ	PART-OF	antioxidant	IS-A	beta-carotene	EFFECT	risk	LINKED-TO	heart disease
+egg	PART-OF	heterocyclic amines	IS-A	carcinogen	CAUSED-BY	risk	LINKED-TO	heart disease
+processed meat	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	rickets
+egg	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	dental fluorosis
+tuna	PART-OF	mercury	IS-A	fish	EFFECT	risk	LINKED-TO	obesity
+beef	PART-OF	iron	LINKED-TO	diabetes	IS-A	chronic diseases
+egg	LINKED-TO	risk	EFFECT	plant-based diet	IS-A	virus	PART-OF	breast cancer
+ground beef	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	prediabete
+brown rice	EFFECT	diabetes risk	LINKED-TO	iron	PART-OF	animal products	CAUSED-BY	inflammation
+milk	IS-A	animal products	PART-OF	iron	LINKED-TO	diabetes	CAUSED-BY	insulin resistance
+pork	PART-OF	virus	IS-A	plant-based diet	EFFECT	risk	LINKED-TO	obesity
+ground beef	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	constipation
+processed meat	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	leukemia
+brown rice	EFFECT	diabetes	CAUSED-BY	insulin resistance
+beef	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
+french fries	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	leukemia
+plant foods	EFFECT	risk	LINKED-TO	heart disease
+processed meat	LINKED-TO	risk	PART-OF	woman	IS-A	heart disease
+multivitamin	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	leukemia
+processed meat	LINKED-TO	risk	PART-OF	smoking	CAUSED-BY	lung cancer
+carrot	PART-OF	beta-carotene	EFFECT	risk	LINKED-TO	smoking	CAUSED-BY	lung cancer
+diet	PART-OF	health	CAUSED-BY	obesity
+cilantro	IS-A	who	PART-OF	heart attacks
+egg	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
+cooked meat	PART-OF	heterocyclic amines	IS-A	carcinogen	CAUSED-BY	risk	LINKED-TO	obesity
+french fries	LINKED-TO	risk	PART-OF	kid	IS-A	muscle	CAUSED-BY	inflammation
+rice	IS-A	carbohydrate	PART-OF	brain	CAUSED-BY	atherosclerosis
+egg	PART-OF	choline	IS-A	death
+processed meat	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	kidney failure
+grape	PART-OF	antioxidant	IS-A	beta-carotene	EFFECT	risk	LINKED-TO	obesity
+anchovy	IS-A	fish	EFFECT	risk	PART-OF	smoking	CAUSED-BY	lung cancer
+breast milk	IS-A	pcb	LINKED-TO	fat	PART-OF	insulin sensitivity
+deli meat	PART-OF	salmonella	IS-A	pathogen	CAUSED-BY	norovirus
+egg	LINKED-TO	risk	PART-OF	kid	IS-A	muscle	CAUSED-BY	inflammation
+seafood	IS-A	mercury	PART-OF	fish	EFFECT	risk	LINKED-TO	heart disease
+chicken meat	PART-OF	virus	IS-A	plant-based diet	EFFECT	risk	LINKED-TO	heart disease
+apple	IS-A	video	PART-OF	health	CAUSED-BY	obesity
+apple	PART-OF	toxin	LINKED-TO	alzheimer	IS-A	neurodegenerative diseases
+bacon	PART-OF	nitrosamine	IS-A	carcinogen	CAUSED-BY	risk	LINKED-TO	obesity
+processed meat	LINKED-TO	risk	IS-A	smoking	CAUSED-BY	lung cancer
+eating nuts	EFFECT	ldl	PART-OF	disease risk	LINKED-TO	obesity
+chicken	PART-OF	carcinogen	CAUSED-BY	risk	LINKED-TO	obesity
+ground beef	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	hormonal dysfunction
+flax seeds	PART-OF	fiber	EFFECT	cholesterol	CAUSED-BY	artery	LINKED-TO	cardiac disease
+chicken	PART-OF	virus	IS-A	plant-based diet	EFFECT	risk	LINKED-TO	heart disease
+alcohol	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	kidney failure
+plant foods	PART-OF	fiber	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
+multivitamin	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	eczema
+cheese	IS-A	saturated fat	PART-OF	cholesterol	LINKED-TO	nonalcoholic fatty liver
+eating meat	IS-A	fish	EFFECT	risk	LINKED-TO	obesity
+multivitamin	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	rickets
+chicken	PART-OF	heterocyclic amines	IS-A	carcinogen	CAUSED-BY	risk	LINKED-TO	obesity
+alcohol	LINKED-TO	risk	EFFECT	beta-carotene	IS-A	antioxidant	PART-OF	inflammation
+french fries	LINKED-TO	risk	EFFECT	plant-based diet	IS-A	virus	PART-OF	breast cancer
+egg	EFFECT	cholesterol	PART-OF	weight loss
+oatmeal	PART-OF	fiber	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
+alcohol	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	asthma
+ground beef	LINKED-TO	risk	IS-A	smoking	PART-OF	emphysema
+egg	PART-OF	heterocyclic amines	CAUSED-BY	fish	EFFECT	risk	IS-A	obesity
+poultry	PART-OF	virus	IS-A	plant-based diet	EFFECT	risk	LINKED-TO	heart disease
+egg	EFFECT	cholesterol	CAUSED-BY	artery	PART-OF	allergy
+ground beef	LINKED-TO	risk	IS-A	smoking	CAUSED-BY	lung cancer
+cooked meat	PART-OF	carcinogen	CAUSED-BY	risk	LINKED-TO	heart disease
+egg	PART-OF	heterocyclic amines	IS-A	carcinogen	CAUSED-BY	risk	LINKED-TO	obesity
+plant foods	PART-OF	fiber	EFFECT	cholesterol	CAUSED-BY	artery	LINKED-TO	cardiac disease
+chicken	PART-OF	heterocyclic amines	CAUSED-BY	fish	EFFECT	risk	IS-A	obesity
+chicken	PART-OF	child	IS-A	vegan diet	EFFECT	risk	LINKED-TO	heart disease
+plant foods	EFFECT	risk	PART-OF	woman	IS-A	heart disease
+color	PART-OF	fish	EFFECT	risk	LINKED-TO	obesity
+diet	PART-OF	cholesterol	CAUSED-BY	artery	LINKED-TO	cardiac disease
+green	EFFECT	risk	LINKED-TO	dairy	IS-A	animal products	CAUSED-BY	inflammation
+french fries	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	eczema
+multivitamin	LINKED-TO	risk	EFFECT	beta-carotene	IS-A	antioxidant	PART-OF	inflammation
+seafood	PART-OF	pcb	LINKED-TO	fat	IS-A	brain	CAUSED-BY	atherosclerosis
+egg	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	hive
+green	EFFECT	risk	LINKED-TO	smoking	CAUSED-BY	lung cancer
+tomato	PART-OF	depression	CAUSED-BY	inflammation
+brown rice	EFFECT	diabetes	LINKED-TO	iron	PART-OF	muscle	CAUSED-BY	inflammation
+breast milk	IS-A	pcb	LINKED-TO	fat	PART-OF	animal products	CAUSED-BY	inflammation
+french fries	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	salmonella infections
+eating meat	IS-A	fish	PART-OF	allergy
+milk	IS-A	animal products	LINKED-TO	weight gain
+bacon	IS-A	animal products	LINKED-TO	weight gain
+beef	EFFECT	cholesterol	PART-OF	woman	IS-A	heart disease
+nut	PART-OF	fiber	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
+processed meat	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	constipation
+brown rice	EFFECT	diabetes	LINKED-TO	iron	PART-OF	woman	IS-A	heart disease
+chicken	PART-OF	child	IS-A	vegan diet	EFFECT	risk	LINKED-TO	obesity
+alcohol	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	campylobacter infection
+tea	PART-OF	antioxidant	IS-A	beta-carotene	EFFECT	risk	LINKED-TO	obesity
+beef	IS-A	saturated fat	PART-OF	cholesterol	CAUSED-BY	artery	LINKED-TO	cardiac disease
+cheese	IS-A	american	PART-OF	aortic aneurysms
+multivitamin	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	hormonal dysfunction
+brown rice	EFFECT	diabetes	PART-OF	woman	IS-A	heart disease
+plant foods	PART-OF	iron	LINKED-TO	diabetes	IS-A	chronic diseases
+plant foods	PART-OF	potassium	IS-A	fiber	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
+green	IS-A	plant-based diets	PART-OF	excess	CAUSED-BY	fatty liver
+flaxseed	PART-OF	woman	IS-A	heart disease
+multivitamin	LINKED-TO	risk	EFFECT	plant-based diet	IS-A	virus	PART-OF	breast cancer
+fruit juice	IS-A	fiber	EFFECT	cholesterol	CAUSED-BY	artery	LINKED-TO	cardiac disease
+plant foods	PART-OF	carcinogen	CAUSED-BY	risk	IS-A	obesity
+apple	PART-OF	toxin	IS-A	arsenic	CAUSED-BY	skin cancer
+miso	PART-OF	salt	LINKED-TO	stomach cancer
+bacon	IS-A	animal products	PART-OF	iron	LINKED-TO	diabetes	CAUSED-BY	insulin resistance
+fenugreek	PART-OF	antioxidant	IS-A	beta-carotene	EFFECT	risk	LINKED-TO	heart disease
+nut	EFFECT	risk	PART-OF	kid	IS-A	muscle	CAUSED-BY	inflammation
+tuna	IS-A	industrial pollutants	PART-OF	fish	EFFECT	risk	LINKED-TO	heart disease
+coconut oil	PART-OF	saturated fat	CAUSED-BY	dysfunction
+green	EFFECT	risk	LINKED-TO	dairy	PART-OF	acne
+tuna	IS-A	fish	EFFECT	risk	LINKED-TO	dairy	PART-OF	acne
+color	PART-OF	fish	EFFECT	risk	IS-A	obesity
+processed meat	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	hormonal dysfunction
+alcohol	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	rickets
+alcohol	LINKED-TO	risk	PART-OF	woman	IS-A	heart disease
+egg	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	chronic disease
+cheese	PART-OF	pesticide	IS-A	carcinogen	CAUSED-BY	risk	LINKED-TO	obesity
+prebiotic	IS-A	fiber	EFFECT	cholesterol	PART-OF	atherosclerosis
+nut	EFFECT	ldl	PART-OF	disease risk	LINKED-TO	obesity
+multivitamin	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	prediabete
+nutritional yeast	PART-OF	fiber	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
+plant foods	EFFECT	risk	PART-OF	kid	IS-A	muscle	CAUSED-BY	inflammation
+ground beef	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	leukemia
+egg	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	constipation
+nut	EFFECT	risk	LINKED-TO	obesity
+seed	IS-A	plant-based diet	EFFECT	risk	LINKED-TO	heart disease
+egg	LINKED-TO	risk	PART-OF	smoking	CAUSED-BY	lung cancer
+egg	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	hormonal dysfunction
+egg	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	pain
+tuna	IS-A	fish	PART-OF	dioxin	CAUSED-BY	inflammation
+ground beef	LINKED-TO	risk	EFFECT	fish	PART-OF	allergy
+egg	PART-OF	carotenoid	IS-A	beta-carotene	EFFECT	risk	LINKED-TO	obesity
+milk	IS-A	animal products	CAUSED-BY	inflammation
+color	PART-OF	fish	EFFECT	risk	IS-A	smoking	CAUSED-BY	lung cancer
+eating meat	IS-A	fish	EFFECT	risk	PART-OF	smoking	CAUSED-BY	lung cancer
+tuna	PART-OF	toxin	IS-A	arsenic	CAUSED-BY	skin cancer
+poultry	PART-OF	salmonella	IS-A	pathogen	CAUSED-BY	norovirus
+nut	IS-A	fat	PART-OF	fish	EFFECT	risk	LINKED-TO	heart disease
+french fries	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	pain
+egg	PART-OF	fat	IS-A	brain	CAUSED-BY	atherosclerosis
+chicken	IS-A	animal products	CAUSED-BY	inflammation
+chicken	IS-A	animal products	PART-OF	iron	LINKED-TO	diabetes	CAUSED-BY	insulin resistance
+avocado	PART-OF	toxin	LINKED-TO	alzheimer	IS-A	brain diseases
+french fries	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	infectious diseases
+green	EFFECT	risk	LINKED-TO	smoking	PART-OF	emphysema
+chicken	PART-OF	heterocyclic amines	CAUSED-BY	fish	EFFECT	risk	LINKED-TO	obesity
+gluten	IS-A	video	PART-OF	saturated fat	CAUSED-BY	dysfunction
+milk	PART-OF	pesticide	IS-A	carcinogen	CAUSED-BY	risk	LINKED-TO	heart disease
+green tea	IS-A	bacterium	PART-OF	animal products	LINKED-TO	weight gain
+cheese	IS-A	saturated fat	CAUSED-BY	dysfunction
+milk	IS-A	muscle	PART-OF	death
+alcohol	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	dental fluorosis
+processed meat	LINKED-TO	risk	EFFECT	fish	PART-OF	allergy
+alcohol	LINKED-TO	risk	EFFECT	plant-based diet	IS-A	virus	PART-OF	breast cancer
+peppermint	PART-OF	antioxidant	IS-A	beta-carotene	EFFECT	risk	LINKED-TO	heart disease
+food poisoning	IS-A	salmonella	PART-OF	salmonellosis
+milk	IS-A	estrogen	PART-OF	breast cancer
+nut	EFFECT	risk	LINKED-TO	smoking	CAUSED-BY	lung cancer
+ground beef	LINKED-TO	risk	EFFECT	beta-carotene	IS-A	antioxidant	PART-OF	inflammation
+nut	EFFECT	risk	LINKED-TO	dairy	IS-A	animal products	CAUSED-BY	inflammation
+egg	LINKED-TO	risk	EFFECT	fish	PART-OF	dioxin	CAUSED-BY	inflammation
+carob	PART-OF	fiber	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
+multivitamin	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	dental fluorosis
+multivitamin	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	constipation
+flax seeds	IS-A	omega	PART-OF	fish	EFFECT	risk	LINKED-TO	heart disease
+plant foods	EFFECT	risk	LINKED-TO	smoking	CAUSED-BY	lung cancer
+processed meat	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	eczema
+ground beef	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	hive
+cooked meat	PART-OF	carcinogen	CAUSED-BY	risk	LINKED-TO	obesity
+multivitamin	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	campylobacter infection
+french fries	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	chronic disease
+beef	IS-A	saturated fat	PART-OF	cholesterol	LINKED-TO	nonalcoholic fatty liver
+processed meat	LINKED-TO	risk	EFFECT	vegan diet	IS-A	child	PART-OF	infection
+tuna	IS-A	fish	EFFECT	risk	LINKED-TO	heart disease
+brown rice	EFFECT	diabetes	LINKED-TO	iron	PART-OF	animal products	CAUSED-BY	inflammation
+green tea	IS-A	bacterium	CAUSED-BY	plaque	PART-OF	artery	LINKED-TO	cardiac disease
+milk	PART-OF	pesticide	IS-A	carcinogen	CAUSED-BY	risk	LINKED-TO	obesity
+green	EFFECT	risk	LINKED-TO	dairy	PART-OF	dioxin	CAUSED-BY	inflammation
+poultry	LINKED-TO	mortality	PART-OF	woman	IS-A	heart disease
+multivitamin	LINKED-TO	risk	EFFECT	fish	PART-OF	dioxin	CAUSED-BY	inflammation
+egg	LINKED-TO	risk	IS-A	smoking	PART-OF	emphysema
+chicken	PART-OF	heterocyclic amines	CAUSED-BY	fish	EFFECT	risk	LINKED-TO	heart disease
+poultry	IS-A	salmonella	PART-OF	salmonellosis
+egg	LINKED-TO	diabetes	PART-OF	woman	IS-A	heart disease
