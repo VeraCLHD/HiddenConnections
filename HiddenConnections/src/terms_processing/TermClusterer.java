@@ -46,25 +46,30 @@ public class TermClusterer {
 	private static final String MESH_SUPP2017_ASCII = "mesh/c2017.bin";
 	
 	public static void main(String[] args) throws IOException{
+		TermClusterer tc = new TermClusterer();
+		tc.clusterTerms();
+       
+        
+    }
+
+	public void clusterTerms() throws MalformedURLException, IOException {
 		String[] files = {MESH_DESC2017_ASCII};
 		Writer.overwriteFile("", pathToAllTermsAfterWordNet);
         IDictionary dict = prepareExtraction();
-        TermClusterer tc = new TermClusterer();
+        
         readAllTerms();
         // is only needed once
         createEnrichedMeshDescFile();
         //createEnrichedMeshSuppFile();
         useMeshEntries();
         for(String t: categorizedTerms.keySet()){
-        	 tc.findLexNameForTerm(dict, t);
-        	 tc.categorizeTermWithMesh(t);
-        	 tc.finalCategorizationFoods(t);
+        	 this.findLexNameForTerm(dict, t);
+        	 this.categorizeTermWithMesh(t);
+        	 this.finalCategorizationFoods(t);
 		}
         
         writeAllTerms();
-       
-        
-    }
+	}
 	
 	public static void useMeshEntries(){
 		List<String> lines = Reader.readLinesList(MESH_VARIANTS_ENRICHED_TXT);

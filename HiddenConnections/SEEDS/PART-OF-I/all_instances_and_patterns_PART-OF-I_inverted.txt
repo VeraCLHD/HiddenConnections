@@ -28,10 +28,8 @@ fiber	dates	have	PART-OF
 excess	poultry workers	have	PART-OF
 mgus	who	have	PART-OF
 phytonutrients	sea vegetables	have	PART-OF
-thrown	vegetarians	have	PART-OF
 iron	women	have	PART-OF
 fiber	plants	have	PART-OF
-chronic	u.s	have	PART-OF
 heart attacks	who	have	PART-OF
 dna	plants	have	PART-OF
 fiber	plant foods	have	PART-OF
@@ -47,9 +45,7 @@ apoe	who	have	PART-OF
 phosphorus	animal foods	have	PART-OF
 pesticides	women	have	PART-OF
 eaten	who	have	PART-OF
-anti-cancer properties	sea vegetables	have	PART-OF
 fatty streaks	kids	have	PART-OF
-sardines	sardines	have	PART-OF
 signs	hypersensitivity	have	PART-OF
 adverse effects	pregnancy	have	PART-OF
 amla	smoothies	have	PART-OF
@@ -60,19 +56,15 @@ phytosterols	seeds	are packed with	PART-OF
 lignans	flaxseeds	are packed with	PART-OF
 nutrition	nuts	are packed with	PART-OF
 fiber	dried fruit	are packed with	PART-OF
+salmonella	turkey	has	PART-OF
+opioid	casomorphin	has	PART-OF
 phosphorus	protein	has	PART-OF
-zero	water	has	PART-OF
+bumped	diet	has	PART-OF
+mrsa	u.s	has	PART-OF
+celiac disease	american	has	PART-OF
 health benefits	spice	has	PART-OF
 vitamin d	mom	has	PART-OF
 shot	dementia	has	PART-OF
 tobacco	intake	has	PART-OF
 folate	kiwifruit	has	PART-OF
-salmonella	turkey	has	PART-OF
-opioid	casomorphin	has	PART-OF
-bumped	diet	has	PART-OF
-mrsa	u.s	has	PART-OF
-received	fernandez	has	PART-OF
-zero	ice	has	PART-OF
-celiac disease	american	has	PART-OF
-received	turmeric	has	PART-OF
 fiber	date sugar	has	PART-OF

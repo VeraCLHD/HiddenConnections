@@ -29,7 +29,11 @@ production	cadmium	caused by the	CAUSED-BY
 production	cadmium exposure	caused by the	CAUSED-BY
 brain damage	mercury	caused by the	CAUSED-BY
 mutations	carcinogen	caused by the	CAUSED-BY
-carcinogenic	heterocyclic	due to	CAUSED-BY
+inflammation	domesticated animal	triggered by	CAUSED-BY
+amyloidosis	leprosy	triggered by	CAUSED-BY
+inflammation	kangaroo meat	triggered by	CAUSED-BY
+inflammation	dioxin	triggered by	CAUSED-BY
+asthma	breathing	triggered by	CAUSED-BY
 cancer risk	carcinogens	due to	CAUSED-BY
 non-alcoholic fatty liver disease	obesity	due to	CAUSED-BY
 arteries	cholesterol	due to	CAUSED-BY
@@ -53,6 +57,7 @@ gluten	symptoms	due to	CAUSED-BY
 viruses	manure	due to	CAUSED-BY
 coli exposure	bacteria	due to	CAUSED-BY
 reaction	seafood	due to	CAUSED-BY
+meat	ddt	due to	CAUSED-BY
 phytonutrients	nutrient synergy	due to	CAUSED-BY
 copd	tobacco	is caused by	CAUSED-BY
 cartilage	inflammation	is caused by	CAUSED-BY
@@ -61,16 +66,7 @@ ph	short-chain fatty acids	is caused by	CAUSED-BY
 pain	inflammation	is caused by	CAUSED-BY
 plaque	bacteria	is caused by	CAUSED-BY
 diabetes	insulin resistance	is caused by	CAUSED-BY
-oxidant stress	antioxidant	due to the	CAUSED-BY
-production	estrogen	due to the	CAUSED-BY
-fish	food poisoning	due to the	CAUSED-BY
 
-domesticated animal	inflammation	triggered by	CAUSED-BY
-leprosy	amyloidosis	triggered by	CAUSED-BY
-kangaroo meat	inflammation	triggered by	CAUSED-BY
-dioxin	inflammation	triggered by	CAUSED-BY
-tick bites	meat allergies	triggered by	CAUSED-BY
-breathing	asthma	triggered by	CAUSED-BY
 uric acid	milk	caused	CAUSED-BY
 cancer	coffee drinking	caused	CAUSED-BY
 inflammation	animal products	caused	CAUSED-BY
@@ -88,6 +84,9 @@ insulin resistance	sucralose	causes	CAUSED-BY
 insulin	sucralose	causes	CAUSED-BY
 cancer	cigarette smoking	causes	CAUSED-BY
 dna mutations	liquid smoke	causes	CAUSED-BY
+guidelines	who	creates	CAUSED-BY
+free radicals	exercise	creates	CAUSED-BY
+heterocyclic amines	fish	creates	CAUSED-BY
 acne	milk	cause	CAUSED-BY
 dna mutations	carcinogens	cause	CAUSED-BY
 brain tumors	dental x-rays	cause	CAUSED-BY
@@ -98,15 +97,7 @@ inflammation	meat	cause	CAUSED-BY
 lung inflammation	air pollution	cause	CAUSED-BY
 dna	carcinogens	cause	CAUSED-BY
 infections	bacteria	cause	CAUSED-BY
-estrogenic effects	beer	cause	CAUSED-BY
 dysfunction	free radicals	cause	CAUSED-BY
 cancer	cell phones	cause	CAUSED-BY
 inflammation	animal products	cause	CAUSED-BY
-obesity	obesity	cause	CAUSED-BY
-breast cancer	bladder infections	tied to	CAUSED-BY
-multivitamin use	cancer risk	tied to	CAUSED-BY
-pancreatic cancer	sugar	tied to	CAUSED-BY
-sprouts	food poisoning	tied to	CAUSED-BY
-liver	poultry	tied to	CAUSED-BY
-multivitamin	risk	tied to	CAUSED-BY
-liver	poultry exposure	tied to	CAUSED-BY
+depressive symptoms	inflammation	to trigger	CAUSED-BY

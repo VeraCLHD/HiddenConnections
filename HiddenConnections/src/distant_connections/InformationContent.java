@@ -19,6 +19,7 @@ import terms_processing.StanfordLemmatizer;
  *
  */
 public class InformationContent {
+	private static final String SEEDS_INFORMATION_CONTENT_IS_A_IC_TXT = "SEEDS/INFORMATION CONTENT/isA_ic.txt";
 	private static final String TERMS_TO_EXCLUDE_TXT = "SEEDS/INFORMATION CONTENT/to_exclude.txt";
 	private static final double MIN_INFORMATION_CONTENT = 2.0;
 	private static String pathToInstances = "SEEDS/CONCATENATED/IS-A_final.txt";
@@ -120,11 +121,11 @@ public class InformationContent {
 	}
 	
 	public void writeIC(){
-		Writer.overwriteFile("", "SEEDS/INFORMATION CONTENT/isA_ic.txt");
+		Writer.overwriteFile("", SEEDS_INFORMATION_CONTENT_IS_A_IC_TXT);
 		for(String term: this.getInformation_content().keySet()){
 			
 			if( this.getInformation_content().get(term) >= MIN_INFORMATION_CONTENT){
-				Writer.appendLineToFile(term + "\t" + Double.toString(this.getInformation_content().get(term)), "SEEDS/CONCATENATED/isA_ic.txt");
+				Writer.appendLineToFile(term + "\t" + Double.toString(this.getInformation_content().get(term)), SEEDS_INFORMATION_CONTENT_IS_A_IC_TXT);
 			} else{
 				Writer.appendLineToFile(term + "\t" + Double.toString(this.getInformation_content().get(term)), TERMS_TO_EXCLUDE_TXT);
 			}
@@ -133,11 +134,7 @@ public class InformationContent {
 	}
 
 	public static void main(String[] args) {
-		InformationContent ic = new InformationContent();
-		ic.computeInformationContent();
-		ic.writeIC();
-		System.out.println(ic.getIsAPairs());
-		System.out.println(ic.getInformation_content());
+		
 		
 
 	}

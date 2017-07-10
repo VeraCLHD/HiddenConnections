@@ -1,6 +1,8 @@
 package distant_connections;
 
 import java.io.File;
+import java.io.IOException;
+import java.net.MalformedURLException;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.HashMap;
@@ -18,8 +20,11 @@ import io.Reader;
 import io.Writer;
 import overall.Pair;
 import terms_processing.StanfordLemmatizer;
+import terms_processing.TermClusterer;
 
 public class PreparationForIndirectConnections {
+	private static final String DISTANT_CONNECTIONS_FINAL_INPUT = "distant connections/ALL_RELATIONS_WITH_RELEVANT_INFO.txt";
+	// here, the too general connections are already filtered
 	private static final String DISTANT_CONNECTIONS_FILTERED = "distant connections/ALL_RELATIONS_FINAL.txt";
 	private static final String DISTANT_CONNECTIONS_TOO_GENERAL_RELATIONS_TXT = "distant connections/too_general_relations.txt";
 	private static final String TERMS_LEMMATIZED_TXT = "terms/lemmatized.txt";
@@ -89,7 +94,7 @@ public class PreparationForIndirectConnections {
 		Writer.overwriteFile("", "SEEDS/CONCATENATED/" + "PART-OF" + "_final.txt");
 		this.prepareInstances("IS-A", "HYPERNYMY");
 		this.prepareInstances("CAUSED-BY", "CAUSE");
-		this.prepareInstances("PART-OF", "PART-OF");
+		this.prepareInstances("PART-OF", "PART-OF-I");
 		List<String> finalFiles = new ArrayList<String>();
 		
 		
@@ -99,7 +104,8 @@ public class PreparationForIndirectConnections {
 			finalFiles.add(file.getAbsolutePath());
 		}
 		
-		finalFiles.add("EFFECT/" + "all_instances_and_patterns_EFFECT.txt");
+		finalFiles.add("SEEDS/EFFECT/" + "all_instances_and_patterns_EFFECT.txt");
+		finalFiles.add("SEEDS/LINKED-TO/" + "all_instances_and_patterns_LINKED-TO.txt");
 		String[] filesArray = new String[finalFiles.size()];
 		filesArray = finalFiles.toArray(filesArray);
 		
@@ -118,7 +124,7 @@ public class PreparationForIndirectConnections {
 		}
 	}
 	
-	public void readAllConnections(){
+	public void readAllConnectionsAndFilterTooGeneral(){
 		Writer.overwriteFile("", DISTANT_CONNECTIONS_TOO_GENERAL_RELATIONS_TXT);
 		Writer.overwriteFile("", DISTANT_CONNECTIONS_FILTERED);
 		List<String> lines = Reader.readLinesList(pathToInstances);
@@ -227,7 +233,7 @@ public class PreparationForIndirectConnections {
 	 */
 	public void rewriteInstances(){
 		// die produzierte Datei enthält noch california, adjectives
-		Writer.overwriteFile("", "distant connections/ALL_RELATIONS_WITH_RELEVANT_INFO.txt");
+		Writer.overwriteFile("", DISTANT_CONNECTIONS_FINAL_INPUT);
 		for(Quadruple<String> relation: this.getAllConnections()){
 			String first = relation.first;
 			String second = relation.second;
@@ -255,17 +261,30 @@ public class PreparationForIndirectConnections {
 			
 			newLine += relation.third +"\t";
 			newLine += relation.forth;
-			Writer.appendLineToFile(newLine, "distant connections/ALL_RELATIONS_WITH_RELEVANT_INFO.txt");
+			Writer.appendLineToFile(newLine, DISTANT_CONNECTIONS_FINAL_INPUT);
 		}
 	}
 	
-	public static void main(String[] args) {
+	public static void main(String[] args) throws MalformedURLException, IOException {
+		PreparationForIndirectConnections prep = new PreparationForIndirectConnections();
+		prep.rewriteResultsInSameDirection();
 		
-		//IndirectConnectionsFinder2.filter();
+		InformationContent ic = new InformationContent();
+		ic.computeInformationContent();
+		ic.writeIC();
+		System.out.println("DONE with Information Content");
+		// setzt voraus, dass information content file already there
+		prep.readInformationContentFile();
+		TermClusterer tc = new TermClusterer();
+		tc.clusterTerms();
 		
+		prep.readClusteredTerms();
+		System.out.println("DONE with clustered Terms");
+		prep.readAllConnectionsAndFilterTooGeneral();
+		System.out.println("DONE filtering too general");
+		// write big file as input for graph
+		prep.rewriteInstances();
 		
-		
-		//IndirectConnectionsFinder2.traverseAndFindHidden(allConnections);
 
 	}
 	

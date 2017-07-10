@@ -1,10 +1,4 @@
 
-domesticated animal	inflammation	triggered by	CAUSED-BY
-leprosy	amyloidosis	triggered by	CAUSED-BY
-kangaroo meat	inflammation	triggered by	CAUSED-BY
-dioxin	inflammation	triggered by	CAUSED-BY
-tick bites	meat allergies	triggered by	CAUSED-BY
-breathing	asthma	triggered by	CAUSED-BY
 uric acid	milk	caused	CAUSED-BY
 cancer	coffee drinking	caused	CAUSED-BY
 inflammation	animal products	caused	CAUSED-BY
@@ -22,6 +16,9 @@ insulin resistance	sucralose	causes	CAUSED-BY
 insulin	sucralose	causes	CAUSED-BY
 cancer	cigarette smoking	causes	CAUSED-BY
 dna mutations	liquid smoke	causes	CAUSED-BY
+guidelines	who	creates	CAUSED-BY
+free radicals	exercise	creates	CAUSED-BY
+heterocyclic amines	fish	creates	CAUSED-BY
 acne	milk	cause	CAUSED-BY
 dna mutations	carcinogens	cause	CAUSED-BY
 brain tumors	dental x-rays	cause	CAUSED-BY
@@ -32,16 +29,8 @@ inflammation	meat	cause	CAUSED-BY
 lung inflammation	air pollution	cause	CAUSED-BY
 dna	carcinogens	cause	CAUSED-BY
 infections	bacteria	cause	CAUSED-BY
-estrogenic effects	beer	cause	CAUSED-BY
 dysfunction	free radicals	cause	CAUSED-BY
 cancer	cell phones	cause	CAUSED-BY
 inflammation	animal products	cause	CAUSED-BY
-obesity	obesity	cause	CAUSED-BY
-breast cancer	bladder infections	tied to	CAUSED-BY
-multivitamin use	cancer risk	tied to	CAUSED-BY
-pancreatic cancer	sugar	tied to	CAUSED-BY
-sprouts	food poisoning	tied to	CAUSED-BY
-liver	poultry	tied to	CAUSED-BY
-multivitamin	risk	tied to	CAUSED-BY
-liver	poultry exposure	tied to	CAUSED-BY
-pork	foodborne illness	tied to	CAUSED-BY
+depressive symptoms	inflammation	to trigger	CAUSED-BY
+strokes	arteries	to trigger	CAUSED-BY
