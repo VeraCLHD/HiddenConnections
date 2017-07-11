@@ -141,7 +141,7 @@ public class Knoten {
 //		System.out.println(getAllPaths(3));
 		
 		createGraph(new File(pathToClusteredTerms), new File(DISTANT_CONNECTIONS_FINAL_INPUT));
-		ArrayList<String> all_paths = getAllPaths(4);
+		ArrayList<String> all_paths = getAllPaths(3);
 		Set<String> results = new HashSet<String>();
 		Writer.overwriteFile("", OUTPUT_OF_PROJECT);
 		for (String s: all_paths){

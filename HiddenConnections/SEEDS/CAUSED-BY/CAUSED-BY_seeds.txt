@@ -29,7 +29,6 @@ dump sentences\A-302_9_.txt	oils	steam	due to	CAUSED-BY	[JJ, TO]	1
 dump sentences\T-983_0_.txt	arteries	cholesterol	due to	CAUSED-BY	[JJ, TO]	1
 dump sentences\T-1653_1_.txt	brains	mercury	due to the high levels of	CAUSED-BY	[JJ, TO, DT, JJ, NNS, IN]	1
 dump sentences\V-268_7_.txt	sexual dysfunction	drugs	caused by these three	CAUSED-BY	[VBN, IN, DT, CD]	1
-dump sentences\T-1339_4_.txt	risk	carcinogens	due to	CAUSED-BY	[JJ, TO]	1
 dump sentences\T-1424_5_.txt	viruses	manure	due to	CAUSED-BY	[JJ, TO]	1
 dump sentences\T-1326_6_.txt	meat	arachidonic acid	due to	CAUSED-BY	[JJ, TO]	1
 dump sentences\V-25_10_.txt	dna damage	free radicals	caused by	CAUSED-BY	[VBN, IN]	1

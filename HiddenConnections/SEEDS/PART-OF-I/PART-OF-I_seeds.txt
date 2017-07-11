@@ -55,7 +55,6 @@ dump sentences\T-1197_4_.txt	chicken	omega 3	has low levels of	PART-OF	[VBZ, JJ,
 dump sentences\T-1768_11_.txt	cheerios	sugar	have added	PART-OF	[VBP, VBN]	1
 dump sentences\V-1003_4_.txt	avocados	cholesterol	had	PART-OF	[VBD]	1
 dump sentences\V-872_2_.txt	bacon	antioxidants	has to have	PART-OF	[VBZ, TO, VB]	1
-dump sentences\V-292_20_.txt	vegetarians	risk	have just a quarter the	PART-OF	[VBP, RB, DT, NN, DT]	1
 dump sentences\V-1162_0_.txt	children	carcinogens	have the highest levels of these	PART-OF	[VBP, DT, JJS, NNS, IN, DT]	1
 dump sentences\V-834_11_.txt	heart attacks	fat	had a plug of	PART-OF	[VBD, DT, NN, IN]	1
 dump sentences\A-171_44_.txt	diet	plants	filled with	PART-OF	[VBN, IN]	1
@@ -79,7 +78,6 @@ dump sentences\V-627_10_.txt	figs	fiber	are so packed with	PART-OF	[VBP, RB, JJ,
 dump sentences\A-106_25_.txt	gluten	bread	packed	PART-OF	[VBD]	1
 dump sentences\V-472_6_.txt	nuts	fat	are so filled with	PART-OF	[VBP, RB, VBN, IN]	1
 dump sentences\T-1602_1_.txt	grains	phytonutrients	have their	PART-OF	[VBP, PRP$]	1
-dump sentences\T-1424_10_.txt	women	pesticides	have	PART-OF	[VBP]	1
 dump sentences\T-461_0_.txt	cinnamon	antioxidants	is a great source of 	PART-OF	[VBZ, DT, JJ, NN, IN]	1
 dump sentences\A-32_10_.txt	fat cells	saturated fat	filled with	PART-OF	[VBN, IN]	1
 dump sentences\V-1135_3_.txt	american	celiac disease	has	PART-OF	[VBZ]	1
@@ -99,7 +97,6 @@ dump sentences\V-1072_6_.txt	turkey	salmonella	has	PART-OF	[VBZ]	1
 dump sentences\T-1627_1_.txt	whole foods	fiber	packed with	PART-OF	[VBN, IN]	1
 dump sentences\V-250_5_.txt	plants	antioxidants	provide	PART-OF	[VBP]	1
 dump sentences\V-1155_1_.txt	meat	sex steroid hormones	is so packed with	PART-OF	[VBZ, RB, JJ, IN]	1
-dump sentences\V-283_14_.txt	women	iron	have	PART-OF	[VBP]	1
 dump sentences\V-1256_7_.txt	fish	ddt	had higher levels of	PART-OF	[VBD, JJR, NNS, IN]	1
 dump sentences\T-1041_1_.txt	kale	antioxidants	is a good source of	PART-OF	[VBZ, DT, JJ, NN, IN]	1
 dump sentences\T-1079_22_.txt	eggs	cholesterol	are the top source of	PART-OF	[VBP, DT, JJ, NN, IN]	1
@@ -108,12 +105,9 @@ dump sentences\T-858_5_.txt	grapes	antioxidants	have	PART-OF	[VBP]	1
 dump sentences\V-1028_9_.txt	dates	fiber	have	PART-OF	[VBP]	1
 dump sentences\T-858_7_.txt	grapes	polyphenols	have	PART-OF	[VBP]	1
 dump sentences\V-891_3_.txt	beef	saturated fat	without the	PART-OF	[IN, DT]	1
-dump sentences\T-1681_5_.txt	diseases	risk	without the	PART-OF	[IN, DT]	1
 dump sentences\A-348_34_.txt	fruits	preservative	without the	PART-OF	[IN, DT]	1
 dump sentences\T-572_6_.txt	vegetables	sulforaphane	are a top source of	PART-OF	[VBP, DT, JJ, NN, IN]	1
 dump sentences\V-226_13_.txt	nuts	fat	are a preferable source of	PART-OF	[VBP, DT, JJ, NN, IN]	1
 dump sentences\A-194_27_.txt	anxiety	downer	without the	PART-OF	[IN, DT]	1
-dump sentences\V-150_23_.txt	smoking	risks	without the	PART-OF	[IN, DT]	1
 dump sentences\A-220_4_.txt	fish	mercury	with high levels of	PART-OF	[IN, JJ, NNS, IN]	1
 dump sentences\A-361_13_.txt	drug	side effects	without the	PART-OF	[IN, DT]	1
-dump sentences\V-147_22_.txt	women	phthalates	with the highest levels of	PART-OF	[IN, DT, JJS, NNS, IN]	1

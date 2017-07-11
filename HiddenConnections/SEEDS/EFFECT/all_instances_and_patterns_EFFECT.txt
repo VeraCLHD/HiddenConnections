@@ -2,27 +2,17 @@
 vegetables	cancer	reduce	EFFECT
 veggies	inflammation	reduce	EFFECT
 vegetables	cancer risk	reduce	EFFECT
-plant-based diet	risk	reduce	EFFECT
 vegetables	heart disease	reduce	EFFECT
-vegan diet	risk	reduce	EFFECT
 fish oil	inflammation	decreases	EFFECT
 turmeric	proteinuria	decreases	EFFECT
 tomato juice	inflammation	decreases	EFFECT
 sodium bicarbonate	kidney	decreases	EFFECT
 garlic	inflammation	decreases	EFFECT
 immunosuppression	cancer risk	decreases	EFFECT
-nuts	risk	reduce the	EFFECT
-plant foods	risk	reduce the	EFFECT
-vegetables	risk	reduce the	EFFECT
 pressure cooking	antioxidant content	reduce the	EFFECT
-vegan diet	risk	reduce the	EFFECT
-plant foods	risks	lower the	EFFECT
-beta-carotene	risk	lower the	EFFECT
-greens	risk	lower the	EFFECT
 eating eggs	cholesterol levels	lowered	EFFECT
 eggs	cholesterol	lowered	EFFECT
 tomatoes	platelet	lowered	EFFECT
-fish	risk	lowered	EFFECT
 tomatoes	platelet activation	lowered	EFFECT
 fiber	blood pressure	lowered	EFFECT
 plant-based diets	symptoms	reduced	EFFECT

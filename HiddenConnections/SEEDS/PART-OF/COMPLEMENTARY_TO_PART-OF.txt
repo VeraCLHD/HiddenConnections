@@ -46,7 +46,6 @@ dump sentences\T-1197_4_.txt	chicken	omega 3	has low levels of	PART-OF	[VBZ, JJ,
 dump sentences\T-1768_11_.txt	cheerios	sugar	have added	PART-OF	[VBP, VBN]	1
 dump sentences\V-1003_4_.txt	avocados	cholesterol	had	PART-OF	[VBD]	1
 dump sentences\V-872_2_.txt	bacon	antioxidants	has to have	PART-OF	[VBZ, TO, VB]	1
-dump sentences\V-292_20_.txt	vegetarians	risk	have just a quarter the	PART-OF	[VBP, RB, DT, NN, DT]	1
 dump sentences\V-1162_0_.txt	children	carcinogens	have the highest levels of these	PART-OF	[VBP, DT, JJS, NNS, IN, DT]	1
 dump sentences\V-834_11_.txt	heart attacks	fat	had a plug of	PART-OF	[VBD, DT, NN, IN]	1
 dump sentences\A-171_44_.txt	diet	plants	filled with	PART-OF	[VBN, IN]	1
@@ -70,7 +69,6 @@ dump sentences\V-627_10_.txt	figs	fiber	are so packed with	PART-OF	[VBP, RB, JJ,
 dump sentences\A-106_25_.txt	gluten	bread	packed	PART-OF	[VBD]	1
 dump sentences\V-472_6_.txt	nuts	fat	are so filled with	PART-OF	[VBP, RB, VBN, IN]	1
 dump sentences\T-1602_1_.txt	grains	phytonutrients	have their	PART-OF	[VBP, PRP$]	1
-dump sentences\T-1424_10_.txt	women	pesticides	have	PART-OF	[VBP]	1
 dump sentences\T-461_0_.txt	cinnamon	antioxidants	is a great source of 	PART-OF	[VBZ, DT, JJ, NN, IN]	1
 dump sentences\V-860_9_.txt	gut	raw	have the	PART-OF	[VBP, DT]	1
 dump sentences\A-32_10_.txt	fat cells	saturated fat	filled with	PART-OF	[VBN, IN]	1
@@ -91,7 +89,6 @@ dump sentences\V-1072_6_.txt	turkey	salmonella	has	PART-OF	[VBZ]	1
 dump sentences\T-1627_1_.txt	whole foods	fiber	packed with	PART-OF	[VBN, IN]	1
 dump sentences\V-250_5_.txt	plants	antioxidants	provide	PART-OF	[VBP]	1
 dump sentences\V-1155_1_.txt	meat	sex steroid hormones	is so packed with	PART-OF	[VBZ, RB, JJ, IN]	1
-dump sentences\V-283_14_.txt	women	iron	have	PART-OF	[VBP]	1
 dump sentences\V-1256_7_.txt	fish	ddt	had higher levels of	PART-OF	[VBD, JJR, NNS, IN]	1
 dump sentences\T-1041_1_.txt	kale	antioxidants	is a good source of	PART-OF	[VBZ, DT, JJ, NN, IN]	1
 dump sentences\T-1079_22_.txt	eggs	cholesterol	are the top source of	PART-OF	[VBP, DT, JJ, NN, IN]	1
@@ -101,62 +98,31 @@ dump sentences\V-1028_9_.txt	dates	fiber	have	PART-OF	[VBP]	1
 dump sentences\T-858_7_.txt	grapes	polyphenols	have	PART-OF	[VBP]	1
 dump sentences\T-572_6_.txt	vegetables	sulforaphane	are a top source of	PART-OF	[VBP, DT, JJ, NN, IN]	1
 dump sentences\V-226_13_.txt	nuts	fat	are a preferable source of	PART-OF	[VBP, DT, JJ, NN, IN]	1
-dump sentences\A-375_20_.txt	risk	breast cancer	of	PREP	[IN]	118
 dump sentences\A-337_6_.txt	ischemic heart disease	cancer	,	LIST	[,]	108
-dump sentences\A-487_10_.txt	risk	gestational diabetes mellitus	of	PREP	[IN]	94
 dump sentences\T-1204_1_.txt	nonalcoholic fatty liver disease	stroke	,	LIST	[,]	94
-dump sentences\V-610_31_.txt	risk	prostate cancer	of	PREP	[IN]	92
 dump sentences\A-204_6_.txt	heart disease	strokes	,	LIST	[,]	88
-dump sentences\V-1200_10_.txt	risk	kidney cancer	of	PREP	[IN]	88
-dump sentences\V-203_22_.txt	risk	colon cancer	of	PREP	[IN]	88
-dump sentences\V-92_4_.txt	risks	lung cancer	of	PREP	[IN]	85
-dump sentences\V-422_6_.txt	risk	liver cancer	of	PREP	[IN]	83
 dump sentences\V-736_5_.txt	fruits	vegetables	,	LIST	[,]	80
 dump sentences\V-1293_7_.txt	whole foods	plant-based diets	,	LIST	[,]	80
-dump sentences\A-262_21_.txt	risk	bladder cancer	of	PREP	[IN]	78
-dump sentences\V-483_7_.txt	risk	stomach cancer	of	PREP	[IN]	77
-dump sentences\V-15_247_.txt	risk	cancer progression	of	PREP	[IN]	76
-dump sentences\A-223_3_.txt	risk	dying	of	PREP	[IN]	76
 dump sentences\V-333_11_.txt	autoimmune diseases	cancer	,	LIST	[,]	74
-dump sentences\T-1833_5_.txt	risk	thyroid cancer	of	PREP	[IN]	73
 dump sentences\V-401_27_.txt	meats	dairy	,	LIST	[,]	73
 dump sentences\T-457_0_.txt	heart disease	breast cancer	,	LIST	[,]	72
-dump sentences\T-1716_3_.txt	risk	endometrial cancer	of	PREP	[IN]	71
-dump sentences\T-1384_8_.txt	risk	pancreatic cancer	of	PREP	[IN]	71
 dump sentences\V-405_4_.txt	coronary heart disease	cancer	,	LIST	[,]	70
-dump sentences\A-320_3_.txt	risk	oral cancer	of	PREP	[IN]	70
-dump sentences\V-1294_29_.txt	risk	mouth cancer	of	PREP	[IN]	69
-dump sentences\A-116_9_.txt	risk	precancerous changes	of	PREP	[IN]	68
-dump sentences\T-437_0_.txt	risk	cancers	of	PREP	[IN]	68
-dump sentences\V-802_2_.txt	risk	esophageal cancer	of	PREP	[IN]	68
 dump sentences\V-610_9_.txt	white meat	dairy	,	LIST	[,]	68
-dump sentences\T-1368_0_.txt	risk	ovarian cancer	of	PREP	[IN]	68
-dump sentences\V-112_7_.txt	risk	skin cancer	of	PREP	[IN]	68
-dump sentences\V-873_7_.txt	risk	respiratory tract cancer	of	PREP	[IN]	68
-dump sentences\V-768_2_.txt	risk	colorectal cancer	of	PREP	[IN]	67
 dump sentences\V-45_22_.txt	red meat	eggs	,	LIST	[,]	60
 dump sentences\A-234_0_.txt	heart disease	plant-based diet	with a	PREP	[IN, DT]	56
-dump sentences\T-1079_8_.txt	risk	coronary heart disease	of	PREP	[IN]	56
 dump sentences\A-1_19_.txt	coronary heart disease	stroke	,	LIST	[,]	55
 dump sentences\A-53_22_.txt	whole grains	beans	,	LIST	[,]	55
-dump sentences\A-302_1_.txt	risks	heart disease	of	PREP	[IN]	55
 dump sentences\V-202_3_.txt	meats	eggs	,	LIST	[,]	51
 dump sentences\T-1099_0_.txt	whole grains	cruciferous vegetables	,	LIST	[,]	51
-dump sentences\T-1090_1_.txt	risk	prediabetes	of	PREP	[IN]	49
 dump sentences\A-146_24_.txt	vegetables	fruits	,	LIST	[,]	49
 dump sentences\V-987_3_.txt	relative risks	breast cancer	for	PREP	[IN]	49
-dump sentences\V-696_3_.txt	risk	ischemic heart disease	of	PREP	[IN]	48
 dump sentences\T-1225_3_.txt	breast cancer	prostate cancer	,	LIST	[,]	48
 dump sentences\V-15_32_.txt	autoimmune diseases	plant-based diet	with a	PREP	[IN, DT]	47
-dump sentences\V-22_18_.txt	risk	type 1 diabetes	of	PREP	[IN]	46
-dump sentences\T-322_1_.txt	risk	inflammatory bowel diseases	of	PREP	[IN]	45
-dump sentences\V-766_0_.txt	risk	sudden cardiac death	of	PREP	[IN]	42
 dump sentences\V-922_10_.txt	trans fat	saturated fat	,	LIST	[,]	42
 dump sentences\V-470_4_.txt	beans	chickpeas	,	LIST	[,]	38
 dump sentences\V-66_21_.txt	kidney disease	breast cancer	,	LIST	[,]	38
 dump sentences\V-245_4_.txt	intact grains	beans	,	LIST	[,]	38
 dump sentences\T-440_14_.txt	liver disease	cancer	,	LIST	[,]	37
-dump sentences\T-1384_10_.txt	risks	death	of	PREP	[IN]	37
 dump sentences\V-469_10_.txt	cervical cancer	prostate cancer	,	LIST	[,]	36
 dump sentences\T-728_3_.txt	heart disease	diabetes	,	LIST	[,]	36
 dump sentences\V-1168_77_.txt	pancreatic cancer	prostate cancer	,	LIST	[,]	34
@@ -168,14 +134,12 @@ dump sentences\V-650_1_.txt	meats	fish	,	LIST	[,]	30
 dump sentences\A-67_30_.txt	hibiscus tea	plant-based diets	vs.	CC	[CC]	30
 dump sentences\A-230_0_.txt	beans	split peas	,	LIST	[,]	29
 dump sentences\A-374_3_.txt	african	americans	-	-COMPOUND	[]	29
-dump sentences\V-599_1_.txt	women	breast cancer	with	PREP	[IN]	28
 dump sentences\A-230_0_.txt	split peas	chickpeas	,	LIST	[,]	28
 dump sentences\T-96_8_.txt	trans fats	cholesterol	,	LIST	[,]	28
 dump sentences\V-1169_12_.txt	breast cancer	brain tumors	,	LIST	[,]	27
 dump sentences\T-440_14_.txt	cardiovascular disease	diabetes	,	LIST	[,]	26
 dump sentences\V-586_8_.txt	dental x-rays	brain tumors	cause	CAUSE	[VBP]	24
 dump sentences\V-45_20_.txt	heart attacks	strokes	,	LIST	[,]	23
-dump sentences\V-16_34_.txt	risk	heart attacks	of	PREP	[IN]	22
 dump sentences\A-121_8_.txt	chickpeas	split peas	,	LIST	[,]	22
 dump sentences\V-122_15_.txt	high blood pressure	diabetes	,	LIST	[,]	22
 dump sentences\A-410_15_.txt	reversing chronic disease	diet	through	PREP	[IN]	22
@@ -185,33 +149,24 @@ dump sentences\A-87_8_.txt	saturated fat	cholesterol	,	LIST	[,]	21
 dump sentences\A-255_25_.txt	strokes	heart attacks	,	LIST	[,]	21
 dump sentences\T-28_3_.txt	split peas	lentils	,	LIST	[,]	21
 dump sentences\V-226_12_.txt	vegetables	beans	,	LIST	[,]	21
-dump sentences\V-990_2_.txt	risk	strokes	of	PREP	[IN]	21
 dump sentences\V-13_70_.txt	chickpeas	lentils	,	LIST	[,]	20
 dump sentences\T-1051_3_.txt	chamomile tea	kidney disease	for those with	PREP	[IN, DT, IN]	20
 dump sentences\A-431_4_.txt	gorlin syndrome	green tea	with	PREP	[IN]	20
 dump sentences\V-478_20_.txt	testicular cancer	diabetes	,	LIST	[,]	20
 dump sentences\V-610_14_.txt	red meat	poultry	,	LIST	[,]	20
-dump sentences\V-367_4_.txt	risk	nonalcoholic fatty liver disease	for	PREP	[IN]	20
 dump sentences\T-904_10_.txt	flax seeds	whole grains	,	LIST	[,]	20
-dump sentences\A-207_33_.txt	risk	kidney stones	of	PREP	[IN]	19
-dump sentences\V-16_320_.txt	risks	chronic diseases	of	PREP	[IN]	19
 dump sentences\V-101_173_.txt	animal protein	animal fat	,	LIST	[,]	19
 dump sentences\T-1526_4_.txt	cancers	brain tumors	,	LIST	[,]	19
 dump sentences\A-65_8_.txt	heart attacks	strokes	or	AND-CONJ	[CC]	19
 dump sentences\V-1169_12_.txt	brain tumors	kidney cancer	,	LIST	[,]	19
-dump sentences\V-433_17_.txt	risk	colon cancer	for	PREP	[IN]	19
 dump sentences\A-373_8_.txt	beans	whole grains	,	LIST	[,]	19
 dump sentences\V-616_30_.txt	meats	poultry	,	LIST	[,]	18
 dump sentences\A-28_1_.txt	bad cholesterol	high blood pressure	,	LIST	[,]	18
 dump sentences\V-101_156_.txt	dairy	eggs	,	LIST	[,]	18
-dump sentences\V-189_10_.txt	risks	heart disease	for	PREP	[IN]	18
-dump sentences\V-938_2_.txt	risk	coronary heart disease	for	PREP	[IN]	18
 dump sentences\T-606_1_.txt	processed meat	poultry	,	LIST	[,]	18
 dump sentences\V-226_12_.txt	beans	nuts	,	LIST	[,]	17
 dump sentences\V-13_35_.txt	animal fat	cholesterol	,	LIST	[,]	17
 dump sentences\A-279_13_.txt	vegetables	nuts	,	LIST	[,]	17
-dump sentences\A-137_1_.txt	risk	cardiovascular disease	of	PREP	[IN]	17
-dump sentences\T-1117_1_.txt	risk	liver disease	of	PREP	[IN]	17
 dump sentences\V-1089_9_.txt	eggs	dairy	,	LIST	[,]	17
 dump sentences\A-431_2_.txt	genital warts	green tea	with	PREP	[IN]	16
 dump sentences\V-602_7_.txt	cancer growth	plant-based diet	with a	PREP	[IN, DT]	16
@@ -221,20 +176,15 @@ dump sentences\T-102_10_.txt	animal fat	animal protein	,	LIST	[,]	16
 dump sentences\A-105_5_.txt	vegetables	whole grains	,	LIST	[,]	16
 dump sentences\V-76_3_.txt	prostate cancer	plant-based diet	could be reversed with a	REVERSE	[MD, VB, VBN, IN, DT]	16
 dump sentences\T-305_2_.txt	herbal teas	green tea	,	LIST	[,]	16
-dump sentences\A-409_11_.txt	risk	prostate enlargement	of	PREP	[IN]	16
 dump sentences\A-348_15_.txt	dried apples	cholesterol	versus	CC	[CC]	15
 dump sentences\V-382_5_.txt	black tea	green tea	,	LIST	[,]	15
-dump sentences\T-576_4_.txt	risks	heart attack	of	PREP	[IN]	15
 dump sentences\V-582_9_.txt	fruits	vegetables	or	AND-CONJ	[CC]	15
 dump sentences\V-600_2_.txt	autoimmune diseases	inflammatory diseases	,	LIST	[,]	15
 dump sentences\T-936_5_.txt	obesity	prediabetes	,	LIST	[,]	15
-dump sentences\A-359_3_.txt	risk	infectious diseases	of	PREP	[IN]	15
 dump sentences\V-1169_7_.txt	beans	fruits	,	LIST	[,]	15
 dump sentences\V-740_0_.txt	whole grains	legumes	,	LIST	[,]	15
 dump sentences\V-960_4_.txt	nuts	seeds	,	LIST	[,]	15
 dump sentences\T-751_3_.txt	depression	anxiety	,	LIST	[,]	15
-dump sentences\T-31_4_.txt	risk	dementia	of	PREP	[IN]	14
-dump sentences\V-599_3_.txt	risk	liver cancer	for	PREP	[IN]	14
 dump sentences\A-233_5_.txt	diabetes	coronary heart disease	,	LIST	[,]	14
 dump sentences\A-8_27_.txt	cans	soda	of	PREP	[IN]	14
 dump sentences\V-440_7_.txt	prevention	chronic diseases	of	PREP	[IN]	14
@@ -250,9 +200,7 @@ dump sentences\V-423_12_.txt	beef	chicken	,	LIST	[,]	13
 dump sentences\T-992_1_.txt	obesity	type 1 diabetes	,	LIST	[,]	13
 dump sentences\V-205_2_.txt	heart disease	diet	with	PREP	[IN]	13
 dump sentences\A-103_39_.txt	diseases	diet	with	PREP	[IN]	13
-dump sentences\V-223_6_.txt	risk	prostate cancer	for	PREP	[IN]	13
 dump sentences\A-205_8_.txt	native americans	plant-based diet	, a	LIST	[,, DT]	13
-dump sentences\T-867_12_.txt	risk	gout	of	PREP	[IN]	13
 dump sentences\V-160_4_.txt	kidney cancer	kidney stones	,	LIST	[,]	13
 dump sentences\T-742_8_.txt	chia seeds	flax seeds	,	LIST	[,]	13
 dump sentences\V-1205_10_.txt	stomach cancer	colon cancer	, but	LIST	[,, CC]	13
@@ -282,7 +230,6 @@ dump sentences\A-58_22_.txt	cigarette smoking	lung cancer	causes	CAUSE	[VBZ]	12
 dump sentences\A-310_40_.txt	chicken	bladder infections	to avoid	INFLUENCE	[TO, VB]	12
 dump sentences\T-437_0_.txt	dioxins	pcbs	,	LIST	[,]	11
 dump sentences\A-28_1_.txt	diabetes	abdominal obesity	,	LIST	[,]	11
-dump sentences\A-281_24_.txt	risk	thyroid cancer	for	PREP	[IN]	11
 dump sentences\V-1128_8_.txt	eggs	fish	,	LIST	[,]	11
 dump sentences\V-15_157_.txt	variety	plant-based diets	of	PREP	[IN]	11
 dump sentences\V-972_6_.txt	cancer	ischemic heart disease	,	LIST	[,]	11
@@ -294,7 +241,6 @@ dump sentences\V-208_4_.txt	lung cancer	heart disease	,	LIST	[,]	11
 dump sentences\T-495_2_.txt	prevention	treatment	,	LIST	[,]	11
 dump sentences\A-190_57_.txt	eggs	cheese	,	LIST	[,]	11
 dump sentences\A-327_13_.txt	meats	milk	,	LIST	[,]	11
-dump sentences\A-83_40_.txt	risks	iron supplements	associated with	CAUSE	[VBN, IN]	11
 dump sentences\A-204_6_.txt	strokes	diabetes	,	LIST	[,]	11
 dump sentences\V-1168_76_.txt	breast cancer	brain cancer	,	LIST	[,]	11
 dump sentences\T-1911_12_.txt	saturated fat	animal protein	,	LIST	[,]	11
@@ -303,7 +249,6 @@ dump sentences\T-1117_3_.txt	lead	liver disease	to	PREP	[TO]	11
 dump sentences\A-214_41_.txt	diet	rheumatoid arthritis	&	AND-CONJ	[CC]	11
 dump sentences\V-162_3_.txt	prevention	colorectal cancer	of	PREP	[IN]	11
 dump sentences\T-554_5_.txt	cancers	heart disease	,	LIST	[,]	11
-dump sentences\A-137_25_.txt	risk	lung cancer	for	PREP	[IN]	11
 dump sentences\T-606_1_.txt	eggs	processed meat	,	LIST	[,]	10
 dump sentences\V-216_9_.txt	hot dogs	sausage	,	LIST	[,]	10
 dump sentences\A-430_9_.txt	plant protein	plant fat	or	AND-CONJ	[CC]	10
@@ -312,7 +257,6 @@ dump sentences\A-15_13_.txt	oxidative stress	inflammation	,	LIST	[,]	10
 dump sentences\A-296_3_.txt	lung cancer	kidney cancer	,	LIST	[,]	10
 dump sentences\A-400_10_.txt	fish	poultry	,	LIST	[,]	10
 dump sentences\T-904_10_.txt	dried apples	indian gooseberries	,	LIST	[,]	10
-dump sentences\A-450_8_.txt	risk	cancers	for	PREP	[IN]	10
 dump sentences\V-705_3_.txt	fish	dairy	,	LIST	[,]	10
 dump sentences\A-350_15_.txt	nettle tea	chamomile tea	to	PREP	[TO]	10
 dump sentences\A-83_39_.txt	plant-based diets	hypertension	for	PREP	[IN]	10
@@ -324,29 +268,23 @@ dump sentences\V-1040_11_.txt	prostate cancer	bladder cancer	,	LIST	[,]	10
 dump sentences\A-481_21_.txt	flax seeds	black beans	,	LIST	[,]	10
 dump sentences\A-224_38_.txt	red wine	white wine	vs.	CC	[CC]	10
 dump sentences\A-342_18_.txt	flax seeds	prostate cancer	vs.	CC	[CC]	10
-dump sentences\T-852_4_.txt	risk	prediabetes	for	PREP	[IN]	10
 dump sentences\V-1069_7_.txt	american academy of pediatrics	american public health association	, the	LIST	[,, DT]	10
 dump sentences\V-15_257_.txt	prostate cancer	vegan diet	with a	PREP	[IN, DT]	10
-dump sentences\V-1227_5_.txt	risk	cervical cancer	for	PREP	[IN]	10
 dump sentences\V-531_6_.txt	split peas	lentils	, or	AND-CONJ	[,, CC]	10
 dump sentences\V-15_326_.txt	arteries	drugs	without	PREP	[IN]	10
 dump sentences\V-1269_5_.txt	milk	soy milk	or	AND-CONJ	[CC]	10
-dump sentences\T-242_2_.txt	risks	gestational diabetes	for	PREP	[IN]	10
 dump sentences\V-651_5_.txt	kidney cancer	colon cancer	,	LIST	[,]	10
 dump sentences\A-230_0_.txt	beans	peas	, split	LIST	[,, VBD]	10
 dump sentences\A-83_9_.txt	green tea	white tea	,	LIST	[,]	10
-dump sentences\T-1367_5_.txt	risk	ovarian cancer	for	PREP	[IN]	10
 dump sentences\A-121_8_.txt	lentils	chickpeas	,	LIST	[,]	10
 dump sentences\V-152_11_.txt	prevention	coronary heart disease	of	PREP	[IN]	10
 dump sentences\A-426_17_.txt	whole grains	greens	,	LIST	[,]	10
 dump sentences\V-454_4_.txt	greens	beans	,	LIST	[,]	10
 dump sentences\V-1128_8_.txt	chicken	eggs	,	LIST	[,]	9
-dump sentences\A-306_9_.txt	risk	brain tumors	of	PREP	[IN]	9
 dump sentences\T-120_10_.txt	pinto beans	lentils	,	LIST	[,]	9
 dump sentences\T-1350_6_.txt	plant-based diet	vitamin b12	,	LIST	[,]	9
 dump sentences\V-957_2_.txt	fruits	whole grains	,	LIST	[,]	9
 dump sentences\A-76_17_.txt	antioxidants	vitamin c	and nutrients, such as	AND SUCH AS	[CC, NNS, ,, JJ, IN]	22
-dump sentences\T-1728_2_.txt	risks	depression	of	PREP	[IN]	9
 dump sentences\V-101_103_.txt	plant-based diet	cancer cell growth	,	LIST	[,]	9
 dump sentences\T-751_3_.txt	symptoms	depression	of	PREP	[IN]	9
 dump sentences\T-120_10_.txt	chai tea	chamomile tea	,	LIST	[,]	9
@@ -358,7 +296,6 @@ dump sentences\V-876_1_.txt	stomach cancer	colon cancer	,	LIST	[,]	9
 dump sentences\V-555_19_.txt	broccoli	cauliflower	,	LIST	[,]	9
 dump sentences\T-1911_13_.txt	cervical cancer	kidney cancer	,	LIST	[,]	9
 dump sentences\V-676_1_.txt	lead	weight gain	to	PREP	[TO]	9
-dump sentences\T-1524_1_.txt	risk	upper respiratory tract infections	of	PREP	[IN]	9
 dump sentences\A-407_7_.txt	cancer reversal	diet	through	PREP	[IN]	9
 dump sentences\V-317_7_.txt	cornell	oxford	-	-COMPOUND	[]	9
 dump sentences\T-1580_6_.txt	eggs	milk	,	LIST	[,]	9
@@ -377,7 +314,6 @@ dump sentences\A-222_3_.txt	vegan diets	vitamin b12	through	PREP	[IN]	8
 dump sentences\T-1197_2_.txt	dairy	meat	,	LIST	[,]	8
 dump sentences\A-429_2_.txt	kiwifruit	irritable bowel syndrome	for	PREP	[IN]	8
 dump sentences\A-33_29_.txt	saturated fat	blood sugar	raises	INCREASE	[VBZ]	8
-dump sentences\V-10_2_.txt	risk	brain damage	of	PREP	[IN]	8
 dump sentences\A-23_28_.txt	fruits	beans	,	LIST	[,]	8
 dump sentences\T-511_0_.txt	bugs	c. diff	such as salmonella and	IS-A	[JJ, IN, NN, CC]	22
 dump sentences\A-289_24_.txt	plant-based diets	breast pain	for	PREP	[IN]	8
@@ -400,14 +336,12 @@ dump sentences\V-412_24_.txt	green tea	mouthwash	as a	PREP	[IN, DT]	8
 dump sentences\A-302_8_.txt	turkey meat	bologna	,	LIST	[,]	8
 dump sentences\T-1699_0_.txt	abdominal aortic aneurysm	cataracts	,	LIST	[,]	8
 dump sentences\V-541_16_.txt	pork	fish	,	LIST	[,]	8
-dump sentences\A-219_7_.txt	risk	glaucoma	of	PREP	[IN]	8
 dump sentences\A-245_2_.txt	fiber	folate	,	LIST	[,]	8
 dump sentences\A-336_4_.txt	meat	ham	and lunch meat such as	AND SUCH AS	[CC, NN, NN, JJ, IN]	22
 dump sentences\T-1445_0_.txt	variety	plant foods	of	PREP	[IN]	8
 dump sentences\A-427_15_.txt	fat oxidation	dna damage	,	LIST	[,]	8
 dump sentences\V-258_20_.txt	fat	burning	-	-COMPOUND	[]	8
 dump sentences\T-1208_34_.txt	fruits	berries	,	LIST	[,]	8
-dump sentences\V-753_40_.txt	risk	abdominal obesity	of	PREP	[IN]	8
 dump sentences\A-336_4_.txt	ground meat	ham	and lunch meat such as	AND SUCH AS	[CC, NN, NN, JJ, IN]	22
 dump sentences\A-109_25_.txt	soy milk	rice milk	or	AND-CONJ	[CC]	8
 dump sentences\A-122_2_.txt	lentils	soybeans	,	LIST	[,]	8
@@ -425,8 +359,6 @@ dump sentences\A-310_25_.txt	fecal contamination	chicken	of	PREP	[IN]	8
 dump sentences\T-158_3_.txt	blood pressure medications	laxatives	,	LIST	[,]	8
 dump sentences\A-296_3_.txt	kidney cancer	stomach cancer	,	LIST	[,]	8
 dump sentences\V-579_6_.txt	antibiotics	farm animals	to	PREP	[TO]	8
-dump sentences\V-278_25_.txt	risk	high blood pressure	of	PREP	[IN]	7
-dump sentences\A-372_18_.txt	risk	high blood pressure	for	PREP	[IN]	7
 dump sentences\V-438_13_.txt	cardiovascular disease	obesity	,	LIST	[,]	7
 dump sentences\A-273_7_.txt	dairy	trans fat	,	LIST	[,]	7
 dump sentences\V-77_11_.txt	chia seeds	walnuts	,	LIST	[,]	7
@@ -443,18 +375,15 @@ dump sentences\T-1891_1_.txt	stroke	heart disease	,	LIST	[,]	7
 dump sentences\A-139_10_.txt	vegetables	grapes	such as red onions and	IS-A	[JJ, IN, JJ, NNS, CC]	22
 dump sentences\V-491_8_.txt	sudden cardiac death	heart attack	,	LIST	[,]	7
 dump sentences\V-132_20_.txt	chickpeas	lentils	, or	AND-CONJ	[,, CC]	7
-dump sentences\V-154_1_.txt	risk	food poisoning	of	PREP	[IN]	7
 dump sentences\A-431_9_.txt	amla	diabetes	versus	CC	[CC]	7
 dump sentences\V-1128_8_.txt	cheese	chicken	,	LIST	[,]	7
 dump sentences\V-577_12_.txt	treatment	breast cancer	of	PREP	[IN]	7
-dump sentences\A-279_9_.txt	risk	coronary disease	of	PREP	[IN]	7
 dump sentences\T-751_3_.txt	diabetes	kidney stones	,	LIST	[,]	7
 dump sentences\V-290_21_.txt	heart disease	kidney disease	,	LIST	[,]	7
 dump sentences\A-245_2_.txt	vitamin b1	magnesium	, and minerals such as	AND SUCH AS	[,, CC, NNS, JJ, IN]	22
 dump sentences\V-266_22_.txt	healthy diet	plant-based diet	, a	LIST	[,, DT]	7
 dump sentences\V-619_8_.txt	sesame seeds	nuts	,	LIST	[,]	7
 dump sentences\V-434_19_.txt	poultry	fish	,	LIST	[,]	7
-dump sentences\T-570_9_.txt	risk	dental fluorosis	of	PREP	[IN]	7
 dump sentences\V-403_8_.txt	chickpeas	beans	,	LIST	[,]	7
 dump sentences\T-661_1_.txt	heart disease	kidney stones	,	LIST	[,]	7
 dump sentences\A-214_30_.txt	treatment	inflammatory diseases	of	PREP	[IN]	7
@@ -479,15 +408,12 @@ dump sentences\T-36_4_.txt	variety	cancers	of	PREP	[IN]	7
 dump sentences\T-257_7_.txt	beet juice	cocoa	,	LIST	[,]	7
 dump sentences\A-81_32_.txt	flaxseed	prostate cancer	vs.	CC	[CC]	6
 dump sentences\A-78_2_.txt	red meat	processed meat	or	AND-CONJ	[CC]	6
-dump sentences\T-1526_6_.txt	risk	chronic obstructive pulmonary disease	of	PREP	[IN]	6
 dump sentences\V-843_4_.txt	cardiovascular diseases	kidney diseases	,	LIST	[,]	6
-dump sentences\V-496_28_.txt	risk	kidney stones	for	PREP	[IN]	6
 dump sentences\A-457_18_.txt	smell	frying	of	PREP	[IN]	6
 dump sentences\A-224_26_.txt	green tea	hibiscus tea	,	LIST	[,]	6
 dump sentences\V-1035_6_.txt	animal products	dairy	such as fish, meat and	IS-A	[JJ, IN, NN, ,, NN, CC]	22
 dump sentences\A-4_8_.txt	pasta	tomato sauce	with	PREP	[IN]	6
 dump sentences\V-781_6_.txt	green tea	white tea	or	AND-CONJ	[CC]	6
-dump sentences\V-373_9_.txt	risk	public health	to	PREP	[TO]	6
 dump sentences\V-392_10_.txt	red meat	white meat	or	AND-CONJ	[CC]	6
 dump sentences\V-1082_3_.txt	flax seeds	flax oil	,	LIST	[,]	6
 dump sentences\A-151_4_.txt	treatment	inflammatory bowel disease	of	PREP	[IN]	6
@@ -502,7 +428,6 @@ dump sentences\V-599_2_.txt	dietary guidelines	cancer prevention	for	PREP	[IN]	6
 dump sentences\T-1393_2_.txt	chicken	pork	,	LIST	[,]	6
 dump sentences\V-15_50_.txt	migraine headaches	lavender oil	with	PREP	[IN]	6
 dump sentences\V-1168_76_.txt	brain cancer	kidney cancer	,	LIST	[,]	6
-dump sentences\T-255_3_.txt	risk	blood clots	of	PREP	[IN]	6
 dump sentences\A-292_7_.txt	tart cherries	insomnia	for	PREP	[IN]	6
 dump sentences\A-464_6_.txt	white tea	lemon	with	PREP	[IN]	6
 dump sentences\V-1147_9_.txt	diets	plant-based diet	, a	LIST	[,, DT]	6
@@ -534,9 +459,7 @@ dump sentences\V-434_19_.txt	fish	eggs	,	LIST	[,]	6
 dump sentences\V-941_1_.txt	orange juice	pineapple juice	,	LIST	[,]	6
 dump sentences\A-406_5_.txt	animal protein	soy protein	with	PREP	[IN]	6
 dump sentences\V-421_2_.txt	blood pressure	blood sugar	or	AND-CONJ	[CC]	6
-dump sentences\V-988_0_.txt	risk	breast disease	of	PREP	[IN]	6
 dump sentences\A-15_13_.txt	lifespan	oxidative stress	, cause	LIST	[,, VB]	6
-dump sentences\V-586_7_.txt	risk	intracranial meningioma	of	PREP	[IN]	6
 dump sentences\T-775_18_.txt	alfalfa sprouts	broccoli sprouts	, so	LIST	[,, RB]	6
 dump sentences\A-431_28_.txt	nutrition	calories	without	PREP	[IN]	6
 dump sentences\A-209_25_.txt	bioavailability	curcumin	of	PREP	[IN]	6
@@ -554,7 +477,6 @@ dump sentences\V-586_10_.txt	dental x-rays	brain tumors	are associated with	CAUS
 dump sentences\T-238_8_.txt	poultry	dairy	,	LIST	[,]	6
 dump sentences\V-696_15_.txt	vegetable protein	blood pressure	to [	PREP	[TO, -LRB-]	6
 dump sentences\T-995_0_.txt	periodontal disease	obesity	,	LIST	[,]	6
-dump sentences\A-277_15_.txt	risk	lung disease	of	PREP	[IN]	6
 dump sentences\V-946_3_.txt	pork	chicken	,	LIST	[,]	6
 dump sentences\V-16_140_.txt	acai berries	cigarettes	to	PREP	[TO]	6
 dump sentences\T-257_7_.txt	beets	beet juice	,	LIST	[,]	6
@@ -569,7 +491,6 @@ dump sentences\V-817_1_.txt	collard greens	kale	or	AND-CONJ	[CC]	6
 dump sentences\V-438_24_.txt	folate	vitamin c	,	LIST	[,]	6
 dump sentences\T-28_2_.txt	high blood pressure	obesity	,	LIST	[,]	6
 dump sentences\A-81_0_.txt	flaxseeds	breast cancer survival	&	AND-CONJ	[CC]	6
-dump sentences\T-661_2_.txt	risk	cataracts	of	PREP	[IN]	6
 dump sentences\T-1936_3_.txt	supplementation	plant-based diet	, a	LIST	[,, DT]	6
 dump sentences\V-684_1_.txt	world health organization	american academy of pediatrics	,	LIST	[,]	6
 dump sentences\A-185_38_.txt	fruits	cancer prevention	for	PREP	[IN]	6
@@ -581,7 +502,6 @@ dump sentences\V-595_30_.txt	depression	anger	,	LIST	[,]	6
 dump sentences\T-1525_7_.txt	white bread	corn syrup	,	LIST	[,]	6
 dump sentences\V-16_291_.txt	aspirin	sleeping pills	,	LIST	[,]	6
 dump sentences\A-31_13_.txt	plant-based diet	whole grains	of	PREP	[IN]	6
-dump sentences\T-1576_9_.txt	plant-based diet	risk	helps lower the	DECREASE	[VBZ, VB, DT]	6
 dump sentences\V-501_23_.txt	ginger	rosemary	,	LIST	[,]	6
 dump sentences\V-131_14_.txt	liver cancer	dietary cholesterol	, as	LIST	[,, IN]	6
 dump sentences\V-851_6_.txt	breast cancer	soy food	,	LIST	[,]	6
@@ -605,12 +525,10 @@ dump sentences\T-428_3_.txt	colon cancer	breast cancer	,	LIST	[,]	5
 dump sentences\V-649_5_.txt	bacon	fish	,	LIST	[,]	5
 dump sentences\A-241_0_.txt	kidney failure	diet	through	PREP	[IN]	5
 dump sentences\V-1294_29_.txt	mouth cancer	throat cancer	,	LIST	[,]	5
-dump sentences\V-292_20_.txt	risk	multiple myeloma	of	PREP	[IN]	5
 dump sentences\T-305_2_.txt	apples	strawberries	,	LIST	[,]	5
 dump sentences\T-15_10_.txt	production	free radicals	of	PREP	[IN]	5
 dump sentences\T-1982_8_.txt	salt	trans fats	,	LIST	[,]	5
 dump sentences\T-159_2_.txt	pollutants	smoke	, such as second hand	IS-A	[,, JJ, IN, JJ, NN]	21
-dump sentences\A-122_2_.txt	risk	fibrocystic breast disease	for	PREP	[IN]	5
 dump sentences\A-218_13_.txt	prevention	age related macular degeneration	of	PREP	[IN]	5
 dump sentences\V-610_14_.txt	liver	red meat	,	LIST	[,]	5
 dump sentences\A-296_3_.txt	breast cancer	endometrial cancer	,	LIST	[,]	5
@@ -661,7 +579,6 @@ dump sentences\A-290_28_.txt	kiwi fruit	irritable bowel syndrome	for	PREP	[IN]	5
 dump sentences\A-362_20_.txt	orange juice	apples	,	LIST	[,]	5
 dump sentences\A-377_0_.txt	fasting blood sugars	high triglycerides	,	LIST	[,]	5
 dump sentences\A-437_22_.txt	fecal contamination	sushi	of	PREP	[IN]	5
-dump sentences\T-28_3_.txt	risk	colorectal polyps	of	PREP	[IN]	5
 dump sentences\T-1915_3_.txt	rheumatoid arthritis	prostate cancer	,	LIST	[,]	5
 dump sentences\V-642_28_.txt	animal fats	coconut oil	,	LIST	[,]	5
 dump sentences\T-865_5_.txt	soy milk	tea	to	PREP	[TO]	5
@@ -671,7 +588,6 @@ dump sentences\V-1251_13_.txt	kidney cancer	endometrial cancer	,	LIST	[,]	5
 dump sentences\V-216_1_.txt	lung cancer	breast cancer	,	LIST	[,]	5
 dump sentences\V-131_4_.txt	liver cancer	liver failure	,	LIST	[,]	5
 dump sentences\V-401_1_.txt	eyes	kidneys	,	LIST	[,]	5
-dump sentences\V-802_7_.txt	risk	liver health	to	PREP	[TO]	5
 dump sentences\A-18_30_.txt	red wine	white wine	v.	CC	[CC]	5
 dump sentences\T-538_3_.txt	cancer progression	breast cancer	,	LIST	[,]	5
 dump sentences\A-392_4_.txt	pancreatic enzymes	coffee enemas	, as well as	AND-CONJ	[,, RB, RB, IN]	5
@@ -694,18 +610,10 @@ dump sentences\T-590_5_.txt	cheese	cooked meat	,	LIST	[,]	5
 dump sentences\A-261_21_.txt	broccoli	breast cancer	versus	CC	[CC]	5
 dump sentences\T-1495_3_.txt	kidney cancer	breast cancer	,	LIST	[,]	5
 dump sentences\T-725_0_.txt	diabetes	hypertension	,	LIST	[,]	5
-dump sentences\V-847_7_.txt	risk	non-hodgkins lymphoma	of	PREP	[IN]	5
-dump sentences\V-16_274_.txt	plant-based diet	risk	reduce	DECREASE	[VB]	5
 dump sentences\T-103_8_.txt	amino acids	methionine	, such as leucine and	IS-A	[,, JJ, IN, NN, CC]	21
 dump sentences\T-1115_7_.txt	indian gooseberries	turmeric	,	LIST	[,]	5
 dump sentences\T-1891_7_.txt	pork	poultry	,	LIST	[,]	5
-dump sentences\T-1771_8_.txt	risk	suicide	of	PREP	[IN]	5
-dump sentences\T-1834_2_.txt	women	child	of	PREP	[IN]	5
-dump sentences\A-306_1_.txt	risks	radiation	of	PREP	[IN]	5
 dump sentences\A-215_32_.txt	chicken	turkey	&	AND-CONJ	[CC]	5
-dump sentences\T-851_7_.txt	risk	uric acid	of	PREP	[IN]	5
-dump sentences\T-181_0_.txt	risk	cardiovascular disease	for	PREP	[IN]	5
-dump sentences\V-662_10_.txt	women	who	,	LIST	[,]	5
 dump sentences\A-336_4_.txt	spermidine	american	; and cheese such as	AND SUCH AS	[:, CC, NN, JJ, IN]	20
 dump sentences\V-747_10_.txt	fruits	green tea	,	LIST	[,]	5
 dump sentences\T-576_1_.txt	purple potatoes	broccoli sprouts	,	LIST	[,]	5
@@ -717,7 +625,6 @@ dump sentences\V-387_11_.txt	kidney cancer	raw	,	LIST	[,]	4
 dump sentences\T-158_3_.txt	antacids	pain-killers	,	LIST	[,]	4
 dump sentences\A-464_11_.txt	green tea	hibiscus	, but	LIST	[,, CC]	4
 dump sentences\A-224_9_.txt	tomato sauce	olive oil	,	LIST	[,]	4
-dump sentences\V-393_5_.txt	pregnant women	risk	do to decrease this	DECREASE	[VBP, TO, VB, DT]	4
 dump sentences\A-54_4_.txt	neurotransmitters	serotonin	such as dopamine and	IS-A	[JJ, IN, NN, CC]	20
 dump sentences\V-356_11_.txt	neurotransmitters	serotonin	such as dopamine and	IS-A	[JJ, IN, NN, CC]	20
 dump sentences\V-310_23_.txt	plant protein	animal protein	for	PREP	[IN]	4
@@ -785,7 +692,6 @@ dump sentences\V-101_236_.txt	plant-based diet	treat	could be used to	USAGE	[MD,
 dump sentences\T-904_10_.txt	ceylon cinnamon	coffee	,	LIST	[,]	4
 dump sentences\T-590_8_.txt	white tea	coffee	,	LIST	[,]	4
 dump sentences\T-1115_7_.txt	green tea	cruciferous vegetables	,	LIST	[,]	4
-dump sentences\V-1255_4_.txt	risk	heart attack	of a	PREP	[IN, DT]	4
 dump sentences\A-381_4_.txt	breast cancer	melanoma	,	LIST	[,]	4
 dump sentences\V-429_1_.txt	sugar	cocoa powder	, the	LIST	[,, DT]	4
 dump sentences\A-213_16_.txt	ginger	rosemary	or	AND-CONJ	[CC]	4
@@ -823,7 +729,6 @@ dump sentences\V-404_0_.txt	headache	fatigue	,	LIST	[,]	4
 dump sentences\V-760_9_.txt	saturated animal fat	blood	, our	LIST	[,, PRP$]	4
 dump sentences\T-1347_1_.txt	broccoli	green tea	,	LIST	[,]	4
 dump sentences\V-1069_21_.txt	inflammation	skin cancers	,	LIST	[,]	4
-dump sentences\T-356_5_.txt	risk	urinary tract infections	of	PREP	[IN]	4
 dump sentences\A-83_19_.txt	kids	pregnant women	or	AND-CONJ	[CC]	4
 dump sentences\T-606_1_.txt	aging	plant-based diets	,	LIST	[,]	4
 dump sentences\A-230_21_.txt	animal protein	calcium	, &	AND-CONJ	[,, CC]	4
@@ -859,7 +764,6 @@ dump sentences\A-26_6_.txt	inflammatory bowel disease	ulcerative colitis	,	LIST	
 dump sentences\T-4_8_.txt	green tea	grapes	,	LIST	[,]	4
 dump sentences\A-167_3_.txt	pumpkin seeds	breast cancer	were associated with reduced	DECREASE	[VBD, VBN, IN, VBN]	4
 dump sentences\V-196_1_.txt	trans fats	salt	,	LIST	[,]	4
-dump sentences\V-324_2_.txt	risk	heart attack	for a	PREP	[IN, DT]	4
 dump sentences\V-768_2_.txt	heart disease	infection	,	LIST	[,]	4
 dump sentences\T-992_0_.txt	breast milk	pesticides	, such as pcbs and	IS-A	[,, JJ, IN, NNS, CC]	18
 dump sentences\V-101_304_.txt	antacids	painkillers	,	LIST	[,]	4
@@ -867,17 +771,14 @@ dump sentences\V-579_8_.txt	tetracycline	farm animals	to	PREP	[TO]	4
 dump sentences\A-135_19_.txt	dark chocolate	antioxidant effect	, the	LIST	[,, DT]	4
 dump sentences\V-367_4_.txt	liver inflammation	public health	as a	PREP	[IN, DT]	4
 dump sentences\A-350_6_.txt	symptoms	prostate enlargement	of	PREP	[IN]	4
-dump sentences\T-356_3_.txt	cross-contamination	raw poultry	of foods with	PREP	[IN, JJ, NNS, IN]	4
 dump sentences\T-992_0_.txt	milk	pesticides	, such as pcbs and	IS-A	[,, JJ, IN, NNS, CC]	18
 dump sentences\T-1225_6_.txt	canker sores	kidney stones	,	LIST	[,]	4
 dump sentences\V-1219_3_.txt	molasses	brown rice syrup	,	LIST	[,]	4
 dump sentences\V-77_11_.txt	flaxseeds	chia seeds	,	LIST	[,]	4
-dump sentences\T-1699_13_.txt	risks	smoking	of	PREP	[IN]	4
 dump sentences\A-453_0_.txt	cancer stem cells	broccoli	vs.	CC	[CC]	4
 dump sentences\V-393_8_.txt	whole grain cereals	fiber	,	LIST	[,]	4
 dump sentences\T-1041_1_.txt	phytonutrients	zeaxanthin	such as lutein and	IS-A	[JJ, IN, NN, CC]	18
 dump sentences\A-166_23_.txt	ldl	cholesterol	-	-COMPOUND	[]	4
-dump sentences\A-268_9_.txt	penis cancer	risks	to the	PREP	[TO, DT]	4
 dump sentences\V-990_17_.txt	celery	green onions	,	LIST	[,]	4
 dump sentences\V-337_22_.txt	heart disease	cancer	or	AND-CONJ	[CC]	4
 dump sentences\T-5_0_.txt	hiatal hernia	varicose veins	,	LIST	[,]	4
@@ -888,7 +789,6 @@ dump sentences\A-28_1_.txt	abdominal obesity	stress	,	LIST	[,]	4
 dump sentences\A-218_15_.txt	healthy diet	eyeballs	, our	LIST	[,, PRP$]	4
 dump sentences\V-919_4_.txt	kidney disease	osteoporosis	,	LIST	[,]	4
 dump sentences\T-554_3_.txt	flame-retardant chemicals	pcbs	,	LIST	[,]	4
-dump sentences\T-114_9_.txt	risk	ear infections	of	PREP	[IN]	4
 dump sentences\A-309_5_.txt	orange	apple juice	or	AND-CONJ	[CC]	4
 dump sentences\A-33_0_.txt	lead	insulin resistance	to	PREP	[TO]	4
 dump sentences\A-25_13_.txt	corn	white bread	for	PREP	[IN]	4
@@ -930,7 +830,6 @@ dump sentences\A-186_27_.txt	chicken fat	lard	,	LIST	[,]	4
 dump sentences\V-542_7_.txt	cholesterol	blood pressure	, or	AND-CONJ	[,, CC]	4
 dump sentences\V-908_2_.txt	liver	kidneys	,	LIST	[,]	4
 dump sentences\A-234_0_.txt	nathan pritikin	nutrition	, the	LIST	[,, DT]	4
-dump sentences\V-252_13_.txt	risk	bone fractures	of	PREP	[IN]	4
 dump sentences\V-213_19_.txt	osteoporosis	vitamin d supplements	, or that	AND-CONJ	[,, CC, IN]	4
 dump sentences\A-147_12_.txt	drugs	treatment	for the	PREP	[IN, DT]	4
 dump sentences\T-1225_6_.txt	sudden infant death syndrome	ulcerative colitis	,	LIST	[,]	4
@@ -975,7 +874,6 @@ dump sentences\A-481_10_.txt	anabolic steroids	heterocyclic amines	,	LIST	[,]	4
 dump sentences\V-599_15_.txt	fruit	strawberries	,	LIST	[,]	4
 dump sentences\T-1783_18_.txt	kombucha tea	noni	,	LIST	[,]	4
 dump sentences\V-475_11_.txt	curcumin	pigment	, the	LIST	[,, DT]	4
-dump sentences\T-1725_13_.txt	risk	toxicity	of	PREP	[IN]	4
 dump sentences\V-988_4_.txt	diseases	cardiovascular disease	such as cancer and	IS-A	[JJ, IN, NN, CC]	18
 dump sentences\A-99_3_.txt	saturated fat	cholesterol	without the	PREP	[IN, DT]	4
 dump sentences\A-184_38_.txt	herbs	garlic	and spices such as	AND SUCH AS	[CC, NNS, JJ, IN]	18
@@ -983,7 +881,6 @@ dump sentences\A-327_13_.txt	grains	meats	,	LIST	[,]	4
 dump sentences\A-296_3_.txt	oral cancer	liver cancer	,	LIST	[,]	4
 dump sentences\A-362_20_.txt	grape juice	carrots	,	LIST	[,]	4
 dump sentences\A-427_15_.txt	free radicals	fat oxidation	,	LIST	[,]	4
-dump sentences\V-696_10_.txt	risk	ischemic heart disease	of [	PREP	[IN, -LRB-]	4
 dump sentences\A-18_20_.txt	high blood pressure	heart disease	,	LIST	[,]	4
 dump sentences\A-436_19_.txt	crimini mushrooms	oyster mushrooms	,	LIST	[,]	4
 dump sentences\T-1843_10_.txt	cooking	tomato sauce	acidic foods like	ADJ	[JJ, NNS, IN]	4
@@ -1000,7 +897,6 @@ dump sentences\V-773_12_.txt	brussels sprouts	broccoli	,	LIST	[,]	4
 dump sentences\A-138_33_.txt	curcumin	turmeric	or	AND-CONJ	[CC]	4
 dump sentences\T-1175_8_.txt	abdominal aortic aneurysms	weight gain	,	LIST	[,]	4
 dump sentences\T-904_10_.txt	dark chocolate	apples	, dried	LIST	[,, VBD]	4
-dump sentences\A-311_17_.txt	risk	bacterial vaginosis	of	PREP	[IN]	4
 dump sentences\T-120_9_.txt	herbs	cinnamon	and spices such as	AND SUCH AS	[CC, NNS, JJ, IN]	18
 dump sentences\V-224_16_.txt	heart disease	osteoporosis	,	LIST	[,]	4
 dump sentences\T-201_2_.txt	dietary guidelines	americans	for	PREP	[IN]	4
@@ -1028,7 +924,6 @@ dump sentences\T-1753_12_.txt	steroids	plant-based diet	, a	LIST	[,, DT]	4
 dump sentences\A-431_18_.txt	green	white tea	vs.	CC	[CC]	4
 dump sentences\T-257_7_.txt	hibiscus tea	purple potatoes	,	LIST	[,]	4
 dump sentences\A-461_5_.txt	philadelphia cream cheese	paula deen	,	LIST	[,]	4
-dump sentences\T-1199_1_.txt	risk	atrial fibrillation	of	PREP	[IN]	4
 dump sentences\T-1911_41_.txt	contamination	dna damage	,	LIST	[,]	4
 dump sentences\A-331_10_.txt	symptoms	cyclical mastalgia	of	PREP	[IN]	4
 dump sentences\T-170_12_.txt	açai berries	strawberries	,	LIST	[,]	4
@@ -1058,7 +953,6 @@ dump sentences\T-585_3_.txt	fish	tuna	such as salmon and	IS-A	[JJ, IN, NN, CC]	1
 dump sentences\T-1367_0_.txt	apples	cranberries	,	LIST	[,]	4
 dump sentences\A-317_29_.txt	diarrhea	probiotics	with	PREP	[IN]	4
 dump sentences\V-132_21_.txt	treatment	diabetes	of	PREP	[IN]	4
-dump sentences\A-469_2_.txt	risk	vitamin b12	of	PREP	[IN]	4
 dump sentences\V-876_1_.txt	bladder cancer	endometrial cancer	,	LIST	[,]	4
 dump sentences\V-372_13_.txt	cows	sheep	,	LIST	[,]	4
 dump sentences\A-285_8_.txt	orange juice	blood	,	LIST	[,]	4
@@ -1066,7 +960,6 @@ dump sentences\V-773_12_.txt	broccoli	red cabbage	,	LIST	[,]	4
 dump sentences\A-383_10_.txt	soda	diet soda	for	PREP	[IN]	4
 dump sentences\A-89_1_.txt	ldl cholesterol	bad cholesterol	,	LIST	[,]	4
 dump sentences\V-872_6_.txt	fat	vitamin c	,	LIST	[,]	4
-dump sentences\V-634_4_.txt	vegan diet	risk	reduce	DECREASE	[VB]	4
 dump sentences\V-827_9_.txt	maggots	cheese fly	of the	PREP	[IN, DT]	4
 dump sentences\A-25_20_.txt	vegetarian	vegan diets	, or	AND-CONJ	[,, CC]	4
 dump sentences\T-1667_0_.txt	heart attacks	strokes	, or	AND-CONJ	[,, CC]	4
@@ -1078,7 +971,6 @@ dump sentences\T-1755_8_.txt	lead	stomach cancer	to	PREP	[TO]	4
 dump sentences\A-478_8_.txt	plant-based diet	mood	&	AND-CONJ	[CC]	4
 dump sentences\T-159_5_.txt	symptoms	disease	of the	PREP	[IN, DT]	4
 dump sentences\A-165_14_.txt	endometrial cancer	ovarian cancer	,	LIST	[,]	4
-dump sentences\T-2006_3_.txt	risk	zoonotic infection	of	PREP	[IN]	4
 dump sentences\T-1495_1_.txt	meats	ham	such as bacon and	IS-A	[JJ, IN, NN, CC]	17
 dump sentences\T-439_1_.txt	traditional medicine	treat	to	PREP	[TO]	4
 dump sentences\T-970_0_.txt	heart attacks	kidney disease	,	LIST	[,]	4
@@ -1114,10 +1006,8 @@ dump sentences\T-146_7_.txt	arsenic	lead	,	LIST	[,]	3
 dump sentences\T-582_0_.txt	salt	sugar	,	LIST	[,]	3
 dump sentences\T-1495_1_.txt	cured meats	ham	such as bacon and	IS-A	[JJ, IN, NN, CC]	17
 dump sentences\A-4_24_.txt	beans	oats	,	LIST	[,]	3
-dump sentences\V-470_19_.txt	risk	red meat	for	PREP	[IN]	3
 dump sentences\V-90_25_.txt	fruits	broccoli	,	LIST	[,]	3
 dump sentences\V-1072_28_.txt	turkey	beef	,	LIST	[,]	3
-dump sentences\T-1357_0_.txt	risks	pesticides	of	PREP	[IN]	3
 dump sentences\V-15_23_.txt	cycle	exercise	,	LIST	[,]	3
 dump sentences\V-536_6_.txt	drug	supplement	or	AND-CONJ	[CC]	3
 dump sentences\T-159_4_.txt	meat	cod liver oil	,	LIST	[,]	3
@@ -1141,9 +1031,7 @@ dump sentences\T-1576_10_.txt	turmeric	cranberries	,	LIST	[,]	3
 dump sentences\A-368_19_.txt	chicken	beef	,	LIST	[,]	3
 dump sentences\T-904_10_.txt	coffee	cocoa	,	LIST	[,]	3
 dump sentences\A-214_24_.txt	blood	who	of those	PREP	[IN, DT]	3
-dump sentences\V-71_1_.txt	women	breast cancer	without	PREP	[IN]	3
 dump sentences\A-311_18_.txt	dairy	desserts	,	LIST	[,]	3
-dump sentences\V-354_5_.txt	risks	tobacco	of	PREP	[IN]	3
 dump sentences\V-641_13_.txt	mushrooms	vitamin d supplements	to	PREP	[TO]	3
 dump sentences\V-535_3_.txt	calcium	magnesium	,	LIST	[,]	3
 dump sentences\A-93_16_.txt	saffron	treatment	for the	PREP	[IN, DT]	3
@@ -1165,7 +1053,6 @@ dump sentences\A-302_8_.txt	milk	yogurt	,	LIST	[,]	3
 dump sentences\A-92_10_.txt	symptoms	dementia	of	PREP	[IN]	3
 dump sentences\A-215_28_.txt	meats	antibiotics	raised without	INCREASE	[VBD, IN]	3
 dump sentences\V-383_8_.txt	bioavailability	aluminum	of	PREP	[IN]	3
-dump sentences\V-148_19_.txt	risk	lead	of	PREP	[IN]	3
 dump sentences\T-25_4_.txt	acne	diet	with	PREP	[IN]	3
 dump sentences\A-152_0_.txt	drugs	treat	used to	USAGE	[VBN, TO]	3
 dump sentences\V-760_10_.txt	english walnuts	salami	with the	PREP	[IN, DT]	3
@@ -1211,11 +1098,9 @@ dump sentences\T-1725_12_.txt	colon cancer	osteoarthritis	,	LIST	[,]	3
 dump sentences\V-617_2_.txt	tumors	blood	of their	PREP	[IN, PRP$]	3
 dump sentences\V-303_14_.txt	diet	drugs	or	AND-CONJ	[CC]	3
 dump sentences\A-259_2_.txt	ulcers	asthma	,	LIST	[,]	3
-dump sentences\A-169_6_.txt	risk	asthma	for	PREP	[IN]	3
 dump sentences\V-482_5_.txt	oxidation	fat	of high-	PREP	[IN]	3
 dump sentences\T-606_0_.txt	sudden cardiac death	esophageal cancer	,	LIST	[,]	3
 dump sentences\T-151_5_.txt	brain disorders	blood platelet	,	LIST	[,]	3
-dump sentences\T-590_12_.txt	risk	dna damage	of	PREP	[IN]	3
 dump sentences\T-495_2_.txt	carcinogens	cooking	created by 	CAUSE	[VBN, IN]	3
 dump sentences\V-1236_28_.txt	walnuts	hazelnuts	,	LIST	[,]	3
 dump sentences\V-791_3_.txt	shiitake mushrooms	crimini mushrooms	,	LIST	[,]	3
@@ -1256,17 +1141,14 @@ dump sentences\A-16_34_.txt	insomnia	nausea	,	LIST	[,]	3
 dump sentences\A-268_19_.txt	pancreatic cancer	poultry	,	LIST	[,]	3
 dump sentences\V-1017_7_.txt	drugs	plant-based diet	, a	LIST	[,, DT]	3
 dump sentences\A-15_10_.txt	galactosemia	babies	, where	LIST	[,, WRB]	3
-dump sentences\A-297_5_.txt	women	infection	clear the	INFLUENCE	[VBP, DT]	3
 dump sentences\A-338_28_.txt	meat	xeno-autoantibodies	to grow:	PREP	[TO, VB, :]	3
 dump sentences\V-216_9_.txt	processed meats	period	,	LIST	[,]	3
 dump sentences\A-467_18_.txt	statins	plant-based diet	, a	LIST	[,, DT]	3
 dump sentences\A-16_34_.txt	weight gain	insomnia	,	LIST	[,]	3
-dump sentences\V-979_3_.txt	risk	toxins	of	PREP	[IN]	3
 dump sentences\V-16_229_.txt	plantains	pineapples	,	LIST	[,]	3
 dump sentences\A-296_3_.txt	colorectal cancer	lung cancer	,	LIST	[,]	3
 dump sentences\V-294_18_.txt	prevention	kidney stone	of	PREP	[IN]	3
 dump sentences\A-261_22_.txt	toxicity	broccoli	due to	CAUSE	[JJ, TO]	3
-dump sentences\T-679_1_.txt	vegan diet	women	, the	LIST	[,, DT]	3
 dump sentences\A-422_0_.txt	hazelnut oil	macadamia oil	,	LIST	[,]	3
 dump sentences\T-576_1_.txt	whole grains	vinegar	,	LIST	[,]	3
 dump sentences\V-47_5_.txt	treatments	cancer	for	PREP	[IN]	3
@@ -1304,7 +1186,6 @@ dump sentences\A-374_9_.txt	grapefruit	oranges	,	LIST	[,]	3
 dump sentences\A-175_4_.txt	enzyme	tor	,	LIST	[,]	3
 dump sentences\V-1095_18_.txt	garlic	green beans	,	LIST	[,]	3
 dump sentences\V-1063_3_.txt	cocoa powder	dark chocolate	,	LIST	[,]	3
-dump sentences\V-423_12_.txt	risk	essential tremor	of	PREP	[IN]	3
 dump sentences\A-165_14_.txt	ovarian cancer	lung cancer	,	LIST	[,]	3
 dump sentences\V-13_141_.txt	toxicity	liver	to the	PREP	[TO, DT]	3
 dump sentences\V-1168_41_.txt	tomatoes	potatoes	,	LIST	[,]	3
@@ -1350,7 +1231,6 @@ dump sentences\V-249_12_.txt	eye disease	who	, those	LIST	[,, DT]	3
 dump sentences\A-416_15_.txt	colon	probiotics	without	PREP	[IN]	3
 dump sentences\T-633_0_.txt	currants	cranberries	,	LIST	[,]	3
 dump sentences\T-1464_1_.txt	age-related macular degeneration	cataracts	,	LIST	[,]	3
-dump sentences\V-15_291_.txt	prevention	cross-contamination	of	PREP	[IN]	3
 dump sentences\V-330_15_.txt	pork	beef	,	LIST	[,]	3
 dump sentences\A-135_23_.txt	dark chocolate	milk	with a cup of	PREP	[IN, DT, NN, IN]	3
 dump sentences\V-1242_2_.txt	lentils	kidney beans	,	LIST	[,]	3
@@ -1392,11 +1272,9 @@ dump sentences\T-1256_4_.txt	vitamin e	vitamin a	,	LIST	[,]	3
 dump sentences\A-139_26_.txt	curcumin	cancer	for	PREP	[IN]	3
 dump sentences\V-16_226_.txt	mood	diet	through	PREP	[IN]	3
 dump sentences\A-194_33_.txt	adverse effects	aromatherapy	of	PREP	[IN]	3
-dump sentences\A-439_7_.txt	risks	processed meat	associated with	CAUSE	[VBN, IN]	3
 dump sentences\A-259_2_.txt	migraines	ulcers	,	LIST	[,]	3
 dump sentences\A-173_8_.txt	cancers	arsenic	caused by	CAUSE	[VBN, IN]	3
 dump sentences\A-302_11_.txt	united states	national academies of science	, the	LIST	[,, DT]	3
-dump sentences\A-220_24_.txt	risks	mercury	of	PREP	[IN]	3
 dump sentences\V-1263_16_.txt	prostate cancer	cervical cancer	,	LIST	[,]	3
 dump sentences\A-173_2_.txt	livers	chickens	of	PREP	[IN]	3
 dump sentences\V-624_8_.txt	kingdom	flax seeds	,	LIST	[,]	3
@@ -1405,8 +1283,6 @@ dump sentences\V-432_1_.txt	skin cancer	arsenic	caused by	CAUSE	[VBN, IN]	3
 dump sentences\V-721_3_.txt	soy milk	soy	,	LIST	[,]	3
 dump sentences\V-1072_28_.txt	beef	pork	, or	AND-CONJ	[,, CC]	3
 dump sentences\A-209_37_.txt	doctor	grapefruit	if you eat	PREP	[IN, PRP, VBP]	3
-dump sentences\A-439_7_.txt	risks	meat	associated with processed	CAUSE	[VBN, IN, VBN]	3
-dump sentences\A-445_12_.txt	risk	iodine	for	PREP	[IN]	3
 dump sentences\T-1526_5_.txt	meats	pregnancy	before	PREP	[IN]	3
 dump sentences\A-52_27_.txt	obesity	high blood pressure	,	LIST	[,]	3
 dump sentences\T-290_24_.txt	x-rays	dentist	at the	PREP	[IN, DT]	3
@@ -1418,7 +1294,6 @@ dump sentences\A-219_2_.txt	plants	collard	such as kale and	IS-A	[JJ, IN, NN, CC
 dump sentences\T-1691_6_.txt	drug	glyburide	,	LIST	[,]	2
 dump sentences\T-1208_43_.txt	apple juice	kimchi	,	LIST	[,]	2
 dump sentences\T-1874_0_.txt	skin	mouth	,	LIST	[,]	2
-dump sentences\V-539_5_.txt	risk	prostate cancer	of]	PREP	[IN, -RRB-]	2
 dump sentences\V-546_2_.txt	control	pain	,	LIST	[,]	2
 dump sentences\A-443_7_.txt	pregnancy	hormones	,	LIST	[,]	2
 dump sentences\A-278_21_.txt	drugs	viagra	like	IS-A	[IN]	9
@@ -1443,7 +1318,6 @@ dump sentences\V-478_21_.txt	malformations	preterm birth	,	LIST	[,]	2
 dump sentences\A-233_5_.txt	gallstones	hemorrhoids	,	LIST	[,]	2
 dump sentences\T-1175_6_.txt	cooking	muscles	of	PREP	[IN]	2
 dump sentences\T-992_1_.txt	celiac disease	inflammatory bowel diseases	,	LIST	[,]	2
-dump sentences\V-321_9_.txt	risk	alcohol	, but	LIST	[,, CC]	2
 dump sentences\A-49_5_.txt	plant-based diet	diets	because	PREP	[IN]	2
 dump sentences\V-488_20_.txt	chickens	salmonella	without	PREP	[IN]	2
 dump sentences\T-1681_5_.txt	menstrual pain	multiple sclerosis	,	LIST	[,]	2
@@ -1469,7 +1343,6 @@ dump sentences\V-651_3_.txt	fish	birds	, or	AND-CONJ	[,, CC]	2
 dump sentences\A-105_17_.txt	celiac disease	wheat	, a	LIST	[,, DT]	2
 dump sentences\A-104_24_.txt	dairy	eggs	, or	AND-CONJ	[,, CC]	2
 dump sentences\V-619_10_.txt	biomarker	cancer	associated with	CAUSE	[VBN, IN]	2
-dump sentences\V-1145_4_.txt	animal fats	risk	, they	LIST	[,, PRP]	2
 dump sentences\V-1054_9_.txt	diseases	breast cancer	like	IS-A	[IN]	7
 dump sentences\V-13_161_.txt	mediterranean diet	nuts	with	PREP	[IN]	2
 dump sentences\T-208_5_.txt	variety	cooking methods	of	PREP	[IN]	2
@@ -1485,11 +1358,8 @@ dump sentences\A-16_0_.txt	drugs	depression	for	PREP	[IN]	2
 dump sentences\A-381_10_.txt	saliva	urine	,	LIST	[,]	2
 dump sentences\V-11_12_.txt	vitamin c	kidney stones	or	AND-CONJ	[CC]	2
 dump sentences\V-928_0_.txt	americans	vitamin d	with	PREP	[IN]	2
-dump sentences\A-281_12_.txt	breast cancer	women	to	PREP	[TO]	2
 dump sentences\T-770_7_.txt	children	cancer	,	LIST	[,]	2
 dump sentences\T-993_7_.txt	cod	anchovies	,	LIST	[,]	2
-dump sentences\T-666_0_.txt	risk	emphysema	for	PREP	[IN]	2
-dump sentences\V-609_4_.txt	women	breast pain	with	PREP	[IN]	2
 dump sentences\V-307_2_.txt	cardiovascular diseases	stroke	such as	IS-A	[JJ, IN]	7
 dump sentences\T-18_1_.txt	production	potato chips	of	PREP	[IN]	2
 dump sentences\A-34_12_.txt	bacon	butter	,	LIST	[,]	2
@@ -1515,9 +1385,7 @@ dump sentences\T-262_18_.txt	immune function	who	as did those	PREP	[IN, VBD, DT]
 dump sentences\V-436_12_.txt	product	purines	of	PREP	[IN]	2
 dump sentences\V-313_23_.txt	brains	bmaa	, but	LIST	[,, CC]	2
 dump sentences\V-636_15_.txt	puberty	plant protein	, whereas	LIST	[,, IN]	2
-dump sentences\V-115_7_.txt	risk	vitamin d	led to the	CAUSE	[VBD, TO, DT]	2
 dump sentences\A-469_1_.txt	cholesterol	cancers	,	LIST	[,]	2
-dump sentences\V-382_19_.txt	manganese	risk	poses a	CAUSE	[VBZ, DT]	2
 dump sentences\A-270_4_.txt	butter	meat	,	LIST	[,]	2
 dump sentences\V-381_3_.txt	lead	asthma	to	PREP	[TO]	2
 dump sentences\A-106_14_.txt	celiac disease	gluten	,	LIST	[,]	2
@@ -1533,7 +1401,6 @@ dump sentences\A-448_13_.txt	cured meats	bacon	such as	IS-A	[JJ, IN]	6
 dump sentences\A-213_29_.txt	cranberries	dates	, pitted	LIST	[,, VBN]	2
 dump sentences\V-434_13_.txt	prevention	health	of	PREP	[IN]	2
 dump sentences\V-188_6_.txt	fasting blood sugars	glucose tolerance	,	LIST	[,]	2
-dump sentences\V-284_9_.txt	risk	infections	for	PREP	[IN]	2
 dump sentences\T-1759_1_.txt	colon cancer	diverticulitis	,	LIST	[,]	2
 dump sentences\A-296_15_.txt	aromatase	enzyme	, the	LIST	[,, DT]	2
 dump sentences\T-1700_6_.txt	flax seeds	smoothies	to	PREP	[TO]	2
@@ -1548,7 +1415,6 @@ dump sentences\T-505_4_.txt	colon cancer	constipation	,	LIST	[,]	2
 dump sentences\V-946_1_.txt	campylobacter	salmonella	,	LIST	[,]	2
 dump sentences\T-1915_1_.txt	greece	dietary guidelines	, the	LIST	[,, DT]	2
 dump sentences\V-18_46_.txt	insulin sensitivity	oxidative stress	,	LIST	[,]	2
-dump sentences\V-563_10_.txt	breast cancer	women	, to	LIST	[,, TO]	2
 dump sentences\T-1911_3_.txt	plant-based diet	kaiser permanente	, which	LIST	[,, WDT]	2
 dump sentences\T-904_6_.txt	cholesterol	egg	that the	PREP	[IN, DT]	2
 dump sentences\V-747_9_.txt	vinegar	apple cider vinegar	,	LIST	[,]	2
@@ -1600,7 +1466,6 @@ dump sentences\V-120_26_.txt	american medical association	american cancer societ
 dump sentences\V-1080_1_.txt	lipitor	mevacor	,	LIST	[,]	2
 dump sentences\A-282_29_.txt	exercise	watercress	without	PREP	[IN]	2
 dump sentences\V-2_16_.txt	drugs	green tea	,	LIST	[,]	2
-dump sentences\A-409_11_.txt	plant foods	risk	reduce the	DECREASE	[VB, DT]	2
 dump sentences\V-675_15_.txt	liver cancer	stomach inflammation	,	LIST	[,]	2
 dump sentences\A-33_1_.txt	insulin resistance	prediabetes	is what causes	CAUSE	[VBZ, WP, VBZ]	2
 dump sentences\A-192_1_.txt	pills	antioxidant	to the	PREP	[TO, DT]	2
@@ -1609,7 +1474,6 @@ dump sentences\V-152_1_.txt	dha	infant formula	to their	PREP	[TO, PRP$]	2
 dump sentences\T-1667_1_.txt	industrial pollutants	pcbs	such as	IS-A	[JJ, IN]	6
 dump sentences\V-1117_5_.txt	chia seeds	chia	,	LIST	[,]	2
 dump sentences\V-780_2_.txt	black tea	water	to six cups of	PREP	[TO, CD, NNS, IN]	2
-dump sentences\A-137_24_.txt	risk	smoking	for	PREP	[IN]	2
 dump sentences\T-720_1_.txt	e. coli	drug residues	,	LIST	[,]	2
 dump sentences\V-325_10_.txt	olive oil	fish	, or	AND-CONJ	[,, CC]	2
 dump sentences\V-620_7_.txt	breast cancer	estrogen	, the	LIST	[,, DT]	2
@@ -1618,32 +1482,27 @@ dump sentences\V-1012_3_.txt	vegan diet	baby	kill the	INFLUENCE	[VBP, DT]	2
 dump sentences\V-310_19_.txt	fats	veggie burgers	to the	PREP	[TO, DT]	2
 dump sentences\V-1261_13_.txt	cured meats	bacon	like	IS-A	[IN]	5
 dump sentences\T-725_0_.txt	celiac disease	multiple sclerosis	,	LIST	[,]	2
-dump sentences\A-267_2_.txt	risk	meat industry	for	PREP	[IN]	2
 dump sentences\V-161_1_.txt	dried fruit	raisins	, like	LIST	[,, IN]	2
 dump sentences\V-432_16_.txt	mouth	skin	, breast,	LIST	[,, NN, ,]	2
 dump sentences\V-496_12_.txt	curcumin	black pepper	with	PREP	[IN]	2
 dump sentences\V-305_13_.txt	death	c. diff	,	LIST	[,]	2
 dump sentences\V-333_17_.txt	vegans	omnivores	versus	CC	[CC]	2
 dump sentences\V-301_15_.txt	hypertension	blood	, their	LIST	[,, PRP$]	2
-dump sentences\V-101_378_.txt	risks	meat	of	PREP	[IN]	2
 dump sentences\V-1069_11_.txt	drugs	pesticides	,	LIST	[,]	2
 dump sentences\V-216_10_.txt	white meat	chicken	, like	LIST	[,, IN]	2
 dump sentences\V-1168_79_.txt	cancer	preventive	-	-COMPOUND	[]	2
 dump sentences\T-275_0_.txt	animal protein	calcium	has to be buffered by	INFLUENCE	[VBZ, TO, VB, VBN, IN]	2
 dump sentences\V-502_3_.txt	bugs	drugs	versus	CC	[CC]	2
-dump sentences\V-40_23_.txt	risk	brain tumors	for	PREP	[IN]	2
 dump sentences\T-114_15_.txt	white meat	chicken	of	PREP	[IN]	2
 dump sentences\V-387_11_.txt	cooking	sprouting	or	AND-CONJ	[CC]	2
 dump sentences\V-364_22_.txt	dietary intervention	platelet	to decrease	DECREASE	[TO, VB]	2
 dump sentences\V-335_26_.txt	muscles	fat	as	PREP	[IN]	2
-dump sentences\A-356_5_.txt	risk	girls	of	PREP	[IN]	2
 dump sentences\V-158_12_.txt	milk	green tea	, whereas	LIST	[,, IN]	2
 dump sentences\V-1278_3_.txt	calcium	iodine	,	LIST	[,]	2
 dump sentences\T-1288_2_.txt	pills	cod liver oil	,	LIST	[,]	2
 dump sentences\T-1288_0_.txt	fecal bacteria	persistent organic pollutants	or	AND-CONJ	[CC]	2
 dump sentences\V-305_13_.txt	muscle tissue	death	before	PREP	[IN]	2
 dump sentences\V-140_24_.txt	bagel	lox	with	PREP	[IN]	2
-dump sentences\A-2_17_.txt	c. diff	cross-contamination	is because of	CAUSE	[VBZ, IN, IN]	2
 dump sentences\T-716_1_.txt	bacteria	drug residues	,	LIST	[,]	2
 dump sentences\V-823_11_.txt	milk	acne	cause	CAUSE	[VB]	2
 dump sentences\V-1293_18_.txt	diets	young children	for	PREP	[IN]	2
@@ -1688,7 +1547,6 @@ dump sentences\T-1225_3_.txt	inflammation	heart disease	,	LIST	[,]	2
 dump sentences\V-1205_8_.txt	air pollution	x-rays	,	LIST	[,]	2
 dump sentences\T-981_3_.txt	chronic diseases	inflammation	associated with	CAUSE	[VBN, IN]	2
 dump sentences\A-86_9_.txt	high blood pressure	disease	, a	LIST	[,, DT]	2
-dump sentences\V-1262_18_.txt	breast cancer	women	, but	LIST	[,, CC]	2
 dump sentences\V-505_2_.txt	aging	blueberries	with	PREP	[IN]	2
 dump sentences\V-292_21_.txt	leukemias	lymphomas	,	LIST	[,]	2
 dump sentences\T-1137_5_.txt	bovine leukemia virus	viral infection	, a	LIST	[,, DT]	2
@@ -1696,7 +1554,6 @@ dump sentences\V-713_5_.txt	symptoms	pms	of	PREP	[IN]	2
 dump sentences\A-370_22_.txt	chronic diseases	cancer	such as	IS-A	[JJ, IN]	5
 dump sentences\T-302_3_.txt	flax	soy	,	LIST	[,]	2
 dump sentences\V-1276_9_.txt	soy milk	nutritional yeast	, fortified	LIST	[,, VBN]	2
-dump sentences\T-1535_10_.txt	risks	meat	as	PREP	[IN]	2
 dump sentences\T-1760_3_.txt	strawberries	liver cancer	to reduce	DECREASE	[TO, VB]	2
 dump sentences\V-3_5_.txt	vitamin d supplements	sugar	versus	CC	[CC]	2
 dump sentences\V-1097_16_.txt	iceberg lettuce	vegetable	as a	PREP	[IN, DT]	2
@@ -1706,10 +1563,8 @@ dump sentences\V-1234_8_.txt	asthma	tomato sauce	with	PREP	[IN]	2
 dump sentences\A-213_6_.txt	ginger	dna damage	for a week,	PREP	[IN, DT, NN, ,]	2
 dump sentences\T-720_1_.txt	agriculture	farm animals	,	LIST	[,]	2
 dump sentences\V-214_16_.txt	supplements	vitamin d	with or without	PREP	[IN, CC, IN]	2
-dump sentences\V-641_10_.txt	vitamin d	risk	for those at	PREP	[IN, DT, IN]	2
 dump sentences\T-208_1_.txt	symptoms	beet juice	with	PREP	[IN]	2
 dump sentences\T-1446_4_.txt	earl grey tea	chai tea	,	LIST	[,]	2
-dump sentences\V-521_5_.txt	risk	children	of our	PREP	[IN, PRP$]	2
 dump sentences\T-1002_4_.txt	aid	pregnant women	, but	LIST	[,, CC]	2
 dump sentences\A-120_10_.txt	legumes	health	for	PREP	[IN]	2
 dump sentences\V-16_263_.txt	potatoes	corn	,	LIST	[,]	2
@@ -1741,8 +1596,6 @@ dump sentences\A-494_5_.txt	tufts	medical school	, the	LIST	[,, DT]	2
 dump sentences\V-180_0_.txt	blindness	kidney failure	,	LIST	[,]	2
 dump sentences\T-178_2_.txt	psychosis	atherosclerosis	, or	AND-CONJ	[,, CC]	2
 dump sentences\T-1357_1_.txt	vinegar	salt water	or	AND-CONJ	[CC]	2
-dump sentences\A-309_24_.txt	women	bladder infections	, though,	TRASH	[,, RB, ,]	2
-dump sentences\A-353_6_.txt	vegan diet	risk	reduce the	DECREASE	[VB, DT]	2
 dump sentences\T-1339_4_.txt	life	cooking	of	PREP	[IN]	2
 dump sentences\T-1175_22_.txt	fecal bacteria	contamination	, cross	TRASH	[,, VB]	2
 dump sentences\V-1022_1_.txt	walnuts	cholesterol	lower our	DECREASE	[JJR, PRP$]	2
@@ -1769,7 +1622,6 @@ dump sentences\A-90_42_.txt	syndrome	children	, where	LIST	[,, WRB]	2
 dump sentences\A-348_7_.txt	dates	figs	,	LIST	[,]	2
 dump sentences\V-1239_1_.txt	water	cranberry juice	,	LIST	[,]	2
 dump sentences\V-159_2_.txt	immune system	thyroid gland	attacks our	INFLUENCE	[VBZ, PRP$]	2
-dump sentences\T-587_3_.txt	risk	diverticulosis	of	PREP	[IN]	2
 dump sentences\T-4_12_.txt	diets	blood	,	LIST	[,]	2
 dump sentences\T-1911_28_.txt	metabolic syndrome	treat	,	LIST	[,]	2
 dump sentences\V-796_3_.txt	dementia	vitamin b12	due to	CAUSE	[JJ, TO]	2
@@ -1782,7 +1634,6 @@ dump sentences\V-1119_14_.txt	plant-based diet	exercise	, with	LIST	[,, IN]	2
 dump sentences\A-180_12_.txt	cancer cells	enzymes	use a set of	USAGE	[VBP, DT, NN, IN]	2
 dump sentences\V-403_11_.txt	saturated fat	cholesterol	were they able to boost their	INCREASE	[VBD, PRP, JJ, TO, VB, PRP$]	2
 dump sentences\T-1634_0_.txt	chicken	pizza	,	LIST	[,]	2
-dump sentences\T-1225_3_.txt	risk	inflammation	of	PREP	[IN]	2
 dump sentences\V-335_27_.txt	blood	insulin resistance	causes	CAUSE	[VBZ]	2
 dump sentences\A-34_20_.txt	seeds	evolution	for 90% of our	PREP	[IN, CD, NN, IN, PRP$]	2
 dump sentences\V-709_14_.txt	antibiotics	growth hormones	,	LIST	[,]	2
@@ -1812,7 +1663,6 @@ dump sentences\V-592_10_.txt	phytonutrients	vitamin c	, like	LIST	[,, IN]	2
 dump sentences\A-395_2_.txt	persistent organic pollutants	dioxins	like	IS-A	[IN]	5
 dump sentences\V-403_2_.txt	osteoporosis	dna damage	,	LIST	[,]	2
 dump sentences\T-120_10_.txt	hibiscus tea	kale	,	LIST	[,]	2
-dump sentences\V-50_16_.txt	risk	vitamin c	,	LIST	[,]	2
 dump sentences\T-1914_27_.txt	greens	kale	such as	IS-A	[JJ, IN]	5
 dump sentences\A-18_19_.txt	mediterranean diet	sodium	is	TRASH	[VBZ]	2
 dump sentences\V-379_21_.txt	chicken	heterocyclic amines	, the	LIST	[,, DT]	2
@@ -1830,7 +1680,6 @@ dump sentences\T-1129_10_.txt	nausea	pain	,	LIST	[,]	2
 dump sentences\V-393_8_.txt	white bread	desserts	,	LIST	[,]	2
 dump sentences\V-1294_8_.txt	vitamin c	vitamin e	, the	LIST	[,, DT]	2
 dump sentences\A-373_15_.txt	peanuts	breast cancer	for	PREP	[IN]	2
-dump sentences\V-48_9_.txt	risk	blood clots	for	PREP	[IN]	2
 dump sentences\V-360_30_.txt	death	disease	, his	LIST	[,, PRP$]	2
 dump sentences\V-602_5_.txt	turmeric	green tea	, or	AND-CONJ	[,, CC]	2
 dump sentences\V-743_0_.txt	findings	epic study	of the	PREP	[IN, DT]	2
@@ -1875,16 +1724,13 @@ dump sentences\V-403_12_.txt	healthy diet	legumes	with lots of	PREP	[IN, NNS, IN
 dump sentences\A-225_17_.txt	vesanto melina	who	,	LIST	[,]	2
 dump sentences\A-290_3_.txt	pain	vomiting	,	LIST	[,]	2
 dump sentences\V-1300_17_.txt	protein	potassium	,	LIST	[,]	2
-dump sentences\A-63_1_.txt	vegetables	risk	reduce the	DECREASE	[VBP, DT]	2
 dump sentences\V-1239_1_.txt	tea	orange juice	,	LIST	[,]	2
-dump sentences\V-260_8_.txt	women	risk	at	PREP	[IN]	2
 dump sentences\V-467_16_.txt	drug	physician	, a	LIST	[,, DT]	2
 dump sentences\V-309_17_.txt	alcohol	peppermint	,	LIST	[,]	2
 dump sentences\V-319_30_.txt	treatment	antidepressants	by	PREP	[IN]	2
 dump sentences\A-9_25_.txt	ciguatera poisoning	chronic fatigue syndrome	&	AND-CONJ	[CC]	2
 dump sentences\V-808_9_.txt	fever	dizziness	,	LIST	[,]	2
 dump sentences\V-402_14_.txt	dessert	chicken	,	LIST	[,]	2
-dump sentences\V-386_4_.txt	whole grains	risk	has associated with reduced	DECREASE	[VBZ, VBN, IN, VBN]	2
 dump sentences\T-1911_29_.txt	plant-based diets	geico	at	PREP	[IN]	2
 dump sentences\A-170_10_.txt	lutein	alpha-carotene	,	LIST	[,]	2
 dump sentences\V-875_17_.txt	nitrates	plant foods	plus	CC	[CC]	2
@@ -1917,7 +1763,6 @@ dump sentences\T-920_1_.txt	fennel seeds	turmeric	,	LIST	[,]	2
 dump sentences\V-702_4_.txt	fish	fats	,	LIST	[,]	2
 dump sentences\T-1525_9_.txt	apple juice	grape juice	,	LIST	[,]	2
 dump sentences\A-374_6_.txt	breast cancer	treat	to	PREP	[TO]	2
-dump sentences\T-1838_16_.txt	risk	smoking	,	LIST	[,]	2
 dump sentences\A-186_17_.txt	disease	skin	of the	PREP	[IN, DT]	2
 dump sentences\V-153_18_.txt	apples	oranges	to	PREP	[TO]	2
 dump sentences\V-442_19_.txt	variety	inflammatory diseases	of]	PREP	[IN, -RRB-]	2
@@ -1931,7 +1776,6 @@ dump sentences\A-442_1_.txt	age-related macular degeneration	diabetes	,	LIST	[,]
 dump sentences\T-1703_11_.txt	baking soda	water	to a liter of	PREP	[TO, DT, NN, IN]	2
 dump sentences\V-498_8_.txt	soy	pomegranates	,	LIST	[,]	2
 dump sentences\A-147_12_.txt	exercise	drug	to	PREP	[TO]	2
-dump sentences\V-1019_9_.txt	risks	vitamin d	with	PREP	[IN]	2
 dump sentences\V-1294_29_.txt	colon	kidney	,	LIST	[,]	2
 dump sentences\V-413_4_.txt	asparagus	carrots	,	LIST	[,]	2
 dump sentences\A-75_32_.txt	sperm counts	cholesterol	,	LIST	[,]	2
@@ -1946,12 +1790,9 @@ dump sentences\V-458_8_.txt	citrus	herbs	,	LIST	[,]	2
 dump sentences\V-454_4_.txt	legumes	cabbage	,	LIST	[,]	2
 dump sentences\V-1239_3_.txt	ginger ale	ginger	, because	LIST	[,, IN]	2
 dump sentences\V-143_16_.txt	treatment	diet	, a	LIST	[,, DT]	2
-dump sentences\T-511_0_.txt	risks	brain parasites	associated with	CAUSE	[VBN, IN]	2
 dump sentences\A-43_16_.txt	vegetarians	buddhist	to	PREP	[TO]	2
-dump sentences\V-14_117_.txt	risk	retinopathy	of	PREP	[IN]	2
 dump sentences\T-761_5_.txt	standard american diet	vegetarians	,	LIST	[,]	2
 dump sentences\T-1391_6_.txt	viruses	meat	to	PREP	[TO]	2
-dump sentences\V-619_7_.txt	women	urinary tract infections	with	PREP	[IN]	2
 dump sentences\A-327_18_.txt	chicken	bread	, chips,	LIST	[,, NNS, ,]	2
 dump sentences\A-205_8_.txt	corn	beans	,	LIST	[,]	2
 dump sentences\V-469_23_.txt	meat industry	phytates	adds	ADD	[VBZ]	2
@@ -1970,12 +1811,10 @@ dump sentences\V-405_4_.txt	wheat	barley	,	LIST	[,]	2
 dump sentences\V-309_10_.txt	peppermint oil	alcohol	plus	CC	[CC]	2
 dump sentences\V-1257_2_.txt	breast milk	vegetarians	of	PREP	[IN]	2
 dump sentences\V-890_0_.txt	supplement	cyanocobalamin	of	PREP	[IN]	2
-dump sentences\T-884_3_.txt	processed meat	risk	to lower the	DECREASE	[TO, VB, DT]	2
 dump sentences\V-309_2_.txt	nausea	ginger	with	PREP	[IN]	2
 dump sentences\V-867_5_.txt	dna	broccoli	of	PREP	[IN]	2
 dump sentences\V-588_7_.txt	product	uranium	of	PREP	[IN]	2
 dump sentences\T-1930_5_.txt	multiple myeloma	non-hodgkins lymphoma	,	LIST	[,]	2
-dump sentences\V-381_0_.txt	risk	asthma	of	PREP	[IN]	2
 dump sentences\T-1706_3_.txt	lead	overeating	to	PREP	[TO]	2
 dump sentences\T-936_5_.txt	gout	high blood pressure	,	LIST	[,]	2
 dump sentences\A-321_4_.txt	cancer cells	free radicals	with	PREP	[IN]	2
@@ -2014,7 +1853,6 @@ dump sentences\V-373_10_.txt	antibiotics	agriculture	, but	LIST	[,, CC]	2
 dump sentences\T-1411_1_.txt	carb	atkins diet	,	LIST	[,]	2
 dump sentences\A-420_6_.txt	plant foods	cholesterol	to reduce	DECREASE	[TO, VB]	2
 dump sentences\A-180_4_.txt	vegetable	low-fat diet	,	LIST	[,]	2
-dump sentences\V-343_8_.txt	risk	tumors	, but	LIST	[,, CC]	2
 dump sentences\A-313_8_.txt	smell	rosemary	of	PREP	[IN]	2
 dump sentences\V-1095_18_.txt	swiss chard	zucchini	, or	AND-CONJ	[,, CC]	2
 dump sentences\V-117_14_.txt	beta carotene	vitamin a	,	LIST	[,]	2
@@ -2041,7 +1879,6 @@ dump sentences\A-299_37_.txt	soy foods	menopause	&	AND-CONJ	[CC]	2
 dump sentences\T-120_10_.txt	dark chocolate	dates	,	LIST	[,]	2
 dump sentences\A-167_2_.txt	soy foods	breast cancer survival	before (see	PREP	[IN, -LRB-, VB]	2
 dump sentences\V-375_11_.txt	lactate	pregnancy	throughout their	PREP	[IN, PRP$]	2
-dump sentences\T-806_3_.txt	risk	prediabetes	of the type of	PREP	[IN, DT, NN, IN]	2
 dump sentences\V-333_15_.txt	enzymes	carnitine	, like	LIST	[,, IN]	2
 dump sentences\A-118_23_.txt	treatment	acne	of	PREP	[IN]	2
 dump sentences\V-508_17_.txt	toxicity	persistent organic pollutants	of [	PREP	[IN, -LRB-]	2
@@ -2057,7 +1894,6 @@ dump sentences\V-333_11_.txt	diseases	autoimmune diseases	, like	LIST	[,, IN]	2
 dump sentences\V-314_6_.txt	infections	common cold	with the	PREP	[IN, DT]	2
 dump sentences\V-847_7_.txt	red meat	processed meat	,	LIST	[,]	2
 dump sentences\V-501_16_.txt	cinnamon	cloves	, or	AND-CONJ	[,, CC]	2
-dump sentences\T-906_9_.txt	risk	dairy	because	PREP	[IN]	2
 dump sentences\A-381_4_.txt	melanoma	brain tumors	,	LIST	[,]	2
 dump sentences\A-17_26_.txt	depression	exercise	,	LIST	[,]	2
 dump sentences\A-401_7_.txt	organs	flower	of the	PREP	[IN, DT]	2
@@ -2065,7 +1901,6 @@ dump sentences\V-1015_7_.txt	spices	herbs	,	LIST	[,]	2
 dump sentences\V-654_19_.txt	plant-based diets	vegetarian	, whether	LIST	[,, IN]	2
 dump sentences\V-89_21_.txt	soda	beer	,	LIST	[,]	2
 dump sentences\A-167_2_.txt	broccoli	flaxseeds	,	LIST	[,]	2
-dump sentences\V-325_25_.txt	risk	heart attack	for	PREP	[IN]	2
 dump sentences\T-1349_2_.txt	leafy vegetables	apples	,	LIST	[,]	2
 dump sentences\V-317_6_.txt	bread	brown rice	or	AND-CONJ	[CC]	2
 dump sentences\A-63_18_.txt	tomato juice	tomato	for three weeks or a	PREP	[IN, CD, NNS, CC, DT]	2
@@ -2118,7 +1953,6 @@ dump sentences\V-404_10_.txt	celiac disease	wheat	,	LIST	[,]	2
 dump sentences\T-1219_5_.txt	product	choline	of	PREP	[IN]	2
 dump sentences\A-441_19_.txt	salmon	swordfish	,	LIST	[,]	2
 dump sentences\V-15_136_.txt	eggs	egg	or	AND-CONJ	[CC]	2
-dump sentences\V-460_13_.txt	fruits	risk	were associated with reduced	DECREASE	[VBD, VBN, IN, VBN]	2
 dump sentences\T-502_12_.txt	neurotoxins	spirulina	,	LIST	[,]	2
 dump sentences\T-1870_1_.txt	brains	infants	of	PREP	[IN]	2
 dump sentences\V-434_7_.txt	adverse effects	cadmium	of the	PREP	[IN, DT]	2
@@ -2129,15 +1963,11 @@ dump sentences\V-336_19_.txt	kids	puberty	to	PREP	[TO]	2
 dump sentences\V-454_4_.txt	cabbage	sweet potatoes	,	LIST	[,]	2
 dump sentences\V-917_0_.txt	hay fever	eczema	,	LIST	[,]	2
 dump sentences\T-756_9_.txt	phytonutrients	dna damage	reduced	DECREASE	[VBD]	2
-dump sentences\A-299_4_.txt	risk	metabolic syndrome	of	PREP	[IN]	2
 dump sentences\A-58_13_.txt	tobacco	alcohol	,	LIST	[,]	2
-dump sentences\A-258_17_.txt	risk	side effects	of	PREP	[IN]	2
 dump sentences\V-589_3_.txt	dental plaque	bacteria	is	HYPERNYMY	[VBZ]	4
 dump sentences\V-16_227_.txt	drugs	prozac	like	IS-A	[IN]	4
-dump sentences\T-735_6_.txt	risk	listeria	of	PREP	[IN]	2
 dump sentences\A-18_14_.txt	red wine	alcohol	with	PREP	[IN]	2
 dump sentences\T-761_3_.txt	chicken	fish	or	AND-CONJ	[CC]	2
-dump sentences\A-49_38_.txt	plant-based diet	risk	to reduce the	DECREASE	[TO, VB, DT]	2
 dump sentences\V-299_16_.txt	strawberries	colon cancer	suppressed the growth of	INFLUENCE	[VBD, DT, NN, IN]	2
 dump sentences\V-1281_9_.txt	olive oil	walnuts	or	AND-CONJ	[CC]	2
 dump sentences\V-1147_5_.txt	butter	cheese	,	LIST	[,]	2
@@ -2165,7 +1995,6 @@ dump sentences\V-893_9_.txt	burgers	veggie bacon	,	LIST	[,]	2
 dump sentences\T-293_3_.txt	children	farm workers	of	PREP	[IN]	2
 dump sentences\A-185_28_.txt	multiple myeloma	lung cancer	,	LIST	[,]	2
 dump sentences\A-26_25_.txt	supplement	animal protein	of	PREP	[IN]	2
-dump sentences\T-4_11_.txt	risk	metabolic syndrome	for	PREP	[IN]	2
 dump sentences\V-903_23_.txt	blueberries	tea	,	LIST	[,]	2
 dump sentences\V-334_12_.txt	diet	fat	,	LIST	[,]	2
 dump sentences\V-1276_9_.txt	cereals	soy milk	, fortified	LIST	[,, VBN]	2
@@ -2206,7 +2035,6 @@ dump sentences\A-166_12_.txt	statins	breast cancer	had decreased	DECREASE	[VBD, 
 dump sentences\A-323_32_.txt	cancer cell proliferation	apples	,	LIST	[,]	2
 dump sentences\A-52_9_.txt	bacon	sausage	,	LIST	[,]	2
 dump sentences\V-993_10_.txt	fats	oils	,	LIST	[,]	2
-dump sentences\V-20_3_.txt	risk	stomach cancer	of 	PREP	[IN]	2
 dump sentences\A-109_16_.txt	children	constipation	,	LIST	[,]	2
 dump sentences\A-261_16_.txt	cauliflower	collards	,	LIST	[,]	2
 dump sentences\A-48_11_.txt	fatigue	stress	, or	AND-CONJ	[,, CC]	2
@@ -2223,7 +2051,6 @@ dump sentences\T-756_8_.txt	spices	fruit	,	LIST	[,]	2
 dump sentences\A-292_5_.txt	patent	melatonin	to use	USAGE	[TO, VB]	2
 dump sentences\A-105_0_.txt	fatigue	depression	,	LIST	[,]	2
 dump sentences\V-24_11_.txt	flax	soy food	, but	LIST	[,, CC]	2
-dump sentences\T-916_8_.txt	risk	hiatal hernia	for	PREP	[IN]	2
 dump sentences\V-872_2_.txt	antioxidants	vitamin c	like	IS-A	[IN]	4
 dump sentences\A-164_25_.txt	flaxseed	diabetes	vs.	CC	[CC]	2
 dump sentences\T-401_4_.txt	diet	weight loss	for	PREP	[IN]	2
@@ -2293,14 +2120,12 @@ dump sentences\V-389_29_.txt	hot dogs	bologna	,	LIST	[,]	2
 dump sentences\V-907_0_.txt	cancer cell growth	tumor growth	, but	LIST	[,, CC]	2
 dump sentences\V-902_22_.txt	brain disease	paralysis	,	LIST	[,]	2
 dump sentences\A-87_1_.txt	prediabetes	diabetes	or	AND-CONJ	[CC]	2
-dump sentences\V-14_251_.txt	breast cancer	women	, whereas	LIST	[,, IN]	2
 dump sentences\A-125_14_.txt	americans	non-alcoholic fatty liver disease	with	PREP	[IN]	2
 dump sentences\A-265_7_.txt	free radicals	dna damage	would decrease the rate of	DECREASE	[MD, VB, DT, NN, IN]	2
 dump sentences\A-33_16_.txt	obesity	diabetes	to	PREP	[TO]	2
 dump sentences\V-1168_73_.txt	vegetables	cancer prevention	for	PREP	[IN]	2
 dump sentences\T-1424_6_.txt	antibiotics	manure	,	LIST	[,]	2
 dump sentences\T-1002_4_.txt	raspberries	goji berries	,	LIST	[,]	2
-dump sentences\T-1658_11_.txt	flax seeds	risk	are associated with a	CAUSE	[VBP, VBN, IN, DT]	2
 dump sentences\V-637_30_.txt	chewing gums	marshmallows	,	LIST	[,]	2
 dump sentences\T-1079_29_.txt	water	baking soda	with	PREP	[IN]	2
 dump sentences\V-625_22_.txt	american public health association	usda	sued the	INFLUENCE	[VBD, DT]	2
@@ -2345,13 +2170,10 @@ dump sentences\V-366_7_.txt	united states	diabetes	if we could just reduce	PREP	
 dump sentences\A-441_23_.txt	xenoestrogens	sperm counts	&	AND-CONJ	[CC]	2
 dump sentences\A-118_17_.txt	milk	babies	is for	USAGE	[VBZ, IN]	2
 dump sentences\V-405_0_.txt	allergy	celiac disease	,	LIST	[,]	2
-dump sentences\T-1115_2_.txt	risk	liver	of both	PREP	[IN, CC]	2
 dump sentences\T-151_5_.txt	fibromyalgia	hypertension	,	LIST	[,]	2
 dump sentences\V-54_15_.txt	pretzels	potato chips	, or	AND-CONJ	[,, CC]	2
 dump sentences\A-141_12_.txt	vegetables	breast cancer	,	LIST	[,]	2
 dump sentences\A-97_10_.txt	health	obesity	caused by	CAUSE	[VBN, IN]	2
-dump sentences\V-479_7_.txt	vegetables	risk	help reduce the	DECREASE	[VBP, VB, DT]	2
-dump sentences\V-1054_10_.txt	risk	birth defects	of	PREP	[IN]	2
 dump sentences\V-400_17_.txt	antibiotics	bacteria	,	LIST	[,]	2
 dump sentences\A-308_17_.txt	herbal tea	hydration	as a source of	PREP	[IN, DT, NN, IN]	2
 dump sentences\V-1147_5_.txt	chicken	clams	,	LIST	[,]	2
@@ -2374,10 +2196,8 @@ dump sentences\V-15_247_.txt	broccoli	brussels sprouts	or	AND-CONJ	[CC]	2
 dump sentences\V-567_12_.txt	volunteers	cold	with	PREP	[IN]	2
 dump sentences\A-455_16_.txt	metastatic potential	lung cancer	of	PREP	[IN]	2
 dump sentences\V-446_14_.txt	infections	drugs	, foods,	LIST	[,, NNS, ,]	2
-dump sentences\A-308_17_.txt	risk	dental fluorosis	for	PREP	[IN]	2
 dump sentences\A-143_26_.txt	cherries	uric acid	,	LIST	[,]	2
 dump sentences\V-611_13_.txt	milk	eggs	,	LIST	[,]	2
-dump sentences\V-144_0_.txt	risks	death	for	PREP	[IN]	2
 dump sentences\V-16_171_.txt	diets	nutrition	,	LIST	[,]	2
 dump sentences\V-144_8_.txt	sweet peppers	basil	,	LIST	[,]	2
 dump sentences\V-610_2_.txt	liver	tmao	to	PREP	[TO]	2
@@ -2386,7 +2206,6 @@ dump sentences\V-151_8_.txt	babies	vegan	breastfed by	INFLUENCE	[VBN, IN]	2
 dump sentences\V-129_2_.txt	findings	aloe vera	for	PREP	[IN]	2
 dump sentences\T-437_0_.txt	industrial toxins	dioxins	such as	IS-A	[JJ, IN]	4
 dump sentences\V-317_29_.txt	meat	carbs	to	PREP	[TO]	2
-dump sentences\T-921_3_.txt	risk	dental fluorosis	for 	PREP	[IN]	2
 dump sentences\V-1243_1_.txt	black beans	pinto beans	or	AND-CONJ	[CC]	2
 dump sentences\T-1634_3_.txt	diet	taste buds	, the	LIST	[,, DT]	2
 dump sentences\V-19_9_.txt	thyroid glands	thyroid cancer	or	AND-CONJ	[CC]	2
@@ -2402,7 +2221,6 @@ dump sentences\A-119_20_.txt	cruciferous vegetables	tor	, decrease	LIST	[,, VB]	
 dump sentences\T-389_4_.txt	teens	dairy	exposed to	EXPOSE	[VBN, TO]	2
 dump sentences\V-15_245_.txt	chicken	turkey	or	AND-CONJ	[CC]	2
 dump sentences\A-222_2_.txt	arteries	vegetarians	of	PREP	[IN]	2
-dump sentences\T-554_1_.txt	risks	dairy	of	PREP	[IN]	2
 dump sentences\A-327_18_.txt	calories	cheese	of	PREP	[IN]	2
 dump sentences\A-352_8_.txt	strawberries	whole wheat	,	LIST	[,]	2
 dump sentences\V-3_1_.txt	symptom	vitamin d	of	PREP	[IN]	2
@@ -2450,7 +2268,6 @@ dump sentences\A-369_5_.txt	muscle tremors	diet	&	AND-CONJ	[CC]	2
 dump sentences\T-752_2_.txt	persistent organic pollutants	pcb	such as	IS-A	[JJ, IN]	3
 dump sentences\V-66_53_.txt	salt	egg	,	LIST	[,]	2
 dump sentences\V-35_32_.txt	fat	blood	out of the	PREP	[IN, IN, DT]	2
-dump sentences\T-30_2_.txt	risk	blood pressure	,	LIST	[,]	2
 dump sentences\A-52_21_.txt	nitrites	nitrosamines	, but	LIST	[,, CC]	2
 dump sentences\T-563_0_.txt	pollutants	ddt	like	IS-A	[IN]	3
 dump sentences\V-602_34_.txt	esophageal cancer	diets	, whereas	LIST	[,, IN]	2
@@ -2490,7 +2307,6 @@ dump sentences\V-1044_2_.txt	animal protein	age	at that	PREP	[IN, DT]	2
 dump sentences\V-989_0_.txt	enzyme	breast cancer	used by	USAGE	[VBN, IN]	2
 dump sentences\T-120_2_.txt	lymphoma	stomach cancer	,	LIST	[,]	2
 dump sentences\T-1573_3_.txt	plant-based diets	symptoms	reduced	DECREASE	[VBD]	2
-dump sentences\V-496_24_.txt	risk	gallstone	of	PREP	[IN]	2
 dump sentences\A-155_7_.txt	meats	pork rinds	, like	LIST	[,, IN]	2
 dump sentences\V-1069_3_.txt	antibiotics	livestock	to	PREP	[TO]	2
 dump sentences\T-538_0_.txt	cauliflower	collard greens	,	LIST	[,]	2
@@ -2556,7 +2372,6 @@ dump sentences\V-974_6_.txt	heart disease	drugs	without	PREP	[IN]	2
 dump sentences\V-418_11_.txt	legumes	beans	,	LIST	[,]	2
 dump sentences\A-448_24_.txt	diseases	emphysema	like	IS-A	[IN]	2
 dump sentences\V-13_98_.txt	farm animals	weight gain	to accelerate their	PREP	[TO, VB, PRP$]	2
-dump sentences\V-352_16_.txt	pregnancy	women	, but	LIST	[,, CC]	2
 dump sentences\V-1069_21_.txt	jaundice	kidney failure	,	LIST	[,]	2
 dump sentences\V-321_10_.txt	alcohol	diet	, the	LIST	[,, DT]	2
 dump sentences\V-208_10_.txt	pumpkin	collard greens	,	LIST	[,]	2
@@ -2568,7 +2383,6 @@ dump sentences\V-454_8_.txt	muscles	chickens	of	PREP	[IN]	2
 dump sentences\T-906_5_.txt	treatment	heart disease	for	PREP	[IN]	2
 dump sentences\V-186_7_.txt	pill	blood pressure	, their	LIST	[,, PRP$]	2
 dump sentences\V-497_3_.txt	symptoms	malaria	of	PREP	[IN]	2
-dump sentences\T-28_3_.txt	dried fruit	risk	was associated with decreased	DECREASE	[VBD, VBN, IN, VBN]	2
 dump sentences\A-336_15_.txt	nuts	animal products	with	PREP	[IN]	2
 dump sentences\V-581_16_.txt	american egg board	who	keeps track of	INFLUENCE	[VBZ, NN, IN]	2
 dump sentences\A-484_13_.txt	fruit	poultry	,	LIST	[,]	2
@@ -2578,7 +2392,6 @@ dump sentences\V-535_3_.txt	riboflavin	folate	, &	AND-CONJ	[,, CC]	2
 dump sentences\T-576_1_.txt	soy	flaxseeds	,	LIST	[,]	2
 dump sentences\T-1464_3_.txt	industrial toxins	mercury	,	LIST	[,]	2
 dump sentences\A-75_25_.txt	sperm counts	meat	associated with processed	CAUSE	[VBN, IN, VBN]	2
-dump sentences\V-1301_3_.txt	leafy vegetables	risk	cuts our	DECREASE	[VBZ, PRP$]	2
 dump sentences\T-1333_20_.txt	green tea	beans	,	LIST	[,]	2
 dump sentences\A-294_41_.txt	oregano	cinnamon	,	LIST	[,]	2
 dump sentences\V-46_6_.txt	pancreatic cancer	leukemias	,	LIST	[,]	2
@@ -2589,7 +2402,6 @@ dump sentences\V-423_3_.txt	tremor	addiction	,	LIST	[,]	2
 dump sentences\A-163_0_.txt	agent orange	chemical	,	LIST	[,]	2
 dump sentences\T-1099_0_.txt	cruciferous vegetables	sesame seeds	,	LIST	[,]	2
 dump sentences\A-441_19_.txt	swordfish	bluefish	,	LIST	[,]	2
-dump sentences\V-349_13_.txt	risk	mortality	of	PREP	[IN]	2
 dump sentences\T-1839_3_.txt	edamame	tofu	,	LIST	[,]	2
 dump sentences\A-47_10_.txt	life	diagnosis	after	PREP	[IN]	2
 dump sentences\V-1080_20_.txt	therapy	muscle function	,	LIST	[,]	2
@@ -2624,7 +2436,6 @@ dump sentences\T-1208_38_.txt	black raspberries	blueberries	,	LIST	[,]	2
 dump sentences\A-300_26_.txt	egg nutrition center	american heart association	characterized the	INFLUENCE	[VBD, DT]	2
 dump sentences\V-551_18_.txt	liver cancer	poultry	, whereas	LIST	[,, IN]	2
 dump sentences\V-155_16_.txt	nuts	diet	to our	PREP	[TO, PRP$]	2
-dump sentences\A-125_21_.txt	coffee	risk	for those at	PREP	[IN, DT, IN]	2
 dump sentences\T-1934_3_.txt	lead	vitamin a	to toxic levels of	INFLUENCE	[TO, JJ, NNS, IN]	2
 dump sentences\T-1464_1_.txt	rheumatoid arthritis	ulcerative colitis	,	LIST	[,]	2
 dump sentences\V-521_16_.txt	wrinkle	farm	, as	LIST	[,, IN]	2
@@ -2647,11 +2458,9 @@ dump sentences\V-392_0_.txt	stomach	liver	,	LIST	[,]	2
 dump sentences\V-442_29_.txt	treatment	genital warts	of	PREP	[IN]	2
 dump sentences\V-181_2_.txt	throat cancer	stomach cancer	,	LIST	[,]	2
 dump sentences\V-629_17_.txt	water	blood sugar	does to your	INFLUENCE	[VBZ, TO, PRP$]	2
-dump sentences\A-86_15_.txt	women	high blood pressure	with	PREP	[IN]	2
 dump sentences\A-188_21_.txt	brain	memory	associated with	CAUSE	[VBN, IN]	2
 dump sentences\V-530_5_.txt	heart failure	stroke	,	LIST	[,]	2
 dump sentences\T-991_9_.txt	trans fats	caramel color	,	LIST	[,]	2
-dump sentences\V-1173_1_.txt	risk	heart failure	of	PREP	[IN]	2
 dump sentences\V-13_98_.txt	poultry	veal	or	AND-CONJ	[CC]	2
 dump sentences\A-354_24_.txt	aid	placebo effects	,	LIST	[,]	2
 dump sentences\T-1175_12_.txt	ice cream	desserts	,	LIST	[,]	2
@@ -2690,7 +2499,6 @@ dump sentences\V-528_5_.txt	immune system	gut	of the	PREP	[IN, DT]	2
 dump sentences\T-1658_9_.txt	breast pain	sensitive skin	,	LIST	[,]	2
 dump sentences\T-770_5_.txt	sodium benzoate	potassium sorbate	,	LIST	[,]	2
 dump sentences\V-168_6_.txt	control	blood sugar	of	PREP	[IN]	2
-dump sentences\A-354_10_.txt	woman	leukemia	with	PREP	[IN]	2
 dump sentences\A-99_25_.txt	eggs	dietary cholesterol	or	AND-CONJ	[CC]	2
 dump sentences\V-258_20_.txt	brown fat	cold temperatures	by exposure to	PREP	[IN, NN, TO]	2
 dump sentences\V-798_0_.txt	deli meats	hot dogs	,	LIST	[,]	2
@@ -2698,11 +2506,9 @@ dump sentences\V-460_5_.txt	symptoms	asthma	of	PREP	[IN]	2
 dump sentences\T-1219_4_.txt	carbohydrates	prevotella	are associated with the	CAUSE	[VBP, VBN, IN, DT]	2
 dump sentences\A-42_8_.txt	raisins	potato chips	to	PREP	[TO]	2
 dump sentences\V-224_11_.txt	vitamin a	vitamin c	,	LIST	[,]	2
-dump sentences\A-139_2_.txt	beta-carotene	risk	lower the	DECREASE	[JJR, DT]	2
 dump sentences\V-430_1_.txt	oxidative stress	inflammation	, reduce	LIST	[,, VB]	2
 dump sentences\T-1346_4_.txt	plaque	gingivitis	,	LIST	[,]	2
 dump sentences\V-405_13_.txt	inflammation	gluten	caused by	CAUSE	[VBN, IN]	2
-dump sentences\V-306_6_.txt	risk	premature puberty	of	PREP	[IN]	2
 dump sentences\A-12_10_.txt	fiber	oatmeal	of	PREP	[IN]	2
 dump sentences\T-123_5_.txt	drugs	valium	like	IS-A	[IN]	2
 dump sentences\A-198_4_.txt	meat industry	usda	sued the	INFLUENCE	[VBD, DT]	2
@@ -2710,12 +2516,10 @@ dump sentences\A-441_14_.txt	hair testing	mercury	for	PREP	[IN]	2
 dump sentences\A-432_1_.txt	apple juice	dr. oz	by	PREP	[IN]	2
 dump sentences\T-437_12_.txt	pesticides	glycotoxins	,	LIST	[,]	2
 dump sentences\V-658_4_.txt	sugar	blood pressure	helps the	INFLUENCE	[VBZ, DT]	2
-dump sentences\V-563_19_.txt	risk	thyroid cancer	of 	PREP	[IN]	2
 dump sentences\A-411_2_.txt	diet pills	fat	do a	INFLUENCE	[VBP, DT]	2
 dump sentences\A-5_23_.txt	peppermint	nausea	cut	DECREASE	[VBD]	2
 dump sentences\A-219_1_.txt	phytonutrients	zeaxanthin	like	IS-A	[IN]	2
 dump sentences\T-580_2_.txt	probiotics	chamomile tea	,	LIST	[,]	2
-dump sentences\V-665_6_.txt	exercise	risk	,	LIST	[,]	2
 dump sentences\A-165_17_.txt	acrylamide	diets	to the	PREP	[TO, DT]	2
 dump sentences\A-441_8_.txt	adverse effects	mercury	of	PREP	[IN]	2
 dump sentences\V-555_19_.txt	cauliflower	tomatoes	,	LIST	[,]	2
@@ -2724,18 +2528,15 @@ dump sentences\V-426_9_.txt	drugs	tongue cancer	for	PREP	[IN]	2
 dump sentences\A-400_17_.txt	squash seeds	treat	to	PREP	[TO]	2
 dump sentences\V-574_10_.txt	juice	sports	as a	PREP	[IN, DT]	2
 dump sentences\V-332_7_.txt	culture	health	of	PREP	[IN]	2
-dump sentences\A-382_3_.txt	skin cancer	risk	, the	LIST	[,, DT]	2
 dump sentences\V-20_3_.txt	stomach cancer	salt	associated with	CAUSE	[VBN, IN]	2
 dump sentences\V-454_15_.txt	fish	chicken	, or fried	AND-CONJ	[,, CC, VBD]	2
 dump sentences\V-377_3_.txt	onions	asparagus	,	LIST	[,]	2
-dump sentences\A-261_10_.txt	women	estrogen	with	PREP	[IN]	2
 dump sentences\T-1446_17_.txt	phytonutrients	lycopene	like	IS-A	[IN]	2
 dump sentences\V-731_10_.txt	grains	white bread	, like	LIST	[,, IN]	2
 dump sentences\A-363_6_.txt	pregnant women	grilling	exposed to the	EXPOSE	[VBN, TO, DT]	2
 dump sentences\V-41_2_.txt	incorporation	green tea	of	PREP	[IN]	2
 dump sentences\V-462_0_.txt	drug	chickens	to	PREP	[TO]	2
 dump sentences\V-838_4_.txt	lead	sexual dysfunction	to	PREP	[TO]	2
-dump sentences\T-867_14_.txt	risk	cardiac disease	for	PREP	[IN]	2
 dump sentences\A-90_46_.txt	inflammation	oxidation	,	LIST	[,]	2
 dump sentences\A-296_15_.txt	mushrooms	vegetable	were the	HYPERNYMY	[VBD, DT]	2
 dump sentences\V-237_10_.txt	prevention	dementia	of	PREP	[IN]	2
@@ -2770,7 +2571,6 @@ dump sentences\V-12_26_.txt	irritable bowel syndrome	fibromyalgia	,	LIST	[,]	2
 dump sentences\V-1300_22_.txt	bladder infections	breast cancer	tied to	CAUSE	[VBN, TO]	2
 dump sentences\V-904_1_.txt	antioxidant content	blueberries	of	PREP	[IN]	2
 dump sentences\V-1088_8_.txt	celery root	fiddlehead ferns	,	LIST	[,]	2
-dump sentences\A-198_10_.txt	cross-contamination	salmonella	of foods with	PREP	[IN, JJ, NNS, IN]	2
 dump sentences\T-1667_3_.txt	poultry	phthalates	with	PREP	[IN]	2
 dump sentences\A-32_28_.txt	vegan	vegetarian	or	AND-CONJ	[CC]	2
 dump sentences\A-291_35_.txt	lavender	migraine headaches	for	PREP	[IN]	2
@@ -2778,13 +2578,11 @@ dump sentences\V-574_26_.txt	almonds	raspberries	,	LIST	[,]	2
 dump sentences\A-374_9_.txt	cantaloupe	carrots	,	LIST	[,]	2
 dump sentences\V-148_10_.txt	world health organization	blood	, a	LIST	[,, DT]	2
 dump sentences\V-426_2_.txt	affordability	nutrition	versus	CC	[CC]	2
-dump sentences\A-468_10_.txt	risk	autoimmune diseases	for	PREP	[IN]	2
 dump sentences\T-255_4_.txt	garlic	tomatoes	,	LIST	[,]	2
 dump sentences\A-189_0_.txt	transglutaminase	meat industry	is used by the	USAGE	[VBZ, VBN, IN, DT]	2
 dump sentences\V-70_9_.txt	doctor	blood pressure	with a	PREP	[IN, DT]	2
 dump sentences\A-84_26_.txt	beverage	children	for	PREP	[IN]	2
 dump sentences\V-403_2_.txt	diabetes	osteoporosis	,	LIST	[,]	2
-dump sentences\V-590_20_.txt	women	bladder infections	,	LIST	[,]	2
 dump sentences\A-122_2_.txt	soybeans	corn	, or	AND-CONJ	[,, CC]	2
 dump sentences\A-413_9_.txt	epic study	meat industry	, a	LIST	[,, DT]	2
 dump sentences\A-113_15_.txt	pigs	cows	,	LIST	[,]	2
@@ -2810,7 +2608,6 @@ dump sentences\V-62_12_.txt	heartburn	gerd	,	LIST	[,]	2
 dump sentences\V-961_17_.txt	brown rice	whole grains	,	LIST	[,]	2
 dump sentences\T-308_6_.txt	breast milk	vegetarians	of	PREP	[IN]	2
 dump sentences\T-1716_1_.txt	ovarian cancer	multiple myeloma	,	LIST	[,]	2
-dump sentences\V-506_6_.txt	risk	blindness	of	PREP	[IN]	2
 dump sentences\V-96_39_.txt	surgery	radiation	or	AND-CONJ	[CC]	2
 dump sentences\V-244_6_.txt	production	fruit juice	of	PREP	[IN]	2
 dump sentences\A-67_5_.txt	obesity	igf-1	, like	LIST	[,, IN]	2
@@ -2819,7 +2616,6 @@ dump sentences\A-170_30_.txt	plants	supplements	vs.	CC	[CC]	2
 dump sentences\A-52_9_.txt	sausage	hot dogs	,	LIST	[,]	2
 dump sentences\T-397_2_.txt	cruciferous vegetables	cauliflower	,	LIST	[,]	2
 dump sentences\T-238_8_.txt	mercury	dioxins	,	LIST	[,]	2
-dump sentences\T-994_5_.txt	risk	endometriosis	of	PREP	[IN]	2
 dump sentences\T-1464_1_.txt	gut flora	fibromyalgia	,	LIST	[,]	2
 dump sentences\A-347_15_.txt	treatment	dried plums	with	PREP	[IN]	2
 dump sentences\V-356_21_.txt	adverse effects	aspartame	caused by	CAUSE	[VBN, IN]	2
@@ -2849,7 +2645,6 @@ dump sentences\T-511_0_.txt	brain parasites	worms	such as	IS-A	[JJ, IN]	2
 dump sentences\T-751_3_.txt	allergies	gold dust retinopathy	,	LIST	[,]	2
 dump sentences\T-1525_9_.txt	peanut butter	blueberry	,	LIST	[,]	2
 dump sentences\T-953_15_.txt	adiponectin	hormone	, a	LIST	[,, DT]	2
-dump sentences\A-89_9_.txt	risk	women	of	PREP	[IN]	2
 dump sentences\V-261_11_.txt	red wine	fish	, or	AND-CONJ	[,, CC]	2
 dump sentences\T-1634_1_.txt	iodine	seaweed	,	LIST	[,]	2
 dump sentences\V-13_82_.txt	saturated fat	industrial pollutants	,	LIST	[,]	2
@@ -2862,7 +2657,6 @@ dump sentences\A-187_11_.txt	carcinogens	heterocyclic amines	, the	LIST	[,, DT]	
 dump sentences\A-374_9_.txt	cabbage	cantaloupe	,	LIST	[,]	2
 dump sentences\V-294_6_.txt	animal protein	diet	to their	PREP	[TO, PRP$]	2
 dump sentences\V-871_11_.txt	nitrate	beet juice	as a cup of	PREP	[IN, DT, NN, IN]	2
-dump sentences\V-840_0_.txt	cross-contamination	fecal bacteria	of	PREP	[IN]	2
 dump sentences\V-273_3_.txt	sugar	fat	,	LIST	[,]	2
 dump sentences\T-178_2_.txt	myelopathy	psychosis	,	LIST	[,]	2
 dump sentences\T-1407_5_.txt	walnuts	pecans	,	LIST	[,]	2
@@ -2870,11 +2664,8 @@ dump sentences\V-14_265_.txt	mercury	cholesterol	, as well as	AND-CONJ	[,, RB, R
 dump sentences\V-212_25_.txt	inflammation	depressive symptoms	to trigger	CAUSE	[TO, VB]	2
 dump sentences\T-1079_29_.txt	amla	indian gooseberries	or	AND-CONJ	[CC]	2
 dump sentences\A-409_0_.txt	benign prostatic hyperplasia	bph	, or	AND-CONJ	[,, CC]	2
-dump sentences\A-472_6_.txt	risk	chronic disease	for	PREP	[IN]	2
 dump sentences\A-12_5_.txt	weight gain	who	for those	PREP	[IN, DT]	2
 dump sentences\A-240_3_.txt	sugar	soda	was added to	ADD	[VBD, VBN, TO]	2
-dump sentences\A-257_0_.txt	risk	product	of your	PREP	[IN, PRP$]	2
-dump sentences\V-1075_8_.txt	risk	hepatitis e	of	PREP	[IN]	2
 dump sentences\V-1279_4_.txt	cocoa	date sugar	,	LIST	[,]	2
 dump sentences\A-58_4_.txt	potato chips	doughnuts	,	LIST	[,]	2
 dump sentences\V-454_2_.txt	breast cancer	pancreatic cancer	, as well as	AND-CONJ	[,, RB, RB, IN]	2
@@ -2889,7 +2680,6 @@ dump sentences\A-103_10_.txt	drug	metformin	,	LIST	[,]	2
 dump sentences\V-452_6_.txt	obesity	diabetes	predisposes us to	CAUSE	[VBZ, PRP, TO]	2
 dump sentences\A-17_15_.txt	antidepressants	treatment	for	PREP	[IN]	2
 dump sentences\A-233_5_.txt	ulcer	gallstones	,	LIST	[,]	2
-dump sentences\A-293_9_.txt	risk	pneumonia	of	PREP	[IN]	2
 dump sentences\V-16_217_.txt	standard american diet	blood	is so toxic to	INFLUENCE	[VBZ, RB, JJ, TO]	2
 dump sentences\V-848_3_.txt	pipe smoking	alcohol	,	LIST	[,]	2
 dump sentences\A-118_5_.txt	diet	tor	to suppress	INFLUENCE	[TO, VB]	2
@@ -2912,7 +2702,6 @@ dump sentences\T-316_2_.txt	food poisoning	alfalfa sprouts	like	IS-A	[IN]	2
 dump sentences\V-790_1_.txt	common cold	heart disease	,	LIST	[,]	2
 dump sentences\T-1874_2_.txt	osteoarthritis	rheumatoid arthritis	,	LIST	[,]	2
 dump sentences\A-141_9_.txt	organs	grains	,	LIST	[,]	2
-dump sentences\V-582_22_.txt	women	soft drinks	was	TRASH	[VBD]	2
 dump sentences\V-1297_5_.txt	arthritis	life	for the rest of your	PREP	[IN, DT, NN, IN, PRP$]	2
 dump sentences\V-548_21_.txt	undesirable effects	caloric restriction	of [	PREP	[IN, -LRB-]	2
 dump sentences\A-57_5_.txt	water	tea	, was	LIST	[,, VBD]	2
@@ -2922,10 +2711,8 @@ dump sentences\V-198_10_.txt	mortality	plant foods	, but	LIST	[,, CC]	2
 dump sentences\V-422_16_.txt	death	virus	of	PREP	[IN]	2
 dump sentences\V-243_16_.txt	oatmeal	blueberries	with	PREP	[IN]	2
 dump sentences\A-369_9_.txt	surgery	meat	about their	PREP	[IN, PRP$]	2
-dump sentences\V-43_17_.txt	risks	diet soda	associated with	CAUSE	[VBN, IN]	2
 dump sentences\A-254_4_.txt	seizures	pork	, the	LIST	[,, DT]	2
 dump sentences\A-446_11_.txt	limonol	tangeretin	or	AND-CONJ	[CC]	2
-dump sentences\T-570_10_.txt	risk	common cold	of the	PREP	[IN, DT]	2
 dump sentences\A-68_2_.txt	alcohol	roundup	with your	PREP	[IN, PRP$]	2
 dump sentences\A-266_8_.txt	methionine	cancer cells	, but	LIST	[,, CC]	2
 dump sentences\V-446_4_.txt	bacon	breakfast	for	PREP	[IN]	2
@@ -2941,7 +2728,6 @@ dump sentences\V-471_10_.txt	health	arteries	of our	PREP	[IN, PRP$]	2
 dump sentences\V-1063_3_.txt	dark chocolate	milk chocolate	,	LIST	[,]	2
 dump sentences\V-1173_6_.txt	vegan diet	diabetes	, their	LIST	[,, PRP$]	2
 dump sentences\V-243_16_.txt	skim milk	breakfast	for	PREP	[IN]	2
-dump sentences\T-1037_2_.txt	risk	orange juice	, but	LIST	[,, CC]	2
 dump sentences\A-160_24_.txt	fish	salmon	like	IS-A	[IN]	2
 dump sentences\T-751_6_.txt	stroke	mortality	or	AND-CONJ	[CC]	2
 dump sentences\V-498_8_.txt	citrus	grapes	,	LIST	[,]	2
@@ -2986,8 +2772,6 @@ dump sentences\A-14_8_.txt	whole grains	whole wheat	, like	LIST	[,, IN]	2
 dump sentences\V-412_12_.txt	antibiotic resistance	vomiting	,	LIST	[,]	2
 dump sentences\A-312_0_.txt	treatment	mood	of	PREP	[IN]	2
 dump sentences\T-935_7_.txt	high blood pressure	diet	with a	PREP	[IN, DT]	2
-dump sentences\V-76_12_.txt	blood	women	of	PREP	[IN]	2
-dump sentences\V-470_20_.txt	meat	risk	could reduce their	DECREASE	[MD, VB, PRP$]	2
 dump sentences\A-341_9_.txt	oxidant stress	antioxidant	due to the	CAUSE	[JJ, TO, DT]	2
 dump sentences\V-274_8_.txt	bad cholesterol	ldl	,	LIST	[,]	2
 dump sentences\V-404_10_.txt	diagnosis	gluten	,	LIST	[,]	2
@@ -3048,8 +2832,6 @@ dump sentences\A-101_7_.txt	control	prevention	for the	PREP	[IN, DT]	2
 dump sentences\T-1329_0_.txt	dna damage	cancer growth	, suppress	LIST	[,, VBP]	2
 dump sentences\T-1094_3_.txt	sweet potatoes	phytates	,	LIST	[,]	2
 dump sentences\V-538_18_.txt	parasites	meat	are associated with	CAUSE	[VBP, VBN, IN]	2
-dump sentences\T-1693_5_.txt	risk	allergies	of	PREP	[IN]	2
-dump sentences\A-296_0_.txt	diagnosis	women	,	LIST	[,]	2
 dump sentences\T-1012_2_.txt	lead	iodine	to	PREP	[TO]	2
 dump sentences\T-502_17_.txt	water	microwaving	or	AND-CONJ	[CC]	2
 dump sentences\A-346_5_.txt	calories	figs	of	PREP	[IN]	2
@@ -3073,7 +2855,6 @@ dump sentences\T-457_4_.txt	goji berries	pomegranate	,	LIST	[,]	2
 dump sentences\A-90_37_.txt	fats	palmitic acid	like	IS-A	[IN]	2
 dump sentences\A-146_33_.txt	vegan	vegetarian	versus	CC	[CC]	2
 dump sentences\V-48_11_.txt	heart disease	stroke	or	AND-CONJ	[CC]	2
-dump sentences\V-18_4_.txt	women	pcos	with	PREP	[IN]	2
 dump sentences\T-225_13_.txt	juice	dairy	,	LIST	[,]	2
 dump sentences\V-351_3_.txt	prevention	date	to	PREP	[TO]	2
 dump sentences\V-522_4_.txt	abnormalities	microcephaly	like	IS-A	[IN]	2
@@ -3103,7 +2884,6 @@ dump sentences\A-8_12_.txt	control	diabetes	of their	PREP	[IN, PRP$]	2
 dump sentences\T-120_10_.txt	cranberry juice	sugar	without added	PREP	[IN, VBN]	2
 dump sentences\V-143_20_.txt	skin	who	of those	PREP	[IN, DT]	2
 dump sentences\V-876_0_.txt	cured meats	bologna	like	IS-A	[IN]	2
-dump sentences\V-65_16_.txt	risk	children	of their	PREP	[IN, PRP$]	2
 dump sentences\V-16_263_.txt	corn	grapes	,	LIST	[,]	2
 dump sentences\T-1755_9_.txt	blood	tumor	to the	PREP	[TO, DT]	2
 dump sentences\V-769_12_.txt	cloves	garlic	of	PREP	[IN]	2
@@ -3130,7 +2910,6 @@ dump sentences\V-611_13_.txt	butter	milk	,	LIST	[,]	2
 dump sentences\T-1333_4_.txt	heart attack	prostate enlargement	,	LIST	[,]	2
 dump sentences\V-657_16_.txt	grape juice	cranberry	here, or	AND-CONJ	[RB, ,, CC]	2
 dump sentences\A-281_30_.txt	anti-inflammation	apples	,	LIST	[,]	2
-dump sentences\V-45_24_.txt	risk	heart attacks	of [	PREP	[IN, -LRB-]	2
 dump sentences\V-859_12_.txt	lung cancer	cervical cancer	,	LIST	[,]	2
 dump sentences\T-1288_7_.txt	liver	chinese cinnamon	,	LIST	[,]	2
 dump sentences\V-242_24_.txt	soda	hibiscus tea	or	AND-CONJ	[CC]	2
@@ -3154,7 +2933,6 @@ dump sentences\A-190_36_.txt	carcinogens	chemicals	,	LIST	[,]	2
 dump sentences\V-393_8_.txt	oils	water	,	LIST	[,]	2
 dump sentences\A-340_1_.txt	chafing	burning	,	LIST	[,]	2
 dump sentences\V-368_7_.txt	variety	igf-1	of	PREP	[IN]	2
-dump sentences\V-158_14_.txt	risk	green tea	as the	PREP	[IN, DT]	2
 dump sentences\V-115_7_.txt	cod liver oil	vitamin d	as the	PREP	[IN, DT]	2
 dump sentences\A-42_11_.txt	raisins	blood sugar	caused less of a	CAUSE	[VBD, JJR, IN, DT]	2
 dump sentences\T-751_2_.txt	industrial pollutants	mercury	such as	IS-A	[JJ, IN]	2
@@ -3166,14 +2944,12 @@ dump sentences\V-984_11_.txt	sweet potatoes	fruit	,	LIST	[,]	2
 dump sentences\V-744_22_.txt	calories	meat	of processed	PREP	[IN, VBN]	2
 dump sentences\V-473_28_.txt	cancer cells	curcumin	,	LIST	[,]	2
 dump sentences\V-152_8_.txt	tuna	brain damage	, the	LIST	[,, DT]	2
-dump sentences\V-560_7_.txt	nuts	risk	reduce the	DECREASE	[VBP, DT]	2
 dump sentences\T-993_6_.txt	babies	brain damage	with	PREP	[IN]	2
 dump sentences\T-1891_10_.txt	red cabbage	water	with	PREP	[IN]	2
 dump sentences\V-597_10_.txt	soy yogurt	supplements	, or	AND-CONJ	[,, CC]	2
 dump sentences\A-403_5_.txt	grains	cows	to	PREP	[TO]	2
 dump sentences\A-229_36_.txt	sunflower seeds	parsley	,	LIST	[,]	2
 dump sentences\V-965_9_.txt	ice cream	pizza	,	LIST	[,]	2
-dump sentences\V-47_1_.txt	risks	aspirin	of	PREP	[IN]	2
 dump sentences\V-868_0_.txt	viruses	bacteria	,	LIST	[,]	2
 dump sentences\T-1037_11_.txt	orange juice	tomato juice	, or	AND-CONJ	[,, CC]	2
 dump sentences\A-323_18_.txt	vitamin c	bananas	,	LIST	[,]	2
@@ -3264,7 +3040,6 @@ dump sentences\T-1240_2_.txt	mood	anxiety	or	AND-CONJ	[CC]	1
 dump sentences\V-686_7_.txt	cocoa	roast	,	LIST	[,]	1
 dump sentences\V-153_12_.txt	alpha-carotene	beta-carotene	or	AND-CONJ	[CC]	1
 dump sentences\A-136_11_.txt	sprouts	supplements	vs.	CC	[CC]	1
-dump sentences\V-454_15_.txt	risk	french fries	associated with	CAUSE	[VBN, IN]	1
 dump sentences\V-1158_6_.txt	spoiling	toxins	,	LIST	[,]	1
 dump sentences\V-1095_18_.txt	leeks	corn	,	LIST	[,]	1
 dump sentences\V-54_15_.txt	potato chips	chicken	, but	LIST	[,, CC]	1
@@ -3309,7 +3084,6 @@ dump sentences\V-1069_21_.txt	ulcers	allergic reactions	,	LIST	[,]	1
 dump sentences\V-1_18_.txt	milk thistle	livers	to support their	INFLUENCE	[TO, VB, PRP$]	1
 dump sentences\A-156_17_.txt	organs	kidneys	, like	LIST	[,, IN]	1
 dump sentences\V-1282_6_.txt	united states	national academy of sciences	, the	LIST	[,, DT]	1
-dump sentences\V-599_17_.txt	risk	alcohol	associated with [the]	CAUSE	[VBN, IN, -LRB-, DT, -RRB-]	1
 dump sentences\T-120_10_.txt	blood	pomegranate	, dried	LIST	[,, VBD]	1
 dump sentences\V-302_16_.txt	spinach	folic acid	, whereas	LIST	[,, IN]	1
 dump sentences\T-580_2_.txt	fiber	probiotics	,	LIST	[,]	1
@@ -3343,7 +3117,6 @@ dump sentences\A-305_20_.txt	doctors	cat	cause with	CAUSE	[VBP, IN]	1
 dump sentences\T-1208_42_.txt	folic acid	multivitamins	,	LIST	[,]	1
 dump sentences\V-47_17_.txt	aspirin	cancer	on	PREP	[IN]	2
 dump sentences\A-266_5_.txt	cancer	cancer cells	is harder because	CAUSE	[VBZ, RBR, IN]	1
-dump sentences\V-717_1_.txt	risks	lead	associated with	CAUSE	[VBN, IN]	1
 dump sentences\A-342_16_.txt	alcohol	fruit	,	LIST	[,]	1
 dump sentences\T-725_0_.txt	fibromyalgia	diabetes	,	LIST	[,]	1
 dump sentences\V-176_24_.txt	drugs	colic	used for	USAGE	[VBN, IN]	1
@@ -3372,7 +3145,6 @@ dump sentences\A-341_10_.txt	triglycerides	cholesterol	,	LIST	[,]	1
 dump sentences\V-1259_10_.txt	pesticides	pus	,	LIST	[,]	1
 dump sentences\V-560_15_.txt	plant foods	nuts	, like	LIST	[,, IN]	1
 dump sentences\V-644_11_.txt	cake	chocolate	,	LIST	[,]	1
-dump sentences\V-5_9_.txt	women	ginger	use	USAGE	[VBP]	1
 dump sentences\A-165_20_.txt	girls	french fries	associated with	CAUSE	[VBN, IN]	1
 dump sentences\A-229_7_.txt	phytochemicals	health	, your	LIST	[,, PRP$]	1
 dump sentences\A-117_38_.txt	medicine	nathan pritikin	,	LIST	[,]	1
@@ -3385,7 +3157,6 @@ dump sentences\V-153_1_.txt	apples	grapes	,	LIST	[,]	1
 dump sentences\V-1135_4_.txt	diarrhea	bloating	,	LIST	[,]	1
 dump sentences\V-357_2_.txt	calories	exercising	, or	AND-CONJ	[,, CC]	1
 dump sentences\T-1367_0_.txt	tea	apples	,	LIST	[,]	1
-dump sentences\A-382_6_.txt	immune function	risk	 decreases 	DECREASE	[VBZ]	1
 dump sentences\A-241_16_.txt	plant foods	bioavailability	, the	LIST	[,, DT]	1
 dump sentences\V-302_12_.txt	blood	depression	are associated with	CAUSE	[VBP, VBN, IN]	1
 dump sentences\A-446_11_.txt	lemonoids	lemonin	like	IS-A	[IN]	2
@@ -3414,14 +3185,10 @@ dump sentences\V-273_18_.txt	alcohol	tobacco	, food,	LIST	[,, NN, ,]	1
 dump sentences\V-961_27_.txt	eggs	candy	or	AND-CONJ	[CC]	1
 dump sentences\T-1592_0_.txt	bacteria	fungus	, or	AND-CONJ	[,, CC]	1
 dump sentences\V-177_1_.txt	diseases	strokes	like	IS-A	[IN]	2
-dump sentences\A-166_12_.txt	women	statins	on	PREP	[IN]	2
-dump sentences\V-455_7_.txt	women	statins	on	PREP	[IN]	2
 dump sentences\A-320_11_.txt	farm	black raspberries	,	LIST	[,]	1
 dump sentences\V-1128_10_.txt	chicken	dairy	, the	LIST	[,, DT]	1
 dump sentences\A-216_12_.txt	bilberries	black currants	or	AND-CONJ	[CC]	1
 dump sentences\A-63_23_.txt	drugs	aspirin	such as	IS-A	[JJ, IN]	2
-dump sentences\V-48_9_.txt	aspirin	risk	would help those at	INFLUENCE	[MD, VB, DT, IN]	1
-dump sentences\V-151_12_.txt	women	plant	on	PREP	[IN]	2
 dump sentences\A-374_9_.txt	tomatoes	sweet potatoes	, or	AND-CONJ	[,, CC]	1
 dump sentences\A-66_6_.txt	sugar	empty calories	is	SYNONYMY	[VBZ]	2
 dump sentences\V-847_5_.txt	blood	thymus	,	LIST	[,]	1
@@ -3447,8 +3214,6 @@ dump sentences\V-773_12_.txt	grapes	brussels sprouts	,	LIST	[,]	1
 dump sentences\V-848_3_.txt	body mass index	physical activity	,	LIST	[,]	1
 dump sentences\T-103_7_.txt	apnea	autism	,	LIST	[,]	1
 dump sentences\A-235_4_.txt	pcb	brains	exposed	EXPOSE	[VBN]	1
-dump sentences\T-1504_15_.txt	poultry	risk	raises the	INCREASE	[VBZ, DT]	1
-dump sentences\T-1012_2_.txt	risk	wakame	, while	LIST	[,, IN]	1
 dump sentences\A-379_10_.txt	eye	watering	-	-COMPOUND	[]	1
 dump sentences\T-450_5_.txt	carob	chocolate	, a	LIST	[,, DT]	1
 dump sentences\A-229_36_.txt	parsley	lime	,	LIST	[,]	1
@@ -3466,19 +3231,16 @@ dump sentences\V-977_22_.txt	persin	avocado	, the	LIST	[,, DT]	1
 dump sentences\V-814_9_.txt	sardines	halibut	,	LIST	[,]	1
 dump sentences\V-81_39_.txt	physicians	who	,	LIST	[,]	1
 dump sentences\V-918_2_.txt	dairy	juice	,	LIST	[,]	1
-dump sentences\T-1326_1_.txt	women	tamoxifen	on	PREP	[IN]	2
 dump sentences\V-297_33_.txt	poultry	eggs	, or	AND-CONJ	[,, CC]	1
 dump sentences\V-1046_8_.txt	hormones	testosterone	, like	LIST	[,, IN]	1
 dump sentences\V-702_4_.txt	fats	meat	,	LIST	[,]	1
 dump sentences\A-148_26_.txt	blood	biomarker	, a	LIST	[,, DT]	1
 dump sentences\V-245_4_.txt	bread	hummus	,	LIST	[,]	1
-dump sentences\A-430_6_.txt	women	diets	, their	LIST	[,, PRP$]	1
 dump sentences\A-323_1_.txt	bananas	cranberries	,	LIST	[,]	1
 dump sentences\V-1088_8_.txt	purslane	watercress	, or	AND-CONJ	[,, CC]	1
 dump sentences\T-440_7_.txt	obesity	allergies	,	LIST	[,]	1
 dump sentences\V-874_2_.txt	pork	turkey	,	LIST	[,]	1
 dump sentences\V-297_20_.txt	water	pesticide	to boost its	INCREASE	[TO, VB, PRP$]	1
-dump sentences\T-301_12_.txt	women	tamoxifen	on	PREP	[IN]	2
 dump sentences\A-469_36_.txt	peas	vegetarian	, or	AND-CONJ	[,, CC]	1
 dump sentences\T-1602_11_.txt	lovastatin	drug	, a	LIST	[,, DT]	1
 dump sentences\V-96_25_.txt	diets	soy	, with	LIST	[,, IN]	1
@@ -3487,9 +3249,7 @@ dump sentences\T-1773_3_.txt	cauliflower	kohlrabi	or	AND-CONJ	[CC]	1
 dump sentences\A-243_13_.txt	cabbage	brussels sprouts	,	LIST	[,]	1
 dump sentences\A-155_28_.txt	fish	chicken	could get triggered by	CAUSE	[MD, VB, VBN, IN]	1
 dump sentences\V-386_1_.txt	prediabetes	diabetes	, or	AND-CONJ	[,, CC]	1
-dump sentences\A-481_20_.txt	women	tamoxifen	on	PREP	[IN]	2
 dump sentences\A-195_39_.txt	united states	heart disease	,	LIST	[,]	1
-dump sentences\A-261_16_.txt	women	tamoxifen	on	PREP	[IN]	2
 dump sentences\T-1565_4_.txt	meat industry	radiation	has used	USAGE	[VBZ, VBN]	1
 dump sentences\A-475_16_.txt	toxoplasma	foie gras	,	LIST	[,]	1
 dump sentences\V-1129_15_.txt	diabetes	neuropathy	,	LIST	[,]	1
@@ -3509,25 +3269,18 @@ dump sentences\V-799_5_.txt	linguatula serrata	tongue worm	,	LIST	[,]	1
 dump sentences\T-679_2_.txt	beet	juice	-	-COMPOUND	[]	1
 dump sentences\T-502_3_.txt	pain	osteoarthritis	associated with both	CAUSE	[VBN, IN, CC]	1
 dump sentences\V-16_56_.txt	tumors	lymphomas	,	LIST	[,]	1
-dump sentences\V-151_12_.txt	women	plant-based diets	on	PREP	[IN]	2
 dump sentences\T-751_3_.txt	toxins	chemical	,	LIST	[,]	1
-dump sentences\V-693_4_.txt	women	hormone	on	PREP	[IN]	2
 dump sentences\V-879_2_.txt	eggplant	squash	,	LIST	[,]	1
 dump sentences\V-1275_6_.txt	kids	vegan	, the	LIST	[,, DT]	1
 dump sentences\T-1911_13_.txt	colon cancer	bph	, as well as	AND-CONJ	[,, RB, RB, IN]	1
-dump sentences\V-893_4_.txt	women	low-carb diets	on	PREP	[IN]	2
 dump sentences\T-1914_24_.txt	nitrates	treat	, which	LIST	[,, WDT]	1
 dump sentences\V-1247_3_.txt	vegetables	tofu	,	LIST	[,]	1
 dump sentences\T-791_5_.txt	antioxidants	magnesium	,	LIST	[,]	1
-dump sentences\A-427_18_.txt	women	iron	on	PREP	[IN]	2
 dump sentences\T-992_1_.txt	asthma	celiac disease	,	LIST	[,]	1
 dump sentences\A-356_10_.txt	girls	animal protein	associated with	CAUSE	[VBN, IN]	1
 dump sentences\V-60_17_.txt	barley	brown rice	,	LIST	[,]	1
 dump sentences\A-38_6_.txt	saffron	turmeric	or	AND-CONJ	[CC]	1
-dump sentences\V-768_12_.txt	women	iron	on	PREP	[IN]	2
-dump sentences\A-427_18_.txt	women	iron supplements	on	PREP	[IN]	2
 dump sentences\V-13_161_.txt	nuts	stroke	could cut	DECREASE	[MD, VB]	1
-dump sentences\V-768_12_.txt	women	iron supplements	on	PREP	[IN]	2
 dump sentences\V-65_32_.txt	meat	pork	, with	LIST	[,, IN]	1
 dump sentences\T-761_4_.txt	cataracts	fibromyalgia	,	LIST	[,]	1
 dump sentences\V-803_2_.txt	arsenic	cadmium	,	LIST	[,]	1
@@ -3599,7 +3352,6 @@ dump sentences\A-154_19_.txt	fungi	bacteria	get attacked by	INFLUENCE	[VBP, VBN,
 dump sentences\V-1219_3_.txt	honey	raw	,	LIST	[,]	1
 dump sentences\V-829_2_.txt	carnosine	carnitine	,	LIST	[,]	1
 dump sentences\V-984_11_.txt	greens	sweet potatoes	,	LIST	[,]	1
-dump sentences\T-120_2_.txt	risk	inflammation	, reduce	LIST	[,, VB]	1
 dump sentences\V-1120_4_.txt	hypertension	diabetes	,	LIST	[,]	1
 dump sentences\V-415_7_.txt	ecmo	extracorporeal membranous oxygenation	,	LIST	[,]	1
 dump sentences\V-1221_13_.txt	corn syrup	sugar	is as good for you as	INFLUENCE	[VBZ, RB, JJ, IN, PRP, IN]	1
@@ -3619,7 +3371,6 @@ dump sentences\A-425_18_.txt	carbohydrates	insulin	trigger a release of	CAUSE	[V
 dump sentences\T-28_7_.txt	eggs	dairy	or	AND-CONJ	[CC]	1
 dump sentences\A-419_18_.txt	nuts	fat	 boost	INCREASE	[VBP]	1
 dump sentences\V-296_3_.txt	alcohol	processed meat	,	LIST	[,]	1
-dump sentences\T-1653_9_.txt	fish	risks	,	LIST	[,]	1
 dump sentences\V-224_5_.txt	meat	soda	, or	AND-CONJ	[,, CC]	1
 dump sentences\T-661_2_.txt	food poisoning	heart disease	,	LIST	[,]	1
 dump sentences\V-165_15_.txt	radish	mustard powder	or	AND-CONJ	[CC]	1
@@ -3631,7 +3382,6 @@ dump sentences\A-104_25_.txt	plant foods	grains	like	IS-A	[IN]	2
 dump sentences\V-302_16_.txt	leafy vegetables	spinach	like	IS-A	[IN]	2
 dump sentences\V-1_29_.txt	strokes	seizures	,	LIST	[,]	1
 dump sentences\V-1095_10_.txt	vegetables	boiling	,	LIST	[,]	1
-dump sentences\T-327_2_.txt	risk	death	or	AND-CONJ	[CC]	1
 dump sentences\T-1393_5_.txt	disease	als	,	LIST	[,]	1
 dump sentences\V-193_26_.txt	cholesterol	triglycerides	,	LIST	[,]	1
 dump sentences\V-193_23_.txt	vegetables	plants	,	LIST	[,]	1
@@ -3768,7 +3518,6 @@ dump sentences\T-768_0_.txt	lentils	ground flax	,	LIST	[,]	1
 dump sentences\T-1464_1_.txt	dysmenorrhea	eczema	,	LIST	[,]	1
 dump sentences\V-411_22_.txt	prozac	antihistamine	,	LIST	[,]	1
 dump sentences\T-112_1_.txt	blueberries	cherries	,	LIST	[,]	1
-dump sentences\A-137_11_.txt	smoking	risk	was a	HYPERNYMY	[VBD, DT]	2
 dump sentences\T-1963_2_.txt	allergy	gluten	or	AND-CONJ	[CC]	1
 dump sentences\V-157_13_.txt	cigarette	endothelium	, our	LIST	[,, PRP$]	1
 dump sentences\V-1046_10_.txt	sports	muscles	to build up their	INFLUENCE	[TO, VB, RP, PRP$]	1
@@ -3821,7 +3570,6 @@ dump sentences\V-918_2_.txt	cheese	soy	,	LIST	[,]	1
 dump sentences\V-784_12_.txt	fat	saturated animal fat	, the	LIST	[,, DT]	1
 dump sentences\V-150_21_.txt	smoke	smoking	, because	LIST	[,, IN]	1
 dump sentences\V-218_9_.txt	pork	eggs	or	AND-CONJ	[CC]	1
-dump sentences\V-1081_5_.txt	meat	risk	cut their	DECREASE	[VBD, PRP$]	1
 dump sentences\A-293_13_.txt	sleeping pills	valium	like	IS-A	[IN]	2
 dump sentences\V-720_3_.txt	vegans	cancer	lowers	DECREASE	[VBZ]	1
 dump sentences\A-490_8_.txt	dairy	epic	, while	LIST	[,, IN]	1
@@ -3865,7 +3613,6 @@ dump sentences\T-1533_1_.txt	cranberries	turmeric	,	LIST	[,]	1
 dump sentences\V-1070_20_.txt	cows	chickens	,	LIST	[,]	1
 dump sentences\A-368_23_.txt	smoke	eggs	,	LIST	[,]	1
 dump sentences\V-73_8_.txt	immune system	virus	is exposed to a	EXPOSE	[VBZ, VBN, TO, DT]	1
-dump sentences\V-200_1_.txt	heart attack	risk	reduce their	DECREASE	[VB, PRP$]	1
 dump sentences\V-828_7_.txt	supplement	memory	,	LIST	[,]	1
 dump sentences\V-230_20_.txt	brain	cholesterol	,	LIST	[,]	1
 dump sentences\A-222_10_.txt	supplements	omnivores	,	LIST	[,]	1
@@ -3898,7 +3645,6 @@ dump sentences\T-1719_3_.txt	pesticides	gmo	on	PREP	[IN]	2
 dump sentences\V-1082_3_.txt	cheerios	cola	,	LIST	[,]	1
 dump sentences\V-15_223_.txt	tumors	methionine	use	USAGE	[VBP]	1
 dump sentences\V-653_9_.txt	tumor	phip	, as	LIST	[,, IN]	1
-dump sentences\V-302_5_.txt	women	who	, those	LIST	[,, DT]	1
 dump sentences\T-437_3_.txt	poultry workers	who	,	LIST	[,]	1
 dump sentences\V-58_5_.txt	cardiovascular diseases	birth defects	,	LIST	[,]	1
 dump sentences\T-1526_3_.txt	stomach	nitrates	, these	LIST	[,, DT]	1
@@ -3969,8 +3715,6 @@ dump sentences\V-256_3_.txt	blood pressure	who	, but	LIST	[,, CC]	1
 dump sentences\V-879_2_.txt	squash	tomatoes	,	LIST	[,]	1
 dump sentences\A-156_11_.txt	neu5gc	inflammation	triggers	CAUSE	[VBZ]	1
 dump sentences\T-1400_2_.txt	diseases	diabetes	like	IS-A	[IN]	2
-dump sentences\A-487_7_.txt	risk	eggs	associated with	CAUSE	[VBN, IN]	1
-dump sentences\V-136_0_.txt	vegetables	risk	helps to reduce the	DECREASE	[VBZ, TO, VB, DT]	1
 dump sentences\V-318_11_.txt	inflammation	brain	,	LIST	[,]	1
 dump sentences\V-783_0_.txt	animal foods	inflammation	causes	CAUSE	[VBZ]	1
 dump sentences\V-1100_2_.txt	lentils	green	,	LIST	[,]	1
@@ -4076,9 +3820,7 @@ dump sentences\V-947_3_.txt	babies	sugar	full of	ADJ	[JJ, IN]	1
 dump sentences\T-120_3_.txt	stress	antioxidant	, as	LIST	[,, IN]	1
 dump sentences\V-1141_3_.txt	lifespan	heart attack	,	LIST	[,]	1
 dump sentences\A-467_3_.txt	weakness	cholesterol	on	PREP	[IN]	2
-dump sentences\A-163_6_.txt	obesity	risk	was a	HYPERNYMY	[VBD, DT]	1
 dump sentences\T-1719_4_.txt	in vitro studies	roundup	on	PREP	[IN]	2
-dump sentences\V-16_24_.txt	cholesterol	risk	reduces your	DECREASE	[VBZ, PRP$]	1
 dump sentences\A-468_2_.txt	organization	hormone	devoted to	ADJ	[JJ, TO]	1
 dump sentences\T-1681_5_.txt	medications	health	used for these	USAGE	[VBN, IN, DT]	1
 dump sentences\A-57_29_.txt	tea	eggs	,	LIST	[,]	1
@@ -4105,12 +3847,9 @@ dump sentences\V-779_5_.txt	algae	mustard oil	,	LIST	[,]	1
 dump sentences\T-851_4_.txt	beans	asparagus	,	LIST	[,]	1
 dump sentences\T-1681_9_.txt	herbal teas	hibiscus	, like	LIST	[,, IN]	1
 dump sentences\T-840_3_.txt	pesticide	glyphosate	,	LIST	[,]	1
-dump sentences\A-306_25_.txt	risk	thallium heart scans	associated with the	CAUSE	[VBN, IN, DT]	1
 dump sentences\V-1005_6_.txt	brains	eggs	,	LIST	[,]	1
 dump sentences\V-679_5_.txt	fibromyalgia	preterm birth	,	LIST	[,]	1
-dump sentences\V-476_14_.txt	risk	fda	, the	LIST	[,, DT]	1
 dump sentences\A-2_26_.txt	foodborne illness	pork	tied to	CAUSE	[VBN, TO]	1
-dump sentences\T-1339_4_.txt	risk	carcinogens	due to	CAUSE	[JJ, TO]	1
 dump sentences\V-103_27_.txt	corn	tomatoes	,	LIST	[,]	1
 dump sentences\V-180_0_.txt	kidney failure	amputations	,	LIST	[,]	1
 dump sentences\V-58_13_.txt	adverse effects	thyroid	on	PREP	[IN]	2
@@ -4197,7 +3936,6 @@ dump sentences\T-1693_3_.txt	stress	sleep	or	AND-CONJ	[CC]	1
 dump sentences\A-288_1_.txt	carrageenan	fat	, a	LIST	[,, DT]	1
 dump sentences\T-1518_10_.txt	meat	junk food	,	LIST	[,]	1
 dump sentences\V-1219_29_.txt	sugar	honey	, but	LIST	[,, CC]	1
-dump sentences\V-233_0_.txt	calories	risk	to reduce the	DECREASE	[TO, VB, DT]	1
 dump sentences\V-814_9_.txt	mackerel	sardines	, sole,	LIST	[,, JJ, ,]	1
 dump sentences\T-716_1_.txt	drug residues	anabolic steroids	,	LIST	[,]	1
 dump sentences\T-437_13_.txt	endotoxemia	salmonella	,	LIST	[,]	1
@@ -4208,7 +3946,6 @@ dump sentences\V-47_48_.txt	plants	salicylic acid	, the	LIST	[,, DT]	1
 dump sentences\V-1289_17_.txt	foxglove	hemlock	,	LIST	[,]	1
 dump sentences\V-413_4_.txt	cabbage	beets	, as well as	AND-CONJ	[,, RB, RB, IN]	1
 dump sentences\V-1052_13_.txt	stress	heredity	,	LIST	[,]	1
-dump sentences\V-26_17_.txt	americans	risk	, their	LIST	[,, PRP$]	1
 dump sentences\T-538_0_.txt	mustard greens	radishes	,	LIST	[,]	1
 dump sentences\V-1035_3_.txt	organochlorines	chemical	are	HYPERNYMY	[VBP]	1
 dump sentences\T-920_1_.txt	peppermint	saffron	,	LIST	[,]	1
@@ -4231,14 +3968,12 @@ dump sentences\V-981_4_.txt	cats	arachidonic acid	,	LIST	[,]	1
 dump sentences\T-1175_2_.txt	disease	surgery	,	LIST	[,]	1
 dump sentences\A-428_21_.txt	death	heart disease	was	TRASH	[VBD]	1
 dump sentences\V-160_11_.txt	disease	who	,	LIST	[,]	1
-dump sentences\A-33_31_.txt	risk	obesity	associated with	CAUSE	[VBN, IN]	1
 dump sentences\T-1208_43_.txt	marijuana	acrylamide	,	LIST	[,]	1
 dump sentences\V-68_3_.txt	cheese	protein	,	LIST	[,]	1
 dump sentences\V-179_6_.txt	antioxidant	fruit	packed dried	ADJ	[JJ, VBN]	1
 dump sentences\T-1039_6_.txt	dairy	junk food	, or	AND-CONJ	[,, CC]	1
 dump sentences\V-166_7_.txt	heart disease	nutrition	,	LIST	[,]	1
 dump sentences\A-326_1_.txt	cancer	world health organization	, the	LIST	[,, DT]	1
-dump sentences\V-146_8_.txt	plant foods	risks	lower the	DECREASE	[JJR, DT]	1
 dump sentences\V-885_2_.txt	atp	energy	, the	LIST	[,, DT]	1
 dump sentences\A-460_0_.txt	beverages	herbs	,	LIST	[,]	1
 dump sentences\V-1156_10_.txt	schizophrenia	bipolar disorder	,	LIST	[,]	1
@@ -4249,11 +3984,9 @@ dump sentences\V-1014_24_.txt	infancy	plants	,	LIST	[,]	1
 dump sentences\V-19_7_.txt	thyme	sage	, or	AND-CONJ	[,, CC]	1
 dump sentences\A-73_6_.txt	operations	mrsa	was each associated with	CAUSE	[VBD, DT, VBN, IN]	1
 dump sentences\T-510_19_.txt	cooking	toxicity	will reduce the	DECREASE	[MD, VB, DT]	1
-dump sentences\A-306_26_.txt	risks	heart disease	associated with	CAUSE	[VBN, IN]	1
 dump sentences\A-449_23_.txt	supplements	citrulline	, but	LIST	[,, CC]	1
 dump sentences\V-1215_23_.txt	cholesterol	blood	, our	LIST	[,, PRP$]	1
 dump sentences\V-867_3_.txt	broccoli	detoxifying enzymes	boosted the	INCREASE	[VBD, DT]	1
-dump sentences\T-45_5_.txt	women	breast cancer	,	LIST	[,]	1
 dump sentences\T-618_3_.txt	medical community	doctors	,	LIST	[,]	1
 dump sentences\V-500_26_.txt	curry powder	turmeric	, or	AND-CONJ	[,, CC]	1
 dump sentences\A-229_13_.txt	potassium	antioxidant	, the	LIST	[,, DT]	1
@@ -4270,7 +4003,6 @@ dump sentences\V-464_0_.txt	caloric restriction	lifespan	on	PREP	[IN]	2
 dump sentences\T-701_0_.txt	estrogen	steroid	is a	HYPERNYMY	[VBZ, DT]	1
 dump sentences\V-958_11_.txt	milk	kraft	,	LIST	[,]	1
 dump sentences\T-995_10_.txt	legumes	purple potatoes	,	LIST	[,]	1
-dump sentences\T-1368_0_.txt	phytonutrients	risk	cut the	DECREASE	[VBD, DT]	1
 dump sentences\V-750_5_.txt	grape juice	appetite	on	PREP	[IN]	2
 dump sentences\A-491_8_.txt	greens	cancer	to reduce	DECREASE	[TO, VB]	1
 dump sentences\V-19_8_.txt	garlic	ginger	or	AND-CONJ	[CC]	1
@@ -4281,7 +4013,6 @@ dump sentences\T-1911_51_.txt	myelopathy	paralysis	,	LIST	[,]	1
 dump sentences\T-263_1_.txt	antioxidants	blueberries	,	LIST	[,]	1
 dump sentences\T-580_1_.txt	diarrhea	meat	such as	IS-A	[JJ, IN]	1
 dump sentences\T-990_6_.txt	toxins	perfluorochemicals	such as	IS-A	[JJ, IN]	1
-dump sentences\A-306_28_.txt	risks	medication	or	AND-CONJ	[CC]	1
 dump sentences\A-281_20_.txt	salads	wakame	,	LIST	[,]	1
 dump sentences\V-1042_4_.txt	raw	parasites	,	LIST	[,]	1
 dump sentences\V-160_4_.txt	kidney stones	kidney	,	LIST	[,]	1
@@ -4318,5 +4049,3 @@ dump sentences\V-657_16_.txt	cranberry	pomegranate	, or	AND-CONJ	[,, CC]	1
 dump sentences\T-751_3_.txt	amnesia	cataracts	,	LIST	[,]	1
 dump sentences\V-504_10_.txt	currant	ly	-	-COMPOUND	[]	1
 dump sentences\A-475_4_.txt	food safety	nutrition	,	LIST	[,]	1
-dump sentences\V-988_4_.txt	women	multivitamins	use	USAGE	[VBP]	1
-dump sentences\V-1301_17_.txt	plants	risk	decreases that 	DECREASE	[VBZ, IN]	1

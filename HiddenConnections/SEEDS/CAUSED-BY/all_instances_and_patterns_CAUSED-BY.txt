@@ -10,10 +10,8 @@ carcinogens	cooking	caused by	CAUSED-BY
 epidemic	obesity	caused by	CAUSED-BY
 health	obesity	caused by	CAUSED-BY
 irritation	cetuximab	caused by	CAUSED-BY
-fatty liver	excess	caused by	CAUSED-BY
 inflammation	muscle	caused by	CAUSED-BY
 carcinogens	cooking meat	caused by	CAUSED-BY
-giantism	excess	caused by	CAUSED-BY
 adverse effects	aspartame	caused by	CAUSED-BY
 tumor	hpv	caused by	CAUSED-BY
 smoke	frying	caused by	CAUSED-BY
@@ -39,7 +37,6 @@ non-alcoholic fatty liver disease	obesity	due to	CAUSED-BY
 arteries	cholesterol	due to	CAUSED-BY
 oils	steam	due to	CAUSED-BY
 meat	arachidonic acid	due to	CAUSED-BY
-risk	carcinogens	due to	CAUSED-BY
 brain	atherosclerosis	due to	CAUSED-BY
 liver toxicity	broccoli	due to	CAUSED-BY
 chickens	genetic manipulation	due to	CAUSED-BY

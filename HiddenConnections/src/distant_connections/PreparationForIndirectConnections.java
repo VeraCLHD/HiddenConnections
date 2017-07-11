@@ -15,14 +15,18 @@ import java.util.Set;
 
 import javax.swing.event.ListSelectionEvent;
 
+import bootstrapping.Bootstrapper;
+import bootstrapping.PostProcessingSeeds;
 import io.Editor;
 import io.Reader;
 import io.Writer;
 import overall.Pair;
 import terms_processing.StanfordLemmatizer;
 import terms_processing.TermClusterer;
+import bootstrapping.Bootstrapper;
 
 public class PreparationForIndirectConnections {
+	private static final String IS_A_INFORMATION_CONTENT = "SEEDS/INFORMATION CONTENT/IS-A_final.txt";
 	private static final String DISTANT_CONNECTIONS_FINAL_INPUT = "distant connections/ALL_RELATIONS_WITH_RELEVANT_INFO.txt";
 	// here, the too general connections are already filtered
 	private static final String DISTANT_CONNECTIONS_FILTERED = "distant connections/ALL_RELATIONS_FINAL.txt";
@@ -45,7 +49,7 @@ public class PreparationForIndirectConnections {
 	 * A method that switches the direction of some results (IS-A, HYPERNYMY have to be in the same direction).
 	 * Type 1 is the leading: how to rewrite the other one.
 	 */
-	public void prepareInstances(String type1, String type2){
+	public void prepareInstances(String type1, String type2, String output){
 		String filename_type2 = "SEEDS/" + type2 +"/all_instances_and_patterns_" + type2 + ".txt";
 		String filename_type1 = "SEEDS/" + type1 +"/all_instances_and_patterns_" + type1 + ".txt";
 		String filename_type2_inverted = "SEEDS/" + type2 +"/all_instances_and_patterns_" + type2 + "_inverted.txt";
@@ -65,7 +69,7 @@ public class PreparationForIndirectConnections {
 			}
 		}
 		String[] filenames = {filename_type1,filename_type2_inverted};
-		Writer.concatenateFiles(filenames, "SEEDS/CONCATENATED/" + type1 + "_final.txt");
+		Writer.concatenateFiles(filenames, output);
 	}
 	
 	/**
@@ -91,9 +95,9 @@ public class PreparationForIndirectConnections {
 		Writer.overwriteFile("", "SEEDS/CONCATENATED/" + "CAUSED-BY" + "_final.txt");
 		Writer.overwriteFile("", "SEEDS/CONCATENATED/" + "IS-A" + "_final.txt");
 		Writer.overwriteFile("", "SEEDS/CONCATENATED/" + "PART-OF" + "_final.txt");
-		this.prepareInstances("IS-A", "HYPERNYMY");
-		this.prepareInstances("CAUSED-BY", "CAUSE");
-		this.prepareInstances("PART-OF", "PART-OF-I");
+		this.prepareInstances("IS-A", "HYPERNYMY", "SEEDS/CONCATENATED/" + "IS-A" + "_final.txt");
+		this.prepareInstances("CAUSED-BY", "CAUSE", "SEEDS/CONCATENATED/" + "CAUSED-BY" + "_final.txt");
+		this.prepareInstances("PART-OF", "PART-OF-I", "SEEDS/CONCATENATED/" + "PART-OF" + "_final.txt");
 		List<String> finalFiles = new ArrayList<String>();
 		
 		
@@ -365,8 +369,30 @@ public class PreparationForIndirectConnections {
 	
 	
 	public static void main(String[] args) throws MalformedURLException, IOException {
+		PostProcessingSeeds.fitSeedsToAdjustedTerms();
+		
+		/*Bootstrapper.readAllTerms();
+		List<String> types = new ArrayList<String>();
+		types.add("PART-OF");
+		types.add("PART-OF-I");
+		types.add("IS-A");
+		types.add("HYPERNYMY");
+		types.add("CAUSED-BY");
+		types.add("CAUSE");
+		types.add("EFFECT");
+		types.add("LINKED-TO");
+
+		for(String type: types){
+			Bootstrapper.runForEachRelation(type, 100);
+			System.out.println("Ready with " + type);
+		}*/
+		
+		PostProcessingSeeds.reWriteAllInstancesAndPatternsPostBootstrapping();
+		
 		PreparationForIndirectConnections prep = new PreparationForIndirectConnections();
 		prep.rewriteResultsDirected();
+		Writer.overwriteFile("", IS_A_INFORMATION_CONTENT);
+		prep.prepareInstances("IS-A", "HYPERNYMY",  IS_A_INFORMATION_CONTENT);
 		
 		InformationContent ic = new InformationContent();
 		ic.computeInformationContent();

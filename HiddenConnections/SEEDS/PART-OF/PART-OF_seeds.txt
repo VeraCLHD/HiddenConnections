@@ -51,38 +51,6 @@ dump sentences\V-139_18_.txt	vinegar	pill	in	PART-OF	[IN]	2
 dump sentences\V-69_35_.txt	survival	colorectal cancer	in	PART-OF	[IN]	2
 dump sentences\V-844_0_.txt	cancers	chickens	in	PART-OF	[IN]	2
 dump sentences\V-1040_22_.txt	cancers	children	in	PART-OF	[IN]	2
-dump sentences\V-106_8_.txt	steroid	women	in	PART-OF	[IN]	2
-dump sentences\A-279_17_.txt	sexual dysfunction	women	in	PART-OF	[IN]	2
-dump sentences\V-109_0_.txt	endometriosis	women	in	PART-OF	[IN]	2
-dump sentences\V-582_22_.txt	infertility	women	in	PART-OF	[IN]	2
-dump sentences\T-740_1_.txt	infertility	women	in	PART-OF	[IN]	2
-dump sentences\A-301_18_.txt	infertility	women	in	PART-OF	[IN]	2
-dump sentences\T-1976_3_.txt	testosterone	women	in	PART-OF	[IN]	2
-dump sentences\V-69_36_.txt	death	women	in	PART-OF	[IN]	2
-dump sentences\T-511_2_.txt	bladder infections	women	in	PART-OF	[IN]	2
-dump sentences\T-730_1_.txt	bladder infections	women	in	PART-OF	[IN]	2
-dump sentences\V-854_5_.txt	mortality	women	in	PART-OF	[IN]	2
-dump sentences\V-532_3_.txt	mortality	women	in	PART-OF	[IN]	2
-dump sentences\A-247_3_.txt	mortality	women	in	PART-OF	[IN]	2
-dump sentences\V-611_8_.txt	women	pain	in	PART-OF	[IN]	2
-dump sentences\A-332_10_.txt	women	pain	in	PART-OF	[IN]	2
-dump sentences\T-1976_2_.txt	diabetes	women	in	PART-OF	[IN]	2
-dump sentences\V-503_9_.txt	diabetes	women	in	PART-OF	[IN]	2
-dump sentences\V-609_4_.txt	flaxseed	women	in	PART-OF	[IN]	2
-dump sentences\V-1155_6_.txt	fertility	women	in	PART-OF	[IN]	2
-dump sentences\T-275_7_.txt	risk	women	in	PART-OF	[IN]	2
-dump sentences\A-167_14_.txt	risk	women	in	PART-OF	[IN]	2
-dump sentences\V-414_6_.txt	risk	women	in	PART-OF	[IN]	2
-dump sentences\A-118_19_.txt	risk	women	in	PART-OF	[IN]	2
-dump sentences\V-416_18_.txt	risk	women	in	PART-OF	[IN]	2
-dump sentences\A-488_0_.txt	survival	women	in	PART-OF	[IN]	2
-dump sentences\A-373_17_.txt	lifespan	women	in	PART-OF	[IN]	2
-dump sentences\V-252_13_.txt	bone fractures	women	in	PART-OF	[IN]	2
-dump sentences\V-17_43_.txt	orgasm	women	in	PART-OF	[IN]	2
-dump sentences\V-170_19_.txt	hair growth	women	in	PART-OF	[IN]	2
-dump sentences\T-511_2_.txt	infections	women	in	PART-OF	[IN]	2
-dump sentences\T-730_1_.txt	infections	women	in	PART-OF	[IN]	2
-dump sentences\V-846_5_.txt	lymphoma	women	in	PART-OF	[IN]	2
 dump sentences\V-612_1_.txt	agent	alcoholic beverages	in	PART-OF	[IN]	2
 dump sentences\V-462_12_.txt	drugs	chicken	in	PART-OF	[IN]	2
 dump sentences\A-113_20_.txt	drugs	chicken	in	PART-OF	[IN]	2
@@ -352,8 +320,6 @@ dump sentences\A-231_21_.txt	contamination	drug	in	PART-OF	[IN]	2
 dump sentences\T-486_5_.txt	contamination	fish	in	PART-OF	[IN]	2
 dump sentences\V-477_12_.txt	contamination	fish	in	PART-OF	[IN]	2
 dump sentences\A-186_16_.txt	contamination	fish	in	PART-OF	[IN]	2
-dump sentences\A-374_8_.txt	risk	african	in	PART-OF	[IN]	2
-dump sentences\T-387_3_.txt	risk	african	in	PART-OF	[IN]	2
 dump sentences\V-961_9_.txt	dietary guidelines	greece	in	PART-OF	[IN]	2
 dump sentences\T-450_1_.txt	fat	chocolate	in	PART-OF	[IN]	2
 dump sentences\V-1208_4_.txt	fat	chocolate	in	PART-OF	[IN]	2
@@ -389,7 +355,6 @@ dump sentences\A-273_7_.txt	trans fat	meat	in	PART-OF	[IN]	2
 dump sentences\A-234_23_.txt	ldl	trans fat	in	PART-OF	[IN]	2
 dump sentences\V-875_17_.txt	vitamin c	meat	in	PART-OF	[IN]	2
 dump sentences\V-871_10_.txt	vitamin c	beet	in	PART-OF	[IN]	2
-dump sentences\A-457_20_.txt	irony	vitamin c	in	PART-OF	[IN]	2
 dump sentences\A-323_12_.txt	vitamin c	bananas	in	PART-OF	[IN]	2
 dump sentences\V-604_10_.txt	vitamin c	bananas	in	PART-OF	[IN]	2
 dump sentences\A-169_10_.txt	vitamin c	fruits	in	PART-OF	[IN]	2
@@ -620,7 +585,6 @@ dump sentences\A-80_35_.txt	cancer prevention	poultry	in	PART-OF	[IN]	2
 dump sentences\T-1020_0_.txt	isoflavones	soy	in	PART-OF	[IN]	2
 dump sentences\A-119_25_.txt	prostate cancer	prostate	in	PART-OF	[IN]	2
 dump sentences\A-468_11_.txt	mortality	vitamin	in	PART-OF	[IN]	2
-dump sentences\A-457_20_.txt	irony	vitamin	in	PART-OF	[IN]	2
 dump sentences\V-246_18_.txt	vitamin	greens	in	PART-OF	[IN]	2
 dump sentences\A-290_28_.txt	ibs	kiwi fruit	in	PART-OF	[IN]	2
 dump sentences\A-290_28_.txt	ibs	kiwi	in	PART-OF	[IN]	2
@@ -886,8 +850,6 @@ dump sentences\V-408_6_.txt	constipation	young children	in	PART-OF	[IN]	2
 dump sentences\A-160_27_.txt	pollutants	diabetes	in	PART-OF	[IN]	2
 dump sentences\T-443_3_.txt	diabetes	china	in	PART-OF	[IN]	2
 dump sentences\T-704_7_.txt	aid	diabetes	in	PART-OF	[IN]	2
-dump sentences\A-374_8_.txt	risk	african-american	in	PART-OF	[IN]	2
-dump sentences\T-387_3_.txt	risk	african-american	in	PART-OF	[IN]	2
 dump sentences\T-573_1_.txt	pollutants	fish oil	in	PART-OF	[IN]	2
 dump sentences\A-443_3_.txt	bioactive molecules	milk	in	PART-OF	[IN]	2
 dump sentences\V-823_8_.txt	bioactive molecules	milk	in	PART-OF	[IN]	2
@@ -966,7 +928,6 @@ dump sentences\A-359_3_.txt	infectious diseases	children	in	PART-OF	[IN]	2
 dump sentences\V-1145_4_.txt	pollutants	animal fats	in	PART-OF	[IN]	2
 dump sentences\V-13_284_.txt	fish	wisconsin	in	PART-OF	[IN]	2
 dump sentences\T-151_7_.txt	colon	digestion	in	PART-OF	[IN]	2
-dump sentences\V-598_3_.txt	risk	kids	in	PART-OF	[IN]	2
 dump sentences\T-585_6_.txt	pollutants	fish	in	PART-OF	[IN]	2
 dump sentences\T-1345_3_.txt	pollutants	fish	in	PART-OF	[IN]	2
 dump sentences\V-508_12_.txt	pollutants	fish	in	PART-OF	[IN]	2

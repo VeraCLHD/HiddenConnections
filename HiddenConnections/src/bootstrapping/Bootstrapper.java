@@ -35,7 +35,6 @@ import io.Writer;
 import overall.LuceneSearcher;
 import overall.Pair;
 
-
 public class Bootstrapper {
 	
 	private static final double MIN_SCORE_FOR_PATTERN = 0.01;
@@ -101,11 +100,11 @@ public class Bootstrapper {
 		Writer.overwriteFile("", this.getNEW_PATTERNS());
 		this.setALL_INSTANCES_AND_PATTERNS("SEEDS/"+ type + "/all_instances_and_patterns_" + type + ".txt");
 		Writer.overwriteFile("", this.getALL_INSTANCES_AND_PATTERNS());
-		this.setSEED_CONNECTIONS_TXT("SEEDS/" + type +"/seed_connections_" + type + ".txt");
+		this.setSEED_CONNECTIONS_TXT("SEEDS/SEEDS_ONLY" + type +"/seed_connections_" + type + ".txt");
 		Writer.overwriteFile("", this.getSEED_CONNECTIONS_TXT());
-		this.setSEEDS_TXT("SEEDS/" + type +"/seeds_" + type + ".txt");
+		this.setSEEDS_TXT("SEEDS/SEEDS_ONLY" + type +"/seeds_" + type + ".txt");
 		Writer.overwriteFile("", this.getSEEDS_TXT());
-		this.setNumberOfIterations(NumberOfIterations);
+		Bootstrapper.setNumberOfIterations(NumberOfIterations);
 	}
 	
 	public static void main(String[] args) {
@@ -122,13 +121,13 @@ public class Bootstrapper {
 		types.add("LINKED-TO");
 
 		for(String type: types){
-			runForEachRelation(type, 100);
+			runForEachRelation(type, 50);
 			System.out.println("Ready with " + type);
 		}
 
 	}
 
-	private static void runForEachRelation(String type, int NumberOfIterations) {
+	public static void runForEachRelation(String type, int NumberOfIterations) {
 		Bootstrapper bootstrapper = new Bootstrapper(type, NumberOfIterations);
 		bootstrapper.readAndFilterSeedsFile();
 		

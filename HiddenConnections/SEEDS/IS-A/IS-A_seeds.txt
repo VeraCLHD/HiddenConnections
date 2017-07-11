@@ -1,3 +1,4 @@
+
 dump sentences\T-511_0_.txt	bugs	c. diff	such as salmonella and	IS-A	[JJ, IN, NN, CC]	22
 dump sentences\A-139_10_.txt	vegetables	grapes	such as red onions and	IS-A	[JJ, IN, JJ, NNS, CC]	22
 dump sentences\V-1035_6_.txt	animal products	dairy	such as fish, meat and	IS-A	[JJ, IN, NN, ,, NN, CC]	22

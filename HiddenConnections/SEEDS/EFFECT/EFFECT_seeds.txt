@@ -5,23 +5,18 @@ dump sentences\A-33_29_.txt	saturated fat	blood sugar	raises	EFFECT	[VBZ]	8
 dump sentences\A-463_5_.txt	findings	plant-based diet	do suggest a favorable effect of a	EFFECT	[VBP, VB, DT, JJ, NN, IN, DT]	8
 dump sentences\A-137_33_.txt	beef	cholesterol	lowers	EFFECT	[VBZ]	8
 dump sentences\V-495_9_.txt	almond milk	cancer cells	suppressed the growth of these	EFFECT	[VBD, DT, NN, IN, DT]	8
-dump sentences\T-1576_9_.txt	plant-based diet	risk	helps lower the	EFFECT	[VBZ, VB, DT]	6
 dump sentences\V-722_3_.txt	plant-based diet	cancer growth	suppresses	EFFECT	[VBZ]	6
 dump sentences\T-1088_1_.txt	cranberry juice	liver cancer	suppressed the growth of	EFFECT	[VBD, DT, NN, IN]	6
 dump sentences\T-1446_10_.txt	pressure cooking	antioxidant content	reduce the	EFFECT	[VB, DT]	5
 dump sentences\T-1725_10_.txt	cayenne pepper	irritable bowel syndrome	could help with	EFFECT	[MD, VB, IN]	5
-dump sentences\V-16_274_.txt	plant-based diet	risk	reduce	EFFECT	[VB]	5
 dump sentences\V-360_10_.txt	diet	blood pressure	helped with	EFFECT	[VBD, IN]	4
 dump sentences\A-359_1_.txt	pets	blood pressure	lower your	EFFECT	[JJR, PRP$]	4
 dump sentences\T-1208_6_.txt	plant foods	cancer	have lower rates of	EFFECT	[VBP, JJR, NNS, IN]	4
-dump sentences\V-634_4_.txt	vegan diet	risk	reduce	EFFECT	[VB]	4
 dump sentences\A-110_26_.txt	kale	cancer cell growth	suppresses	EFFECT	[VBZ]	4
 dump sentences\A-370_25_.txt	plant-based diets	chronic pain	help with	EFFECT	[VBP, IN]	2
-dump sentences\A-409_11_.txt	plant foods	risk	reduce the	EFFECT	[VB, DT]	2
 dump sentences\A-166_1_.txt	cholesterol	breast cancer	boosts	EFFECT	[VBZ]	2
 dump sentences\V-411_24_.txt	caffeine	chickens	helps keeps the	EFFECT	[VBZ, VBZ, DT]	2
 dump sentences\A-434_3_.txt	tomato juice	inflammation	decreases	EFFECT	[VBZ]	2
-dump sentences\A-353_6_.txt	vegan diet	risk	reduce the	EFFECT	[VB, DT]	2
 dump sentences\V-1022_1_.txt	walnuts	cholesterol	lower our	EFFECT	[JJR, PRP$]	2
 dump sentences\V-159_2_.txt	immune system	thyroid gland	attacks our	EFFECT	[VBZ, PRP$]	2
 dump sentences\V-403_11_.txt	saturated fat	cholesterol	were they able to boost their	EFFECT	[VBD, PRP, JJ, TO, VB, PRP$]	2
@@ -29,8 +24,6 @@ dump sentences\A-180_15_.txt	phytates	cancer cells	help block the ability of	EFF
 dump sentences\T-1891_2_.txt	milk	uric acid	lowers	EFFECT	[VBZ]	2
 dump sentences\A-453_19_.txt	antibiotics	gut flora	wipe out the	EFFECT	[VBP, RP, DT]	2
 dump sentences\V-550_9_.txt	diseases	meat	were associated with which	EFFECT	[VBD, VBN, IN, WDT]	2
-dump sentences\A-63_1_.txt	vegetables	risk	reduce the	EFFECT	[VBP, DT]	2
-dump sentences\V-386_4_.txt	whole grains	risk	has associated with reduced	EFFECT	[VBZ, VBN, IN, VBN]	2
 dump sentences\A-184_23_.txt	curry powder	cancer cells	kills	EFFECT	[VBZ]	2
 dump sentences\A-292_9_.txt	juice	muscle soreness	could reduce	EFFECT	[MD, VB]	2
 dump sentences\A-251_27_.txt	nutritional yeast	infection	cut their rates of	EFFECT	[VBD, PRP$, NNS, IN]	2
@@ -48,14 +41,11 @@ dump sentences\V-509_9_.txt	blueberries	oxidative stress	could reduce the	EFFECT
 dump sentences\T-1792_2_.txt	protein	colon cancer	slows the growth of	EFFECT	[VBZ, DT, NN, IN]	2
 dump sentences\A-265_7_.txt	free radicals	dna damage	would decrease the rate of	EFFECT	[MD, VB, DT, NN, IN]	2
 dump sentences\V-448_13_.txt	eggs	cholesterol	could shoot their	EFFECT	[MD, VB, PRP$]	2
-dump sentences\V-479_7_.txt	vegetables	risk	help reduce the	EFFECT	[VBP, VB, DT]	2
 dump sentences\T-1518_4_.txt	processed meats	botulism	help reduce	EFFECT	[VBP, VB]	2
 dump sentences\T-1573_3_.txt	plant-based diets	symptoms	reduced	EFFECT	[VBD]	2
 dump sentences\V-1233_7_.txt	strawberries	cancer growth	blocked	EFFECT	[VBD]	2
-dump sentences\V-1301_3_.txt	leafy vegetables	risk	cuts our	EFFECT	[VBZ, PRP$]	2
 dump sentences\V-55_17_.txt	fiber	blood pressure	lowered	EFFECT	[VBD]	2
 dump sentences\T-1206_0_.txt	brown adipose tissue	burn	helps	EFFECT	[VBZ]	2
-dump sentences\A-139_2_.txt	beta-carotene	risk	lower the	EFFECT	[JJR, DT]	2
 dump sentences\A-5_23_.txt	peppermint	nausea	cut	EFFECT	[VBD]	2
 dump sentences\V-1119_1_.txt	vegan diet	atherosclerosis	could reverse	EFFECT	[MD, VB]	2
 dump sentences\V-543_30_.txt	protein	calcium	boosts	EFFECT	[VBZ]	2
@@ -65,14 +55,10 @@ dump sentences\V-1016_22_.txt	melatonin	cancer growth	is thought to suppress	EFF
 dump sentences\V-16_217_.txt	standard american diet	blood	is so toxic to	EFFECT	[VBZ, RB, JJ, TO]	2
 dump sentences\V-785_0_.txt	plant-based diets	inflammation	decrease	EFFECT	[VBP]	2
 dump sentences\V-819_9_.txt	black pepper	turmeric	boosts the level of the	EFFECT	[VBZ, DT, NN, IN, DT]	2
-dump sentences\V-470_20_.txt	meat	risk	could reduce their	EFFECT	[MD, VB, PRP$]	2
 dump sentences\A-258_15_.txt	grapefruit	enzymes	suppress the	EFFECT	[VBP, DT]	2
-dump sentences\V-560_7_.txt	nuts	risk	reduce the	EFFECT	[VBP, DT]	2
 dump sentences\T-910_7_.txt	vegetarians	cadmium	had lower levels of	EFFECT	[VBD, JJR, NNS, IN]	1
 dump sentences\V-758_5_.txt	nuts	ldl	lowers	EFFECT	[VBZ]	1
 dump sentences\T-4_11_.txt	legumes	belly fat	helps to reduce	EFFECT	[VBZ, TO, VB]	1
-dump sentences\A-382_6_.txt	immune function	risk	decreases 	EFFECT	[VBZ]	1
-dump sentences\T-1504_15_.txt	poultry	risk	raises the	EFFECT	[VBZ, DT]	1
 dump sentences\T-791_4_.txt	plant foods	fruit	helps boost	EFFECT	[VBZ, VB]	1
 dump sentences\V-13_161_.txt	nuts	stroke	could cut	EFFECT	[MD, VB]	1
 dump sentences\A-419_18_.txt	nuts	fat	boost	EFFECT	[VBP]	1
@@ -85,29 +71,24 @@ dump sentences\T-1896_12_.txt	eggs	macular degeneration	help people with	EFFECT	
 dump sentences\V-1037_1_.txt	fish oil	inflammation	decreases	EFFECT	[VBZ]	1
 dump sentences\V-448_14_.txt	eggs	cholesterol	lowered	EFFECT	[VBD]	1
 dump sentences\A-297_6_.txt	immune systems	virus	clear the	EFFECT	[JJ, DT]	1
-dump sentences\V-136_0_.txt	vegetables	risk	helps to reduce the	EFFECT	[VBZ, TO, VB, DT]	1
 dump sentences\A-88_29_.txt	beans	astrocytes	help protect	EFFECT	[VBP, VB]	1
 dump sentences\V-896_3_.txt	viagra	nitric oxide	works: it boosts	EFFECT	[VBZ, :, PRP, VBZ]	1
 dump sentences\V-1026_1_.txt	vegetables	cancer	reduce	EFFECT	[VBP]	1
 dump sentences\V-264_9_.txt	fruits	scurvy	could cure	EFFECT	[MD, VB]	1
 dump sentences\V-671_1_.txt	tumors	immune system	are able to trick our	EFFECT	[VBP, JJ, TO, VB, PRP$]	1
-dump sentences\V-146_8_.txt	plant foods	risks	lower the	EFFECT	[JJR, DT]	1
 dump sentences\T-510_19_.txt	cooking	toxicity	will reduce the	EFFECT	[MD, VB, DT]	1
 dump sentences\V-867_3_.txt	broccoli	detoxifying enzymes	boosted the	EFFECT	[VBD, DT]	1
-dump sentences\T-1368_0_.txt	phytonutrients	risk	cut the	EFFECT	[VBD, DT]	1
 dump sentences\V-753_84_.txt	nuts	fat	boosted	EFFECT	[VBD]	1
 dump sentences\V-277_25_.txt	music	metabolism	slow our	EFFECT	[JJ, PRP$]	1
 dump sentences\V-758_7_.txt	nuts	bad cholesterol	drop your	EFFECT	[VB, PRP$]	1
 dump sentences\V-277_38_.txt	mozart	testosterone	suppressed	EFFECT	[VBD]	1
 dump sentences\V-8_2_.txt	tea	antioxidant	boost the	EFFECT	[VB, DT]	1
-dump sentences\V-1301_18_.txt	plant foods	risk	could cut our	EFFECT	[MD, VB, PRP$]	1
 dump sentences\T-45_5_.txt	grapes	aromatase	suppress the activity of	EFFECT	[VBP, DT, NN, IN]	1
 dump sentences\V-105_1_.txt	liver	estrogens	clears	EFFECT	[VBZ]	1
 dump sentences\V-655_8_.txt	diets	pain	helped with	EFFECT	[VBD, IN]	1
 dump sentences\A-455_1_.txt	greens	dna	protect our	EFFECT	[VBP, PRP$]	1
 dump sentences\A-157_18_.txt	eggs	cholesterol	lowers	EFFECT	[VBZ]	1
 dump sentences\A-279_20_.txt	fiber	cholesterol	lowers	EFFECT	[VBZ]	1
-dump sentences\V-1054_12_.txt	greens	risk	lower the	EFFECT	[JJR, DT]	1
 dump sentences\V-751_0_.txt	nuts	fat	boost	EFFECT	[VBP]	1
 dump sentences\V-1231_3_.txt	plants	dna	protects our 	EFFECT	[VBZ, PRP$]	1
 dump sentences\T-1347_5_.txt	beans	dioxins	block the effects of	EFFECT	[VBP, DT, NNS, IN]	1
@@ -120,20 +101,15 @@ dump sentences\V-14_152_.txt	grains	brain	protective of the	EFFECT	[JJ, IN, DT]	
 dump sentences\V-15_158_.txt	immune systems	virus	are able to clear the	EFFECT	[VBP, JJ, TO, VB, DT]	1
 dump sentences\V-1082_6_.txt	almonds	cholesterol	lower our	EFFECT	[JJR, PRP$]	1
 dump sentences\A-455_0_.txt	broccoli	detoxifying enzymes	boosts the	EFFECT	[VBZ, DT]	1
-dump sentences\V-672_9_.txt	vegetarianism	risk	decreases the	EFFECT	[VBZ, DT]	1
 dump sentences\V-160_21_.txt	sodium bicarbonate	kidney	decreases	EFFECT	[VBZ]	1
 dump sentences\A-376_31_.txt	spinach	aromatase	dropped	EFFECT	[VBD]	1
 dump sentences\A-389_13_.txt	phytonutrients	skin	were able to protect	EFFECT	[VBD, JJ, TO, VB]	1
 dump sentences\V-1091_4_.txt	supplements	cold	help with a	EFFECT	[VBP, IN, DT]	1
-dump sentences\V-200_3_.txt	fiber	risk	gets us a 9% reduced	EFFECT	[VBZ, PRP, DT, CD, NN, VBD]	1
 dump sentences\V-49_11_.txt	drugs	stomach	reduce our	EFFECT	[VB, PRP$]	1
 dump sentences\V-30_17_.txt	diets	testosterone	suppress	EFFECT	[VBP]	1
 dump sentences\T-1725_5_.txt	turmeric	bioavailability	boosts the	EFFECT	[VBZ, DT]	1
-dump sentences\V-338_6_.txt	drug	risk	would reduce your	EFFECT	[MD, VB, PRP$]	1
 dump sentences\V-142_30_.txt	vinegar	appetite	helps with both	EFFECT	[VBZ, IN, CC]	1
 dump sentences\V-420_18_.txt	nuts	breast cancer	suppressed	EFFECT	[VBD]	1
-dump sentences\V-1301_26_.txt	isoflavones	risk	cut our	EFFECT	[VBD, PRP$]	1
-dump sentences\V-1262_9_.txt	soy	risk	cut our	EFFECT	[VBD, PRP$]	1
 dump sentences\V-387_15_.txt	beans	astrocytes	would help protect	EFFECT	[MD, VB, VB]	1
 dump sentences\V-211_3_.txt	peppermint	muscles	does is relax the	EFFECT	[VBZ, VBZ, VB, DT]	1
 dump sentences\V-1167_18_.txt	fat	nutrition	helps suck up the	EFFECT	[VBZ, VB, RP, DT]	1

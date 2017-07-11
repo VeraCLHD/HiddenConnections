@@ -1,10 +1,6 @@
 
-smoking	risk	was a	HYPERNYMY
-obesity	risk factor	was a	HYPERNYMY
-obesity	risk	was a	HYPERNYMY
 infection	death	was a	HYPERNYMY
 kempner	lifestyle medicine	was a	HYPERNYMY
-smoking	risk factor	was a	HYPERNYMY
 rose hips	fruits	are the	HYPERNYMY
 anthocyanins	pigments	are the	HYPERNYMY
 hypertension	diseases	are the	HYPERNYMY
@@ -23,7 +19,6 @@ estrogens	milk	are	HYPERNYMY
 sorbitol	sugar	are	HYPERNYMY
 smoke	fat soluble	are	HYPERNYMY
 carrots	roots	are	HYPERNYMY
-calcium supplements	doing	are	HYPERNYMY
 vegetarians	iodine	are	HYPERNYMY
 teeth	brushed	are	HYPERNYMY
 strokes	killer	are	HYPERNYMY
@@ -37,7 +32,6 @@ breast tumors	estrogen receptor	are	HYPERNYMY
 rhubarb	roots	are	HYPERNYMY
 omega	flax seeds	are	HYPERNYMY
 pesticides	fruits	are	HYPERNYMY
-women	dying	are	HYPERNYMY
 chickens	fatty	are	HYPERNYMY
 herbal teas	fine	are	HYPERNYMY
 abdominal aortic aneurysms	ballooning bulges	are	HYPERNYMY
@@ -75,8 +69,6 @@ videos	multivitamins	are	HYPERNYMY
 who	happier	are	HYPERNYMY
 citrus fruits	acidic	are	HYPERNYMY
 nuts	plant foods	are	HYPERNYMY
-rays	doing	are	HYPERNYMY
-journalists	doing	are	HYPERNYMY
 babies	breast fed	are	HYPERNYMY
 breast cancer survival	flax seeds	are	HYPERNYMY
 snacks	fruit	are	HYPERNYMY
@@ -112,23 +104,19 @@ mediterranean diet	diet high	is a	HYPERNYMY
 erythritol	nontoxic	is a	HYPERNYMY
 balsamic vinegar	product	is a	HYPERNYMY
 galactose	milk	is a	HYPERNYMY
-exercise	risk factor	is a	HYPERNYMY
 melatonin	hormone	is a	HYPERNYMY
 lutein	carotenoid	is a	HYPERNYMY
 cortisol	stress hormone	is a	HYPERNYMY
-depression	risk factor	is a	HYPERNYMY
 lutein	carotenoid phytonutrient	is a	HYPERNYMY
 streak	baby	is a	HYPERNYMY
 patulin	mycotoxin	is a	HYPERNYMY
 casein	milk protein	is a	HYPERNYMY
 lead	toxin	is a	HYPERNYMY
 maspin	tumor suppressor gene	is a	HYPERNYMY
-diabetes	risk factor	is a	HYPERNYMY
 bt corn	pesticide	is a	HYPERNYMY
 multiple sclerosis	disease	is a	HYPERNYMY
 osteoarthritis	degenerative joint	is a	HYPERNYMY
 children	vegan diet	is a	HYPERNYMY
-poultry	risk factor	is a	HYPERNYMY
 campylobacter	bacteria	is a	HYPERNYMY
 prediabetes	disease	is a	HYPERNYMY
 iron	pro-oxidant	is a	HYPERNYMY
@@ -200,7 +188,6 @@ death	choline	is	HYPERNYMY
 signal	igf	is	HYPERNYMY
 fruit	fine	is	HYPERNYMY
 urine	acidic	is	HYPERNYMY
-standard american diet	doing	is	HYPERNYMY
 flight	apple juice	is	HYPERNYMY
 herbal tea	hibiscus	is	HYPERNYMY
 sciatica	back pain	is	HYPERNYMY
@@ -214,7 +201,6 @@ videos	noni juice	is	HYPERNYMY
 coffee	beans	is	HYPERNYMY
 raw	bell peppers	is	HYPERNYMY
 fiber	potassium	is	HYPERNYMY
-women	heart disease	is	HYPERNYMY
 disease	exercise	is	HYPERNYMY
 osteoarthritis	rose hips	is	HYPERNYMY
 label	lying	is	HYPERNYMY

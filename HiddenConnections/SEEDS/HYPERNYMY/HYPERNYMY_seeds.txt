@@ -14,11 +14,9 @@ dump sentences\A-64_3_.txt	mediterranean diet	diet	is a	HYPERNYMY	[VBZ, DT]	2
 dump sentences\A-288_13_.txt	acrylamide	chemical	is a	HYPERNYMY	[VBZ, DT]	2
 dump sentences\V-351_14_.txt	fiber	prebiotic	acts as a	HYPERNYMY	[VBZ, IN, DT]	2
 dump sentences\V-101_150_.txt	plant-based diets	low-calorie diets	are	HYPERNYMY	[VBP]	2
-dump sentences\A-137_11_.txt	smoking	risk	was a	HYPERNYMY	[VBD, DT]	2
 dump sentences\V-496_6_.txt	turmeric	plant	is just a	HYPERNYMY	[VBZ, RB, DT]	2
 dump sentences\T-1783_13_.txt	supplements	fish oil	is	HYPERNYMY	[VBZ]	2
 dump sentences\A-427_13_.txt	iron	pro-oxidant	is a	HYPERNYMY	[VBZ, DT]	2
-dump sentences\A-163_6_.txt	obesity	risk	was a	HYPERNYMY	[VBD, DT]	1
 dump sentences\T-439_0_.txt	chickpeas	legume	are a	HYPERNYMY	[VBP, DT]	1
 dump sentences\V-827_9_.txt	insects	contaminants	are just	HYPERNYMY	[VBP, RB]	1
 dump sentences\V-1035_3_.txt	organochlorines	chemical	are	HYPERNYMY	[VBP]	1

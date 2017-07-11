@@ -1,10 +1,6 @@
 
-risk	smoking	was a	IS-A
-risk factor	obesity	was a	IS-A
-risk	obesity	was a	IS-A
 death	infection	was a	IS-A
 lifestyle medicine	kempner	was a	IS-A
-risk factor	smoking	was a	IS-A
 fruits	rose hips	are the	IS-A
 pigments	anthocyanins	are the	IS-A
 diseases	hypertension	are the	IS-A
@@ -23,7 +19,6 @@ milk	estrogens	are	IS-A
 sugar	sorbitol	are	IS-A
 fat soluble	smoke	are	IS-A
 roots	carrots	are	IS-A
-doing	calcium supplements	are	IS-A
 iodine	vegetarians	are	IS-A
 brushed	teeth	are	IS-A
 killer	strokes	are	IS-A
@@ -37,7 +32,6 @@ estrogen receptor	breast tumors	are	IS-A
 roots	rhubarb	are	IS-A
 flax seeds	omega	are	IS-A
 fruits	pesticides	are	IS-A
-dying	women	are	IS-A
 fatty	chickens	are	IS-A
 fine	herbal teas	are	IS-A
 ballooning bulges	abdominal aortic aneurysms	are	IS-A
@@ -75,8 +69,6 @@ multivitamins	videos	are	IS-A
 happier	who	are	IS-A
 acidic	citrus fruits	are	IS-A
 plant foods	nuts	are	IS-A
-doing	rays	are	IS-A
-doing	journalists	are	IS-A
 breast fed	babies	are	IS-A
 flax seeds	breast cancer survival	are	IS-A
 fruit	snacks	are	IS-A
@@ -112,23 +104,19 @@ diet high	mediterranean diet	is a	IS-A
 nontoxic	erythritol	is a	IS-A
 product	balsamic vinegar	is a	IS-A
 milk	galactose	is a	IS-A
-risk factor	exercise	is a	IS-A
 hormone	melatonin	is a	IS-A
 carotenoid	lutein	is a	IS-A
 stress hormone	cortisol	is a	IS-A
-risk factor	depression	is a	IS-A
 carotenoid phytonutrient	lutein	is a	IS-A
 baby	streak	is a	IS-A
 mycotoxin	patulin	is a	IS-A
 milk protein	casein	is a	IS-A
 toxin	lead	is a	IS-A
 tumor suppressor gene	maspin	is a	IS-A
-risk factor	diabetes	is a	IS-A
 pesticide	bt corn	is a	IS-A
 disease	multiple sclerosis	is a	IS-A
 degenerative joint	osteoarthritis	is a	IS-A
 vegan diet	children	is a	IS-A
-risk factor	poultry	is a	IS-A
 bacteria	campylobacter	is a	IS-A
 disease	prediabetes	is a	IS-A
 pro-oxidant	iron	is a	IS-A
@@ -200,7 +188,6 @@ choline	death	is	IS-A
 igf	signal	is	IS-A
 fine	fruit	is	IS-A
 acidic	urine	is	IS-A
-doing	standard american diet	is	IS-A
 apple juice	flight	is	IS-A
 hibiscus	herbal tea	is	IS-A
 back pain	sciatica	is	IS-A
@@ -214,7 +201,6 @@ noni juice	videos	is	IS-A
 beans	coffee	is	IS-A
 bell peppers	raw	is	IS-A
 potassium	fiber	is	IS-A
-heart disease	women	is	IS-A
 exercise	disease	is	IS-A
 rose hips	osteoarthritis	is	IS-A
 lying	label	is	IS-A

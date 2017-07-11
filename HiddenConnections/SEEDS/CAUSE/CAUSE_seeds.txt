@@ -5,7 +5,6 @@ dump sentences\A-190_7_.txt	liquid smoke	dna	causes	CAUSE	[VBZ]	4
 dump sentences\A-309_0_.txt	bacteria	bladder infection	cause a	CAUSE	[VBP, DT]	4
 dump sentences\V-410_11_.txt	platelets	blood clots	are what trigger the	CAUSE	[VBP, WP, VB, DT]	4
 dump sentences\A-381_31_.txt	animal products	inflammation	cause	CAUSE	[VBP]	3
-dump sentences\V-115_7_.txt	risk	vitamin d	led to the	CAUSE	[VBD, TO, DT]	2
 dump sentences\A-33_1_.txt	insulin resistance	prediabetes	is what causes	CAUSE	[VBZ, WP, VBZ]	2
 dump sentences\V-823_11_.txt	milk	acne	cause	CAUSE	[VB]	2
 dump sentences\V-335_27_.txt	blood	insulin resistance	causes	CAUSE	[VBZ]	2

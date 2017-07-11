@@ -1,7 +1,6 @@
 
 vegetables	cancer	without the	PART-OF-I
 rheumatoid arthritis	side effects	without the	PART-OF-I
-diseases	risk	without the	PART-OF-I
 drug	side effects	without the	PART-OF-I
 dried fruits	preservative	without the	PART-OF-I
 anxiety	downer	without the	PART-OF-I
@@ -9,7 +8,6 @@ beef	saturated fat	without the	PART-OF-I
 vegetables	cancer risk	without the	PART-OF-I
 boost	brain damage	without the	PART-OF-I
 saturated fat	cholesterol	without the	PART-OF-I
-smoking	risks	without the	PART-OF-I
 saturated fat	egg	without the	PART-OF-I
 fruits	preservative	without the	PART-OF-I
 massage	fragrance	without the	PART-OF-I
@@ -25,10 +23,8 @@ dates	phytonutrients	have	PART-OF-I
 processed foods	health	have	PART-OF-I
 grapes	antioxidants	have	PART-OF-I
 dates	fiber	have	PART-OF-I
-poultry workers	excess	have	PART-OF-I
 who	mgus	have	PART-OF-I
 sea vegetables	phytonutrients	have	PART-OF-I
-women	iron	have	PART-OF-I
 plants	fiber	have	PART-OF-I
 who	heart attacks	have	PART-OF-I
 plants	dna	have	PART-OF-I
@@ -43,7 +39,6 @@ plants	nicotine	have	PART-OF-I
 greens	myrosinase	have	PART-OF-I
 who	apoe	have	PART-OF-I
 animal foods	phosphorus	have	PART-OF-I
-women	pesticides	have	PART-OF-I
 who	eaten	have	PART-OF-I
 kids	fatty streaks	have	PART-OF-I
 hypersensitivity	signs	have	PART-OF-I
