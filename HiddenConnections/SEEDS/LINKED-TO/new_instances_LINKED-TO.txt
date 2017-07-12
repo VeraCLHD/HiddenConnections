@@ -1,33 +1,23 @@
 
-cancer risk	alcohol intake
 irritation	chemotherapy
-cancer risk	smoking
-risk	diet soda
-risks	iron supplements
+fish intake	brain
+lead poisoning	ayurvedic
 amino acids	aging
+eggs	diabetes risk
 cancer mortality	poultry exposure
+refined carbs	pancreatic cancer
 iron	diabetes risk
-risks	diagnostic
 meat intake	infertility
 inflammation	depression
 meat molecule	inflammation
+rosy glow	cardiovascular health
+cardiovascular disease	diet soda
+fat	prevotella
 inflammatory reaction	egg
-risk	iron supplements
+disorder	gluten intolerance
 toxin	alzheimer
 death	nut consumption
 disability	heart disease
-cancer risk	veganism
+poultry exposure	liver
 pain	drugs
 stomach cancer	salt intake
-cancer risk	multivitamin use
-fish intake	brain
-lead poisoning	ayurvedic
-eggs	diabetes risk
-refined carbs	pancreatic cancer
-increased risk	dairy intake
-rosy glow	cardiovascular health
-fat	prevotella
-disorder	gluten intolerance
-disease risk	obesity
-poultry exposure	liver
-glaucoma risk	carrot consumption

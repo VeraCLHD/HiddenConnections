@@ -5,22 +5,16 @@ tomato juice	inflammation
 melatonin	cancer growth
 massage	inflammation
 grains	brain
-drug	risk
-fiber	risk
 mozart	testosterone
 nuts	stroke
 nuts	breast cancer
-isoflavones	risk
 immune system	thyroid gland
 split peas	cholesterol
 beans	dioxins
 phytonutrients	skin
-vegetables	risk
 fat	nutrition
-meat	risk
 beans	astrocytes
 cayenne pepper	irritable bowel syndrome
-plant-based diet	risk
 plants	platelets
 kale	cancer cell growth
 phytonutrients	dna damage
@@ -32,25 +26,20 @@ supplements	lifespan
 nuts	fat
 sodium bicarbonate	kidney
 eggs	cholesterol
-poultry	risk
 pollutants	ah receptor
-phytonutrients	risk
 pets	blood pressure
 protein	calcium
 music	metabolism
 standard american diet	cancer growth
 cooking	fecal bacteria
 grapes	aromatase
-plant foods	risk
 diseases	meat
 vegetarians	cadmium
 grapefruit	enzymes
-plant foods	risks
 protein	colon cancer
 free radicals	dna damage
 statins	breast cancer
 plant foods	cancer
-immune function	risk
 fiber	cholesterol
 beef	cholesterol
 curry powder	cancer cells
@@ -60,11 +49,9 @@ caffeine	chickens
 plant foods	fruit
 mercury	brain
 phytates	cancer cells
-whole grains	risk
 turmeric	bioavailability
 vegetables	asthma
 fiber	blood pressure
-vegetarianism	risk
 plant-based diets	prostate cancer
 black pepper	turmeric
 vegan diet	atherosclerosis
@@ -81,8 +68,6 @@ antibiotics	gut flora
 diets	pain
 nuts	ldl
 nuts	bad cholesterol
-vegan diet	risk
-nuts	risk
 broccoli	detoxifying enzymes
 juice	muscle soreness
 processed meats	botulism
@@ -104,8 +89,6 @@ nutritional yeast	infection
 fish oil	inflammation
 cranberry juice	liver cancer
 legumes	belly fat
-leafy vegetables	risk
-greens	risk
 plants	dna
 greens	dna
 peppermint	muscles
@@ -120,8 +103,6 @@ strawberries	colon cancer
 spinach	aromatase
 plant-based diets	igf-1
 liver	estrogens
-soy	risk
 blueberries	oxidative stress
-beta-carotene	risk
 saturated fat	cholesterol
 fruits	scurvy

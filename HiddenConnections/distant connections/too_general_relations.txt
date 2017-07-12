@@ -3,6 +3,7 @@ cancers	arsenic	caused by	CAUSED-BY
 uric acid	meat	caused by	CAUSED-BY
 inflammation	gluten	caused by	CAUSED-BY
 pain	inflammation	caused by	CAUSED-BY
+health	obesity	caused by	CAUSED-BY
 inflammation	muscle	caused by	CAUSED-BY
 inflammation	muscle cell	caused by	CAUSED-BY
 inflammation	domesticated animal	triggered by	CAUSED-BY
@@ -16,8 +17,10 @@ coli exposure	bacteria	due to	CAUSED-BY
 meat	ddt	due to	CAUSED-BY
 phytonutrients	nutrient synergy	due to	CAUSED-BY
 cartilage	inflammation	is caused by	CAUSED-BY
+ph	short-chain fatty acids	is caused by	CAUSED-BY
 pain	inflammation	is caused by	CAUSED-BY
 plaque	bacteria	is caused by	CAUSED-BY
+uric acid	milk	caused	CAUSED-BY
 cancer	coffee drinking	caused	CAUSED-BY
 inflammation	animal products	caused	CAUSED-BY
 cancer	muscles	caused	CAUSED-BY
@@ -26,6 +29,7 @@ depression	inflammation	causes	CAUSED-BY
 inflammation	animal foods	causes	CAUSED-BY
 cancer	cigarette smoking	causes	CAUSED-BY
 heterocyclic amines	fish	creates	CAUSED-BY
+acne	milk	cause	CAUSED-BY
 cancer	betel nuts	cause	CAUSED-BY
 plaque	bacteria	cause	CAUSED-BY
 dna mutations	hormones	cause	CAUSED-BY
@@ -38,6 +42,7 @@ arsenic	cancers	caused by	CAUSE
 meat	uric acid	caused by	CAUSE
 gluten	inflammation	caused by	CAUSE
 inflammation	pain	caused by	CAUSE
+obesity	health	caused by	CAUSE
 muscle	inflammation	caused by	CAUSE
 muscle cell	inflammation	caused by	CAUSE
 domesticated animal	inflammation	triggered by	CAUSE
@@ -51,8 +56,10 @@ bacteria	coli exposure	due to	CAUSE
 ddt	meat	due to	CAUSE
 nutrient synergy	phytonutrients	due to	CAUSE
 inflammation	cartilage	is caused by	CAUSE
+short-chain fatty acids	ph	is caused by	CAUSE
 inflammation	pain	is caused by	CAUSE
 bacteria	plaque	is caused by	CAUSE
+milk	uric acid	caused	CAUSE
 coffee drinking	cancer	caused	CAUSE
 animal products	inflammation	caused	CAUSE
 muscles	cancer	caused	CAUSE
@@ -61,6 +68,7 @@ inflammation	depression	causes	CAUSE
 animal foods	inflammation	causes	CAUSE
 cigarette smoking	cancer	causes	CAUSE
 fish	heterocyclic amines	creates	CAUSE
+milk	acne	cause	CAUSE
 betel nuts	cancer	cause	CAUSE
 bacteria	plaque	cause	CAUSE
 hormones	dna mutations	cause	CAUSE
@@ -69,10 +77,6 @@ bacteria	infections	cause	CAUSE
 cell phones	cancer	cause	CAUSE
 animal products	inflammation	cause	CAUSE
 inflammation	depressive symptoms	to trigger	CAUSE
-vegetables	cancer	reduce	EFFECT
-veggies	inflammation	reduce	EFFECT
-vegetables	cancer risk	reduce	EFFECT
-vegetables	heart disease	reduce	EFFECT
 fish oil	inflammation	decreases	EFFECT
 tomato juice	inflammation	decreases	EFFECT
 garlic	inflammation	decreases	EFFECT
@@ -81,10 +85,7 @@ diet	asthma	reduced	EFFECT
 phytonutrients	dna damage	reduced	EFFECT
 plant-based diets	prostate cancer	suppresses	EFFECT
 plant-based diet	cancer growth	suppresses	EFFECT
-cancer	vegetables	reduce	EFFECT-I
-inflammation	veggies	reduce	EFFECT-I
-cancer risk	vegetables	reduce	EFFECT-I
-heart disease	vegetables	reduce	EFFECT-I
+milk	uric acid	lowers	EFFECT
 inflammation	fish oil	decreases	EFFECT-I
 inflammation	tomato juice	decreases	EFFECT-I
 inflammation	garlic	decreases	EFFECT-I
@@ -93,6 +94,7 @@ asthma	diet	reduced	EFFECT-I
 dna damage	phytonutrients	reduced	EFFECT-I
 prostate cancer	plant-based diets	suppresses	EFFECT-I
 cancer growth	plant-based diet	suppresses	EFFECT-I
+uric acid	milk	lowers	EFFECT-I
 disease	tremor	, including	IS-A
 meat	poultry	, including	IS-A
 inflammatory diseases	crohn	, including	IS-A
@@ -111,6 +113,7 @@ meat	chicken	, including	IS-A
 chronic disease	cancer	, including	IS-A
 supplements	pancreatic enzymes	, including	IS-A
 vegetables	greens	, including	IS-A
+milk	skim milk	, including	IS-A
 illnesses	heart disease	, including	IS-A
 supplements	vitamin a	, including	IS-A
 diseases	als	, including	IS-A
@@ -118,6 +121,7 @@ fish	salmon	, including	IS-A
 plants	apples	, including	IS-A
 diseases	cancer	, including	IS-A
 fruits	apples	, including	IS-A
+poultry	turkey	, including	IS-A
 fish	tuna	, including	IS-A
 meats	poultry	, including	IS-A
 pollutants	formaldehyde	, including	IS-A
@@ -128,120 +132,141 @@ eating meat	fish	, including	IS-A
 phytonutrients	resveratrol	, including	IS-A
 oils	olive oil	, including	IS-A
 fruits	strawberries	, including	IS-A
+health	carrot juice	, including	IS-A
 cancers	pancreatic cancer	, including	IS-A
 plant-based diet	seeds	, including	IS-A
 medications	aspirin	, including	IS-A
 legumes	beans	, including	IS-A
+cruciferous vegetables	collard greens	like	IS-A
 inflammation	bleeding	like	IS-A
 phytonutrients	lutein	like	IS-A
 animal foods	protein	like	IS-A
 plant-based diet	ornish	like	IS-A
+roots	sweet potatoes	like	IS-A
+drugs	antibiotics	like	IS-A
+persistent organic pollutants	dioxins	like	IS-A
 plant proteins	beans	like	IS-A
 drugs	midazolam	like	IS-A
+plant foods	cauliflower	like	IS-A
 pollutants	dioxins	like	IS-A
 hormones	igf	like	IS-A
+diseases	breast cancer	like	IS-A
+medication	glyburide	like	IS-A
 phytonutrients	lycopene	like	IS-A
+disease	glaucoma	like	IS-A
+drugs	viagra	like	IS-A
+drugs	prozac	like	IS-A
 diseases	strokes	like	IS-A
+spices	fenugreek	like	IS-A
+drug	premarin	like	IS-A
 medications	insulin	like	IS-A
 drugs	aspirin	like	IS-A
 medications	benadryl	like	IS-A
 plants	beans	like	IS-A
-bacteria	green tea	like	IS-A
-spices	turmeric	like	IS-A
-pollutants	mercury	like	IS-A
-bacteria	campylobacter	like	IS-A
-cruciferous vegetables	kale	like	IS-A
-oils	coconut oil	like	IS-A
-phytonutrients	hesperidin	like	IS-A
-toxins	tetrahydroisoquinoline	like	IS-A
-fish	tuna	like	IS-A
-diseases	stroke	like	IS-A
-drugs	cholesterol	like	IS-A
-tissues	cancer	like	IS-A
-phytonutrients	resveratrol	like	IS-A
-drugs	beta	like	IS-A
-cancers	childhood leukemia	like	IS-A
-diseases	colon cancer	like	IS-A
-minerals	arsenic	like	IS-A
-inflammation	gum	like	IS-A
-cancers	leukemias	like	IS-A
-drugs	tylenol	like	IS-A
-hormones	nicotine	like	IS-A
-fruit	lemons	like	IS-A
-drugs	zeranol	like	IS-A
-antioxidants	vitamin c	like	IS-A
-symptoms	nausea	like	IS-A
-drugs	fosamax	like	IS-A
-diseases	emphysema	like	IS-A
-drugs	ibuprofen	like	IS-A
-fish	anchovies	like	IS-A
-phytonutrients	vitamin c	like	IS-A
-plant foods	nuts	like	IS-A
-diseases	als	like	IS-A
-drug	valium	like	IS-A
-diseases	diabetes	like	IS-A
-meats	veggie burgers	like	IS-A
-illnesses	depression	like	IS-A
-phytonutrients	rosmarinic acid	like	IS-A
-fruits	noni	like	IS-A
-supplements	triphala	like	IS-A
-vegetables	apples	like	IS-A
-fruit	apples	like	IS-A
-cruciferous vegetables	collard greens	like	IS-A
-roots	sweet potatoes	like	IS-A
-drugs	antibiotics	like	IS-A
-plant foods	cauliflower	like	IS-A
-diseases	breast cancer	like	IS-A
-medication	glyburide	like	IS-A
-disease	glaucoma	like	IS-A
-drugs	viagra	like	IS-A
-drugs	prozac	like	IS-A
-spices	fenugreek	like	IS-A
-drug	premarin	like	IS-A
 chemicals	chlorhexidine	like	IS-A
 drugs	premarin	like	IS-A
+bacteria	green tea	like	IS-A
 fish	salmon	like	IS-A
+spices	turmeric	like	IS-A
+beverages	soda	like	IS-A
+pollutants	mercury	like	IS-A
+bacteria	campylobacter	like	IS-A
 drugs	valium	like	IS-A
 diseases	cancer	like	IS-A
 diseases	obesity	like	IS-A
 pollutants	hexachlorobenzene	like	IS-A
 vegetables	arugula	like	IS-A
+cruciferous vegetables	kale	like	IS-A
+oils	coconut oil	like	IS-A
+phytonutrients	hesperidin	like	IS-A
+toxins	tetrahydroisoquinoline	like	IS-A
 antioxidants	beta-carotene	like	IS-A
+fish	tuna	like	IS-A
+leafy vegetables	kale	like	IS-A
+leafy vegetables	spinach	like	IS-A
+diseases	stroke	like	IS-A
+animal products	chicken	like	IS-A
 drugs	lipitor	like	IS-A
+drugs	cholesterol	like	IS-A
+tissues	cancer	like	IS-A
+phytonutrients	resveratrol	like	IS-A
 drugs	candy	like	IS-A
+drugs	beta	like	IS-A
+cancers	childhood leukemia	like	IS-A
 bacteria	c. diff	like	IS-A
+diseases	colon cancer	like	IS-A
+minerals	arsenic	like	IS-A
+inflammation	gum	like	IS-A
+cancers	leukemias	like	IS-A
 toxins	arsenic	like	IS-A
+drugs	tylenol	like	IS-A
+inflammatory bowel diseases	methionine	like	IS-A
+acids	lactic acid	like	IS-A
 pollutants	ddt	like	IS-A
+hormones	nicotine	like	IS-A
 drug	ibuprofen	like	IS-A
 oils	canola	like	IS-A
 plant foods	flax	like	IS-A
+animal proteins	dairy	like	IS-A
+fruit	lemons	like	IS-A
 cancers	prostate	like	IS-A
 drugs	penicillin	like	IS-A
+drugs	zeranol	like	IS-A
+herbs	ginger	like	IS-A
 hormones	adrenaline	like	IS-A
+inflammatory bowel diseases	ulcerative colitis	like	IS-A
 side effects	nausea	like	IS-A
+antioxidants	vitamin c	like	IS-A
+neurotransmitters	prozac	like	IS-A
+symptoms	nausea	like	IS-A
+drugs	fosamax	like	IS-A
 drugs	nicotine	like	IS-A
+diseases	emphysema	like	IS-A
 drugs	heroin	like	IS-A
+drugs	ibuprofen	like	IS-A
+fish	anchovies	like	IS-A
+phytonutrients	vitamin c	like	IS-A
+plant foods	nuts	like	IS-A
 phytonutrients	beta-carotene	like	IS-A
 vegetables	kale	like	IS-A
+diseases	als	like	IS-A
 drug	lovastatin	like	IS-A
+pigments	zeaxanthin	like	IS-A
+drug	valium	like	IS-A
 legumes	lentils	like	IS-A
+diseases	diabetes	like	IS-A
+herb	tarragon	like	IS-A
+meats	veggie burgers	like	IS-A
+illnesses	depression	like	IS-A
+phytonutrients	rosmarinic acid	like	IS-A
 plant foods	soy	like	IS-A
 drug	lipitor	like	IS-A
+fruits	noni	like	IS-A
+supplements	triphala	like	IS-A
 whole grains	rye	like	IS-A
 plant foods	grains	like	IS-A
 drugs	allopurinol	like	IS-A
+vegetables	apples	like	IS-A
 phytonutrients	zeaxanthin	like	IS-A
+fruit	apples	like	IS-A
+neurotransmitters	serotonin	like	IS-A
 cruciferous vegetables	brussels sprouts	like	IS-A
+short-chain fatty acids	butyrate	like	IS-A
+acids	vitamin c	like	IS-A
 minerals	iodine	—like	IS-A
 inflammatory diseases	osteoarthritis	—like	IS-A
 whole grains	oats	—like	IS-A
 cruciferous vegetables	broccoli	—like	IS-A
 cancers	breast	—like	IS-A
 cancers	breast cancer	—like	IS-A
+autoimmune diseases	rheumatoid arthritis	—like	IS-A
 vegetables	salad	—like	IS-A
 vegetables	berries	—like	IS-A
+contaminants	antibiotic residues	—like	IS-A
 fish	anisakis	—like	IS-A
+animal proteins	soy	—like	IS-A
 meal	fruit	—like	IS-A
+short-chain fatty acids	butyrate	—like	IS-A
 protein	beans	—like	IS-A
 illnesses	teenagers	, such as	IS-A
 inflammatory diseases	heart disease	, such as	IS-A
@@ -259,15 +284,20 @@ cruciferous vegetables	broccoli	, such as	IS-A
 spices	curcumin	, such as	IS-A
 side effects	memory	, such as	IS-A
 diseases	alzheimer	, such as	IS-A
+autoimmune diseases	meat glue	, such as	IS-A
+inflammatory bowel diseases	ulcerative colitis	, such as	IS-A
 cancers	breast	, such as	IS-A
 supplements	vitamin c	, such as	IS-A
 animal protein	meat	, such as	IS-A
 spices	clove	, such as	IS-A
+heavy metals	mercury	, such as	IS-A
+animal proteins	neu5gc	, such as	IS-A
 fish	salmon	, such as	IS-A
 pollutants	mercury	, such as	IS-A
 diseases	diabetes	, such as	IS-A
 diseases	cancer	, such as	IS-A
 illnesses	acne	, such as	IS-A
+contaminants	mercury	, such as	IS-A
 pollutants	pcbs	, such as	IS-A
 vegetables	beets	, such as	IS-A
 fish	tuna	, such as	IS-A
@@ -279,30 +309,39 @@ cancers	breast cancer	, such as	IS-A
 drugs	cholesterol	, such as	IS-A
 vitamin supplements	vitamin c	, such as	IS-A
 spices	cloves	, such as	IS-A
+prebiotics	fiber	, such as	IS-A
+short-chain fatty acids	butyrate	, such as	IS-A
 proteins	casein	, such as	IS-A
 cancers	breast	(like	IS-A
 cancers	breast cancer	(like	IS-A
 drugs	penicillin	(like	IS-A
 legumes	peanuts	(like	IS-A
 cruciferous vegetables	broccoli	(like	IS-A
+animal products	fish oil	such as	IS-A
 industrial pollutants	pcbs	such as	IS-A
 phytonutrients	lutein	such as	IS-A
 methionine	meat	such as	IS-A
+heavy metals	arsenic	such as	IS-A
 fruits	oranges	such as	IS-A
 symptoms	brain	such as	IS-A
 chronic diseases	cancer	such as	IS-A
 industrial pollutants	mercury	such as	IS-A
 diseases	heart disease	such as	IS-A
+heavy metals	cadmium	such as	IS-A
 symptoms	bloating	such as	IS-A
+greens	turmeric	such as	IS-A
 spices	cinnamon	such as	IS-A
 minerals	magnesium	such as	IS-A
+animal products	milk	such as	IS-A
 medications	statins	such as	IS-A
 pollutants	dioxins	such as	IS-A
+persistent organic pollutants	arsenic	such as	IS-A
 side effects	memory	such as	IS-A
 diseases	asthma	such as	IS-A
 phytonutrients	lycopene	such as	IS-A
 cancers	breast	such as	IS-A
 drugs	prozac	such as	IS-A
+contaminants	antibiotic residues	such as	IS-A
 drugs	aspirin	such as	IS-A
 supplements	vitamin c	such as	IS-A
 vegetables	greens	such as	IS-A
@@ -311,14 +350,23 @@ spices	garlic	such as	IS-A
 diarrhea	meat	such as	IS-A
 fish	salmon	such as	IS-A
 legumes	chickpeas	such as	IS-A
+health	nitrate	such as	IS-A
 spices	turmeric	such as	IS-A
 pollutants	mercury	such as	IS-A
+carbs	french fries	such as	IS-A
 diseases	cancer	such as	IS-A
 animal products	meat	such as	IS-A
 fruits	currants	such as	IS-A
 industrial pollutants	alkylphenols	such as	IS-A
+poultry	turkey	such as	IS-A
 inflammation	heart disease	such as	IS-A
+inflammatory bowel diseases	crohn	such as	IS-A
+pigments	lutein	such as	IS-A
+greens	kale	such as	IS-A
 diseases	stroke	such as	IS-A
+animal products	chicken	such as	IS-A
+beverages	hibiscus tea	such as	IS-A
+carbs	sun-dried	such as	IS-A
 plants	kale	such as	IS-A
 industrial pollutants	pcbs found	such as	IS-A
 diseases	autism	such as	IS-A
@@ -328,6 +376,7 @@ legumes	beans	such as	IS-A
 plants	aspirin	such as	IS-A
 inflammatory diseases	heart disease	such as	IS-A
 plant proteins	soy	such as	IS-A
+neurotransmitters	dopamine	such as	IS-A
 spices	nutmeg	such as	IS-A
 vegetables	onions	such as	IS-A
 inflammatory diseases	asthma	such as	IS-A
@@ -338,41 +387,56 @@ plant foods	beans	such as	IS-A
 industrial pollutants	tuna	such as	IS-A
 cancers	skin cancer	such as	IS-A
 side effects	weight gain	such as	IS-A
+greens	spinach	such as	IS-A
 cruciferous vegetables	broccoli	such as	IS-A
 diseases	alzheimer	such as	IS-A
+inflammatory bowel diseases	ulcerative colitis	such as	IS-A
 side effects	nausea	such as	IS-A
 diseases	hepatitis	such as	IS-A
 legumes	peanuts	such as	IS-A
 meat	chicken	such as	IS-A
 supplements	potassium	such as	IS-A
+persistent organic pollutants	pcb	such as	IS-A
+animal products	bacon	such as	IS-A
 toxins	pcb	such as	IS-A
 fruits	tomatoes	such as	IS-A
 phytonutrients	vitamin c	such as	IS-A
 vitamin supplements	multivitamins	such as	IS-A
 plant foods	nuts	such as	IS-A
 legumes	soy	such as	IS-A
+heavy metals	mercury	such as	IS-A
 legumes	lentils	such as	IS-A
 diseases	diabetes	such as	IS-A
+animal products	dairy	such as	IS-A
 side effects	uterine cancer	such as	IS-A
 diseases	scurvy	such as	IS-A
 drugs	antibiotic residues	such as	IS-A
 animal foods	dairy	such as	IS-A
+autoimmune diseases	psoriasis	such as	IS-A
+contaminants	asbestos	such as	IS-A
 pollutants	pcbs	such as	IS-A
 vegetables	beets	such as	IS-A
 meat	ham	such as	IS-A
 antioxidants	curcumin	such as	IS-A
 fruits	blueberries	such as	IS-A
+herbs	goji berries	such as	IS-A
 cancers	breast cancer	such as	IS-A
 vitamin supplements	vitamin e	such as	IS-A
 vitamin supplements	vitamin c	such as	IS-A
 meats	ham	such as	IS-A
+carbs	sun	such as	IS-A
 cancers	pancreatic cancer	such as	IS-A
+beverages	fruit juice	such as	IS-A
 phytonutrients	lignans	such as	IS-A
 spices	saffron	such as	IS-A
 fruits	rose hips	are the	IS-A
+pigments	anthocyanins	are the	IS-A
 diseases	hypertension	are the	IS-A
 bok choy	vegetables	are	IS-A
+poultry	campylobacter	are	IS-A
+health-promoting	greens	are	IS-A
 chemical	phthalates	are	IS-A
+milk	estrogens	are	IS-A
 roots	carrots	are	IS-A
 chemical	organochlorines	are	IS-A
 potato chips	vegetables	are	IS-A
@@ -382,8 +446,11 @@ fruits	pesticides	are	IS-A
 plant	antioxidants	are	IS-A
 fruit	beans	are	IS-A
 chemicals	birds	are	IS-A
+poultry	salmonella	are	IS-A
+fat soluble	greens	are	IS-A
 chemicals	xenoestrogens	are	IS-A
 exposures	drugs	are	IS-A
+muscles	milk	are	IS-A
 heartburn	symptoms	are	IS-A
 diseases	liver cancer	are	IS-A
 roots	green leafies	are	IS-A
@@ -409,6 +476,7 @@ disease	aging	is a	IS-A
 bit	supplements	is a	IS-A
 disease	diverticulosis	is a	IS-A
 chemical	acrylamide	is a	IS-A
+milk	galactose	is a	IS-A
 hormone	melatonin	is a	IS-A
 toxin	lead	is a	IS-A
 disease	multiple sclerosis	is a	IS-A
@@ -416,6 +484,7 @@ bacteria	campylobacter	is a	IS-A
 disease	prediabetes	is a	IS-A
 diet	breastfed infants	is a	IS-A
 disease	atherosclerosis	is a	IS-A
+trigger	milk	is a	IS-A
 cancer	lymphoma	is	IS-A
 meat	american diet	is	IS-A
 heart disease	diseases	is	IS-A
@@ -423,11 +492,11 @@ fish oil	supplements	is	IS-A
 aspirin	drug	is	IS-A
 mineral	nettle tea	is	IS-A
 dandelion	antioxidants	is	IS-A
+skim milk	milk	is	IS-A
 insulin-like growth	cancer	is	IS-A
 boiling	antioxidants	is	IS-A
 diet	nutrition	is	IS-A
 vegetables	diet	is	IS-A
-protein	video	is	IS-A
 acid producing	diet	is	IS-A
 bell peppers	vegetable	is	IS-A
 fine	fruit	is	IS-A
@@ -458,6 +527,7 @@ chicken	meat	, including	HYPERNYMY
 cancer	chronic disease	, including	HYPERNYMY
 pancreatic enzymes	supplements	, including	HYPERNYMY
 greens	vegetables	, including	HYPERNYMY
+skim milk	milk	, including	HYPERNYMY
 heart disease	illnesses	, including	HYPERNYMY
 vitamin a	supplements	, including	HYPERNYMY
 als	diseases	, including	HYPERNYMY
@@ -465,6 +535,7 @@ salmon	fish	, including	HYPERNYMY
 apples	plants	, including	HYPERNYMY
 cancer	diseases	, including	HYPERNYMY
 apples	fruits	, including	HYPERNYMY
+turkey	poultry	, including	HYPERNYMY
 tuna	fish	, including	HYPERNYMY
 poultry	meats	, including	HYPERNYMY
 formaldehyde	pollutants	, including	HYPERNYMY
@@ -475,120 +546,141 @@ fish	eating meat	, including	HYPERNYMY
 resveratrol	phytonutrients	, including	HYPERNYMY
 olive oil	oils	, including	HYPERNYMY
 strawberries	fruits	, including	HYPERNYMY
+carrot juice	health	, including	HYPERNYMY
 pancreatic cancer	cancers	, including	HYPERNYMY
 seeds	plant-based diet	, including	HYPERNYMY
 aspirin	medications	, including	HYPERNYMY
 beans	legumes	, including	HYPERNYMY
+collard greens	cruciferous vegetables	like	HYPERNYMY
 bleeding	inflammation	like	HYPERNYMY
 lutein	phytonutrients	like	HYPERNYMY
 protein	animal foods	like	HYPERNYMY
 ornish	plant-based diet	like	HYPERNYMY
+sweet potatoes	roots	like	HYPERNYMY
+antibiotics	drugs	like	HYPERNYMY
+dioxins	persistent organic pollutants	like	HYPERNYMY
 beans	plant proteins	like	HYPERNYMY
 midazolam	drugs	like	HYPERNYMY
+cauliflower	plant foods	like	HYPERNYMY
 dioxins	pollutants	like	HYPERNYMY
 igf	hormones	like	HYPERNYMY
+breast cancer	diseases	like	HYPERNYMY
+glyburide	medication	like	HYPERNYMY
 lycopene	phytonutrients	like	HYPERNYMY
+glaucoma	disease	like	HYPERNYMY
+viagra	drugs	like	HYPERNYMY
+prozac	drugs	like	HYPERNYMY
 strokes	diseases	like	HYPERNYMY
+fenugreek	spices	like	HYPERNYMY
+premarin	drug	like	HYPERNYMY
 insulin	medications	like	HYPERNYMY
 aspirin	drugs	like	HYPERNYMY
 benadryl	medications	like	HYPERNYMY
 beans	plants	like	HYPERNYMY
-green tea	bacteria	like	HYPERNYMY
-turmeric	spices	like	HYPERNYMY
-mercury	pollutants	like	HYPERNYMY
-campylobacter	bacteria	like	HYPERNYMY
-kale	cruciferous vegetables	like	HYPERNYMY
-coconut oil	oils	like	HYPERNYMY
-hesperidin	phytonutrients	like	HYPERNYMY
-tetrahydroisoquinoline	toxins	like	HYPERNYMY
-tuna	fish	like	HYPERNYMY
-stroke	diseases	like	HYPERNYMY
-cholesterol	drugs	like	HYPERNYMY
-cancer	tissues	like	HYPERNYMY
-resveratrol	phytonutrients	like	HYPERNYMY
-beta	drugs	like	HYPERNYMY
-childhood leukemia	cancers	like	HYPERNYMY
-colon cancer	diseases	like	HYPERNYMY
-arsenic	minerals	like	HYPERNYMY
-gum	inflammation	like	HYPERNYMY
-leukemias	cancers	like	HYPERNYMY
-tylenol	drugs	like	HYPERNYMY
-nicotine	hormones	like	HYPERNYMY
-lemons	fruit	like	HYPERNYMY
-zeranol	drugs	like	HYPERNYMY
-vitamin c	antioxidants	like	HYPERNYMY
-nausea	symptoms	like	HYPERNYMY
-fosamax	drugs	like	HYPERNYMY
-emphysema	diseases	like	HYPERNYMY
-ibuprofen	drugs	like	HYPERNYMY
-anchovies	fish	like	HYPERNYMY
-vitamin c	phytonutrients	like	HYPERNYMY
-nuts	plant foods	like	HYPERNYMY
-als	diseases	like	HYPERNYMY
-valium	drug	like	HYPERNYMY
-diabetes	diseases	like	HYPERNYMY
-veggie burgers	meats	like	HYPERNYMY
-depression	illnesses	like	HYPERNYMY
-rosmarinic acid	phytonutrients	like	HYPERNYMY
-noni	fruits	like	HYPERNYMY
-triphala	supplements	like	HYPERNYMY
-apples	vegetables	like	HYPERNYMY
-apples	fruit	like	HYPERNYMY
-collard greens	cruciferous vegetables	like	HYPERNYMY
-sweet potatoes	roots	like	HYPERNYMY
-antibiotics	drugs	like	HYPERNYMY
-cauliflower	plant foods	like	HYPERNYMY
-breast cancer	diseases	like	HYPERNYMY
-glyburide	medication	like	HYPERNYMY
-glaucoma	disease	like	HYPERNYMY
-viagra	drugs	like	HYPERNYMY
-prozac	drugs	like	HYPERNYMY
-fenugreek	spices	like	HYPERNYMY
-premarin	drug	like	HYPERNYMY
 chlorhexidine	chemicals	like	HYPERNYMY
 premarin	drugs	like	HYPERNYMY
+green tea	bacteria	like	HYPERNYMY
 salmon	fish	like	HYPERNYMY
+turmeric	spices	like	HYPERNYMY
+soda	beverages	like	HYPERNYMY
+mercury	pollutants	like	HYPERNYMY
+campylobacter	bacteria	like	HYPERNYMY
 valium	drugs	like	HYPERNYMY
 cancer	diseases	like	HYPERNYMY
 obesity	diseases	like	HYPERNYMY
 hexachlorobenzene	pollutants	like	HYPERNYMY
 arugula	vegetables	like	HYPERNYMY
+kale	cruciferous vegetables	like	HYPERNYMY
+coconut oil	oils	like	HYPERNYMY
+hesperidin	phytonutrients	like	HYPERNYMY
+tetrahydroisoquinoline	toxins	like	HYPERNYMY
 beta-carotene	antioxidants	like	HYPERNYMY
+tuna	fish	like	HYPERNYMY
+kale	leafy vegetables	like	HYPERNYMY
+spinach	leafy vegetables	like	HYPERNYMY
+stroke	diseases	like	HYPERNYMY
+chicken	animal products	like	HYPERNYMY
 lipitor	drugs	like	HYPERNYMY
+cholesterol	drugs	like	HYPERNYMY
+cancer	tissues	like	HYPERNYMY
+resveratrol	phytonutrients	like	HYPERNYMY
 candy	drugs	like	HYPERNYMY
+beta	drugs	like	HYPERNYMY
+childhood leukemia	cancers	like	HYPERNYMY
 c. diff	bacteria	like	HYPERNYMY
+colon cancer	diseases	like	HYPERNYMY
+arsenic	minerals	like	HYPERNYMY
+gum	inflammation	like	HYPERNYMY
+leukemias	cancers	like	HYPERNYMY
 arsenic	toxins	like	HYPERNYMY
+tylenol	drugs	like	HYPERNYMY
+methionine	inflammatory bowel diseases	like	HYPERNYMY
+lactic acid	acids	like	HYPERNYMY
 ddt	pollutants	like	HYPERNYMY
+nicotine	hormones	like	HYPERNYMY
 ibuprofen	drug	like	HYPERNYMY
 canola	oils	like	HYPERNYMY
 flax	plant foods	like	HYPERNYMY
+dairy	animal proteins	like	HYPERNYMY
+lemons	fruit	like	HYPERNYMY
 prostate	cancers	like	HYPERNYMY
 penicillin	drugs	like	HYPERNYMY
+zeranol	drugs	like	HYPERNYMY
+ginger	herbs	like	HYPERNYMY
 adrenaline	hormones	like	HYPERNYMY
+ulcerative colitis	inflammatory bowel diseases	like	HYPERNYMY
 nausea	side effects	like	HYPERNYMY
+vitamin c	antioxidants	like	HYPERNYMY
+prozac	neurotransmitters	like	HYPERNYMY
+nausea	symptoms	like	HYPERNYMY
+fosamax	drugs	like	HYPERNYMY
 nicotine	drugs	like	HYPERNYMY
+emphysema	diseases	like	HYPERNYMY
 heroin	drugs	like	HYPERNYMY
+ibuprofen	drugs	like	HYPERNYMY
+anchovies	fish	like	HYPERNYMY
+vitamin c	phytonutrients	like	HYPERNYMY
+nuts	plant foods	like	HYPERNYMY
 beta-carotene	phytonutrients	like	HYPERNYMY
 kale	vegetables	like	HYPERNYMY
+als	diseases	like	HYPERNYMY
 lovastatin	drug	like	HYPERNYMY
+zeaxanthin	pigments	like	HYPERNYMY
+valium	drug	like	HYPERNYMY
 lentils	legumes	like	HYPERNYMY
+diabetes	diseases	like	HYPERNYMY
+tarragon	herb	like	HYPERNYMY
+veggie burgers	meats	like	HYPERNYMY
+depression	illnesses	like	HYPERNYMY
+rosmarinic acid	phytonutrients	like	HYPERNYMY
 soy	plant foods	like	HYPERNYMY
 lipitor	drug	like	HYPERNYMY
+noni	fruits	like	HYPERNYMY
+triphala	supplements	like	HYPERNYMY
 rye	whole grains	like	HYPERNYMY
 grains	plant foods	like	HYPERNYMY
 allopurinol	drugs	like	HYPERNYMY
+apples	vegetables	like	HYPERNYMY
 zeaxanthin	phytonutrients	like	HYPERNYMY
+apples	fruit	like	HYPERNYMY
+serotonin	neurotransmitters	like	HYPERNYMY
 brussels sprouts	cruciferous vegetables	like	HYPERNYMY
+butyrate	short-chain fatty acids	like	HYPERNYMY
+vitamin c	acids	like	HYPERNYMY
 iodine	minerals	—like	HYPERNYMY
 osteoarthritis	inflammatory diseases	—like	HYPERNYMY
 oats	whole grains	—like	HYPERNYMY
 broccoli	cruciferous vegetables	—like	HYPERNYMY
 breast	cancers	—like	HYPERNYMY
 breast cancer	cancers	—like	HYPERNYMY
+rheumatoid arthritis	autoimmune diseases	—like	HYPERNYMY
 salad	vegetables	—like	HYPERNYMY
 berries	vegetables	—like	HYPERNYMY
+antibiotic residues	contaminants	—like	HYPERNYMY
 anisakis	fish	—like	HYPERNYMY
+soy	animal proteins	—like	HYPERNYMY
 fruit	meal	—like	HYPERNYMY
+butyrate	short-chain fatty acids	—like	HYPERNYMY
 beans	protein	—like	HYPERNYMY
 teenagers	illnesses	, such as	HYPERNYMY
 heart disease	inflammatory diseases	, such as	HYPERNYMY
@@ -606,15 +698,20 @@ broccoli	cruciferous vegetables	, such as	HYPERNYMY
 curcumin	spices	, such as	HYPERNYMY
 memory	side effects	, such as	HYPERNYMY
 alzheimer	diseases	, such as	HYPERNYMY
+meat glue	autoimmune diseases	, such as	HYPERNYMY
+ulcerative colitis	inflammatory bowel diseases	, such as	HYPERNYMY
 breast	cancers	, such as	HYPERNYMY
 vitamin c	supplements	, such as	HYPERNYMY
 meat	animal protein	, such as	HYPERNYMY
 clove	spices	, such as	HYPERNYMY
+mercury	heavy metals	, such as	HYPERNYMY
+neu5gc	animal proteins	, such as	HYPERNYMY
 salmon	fish	, such as	HYPERNYMY
 mercury	pollutants	, such as	HYPERNYMY
 diabetes	diseases	, such as	HYPERNYMY
 cancer	diseases	, such as	HYPERNYMY
 acne	illnesses	, such as	HYPERNYMY
+mercury	contaminants	, such as	HYPERNYMY
 pcbs	pollutants	, such as	HYPERNYMY
 beets	vegetables	, such as	HYPERNYMY
 tuna	fish	, such as	HYPERNYMY
@@ -626,30 +723,39 @@ breast cancer	cancers	, such as	HYPERNYMY
 cholesterol	drugs	, such as	HYPERNYMY
 vitamin c	vitamin supplements	, such as	HYPERNYMY
 cloves	spices	, such as	HYPERNYMY
+fiber	prebiotics	, such as	HYPERNYMY
+butyrate	short-chain fatty acids	, such as	HYPERNYMY
 casein	proteins	, such as	HYPERNYMY
 breast	cancers	(like	HYPERNYMY
 breast cancer	cancers	(like	HYPERNYMY
 penicillin	drugs	(like	HYPERNYMY
 peanuts	legumes	(like	HYPERNYMY
 broccoli	cruciferous vegetables	(like	HYPERNYMY
+fish oil	animal products	such as	HYPERNYMY
 pcbs	industrial pollutants	such as	HYPERNYMY
 lutein	phytonutrients	such as	HYPERNYMY
 meat	methionine	such as	HYPERNYMY
+arsenic	heavy metals	such as	HYPERNYMY
 oranges	fruits	such as	HYPERNYMY
 brain	symptoms	such as	HYPERNYMY
 cancer	chronic diseases	such as	HYPERNYMY
 mercury	industrial pollutants	such as	HYPERNYMY
 heart disease	diseases	such as	HYPERNYMY
+cadmium	heavy metals	such as	HYPERNYMY
 bloating	symptoms	such as	HYPERNYMY
+turmeric	greens	such as	HYPERNYMY
 cinnamon	spices	such as	HYPERNYMY
 magnesium	minerals	such as	HYPERNYMY
+milk	animal products	such as	HYPERNYMY
 statins	medications	such as	HYPERNYMY
 dioxins	pollutants	such as	HYPERNYMY
+arsenic	persistent organic pollutants	such as	HYPERNYMY
 memory	side effects	such as	HYPERNYMY
 asthma	diseases	such as	HYPERNYMY
 lycopene	phytonutrients	such as	HYPERNYMY
 breast	cancers	such as	HYPERNYMY
 prozac	drugs	such as	HYPERNYMY
+antibiotic residues	contaminants	such as	HYPERNYMY
 aspirin	drugs	such as	HYPERNYMY
 vitamin c	supplements	such as	HYPERNYMY
 greens	vegetables	such as	HYPERNYMY
@@ -658,14 +764,23 @@ garlic	spices	such as	HYPERNYMY
 meat	diarrhea	such as	HYPERNYMY
 salmon	fish	such as	HYPERNYMY
 chickpeas	legumes	such as	HYPERNYMY
+nitrate	health	such as	HYPERNYMY
 turmeric	spices	such as	HYPERNYMY
 mercury	pollutants	such as	HYPERNYMY
+french fries	carbs	such as	HYPERNYMY
 cancer	diseases	such as	HYPERNYMY
 meat	animal products	such as	HYPERNYMY
 currants	fruits	such as	HYPERNYMY
 alkylphenols	industrial pollutants	such as	HYPERNYMY
+turkey	poultry	such as	HYPERNYMY
 heart disease	inflammation	such as	HYPERNYMY
+crohn	inflammatory bowel diseases	such as	HYPERNYMY
+lutein	pigments	such as	HYPERNYMY
+kale	greens	such as	HYPERNYMY
 stroke	diseases	such as	HYPERNYMY
+chicken	animal products	such as	HYPERNYMY
+hibiscus tea	beverages	such as	HYPERNYMY
+sun-dried	carbs	such as	HYPERNYMY
 kale	plants	such as	HYPERNYMY
 pcbs found	industrial pollutants	such as	HYPERNYMY
 autism	diseases	such as	HYPERNYMY
@@ -675,6 +790,7 @@ beans	legumes	such as	HYPERNYMY
 aspirin	plants	such as	HYPERNYMY
 heart disease	inflammatory diseases	such as	HYPERNYMY
 soy	plant proteins	such as	HYPERNYMY
+dopamine	neurotransmitters	such as	HYPERNYMY
 nutmeg	spices	such as	HYPERNYMY
 onions	vegetables	such as	HYPERNYMY
 asthma	inflammatory diseases	such as	HYPERNYMY
@@ -685,41 +801,56 @@ beans	plant foods	such as	HYPERNYMY
 tuna	industrial pollutants	such as	HYPERNYMY
 skin cancer	cancers	such as	HYPERNYMY
 weight gain	side effects	such as	HYPERNYMY
+spinach	greens	such as	HYPERNYMY
 broccoli	cruciferous vegetables	such as	HYPERNYMY
 alzheimer	diseases	such as	HYPERNYMY
+ulcerative colitis	inflammatory bowel diseases	such as	HYPERNYMY
 nausea	side effects	such as	HYPERNYMY
 hepatitis	diseases	such as	HYPERNYMY
 peanuts	legumes	such as	HYPERNYMY
 chicken	meat	such as	HYPERNYMY
 potassium	supplements	such as	HYPERNYMY
+pcb	persistent organic pollutants	such as	HYPERNYMY
+bacon	animal products	such as	HYPERNYMY
 pcb	toxins	such as	HYPERNYMY
 tomatoes	fruits	such as	HYPERNYMY
 vitamin c	phytonutrients	such as	HYPERNYMY
 multivitamins	vitamin supplements	such as	HYPERNYMY
 nuts	plant foods	such as	HYPERNYMY
 soy	legumes	such as	HYPERNYMY
+mercury	heavy metals	such as	HYPERNYMY
 lentils	legumes	such as	HYPERNYMY
 diabetes	diseases	such as	HYPERNYMY
+dairy	animal products	such as	HYPERNYMY
 uterine cancer	side effects	such as	HYPERNYMY
 scurvy	diseases	such as	HYPERNYMY
 antibiotic residues	drugs	such as	HYPERNYMY
 dairy	animal foods	such as	HYPERNYMY
+psoriasis	autoimmune diseases	such as	HYPERNYMY
+asbestos	contaminants	such as	HYPERNYMY
 pcbs	pollutants	such as	HYPERNYMY
 beets	vegetables	such as	HYPERNYMY
 ham	meat	such as	HYPERNYMY
 curcumin	antioxidants	such as	HYPERNYMY
 blueberries	fruits	such as	HYPERNYMY
+goji berries	herbs	such as	HYPERNYMY
 breast cancer	cancers	such as	HYPERNYMY
 vitamin e	vitamin supplements	such as	HYPERNYMY
 vitamin c	vitamin supplements	such as	HYPERNYMY
 ham	meats	such as	HYPERNYMY
+sun	carbs	such as	HYPERNYMY
 pancreatic cancer	cancers	such as	HYPERNYMY
+fruit juice	beverages	such as	HYPERNYMY
 lignans	phytonutrients	such as	HYPERNYMY
 saffron	spices	such as	HYPERNYMY
 rose hips	fruits	are the	HYPERNYMY
+anthocyanins	pigments	are the	HYPERNYMY
 hypertension	diseases	are the	HYPERNYMY
 vegetables	bok choy	are	HYPERNYMY
+campylobacter	poultry	are	HYPERNYMY
+greens	health-promoting	are	HYPERNYMY
 phthalates	chemical	are	HYPERNYMY
+estrogens	milk	are	HYPERNYMY
 carrots	roots	are	HYPERNYMY
 organochlorines	chemical	are	HYPERNYMY
 vegetables	potato chips	are	HYPERNYMY
@@ -729,8 +860,11 @@ pesticides	fruits	are	HYPERNYMY
 antioxidants	plant	are	HYPERNYMY
 beans	fruit	are	HYPERNYMY
 birds	chemicals	are	HYPERNYMY
+salmonella	poultry	are	HYPERNYMY
+greens	fat soluble	are	HYPERNYMY
 xenoestrogens	chemicals	are	HYPERNYMY
 drugs	exposures	are	HYPERNYMY
+milk	muscles	are	HYPERNYMY
 symptoms	heartburn	are	HYPERNYMY
 liver cancer	diseases	are	HYPERNYMY
 green leafies	roots	are	HYPERNYMY
@@ -756,6 +890,7 @@ aging	disease	is a	HYPERNYMY
 supplements	bit	is a	HYPERNYMY
 diverticulosis	disease	is a	HYPERNYMY
 acrylamide	chemical	is a	HYPERNYMY
+galactose	milk	is a	HYPERNYMY
 melatonin	hormone	is a	HYPERNYMY
 lead	toxin	is a	HYPERNYMY
 multiple sclerosis	disease	is a	HYPERNYMY
@@ -763,6 +898,7 @@ campylobacter	bacteria	is a	HYPERNYMY
 prediabetes	disease	is a	HYPERNYMY
 breastfed infants	diet	is a	HYPERNYMY
 atherosclerosis	disease	is a	HYPERNYMY
+milk	trigger	is a	HYPERNYMY
 lymphoma	cancer	is	HYPERNYMY
 american diet	meat	is	HYPERNYMY
 diseases	heart disease	is	HYPERNYMY
@@ -770,11 +906,11 @@ supplements	fish oil	is	HYPERNYMY
 drug	aspirin	is	HYPERNYMY
 nettle tea	mineral	is	HYPERNYMY
 antioxidants	dandelion	is	HYPERNYMY
+milk	skim milk	is	HYPERNYMY
 cancer	insulin-like growth	is	HYPERNYMY
 antioxidants	boiling	is	HYPERNYMY
 nutrition	diet	is	HYPERNYMY
 diet	vegetables	is	HYPERNYMY
-video	protein	is	HYPERNYMY
 diet	acid producing	is	HYPERNYMY
 vegetable	bell peppers	is	HYPERNYMY
 fruit	fine	is	HYPERNYMY
@@ -787,32 +923,42 @@ turmeric	plant	is just a	HYPERNYMY
 plant-based diet	virus	is just a	HYPERNYMY
 garlic	vegetables	stood out for the	HYPERNYMY
 raisins	vegetables	stood out for the	HYPERNYMY
-inflammation	depression	associated with	LINKED-TO
-meat molecule	inflammation	associated with	LINKED-TO
 chronic diseases	inflammation	associated with	LINKED-TO
 side effects	drugs	associated with	LINKED-TO
 toxin	alzheimer	associated with	LINKED-TO
 cancers	alcohol	associated with	LINKED-TO
 biomarker	cancer	associated with	LINKED-TO
 pain	drugs	associated with	LINKED-TO
+inflammation	depression	associated with	LINKED-TO
+meat molecule	inflammation	associated with	LINKED-TO
+beverage	infertility	associated with	LINKED-TO
+mortality	poultry	associated with	LINKED-TO
 symptoms	diabetes	associated with	LINKED-TO
+animal products	weight gain	is associated with	LINKED-TO
 meat	inflammation	is associated with	LINKED-TO
 meat	weight gain	is associated with	LINKED-TO
+poultry	liver	tied to	LINKED-TO
 parasites	meat	are associated with	LINKED-TO
 plant foods	prevotella	are associated with	LINKED-TO
-depression	inflammation	associated with	LINKED-TO-I
-inflammation	meat molecule	associated with	LINKED-TO-I
+carbs	pancreatic cancer	was associated with	LINKED-TO
 inflammation	chronic diseases	associated with	LINKED-TO-I
 drugs	side effects	associated with	LINKED-TO-I
 alzheimer	toxin	associated with	LINKED-TO-I
 alcohol	cancers	associated with	LINKED-TO-I
 cancer	biomarker	associated with	LINKED-TO-I
 drugs	pain	associated with	LINKED-TO-I
+depression	inflammation	associated with	LINKED-TO-I
+inflammation	meat molecule	associated with	LINKED-TO-I
+infertility	beverage	associated with	LINKED-TO-I
+poultry	mortality	associated with	LINKED-TO-I
 diabetes	symptoms	associated with	LINKED-TO-I
+weight gain	animal products	is associated with	LINKED-TO-I
 inflammation	meat	is associated with	LINKED-TO-I
 weight gain	meat	is associated with	LINKED-TO-I
+liver	poultry	tied to	LINKED-TO-I
 meat	parasites	are associated with	LINKED-TO-I
 prevotella	plant foods	are associated with	LINKED-TO-I
+pancreatic cancer	carbs	was associated with	LINKED-TO-I
 fortification	meat	in	PART-OF
 chemicals	poultry meat	in	PART-OF
 phytonutrients	plant foods	in	PART-OF
@@ -822,13 +968,16 @@ diseases	foie gras	in	PART-OF
 antibodies	meat	in	PART-OF
 protein	pork	in	PART-OF
 peppermint	antioxidants	in	PART-OF
+vitamin	greens	in	PART-OF
 vitamin c	fruits	in	PART-OF
 vegetables	meat	in	PART-OF
 bacterial endotoxins	inflammation	in	PART-OF
 flavonoid phytonutrients	fruits	in	PART-OF
 diseases	chickens	in	PART-OF
+milk	girls	in	PART-OF
 aspartame	diet	in	PART-OF
 contamination	drug	in	PART-OF
+pigments	berries	in	PART-OF
 heme iron	meat	in	PART-OF
 inflammation	arthritis	in	PART-OF
 cancer	bacon	in	PART-OF
@@ -846,6 +995,8 @@ diet	adolescence	in	PART-OF
 phytonutrient	kiwis	in	PART-OF
 dna mutations	bacteria	in	PART-OF
 cholesterol	meat	in	PART-OF
+prevention	poultry	in	PART-OF
+pigments	grapes	in	PART-OF
 zinc	plant	in	PART-OF
 carcinogens	plant foods	in	PART-OF
 nitrosamine production	fruits	in	PART-OF
@@ -861,6 +1012,7 @@ phytonutrient	broccoli	in	PART-OF
 glycotoxins	meat	in	PART-OF
 leucine	protein	in	PART-OF
 phytonutrients	grapes	in	PART-OF
+muscle tissues	poultry	in	PART-OF
 industrial pollutants	vegans	in	PART-OF
 industrial contaminants	fish	in	PART-OF
 chemicals	eggs	in	PART-OF
@@ -875,9 +1027,13 @@ play	disease	in	PART-OF
 plant foods	cancer	in	PART-OF
 diets	uganda	in	PART-OF
 cancer	ammonia	in	PART-OF
+heavy metals	protein powder supplements	in	PART-OF
+cancer-causing herpesvirus	poultry	in	PART-OF
 phytonutrients	salad	in	PART-OF
+contaminants	cheese	in	PART-OF
 dna	plants	in	PART-OF
 chemicals	chicken	in	PART-OF
+virus	poultry	in	PART-OF
 plant-based diets	beans	in	PART-OF
 nitrates	vegetables	in	PART-OF
 phytonutrients	cocoa	in	PART-OF
@@ -885,6 +1041,7 @@ fiber	fruit	in	PART-OF
 bacteria	meat	in	PART-OF
 hormones	vegans	in	PART-OF
 cruciferous vegetables	green	in	PART-OF
+heavy metals	protein powder	in	PART-OF
 disease	sheep	in	PART-OF
 arachidonic acid	meat	in	PART-OF
 phytonutrients	chocolate	in	PART-OF
@@ -899,6 +1056,7 @@ sugar	fruit	in	PART-OF
 cancer	meat	in	PART-OF
 neurotoxins	fish	in	PART-OF
 phytonutrients	fruits	in	PART-OF
+bioactive molecules	milk	in	PART-OF
 plant	ayurvedic medicine	in	PART-OF
 coloring	fish	in	PART-OF
 antioxidants	cranberries	in	PART-OF
@@ -911,10 +1069,13 @@ survival	plant	in	PART-OF
 arsenic	meat	in	PART-OF
 phytonutrients	oats	in	PART-OF
 asian diets	meat	in	PART-OF
+calcium	milk	in	PART-OF
 toxins	cigarette smoke	in	PART-OF
 carcinogens	meat	in	PART-OF
 antioxidants	white bread	in	PART-OF
+sugar	milk	in	PART-OF
 cadmium	plant foods	in	PART-OF
+fecal contamination	poultry	in	PART-OF
 obesogens	meat	in	PART-OF
 fat	fish	in	PART-OF
 plant foods	cancer prevention	in	PART-OF
@@ -924,10 +1085,10 @@ cancers	chickens	in	PART-OF
 phytonutrients	plant	in	PART-OF
 phytonutrients	tea	in	PART-OF
 pollutants	fish oil	in	PART-OF
-pregnant women	fish	in	PART-OF
 hormones	skim	in	PART-OF
 polyphenols	legumes	in	PART-OF
 growth promoters	meat	in	PART-OF
+herbs	cardiovascular disease	in	PART-OF
 phytoestrogens	plants	in	PART-OF
 hormones	dairy products	in	PART-OF
 chicken	meat	in	PART-OF
@@ -936,13 +1097,17 @@ ldl cholesterol	meat	in	PART-OF
 molecule	meat	in	PART-OF
 pollutants	seafood	in	PART-OF
 disease	pigs	in	PART-OF
+mortality	poultry	in	PART-OF
 phytonutrients	cherries	in	PART-OF
 protein	plant foods	in	PART-OF
+bovine casomorphin	milk	in	PART-OF
+xenoestrogens	health	in	PART-OF
 hormones	beef	in	PART-OF
 aspirin	plants	in	PART-OF
 pathogens	meat	in	PART-OF
 antioxidants	plants	in	PART-OF
 hormones	pills	in	PART-OF
+contaminants	chicken products	in	PART-OF
 omega	fish	in	PART-OF
 hormones	milk	in	PART-OF
 meat	diet	in	PART-OF
@@ -953,6 +1118,7 @@ early onset puberty	meat	in	PART-OF
 vegetables	ability	in	PART-OF
 cancers	meat	in	PART-OF
 nitrates	plants	in	PART-OF
+heme iron	animal products	in	PART-OF
 protein	cow	in	PART-OF
 antioxidants	plant	in	PART-OF
 fish	fecal contamination	in	PART-OF
@@ -965,23 +1131,29 @@ antibiotics	meat	in	PART-OF
 contaminants	fish	in	PART-OF
 hormones	meat	in	PART-OF
 trans fat	meat	in	PART-OF
+insulin	milk	in	PART-OF
 phytonutrients	fruit	in	PART-OF
+cancer prevention	health	in	PART-OF
+contamination	poultry	in	PART-OF
 arachidonic acid	fish	in	PART-OF
 dairy	meat	in	PART-OF
 proteins	milk	in	PART-OF
 phytonutrient	black pepper	in	PART-OF
+heavy metals	creatine	in	PART-OF
 worm	fish	in	PART-OF
 zinc	plant foods	in	PART-OF
 vegetables	cancer	in	PART-OF
 potassium	plant	in	PART-OF
 phytates	whole grains	in	PART-OF
 phytonutrients	eggs	in	PART-OF
+radioactive iodine	milk	in	PART-OF
 disease	chicken	in	PART-OF
 disease	prevalence	in	PART-OF
 sulfur	plant proteins	in	PART-OF
 fish	fukushima	in	PART-OF
 fiber	fruits	in	PART-OF
 inflammation	antioxidants	in	PART-OF
+cancer prevention	poultry	in	PART-OF
 phytonutrients	flax seeds	in	PART-OF
 hormones	dairy	in	PART-OF
 plant-based diets	symptoms	in	PART-OF
@@ -994,36 +1166,44 @@ diseases	dairy	in	PART-OF
 cancer	prostate cancer	in	PART-OF
 antioxidants	tea	in	PART-OF
 plants	diet	in	PART-OF
+viruses	poultry	in	PART-OF
 protein	kidney function	in	PART-OF
 xenoestrogens	fish	in	PART-OF
 chain omega-3s	plant foods	in	PART-OF
 fish	wisconsin	in	PART-OF
 heavy metals	meat	in	PART-OF
+berries	milk	in	PART-OF
+galactose	milk	in	PART-OF
 fiber	meat	in	PART-OF
+acne	milk	in	PART-OF
 symptoms	kids	in	PART-OF
 phytonutrients	soy	in	PART-OF
 chemical pollutants	meat	in	PART-OF
 cells	cancer	in	PART-OF
+casomorphin	milk	in	PART-OF
 protein	wheat	in	PART-OF
 toxins	seafood	in	PART-OF
 cancer	vegetarian	in	PART-OF
 phytonutrients	broccoli	in	PART-OF
 salicylic acid	fruits	in	PART-OF
 contamination	meat	in	PART-OF
+bovine leukemia	milk	in	PART-OF
 antibiotic residues	meat	in	PART-OF
 neurotoxins	meat	in	PART-OF
-diseases	children	in	PART-OF
 oxidation	cancer	in	PART-OF
 estrogen	meat	in	PART-OF
 phytonutrients	soy foods	in	PART-OF
+pigment	turmeric	in	PART-OF
 toxins	meat	in	PART-OF
 angiogenesis inhibitors	plant	in	PART-OF
 patient	diet	in	PART-OF
-disease	children	in	PART-OF
 nitrate	vegetables	in	PART-OF
 antibodies	cancer	in	PART-OF
+amino acids	animal proteins	in	PART-OF
+amino acids	milk	in	PART-OF
 chemicals	fish	in	PART-OF
 chemicals	processed meat	in	PART-OF
+acid	vinegar	in	PART-OF
 fiber	plant	in	PART-OF
 phytonutrients	cranberries	in	PART-OF
 toxins	apples	in	PART-OF
@@ -1034,7 +1214,9 @@ diseases	vegetarians	in	PART-OF
 antioxidant	leafy	in	PART-OF
 ammonia	meat	in	PART-OF
 toxin	tuna	in	PART-OF
+teats	milk	in	PART-OF
 dioxins	fish	in	PART-OF
+pigment	cancer cells	in	PART-OF
 parasites	meat	in	PART-OF
 symptoms	fibromyalgia	in	PART-OF
 pollutant	fish	in	PART-OF
@@ -1048,6 +1230,7 @@ antibiotic resistance	bacteria	in	PART-OF
 active ingredient	diet	in	PART-OF
 steroids	supplements	in	PART-OF
 viruses	meat	in	PART-OF
+plant-based diets	diabetes rates	in	PART-OF
 phytonutrients	nuts	in	PART-OF
 copper	fish	in	PART-OF
 mineral	whole grains	in	PART-OF
@@ -1058,12 +1241,12 @@ animal protein	meat	in	PART-OF
 disease	workers	in	PART-OF
 phytonutrient	cherries	in	PART-OF
 diets	kale	in	PART-OF
-symptoms	children	in	PART-OF
 diets	berries	in	PART-OF
 blood	meat	in	PART-OF
 protein	meat	in	PART-OF
 protein	sodium	in	PART-OF
 arachidonic acid	plants	in	PART-OF
+pesticides	animal products	in	PART-OF
 phytonutrients	red wine	in	PART-OF
 pollutants	walnuts	in	PART-OF
 brain parasites	meat	in	PART-OF
@@ -1076,6 +1259,7 @@ active ingredient	fruits	in	PART-OF
 molecules	plants	in	PART-OF
 phytonutrients	junk foods	in	PART-OF
 inflammation	plant foods	in	PART-OF
+contaminants	milk	in	PART-OF
 cancer	chickens	in	PART-OF
 superbugs	meat	in	PART-OF
 industrial toxins	fish	in	PART-OF
@@ -1083,9 +1267,10 @@ colon cancer	fruits	in	PART-OF
 endocrine disrupting chemicals	meat	in	PART-OF
 hormone	fat	in	PART-OF
 disease	alzheimer	in	PART-OF
-cancers	children	in	PART-OF
 heavy metals	protein	in	PART-OF
+manure	milk	in	PART-OF
 toxins	animal products	in	PART-OF
+leukemia	milk	in	PART-OF
 bone cells	plant foods	in	PART-OF
 fish	chinese restaurants	in	PART-OF
 plant-based diets	uganda	in	PART-OF
@@ -1097,6 +1282,7 @@ cadmium	plant	in	PART-OF
 iron	meat	in	PART-OF
 phytates	legumes	in	PART-OF
 phosphorus	meat	in	PART-OF
+folate	greens	in	PART-OF
 c. diff	meat	in	PART-OF
 pollutants	diabetes	in	PART-OF
 phytonutrient	green tea	in	PART-OF
@@ -1104,23 +1290,29 @@ antioxidants	grains	in	PART-OF
 steroids	meat	in	PART-OF
 colors	fruits	in	PART-OF
 hormones	eggs	in	PART-OF
+pesticides	milk	in	PART-OF
 spike	symptoms	in	PART-OF
 chemicals	meat	in	PART-OF
 phytonutrients	cruciferous vegetables	in	PART-OF
 aid	cancer	in	PART-OF
 pollutants	salmon	in	PART-OF
 inflammation	carcinoma	in	PART-OF
+pigment	curry powder	in	PART-OF
 symptoms	patients	in	PART-OF
+salmonella	poultry	in	PART-OF
+manure	poultry	in	PART-OF
 proteins	cow	in	PART-OF
 antioxidants	plant foods	in	PART-OF
 big spike	inflammation	in	PART-OF
 phytonutrients	raisins	in	PART-OF
 hydrogen sulfide	plant foods	in	PART-OF
 no fiber	meat	in	PART-OF
+goji berries	milk	in	PART-OF
 steroid hormones	meat	in	PART-OF
 omega-3 fatty acids	fish	in	PART-OF
 toxins	fish	in	PART-OF
 phytosterols	plant	in	PART-OF
+fats	animal products	in	PART-OF
 heavy metals	fish	in	PART-OF
 vitamin c	cancer	in	PART-OF
 toxins	raw mushrooms	in	PART-OF
@@ -1131,35 +1323,43 @@ organs	antioxidants	in	PART-OF
 protein	life	in	PART-OF
 allergies	fish	in	PART-OF
 saturated fat	meat	in	PART-OF
+agent	poultry	in	PART-OF
 phytonutrients	raw broccoli	in	PART-OF
 phosphorus	plant	in	PART-OF
 salmonella	meat	in	PART-OF
 pollutants	vegans	in	PART-OF
+contaminants	animal products	in	PART-OF
 serotonin	plants	in	PART-OF
 meat carcinogens	fish	in	PART-OF
 hormones	acne	in	PART-OF
 phytonutrients	supplement	in	PART-OF
 antioxidants	disease	in	PART-OF
 human carcinogen	meat	in	PART-OF
+cancer-causing viruses	poultry	in	PART-OF
+steroid hormones	milk	in	PART-OF
 sex steroid hormones	meat	in	PART-OF
 disease	livestock	in	PART-OF
 drug residues	meat	in	PART-OF
 bioaccumulate	fish	in	PART-OF
 fiber	plants	in	PART-OF
+carbs	lentil	in	PART-OF
 phytonutrients	green tea	in	PART-OF
 phosphorus	plant foods	in	PART-OF
 angiogenesis inhibitors	plant foods	in	PART-OF
+salmonella contamination	poultry	in	PART-OF
+infertility	meat	in	PART-OF
 vitamin c	meat	in	PART-OF
+iron	animal products	in	PART-OF
 phytonutrients	spices	in	PART-OF
 glycotoxins	inflammation	in	PART-OF
 spike	inflammation	in	PART-OF
 protein	soy	in	PART-OF
-spices	videos	in	PART-OF
 nitrosamines	meat	in	PART-OF
 fructose	fruit	in	PART-OF
 diseases	plant	in	PART-OF
 antioxidants	fruits	in	PART-OF
 chemicals	tumor	in	PART-OF
+casein	milk	in	PART-OF
 diseases	adulthood	in	PART-OF
 hormones	adulthood	in	PART-OF
 protein	sweet potatoes	in	PART-OF
@@ -1167,6 +1367,7 @@ mercury	fish	in	PART-OF
 neurotransmitters	plants	in	PART-OF
 purines	plants	in	PART-OF
 carbs	plant	in	PART-OF
+pigments	greens	in	PART-OF
 phytonutrients	blueberries	in	PART-OF
 hexachlorobenzene	fish	in	PART-OF
 chemical	ginger	in	PART-OF
@@ -1183,19 +1384,27 @@ dietary fiber	plants	in	PART-OF
 loss	phytonutrient	in	PART-OF
 bacteria	remission	in	PART-OF
 survival	cancer	in	PART-OF
+pigment	tomatoes	in	PART-OF
 mortality	cancer	in	PART-OF
+contaminants	chicken	in	PART-OF
+endotoxins	animal products	in	PART-OF
 phytosterols	plant foods	in	PART-OF
 fat	meat	in	PART-OF
 cancer	poultry	in	PART-OF
 dha	fish	, found in	PART-OF
 cancer	vegetables	without the	PART-OF
 side effects	rheumatoid arthritis	without the	PART-OF
-side effects	drug	without the	PART-OF
 cancer risk	vegetables	without the	PART-OF
 preservative	fruits	without the	PART-OF
+side effects	drug	without the	PART-OF
+carbs	oatmeal	packed with	PART-OF
 plants	diet	packed with	PART-OF
 antioxidants	vegetables	packed with	PART-OF
+side effects	drug	, without the	PART-OF
+fat	phytonutrients	, without the	PART-OF
+drug	drugs	, without the	PART-OF
 phytonutrients	dates	have	PART-OF
+health	processed foods	have	PART-OF
 antioxidants	grapes	have	PART-OF
 phytonutrients	sea vegetables	have	PART-OF
 fiber	plants	have	PART-OF
@@ -1203,11 +1412,18 @@ dna	plants	have	PART-OF
 fiber	plant foods	have	PART-OF
 antioxidants	vegetables	have	PART-OF
 nicotine	plants	have	PART-OF
+myrosinase	greens	have	PART-OF
 phosphorus	animal foods	have	PART-OF
 antioxidants	kiwifruits	have	PART-OF
 phosphorus	protein	has	PART-OF
 bumped	diet	has	PART-OF
 health benefits	spice	has	PART-OF
+copper	disease	have higher levels of	PART-OF
+cadmium	meat	have higher levels of	PART-OF
+ddt	fish	have higher levels of	PART-OF
+plants	diets	full of	PART-OF
+plants	diet	full of	PART-OF
+plant foods	diet	full of	PART-OF
 meat	fortification	in	PART-OF-I
 poultry meat	chemicals	in	PART-OF-I
 plant foods	phytonutrients	in	PART-OF-I
@@ -1217,13 +1433,16 @@ foie gras	diseases	in	PART-OF-I
 meat	antibodies	in	PART-OF-I
 pork	protein	in	PART-OF-I
 antioxidants	peppermint	in	PART-OF-I
+greens	vitamin	in	PART-OF-I
 fruits	vitamin c	in	PART-OF-I
 meat	vegetables	in	PART-OF-I
 inflammation	bacterial endotoxins	in	PART-OF-I
 fruits	flavonoid phytonutrients	in	PART-OF-I
 chickens	diseases	in	PART-OF-I
+girls	milk	in	PART-OF-I
 diet	aspartame	in	PART-OF-I
 drug	contamination	in	PART-OF-I
+berries	pigments	in	PART-OF-I
 meat	heme iron	in	PART-OF-I
 arthritis	inflammation	in	PART-OF-I
 bacon	cancer	in	PART-OF-I
@@ -1241,6 +1460,8 @@ adolescence	diet	in	PART-OF-I
 kiwis	phytonutrient	in	PART-OF-I
 bacteria	dna mutations	in	PART-OF-I
 meat	cholesterol	in	PART-OF-I
+poultry	prevention	in	PART-OF-I
+grapes	pigments	in	PART-OF-I
 plant	zinc	in	PART-OF-I
 plant foods	carcinogens	in	PART-OF-I
 fruits	nitrosamine production	in	PART-OF-I
@@ -1256,6 +1477,7 @@ broccoli	phytonutrient	in	PART-OF-I
 meat	glycotoxins	in	PART-OF-I
 protein	leucine	in	PART-OF-I
 grapes	phytonutrients	in	PART-OF-I
+poultry	muscle tissues	in	PART-OF-I
 vegans	industrial pollutants	in	PART-OF-I
 fish	industrial contaminants	in	PART-OF-I
 eggs	chemicals	in	PART-OF-I
@@ -1270,9 +1492,13 @@ disease	play	in	PART-OF-I
 cancer	plant foods	in	PART-OF-I
 uganda	diets	in	PART-OF-I
 ammonia	cancer	in	PART-OF-I
+protein powder supplements	heavy metals	in	PART-OF-I
+poultry	cancer-causing herpesvirus	in	PART-OF-I
 salad	phytonutrients	in	PART-OF-I
+cheese	contaminants	in	PART-OF-I
 plants	dna	in	PART-OF-I
 chicken	chemicals	in	PART-OF-I
+poultry	virus	in	PART-OF-I
 beans	plant-based diets	in	PART-OF-I
 vegetables	nitrates	in	PART-OF-I
 cocoa	phytonutrients	in	PART-OF-I
@@ -1280,6 +1506,7 @@ fruit	fiber	in	PART-OF-I
 meat	bacteria	in	PART-OF-I
 vegans	hormones	in	PART-OF-I
 green	cruciferous vegetables	in	PART-OF-I
+protein powder	heavy metals	in	PART-OF-I
 sheep	disease	in	PART-OF-I
 meat	arachidonic acid	in	PART-OF-I
 chocolate	phytonutrients	in	PART-OF-I
@@ -1294,6 +1521,7 @@ fruit	sugar	in	PART-OF-I
 meat	cancer	in	PART-OF-I
 fish	neurotoxins	in	PART-OF-I
 fruits	phytonutrients	in	PART-OF-I
+milk	bioactive molecules	in	PART-OF-I
 ayurvedic medicine	plant	in	PART-OF-I
 fish	coloring	in	PART-OF-I
 cranberries	antioxidants	in	PART-OF-I
@@ -1306,10 +1534,13 @@ plant	survival	in	PART-OF-I
 meat	arsenic	in	PART-OF-I
 oats	phytonutrients	in	PART-OF-I
 meat	asian diets	in	PART-OF-I
+milk	calcium	in	PART-OF-I
 cigarette smoke	toxins	in	PART-OF-I
 meat	carcinogens	in	PART-OF-I
 white bread	antioxidants	in	PART-OF-I
+milk	sugar	in	PART-OF-I
 plant foods	cadmium	in	PART-OF-I
+poultry	fecal contamination	in	PART-OF-I
 meat	obesogens	in	PART-OF-I
 fish	fat	in	PART-OF-I
 cancer prevention	plant foods	in	PART-OF-I
@@ -1319,10 +1550,10 @@ chickens	cancers	in	PART-OF-I
 plant	phytonutrients	in	PART-OF-I
 tea	phytonutrients	in	PART-OF-I
 fish oil	pollutants	in	PART-OF-I
-fish	pregnant women	in	PART-OF-I
 skim	hormones	in	PART-OF-I
 legumes	polyphenols	in	PART-OF-I
 meat	growth promoters	in	PART-OF-I
+cardiovascular disease	herbs	in	PART-OF-I
 plants	phytoestrogens	in	PART-OF-I
 dairy products	hormones	in	PART-OF-I
 meat	chicken	in	PART-OF-I
@@ -1331,13 +1562,17 @@ meat	ldl cholesterol	in	PART-OF-I
 meat	molecule	in	PART-OF-I
 seafood	pollutants	in	PART-OF-I
 pigs	disease	in	PART-OF-I
+poultry	mortality	in	PART-OF-I
 cherries	phytonutrients	in	PART-OF-I
 plant foods	protein	in	PART-OF-I
+milk	bovine casomorphin	in	PART-OF-I
+health	xenoestrogens	in	PART-OF-I
 beef	hormones	in	PART-OF-I
 plants	aspirin	in	PART-OF-I
 meat	pathogens	in	PART-OF-I
 plants	antioxidants	in	PART-OF-I
 pills	hormones	in	PART-OF-I
+chicken products	contaminants	in	PART-OF-I
 fish	omega	in	PART-OF-I
 milk	hormones	in	PART-OF-I
 diet	meat	in	PART-OF-I
@@ -1348,6 +1583,7 @@ meat	early onset puberty	in	PART-OF-I
 ability	vegetables	in	PART-OF-I
 meat	cancers	in	PART-OF-I
 plants	nitrates	in	PART-OF-I
+animal products	heme iron	in	PART-OF-I
 cow	protein	in	PART-OF-I
 plant	antioxidants	in	PART-OF-I
 fecal contamination	fish	in	PART-OF-I
@@ -1360,23 +1596,29 @@ meat	antibiotics	in	PART-OF-I
 fish	contaminants	in	PART-OF-I
 meat	hormones	in	PART-OF-I
 meat	trans fat	in	PART-OF-I
+milk	insulin	in	PART-OF-I
 fruit	phytonutrients	in	PART-OF-I
+health	cancer prevention	in	PART-OF-I
+poultry	contamination	in	PART-OF-I
 fish	arachidonic acid	in	PART-OF-I
 meat	dairy	in	PART-OF-I
 milk	proteins	in	PART-OF-I
 black pepper	phytonutrient	in	PART-OF-I
+creatine	heavy metals	in	PART-OF-I
 fish	worm	in	PART-OF-I
 plant foods	zinc	in	PART-OF-I
 cancer	vegetables	in	PART-OF-I
 plant	potassium	in	PART-OF-I
 whole grains	phytates	in	PART-OF-I
 eggs	phytonutrients	in	PART-OF-I
+milk	radioactive iodine	in	PART-OF-I
 chicken	disease	in	PART-OF-I
 prevalence	disease	in	PART-OF-I
 plant proteins	sulfur	in	PART-OF-I
 fukushima	fish	in	PART-OF-I
 fruits	fiber	in	PART-OF-I
 antioxidants	inflammation	in	PART-OF-I
+poultry	cancer prevention	in	PART-OF-I
 flax seeds	phytonutrients	in	PART-OF-I
 dairy	hormones	in	PART-OF-I
 symptoms	plant-based diets	in	PART-OF-I
@@ -1389,36 +1631,44 @@ dairy	diseases	in	PART-OF-I
 prostate cancer	cancer	in	PART-OF-I
 tea	antioxidants	in	PART-OF-I
 diet	plants	in	PART-OF-I
+poultry	viruses	in	PART-OF-I
 kidney function	protein	in	PART-OF-I
 fish	xenoestrogens	in	PART-OF-I
 plant foods	chain omega-3s	in	PART-OF-I
 wisconsin	fish	in	PART-OF-I
 meat	heavy metals	in	PART-OF-I
+milk	berries	in	PART-OF-I
+milk	galactose	in	PART-OF-I
 meat	fiber	in	PART-OF-I
+milk	acne	in	PART-OF-I
 kids	symptoms	in	PART-OF-I
 soy	phytonutrients	in	PART-OF-I
 meat	chemical pollutants	in	PART-OF-I
 cancer	cells	in	PART-OF-I
+milk	casomorphin	in	PART-OF-I
 wheat	protein	in	PART-OF-I
 seafood	toxins	in	PART-OF-I
 vegetarian	cancer	in	PART-OF-I
 broccoli	phytonutrients	in	PART-OF-I
 fruits	salicylic acid	in	PART-OF-I
 meat	contamination	in	PART-OF-I
+milk	bovine leukemia	in	PART-OF-I
 meat	antibiotic residues	in	PART-OF-I
 meat	neurotoxins	in	PART-OF-I
-children	diseases	in	PART-OF-I
 cancer	oxidation	in	PART-OF-I
 meat	estrogen	in	PART-OF-I
 soy foods	phytonutrients	in	PART-OF-I
+turmeric	pigment	in	PART-OF-I
 meat	toxins	in	PART-OF-I
 plant	angiogenesis inhibitors	in	PART-OF-I
 diet	patient	in	PART-OF-I
-children	disease	in	PART-OF-I
 vegetables	nitrate	in	PART-OF-I
 cancer	antibodies	in	PART-OF-I
+animal proteins	amino acids	in	PART-OF-I
+milk	amino acids	in	PART-OF-I
 fish	chemicals	in	PART-OF-I
 processed meat	chemicals	in	PART-OF-I
+vinegar	acid	in	PART-OF-I
 plant	fiber	in	PART-OF-I
 cranberries	phytonutrients	in	PART-OF-I
 apples	toxins	in	PART-OF-I
@@ -1429,7 +1679,9 @@ vegetarians	diseases	in	PART-OF-I
 leafy	antioxidant	in	PART-OF-I
 meat	ammonia	in	PART-OF-I
 tuna	toxin	in	PART-OF-I
+milk	teats	in	PART-OF-I
 fish	dioxins	in	PART-OF-I
+cancer cells	pigment	in	PART-OF-I
 meat	parasites	in	PART-OF-I
 fibromyalgia	symptoms	in	PART-OF-I
 fish	pollutant	in	PART-OF-I
@@ -1443,6 +1695,7 @@ bacteria	antibiotic resistance	in	PART-OF-I
 diet	active ingredient	in	PART-OF-I
 supplements	steroids	in	PART-OF-I
 meat	viruses	in	PART-OF-I
+diabetes rates	plant-based diets	in	PART-OF-I
 nuts	phytonutrients	in	PART-OF-I
 fish	copper	in	PART-OF-I
 whole grains	mineral	in	PART-OF-I
@@ -1453,12 +1706,12 @@ meat	animal protein	in	PART-OF-I
 workers	disease	in	PART-OF-I
 cherries	phytonutrient	in	PART-OF-I
 kale	diets	in	PART-OF-I
-children	symptoms	in	PART-OF-I
 berries	diets	in	PART-OF-I
 meat	blood	in	PART-OF-I
 meat	protein	in	PART-OF-I
 sodium	protein	in	PART-OF-I
 plants	arachidonic acid	in	PART-OF-I
+animal products	pesticides	in	PART-OF-I
 red wine	phytonutrients	in	PART-OF-I
 walnuts	pollutants	in	PART-OF-I
 meat	brain parasites	in	PART-OF-I
@@ -1471,6 +1724,7 @@ fruits	active ingredient	in	PART-OF-I
 plants	molecules	in	PART-OF-I
 junk foods	phytonutrients	in	PART-OF-I
 plant foods	inflammation	in	PART-OF-I
+milk	contaminants	in	PART-OF-I
 chickens	cancer	in	PART-OF-I
 meat	superbugs	in	PART-OF-I
 fish	industrial toxins	in	PART-OF-I
@@ -1478,9 +1732,10 @@ fruits	colon cancer	in	PART-OF-I
 meat	endocrine disrupting chemicals	in	PART-OF-I
 fat	hormone	in	PART-OF-I
 alzheimer	disease	in	PART-OF-I
-children	cancers	in	PART-OF-I
 protein	heavy metals	in	PART-OF-I
+milk	manure	in	PART-OF-I
 animal products	toxins	in	PART-OF-I
+milk	leukemia	in	PART-OF-I
 plant foods	bone cells	in	PART-OF-I
 chinese restaurants	fish	in	PART-OF-I
 uganda	plant-based diets	in	PART-OF-I
@@ -1492,6 +1747,7 @@ plant	cadmium	in	PART-OF-I
 meat	iron	in	PART-OF-I
 legumes	phytates	in	PART-OF-I
 meat	phosphorus	in	PART-OF-I
+greens	folate	in	PART-OF-I
 meat	c. diff	in	PART-OF-I
 diabetes	pollutants	in	PART-OF-I
 green tea	phytonutrient	in	PART-OF-I
@@ -1499,23 +1755,29 @@ grains	antioxidants	in	PART-OF-I
 meat	steroids	in	PART-OF-I
 fruits	colors	in	PART-OF-I
 eggs	hormones	in	PART-OF-I
+milk	pesticides	in	PART-OF-I
 symptoms	spike	in	PART-OF-I
 meat	chemicals	in	PART-OF-I
 cruciferous vegetables	phytonutrients	in	PART-OF-I
 cancer	aid	in	PART-OF-I
 salmon	pollutants	in	PART-OF-I
 carcinoma	inflammation	in	PART-OF-I
+curry powder	pigment	in	PART-OF-I
 patients	symptoms	in	PART-OF-I
+poultry	salmonella	in	PART-OF-I
+poultry	manure	in	PART-OF-I
 cow	proteins	in	PART-OF-I
 plant foods	antioxidants	in	PART-OF-I
 inflammation	big spike	in	PART-OF-I
 raisins	phytonutrients	in	PART-OF-I
 plant foods	hydrogen sulfide	in	PART-OF-I
 meat	no fiber	in	PART-OF-I
+milk	goji berries	in	PART-OF-I
 meat	steroid hormones	in	PART-OF-I
 fish	omega-3 fatty acids	in	PART-OF-I
 fish	toxins	in	PART-OF-I
 plant	phytosterols	in	PART-OF-I
+animal products	fats	in	PART-OF-I
 fish	heavy metals	in	PART-OF-I
 cancer	vitamin c	in	PART-OF-I
 raw mushrooms	toxins	in	PART-OF-I
@@ -1526,35 +1788,43 @@ antioxidants	organs	in	PART-OF-I
 life	protein	in	PART-OF-I
 fish	allergies	in	PART-OF-I
 meat	saturated fat	in	PART-OF-I
+poultry	agent	in	PART-OF-I
 raw broccoli	phytonutrients	in	PART-OF-I
 plant	phosphorus	in	PART-OF-I
 meat	salmonella	in	PART-OF-I
 vegans	pollutants	in	PART-OF-I
+animal products	contaminants	in	PART-OF-I
 plants	serotonin	in	PART-OF-I
 fish	meat carcinogens	in	PART-OF-I
 acne	hormones	in	PART-OF-I
 supplement	phytonutrients	in	PART-OF-I
 disease	antioxidants	in	PART-OF-I
 meat	human carcinogen	in	PART-OF-I
+poultry	cancer-causing viruses	in	PART-OF-I
+milk	steroid hormones	in	PART-OF-I
 meat	sex steroid hormones	in	PART-OF-I
 livestock	disease	in	PART-OF-I
 meat	drug residues	in	PART-OF-I
 fish	bioaccumulate	in	PART-OF-I
 plants	fiber	in	PART-OF-I
+lentil	carbs	in	PART-OF-I
 green tea	phytonutrients	in	PART-OF-I
 plant foods	phosphorus	in	PART-OF-I
 plant foods	angiogenesis inhibitors	in	PART-OF-I
+poultry	salmonella contamination	in	PART-OF-I
+meat	infertility	in	PART-OF-I
 meat	vitamin c	in	PART-OF-I
+animal products	iron	in	PART-OF-I
 spices	phytonutrients	in	PART-OF-I
 inflammation	glycotoxins	in	PART-OF-I
 inflammation	spike	in	PART-OF-I
 soy	protein	in	PART-OF-I
-videos	spices	in	PART-OF-I
 meat	nitrosamines	in	PART-OF-I
 fruit	fructose	in	PART-OF-I
 plant	diseases	in	PART-OF-I
 fruits	antioxidants	in	PART-OF-I
 tumor	chemicals	in	PART-OF-I
+milk	casein	in	PART-OF-I
 adulthood	diseases	in	PART-OF-I
 adulthood	hormones	in	PART-OF-I
 sweet potatoes	protein	in	PART-OF-I
@@ -1562,6 +1832,7 @@ fish	mercury	in	PART-OF-I
 plants	neurotransmitters	in	PART-OF-I
 plants	purines	in	PART-OF-I
 plant	carbs	in	PART-OF-I
+greens	pigments	in	PART-OF-I
 blueberries	phytonutrients	in	PART-OF-I
 fish	hexachlorobenzene	in	PART-OF-I
 ginger	chemical	in	PART-OF-I
@@ -1578,19 +1849,27 @@ plants	dietary fiber	in	PART-OF-I
 phytonutrient	loss	in	PART-OF-I
 remission	bacteria	in	PART-OF-I
 cancer	survival	in	PART-OF-I
+tomatoes	pigment	in	PART-OF-I
 cancer	mortality	in	PART-OF-I
+chicken	contaminants	in	PART-OF-I
+animal products	endotoxins	in	PART-OF-I
 plant foods	phytosterols	in	PART-OF-I
 meat	fat	in	PART-OF-I
 poultry	cancer	in	PART-OF-I
 fish	dha	, found in	PART-OF-I
 vegetables	cancer	without the	PART-OF-I
 rheumatoid arthritis	side effects	without the	PART-OF-I
-drug	side effects	without the	PART-OF-I
 vegetables	cancer risk	without the	PART-OF-I
 fruits	preservative	without the	PART-OF-I
+drug	side effects	without the	PART-OF-I
+oatmeal	carbs	packed with	PART-OF-I
 diet	plants	packed with	PART-OF-I
 vegetables	antioxidants	packed with	PART-OF-I
+drug	side effects	, without the	PART-OF-I
+phytonutrients	fat	, without the	PART-OF-I
+drugs	drug	, without the	PART-OF-I
 dates	phytonutrients	have	PART-OF-I
+processed foods	health	have	PART-OF-I
 grapes	antioxidants	have	PART-OF-I
 sea vegetables	phytonutrients	have	PART-OF-I
 plants	fiber	have	PART-OF-I
@@ -1598,8 +1877,14 @@ plants	dna	have	PART-OF-I
 plant foods	fiber	have	PART-OF-I
 vegetables	antioxidants	have	PART-OF-I
 plants	nicotine	have	PART-OF-I
+greens	myrosinase	have	PART-OF-I
 animal foods	phosphorus	have	PART-OF-I
 kiwifruits	antioxidants	have	PART-OF-I
 protein	phosphorus	has	PART-OF-I
 diet	bumped	has	PART-OF-I
 spice	health benefits	has	PART-OF-I
+disease	copper	have higher levels of	PART-OF-I
+meat	cadmium	have higher levels of	PART-OF-I
+fish	ddt	have higher levels of	PART-OF-I
+diets	plants	full of	PART-OF-I
+diet	plants	full of	PART-OF-I

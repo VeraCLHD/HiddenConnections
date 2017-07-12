@@ -5,11 +5,15 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.List;
+import java.util.Map;
 import java.util.Set;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 import org.apache.lucene.queryparser.classic.ParseException;
+import org.jsoup.Connection;
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
 
 import bootstrapping.Bootstrapper;
 import edu.stanford.nlp.parser.lexparser.LexicalizedParser;
@@ -24,6 +28,30 @@ public class TesterForStuff {
 	public static final String pathToAllTerms = "terms/all_terms_and_variants_with10_filtered.txt";
 
 	public static void main(String[] args) {
+		/*Document doc;
+		try {
+			 Connection.Response loginForm = Jsoup.connect("http://scienceofdiet.com/login").userAgent("vera bachelorarbeit")
+			            .method(Connection.Method.GET)
+			            .execute();
+
+			    Connection.Response mainPage = Jsoup.connect("http://scienceofdiet.com/login")
+			            .data("user", "vera.boteva@yahoo.de")
+			            .data("senha", "vera2561")
+			            .cookies(loginForm.cookies())
+			            .execute();
+
+			    Map<String, String> cookies = mainPage.cookies();
+
+			    Document evaluationPage = Jsoup.connect("http://scienceofdiet.com/login")
+			            .cookies(cookies)
+			            .execute().parse();
+			    
+			   System.out.println(evaluationPage);
+			doc = Jsoup.connect("http://scienceofdiet.com/login").userAgent("vera bachelor thesis").get();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}*/
 		/*String sentenceString = "I like the things I like.";
 		String pattern = "like";
 		final Matcher matcher = Pattern.compile( "\\b" +
@@ -78,7 +106,7 @@ public class TesterForStuff {
 		
 		//TesterForStuff.GetNounPhrases();
 		//parseTree();
-		tagTerms();
+		//tagTerms();
 	
 	}
 	

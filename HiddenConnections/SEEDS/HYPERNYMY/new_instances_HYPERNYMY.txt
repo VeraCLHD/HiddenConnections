@@ -4,10 +4,8 @@ vegetables	bok choy
 beet juice	nitrate
 daily diet	vegetarian
 saturated fat	beef
-million americans	blind
 sorbitol	sugar
 diverticulosis	disease
-calcium supplements	doing
 vegetarians	iodine
 multiple sclerosis	beta
 american diet	meat
@@ -15,7 +13,6 @@ diseases	heart disease
 leading killer	parkinson
 galactose	milk
 who	leaner
-video	vitamin d
 drug	aspirin
 infants	breastmilk
 rose hips	fruits
@@ -30,7 +27,6 @@ colon	butyrate
 greens	fat soluble
 nutrition	diet
 milk	muscles
-million americans	gluten
 who	insulin
 colic	pain
 kids	muscles
@@ -39,11 +35,9 @@ cortisol	stress hormone
 vegetable	bell peppers
 workers	diseases
 death	choline
-standard american diet	doing
 casein	milk protein
 maspin	tumor suppressor gene
 fruits	eaten
-video	homeopathy
 pcbs	fish consumption
 breast cancer survival	flax seeds
 table sugar	fructose
@@ -56,16 +50,12 @@ plant-based diets	beta
 gmo soy	gmo
 calorie	junk
 greens	health-promoting
-erythritol	nontoxic
 neurotoxins	bmaa
-americans	vitamin d
 vegetables	potato chips
 teens	pizza
 longevity	legumes
 breast tumors	estrogen receptor
 rhubarb	roots
-children	vegan diet
-poultry	risk factor
 chickens	fatty
 antioxidants	dandelion
 who	pritikin
@@ -77,25 +67,18 @@ omega	bioequivalent
 infection	hen
 mediterranean diet	diet high
 diet	vegetables
-video	protein
 who	lactose
 streak	baby
 pecans	chart
 herbal tea	hibiscus
 candy	phytonutrient-rich
-videos	multivitamins
 who	happier
-rays	doing
-journalists	doing
 babies	breast fed
 snacks	fruit
 gluten	fine
-videos	noni juice
 iron	pro-oxidant
 raw	bell peppers
-women	heart disease
 scurvy	vitamin c
-video	gluten sensitivity
 exercise	stress
 exercise	medicine
 berries	stars
@@ -109,7 +92,6 @@ baking soda	sodium bicarbonate
 tea	fine
 american diet	dairy products
 balsamic vinegar	product
-exercise	risk factor
 brain	fat
 tomatoes	water
 osteoarthritis	degenerative joint
@@ -123,8 +105,6 @@ antioxidants	boiling
 birds	chemicals
 gluten sensitivity	disease
 stones	calcium
-video	milk
-video	monsanto
 diverticulosis	fiber
 symptoms	heartburn
 salad	fat soluble
@@ -135,38 +115,29 @@ signal	igf
 fruit	fine
 dietary guidelines	fine
 peas	roots
-diabetes	risk factor
 flight	apple juice
 citrus fruits	acidic
 plant protein	protein
-video	goji berries
 fiber	potassium
 disease	exercise
 nitrites	preservatives
 label	lying
 putrescine	chemical
 infants	fatter
-video	cats
 campylobacter	poultry
 tomatoes	billion dollar
 taking statins	suffering
-teeth	brushed
 strokes	killer
-depression	risk factor
 lutein	carotenoid phytonutrient
 heart	beating
 signal	butyrate
 nettle tea	mineral
 pesticides	fruits
-women	dying
-video	gluten
 mediterranean diet	sodium intake
-video	fatty foods
 salicylic acid	defense
 beans	fruit
 mushrooms	vitamin d
 milk	trigger
-children	eaten
 tea	beans
 garbanzo bean	legume
 aging	disease
@@ -174,7 +145,6 @@ drugs	exposures
 supplements	bit
 vision loss	cataracts
 liver cancer	diseases
-video	fish oil
 diverticula	outpouchings
 green leafies	roots
 cells	dying

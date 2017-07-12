@@ -1,17 +1,13 @@
 
-risk	dairy
 girls	french fries
 iron	diabetes
 poultry	liver
-fruits	risk
 meat	inflammation
-risk	smoking
 carbs	pancreatic cancer
 blood	depression
 xenoestrogens	birth defects
 production	ulcerative colitis
 pain	osteoarthritis
-risk	veganism
 animal products	weight gain
 sperm counts	processed meat
 fertility	saturated fat
@@ -19,24 +15,14 @@ cholesterol	nonalcoholic fatty liver
 stomach cancer	salt
 sperm counts	meat
 virus	obesity
-risks	diet soda
-risks	lead
 meats	cancers
-risks	heart disease
 farm	blood
-risk	ground beef
 pain	rheumatoid arthritis
 animal foods	coronary heart disease
 deformities	rickets
-risks	brain parasites
 chronic gum disease	sexual dysfunction
-risks	processed meat
-vegetables	risk
 pancreatic cancer	beef
 death	nut
-dried fruit	risk
-risk	multivitamin
-flax seeds	risk
 pcbs	fats
 plant foods	prevotella
 chronic diseases	inflammation
@@ -45,15 +31,11 @@ bpa	cardiovascular disease
 death	galactose
 sugar	pancreatic cancer
 carbohydrates	prevotella
-risk	alcohol
-risk	eggs
 eggs	diabetes
 dental x-rays	brain tumors
 saturated fat	semen
 side effects	drugs
-risk	french fries
 cholesterol	gestational diabetes
-risk	obesity
 poultry workers	wart
 allergy	antibodies
 adolescence	breast cancer

@@ -19,13 +19,10 @@ plants	nicotine
 supplements	vitamin d
 mushrooms	antioxidant
 pregnancy	adverse effects
-vegetarians	risk
 grapes	polyphenols
-women	phthalates
 oatmeal	carbs
 cancer cells	cholesterol
 gluten	bread
-americans	diverticulosis
 diet	plants
 heart attacks	fat
 seeds	phytosterols
@@ -35,16 +32,13 @@ flaxseeds	lignans
 eggs	cholesterol
 antioxidant	fruits
 diets	animal products
-children	carcinogens
 rheumatoid arthritis	side effects
-diseases	risk
 chickens	toxin genes
 milk	hormones
 cheerios	sugar
 seeds	arginine
 beets	oxalates
 plant-based diets	fat
-smoking	risks
 vegetables	sulforaphane
 chicken	salmonella
 massage	fragrance
@@ -72,14 +66,12 @@ broccoli sprouts	sulforaphane
 vegetables	cancer
 plant foods	fiber
 diets	meat
-coca-cola	american
 vegetables	antioxidants
 breast tumors	ldl
 brains	bmaa
 healthy diet	legumes
 yogurt	butter
 greens	enzyme
-americans	aortic aneurysms
 tea	bergamottin
 omega-3 fatty acids	cholesterol
 walnuts	antioxidant
@@ -90,9 +82,7 @@ nutritional yeast	lead
 cruciferous vegetables	enzyme
 diets	plants
 beef	saturated fat
-american	celiac disease
 fish	mercury
-women	iron
 plants	dna
 salsa	lycopene
 china	ddt
@@ -100,7 +90,6 @@ soft drinks	benzene
 water	nutrition
 fish	pcbs
 animal foods	phosphorus
-women	pesticides
 anxiety	downer
 farmers	cancer
 broccoli florets	flower

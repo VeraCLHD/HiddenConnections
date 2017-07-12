@@ -32,29 +32,28 @@ amyloidosis	leprosy	triggered by	CAUSED-BY
 inflammation	kangaroo meat	triggered by	CAUSED-BY
 inflammation	dioxin	triggered by	CAUSED-BY
 asthma	breathing	triggered by	CAUSED-BY
-cancer risk	carcinogens	due to	CAUSED-BY
+calcium intake	dairy consumption	due to	CAUSED-BY
 non-alcoholic fatty liver disease	obesity	due to	CAUSED-BY
+pathogens	noroviruses	due to	CAUSED-BY
 arteries	cholesterol	due to	CAUSED-BY
 oils	steam	due to	CAUSED-BY
 meat	arachidonic acid	due to	CAUSED-BY
+meat	vitamin a	due to	CAUSED-BY
 brain	atherosclerosis	due to	CAUSED-BY
 liver toxicity	broccoli	due to	CAUSED-BY
 chickens	genetic manipulation	due to	CAUSED-BY
 dementia	vitamin	due to	CAUSED-BY
-narrowed arteries	cholesterol	due to	CAUSED-BY
-dementia	vitamin b12	due to	CAUSED-BY
-penis	phthalate	due to	CAUSED-BY
-fecal pathogens	noroviruses	due to	CAUSED-BY
-premature puberty	chemical pollutants	due to	CAUSED-BY
-calcium intake	dairy consumption	due to	CAUSED-BY
-pathogens	noroviruses	due to	CAUSED-BY
-meat	vitamin a	due to	CAUSED-BY
 toxicity	broccoli	due to	CAUSED-BY
 gluten	symptoms	due to	CAUSED-BY
+narrowed arteries	cholesterol	due to	CAUSED-BY
 viruses	manure	due to	CAUSED-BY
 coli exposure	bacteria	due to	CAUSED-BY
+dementia	vitamin b12	due to	CAUSED-BY
 reaction	seafood	due to	CAUSED-BY
+penis	phthalate	due to	CAUSED-BY
 meat	ddt	due to	CAUSED-BY
+fecal pathogens	noroviruses	due to	CAUSED-BY
+premature puberty	chemical pollutants	due to	CAUSED-BY
 phytonutrients	nutrient synergy	due to	CAUSED-BY
 copd	tobacco	is caused by	CAUSED-BY
 cartilage	inflammation	is caused by	CAUSED-BY

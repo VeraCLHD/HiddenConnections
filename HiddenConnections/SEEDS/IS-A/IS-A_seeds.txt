@@ -281,7 +281,6 @@ dump sentences\V-579_7_.txt	drugs	penicillin	like	IS-A	[IN]	1
 dump sentences\V-692_2_.txt	supplements	potassium	such as	IS-A	[JJ, IN]	1
 dump sentences\A-420_33_.txt	legumes	peanuts	such as	IS-A	[JJ, IN]	1
 dump sentences\A-260_5_.txt	pills	tums	like	IS-A	[IN]	1
-dump sentences\A-336_4_.txt	cheese	american	such as	IS-A	[JJ, IN]	1
 dump sentences\A-219_2_.txt	plants	kale	such as	IS-A	[JJ, IN]	1
 dump sentences\T-1352_0_.txt	fruits	oranges	such as	IS-A	[JJ, IN]	1
 dump sentences\V-906_1_.txt	drug	lovastatin	like	IS-A	[IN]	1

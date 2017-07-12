@@ -1,15 +1,15 @@
 
-cancer	vegetables	without the	PART-OF
-side effects	rheumatoid arthritis	without the	PART-OF
-side effects	drug	without the	PART-OF
-preservative	dried fruits	without the	PART-OF
 downer	anxiety	without the	PART-OF
+cancer	vegetables	without the	PART-OF
 saturated fat	beef	without the	PART-OF
+side effects	rheumatoid arthritis	without the	PART-OF
 cancer risk	vegetables	without the	PART-OF
 brain damage	boost	without the	PART-OF
 cholesterol	saturated fat	without the	PART-OF
 egg	saturated fat	without the	PART-OF
 preservative	fruits	without the	PART-OF
+side effects	drug	without the	PART-OF
+preservative	dried fruits	without the	PART-OF
 fragrance	massage	without the	PART-OF
 carbs	oatmeal	packed with	PART-OF
 plants	diet	packed with	PART-OF
@@ -18,7 +18,11 @@ antioxidants	vegetables	packed with	PART-OF
 butter	yogurt	packed with	PART-OF
 gallstones	gallbladder	packed with	PART-OF
 fiber	whole foods	packed with	PART-OF
-diverticulosis	americans	have	PART-OF
+downer	anxiety	, without the	PART-OF
+saturated fat	beef	, without the	PART-OF
+side effects	drug	, without the	PART-OF
+fat	phytonutrients	, without the	PART-OF
+drug	drugs	, without the	PART-OF
 phytonutrients	dates	have	PART-OF
 health	processed foods	have	PART-OF
 antioxidants	grapes	have	PART-OF
@@ -32,9 +36,7 @@ fiber	plant foods	have	PART-OF
 breast cancer	who	have	PART-OF
 antioxidants	vegetables	have	PART-OF
 benzene	soft drinks	have	PART-OF
-pesticides	american women	have	PART-OF
 prostate enlargement	who	have	PART-OF
-iron deficiency	white women	have	PART-OF
 nicotine	plants	have	PART-OF
 myrosinase	greens	have	PART-OF
 apoe	who	have	PART-OF
@@ -45,7 +47,6 @@ signs	hypersensitivity	have	PART-OF
 adverse effects	pregnancy	have	PART-OF
 amla	smoothies	have	PART-OF
 antioxidants	kiwifruits	have	PART-OF
-aortic aneurysms	americans	have	PART-OF
 polyphenols	grapes	have	PART-OF
 phytosterols	seeds	are packed with	PART-OF
 lignans	flaxseeds	are packed with	PART-OF
@@ -56,10 +57,19 @@ opioid	casomorphin	has	PART-OF
 phosphorus	protein	has	PART-OF
 bumped	diet	has	PART-OF
 mrsa	u.s	has	PART-OF
-celiac disease	american	has	PART-OF
 health benefits	spice	has	PART-OF
 vitamin d	mom	has	PART-OF
 shot	dementia	has	PART-OF
 tobacco	intake	has	PART-OF
 folate	kiwifruit	has	PART-OF
 fiber	date sugar	has	PART-OF
+copper	disease	have higher levels of	PART-OF
+cadmium	meat	have higher levels of	PART-OF
+cholesterol	cancer cells	have higher levels of	PART-OF
+pesticides	who	have higher levels of	PART-OF
+ddt	farmed fish	have higher levels of	PART-OF
+ddt	fish	have higher levels of	PART-OF
+plants	diets	full of	PART-OF
+plants	diet	full of	PART-OF
+plant foods	diet	full of	PART-OF
+sugar pills	babies	full of	PART-OF

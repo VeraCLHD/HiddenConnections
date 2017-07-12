@@ -1,6 +1,4 @@
 
-death	infection	was a	IS-A
-lifestyle medicine	kempner	was a	IS-A
 fruits	rose hips	are the	IS-A
 pigments	anthocyanins	are the	IS-A
 diseases	hypertension	are the	IS-A
@@ -10,20 +8,16 @@ carcinogens	nitrosamines	are the	IS-A
 chart	pecans	are the	IS-A
 fatter	infants	are	IS-A
 bok choy	vegetables	are	IS-A
-cats	video	are	IS-A
 poultry	campylobacter	are	IS-A
 health-promoting	greens	are	IS-A
 chemical	phthalates	are	IS-A
-blind	million americans	are	IS-A
 milk	estrogens	are	IS-A
 sugar	sorbitol	are	IS-A
 fat soluble	smoke	are	IS-A
 roots	carrots	are	IS-A
 iodine	vegetarians	are	IS-A
-brushed	teeth	are	IS-A
 killer	strokes	are	IS-A
 chemical	organochlorines	are	IS-A
-vitamin d	americans	are	IS-A
 leaner	who	are	IS-A
 potato chips	vegetables	are	IS-A
 water	tomatoes	are	IS-A
@@ -36,7 +30,6 @@ fatty	chickens	are	IS-A
 fine	herbal teas	are	IS-A
 ballooning bulges	abdominal aortic aneurysms	are	IS-A
 plant	antioxidants	are	IS-A
-fatty foods	video	are	IS-A
 fruit	beans	are	IS-A
 chemicals	birds	are	IS-A
 seeds	grains	are	IS-A
@@ -47,7 +40,6 @@ chemicals	xenoestrogens	are	IS-A
 bioequivalent	omega	are	IS-A
 exposures	drugs	are	IS-A
 muscles	milk	are	IS-A
-gluten	million americans	are	IS-A
 insulin	who	are	IS-A
 heartburn	symptoms	are	IS-A
 diseases	liver cancer	are	IS-A
@@ -65,7 +57,6 @@ roots	peas	are	IS-A
 cute	floppy ears	are	IS-A
 eaten	fruits	are	IS-A
 phytonutrient-rich	candy	are	IS-A
-multivitamins	videos	are	IS-A
 happier	who	are	IS-A
 acidic	citrus fruits	are	IS-A
 plant foods	nuts	are	IS-A
@@ -73,7 +64,6 @@ breast fed	babies	are	IS-A
 flax seeds	breast cancer survival	are	IS-A
 fruit	snacks	are	IS-A
 supplement	supplements	are	IS-A
-goji berries	video	are	IS-A
 pecans	healthiest nuts	are	IS-A
 cheese	saturated fat	are	IS-A
 roots	fruits	are	IS-A
@@ -101,7 +91,6 @@ bit	supplements	is a	IS-A
 disease	diverticulosis	is a	IS-A
 chemical	acrylamide	is a	IS-A
 diet high	mediterranean diet	is a	IS-A
-nontoxic	erythritol	is a	IS-A
 product	balsamic vinegar	is a	IS-A
 milk	galactose	is a	IS-A
 hormone	melatonin	is a	IS-A
@@ -116,7 +105,6 @@ tumor suppressor gene	maspin	is a	IS-A
 pesticide	bt corn	is a	IS-A
 disease	multiple sclerosis	is a	IS-A
 degenerative joint	osteoarthritis	is a	IS-A
-vegan diet	children	is a	IS-A
 bacteria	campylobacter	is a	IS-A
 disease	prediabetes	is a	IS-A
 pro-oxidant	iron	is a	IS-A
@@ -151,14 +139,12 @@ fat	brain	is	IS-A
 fish oil	supplements	is	IS-A
 beating	heart	is	IS-A
 pizza	teens	is	IS-A
-vitamin d	video	is	IS-A
 aspirin	drug	is	IS-A
 breastmilk	infants	is	IS-A
 butyrate	signal	is	IS-A
 mineral	nettle tea	is	IS-A
 tea	drink	is	IS-A
 eaten	bone	is	IS-A
-gluten	video	is	IS-A
 matcha	tea	is	IS-A
 dandelion	antioxidants	is	IS-A
 sodium intake	mediterranean diet	is	IS-A
@@ -168,19 +154,14 @@ vitamin d	mushrooms	is	IS-A
 insulin-like growth	cancer	is	IS-A
 boiling	antioxidants	is	IS-A
 fiber	fruit juice	is	IS-A
-eaten	children	is	IS-A
 beans	tea	is	IS-A
 pork	ham	is	IS-A
 butyrate	colon	is	IS-A
-milk	video	is	IS-A
 hen	infection	is	IS-A
-monsanto	video	is	IS-A
 diet	nutrition	is	IS-A
 cataracts	vision loss	is	IS-A
 vegetables	diet	is	IS-A
-protein	video	is	IS-A
 pain	colic	is	IS-A
-fish oil	video	is	IS-A
 fish consumption	salmon	is	IS-A
 acid producing	diet	is	IS-A
 bell peppers	vegetable	is	IS-A
@@ -192,19 +173,16 @@ apple juice	flight	is	IS-A
 hibiscus	herbal tea	is	IS-A
 back pain	sciatica	is	IS-A
 protein	plant protein	is	IS-A
-homeopathy	video	is	IS-A
 fish consumption	pcbs	is	IS-A
 bacteria	dental plaque	is	IS-A
 fructose	table sugar	is	IS-A
 fine	gluten	is	IS-A
-noni juice	videos	is	IS-A
 beans	coffee	is	IS-A
 bell peppers	raw	is	IS-A
 potassium	fiber	is	IS-A
 exercise	disease	is	IS-A
 rose hips	osteoarthritis	is	IS-A
 lying	label	is	IS-A
-gluten sensitivity	video	is	IS-A
 medicine	exercise	is	IS-A
 turmeric	culture	is	IS-A
 diet	disability	is	IS-A

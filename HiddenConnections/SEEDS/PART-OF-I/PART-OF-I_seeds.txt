@@ -36,10 +36,8 @@ dump sentences\V-409_22_.txt	cruciferous vegetables	enzyme	have this	PART-OF	[VB
 dump sentences\T-1691_1_.txt	supplements	vitamin d	to get	PART-OF	[TO, VB]	2
 dump sentences\V-420_10_.txt	walnuts	antioxidant	have the	PART-OF	[VBP, DT]	2
 dump sentences\V-355_6_.txt	oatmeal	carbs	packed with	PART-OF	[VBD, IN]	2
-dump sentences\A-466_2_.txt	americans	aortic aneurysms	have	PART-OF	[VBP]	2
 dump sentences\T-742_8_.txt	date sugar	fiber	has	PART-OF	[VBZ]	2
 dump sentences\V-575_21_.txt	vegetables	antioxidants	have	PART-OF	[VBP]	2
-dump sentences\T-1173_2_.txt	coca-cola	american	have supported the	PART-OF	[VBP, VBN, DT]	2
 dump sentences\V-776_1_.txt	protein	phosphorus	has	PART-OF	[VBZ]	2
 dump sentences\T-1400_9_.txt	fish	pcbs	are a key source of	PART-OF	[VBP, DT, JJ, NN, IN]	1
 dump sentences\V-1092_1_.txt	soft drinks	benzene	have	PART-OF	[VBP]	1
@@ -55,7 +53,6 @@ dump sentences\T-1197_4_.txt	chicken	omega 3	has low levels of	PART-OF	[VBZ, JJ,
 dump sentences\T-1768_11_.txt	cheerios	sugar	have added	PART-OF	[VBP, VBN]	1
 dump sentences\V-1003_4_.txt	avocados	cholesterol	had	PART-OF	[VBD]	1
 dump sentences\V-872_2_.txt	bacon	antioxidants	has to have	PART-OF	[VBZ, TO, VB]	1
-dump sentences\V-1162_0_.txt	children	carcinogens	have the highest levels of these	PART-OF	[VBP, DT, JJS, NNS, IN, DT]	1
 dump sentences\V-834_11_.txt	heart attacks	fat	had a plug of	PART-OF	[VBD, DT, NN, IN]	1
 dump sentences\A-171_44_.txt	diet	plants	filled with	PART-OF	[VBN, IN]	1
 dump sentences\V-882_2_.txt	beets	oxalates	do have a lot of	PART-OF	[VBP, VB, DT, NN, IN]	1
@@ -80,7 +77,6 @@ dump sentences\V-472_6_.txt	nuts	fat	are so filled with	PART-OF	[VBP, RB, VBN, I
 dump sentences\T-1602_1_.txt	grains	phytonutrients	have their	PART-OF	[VBP, PRP$]	1
 dump sentences\T-461_0_.txt	cinnamon	antioxidants	is a great source of 	PART-OF	[VBZ, DT, JJ, NN, IN]	1
 dump sentences\A-32_10_.txt	fat cells	saturated fat	filled with	PART-OF	[VBN, IN]	1
-dump sentences\V-1135_3_.txt	american	celiac disease	has	PART-OF	[VBZ]	1
 dump sentences\V-104_3_.txt	beer	estrogens	was tested as a source of	PART-OF	[VBD, VBN, IN, DT, NN, IN]	1
 dump sentences\T-1814_9_.txt	tea	bergamottin	is a source of	PART-OF	[VBZ, DT, NN, IN]	1
 dump sentences\V-1167_16_.txt	salsa	lycopene	is packed with	PART-OF	[VBZ, VBN, IN]	1
@@ -88,7 +84,6 @@ dump sentences\V-409_36_.txt	greens	enzyme	have that	PART-OF	[VBP, IN]	1
 dump sentences\T-1192_5_.txt	mushrooms	antioxidant	are the best source of the	PART-OF	[VBP, DT, JJS, NN, IN, DT]	1
 dump sentences\T-563_2_.txt	china	ddt	are food sources of	PART-OF	[VBP, JJ, NN, NNS, IN]	1
 dump sentences\V-1301_21_.txt	plant foods	fiber	are good sources of	PART-OF	[VBP, JJ, NNS, IN]	1
-dump sentences\V-1187_4_.txt	americans	diverticulosis	have	PART-OF	[VBP]	1
 dump sentences\V-1005_10_.txt	omega-3 fatty acids	cholesterol	are still loaded with	PART-OF	[VBP, RB, VBN, IN]	1
 dump sentences\A-339_3_.txt	vegetarians	lignans	have about twice the level of	PART-OF	[VBP, IN, RB, DT, NN, IN]	1
 dump sentences\T-1424_7_.txt	fish	ddt	have higher levels of	PART-OF	[VBP, JJR, NNS, IN]	1

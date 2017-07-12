@@ -54,200 +54,198 @@ tissues	bone	, including	IS-A
 medications	aspirin	, including	IS-A
 chicken	beta-carboline alkaloids	, including	IS-A
 heterocyclic amines	phip	, including	IS-A
-children	ear infections	, including	IS-A
 legumes	beans	, including	IS-A
+cruciferous vegetables	collard greens	like	IS-A
 inflammation	bleeding	like	IS-A
 cured meats	bacon	like	IS-A
 phytonutrients	lutein	like	IS-A
 teas	hibiscus	like	IS-A
 animal foods	protein	like	IS-A
+sweetener	erythritol	like	IS-A
 plant-based diet	ornish	like	IS-A
+roots	sweet potatoes	like	IS-A
+drugs	antibiotics	like	IS-A
+angiogenesis inhibitors	endostatin	like	IS-A
 persistent organic pollutants	dioxins	like	IS-A
 plant proteins	beans	like	IS-A
 drugs	midazolam	like	IS-A
+plant foods	cauliflower	like	IS-A
+food additives	trans fats	like	IS-A
 pollutants	dioxins	like	IS-A
 hormones	igf	like	IS-A
+diseases	breast cancer	like	IS-A
+medication	glyburide	like	IS-A
 phytonutrients	lycopene	like	IS-A
+disease	glaucoma	like	IS-A
+drugs	viagra	like	IS-A
+drugs	prozac	like	IS-A
 diseases	strokes	like	IS-A
+spices	fenugreek	like	IS-A
+drug	premarin	like	IS-A
 medications	insulin	like	IS-A
 smell	urine	like	IS-A
+recipe	mayo	like	IS-A
 amino acids	methionine	like	IS-A
 drugs	aspirin	like	IS-A
-videos	boosting	like	IS-A
+anti-inflammatory drugs	ibuprofen	like	IS-A
 insulin	igf	like	IS-A
 soyfoods	tofu	like	IS-A
+neurodegenerative diseases	als	like	IS-A
 medications	benadryl	like	IS-A
 pesticides	ddt	like	IS-A
 plants	beans	like	IS-A
 western diseases	obesity	like	IS-A
+chemicals	chlorhexidine	like	IS-A
+drugs	premarin	like	IS-A
 bacteria	green tea	like	IS-A
+anti-inflammatory drugs	aspirin	like	IS-A
+fish	salmon	like	IS-A
 spices	turmeric	like	IS-A
 beverages	soda	like	IS-A
 pollutants	mercury	like	IS-A
 bacteria	campylobacter	like	IS-A
-cruciferous vegetables	kale	like	IS-A
-oils	coconut oil	like	IS-A
-leading killers	diabetes	like	IS-A
-phytonutrients	hesperidin	like	IS-A
-good bacteria	vinegar	like	IS-A
-toxins	tetrahydroisoquinoline	like	IS-A
-preservatives	sulfites	like	IS-A
-fish	tuna	like	IS-A
-olive oil	fruit juice	like	IS-A
-leafy vegetables	spinach	like	IS-A
-diseases	stroke	like	IS-A
-food restaurants	mcdonald	like	IS-A
-pathogens	salmonella	like	IS-A
-drugs	cholesterol	like	IS-A
-bug	spinach	like	IS-A
-market	antacids	like	IS-A
-tissues	cancer	like	IS-A
-phytonutrients	resveratrol	like	IS-A
-carcinomas	breast cancer	like	IS-A
-drugs	beta	like	IS-A
-cancers	childhood leukemia	like	IS-A
-statins	lipitor	like	IS-A
-diseases	colon cancer	like	IS-A
-persistent pollutants	ddt	like	IS-A
-minerals	arsenic	like	IS-A
-inflammation	gum	like	IS-A
-cancers	leukemias	like	IS-A
-treatments	acupuncture	like	IS-A
-drugs	tylenol	like	IS-A
-periodontal diseases	gingivitis	like	IS-A
-acids	lactic acid	like	IS-A
-hormones	nicotine	like	IS-A
-fruit	lemons	like	IS-A
-drugs	zeranol	like	IS-A
-herbs	ginger	like	IS-A
-statin drugs	lipitor	like	IS-A
-fats	palmitic acid	like	IS-A
-inflammatory bowel diseases	ulcerative colitis	like	IS-A
-antioxidants	vitamin c	like	IS-A
-symptoms	nausea	like	IS-A
-nuts	cashews	like	IS-A
-drugs	fosamax	like	IS-A
-diseases	emphysema	like	IS-A
-drugs	ibuprofen	like	IS-A
-fish	anchovies	like	IS-A
-phytonutrients	vitamin c	like	IS-A
-antibodies	iga	like	IS-A
-plant foods	nuts	like	IS-A
-diseases	als	like	IS-A
-drug	valium	like	IS-A
-healthy food	cranberries	like	IS-A
-diseases	diabetes	like	IS-A
-pills	viagra	like	IS-A
-xenoestrogens	polychlorinated biphenyls	like	IS-A
-food poisoning	salmonella	like	IS-A
-herb	tarragon	like	IS-A
-foodborne pathogens	salmonella	like	IS-A
-meats	veggie burgers	like	IS-A
-illnesses	depression	like	IS-A
-phytonutrients	rosmarinic acid	like	IS-A
-crystallizes	sugar water	like	IS-A
-fruits	noni	like	IS-A
-supplements	triphala	like	IS-A
-xenoestrogens	pcbs	like	IS-A
-cooked meat	phip	like	IS-A
-vegetables	apples	like	IS-A
-fats	nuts	like	IS-A
-fruit	apples	like	IS-A
-carbohydrates	rice	like	IS-A
-acids	vitamin c	like	IS-A
-cured meats	bologna	like	IS-A
-cruciferous vegetables	collard greens	like	IS-A
-sweetener	erythritol	like	IS-A
-roots	sweet potatoes	like	IS-A
-drugs	antibiotics	like	IS-A
-angiogenesis inhibitors	endostatin	like	IS-A
-plant foods	cauliflower	like	IS-A
-food additives	trans fats	like	IS-A
-diseases	breast cancer	like	IS-A
-medication	glyburide	like	IS-A
-disease	glaucoma	like	IS-A
-drugs	viagra	like	IS-A
-drugs	prozac	like	IS-A
-spices	fenugreek	like	IS-A
-drug	premarin	like	IS-A
-recipe	mayo	like	IS-A
-anti-inflammatory drugs	ibuprofen	like	IS-A
-neurodegenerative diseases	als	like	IS-A
-chemicals	chlorhexidine	like	IS-A
-drugs	premarin	like	IS-A
-anti-inflammatory drugs	aspirin	like	IS-A
-fish	salmon	like	IS-A
 drugs	valium	like	IS-A
 diseases	cancer	like	IS-A
 diseases	obesity	like	IS-A
 pollutants	hexachlorobenzene	like	IS-A
 vegetables	arugula	like	IS-A
 therapies	antiangiogenesis	like	IS-A
+cruciferous vegetables	kale	like	IS-A
 family vegetables	garlic	like	IS-A
+oils	coconut oil	like	IS-A
+leading killers	diabetes	like	IS-A
+phytonutrients	hesperidin	like	IS-A
+good bacteria	vinegar	like	IS-A
 carotenoids	beta-carotene	like	IS-A
+toxins	tetrahydroisoquinoline	like	IS-A
+preservatives	sulfites	like	IS-A
 antioxidants	beta-carotene	like	IS-A
+fish	tuna	like	IS-A
 leafy vegetables	kale	like	IS-A
 smoothie	drinking	like	IS-A
+olive oil	fruit juice	like	IS-A
+leafy vegetables	spinach	like	IS-A
 lemonoids	lemonin	like	IS-A
+diseases	stroke	like	IS-A
 kale	breast	like	IS-A
+food restaurants	mcdonald	like	IS-A
+pathogens	salmonella	like	IS-A
 abnormalities	microcephaly	like	IS-A
 sleeping pills	valium	like	IS-A
 animal products	chicken	like	IS-A
 drugs	lipitor	like	IS-A
+drugs	cholesterol	like	IS-A
+bug	spinach	like	IS-A
 artificial sweeteners	splenda	like	IS-A
+market	antacids	like	IS-A
+tissues	cancer	like	IS-A
 stress hormones	adrenaline	like	IS-A
+phytonutrients	resveratrol	like	IS-A
+carcinomas	breast cancer	like	IS-A
 drugs	candy	like	IS-A
+drugs	beta	like	IS-A
+cancers	childhood leukemia	like	IS-A
+statins	lipitor	like	IS-A
 killers	heart disease	like	IS-A
 bacteria	c. diff	like	IS-A
 steroid hormones	estrogen	like	IS-A
 respiratory infections	influenza	like	IS-A
+diseases	colon cancer	like	IS-A
+persistent pollutants	ddt	like	IS-A
+minerals	arsenic	like	IS-A
+inflammation	gum	like	IS-A
 omega-3s	dha	like	IS-A
+cancers	leukemias	like	IS-A
 toxins	arsenic	like	IS-A
+treatments	acupuncture	like	IS-A
+drugs	tylenol	like	IS-A
+periodontal diseases	gingivitis	like	IS-A
 soy foods	tofu	like	IS-A
 feelings	hunger	like	IS-A
 inflammatory bowel diseases	methionine	like	IS-A
+acids	lactic acid	like	IS-A
 pollutants	ddt	like	IS-A
+hormones	nicotine	like	IS-A
 drug	ibuprofen	like	IS-A
 oils	canola	like	IS-A
 plant foods	flax	like	IS-A
 animal proteins	dairy	like	IS-A
+fruit	lemons	like	IS-A
 cancers	prostate	like	IS-A
 drugs	penicillin	like	IS-A
 sour fruit	lemons	like	IS-A
 processed meats	bacon	like	IS-A
+drugs	zeranol	like	IS-A
+herbs	ginger	like	IS-A
+statin drugs	lipitor	like	IS-A
+fats	palmitic acid	like	IS-A
 hormones	adrenaline	like	IS-A
+inflammatory bowel diseases	ulcerative colitis	like	IS-A
 side effects	nausea	like	IS-A
 desserts	cake	like	IS-A
 nausea	ginger	like	IS-A
+antioxidants	vitamin c	like	IS-A
 persistent pollutants	hexachlorobenzene	like	IS-A
 neurotransmitters	prozac	like	IS-A
+symptoms	nausea	like	IS-A
+nuts	cashews	like	IS-A
 who	cilantro	like	IS-A
+drugs	fosamax	like	IS-A
 drugs	nicotine	like	IS-A
+diseases	emphysema	like	IS-A
 drugs	heroin	like	IS-A
+drugs	ibuprofen	like	IS-A
+fish	anchovies	like	IS-A
+phytonutrients	vitamin c	like	IS-A
+antibodies	iga	like	IS-A
+plant foods	nuts	like	IS-A
 phytonutrients	beta-carotene	like	IS-A
 vegetables	kale	like	IS-A
+diseases	als	like	IS-A
 exotic fruits	noni	like	IS-A
 drug	lovastatin	like	IS-A
 pigments	zeaxanthin	like	IS-A
+drug	valium	like	IS-A
 pills	tums	like	IS-A
 brain diseases	alzheimer	like	IS-A
 legumes	lentils	like	IS-A
+healthy food	cranberries	like	IS-A
+diseases	diabetes	like	IS-A
+pills	viagra	like	IS-A
+xenoestrogens	polychlorinated biphenyls	like	IS-A
 perfluorochemicals	pcb	like	IS-A
+food poisoning	salmonella	like	IS-A
+herb	tarragon	like	IS-A
+foodborne pathogens	salmonella	like	IS-A
+meats	veggie burgers	like	IS-A
 food poisoning	alfalfa sprouts	like	IS-A
+illnesses	depression	like	IS-A
+phytonutrients	rosmarinic acid	like	IS-A
 market	pancake	like	IS-A
+crystallizes	sugar water	like	IS-A
 plant foods	soy	like	IS-A
 drug	lipitor	like	IS-A
+fruits	noni	like	IS-A
+supplements	triphala	like	IS-A
+xenoestrogens	pcbs	like	IS-A
 whole grains	rye	like	IS-A
 plant foods	grains	like	IS-A
+cooked meat	phip	like	IS-A
 exercise	jogging	like	IS-A
 drugs	allopurinol	like	IS-A
+vegetables	apples	like	IS-A
+fats	nuts	like	IS-A
 phytonutrients	zeaxanthin	like	IS-A
+fruit	apples	like	IS-A
 neurotransmitters	serotonin	like	IS-A
 carotenoids	lutein	like	IS-A
 graphs	bpa	like	IS-A
+carbohydrates	rice	like	IS-A
 cruciferous vegetables	brussels sprouts	like	IS-A
 short-chain fatty acids	butyrate	like	IS-A
+acids	vitamin c	like	IS-A
 smell	maple syrup	like	IS-A
+cured meats	bologna	like	IS-A
 western diseases	colon cancer	like	IS-A
 pills	tums	—like	IS-A
 minerals	iodine	—like	IS-A
@@ -269,14 +267,12 @@ exposure	farmworkers	—like	IS-A
 animal proteins	soy	—like	IS-A
 drink	orange	—like	IS-A
 meal	fruit	—like	IS-A
-trash chute	excess cholesterol	—like	IS-A
 food cans	cans	—like	IS-A
 copd	emphysema	—like	IS-A
 processed meat	bacon	—like	IS-A
 short-chain fatty acids	butyrate	—like	IS-A
 protein	beans	—like	IS-A
 cured meats	bologna	—like	IS-A
-cheese	american	, such as	IS-A
 illnesses	teenagers	, such as	IS-A
 inflammatory diseases	heart disease	, such as	IS-A
 beans	soy	, such as	IS-A
@@ -299,11 +295,11 @@ cruciferous vegetables	broccoli	, such as	IS-A
 spices	curcumin	, such as	IS-A
 modern medicine	surgery	, such as	IS-A
 side effects	memory	, such as	IS-A
+cheese	ham	, such as	IS-A
 diseases	alzheimer	, such as	IS-A
 autoimmune diseases	meat glue	, such as	IS-A
 inflammatory bowel diseases	ulcerative colitis	, such as	IS-A
 cancers	breast	, such as	IS-A
-children	aggressiveness	, such as	IS-A
 drinks	tea	, such as	IS-A
 creatinine	cheese	, such as	IS-A
 neurodegenerative diseases	alzheimer	, such as	IS-A
@@ -349,7 +345,6 @@ arthritis	rheumatoid arthritis	, such as	IS-A
 prebiotics	fiber	, such as	IS-A
 statins	lipitor	, such as	IS-A
 killers	heart disease	, such as	IS-A
-previous videos	kiwifruit	, such as	IS-A
 treatments	tamoxifen	, such as	IS-A
 short-chain fatty acids	butyrate	, such as	IS-A
 meal	citrus	, such as	IS-A
@@ -366,7 +361,6 @@ drink	orange	(like	IS-A
 superbugs	mrsa	(like	IS-A
 animal products	fish oil	such as	IS-A
 beans	soy	such as	IS-A
-videos	prebiotics	such as	IS-A
 cured meats	bacon	such as	IS-A
 processed foods	hamburgers	such as	IS-A
 industrial pollutants	pcbs	such as	IS-A
@@ -391,9 +385,9 @@ pollutants	dioxins	such as	IS-A
 persistent organic pollutants	arsenic	such as	IS-A
 side effects	memory	such as	IS-A
 diseases	asthma	such as	IS-A
+cheese	ham	such as	IS-A
 phytonutrients	lycopene	such as	IS-A
 cancers	breast	such as	IS-A
-videos	apples	such as	IS-A
 drugs	prozac	such as	IS-A
 contaminants	antibiotic residues	such as	IS-A
 drugs	aspirin	such as	IS-A
@@ -415,7 +409,6 @@ spices	turmeric	such as	IS-A
 pollutants	mercury	such as	IS-A
 carbs	french fries	such as	IS-A
 diseases	cancer	such as	IS-A
-videos	poultry	such as	IS-A
 animal products	meat	such as	IS-A
 fruits	currants	such as	IS-A
 industrial pollutants	alkylphenols	such as	IS-A
@@ -444,7 +437,6 @@ fruit juices	noni	such as	IS-A
 toxins	perfluorochemicals	such as	IS-A
 legumes	beans	such as	IS-A
 plants	aspirin	such as	IS-A
-cheese	american	such as	IS-A
 inflammatory diseases	heart disease	such as	IS-A
 plant proteins	soy	such as	IS-A
 neurotransmitters	dopamine	such as	IS-A
@@ -526,8 +518,6 @@ beverages	fruit juice	such as	IS-A
 phytonutrients	lignans	such as	IS-A
 spices	saffron	such as	IS-A
 
-death	infection	was a	IS-A
-lifestyle medicine	kempner	was a	IS-A
 fruits	rose hips	are the	IS-A
 pigments	anthocyanins	are the	IS-A
 diseases	hypertension	are the	IS-A
@@ -537,20 +527,16 @@ carcinogens	nitrosamines	are the	IS-A
 chart	pecans	are the	IS-A
 fatter	infants	are	IS-A
 bok choy	vegetables	are	IS-A
-cats	video	are	IS-A
 poultry	campylobacter	are	IS-A
 health-promoting	greens	are	IS-A
 chemical	phthalates	are	IS-A
-blind	million americans	are	IS-A
 milk	estrogens	are	IS-A
 sugar	sorbitol	are	IS-A
 fat soluble	smoke	are	IS-A
 roots	carrots	are	IS-A
 iodine	vegetarians	are	IS-A
-brushed	teeth	are	IS-A
 killer	strokes	are	IS-A
 chemical	organochlorines	are	IS-A
-vitamin d	americans	are	IS-A
 leaner	who	are	IS-A
 potato chips	vegetables	are	IS-A
 water	tomatoes	are	IS-A
@@ -563,7 +549,6 @@ fatty	chickens	are	IS-A
 fine	herbal teas	are	IS-A
 ballooning bulges	abdominal aortic aneurysms	are	IS-A
 plant	antioxidants	are	IS-A
-fatty foods	video	are	IS-A
 fruit	beans	are	IS-A
 chemicals	birds	are	IS-A
 seeds	grains	are	IS-A
@@ -574,7 +559,6 @@ chemicals	xenoestrogens	are	IS-A
 bioequivalent	omega	are	IS-A
 exposures	drugs	are	IS-A
 muscles	milk	are	IS-A
-gluten	million americans	are	IS-A
 insulin	who	are	IS-A
 heartburn	symptoms	are	IS-A
 diseases	liver cancer	are	IS-A
@@ -592,7 +576,6 @@ roots	peas	are	IS-A
 cute	floppy ears	are	IS-A
 eaten	fruits	are	IS-A
 phytonutrient-rich	candy	are	IS-A
-multivitamins	videos	are	IS-A
 happier	who	are	IS-A
 acidic	citrus fruits	are	IS-A
 plant foods	nuts	are	IS-A
@@ -600,7 +583,6 @@ breast fed	babies	are	IS-A
 flax seeds	breast cancer survival	are	IS-A
 fruit	snacks	are	IS-A
 supplement	supplements	are	IS-A
-goji berries	video	are	IS-A
 pecans	healthiest nuts	are	IS-A
 cheese	saturated fat	are	IS-A
 roots	fruits	are	IS-A
@@ -628,7 +610,6 @@ bit	supplements	is a	IS-A
 disease	diverticulosis	is a	IS-A
 chemical	acrylamide	is a	IS-A
 diet high	mediterranean diet	is a	IS-A
-nontoxic	erythritol	is a	IS-A
 product	balsamic vinegar	is a	IS-A
 milk	galactose	is a	IS-A
 hormone	melatonin	is a	IS-A
@@ -643,7 +624,6 @@ tumor suppressor gene	maspin	is a	IS-A
 pesticide	bt corn	is a	IS-A
 disease	multiple sclerosis	is a	IS-A
 degenerative joint	osteoarthritis	is a	IS-A
-vegan diet	children	is a	IS-A
 bacteria	campylobacter	is a	IS-A
 disease	prediabetes	is a	IS-A
 pro-oxidant	iron	is a	IS-A
@@ -678,14 +658,12 @@ fat	brain	is	IS-A
 fish oil	supplements	is	IS-A
 beating	heart	is	IS-A
 pizza	teens	is	IS-A
-vitamin d	video	is	IS-A
 aspirin	drug	is	IS-A
 breastmilk	infants	is	IS-A
 butyrate	signal	is	IS-A
 mineral	nettle tea	is	IS-A
 tea	drink	is	IS-A
 eaten	bone	is	IS-A
-gluten	video	is	IS-A
 matcha	tea	is	IS-A
 dandelion	antioxidants	is	IS-A
 sodium intake	mediterranean diet	is	IS-A
@@ -695,19 +673,14 @@ vitamin d	mushrooms	is	IS-A
 insulin-like growth	cancer	is	IS-A
 boiling	antioxidants	is	IS-A
 fiber	fruit juice	is	IS-A
-eaten	children	is	IS-A
 beans	tea	is	IS-A
 pork	ham	is	IS-A
 butyrate	colon	is	IS-A
-milk	video	is	IS-A
 hen	infection	is	IS-A
-monsanto	video	is	IS-A
 diet	nutrition	is	IS-A
 cataracts	vision loss	is	IS-A
 vegetables	diet	is	IS-A
-protein	video	is	IS-A
 pain	colic	is	IS-A
-fish oil	video	is	IS-A
 fish consumption	salmon	is	IS-A
 acid producing	diet	is	IS-A
 bell peppers	vegetable	is	IS-A
@@ -719,19 +692,16 @@ apple juice	flight	is	IS-A
 hibiscus	herbal tea	is	IS-A
 back pain	sciatica	is	IS-A
 protein	plant protein	is	IS-A
-homeopathy	video	is	IS-A
 fish consumption	pcbs	is	IS-A
 bacteria	dental plaque	is	IS-A
 fructose	table sugar	is	IS-A
 fine	gluten	is	IS-A
-noni juice	videos	is	IS-A
 beans	coffee	is	IS-A
 bell peppers	raw	is	IS-A
 potassium	fiber	is	IS-A
 exercise	disease	is	IS-A
 rose hips	osteoarthritis	is	IS-A
 lying	label	is	IS-A
-gluten sensitivity	video	is	IS-A
 medicine	exercise	is	IS-A
 turmeric	culture	is	IS-A
 diet	disability	is	IS-A

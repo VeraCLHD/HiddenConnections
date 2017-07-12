@@ -100,9 +100,9 @@ public class Bootstrapper {
 		Writer.overwriteFile("", this.getNEW_PATTERNS());
 		this.setALL_INSTANCES_AND_PATTERNS("SEEDS/"+ type + "/all_instances_and_patterns_" + type + ".txt");
 		Writer.overwriteFile("", this.getALL_INSTANCES_AND_PATTERNS());
-		this.setSEED_CONNECTIONS_TXT("SEEDS/SEEDS_ONLY" + type +"/seed_connections_" + type + ".txt");
+		this.setSEED_CONNECTIONS_TXT("SEEDS/SEEDS_ONLY/" + type +"seed_connections_" + ".txt");
 		Writer.overwriteFile("", this.getSEED_CONNECTIONS_TXT());
-		this.setSEEDS_TXT("SEEDS/SEEDS_ONLY" + type +"/seeds_" + type + ".txt");
+		this.setSEEDS_TXT("SEEDS/SEEDS_ONLY/" + type +"seeds_"  + ".txt");
 		Writer.overwriteFile("", this.getSEEDS_TXT());
 		Bootstrapper.setNumberOfIterations(NumberOfIterations);
 	}

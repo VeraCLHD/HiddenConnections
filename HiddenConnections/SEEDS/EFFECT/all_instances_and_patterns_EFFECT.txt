@@ -1,15 +1,10 @@
 
-vegetables	cancer	reduce	EFFECT
-veggies	inflammation	reduce	EFFECT
-vegetables	cancer risk	reduce	EFFECT
-vegetables	heart disease	reduce	EFFECT
 fish oil	inflammation	decreases	EFFECT
 turmeric	proteinuria	decreases	EFFECT
 tomato juice	inflammation	decreases	EFFECT
 sodium bicarbonate	kidney	decreases	EFFECT
 garlic	inflammation	decreases	EFFECT
 immunosuppression	cancer risk	decreases	EFFECT
-pressure cooking	antioxidant content	reduce the	EFFECT
 eating eggs	cholesterol levels	lowered	EFFECT
 eggs	cholesterol	lowered	EFFECT
 tomatoes	platelet	lowered	EFFECT

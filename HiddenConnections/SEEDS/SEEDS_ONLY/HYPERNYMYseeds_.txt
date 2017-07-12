@@ -3,7 +3,6 @@ estrogen	steroid
 mediterranean diet	diet
 myelopathy	syndrome
 xenoestrogens	chemicals
-smoking	risk
 phthalates	chemical
 high blood pressure	symptom
 carrots	roots
@@ -38,7 +37,6 @@ insects	contaminants
 cherries	plant
 igf-1	growth hormone
 hypertension	diseases
-obesity	risk
 vinegar	product
 plant-based diets	low-calorie diets
 chickpeas	legume

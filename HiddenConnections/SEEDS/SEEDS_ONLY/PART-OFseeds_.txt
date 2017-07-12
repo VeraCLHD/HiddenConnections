@@ -9,7 +9,6 @@ fiber	oatmeal
 phytonutrients	plant foods
 immune function	athletes
 infections	baby
-estrogens	american
 curcumin	turmeric
 puberty	girls
 dna damage	bacteria
@@ -19,9 +18,7 @@ berries	milk
 galactose	milk
 protein	whipped cream
 fiber	meat
-fertility	women
 acne	milk
-sexual dysfunction	women
 calcium	soy milk
 symptoms	kids
 obesity	china
@@ -47,14 +44,12 @@ diseases	chickens
 carcinogens	cooked meat
 breast development	girls
 capsaicin	cluster headache
-eczema	children
 phytonutrients	broccoli
 aspartame	diet
 contamination	drug
 glycotoxins	cigarette
 garlic	salsa
 salicylic acid	fruits
-endometriosis	women
 skin	red wine
 listeria	deli meats
 sugar	chocolate
@@ -67,11 +62,9 @@ heme iron	meat
 inflammation	arthritis
 sugar	apple juice
 antibiotic residues	meat
-lymphoma	women
 flavonoids	chocolate
 neurotoxins	meat
 cancer	bacon
-diseases	children
 phytate	vegetarian
 arsenic	chicken
 estrogen	meat
@@ -81,8 +74,6 @@ medium-chain fatty acids	coconut
 pigment	turmeric
 bacteria	animal products
 angiogenesis inhibitors	plant
-disease	children
-infections	women
 antibodies	cancer
 amino acids	animal proteins
 beans	healthy diets
@@ -96,7 +87,6 @@ teeth	preparation
 anthocyanins	blueberries
 chemicals	processed meat
 radioactivity	fish
-leukemia	children
 fiber	plant
 mercury	corn
 pollutants	pregnancy
@@ -110,7 +100,6 @@ diet	adolescence
 phytochemicals	plants
 mercury	corn syrup
 caffeine	tea
-bladder infections	women
 phytonutrient	kiwis
 protein	miso
 igf-1	liver
@@ -127,9 +116,7 @@ sugar	apple
 soy protein	miso
 zinc	plant
 toxin	tuna
-infection	children
 dioxins	fish
-infertility	women
 putrescine	turkey
 listeria	deli meat
 water	nettle tea
@@ -137,13 +124,10 @@ bioflavonoids	citrus
 colon	digestion
 parasites	meat
 symptoms	fibromyalgia
-antibodies	children
 pollutant	fish
 pollutants	fish
 zinc	rice
-pain	children
 growth hormones	vegans
-death	women
 fat	animal fat
 pollution	seafood
 adrenaline	plants
@@ -152,14 +136,12 @@ aluminum	tea
 ractopamine	pork
 carbohydrates	orange juice
 beta-carotene	carrot
-bone fractures	women
 parasite	pork
 death	rheumatoid arthritis
 nutrition	medical education
 antibiotics	white meat
 dha	fish
 anabolic steroids	meat
-survival	women
 pollutants	animal fats
 soda	cranberry
 cadmium	plants
@@ -172,7 +154,6 @@ phytonutrient	broccoli
 glycotoxins	meat
 viruses	meat
 mercury	tuna
-prediabetes	children
 leucine	protein
 parasites	lamb
 phytonutrients	nuts
@@ -183,23 +164,19 @@ oxalates	turmeric
 mineral	whole grains
 disease	vegetarians
 antibodies	crohn's disease
-pesticides	children
 infection	livestock
 isoflavones	soy
 fructose	blueberries
 pcbs	salmon
 animal protein	meat
 calcium	kale
-testosterone	women
 phytonutrient	cherries
 dioxins	farm
 reductionism	nutrition
 chemicals	eggs
 cheese	aluminum
-chronic disease	children
 potassium	plant foods
 fungal toxins	apples
-symptoms	children
 blood	meat
 protein	meat
 sex steroid hormones	beef
@@ -228,14 +205,11 @@ lycopene	tomatoes
 chemicals	tumor growth
 toxins	cigarette
 manure	meat
-hives	children
 inflammatory response	artery
 estrogenic compounds	water
 diets	uganda
-fluorosis	children
 heavy metals	protein powder supplements
 gluten	medical journals
-ear infections	children
 eggs	diet
 salmonella	eggs
 yersinia	pork
@@ -244,17 +218,13 @@ lead	triphala
 anabolic steroids	farm
 salt	miso
 phytonutrients	salad
-flaxseed	women
 premature puberty	girls
-arsenic	american
 dna	plants
-lifespan	women
 contaminants	milk
 chemicals	chicken
 dietary guidelines	greece
 aid	diabetes
 cancer	chickens
-constipation	children
 superbugs	meat
 choline	eggs
 virus	poultry
@@ -270,7 +240,6 @@ anthocyanins	bananas
 parasites	burgers
 fiber	fruit
 phytoestrogens	flax
-cancers	children
 bacteria	meat
 hormones	vegans
 igf-1	vegans
@@ -321,13 +290,11 @@ vitamin c	apples
 antioxidants	grains
 contamination	dairy
 steroids	meat
-mortality	women
 hormones	eggs
 insulin sensitivity	pigs
 pesticides	milk
 patulin	apple juice
 chemicals	meat
-children	shopping carts
 antioxidants	cranberries
 phytonutrients	cruciferous vegetables
 phytoestrogens	flaxseeds
@@ -364,7 +331,6 @@ calcium	milk
 dna damage	athletes
 flavor	processed foods
 carcinogens	meat
-hyperactivity	children
 antioxidants	white bread
 agent	atherosclerosis
 nutrient synergy	cranberries
@@ -385,7 +351,6 @@ fecal contamination	poultry
 death	kidney failure
 cholesterol	eggs
 fat	olives
-irony	vitamin c
 alcohol	beer
 obesogens	meat
 fat	fish
@@ -399,7 +364,6 @@ vitamin c	cancer
 folic acid	pills
 cancer	prostate
 copper	multivitamins
-infections	children
 preservatives	chicken
 curcumin	pain
 drugs	chicken
@@ -412,7 +376,6 @@ phytonutrients	plant
 virus	breast cancer
 phytonutrients	tea
 flaxseeds	burgers
-irony	vitamin
 ascorbic acid	soda
 pollutants	fish oil
 allergies	fish
@@ -449,7 +412,6 @@ bovine leukemia virus	breast cancer
 steroid hormones	milk
 sex steroid hormones	meat
 estrogens	cooked meat
-dental fluorosis	children
 steroid hormones	beef
 drug residues	meat
 disease	pigs
@@ -465,9 +427,7 @@ hormones	beef
 muscle	death
 pathogens	meat
 antioxidants	plants
-diabetes	women
 antibiotics	urine
-steroid	women
 hormones	pills
 lies	infants
 nitrosamines	bacon
@@ -478,7 +438,6 @@ heme iron	muscle
 early onset puberty	girls
 iron	animal foods
 arachidonic acid	vegetarian
-kidney failure	children
 bacteria	chicken
 mercury	triphala
 phosphorus	plant foods
@@ -511,7 +470,6 @@ resveratrol	grapes
 preservatives	junk food
 citruline	watermelons
 carcinogens	smoke
-hair growth	women
 lignans	sesame seeds
 estrogen	breast cancer
 cholesterol	cake
@@ -522,7 +480,6 @@ diseases	plant
 antioxidants	fruits
 oxalate	cinnamon
 chemicals	tumor
-rickets	children
 antibiotics	meat
 contaminants	fish
 casein	milk
@@ -530,9 +487,7 @@ obesity	chickens
 aluminum	cheese
 soda	cranberry juice
 anabolic steroids	farm animals
-blindness	american
 hormones	meat
-infectious diseases	children
 trans fat	meat
 industrial carcinogens	animal fat
 insulin	milk
@@ -546,7 +501,6 @@ contamination	poultry
 calories	chocolate
 arachidonic acid	fish
 chronic disease	vegetarians
-orgasm	women
 carbs	plant
 steroids	farm
 vitamin c	beet
@@ -560,7 +514,6 @@ carnitine	meat
 toxin	avocados
 heavy metals	creatine
 salmonella	alfalfa
-risk	kids
 constipation	infants
 worm	fish
 meat	burgers
@@ -594,7 +547,6 @@ pigment	tomatoes
 cancer prevention	poultry
 iron	muscle
 saturated fat	chocolate
-women	pain
 phytoestrogens	soy
 phytonutrients	flax seeds
 hormones	dairy
@@ -615,7 +567,6 @@ grapes	fat
 diseases	dairy
 cancer treatment	gerson therapy
 cancer	prostate cancer
-risk	women
 antioxidants	tea
 survival	colorectal cancer
 sex hormones	eggs

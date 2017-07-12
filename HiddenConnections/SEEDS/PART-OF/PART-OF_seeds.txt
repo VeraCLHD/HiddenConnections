@@ -50,7 +50,6 @@ dump sentences\T-751_2_.txt	aid	cancer	in	PART-OF	[IN]	2
 dump sentences\V-139_18_.txt	vinegar	pill	in	PART-OF	[IN]	2
 dump sentences\V-69_35_.txt	survival	colorectal cancer	in	PART-OF	[IN]	2
 dump sentences\V-844_0_.txt	cancers	chickens	in	PART-OF	[IN]	2
-dump sentences\V-1040_22_.txt	cancers	children	in	PART-OF	[IN]	2
 dump sentences\V-612_1_.txt	agent	alcoholic beverages	in	PART-OF	[IN]	2
 dump sentences\V-462_12_.txt	drugs	chicken	in	PART-OF	[IN]	2
 dump sentences\A-113_20_.txt	drugs	chicken	in	PART-OF	[IN]	2
@@ -166,7 +165,6 @@ dump sentences\V-97_2_.txt	pesticides	milk	in	PART-OF	[IN]	2
 dump sentences\V-97_4_.txt	pesticides	milk	in	PART-OF	[IN]	2
 dump sentences\V-297_29_.txt	pesticides	animal products	in	PART-OF	[IN]	2
 dump sentences\A-398_2_.txt	pesticides	chinese	in	PART-OF	[IN]	2
-dump sentences\V-702_3_.txt	pesticides	children	in	PART-OF	[IN]	2
 dump sentences\A-174_33_.txt	ddt	umbilical cord blood	in	PART-OF	[IN]	2
 dump sentences\A-397_24_.txt	ddt	umbilical cord blood	in	PART-OF	[IN]	2
 dump sentences\A-220_13_.txt	ddt	umbilical cord blood	in	PART-OF	[IN]	2
@@ -188,8 +186,6 @@ dump sentences\A-236_13_.txt	dha	fish	in	PART-OF	[IN]	2
 dump sentences\V-23_13_.txt	infection	livestock	in	PART-OF	[IN]	2
 dump sentences\A-18_32_.txt	sodium	dietary guidelines	in	PART-OF	[IN]	2
 dump sentences\V-1080_16_.txt	muscle damage	statin	in	PART-OF	[IN]	2
-dump sentences\T-225_3_.txt	fluorosis	children	in	PART-OF	[IN]	2
-dump sentences\T-865_7_.txt	fluorosis	children	in	PART-OF	[IN]	2
 dump sentences\V-625_16_.txt	fecal contamination	poultry	in	PART-OF	[IN]	2
 dump sentences\A-231_18_.txt	fish	fecal contamination	in	PART-OF	[IN]	2
 dump sentences\V-305_6_.txt	intestinal infections	baby	in	PART-OF	[IN]	2
@@ -255,7 +251,6 @@ dump sentences\V-191_21_.txt	vitamin c	cancer treatment	in	PART-OF	[IN]	2
 dump sentences\A-80_35_.txt	cancer treatment	gerson therapy	in	PART-OF	[IN]	2
 dump sentences\T-298_1_.txt	antioxidants	white bread	in	PART-OF	[IN]	2
 dump sentences\V-1042_1_.txt	worm	fish	in	PART-OF	[IN]	2
-dump sentences\V-936_3_.txt	rickets	children	in	PART-OF	[IN]	2
 dump sentences\T-1175_20_.txt	ammonia	fast food	in	PART-OF	[IN]	2
 dump sentences\V-993_11_.txt	penis size	infant	in	PART-OF	[IN]	2
 dump sentences\A-195_16_.txt	aids	weight loss	in	PART-OF	[IN]	2
@@ -309,7 +304,6 @@ dump sentences\V-1069_9_.txt	antibiotic resistance	bacteria	in	PART-OF	[IN]	2
 dump sentences\V-1168_75_.txt	vegetables	green	in	PART-OF	[IN]	2
 dump sentences\T-1261_0_.txt	phytonutrient	green	in	PART-OF	[IN]	2
 dump sentences\V-1168_75_.txt	cruciferous vegetables	green	in	PART-OF	[IN]	2
-dump sentences\T-1580_11_.txt	hives	children	in	PART-OF	[IN]	2
 dump sentences\A-199_13_.txt	contamination	poultry	in	PART-OF	[IN]	2
 dump sentences\V-489_13_.txt	contamination	poultry	in	PART-OF	[IN]	2
 dump sentences\V-625_16_.txt	contamination	poultry	in	PART-OF	[IN]	2
@@ -400,13 +394,10 @@ dump sentences\A-18_29_.txt	alcohol	breast cancer	in	PART-OF	[IN]	2
 dump sentences\A-427_25_.txt	zinc	plant	in	PART-OF	[IN]	2
 dump sentences\T-1602_10_.txt	zinc	rice	in	PART-OF	[IN]	2
 dump sentences\A-15_33_.txt	leukemia	milk	in	PART-OF	[IN]	2
-dump sentences\A-306_9_.txt	leukemia	children	in	PART-OF	[IN]	2
-dump sentences\V-587_8_.txt	leukemia	children	in	PART-OF	[IN]	2
 dump sentences\V-1167_4_.txt	phytonutrients	salad	in	PART-OF	[IN]	2
 dump sentences\V-30_3_.txt	supplementation	pregnancy	in	PART-OF	[IN]	2
 dump sentences\A-400_13_.txt	serotonin	plants	in	PART-OF	[IN]	2
 dump sentences\V-16_228_.txt	serotonin	plants	in	PART-OF	[IN]	2
-dump sentences\V-269_9_.txt	blindness	american	in	PART-OF	[IN]	2
 dump sentences\V-426_5_.txt	protein	sweet potatoes	in	PART-OF	[IN]	2
 dump sentences\A-131_8_.txt	protein	sweet potatoes	in	PART-OF	[IN]	2
 dump sentences\T-1503_6_.txt	protein	sweet potatoes	in	PART-OF	[IN]	2
@@ -473,8 +464,6 @@ dump sentences\A-460_6_.txt	antioxidants	disease	in	PART-OF	[IN]	2
 dump sentences\T-1130_1_.txt	disease	microwave	in	PART-OF	[IN]	2
 dump sentences\T-1131_1_.txt	disease	microwave	in	PART-OF	[IN]	2
 dump sentences\V-1018_37_.txt	disease	vegetarians	in	PART-OF	[IN]	2
-dump sentences\A-171_0_.txt	disease	children	in	PART-OF	[IN]	2
-dump sentences\V-460_0_.txt	disease	children	in	PART-OF	[IN]	2
 dump sentences\A-367_2_.txt	estrogens	cooked meat	in	PART-OF	[IN]	2
 dump sentences\A-368_0_.txt	estrogens	cooked meat	in	PART-OF	[IN]	2
 dump sentences\A-364_4_.txt	estrogens	cooked meat	in	PART-OF	[IN]	2
@@ -667,13 +656,10 @@ dump sentences\V-68_3_.txt	protein	pork	in	PART-OF	[IN]	2
 dump sentences\T-1599_2_.txt	fats	animal products	in	PART-OF	[IN]	2
 dump sentences\A-181_1_.txt	phytate	vegetarian	in	PART-OF	[IN]	2
 dump sentences\V-983_6_.txt	arachidonic acid	vegetarian	in	PART-OF	[IN]	2
-dump sentences\T-689_5_.txt	arsenic	american	in	PART-OF	[IN]	2
 dump sentences\A-173_22_.txt	arsenic	apple juice	in	PART-OF	[IN]	2
 dump sentences\A-432_4_.txt	arsenic	apple juice	in	PART-OF	[IN]	2
 dump sentences\V-462_15_.txt	arsenic	apple juice	in	PART-OF	[IN]	2
 dump sentences\A-330_0_.txt	carnitine	red meat	in	PART-OF	[IN]	2
-dump sentences\A-381_28_.txt	kidney failure	children	in	PART-OF	[IN]	2
-dump sentences\T-440_11_.txt	kidney failure	children	in	PART-OF	[IN]	2
 dump sentences\V-1258_1_.txt	acne	milk	in	PART-OF	[IN]	2
 dump sentences\A-294_41_.txt	phytonutrients	spices	in	PART-OF	[IN]	2
 dump sentences\V-576_37_.txt	phytonutrients	spices	in	PART-OF	[IN]	2
@@ -838,7 +824,6 @@ dump sentences\V-380_14_.txt	phytoestrogens	flaxseeds	in	PART-OF	[IN]	2
 dump sentences\T-1590_1_.txt	pollutant	fish	in	PART-OF	[IN]	2
 dump sentences\A-395_11_.txt	antibiotics	white meat	in	PART-OF	[IN]	2
 dump sentences\V-217_5_.txt	curcumin	pain	in	PART-OF	[IN]	2
-dump sentences\V-277_9_.txt	pain	children	in	PART-OF	[IN]	2
 dump sentences\V-213_9_.txt	calcium	milk	in	PART-OF	[IN]	2
 dump sentences\V-1259_10_.txt	calcium	milk	in	PART-OF	[IN]	2
 dump sentences\V-68_3_.txt	calcium	cheese	in	PART-OF	[IN]	2
@@ -891,7 +876,6 @@ dump sentences\V-212_34_.txt	endotoxins	animal products	in	PART-OF	[IN]	2
 dump sentences\V-642_28_.txt	endotoxins	animal products	in	PART-OF	[IN]	2
 dump sentences\T-1599_3_.txt	toxins	animal products	in	PART-OF	[IN]	2
 dump sentences\V-503_7_.txt	iron	animal products	in	PART-OF	[IN]	2
-dump sentences\V-1046_5_.txt	estrogens	american	in	PART-OF	[IN]	2
 dump sentences\V-1262_8_.txt	estrogens	soy	in	PART-OF	[IN]	2
 dump sentences\T-1783_3_.txt	folate	beans	in	PART-OF	[IN]	2
 dump sentences\A-481_15_.txt	folate	beans	in	PART-OF	[IN]	2
@@ -924,7 +908,6 @@ dump sentences\T-1393_2_.txt	neurotoxic chemicals	cheese	in	PART-OF	[IN]	2
 dump sentences\T-995_1_.txt	inflammatory response	artery	in	PART-OF	[IN]	2
 dump sentences\T-990_6_.txt	early onset puberty	girls	in	PART-OF	[IN]	2
 dump sentences\T-953_6_.txt	early onset puberty	girls	in	PART-OF	[IN]	2
-dump sentences\A-359_3_.txt	infectious diseases	children	in	PART-OF	[IN]	2
 dump sentences\V-1145_4_.txt	pollutants	animal fats	in	PART-OF	[IN]	2
 dump sentences\V-13_284_.txt	fish	wisconsin	in	PART-OF	[IN]	2
 dump sentences\T-151_7_.txt	colon	digestion	in	PART-OF	[IN]	2
@@ -951,13 +934,9 @@ dump sentences\T-906_4_.txt	nutrition education	medical schools	in	PART-OF	[IN]	
 dump sentences\V-954_1_.txt	nutrition education	medical schools	in	PART-OF	[IN]	2
 dump sentences\A-321_1_.txt	nutrient synergy	cranberries	in	PART-OF	[IN]	2
 dump sentences\T-1175_9_.txt	breast development	girls	in	PART-OF	[IN]	2
-dump sentences\V-51_26_.txt	antibodies	children	in	PART-OF	[IN]	2
 dump sentences\A-233_2_.txt	plant-based diets	uganda	in	PART-OF	[IN]	2
-dump sentences\A-104_18_.txt	prediabetes	children	in	PART-OF	[IN]	2
-dump sentences\A-4_32_.txt	prediabetes	children	in	PART-OF	[IN]	2
 dump sentences\V-643_4_.txt	medium-chain fatty acids	coconut	in	PART-OF	[IN]	2
 dump sentences\T-478_5_.txt	medium-chain fatty acids	coconut	in	PART-OF	[IN]	2
-dump sentences\T-440_10_.txt	children	shopping carts	in	PART-OF	[IN]	2
 dump sentences\T-1511_7_.txt	domoic acid	tuna	in	PART-OF	[IN]	2
 dump sentences\V-565_3_.txt	flavonoids	berries	in	PART-OF	[IN]	2
 dump sentences\A-283_3_.txt	flavonoids	berries	in	PART-OF	[IN]	2
@@ -965,7 +944,6 @@ dump sentences\T-301_10_.txt	toxin	avocados	in	PART-OF	[IN]	2
 dump sentences\T-1870_4_.txt	toxin	tuna	in	PART-OF	[IN]	2
 dump sentences\V-186_3_.txt	flavor	processed foods	in	PART-OF	[IN]	2
 dump sentences\V-582_6_.txt	steroids	processed foods	in	PART-OF	[IN]	2
-dump sentences\A-359_3_.txt	diseases	children	in	PART-OF	[IN]	2
 dump sentences\V-153_7_.txt	variety	fruit	in	PART-OF	[IN]	2
 dump sentences\V-698_7_.txt	antibiotics	urine	in	PART-OF	[IN]	2
 dump sentences\A-395_9_.txt	antibiotics	urine	in	PART-OF	[IN]	2
@@ -985,7 +963,6 @@ dump sentences\A-394_39_.txt	toxins	raw	in	PART-OF	[IN]	2
 dump sentences\A-318_30_.txt	toxins	raw	in	PART-OF	[IN]	2
 dump sentences\A-376_38_.txt	toxins	raw	in	PART-OF	[IN]	2
 dump sentences\T-1511_0_.txt	toxins	seafood	in	PART-OF	[IN]	2
-dump sentences\T-114_9_.txt	ear infections	children	in	PART-OF	[IN]	2
 dump sentences\V-604_17_.txt	anthocyanins	bananas	in	PART-OF	[IN]	2
 dump sentences\A-141_30_.txt	cadmium	plants	in	PART-OF	[IN]	2
 dump sentences\T-936_7_.txt	fructose	fruit	in	PART-OF	[IN]	2
@@ -1006,7 +983,6 @@ dump sentences\A-368_27_.txt	heavy metals	protein powder	in	PART-OF	[IN]	2
 dump sentences\A-345_19_.txt	heavy metals	protein powder	in	PART-OF	[IN]	2
 dump sentences\A-141_37_.txt	heavy metals	protein powder	in	PART-OF	[IN]	2
 dump sentences\T-242_4_.txt	omega-3 fatty acids	fish	in	PART-OF	[IN]	2
-dump sentences\V-840_1_.txt	infection	children	in	PART-OF	[IN]	2
 dump sentences\T-1756_3_.txt	aid	stomach	in	PART-OF	[IN]	2
 dump sentences\V-1239_17_.txt	soda	cranberry	in	PART-OF	[IN]	2
 dump sentences\A-163_0_.txt	heavy metals	fish	in	PART-OF	[IN]	2
@@ -1019,13 +995,9 @@ dump sentences\A-141_37_.txt	heavy metals	protein powder supplements	in	PART-OF	
 dump sentences\T-1323_11_.txt	oxalate	cinnamon	in	PART-OF	[IN]	2
 dump sentences\V-646_14_.txt	fish	chinese	in	PART-OF	[IN]	2
 dump sentences\T-1725_12_.txt	aid	insomnia	in	PART-OF	[IN]	2
-dump sentences\T-440_3_.txt	constipation	children	in	PART-OF	[IN]	2
 dump sentences\A-45_5_.txt	calories	saturated fat	in	PART-OF	[IN]	2
 dump sentences\A-90_37_.txt	saturated fat	salmon	in	PART-OF	[IN]	2
 dump sentences\V-389_30_.txt	saturated fat	salmon	in	PART-OF	[IN]	2
-dump sentences\T-440_4_.txt	hyperactivity	children	in	PART-OF	[IN]	2
-dump sentences\T-502_6_.txt	hyperactivity	children	in	PART-OF	[IN]	2
-dump sentences\T-1197_8_.txt	hyperactivity	children	in	PART-OF	[IN]	2
 dump sentences\A-345_18_.txt	heterocyclic amines	eggs	in	PART-OF	[IN]	2
 dump sentences\A-300_30_.txt	heterocyclic amines	eggs	in	PART-OF	[IN]	2
 dump sentences\A-190_57_.txt	heterocyclic amines	eggs	in	PART-OF	[IN]	2
@@ -1047,32 +1019,24 @@ dump sentences\A-441_23_.txt	industrial pollutants	fish	in	PART-OF	[IN]	2
 dump sentences\A-220_10_.txt	industrial pollutants	fish	in	PART-OF	[IN]	2
 dump sentences\A-307_11_.txt	radioactivity	fish	in	PART-OF	[IN]	2
 dump sentences\A-304_37_.txt	radioactivity	fish	in	PART-OF	[IN]	2
-dump sentences\V-502_12_.txt	infections	children	in	PART-OF	[IN]	2
-dump sentences\T-114_9_.txt	infections	children	in	PART-OF	[IN]	2
-dump sentences\A-215_13_.txt	infections	children	in	PART-OF	[IN]	2
 dump sentences\V-1262_8_.txt	plant estrogens	soy	in	PART-OF	[IN]	2
 dump sentences\T-1384_7_.txt	preservatives	processed meat	in	PART-OF	[IN]	2
 dump sentences\T-1384_7_.txt	nitrite preservatives	processed meat	in	PART-OF	[IN]	2
 dump sentences\A-233_2_.txt	diets	uganda	in	PART-OF	[IN]	2
 dump sentences\V-1018_37_.txt	chronic disease	vegetarians	in	PART-OF	[IN]	2
 dump sentences\V-983_20_.txt	mood	omnivores	in	PART-OF	[IN]	2
-dump sentences\A-171_0_.txt	chronic disease	children	in	PART-OF	[IN]	2
-dump sentences\V-460_0_.txt	chronic disease	children	in	PART-OF	[IN]	2
 dump sentences\A-75_33_.txt	phytoestrogens	soy	in	PART-OF	[IN]	2
 dump sentences\V-722_15_.txt	phytoestrogens	soy	in	PART-OF	[IN]	2
 dump sentences\V-1154_1_.txt	phytoestrogens	soy	in	PART-OF	[IN]	2
 dump sentences\V-1295_11_.txt	phytoestrogens	soy	in	PART-OF	[IN]	2
 dump sentences\V-24_10_.txt	phytoestrogens	flax	in	PART-OF	[IN]	2
 dump sentences\V-1300_14_.txt	eggs	baking	in	PART-OF	[IN]	2
-dump sentences\A-171_20_.txt	eczema	children	in	PART-OF	[IN]	2
-dump sentences\T-225_3_.txt	dental fluorosis	children	in	PART-OF	[IN]	2
 dump sentences\V-1135_0_.txt	protein	wheat	in	PART-OF	[IN]	2
 dump sentences\T-266_3_.txt	protein	soy	in	PART-OF	[IN]	2
 dump sentences\A-478_4_.txt	salicylic acid	fruits	in	PART-OF	[IN]	2
 dump sentences\V-476_5_.txt	symptoms	kids	in	PART-OF	[IN]	2
 dump sentences\T-1115_6_.txt	bpa	plastics	in	PART-OF	[IN]	2
 dump sentences\T-1117_6_.txt	bpa	plastics	in	PART-OF	[IN]	2
-dump sentences\T-770_7_.txt	symptoms	children	in	PART-OF	[IN]	2
 dump sentences\A-303_31_.txt	radioactivity	seafood	in	PART-OF	[IN]	2
 dump sentences\A-305_19_.txt	radioactivity	seafood	in	PART-OF	[IN]	2
 dump sentences\A-307_2_.txt	radioactivity	seafood	in	PART-OF	[IN]	2

@@ -1,6 +1,4 @@
 
-infection	death	was a	HYPERNYMY
-kempner	lifestyle medicine	was a	HYPERNYMY
 rose hips	fruits	are the	HYPERNYMY
 anthocyanins	pigments	are the	HYPERNYMY
 hypertension	diseases	are the	HYPERNYMY
@@ -10,20 +8,16 @@ nitrosamines	carcinogens	are the	HYPERNYMY
 pecans	chart	are the	HYPERNYMY
 infants	fatter	are	HYPERNYMY
 vegetables	bok choy	are	HYPERNYMY
-video	cats	are	HYPERNYMY
 campylobacter	poultry	are	HYPERNYMY
 greens	health-promoting	are	HYPERNYMY
 phthalates	chemical	are	HYPERNYMY
-million americans	blind	are	HYPERNYMY
 estrogens	milk	are	HYPERNYMY
 sorbitol	sugar	are	HYPERNYMY
 smoke	fat soluble	are	HYPERNYMY
 carrots	roots	are	HYPERNYMY
 vegetarians	iodine	are	HYPERNYMY
-teeth	brushed	are	HYPERNYMY
 strokes	killer	are	HYPERNYMY
 organochlorines	chemical	are	HYPERNYMY
-americans	vitamin d	are	HYPERNYMY
 who	leaner	are	HYPERNYMY
 vegetables	potato chips	are	HYPERNYMY
 tomatoes	water	are	HYPERNYMY
@@ -36,7 +30,6 @@ chickens	fatty	are	HYPERNYMY
 herbal teas	fine	are	HYPERNYMY
 abdominal aortic aneurysms	ballooning bulges	are	HYPERNYMY
 antioxidants	plant	are	HYPERNYMY
-video	fatty foods	are	HYPERNYMY
 beans	fruit	are	HYPERNYMY
 birds	chemicals	are	HYPERNYMY
 grains	seeds	are	HYPERNYMY
@@ -47,7 +40,6 @@ xenoestrogens	chemicals	are	HYPERNYMY
 omega	bioequivalent	are	HYPERNYMY
 drugs	exposures	are	HYPERNYMY
 milk	muscles	are	HYPERNYMY
-million americans	gluten	are	HYPERNYMY
 who	insulin	are	HYPERNYMY
 symptoms	heartburn	are	HYPERNYMY
 liver cancer	diseases	are	HYPERNYMY
@@ -65,7 +57,6 @@ peas	roots	are	HYPERNYMY
 floppy ears	cute	are	HYPERNYMY
 fruits	eaten	are	HYPERNYMY
 candy	phytonutrient-rich	are	HYPERNYMY
-videos	multivitamins	are	HYPERNYMY
 who	happier	are	HYPERNYMY
 citrus fruits	acidic	are	HYPERNYMY
 nuts	plant foods	are	HYPERNYMY
@@ -73,7 +64,6 @@ babies	breast fed	are	HYPERNYMY
 breast cancer survival	flax seeds	are	HYPERNYMY
 snacks	fruit	are	HYPERNYMY
 supplements	supplement	are	HYPERNYMY
-video	goji berries	are	HYPERNYMY
 healthiest nuts	pecans	are	HYPERNYMY
 saturated fat	cheese	are	HYPERNYMY
 fruits	roots	are	HYPERNYMY
@@ -101,7 +91,6 @@ supplements	bit	is a	HYPERNYMY
 diverticulosis	disease	is a	HYPERNYMY
 acrylamide	chemical	is a	HYPERNYMY
 mediterranean diet	diet high	is a	HYPERNYMY
-erythritol	nontoxic	is a	HYPERNYMY
 balsamic vinegar	product	is a	HYPERNYMY
 galactose	milk	is a	HYPERNYMY
 melatonin	hormone	is a	HYPERNYMY
@@ -116,7 +105,6 @@ maspin	tumor suppressor gene	is a	HYPERNYMY
 bt corn	pesticide	is a	HYPERNYMY
 multiple sclerosis	disease	is a	HYPERNYMY
 osteoarthritis	degenerative joint	is a	HYPERNYMY
-children	vegan diet	is a	HYPERNYMY
 campylobacter	bacteria	is a	HYPERNYMY
 prediabetes	disease	is a	HYPERNYMY
 iron	pro-oxidant	is a	HYPERNYMY
@@ -151,14 +139,12 @@ brain	fat	is	HYPERNYMY
 supplements	fish oil	is	HYPERNYMY
 heart	beating	is	HYPERNYMY
 teens	pizza	is	HYPERNYMY
-video	vitamin d	is	HYPERNYMY
 drug	aspirin	is	HYPERNYMY
 infants	breastmilk	is	HYPERNYMY
 signal	butyrate	is	HYPERNYMY
 nettle tea	mineral	is	HYPERNYMY
 drink	tea	is	HYPERNYMY
 bone	eaten	is	HYPERNYMY
-video	gluten	is	HYPERNYMY
 tea	matcha	is	HYPERNYMY
 antioxidants	dandelion	is	HYPERNYMY
 mediterranean diet	sodium intake	is	HYPERNYMY
@@ -168,19 +154,14 @@ mushrooms	vitamin d	is	HYPERNYMY
 cancer	insulin-like growth	is	HYPERNYMY
 antioxidants	boiling	is	HYPERNYMY
 fruit juice	fiber	is	HYPERNYMY
-children	eaten	is	HYPERNYMY
 tea	beans	is	HYPERNYMY
 ham	pork	is	HYPERNYMY
 colon	butyrate	is	HYPERNYMY
-video	milk	is	HYPERNYMY
 infection	hen	is	HYPERNYMY
-video	monsanto	is	HYPERNYMY
 nutrition	diet	is	HYPERNYMY
 vision loss	cataracts	is	HYPERNYMY
 diet	vegetables	is	HYPERNYMY
-video	protein	is	HYPERNYMY
 colic	pain	is	HYPERNYMY
-video	fish oil	is	HYPERNYMY
 salmon	fish consumption	is	HYPERNYMY
 diet	acid producing	is	HYPERNYMY
 vegetable	bell peppers	is	HYPERNYMY
@@ -192,19 +173,16 @@ flight	apple juice	is	HYPERNYMY
 herbal tea	hibiscus	is	HYPERNYMY
 sciatica	back pain	is	HYPERNYMY
 plant protein	protein	is	HYPERNYMY
-video	homeopathy	is	HYPERNYMY
 pcbs	fish consumption	is	HYPERNYMY
 dental plaque	bacteria	is	HYPERNYMY
 table sugar	fructose	is	HYPERNYMY
 gluten	fine	is	HYPERNYMY
-videos	noni juice	is	HYPERNYMY
 coffee	beans	is	HYPERNYMY
 raw	bell peppers	is	HYPERNYMY
 fiber	potassium	is	HYPERNYMY
 disease	exercise	is	HYPERNYMY
 osteoarthritis	rose hips	is	HYPERNYMY
 label	lying	is	HYPERNYMY
-video	gluten sensitivity	is	HYPERNYMY
 exercise	medicine	is	HYPERNYMY
 culture	turmeric	is	HYPERNYMY
 disability	diet	is	HYPERNYMY

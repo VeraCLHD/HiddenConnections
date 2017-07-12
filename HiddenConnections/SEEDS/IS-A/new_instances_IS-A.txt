@@ -9,6 +9,7 @@ greens	turmeric
 cholesterol-lowering drugs	statins
 drugs	midazolam
 hormones	igf
+cheese	ham
 symptoms	asthma
 creatinine	cheese
 insulin	igf
@@ -47,7 +48,6 @@ meat	pathogens
 vitamin supplements	vitamin e
 eating meat	fish
 vitamin supplements	vitamin c
-videos	prebiotics
 calcium	broccoli
 plants	potato chips
 sweetener	erythritol
@@ -56,7 +56,6 @@ symptoms	brain
 whole grains	gluten
 diseases	asthma
 autoimmune diseases	meat glue
-videos	apples
 cured meat	bacon
 multidrug-resistant bacteria	mrsa
 supplements	pancreatic enzymes
@@ -72,7 +71,6 @@ carbs	sun-dried
 stress hormones	adrenaline
 oils	olive oil
 chronic diseases	diabetes
-trash chute	excess cholesterol
 vegetables	onions
 feelings	hunger
 inflammatory bowel diseases	methionine
@@ -109,10 +107,8 @@ radiation	radiation exposure
 symptoms	bloating
 persistent organic pollutants	arsenic
 cancers	breast
-children	aggressiveness
 drinks	tea
 atopic disease	asthma
-videos	boosting
 food cans	cans
 medications	benadryl
 supplements	vitamin a
@@ -129,10 +125,8 @@ pops	dioxins
 drugs	beta
 fruits	strawberries
 industrial pollutants	pcbs found
-previous videos	kiwifruit
 meal	citrus
 heterocyclic amines	phip
-children	ear infections
 inflammation	gum
 illnesses	teenagers
 plant proteins	soy
@@ -166,7 +160,6 @@ beans	grapefruit
 legumes	chickpeas
 health	nitrate
 diseases	cancer
-videos	poultry
 inflammatory bowel disease	crohn
 illnesses	acne
 leukemia	b-cell
