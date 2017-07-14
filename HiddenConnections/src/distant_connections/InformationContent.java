@@ -122,6 +122,7 @@ public class InformationContent {
 	
 	public void writeIC(){
 		Writer.overwriteFile("", SEEDS_INFORMATION_CONTENT_IS_A_IC_TXT);
+		Writer.overwriteFile("", TERMS_TO_EXCLUDE_TXT);
 		for(String term: this.getInformation_content().keySet()){
 			
 			if( this.getInformation_content().get(term) >= MIN_INFORMATION_CONTENT){
