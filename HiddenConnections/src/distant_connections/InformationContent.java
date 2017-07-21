@@ -21,7 +21,8 @@ import terms_processing.StanfordLemmatizer;
 public class InformationContent {
 	private static final String SEEDS_INFORMATION_CONTENT_IS_A_IC_TXT = "SEEDS/INFORMATION CONTENT/isA_ic.txt";
 	private static final String TERMS_TO_EXCLUDE_TXT = "SEEDS/INFORMATION CONTENT/to_exclude.txt";
-	private static final double MIN_INFORMATION_CONTENT = 2.2;
+	
+	private static double MIN_INFORMATION_CONTENT = 0.0;
 	private static String pathToInstances = "SEEDS/INFORMATION CONTENT/IS-A_final.txt";
 	// key: general term, value: list of children
 	private Map<String, Set<String>> isAPairs = new HashMap<String, Set<String>>();
@@ -139,7 +140,14 @@ public class InformationContent {
 		
 
 	}
+	public static double getMIN_INFORMATION_CONTENT() {
+		return MIN_INFORMATION_CONTENT;
+	}
 
+	public static void setMIN_INFORMATION_CONTENT(double mIN_INFORMATION_CONTENT) {
+		MIN_INFORMATION_CONTENT = mIN_INFORMATION_CONTENT;
+	}
+	
 	public Map<String, Double> getInformation_content() {
 		return information_content;
 	}
