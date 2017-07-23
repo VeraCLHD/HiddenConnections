@@ -127,15 +127,19 @@ public class TermAssembler {
 		public static Map<String, Set<String>> getMeshVariants() {
 			return meshVariants;
 		}
-
+		private static void assembleFinalVariants() {
+			TermAssembler ta = new TermAssembler();
+			ta.readClusteredTerms();
+			ta.readMesh();
+			ta.addMeshVariationsToTerms();
+			TermAssembler.writeFinalVariants();
+		}
+		
 	public static void main(String[] args) {
-		// unabhängig: 2 lemmas -> get all variants; for each variant combination -> search in eval corpus
-		TermAssembler ta = new TermAssembler();
-		ta.readClusteredTerms();
-		ta.readMesh();
-		ta.addMeshVariationsToTerms();
-		TermAssembler.writeFinalVariants();
+		
+		assembleFinalVariants();
 		
 	}
+
 
 }
