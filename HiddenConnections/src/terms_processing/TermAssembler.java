@@ -14,9 +14,15 @@ import io.Writer;
 
 
 public class TermAssembler {
+	private static final String FINAL_VARIANTS_TXT = "terms/finalVariants.txt";
+	private static final String MESH_VARIANTS_TXT = "mesh/meshVariants.txt";
 	private static String pathToClusteredTerms = "terms/all_terms_and_variants_with10_filtered_clustered.txt";
+	// key: lemma, value: all variants, including lemma
 	private static Map<String, Set<String>> variants = new HashMap<String, Set<String>>();
+	private static Map<String, String> mapping = new HashMap<String, String>();
+	private static Map<String, Set<String>> meshVariants = new HashMap<String, Set<String>>();
 	
+		
 		// reads the clustered terms
 		public void readClusteredTerms(){
 			List<String> terms = Reader.readLinesList(pathToClusteredTerms);
@@ -25,20 +31,30 @@ public class TermAssembler {
 					String[] splitted = termLine.split("\t");
 					String term = splitted[0].trim();
 					String lemma = splitted[1];
-					if(!lemma.equals("-")){
-						this.getFoodDiseaseMapping().put(lemma, splitted[2].trim());
-					} else{
-						this.getFoodDiseaseMapping().put(term, splitted[2].trim());
+					if(lemma.equals("-")){
+						lemma = term;
 					}
 					
-					
+					Map<String, Set<String>> variantsLemmas = TermAssembler.getVariants();
+					if(variantsLemmas.keySet().contains(lemma)){
+						Set<String> set = variantsLemmas.get(lemma);
+						set.add(term);
+						variantsLemmas.put(lemma, set);
+					} else{
+						Set<String> set = new HashSet<String>();
+						set.add(lemma);
+						variantsLemmas.put(lemma, set);
+						
+					}
+					TermAssembler.getMapping().put(lemma, splitted[2]);
+	
 				}
 			}
 			
 		}
 		// read mesh variants
 		public void readMesh(){
-			List<String> variations = readFileLinewise("meshVariants.txt");
+			List<String> variations = readFileLinewise(MESH_VARIANTS_TXT);
 			for(String variation: variations){
 				if( variation != null && !variation.equals("") && !variation.isEmpty()){
 					// only if # the term has variations
@@ -48,9 +64,7 @@ public class TermAssembler {
 						Set<String> meshVariations = new HashSet<String>(Arrays.asList(oneEntry[2].split(",")));
 						// all morphological variations in this list
 						
-							MeshVariator.getContentOfMeshFile().put(term, meshVariations);
-						
-						
+						TermAssembler.getMeshVariants().put(term, meshVariations);	
 					}
 				}
 			
@@ -58,58 +72,70 @@ public class TermAssembler {
 		}
 		
 		//the main structure allTermsAndVariations gets mesh and cat here; each term gehts mesh
-		public void addMeshVariationsToTerms(Map<String, Set<String>> contentOfMeshFile){
-			// mesh variations
-			for(Term term : InitialRelationsManager.getTerms()){
-				// we use the lemma to check in mesh
-				String lemma = term.getLemma();
-				
-				if(contentOfMeshFile.containsKey(term.getOriginalTerm())){
-					Set<String> list = contentOfMeshFile.get(term.getOriginalTerm());
-					if(list !=null && !list.isEmpty()){
-						term.getCatAndMesh().addAll(contentOfMeshFile.get(term.getOriginalTerm()));
+		public void addMeshVariationsToTerms(){
+			// we use the lemma to check in mesh	
+			for(String lemma: TermAssembler.getVariants().keySet()){
+				if(TermAssembler.getMeshVariants().containsKey(lemma)){
+						Set<String> list = TermAssembler.getMeshVariants().get(lemma);
+						Set<String> newSet = TermAssembler.getVariants().get(lemma);
+						newSet.addAll(list);
+						TermAssembler.getVariants().put(lemma, newSet);
+
 						
 					}
 					
-				}
-				else if(!term.getOriginalTerm().contains(" ") && contentOfMeshFile.containsKey(lemma)){
-					Set<String> list = contentOfMeshFile.get(lemma);
-					if(list !=null && !list.isEmpty()){
-						term.getCatAndMesh().addAll(contentOfMeshFile.get(term.getLemma()));
-						InitialRelationsManager.allTermsAndVariations.add(term.getLemma());
-					}
-					
-				} 
-				
-				else{
-					for(Entry<String,Set<String>> variation: contentOfMeshFile.entrySet()){
-						if(variation.getValue().contains(term.getOriginalTerm()) || (!term.getOriginalTerm().contains(" ") && variation.getValue().contains(lemma))){
-							Set<String> vars = new HashSet<String>();
-							vars.add(variation.getKey());
-							vars.addAll(variation.getValue());
-							term.getCatAndMesh().addAll(vars);
-							break;
+					else{
+						for(Entry<String,Set<String>> variation: TermAssembler.getMeshVariants().entrySet()){
+							if(variation.getValue().contains(lemma)){
+								Set<String> vars = new HashSet<String>();
+								vars.add(variation.getKey());
+								vars.addAll(variation.getValue());
+								Set<String> newSet = TermAssembler.getVariants().get(lemma);
+								newSet.addAll(vars);
+								TermAssembler.getVariants().put(lemma, newSet);
+							}
 						}
 					}
-				}
-				
-				
-				// this structure only for checking if a string contains them later
-				InitialRelationsManager.allTermsAndVariations.addAll(term.getCatAndMesh());
-				InitialRelationsManager.allTermsAndVariations.add(term.getOriginalTerm());
-				
+					
+				}		
+		}
 		
+		public static void writeFinalVariants(){
+			Writer.overwriteFile("", FINAL_VARIANTS_TXT);
+			for(String lemma: TermAssembler.getVariants().keySet()){
+				String line = "";
+				for(String variant: TermAssembler.getVariants().get(lemma)){
+					line += variant + ",";
+				}
+				line +=  "\t" +TermAssembler.getMapping().get(lemma) ;
+				Writer.appendLineToFile(line, FINAL_VARIANTS_TXT);
+			}
 		}
 		
 		public static List<String> readFileLinewise(String file){
 			ArrayList<String> termsOverall = Reader.readLinesList(file);
 			return termsOverall;
 		}
+		
+		public static Map<String, Set<String>> getVariants() {
+			return variants;
+		}
+		public static Map<String, String> getMapping() {
+			return mapping;
+		}
+		
+		public static Map<String, Set<String>> getMeshVariants() {
+			return meshVariants;
+		}
 
 	public static void main(String[] args) {
-		// 1. read clustered, 2. read mesh, combine (+ write), put in map
 		// unabhängig: 2 lemmas -> get all variants; for each variant combination -> search in eval corpus
-
+		TermAssembler ta = new TermAssembler();
+		ta.readClusteredTerms();
+		ta.readMesh();
+		ta.addMeshVariationsToTerms();
+		TermAssembler.writeFinalVariants();
+		
 	}
 
 }
