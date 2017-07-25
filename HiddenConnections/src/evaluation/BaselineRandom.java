@@ -14,7 +14,7 @@ import overall.Pair;
 public class BaselineRandom {
 	private static final String EVALUATION_RANDOM_COMBINATIONS_TXT = "evaluation/randomCombinations.txt";
 	private static final String TERMS_TO_EXCLUDE_TXT = "SEEDS/INFORMATION CONTENT/to_exclude.txt";
-	private int HOW_MANY_COMBINATIONS = 2206;
+
 	private Set<String> setFoods = new HashSet<String>();
 	private Set<String> setDiseases = new HashSet<String>();
 	public Set<Pair<String>> pairsToEvaluate = new HashSet<Pair<String>>();
@@ -71,24 +71,6 @@ public class BaselineRandom {
 		}
 	}
 	
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		
-		BaselineRandom br = new BaselineRandom();
-		
-		br.readInformationContentFile();
-		br.readTerms();
-		br.buildRandomCombinations();
-	}
-	
-	public int getHOW_MANY_COMBINATIONS() {
-		return HOW_MANY_COMBINATIONS;
-	}
-
-	public void setHOW_MANY_COMBINATIONS(int hOW_MANY_COMBINATIONS) {
-		HOW_MANY_COMBINATIONS = hOW_MANY_COMBINATIONS;
-	}
-
 	public Set<String> getSetFoods() {
 		return setFoods;
 	}
