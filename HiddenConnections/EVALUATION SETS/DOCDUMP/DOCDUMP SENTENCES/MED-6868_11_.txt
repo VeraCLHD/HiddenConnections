@@ -1,0 +1,1 @@
+we also estimate qaly loss for each health state associated with a given pathogen, using the euroqol 5d scale.

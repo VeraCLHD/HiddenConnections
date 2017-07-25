@@ -1,1 +1,0 @@
-A three-state model partitions the US population into no diabetes, undiagnosed diabetes, and diagnosed diabetes. A four-state model divides the state of "no diabetes" into high-risk (prediabetes) and low-risk (normal glucose) states. A five-state model incorporates an intervention designed to prevent or delay diabetes in adults at high risk. 

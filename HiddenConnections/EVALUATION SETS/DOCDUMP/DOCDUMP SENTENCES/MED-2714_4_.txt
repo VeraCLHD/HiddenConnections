@@ -1,0 +1,1 @@
+results: free copper predicted the annual change in mmse, adjusted for the baseline mmse by means of a linear regression model: it raised the explained variance from 2.4% (with only sex, age, and education) to 8.5% (p = 0.026).

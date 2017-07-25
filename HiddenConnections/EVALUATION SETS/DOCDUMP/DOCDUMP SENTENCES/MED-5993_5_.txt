@@ -1,0 +1,1 @@
+this gave a mean success rate of 41% (95% confidence intervals 23% to 58% under assumptions of normality, 26% to 52% using bootstrap methods), compared with 14% expected by chance alone.

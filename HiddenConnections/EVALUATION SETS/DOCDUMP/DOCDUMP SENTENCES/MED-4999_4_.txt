@@ -1,0 +1,1 @@
+models included individual-level covariates (age, gender, bmi, income, race/ethnicity/country of origin, education, survey period), smoking, housing (home age, water source, filter use), and diet (supplement use; 24-h calorie, fat, protein, micronutrient, and cd-containing food intakes), creatinine, and survey year variables.

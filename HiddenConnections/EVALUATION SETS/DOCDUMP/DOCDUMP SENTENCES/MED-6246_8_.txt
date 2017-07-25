@@ -1,0 +1,1 @@
+a pressure-volume relationship was determined by plotting corresponding pressures and volumes during ramp distention, and the compliance was calculated over the linear part of the curve by calculating from the slope of the curve using simple regression.

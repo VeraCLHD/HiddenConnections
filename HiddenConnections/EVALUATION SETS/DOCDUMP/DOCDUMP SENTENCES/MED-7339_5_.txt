@@ -1,0 +1,1 @@
+data were analyzed with logistic regression for the entire sample using generalized estimating equations to adjust for relatedness of twins, and with conditional logistic regression for the co-twin control design.

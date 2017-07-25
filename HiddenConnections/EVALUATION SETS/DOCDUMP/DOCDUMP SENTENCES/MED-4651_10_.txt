@@ -1,0 +1,1 @@
+findings: pbmc telomerase activity expressed as natural logarithms increased from 2.00 (sd 0.44) to 2.22 (sd 0.49; p=0.031).

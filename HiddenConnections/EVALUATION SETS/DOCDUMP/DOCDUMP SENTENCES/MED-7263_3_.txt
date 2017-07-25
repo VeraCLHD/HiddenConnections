@@ -1,0 +1,1 @@
+results: serum holotc was the best predictor, with area under the roc curve (95% ci) 0.90 (0.86-0.93), and this was significantly better (p ≤ 0.0002) than the next best predictors; serum cobalamin, 0.80 (0.75-0.85), and mma, 0.78 (0.72-0.83).

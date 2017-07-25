@@ -1,1 +1,0 @@
-For 1387 foods, key variables were as follows: energy density (kcal/g), serving size (g), unit price ($/100 g), serving price ($/serving), and energy cost ($/kcal). A regression model tested associations between nutrients and unit price ($/100 g). Comparisons between food groups were tested by using one-factor analyses of variance. 

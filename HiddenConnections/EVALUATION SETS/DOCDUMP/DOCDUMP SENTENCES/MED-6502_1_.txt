@@ -1,0 +1,1 @@
+methods: energy, nutrient, and cost profiles for food items were calculated by using naturally nutrient rich methodology and converting price per 100 g edible portion to price per serving.

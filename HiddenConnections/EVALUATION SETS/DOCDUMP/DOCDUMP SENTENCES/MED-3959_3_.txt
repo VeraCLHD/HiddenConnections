@@ -1,0 +1,1 @@
+patient and hospital variables were used in the lasso algorithm for logistic regression with 10-fold cross validation to build a predictive model for colectomy requirement and mortality after colectomy.

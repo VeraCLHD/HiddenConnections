@@ -1,0 +1,1 @@
+cox proportional hazards models were fit using person-years as the underlying time metric.

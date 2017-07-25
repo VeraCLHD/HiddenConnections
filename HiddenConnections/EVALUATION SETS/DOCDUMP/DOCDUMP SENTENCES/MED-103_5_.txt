@@ -1,0 +1,1 @@
+age-sex-country-year observations (n = 19,244) on prevalence of obesity and overweight were synthesized using a spatio-temporal gaussian process regression model to estimate prevalence with 95% uncertainty intervals.

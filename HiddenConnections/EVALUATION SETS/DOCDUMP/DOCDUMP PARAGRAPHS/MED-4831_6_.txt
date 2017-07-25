@@ -1,1 +1,0 @@
-Model ensembles were developed from these component models. We assessed model performance with rigorous out-of-sample testing of prediction error and the validity of 95% UIs. For 13 causes with low observed numbers of deaths, we developed negative binomial models with plausible covariates. 

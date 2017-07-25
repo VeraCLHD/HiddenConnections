@@ -1,0 +1,1 @@
+the propensity score methods and cox regression model were used to match groups at the start of dialysis to perform survival analysis and estimate adjusted hazard ratio (hr).

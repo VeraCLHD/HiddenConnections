@@ -1,0 +1,1 @@
+we calculated body mass index (bmi) from self-reported weight and height in the brfss and adjusted for self-reporting bias using nhanes.

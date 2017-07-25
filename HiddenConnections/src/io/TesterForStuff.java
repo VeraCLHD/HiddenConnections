@@ -107,6 +107,8 @@ public class TesterForStuff {
 		//TesterForStuff.GetNounPhrases();
 		//parseTree();
 		//tagTerms();
+		
+		luceneSearch();
 	
 	}
 	
@@ -209,7 +211,7 @@ public class TesterForStuff {
 		LuceneSearcher ls = new LuceneSearcher();
 		  Set<String> set;
 		try {
-			set = ls.doSearch("\"" + "hormones" + "\"" + "AND" +  "\"" + "nicotine" + "\"", "IndexDirectory");
+			set = ls.doSearch("\"" + "nonalcoholic fatty liver" +"\"", "EVALUATION SETS/AUTHORITYNUTRITION/INDEX AUTHORITYUTRITION/");
 			for(String path: set){
 				  String str = Reader.readContentOfFile(path);
 				  System.out.println(path);

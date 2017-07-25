@@ -1,0 +1,1 @@
+we used the cox proportional hazards regression model to estimate the hazard ratio (hr) and 95% confidence interval (ci) for suicide by quintile of intake.

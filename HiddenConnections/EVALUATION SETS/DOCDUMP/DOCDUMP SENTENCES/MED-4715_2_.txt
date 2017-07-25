@@ -1,0 +1,1 @@
+a good fit to the data (p less than 0.0005, and r = 0.617 between observed and predicted points) was given by the equation y = 1.22(e-0.00384 chi 0) (1-e-0.0136 chi) where y is the change in serum cholesterol (in mmol/l), chi is added dietary cholesterol, and chi 0 is baseline dietary cholesterol (both in mg/d).

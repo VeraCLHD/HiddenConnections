@@ -1,0 +1,1 @@
+predictors included age, gender, race, bmi, hypertension, diabetes, cardiovascular disease, heart failure, tobacco use, egfr, and total cholesterol.

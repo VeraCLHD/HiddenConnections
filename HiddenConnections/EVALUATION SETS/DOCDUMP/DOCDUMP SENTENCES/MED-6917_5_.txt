@@ -1,0 +1,1 @@
+if one of the serum pcb concentration values fell below the level of detection (lod) the pair was excluded and if pcb half-life value exceeded the arbitrary value of 30years.

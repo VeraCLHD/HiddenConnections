@@ -1,0 +1,1 @@
+bmi is calculated by dividing body weight (in kilograms) by body height squared (in centimeters).

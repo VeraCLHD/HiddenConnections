@@ -1,0 +1,1 @@
+a multivariable cox regression model with interferon beta treatment included as a time-varying covariate was used to assess the hazard of disease progression associated with interferon beta treatment.

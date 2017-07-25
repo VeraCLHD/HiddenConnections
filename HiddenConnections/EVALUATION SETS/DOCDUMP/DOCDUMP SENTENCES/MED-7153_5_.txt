@@ -1,0 +1,1 @@
+we used a random-effect longitudinal regression model to examine associations between time-varying gasoline price and time-varying pa, controlling for age, race, gender, baseline study center, and time-varying education, marital status, household income, county cost of living, county bus fare, census block-group poverty, and urbanicity.

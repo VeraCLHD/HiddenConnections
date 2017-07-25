@@ -1,0 +1,1 @@
+odds ratios (ors) and 95% confidence intervals (cis) were estimated using multiple logistic regression models conditioned on age, sex and study centre, and adjusted for year of interview, education, tobacco smoking, history of diabetes and energy intake.

@@ -1,1 +1,0 @@
-Simplified risk scores were constructed based on the number of risk factors that were found significant in the logistic regression analyses. Original and simplified scores were cross-validated. A combined data set was created to estimate a potential center effect and to construct a final risk score. 

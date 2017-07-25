@@ -1,0 +1,1 @@
+results: the models predicted a neutral calcium balance [defined as calcium output (y) equal to calcium intake (c)] at intakes of 741 mg/d [95% prediction interval (pi): 507, 1035; y = 148.29 + 0.80c], 9.4 mg kg body wt(-1) d(-1) [95% pi: 6.4, 12.9; y = 1.44 + 0.85c], or 0.28 mg kcal(-1) d(-1) [95% pi: 0.19, 0.38; y = 0.051 + 0.816c].

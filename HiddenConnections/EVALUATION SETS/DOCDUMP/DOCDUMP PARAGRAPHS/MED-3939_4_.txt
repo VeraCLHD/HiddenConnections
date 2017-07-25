@@ -1,1 +1,0 @@
-Logistic regression models adjusted for age, gender, household income, education, physical activity, chronic illness and smoking. RESULTS: In the first wave, greater FVI was significantly associated with lower odds of depression (OR: 0.85 95% CI:0.78-0.92). A combined estimate of all 5 waves demonstrated similar results (OR: 0.72; 95% CI: 0.71-0.75). 

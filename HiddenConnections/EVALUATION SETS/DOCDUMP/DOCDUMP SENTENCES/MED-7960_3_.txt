@@ -1,0 +1,1 @@
+multivariable cox proportional hazards regression, with age as the timescale, was used to estimate relative risks and 95% confidence intervals; all statistical tests were two sided.

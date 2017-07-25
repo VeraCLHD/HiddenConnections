@@ -1,0 +1,1 @@
+we used the cox proportional hazards regression method to estimate mortality among statin users with statin use as time-dependent variable.

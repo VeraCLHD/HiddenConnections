@@ -1,0 +1,1 @@
+in a linear regression model that adjusted for age and gender, log blood harmane concentration was a predictor of cerebellar naa/tcr (beta = -0.41, p = 0.009); every 1 g(-10)/ml unit increase in log blood harmane concentration was associated with a 0.41 unit decrease in cerebellar naa/tcr.

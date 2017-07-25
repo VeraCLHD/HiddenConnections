@@ -1,0 +1,1 @@
+prevalence ors were estimated using logistic regression, adjusting for confounders, and using a random (mixed) effects model.

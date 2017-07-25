@@ -1,0 +1,1 @@
+we estimated odds ratios and 95% confidence intervals with logistic regression adjusting for matching factors and confounders.

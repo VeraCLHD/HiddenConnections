@@ -1,0 +1,1 @@
+for 133 causes and three special aggregates we used the cause of death ensemble model (codem) approach, which uses four families of statistical models testing a large set of different models using different permutations of covariates.

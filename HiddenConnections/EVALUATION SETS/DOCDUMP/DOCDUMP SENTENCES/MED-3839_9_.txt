@@ -1,0 +1,1 @@
+for 27 causes for which death is rare, we modelled the higher level cause in the cause hierarchy of the gbd 2010 and then allocated deaths across component causes proportionately, estimated from all available data in the database.

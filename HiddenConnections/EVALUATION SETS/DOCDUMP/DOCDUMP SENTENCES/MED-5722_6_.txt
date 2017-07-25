@@ -1,0 +1,1 @@
+results: variables such as bmi, family history of diabetes, cigarette smoking, education, morning exercise and plasma tag level were retained in multivariate logistic regression models as confounders because their inclusion changed the value of the odds ratio by more than 10 % in any exposure category.

@@ -1,0 +1,1 @@
+odds ratios (ors) and 95% confidence intervals (cis) were obtained from multiple logistic regression models applied on quartiles of factor scores, adjusting for potential confounding variables.

@@ -1,0 +1,1 @@
+time-varying cox proportional hazards regression models were used to calculate hrs after adjustment for confounders.

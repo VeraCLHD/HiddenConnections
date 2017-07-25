@@ -1,0 +1,1 @@
+the toolset drives hypothesis generation by providing a wide range of analyses including alpha diversity and beta diversity, phylogenetic profiling, supervised machine learning, and feature selection.

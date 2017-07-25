@@ -1,0 +1,1 @@
+we used principal component analysis to derive three dietary patterns: 'meat and fat', 'pasta and pizza' and 'fruit and vegetable', and unconditional logistic regression models to estimate risks of oac, ogjac and oscc associated with quartiles (q) of dietary pattern scores.

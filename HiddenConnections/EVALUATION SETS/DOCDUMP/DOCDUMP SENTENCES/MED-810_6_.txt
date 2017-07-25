@@ -1,0 +1,1 @@
+we also applied the generalized additive model (gam) with locally-weighted running-line smoothers (loess) to find the most plausible curve for the dose-response relationship.

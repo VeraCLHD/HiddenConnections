@@ -1,0 +1,1 @@
+using a random-effects model, data from each study were pooled and weighted by the inverse of their variance.

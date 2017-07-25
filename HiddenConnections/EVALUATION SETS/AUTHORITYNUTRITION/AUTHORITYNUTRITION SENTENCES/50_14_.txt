@@ -1,0 +1,1 @@
+additionally, salt sensitivity is not a static variable, and the limit above which people are considered salt sensitive differs depending the definition used.

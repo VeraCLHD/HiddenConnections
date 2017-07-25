@@ -103,7 +103,7 @@ public class TermAssembler {
 		public static void writeFinalVariants(){
 			Writer.overwriteFile("", FINAL_VARIANTS_TXT);
 			for(String lemma: TermAssembler.getVariants().keySet()){
-				String line = "";
+				String line = lemma + "\t";
 				for(String variant: TermAssembler.getVariants().get(lemma)){
 					line += variant + ",";
 				}

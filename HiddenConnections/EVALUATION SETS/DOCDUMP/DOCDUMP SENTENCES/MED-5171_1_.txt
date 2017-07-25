@@ -1,0 +1,1 @@
+here, we used a statistical non-linear regression model, based on the two most influential factors, cooking temperature and time, to estimate aa concentrations in french fries.
