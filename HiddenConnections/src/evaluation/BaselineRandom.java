@@ -14,7 +14,7 @@ import overall.Pair;
 public class BaselineRandom {
 	private static final String EVALUATION_RANDOM_COMBINATIONS_TXT = "evaluation/randomCombinations.txt";
 	private static final String TERMS_TO_EXCLUDE_TXT = "SEEDS/INFORMATION CONTENT/to_exclude.txt";
-	private int HOW_MANY_COMBINATIONS = 163;
+	private int HOW_MANY_COMBINATIONS = 2206;
 	private Set<String> setFoods = new HashSet<String>();
 	private Set<String> setDiseases = new HashSet<String>();
 	public Set<Pair<String>> pairsToEvaluate = new HashSet<Pair<String>>();
@@ -27,9 +27,9 @@ public class BaselineRandom {
 				String[] splitted = line.split("\t");
 				String lemma1 = splitted[0];
 				String type = splitted[2];
-				if(type.equals("DISEASE")){
+				if(type.equals("DISEASE") && !this.getGeneralTermsToExclude().contains(lemma1)){
 					this.getSetDiseases().add(lemma1);
-				} else if(type.equals("FOOD")){
+				} else if(type.equals("FOOD")&& !this.getGeneralTermsToExclude().contains(lemma1)){
 					this.getSetFoods().add(lemma1);
 				}
 				
@@ -43,29 +43,18 @@ public class BaselineRandom {
 		// nextInt is normally exclusive of the top value,
 		// so add 1 to make it inclusive
 		Writer.overwriteFile("", EVALUATION_RANDOM_COMBINATIONS_TXT);;
-		for(int i = 1; i<=HOW_MANY_COMBINATIONS; i++){
-			
-			
-			Pair<String> pair = new Pair<String>("term1", "term2");
-			while(true){
-				pair = buildOneRandomCombination();
-				if(!this.generalTermsToExclude.contains(pair.first) && !this.generalTermsToExclude.contains(pair.second)){
-					break;
-				}
-			}
-			
+		for(String food: this.getSetFoods()){
+			Pair<String> pair = buildOneRandomCombination(food);
 			pairsToEvaluate.add(pair);
 			Writer.appendLineToFile(pair.first + "\t"+pair.second, EVALUATION_RANDOM_COMBINATIONS_TXT);
 		}
 		
 	}
 	
-	public Pair<String> buildOneRandomCombination(){
-		int randomNumFood = ThreadLocalRandom.current().nextInt(0, this.getSetFoods().size());
+	public Pair<String> buildOneRandomCombination(String food){
+		
 		int randomNumDisease = ThreadLocalRandom.current().nextInt(0, this.getSetDiseases().size());
-		List<String> foods = new ArrayList<String>(this.getSetFoods());
 		List<String> diseases = new ArrayList<String>(this.getSetDiseases());
-		String food = foods.get(randomNumFood);
 		String disease = diseases.get(randomNumDisease);
 		Pair<String> pair = new Pair<String>(food, disease);
 		return pair;
@@ -86,8 +75,9 @@ public class BaselineRandom {
 		// TODO Auto-generated method stub
 		
 		BaselineRandom br = new BaselineRandom();
-		br.readTerms();
+		
 		br.readInformationContentFile();
+		br.readTerms();
 		br.buildRandomCombinations();
 	}
 	
