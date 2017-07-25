@@ -24,6 +24,7 @@ public class AutomaticEvaluation {
 	public Set<Pair<String>> pairsToEvaluate = new HashSet<Pair<String>>();
 	private String EVAL_SOURCE;
 	private String EVAL_SOURCE_NAME;
+	private static final String EVALUATION_RANDOM_COMBINATIONS_TXT = "evaluation/randomCombinations.txt";
 	
 
 	
@@ -38,17 +39,19 @@ public class AutomaticEvaluation {
 	}
 
 	public static void main(String[] args) {
-		evaluate("EVALUATION SETS/DOCDUMP/INDEX SENTENCES/", "DOCDUMP");
-		evaluate("EVALUATION SETS/AUTHORITYNUTRITION/INDEX AUTHORITYUTRITION/", "AUTHORITY");
+		//evaluate("EVALUATION SETS/DOCDUMP/INDEX SENTENCES/", "DOCDUMP", DISTANT_CONNECTIONS_FINAL_TXT);
+		//evaluate("EVALUATION SETS/AUTHORITYNUTRITION/INDEX AUTHORITYUTRITION/", "AUTHORITY", DISTANT_CONNECTIONS_FINAL_TXT);
+		evaluate("EVALUATION SETS/DOCDUMP/INDEX SENTENCES/", "DOCDUMP_RANDOM", EVALUATION_RANDOM_COMBINATIONS_TXT);
+		evaluate("EVALUATION SETS/AUTHORITYNUTRITION/INDEX AUTHORITYUTRITION/", "AUTHORITY_RANDOM", EVALUATION_RANDOM_COMBINATIONS_TXT);
 
 	}
 
-	private static void evaluate(String path_toIndexed, String nameOfSource) {
+	private static void evaluate(String path_toIndexed, String nameOfSource, String pathToConnections) {
 		Writer.overwriteFile("", "evaluation/" + "evaluation_paths_" + nameOfSource + ".txt");
 		Writer.overwriteFile("", "evaluation/evaluation_" + nameOfSource + ".txt");
 		AutomaticEvaluation ae = new AutomaticEvaluation(path_toIndexed, nameOfSource);
 		ae.readFinalVariants(FINAL_VARIANTS);
-		ae.readNewPairs(DISTANT_CONNECTIONS_FINAL_TXT);
+		ae.readNewPairs(pathToConnections);
 		for(Pair<String> pair: ae.pairsToEvaluate){
 			String line = pair.first + "\t" + pair.second + "\t";
 			if(ae.findOnePairOfLemmas(pair.first, pair.second, path_toIndexed)){
@@ -105,7 +108,7 @@ public class AutomaticEvaluation {
 	}
 	
 	public void readNewPairs(String results){
-		List<String> lines = Reader.readLinesList(DISTANT_CONNECTIONS_FINAL_TXT);
+		List<String> lines = Reader.readLinesList(results);
 		for(String line: lines){
 			if(!line.isEmpty()){
 				String[] splitted = line.split("\t");
