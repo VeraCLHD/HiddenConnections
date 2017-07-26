@@ -4097,7 +4097,6 @@ metastatic potential	-	INTERMEDIARY_CONCEPT
 national pork board	-	INTERMEDIARY_CONCEPT
 dietary carotenoids	-	INTERMEDIARY_CONCEPT
 cherry plum tree	-	FOOD
-st. johnswort	-	FOOD
 ovarian function	-	INTERMEDIARY_CONCEPT
 oxidisation	oxidisation	INTERMEDIARY_CONCEPT
 cerebrovascular accidents	-	DISEASE
@@ -4543,7 +4542,6 @@ ster zac bath concentrate	-	INTERMEDIARY_CONCEPT
 frozen cranberries	-	FOOD
 latest update	-	INTERMEDIARY_CONCEPT
 functioning immune	-	INTERMEDIARY_CONCEPT
-st. john's wort	-	FOOD
 false allegations	-	INTERMEDIARY_CONCEPT
 kidney bean	-	FOOD
 dietary modification	-	INTERMEDIARY_CONCEPT
@@ -12546,7 +12544,6 @@ pbdes	pbde	INTERMEDIARY_CONCEPT
 seizure disorder	-	DISEASE
 quinoas	quinoa	FOOD
 grapes	grape	FOOD
-st. pierre and miquelon	-	INTERMEDIARY_CONCEPT
 nsc-125973	nsc-125973	INTERMEDIARY_CONCEPT
 anzatax	anzatax	INTERMEDIARY_CONCEPT
 multivitamin	multivitamin	FOOD

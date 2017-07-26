@@ -10761,8 +10761,6 @@ dump sentences\A-453_16_.txt	flax	soy	and	AND-CONJ	[CC]	1
 dump sentences\V-323_0_.txt	almonds	hazelnuts	and	AND-CONJ	[CC]	1
 dump sentences\T-585_3_.txt	salmon	tuna	and	AND-CONJ	[CC]	1
 dump sentences\V-1296_16_.txt	salmon	tuna	and	AND-CONJ	[CC]	1
-dump sentences\A-350_15_.txt	mint tea	st. john's wort	,	LIST	[,, NN]	1
-dump sentences\V-631_15_.txt	mint tea	st. john's wort	,	LIST	[,, NN]	1
 dump sentences\A-214_41_.txt	crohn's disease	diet	,	LIST	[NN, ,]	1
 dump sentences\A-283_6_.txt	crohn's disease	diet	,	LIST	[NN, ,]	1
 dump sentences\T-742_4_.txt	crohn's disease	appendicitis	,	LIST	[NN, ,]	1

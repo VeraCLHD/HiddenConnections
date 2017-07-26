@@ -162,13 +162,21 @@ public class Bootstrapper {
 			Writer.appendLineToFile(pattern + "\t" + posPattern + "\t" +  score, bootstrapper.getNEW_PATTERNS());	
 		}
 		
-		// a new file for all patterns and instances (including seeds)
+		// a new file for all patterns and instances only good ones
 		for(String pattern: bootstrapper.getPatterns()){
 			for(Pair<String> instance: bootstrapper.getPatternsToRate().get(pattern)){
 				Writer.appendLineToFile(instance.first + "\t" + instance.second 
 						+ "\t" + pattern + "\t" + bootstrapper.getType(), bootstrapper.getALL_INSTANCES_AND_PATTERNS());
-				
-				
+
+			}
+		}
+		
+		// the instances of seed patterns are added here; the patterns themselves are in the file with seed connections only
+		for(String seedpattern: bootstrapper.getSeedConnections().keySet()){
+			for(Pair<String> instance: bootstrapper.getPatternsToRate().get(seedpattern)){
+				Writer.appendLineToFile(instance.first + "\t" + instance.second 
+						+ "\t" + seedpattern + "\t" + bootstrapper.getType(), bootstrapper.getALL_INSTANCES_AND_PATTERNS());
+
 			}
 		}
 	}
@@ -489,14 +497,7 @@ public class Bootstrapper {
 					String term2 = splitted[2];
 					String connection = splitted[3];
 					
-					Sentence pos1 = new Sentence(term1);
-					Sentence pos2 = new Sentence(term2);
 					
-					String postag1 = pos1.posTag(pos1.length()-1);
-					String postag2 = pos2.posTag(pos2.length()-1);
-					
-					// if both are nouns, then it is IS-A; the POS pattern must end with a noun -> then it is an NP
-					if(postag1.matches("NN|NNS|NNP|NNPS") && postag2.matches("NN|NNS|NNP|NNPS")){
 						Pair<String> pair = new Pair<String>(term1, term2);
 						this.getSeedsOnly().add(pair);
 						String pos = splitted[5].trim();
@@ -524,7 +525,7 @@ public class Bootstrapper {
 							set.add(seedPair);
 							this.getPatternsToRate().put(pattern, set);
 						}
-					}
+					
 				    
 
 					

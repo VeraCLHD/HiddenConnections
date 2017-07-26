@@ -9,6 +9,7 @@ animal foods	protein
 fruits	oranges
 persistent organic pollutants	dioxins
 heavy metals	cadmium
+symptoms	bloating
 plant proteins	beans
 adverse effects	erectile dysfunction
 animal products	milk
@@ -39,6 +40,7 @@ beverages	soda
 pollutants	mercury
 carbs	french fries
 bacteria	campylobacter
+food additives	polysorbate 80
 animal products	meat
 cruciferous vegetables	kale
 greens	broccoli
@@ -64,6 +66,7 @@ market	antacids
 plants	kale
 phytonutrients	resveratrol
 chronic diseases	coronary heart disease
+cooking method	microwaving
 statins	lipitor
 diseases	colon cancer
 diseases	autism
@@ -186,15 +189,18 @@ drugs	lipitor
 artificial sweeteners	splenda
 parasites	brain
 drugs	candy
+spices	amla
 bacteria	c. diff
 steroid hormones	estrogen
 respiratory infections	influenza
+bug	e. coli
 peas	split peas
 spices	ginger
 vegetables	grapes
 legumes	beans
 toxins	perfluorochemicals
 neurotransmitters	dopamine
+vegetables	green
 toxins	arsenic
 heavy metals	lead
 soy foods	tofu
@@ -228,6 +234,7 @@ sweeteners	fibromyalgia
 drug	lovastatin
 pills	tums
 legumes	lentils
+book	how not to die
 cured meats	ham
 animal products	dairy
 plants	beet greens

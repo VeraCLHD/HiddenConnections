@@ -73,3 +73,144 @@ plants	diets	full of	PART-OF
 plants	diet	full of	PART-OF
 plant foods	diet	full of	PART-OF
 sugar pills	babies	full of	PART-OF
+fiber	figs	are so packed with	PART-OF
+nutrition	greens	are so packed with	PART-OF
+ddt	china	are food sources of	PART-OF
+fat	nuts	are a preferable source of	PART-OF
+oxalates	beets	do have a lot of	PART-OF
+cancer	farmers	have higher rates of	PART-OF
+lignans	vegetarians	have about twice the level of	PART-OF
+iodine	kombu	is such a good source of	PART-OF
+carbs	oatmeal	packed with	PART-OF
+plants	diet	packed with	PART-OF
+butterfat	yogurt	packed with	PART-OF
+antioxidants	vegetables	packed with	PART-OF
+butter	yogurt	packed with	PART-OF
+gallstones	gallbladder	packed with	PART-OF
+fiber	whole foods	packed with	PART-OF
+animal products	diets	free of	PART-OF
+cholesterol	avocados	had	PART-OF
+bmaa	brains	had	PART-OF
+antioxidant	walnuts	have the	PART-OF
+anthocyanins	blueberries	have the	PART-OF
+lycopene	salsa	is packed with	PART-OF
+plants	diets	full of	PART-OF
+plants	diet	full of	PART-OF
+plant foods	diet	full of	PART-OF
+sugar pills	babies	full of	PART-OF
+estrogens	beer	was tested as a source of	PART-OF
+toxin genes	chickens	could spread	PART-OF
+phytosterols	seeds	are packed with	PART-OF
+lignans	flaxseeds	are packed with	PART-OF
+nutrition	nuts	are packed with	PART-OF
+fiber	dried fruit	are packed with	PART-OF
+salmonella	turkey	has	PART-OF
+opioid	casomorphin	has	PART-OF
+phosphorus	protein	has	PART-OF
+bumped	diet	has	PART-OF
+mrsa	u.s	has	PART-OF
+health benefits	spice	has	PART-OF
+vitamin d	mom	has	PART-OF
+shot	dementia	has	PART-OF
+tobacco	intake	has	PART-OF
+folate	kiwifruit	has	PART-OF
+fiber	date sugar	has	PART-OF
+antioxidants	kale	is a good source of	PART-OF
+saturated fat	egg	would have	PART-OF
+sulforaphane	vegetables	are a top source of	PART-OF
+ddt	farmed fish	had higher levels of	PART-OF
+ddt	fish	had higher levels of	PART-OF
+cholesterol	omega-3 fatty acids	are still loaded with	PART-OF
+meat	diets	with lots of	PART-OF
+legumes	healthy diet	with lots of	PART-OF
+nutrition	water	is a source of	PART-OF
+bergamottin	tea	is a source of	PART-OF
+mercury	fish	with high levels of	PART-OF
+salmonella	chicken	laced with	PART-OF
+polyphenols	tea	is a great source of	PART-OF
+vitamin d	supplements	to get	PART-OF
+phytonutrients	grains	have their	PART-OF
+antioxidant	mushrooms	are the best source of the	PART-OF
+antioxidants	plants	provide	PART-OF
+iodine	vegetables	provide	PART-OF
+pcbs	fish	are a key source of	PART-OF
+dna	cancer cells	wither away as their	PART-OF
+antioxidants	bacon	has to have	PART-OF
+hepatitis e	pigs	are the reservoirs of the	PART-OF
+urinary tract infections	rectal flora	serve as a reservoir for	PART-OF
+breast cancer	who	carry	PART-OF
+lead	nutritional yeast	carry	PART-OF
+cholesterol	cancer cells	have higher levels of these	PART-OF
+copper	disease	have higher levels of	PART-OF
+cadmium	meat	have higher levels of	PART-OF
+cholesterol	cancer cells	have higher levels of	PART-OF
+pesticides	who	have higher levels of	PART-OF
+ddt	farmed fish	have higher levels of	PART-OF
+ddt	fish	have higher levels of	PART-OF
+downer	anxiety	without the	PART-OF
+cancer	vegetables	without the	PART-OF
+saturated fat	beef	without the	PART-OF
+side effects	rheumatoid arthritis	without the	PART-OF
+cancer risk	vegetables	without the	PART-OF
+brain damage	boost	without the	PART-OF
+cholesterol	saturated fat	without the	PART-OF
+egg	saturated fat	without the	PART-OF
+preservative	fruits	without the	PART-OF
+side effects	drug	without the	PART-OF
+preservative	dried fruits	without the	PART-OF
+fragrance	massage	without the	PART-OF
+enzyme	cruciferous vegetables	have this	PART-OF
+hormones	meat	has these	PART-OF
+stearic acid	beef	does have	PART-OF
+side effects	exercise	does have	PART-OF
+sugar	cheerios	have added	PART-OF
+enzyme	greens	have that	PART-OF
+fat	nuts	are so filled with	PART-OF
+sex steroid hormones	meat	is so packed with	PART-OF
+fat	heart attacks	had a plug of	PART-OF
+cholesterol	eggs	are the top source of	PART-OF
+plants	diet	filled with	PART-OF
+saturated fat	fat cells	filled with	PART-OF
+flower	broccoli florets	are just clusters of	PART-OF
+arginine	seeds	are a source of	PART-OF
+phytonutrients	dates	have	PART-OF
+health	processed foods	have	PART-OF
+antioxidants	grapes	have	PART-OF
+fiber	dates	have	PART-OF
+mgus	who	have	PART-OF
+phytonutrients	sea vegetables	have	PART-OF
+fiber	plants	have	PART-OF
+heart attacks	who	have	PART-OF
+dna	plants	have	PART-OF
+fiber	plant foods	have	PART-OF
+breast cancer	who	have	PART-OF
+antioxidants	vegetables	have	PART-OF
+benzene	soft drinks	have	PART-OF
+prostate enlargement	who	have	PART-OF
+nicotine	plants	have	PART-OF
+myrosinase	greens	have	PART-OF
+apoe	who	have	PART-OF
+phosphorus	animal foods	have	PART-OF
+eaten	who	have	PART-OF
+fatty streaks	kids	have	PART-OF
+signs	hypersensitivity	have	PART-OF
+adverse effects	pregnancy	have	PART-OF
+amla	smoothies	have	PART-OF
+antioxidants	kiwifruits	have	PART-OF
+polyphenols	grapes	have	PART-OF
+antioxidants	cinnamon	is a great source of 	PART-OF
+fat	plant-based diets	have less	PART-OF
+bread	gluten	packed	PART-OF
+ldl	breast tumors	with higher levels of	PART-OF
+fat	nuts	are the best source of	PART-OF
+omega 3	chicken	has low levels of	PART-OF
+fiber	plant foods	are good sources of	PART-OF
+iron	nettle tea	does have the	PART-OF
+hormones	milk	is a rich source of these	PART-OF
+sugar	cranberry juice	without added	PART-OF
+sulforaphane	broccoli sprouts	releases	PART-OF
+antioxidant content	lentils	have twice the	PART-OF
+melatonin	cherries	were a source of	PART-OF
+enzyme	cruciferous vegetables	packed with the	PART-OF
+carcinogens	meat	has the highest level of these	PART-OF
+fruits	antioxidant	-packed dried	PART-OF

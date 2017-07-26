@@ -5,9 +5,12 @@ tomato juice	inflammation
 melatonin	cancer growth
 massage	inflammation
 grains	brain
+supplements	cold
 mozart	testosterone
+mints	gastrocolic reflex
 nuts	stroke
 nuts	breast cancer
+brown adipose tissue	burn
 immune system	thyroid gland
 split peas	cholesterol
 beans	dioxins
@@ -105,4 +108,5 @@ plant-based diets	igf-1
 liver	estrogens
 blueberries	oxidative stress
 saturated fat	cholesterol
+dairy	aging
 fruits	scurvy

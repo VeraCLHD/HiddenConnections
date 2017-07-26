@@ -4,6 +4,7 @@ iron	diabetes
 poultry	liver
 meat	inflammation
 carbs	pancreatic cancer
+vomiting	morning sickness
 blood	depression
 xenoestrogens	birth defects
 production	ulcerative colitis
@@ -13,6 +14,7 @@ sperm counts	processed meat
 fertility	saturated fat
 cholesterol	nonalcoholic fatty liver
 stomach cancer	salt
+amino acids	aging
 sperm counts	meat
 virus	obesity
 meats	cancers

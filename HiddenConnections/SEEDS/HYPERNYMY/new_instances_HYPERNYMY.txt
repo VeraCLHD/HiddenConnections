@@ -28,7 +28,6 @@ greens	fat soluble
 nutrition	diet
 milk	muscles
 who	insulin
-colic	pain
 kids	muscles
 nuts	health-promoting
 cortisol	stress hormone
@@ -76,7 +75,6 @@ who	happier
 babies	breast fed
 snacks	fruit
 gluten	fine
-iron	pro-oxidant
 raw	bell peppers
 scurvy	vitamin c
 exercise	stress
@@ -140,7 +138,6 @@ mushrooms	vitamin d
 milk	trigger
 tea	beans
 garbanzo bean	legume
-aging	disease
 drugs	exposures
 supplements	bit
 vision loss	cataracts

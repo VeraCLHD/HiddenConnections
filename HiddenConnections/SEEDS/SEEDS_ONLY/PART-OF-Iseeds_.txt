@@ -70,6 +70,7 @@ vegetables	antioxidants
 breast tumors	ldl
 brains	bmaa
 healthy diet	legumes
+smoothies	amla
 yogurt	butter
 greens	enzyme
 tea	bergamottin
@@ -77,6 +78,7 @@ omega-3 fatty acids	cholesterol
 walnuts	antioxidant
 bacon	antioxidants
 grapes	antioxidants
+pigs	hepatitis e
 dates	fiber
 nutritional yeast	lead
 cruciferous vegetables	enzyme
@@ -84,6 +86,7 @@ diets	plants
 beef	saturated fat
 fish	mercury
 plants	dna
+chicken	omega 3
 salsa	lycopene
 china	ddt
 soft drinks	benzene

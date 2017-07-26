@@ -73,3 +73,144 @@ diets	plants	full of	PART-OF-I
 diet	plants	full of	PART-OF-I
 diet	plant foods	full of	PART-OF-I
 babies	sugar pills	full of	PART-OF-I
+figs	fiber	are so packed with	PART-OF-I
+greens	nutrition	are so packed with	PART-OF-I
+china	ddt	are food sources of	PART-OF-I
+nuts	fat	are a preferable source of	PART-OF-I
+beets	oxalates	do have a lot of	PART-OF-I
+farmers	cancer	have higher rates of	PART-OF-I
+vegetarians	lignans	have about twice the level of	PART-OF-I
+kombu	iodine	is such a good source of	PART-OF-I
+oatmeal	carbs	packed with	PART-OF-I
+diet	plants	packed with	PART-OF-I
+yogurt	butterfat	packed with	PART-OF-I
+vegetables	antioxidants	packed with	PART-OF-I
+yogurt	butter	packed with	PART-OF-I
+gallbladder	gallstones	packed with	PART-OF-I
+whole foods	fiber	packed with	PART-OF-I
+diets	animal products	free of	PART-OF-I
+avocados	cholesterol	had	PART-OF-I
+brains	bmaa	had	PART-OF-I
+walnuts	antioxidant	have the	PART-OF-I
+blueberries	anthocyanins	have the	PART-OF-I
+salsa	lycopene	is packed with	PART-OF-I
+diets	plants	full of	PART-OF-I
+diet	plants	full of	PART-OF-I
+diet	plant foods	full of	PART-OF-I
+babies	sugar pills	full of	PART-OF-I
+beer	estrogens	was tested as a source of	PART-OF-I
+chickens	toxin genes	could spread	PART-OF-I
+seeds	phytosterols	are packed with	PART-OF-I
+flaxseeds	lignans	are packed with	PART-OF-I
+nuts	nutrition	are packed with	PART-OF-I
+dried fruit	fiber	are packed with	PART-OF-I
+turkey	salmonella	has	PART-OF-I
+casomorphin	opioid	has	PART-OF-I
+protein	phosphorus	has	PART-OF-I
+diet	bumped	has	PART-OF-I
+u.s	mrsa	has	PART-OF-I
+spice	health benefits	has	PART-OF-I
+mom	vitamin d	has	PART-OF-I
+dementia	shot	has	PART-OF-I
+intake	tobacco	has	PART-OF-I
+kiwifruit	folate	has	PART-OF-I
+date sugar	fiber	has	PART-OF-I
+kale	antioxidants	is a good source of	PART-OF-I
+egg	saturated fat	would have	PART-OF-I
+vegetables	sulforaphane	are a top source of	PART-OF-I
+farmed fish	ddt	had higher levels of	PART-OF-I
+fish	ddt	had higher levels of	PART-OF-I
+omega-3 fatty acids	cholesterol	are still loaded with	PART-OF-I
+diets	meat	with lots of	PART-OF-I
+healthy diet	legumes	with lots of	PART-OF-I
+water	nutrition	is a source of	PART-OF-I
+tea	bergamottin	is a source of	PART-OF-I
+fish	mercury	with high levels of	PART-OF-I
+chicken	salmonella	laced with	PART-OF-I
+tea	polyphenols	is a great source of	PART-OF-I
+supplements	vitamin d	to get	PART-OF-I
+grains	phytonutrients	have their	PART-OF-I
+mushrooms	antioxidant	are the best source of the	PART-OF-I
+plants	antioxidants	provide	PART-OF-I
+vegetables	iodine	provide	PART-OF-I
+fish	pcbs	are a key source of	PART-OF-I
+cancer cells	dna	wither away as their	PART-OF-I
+bacon	antioxidants	has to have	PART-OF-I
+pigs	hepatitis e	are the reservoirs of the	PART-OF-I
+rectal flora	urinary tract infections	serve as a reservoir for	PART-OF-I
+who	breast cancer	carry	PART-OF-I
+nutritional yeast	lead	carry	PART-OF-I
+cancer cells	cholesterol	have higher levels of these	PART-OF-I
+disease	copper	have higher levels of	PART-OF-I
+meat	cadmium	have higher levels of	PART-OF-I
+cancer cells	cholesterol	have higher levels of	PART-OF-I
+who	pesticides	have higher levels of	PART-OF-I
+farmed fish	ddt	have higher levels of	PART-OF-I
+fish	ddt	have higher levels of	PART-OF-I
+anxiety	downer	without the	PART-OF-I
+vegetables	cancer	without the	PART-OF-I
+beef	saturated fat	without the	PART-OF-I
+rheumatoid arthritis	side effects	without the	PART-OF-I
+vegetables	cancer risk	without the	PART-OF-I
+boost	brain damage	without the	PART-OF-I
+saturated fat	cholesterol	without the	PART-OF-I
+saturated fat	egg	without the	PART-OF-I
+fruits	preservative	without the	PART-OF-I
+drug	side effects	without the	PART-OF-I
+dried fruits	preservative	without the	PART-OF-I
+massage	fragrance	without the	PART-OF-I
+cruciferous vegetables	enzyme	have this	PART-OF-I
+meat	hormones	has these	PART-OF-I
+beef	stearic acid	does have	PART-OF-I
+exercise	side effects	does have	PART-OF-I
+cheerios	sugar	have added	PART-OF-I
+greens	enzyme	have that	PART-OF-I
+nuts	fat	are so filled with	PART-OF-I
+meat	sex steroid hormones	is so packed with	PART-OF-I
+heart attacks	fat	had a plug of	PART-OF-I
+eggs	cholesterol	are the top source of	PART-OF-I
+diet	plants	filled with	PART-OF-I
+fat cells	saturated fat	filled with	PART-OF-I
+broccoli florets	flower	are just clusters of	PART-OF-I
+seeds	arginine	are a source of	PART-OF-I
+dates	phytonutrients	have	PART-OF-I
+processed foods	health	have	PART-OF-I
+grapes	antioxidants	have	PART-OF-I
+dates	fiber	have	PART-OF-I
+who	mgus	have	PART-OF-I
+sea vegetables	phytonutrients	have	PART-OF-I
+plants	fiber	have	PART-OF-I
+who	heart attacks	have	PART-OF-I
+plants	dna	have	PART-OF-I
+plant foods	fiber	have	PART-OF-I
+who	breast cancer	have	PART-OF-I
+vegetables	antioxidants	have	PART-OF-I
+soft drinks	benzene	have	PART-OF-I
+who	prostate enlargement	have	PART-OF-I
+plants	nicotine	have	PART-OF-I
+greens	myrosinase	have	PART-OF-I
+who	apoe	have	PART-OF-I
+animal foods	phosphorus	have	PART-OF-I
+who	eaten	have	PART-OF-I
+kids	fatty streaks	have	PART-OF-I
+hypersensitivity	signs	have	PART-OF-I
+pregnancy	adverse effects	have	PART-OF-I
+smoothies	amla	have	PART-OF-I
+kiwifruits	antioxidants	have	PART-OF-I
+grapes	polyphenols	have	PART-OF-I
+cinnamon	antioxidants	is a great source of 	PART-OF-I
+plant-based diets	fat	have less	PART-OF-I
+gluten	bread	packed	PART-OF-I
+breast tumors	ldl	with higher levels of	PART-OF-I
+nuts	fat	are the best source of	PART-OF-I
+chicken	omega 3	has low levels of	PART-OF-I
+plant foods	fiber	are good sources of	PART-OF-I
+nettle tea	iron	does have the	PART-OF-I
+milk	hormones	is a rich source of these	PART-OF-I
+cranberry juice	sugar	without added	PART-OF-I
+broccoli sprouts	sulforaphane	releases	PART-OF-I
+lentils	antioxidant content	have twice the	PART-OF-I
+cherries	melatonin	were a source of	PART-OF-I
+cruciferous vegetables	enzyme	packed with the	PART-OF-I
+meat	carcinogens	has the highest level of these	PART-OF-I
+antioxidant	fruits	-packed dried	PART-OF-I

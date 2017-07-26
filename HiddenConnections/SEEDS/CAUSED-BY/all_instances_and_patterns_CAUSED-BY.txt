@@ -32,6 +32,7 @@ amyloidosis	leprosy	triggered by	CAUSED-BY
 inflammation	kangaroo meat	triggered by	CAUSED-BY
 inflammation	dioxin	triggered by	CAUSED-BY
 asthma	breathing	triggered by	CAUSED-BY
+allergies	tick bites	triggered by	CAUSED-BY
 calcium intake	dairy consumption	due to	CAUSED-BY
 non-alcoholic fatty liver disease	obesity	due to	CAUSED-BY
 pathogens	noroviruses	due to	CAUSED-BY
@@ -62,3 +63,83 @@ ph	short-chain fatty acids	is caused by	CAUSED-BY
 pain	inflammation	is caused by	CAUSED-BY
 plaque	bacteria	is caused by	CAUSED-BY
 diabetes	insulin resistance	is caused by	CAUSED-BY
+cancers	arsenic	caused by	CAUSED-BY
+dna mutations	smoking	caused by	CAUSED-BY
+uric acid	meat	caused by	CAUSED-BY
+dna damage	radiation	caused by	CAUSED-BY
+skin cancer	arsenic	caused by	CAUSED-BY
+inflammation	gluten	caused by	CAUSED-BY
+pain	inflammation	caused by	CAUSED-BY
+carcinogens	cooking	caused by	CAUSED-BY
+epidemic	obesity	caused by	CAUSED-BY
+health	obesity	caused by	CAUSED-BY
+irritation	cetuximab	caused by	CAUSED-BY
+inflammation	muscle	caused by	CAUSED-BY
+carcinogens	cooking meat	caused by	CAUSED-BY
+adverse effects	aspartame	caused by	CAUSED-BY
+tumor	hpv	caused by	CAUSED-BY
+smoke	frying	caused by	CAUSED-BY
+mutations	smoking	caused by	CAUSED-BY
+dna damage	free radicals	caused by	CAUSED-BY
+oxidation	metabolism	caused by	CAUSED-BY
+inflammation	muscle cell	caused by	CAUSED-BY
+cancer growth	exercise	was because of the	CAUSED-BY
+breast cancer	cooked meat	caused by the	CAUSED-BY
+inflammatory arthritis	crystallization	caused by the	CAUSED-BY
+oxidative stress	pesticide	caused by the	CAUSED-BY
+dna mutations	carcinogen	caused by the	CAUSED-BY
+production	cadmium	caused by the	CAUSED-BY
+production	cadmium exposure	caused by the	CAUSED-BY
+brain damage	mercury	caused by the	CAUSED-BY
+mutations	carcinogen	caused by the	CAUSED-BY
+egg nutrition center	american egg board	was created by the	CAUSED-BY
+calcium intake	dairy consumption	due to	CAUSED-BY
+non-alcoholic fatty liver disease	obesity	due to	CAUSED-BY
+pathogens	noroviruses	due to	CAUSED-BY
+arteries	cholesterol	due to	CAUSED-BY
+oils	steam	due to	CAUSED-BY
+meat	arachidonic acid	due to	CAUSED-BY
+meat	vitamin a	due to	CAUSED-BY
+brain	atherosclerosis	due to	CAUSED-BY
+liver toxicity	broccoli	due to	CAUSED-BY
+chickens	genetic manipulation	due to	CAUSED-BY
+dementia	vitamin	due to	CAUSED-BY
+toxicity	broccoli	due to	CAUSED-BY
+gluten	symptoms	due to	CAUSED-BY
+narrowed arteries	cholesterol	due to	CAUSED-BY
+viruses	manure	due to	CAUSED-BY
+coli exposure	bacteria	due to	CAUSED-BY
+dementia	vitamin b12	due to	CAUSED-BY
+reaction	seafood	due to	CAUSED-BY
+penis	phthalate	due to	CAUSED-BY
+meat	ddt	due to	CAUSED-BY
+fecal pathogens	noroviruses	due to	CAUSED-BY
+premature puberty	chemical pollutants	due to	CAUSED-BY
+phytonutrients	nutrient synergy	due to	CAUSED-BY
+carcinogens	cooking	created by 	CAUSED-BY
+copd	tobacco	is caused by	CAUSED-BY
+cartilage	inflammation	is caused by	CAUSED-BY
+fever	strep	is caused by	CAUSED-BY
+ph	short-chain fatty acids	is caused by	CAUSED-BY
+pain	inflammation	is caused by	CAUSED-BY
+plaque	bacteria	is caused by	CAUSED-BY
+diabetes	insulin resistance	is caused by	CAUSED-BY
+brains	mercury	due to the high levels of	CAUSED-BY
+sexual dysfunction	drugs	caused by these three	CAUSED-BY
+fish	chicken	could get triggered by	CAUSED-BY
+inflammatory response	animal protein	triggered by the	CAUSED-BY
+inflammation	animal protein	triggered by the	CAUSED-BY
+oxidant stress	antioxidant	due to the	CAUSED-BY
+fish	food poisoning	due to the	CAUSED-BY
+toxins	cooking	created by	CAUSED-BY
+carcinogens	cooking	created by	CAUSED-BY
+inflammation	domesticated animal	triggered by	CAUSED-BY
+amyloidosis	leprosy	triggered by	CAUSED-BY
+inflammation	kangaroo meat	triggered by	CAUSED-BY
+inflammation	dioxin	triggered by	CAUSED-BY
+asthma	breathing	triggered by	CAUSED-BY
+allergies	tick bites	triggered by	CAUSED-BY
+carbohydrates	acrylamide	due to the effects of	CAUSED-BY
+phytonutrients	plant	are created by the	CAUSED-BY
+diabetes	insulin resistance	are caused by	CAUSED-BY
+muscle tremors	cooked meat	due to the levels of	CAUSED-BY

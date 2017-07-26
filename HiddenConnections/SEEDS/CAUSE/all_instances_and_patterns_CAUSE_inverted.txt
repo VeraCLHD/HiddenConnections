@@ -34,3 +34,63 @@ cancer	cell phones	cause	CAUSED-BY
 inflammation	animal products	cause	CAUSED-BY
 depressive symptoms	inflammation	to trigger	CAUSED-BY
 strokes	arteries	to trigger	CAUSED-BY
+acne	milk	cause	CAUSED-BY
+dna mutations	carcinogens	cause	CAUSED-BY
+brain tumors	dental x-rays	cause	CAUSED-BY
+cancer	betel nuts	cause	CAUSED-BY
+plaque	bacteria	cause	CAUSED-BY
+dna mutations	hormones	cause	CAUSED-BY
+inflammation	meat	cause	CAUSED-BY
+lung inflammation	air pollution	cause	CAUSED-BY
+dna	carcinogens	cause	CAUSED-BY
+infections	bacteria	cause	CAUSED-BY
+dysfunction	free radicals	cause	CAUSED-BY
+cancer	cell phones	cause	CAUSED-BY
+inflammation	animal products	cause	CAUSED-BY
+blood sugar	raisins	caused less of a	CAUSED-BY
+nitrites	celery	to create	CAUSED-BY
+insulin	fish	causes triple the	CAUSED-BY
+type 1 diabetes	paratuberculosis	be a "trigger for	CAUSED-BY
+lung cancer	cigarette smoking	causes	CAUSED-BY
+depression	inflammation	causes	CAUSED-BY
+acne	milk intake	causes	CAUSED-BY
+smoking	lung cancer	causes	CAUSED-BY
+dna	liquid smoke	causes	CAUSED-BY
+insulin resistance	blood	causes	CAUSED-BY
+inflammation	animal foods	causes	CAUSED-BY
+dysfunction	saturated fat	causes	CAUSED-BY
+insulin resistance	sucralose	causes	CAUSED-BY
+insulin	sucralose	causes	CAUSED-BY
+cancer	cigarette smoking	causes	CAUSED-BY
+dna mutations	liquid smoke	causes	CAUSED-BY
+inflammation	titanium dioxide	to see if it would cause	CAUSED-BY
+insulin	carbohydrates	trigger a release of	CAUSED-BY
+diabetes	obesity	predisposes us to	CAUSED-BY
+atherosclerosis	cholesterol	is the cause of	CAUSED-BY
+antioxidants	plants	create	CAUSED-BY
+cancers	nitrosamines	are what cause the	CAUSED-BY
+pain	muscle damage	to cause	CAUSED-BY
+insulin	carbohydrates	cause a release of	CAUSED-BY
+bladder infection	bacteria	cause a	CAUSED-BY
+blood	cholesterol	cause the	CAUSED-BY
+blood clots	platelets	are what trigger the	CAUSED-BY
+uric acid	milk	caused	CAUSED-BY
+cancer	coffee drinking	caused	CAUSED-BY
+inflammation	animal products	caused	CAUSED-BY
+cancer	muscles	caused	CAUSED-BY
+cancer	coffee-drinking	caused	CAUSED-BY
+inflammation	animal products	trigger	CAUSED-BY
+inflammation	neu5gc	triggers	CAUSED-BY
+brain damage	homocysteine	could cause	CAUSED-BY
+erectile dysfunction	cholesterol	is because it predicts	CAUSED-BY
+cancer	animal protein	triggers the release of the	CAUSED-BY
+prediabetes	insulin resistance	is what causes	CAUSED-BY
+depression	folate	led to	CAUSED-BY
+brain tumors	x-rays	caused the	CAUSED-BY
+guidelines	who	creates	CAUSED-BY
+free radicals	exercise	creates	CAUSED-BY
+heterocyclic amines	fish	creates	CAUSED-BY
+inflammation	eggs	thought to cause	CAUSED-BY
+depressive symptoms	inflammation	to trigger	CAUSED-BY
+strokes	arteries	to trigger	CAUSED-BY
+gut	fat	causes our	CAUSED-BY

@@ -34,3 +34,63 @@ cell phones	cancer	cause	CAUSE
 animal products	inflammation	cause	CAUSE
 inflammation	depressive symptoms	to trigger	CAUSE
 arteries	strokes	to trigger	CAUSE
+milk	acne	cause	CAUSE
+carcinogens	dna mutations	cause	CAUSE
+dental x-rays	brain tumors	cause	CAUSE
+betel nuts	cancer	cause	CAUSE
+bacteria	plaque	cause	CAUSE
+hormones	dna mutations	cause	CAUSE
+meat	inflammation	cause	CAUSE
+air pollution	lung inflammation	cause	CAUSE
+carcinogens	dna	cause	CAUSE
+bacteria	infections	cause	CAUSE
+free radicals	dysfunction	cause	CAUSE
+cell phones	cancer	cause	CAUSE
+animal products	inflammation	cause	CAUSE
+raisins	blood sugar	caused less of a	CAUSE
+celery	nitrites	to create	CAUSE
+fish	insulin	causes triple the	CAUSE
+paratuberculosis	type 1 diabetes	be a "trigger for	CAUSE
+cigarette smoking	lung cancer	causes	CAUSE
+inflammation	depression	causes	CAUSE
+milk intake	acne	causes	CAUSE
+lung cancer	smoking	causes	CAUSE
+liquid smoke	dna	causes	CAUSE
+blood	insulin resistance	causes	CAUSE
+animal foods	inflammation	causes	CAUSE
+saturated fat	dysfunction	causes	CAUSE
+sucralose	insulin resistance	causes	CAUSE
+sucralose	insulin	causes	CAUSE
+cigarette smoking	cancer	causes	CAUSE
+liquid smoke	dna mutations	causes	CAUSE
+titanium dioxide	inflammation	to see if it would cause	CAUSE
+carbohydrates	insulin	trigger a release of	CAUSE
+obesity	diabetes	predisposes us to	CAUSE
+cholesterol	atherosclerosis	is the cause of	CAUSE
+plants	antioxidants	create	CAUSE
+nitrosamines	cancers	are what cause the	CAUSE
+muscle damage	pain	to cause	CAUSE
+carbohydrates	insulin	cause a release of	CAUSE
+bacteria	bladder infection	cause a	CAUSE
+cholesterol	blood	cause the	CAUSE
+platelets	blood clots	are what trigger the	CAUSE
+milk	uric acid	caused	CAUSE
+coffee drinking	cancer	caused	CAUSE
+animal products	inflammation	caused	CAUSE
+muscles	cancer	caused	CAUSE
+coffee-drinking	cancer	caused	CAUSE
+animal products	inflammation	trigger	CAUSE
+neu5gc	inflammation	triggers	CAUSE
+homocysteine	brain damage	could cause	CAUSE
+cholesterol	erectile dysfunction	is because it predicts	CAUSE
+animal protein	cancer	triggers the release of the	CAUSE
+insulin resistance	prediabetes	is what causes	CAUSE
+folate	depression	led to	CAUSE
+x-rays	brain tumors	caused the	CAUSE
+who	guidelines	creates	CAUSE
+exercise	free radicals	creates	CAUSE
+fish	heterocyclic amines	creates	CAUSE
+eggs	inflammation	thought to cause	CAUSE
+inflammation	depressive symptoms	to trigger	CAUSE
+arteries	strokes	to trigger	CAUSE
+fat	gut	causes our	CAUSE

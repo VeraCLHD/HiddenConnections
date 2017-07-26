@@ -26,6 +26,7 @@ irritation	cetuximab
 toxicity	broccoli
 inflammation	domesticated animal
 ph	short-chain fatty acids
+smoke	frying
 phytonutrients	nutrient synergy
 oxidation	metabolism
 brains	mercury
@@ -42,6 +43,7 @@ inflammation	muscle
 dementia	vitamin b12
 fish	chicken
 mutations	carcinogen
+allergies	tick bites
 cancers	arsenic
 egg nutrition center	american egg board
 sexual dysfunction	drugs

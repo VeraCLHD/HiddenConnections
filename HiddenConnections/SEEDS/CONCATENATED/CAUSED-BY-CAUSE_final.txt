@@ -32,6 +32,7 @@ amyloidosis	leprosy	triggered by	CAUSED-BY
 inflammation	kangaroo meat	triggered by	CAUSED-BY
 inflammation	dioxin	triggered by	CAUSED-BY
 asthma	breathing	triggered by	CAUSED-BY
+allergies	tick bites	triggered by	CAUSED-BY
 calcium intake	dairy consumption	due to	CAUSED-BY
 non-alcoholic fatty liver disease	obesity	due to	CAUSED-BY
 pathogens	noroviruses	due to	CAUSED-BY
@@ -62,6 +63,86 @@ ph	short-chain fatty acids	is caused by	CAUSED-BY
 pain	inflammation	is caused by	CAUSED-BY
 plaque	bacteria	is caused by	CAUSED-BY
 diabetes	insulin resistance	is caused by	CAUSED-BY
+cancers	arsenic	caused by	CAUSED-BY
+dna mutations	smoking	caused by	CAUSED-BY
+uric acid	meat	caused by	CAUSED-BY
+dna damage	radiation	caused by	CAUSED-BY
+skin cancer	arsenic	caused by	CAUSED-BY
+inflammation	gluten	caused by	CAUSED-BY
+pain	inflammation	caused by	CAUSED-BY
+carcinogens	cooking	caused by	CAUSED-BY
+epidemic	obesity	caused by	CAUSED-BY
+health	obesity	caused by	CAUSED-BY
+irritation	cetuximab	caused by	CAUSED-BY
+inflammation	muscle	caused by	CAUSED-BY
+carcinogens	cooking meat	caused by	CAUSED-BY
+adverse effects	aspartame	caused by	CAUSED-BY
+tumor	hpv	caused by	CAUSED-BY
+smoke	frying	caused by	CAUSED-BY
+mutations	smoking	caused by	CAUSED-BY
+dna damage	free radicals	caused by	CAUSED-BY
+oxidation	metabolism	caused by	CAUSED-BY
+inflammation	muscle cell	caused by	CAUSED-BY
+cancer growth	exercise	was because of the	CAUSED-BY
+breast cancer	cooked meat	caused by the	CAUSED-BY
+inflammatory arthritis	crystallization	caused by the	CAUSED-BY
+oxidative stress	pesticide	caused by the	CAUSED-BY
+dna mutations	carcinogen	caused by the	CAUSED-BY
+production	cadmium	caused by the	CAUSED-BY
+production	cadmium exposure	caused by the	CAUSED-BY
+brain damage	mercury	caused by the	CAUSED-BY
+mutations	carcinogen	caused by the	CAUSED-BY
+egg nutrition center	american egg board	was created by the	CAUSED-BY
+calcium intake	dairy consumption	due to	CAUSED-BY
+non-alcoholic fatty liver disease	obesity	due to	CAUSED-BY
+pathogens	noroviruses	due to	CAUSED-BY
+arteries	cholesterol	due to	CAUSED-BY
+oils	steam	due to	CAUSED-BY
+meat	arachidonic acid	due to	CAUSED-BY
+meat	vitamin a	due to	CAUSED-BY
+brain	atherosclerosis	due to	CAUSED-BY
+liver toxicity	broccoli	due to	CAUSED-BY
+chickens	genetic manipulation	due to	CAUSED-BY
+dementia	vitamin	due to	CAUSED-BY
+toxicity	broccoli	due to	CAUSED-BY
+gluten	symptoms	due to	CAUSED-BY
+narrowed arteries	cholesterol	due to	CAUSED-BY
+viruses	manure	due to	CAUSED-BY
+coli exposure	bacteria	due to	CAUSED-BY
+dementia	vitamin b12	due to	CAUSED-BY
+reaction	seafood	due to	CAUSED-BY
+penis	phthalate	due to	CAUSED-BY
+meat	ddt	due to	CAUSED-BY
+fecal pathogens	noroviruses	due to	CAUSED-BY
+premature puberty	chemical pollutants	due to	CAUSED-BY
+phytonutrients	nutrient synergy	due to	CAUSED-BY
+carcinogens	cooking	created by 	CAUSED-BY
+copd	tobacco	is caused by	CAUSED-BY
+cartilage	inflammation	is caused by	CAUSED-BY
+fever	strep	is caused by	CAUSED-BY
+ph	short-chain fatty acids	is caused by	CAUSED-BY
+pain	inflammation	is caused by	CAUSED-BY
+plaque	bacteria	is caused by	CAUSED-BY
+diabetes	insulin resistance	is caused by	CAUSED-BY
+brains	mercury	due to the high levels of	CAUSED-BY
+sexual dysfunction	drugs	caused by these three	CAUSED-BY
+fish	chicken	could get triggered by	CAUSED-BY
+inflammatory response	animal protein	triggered by the	CAUSED-BY
+inflammation	animal protein	triggered by the	CAUSED-BY
+oxidant stress	antioxidant	due to the	CAUSED-BY
+fish	food poisoning	due to the	CAUSED-BY
+toxins	cooking	created by	CAUSED-BY
+carcinogens	cooking	created by	CAUSED-BY
+inflammation	domesticated animal	triggered by	CAUSED-BY
+amyloidosis	leprosy	triggered by	CAUSED-BY
+inflammation	kangaroo meat	triggered by	CAUSED-BY
+inflammation	dioxin	triggered by	CAUSED-BY
+asthma	breathing	triggered by	CAUSED-BY
+allergies	tick bites	triggered by	CAUSED-BY
+carbohydrates	acrylamide	due to the effects of	CAUSED-BY
+phytonutrients	plant	are created by the	CAUSED-BY
+diabetes	insulin resistance	are caused by	CAUSED-BY
+muscle tremors	cooked meat	due to the levels of	CAUSED-BY
 
 uric acid	milk	caused	CAUSED-BY
 cancer	coffee drinking	caused	CAUSED-BY
@@ -98,6 +179,66 @@ cancer	cell phones	cause	CAUSED-BY
 inflammation	animal products	cause	CAUSED-BY
 depressive symptoms	inflammation	to trigger	CAUSED-BY
 strokes	arteries	to trigger	CAUSED-BY
+acne	milk	cause	CAUSED-BY
+dna mutations	carcinogens	cause	CAUSED-BY
+brain tumors	dental x-rays	cause	CAUSED-BY
+cancer	betel nuts	cause	CAUSED-BY
+plaque	bacteria	cause	CAUSED-BY
+dna mutations	hormones	cause	CAUSED-BY
+inflammation	meat	cause	CAUSED-BY
+lung inflammation	air pollution	cause	CAUSED-BY
+dna	carcinogens	cause	CAUSED-BY
+infections	bacteria	cause	CAUSED-BY
+dysfunction	free radicals	cause	CAUSED-BY
+cancer	cell phones	cause	CAUSED-BY
+inflammation	animal products	cause	CAUSED-BY
+blood sugar	raisins	caused less of a	CAUSED-BY
+nitrites	celery	to create	CAUSED-BY
+insulin	fish	causes triple the	CAUSED-BY
+type 1 diabetes	paratuberculosis	be a "trigger for	CAUSED-BY
+lung cancer	cigarette smoking	causes	CAUSED-BY
+depression	inflammation	causes	CAUSED-BY
+acne	milk intake	causes	CAUSED-BY
+smoking	lung cancer	causes	CAUSED-BY
+dna	liquid smoke	causes	CAUSED-BY
+insulin resistance	blood	causes	CAUSED-BY
+inflammation	animal foods	causes	CAUSED-BY
+dysfunction	saturated fat	causes	CAUSED-BY
+insulin resistance	sucralose	causes	CAUSED-BY
+insulin	sucralose	causes	CAUSED-BY
+cancer	cigarette smoking	causes	CAUSED-BY
+dna mutations	liquid smoke	causes	CAUSED-BY
+inflammation	titanium dioxide	to see if it would cause	CAUSED-BY
+insulin	carbohydrates	trigger a release of	CAUSED-BY
+diabetes	obesity	predisposes us to	CAUSED-BY
+atherosclerosis	cholesterol	is the cause of	CAUSED-BY
+antioxidants	plants	create	CAUSED-BY
+cancers	nitrosamines	are what cause the	CAUSED-BY
+pain	muscle damage	to cause	CAUSED-BY
+insulin	carbohydrates	cause a release of	CAUSED-BY
+bladder infection	bacteria	cause a	CAUSED-BY
+blood	cholesterol	cause the	CAUSED-BY
+blood clots	platelets	are what trigger the	CAUSED-BY
+uric acid	milk	caused	CAUSED-BY
+cancer	coffee drinking	caused	CAUSED-BY
+inflammation	animal products	caused	CAUSED-BY
+cancer	muscles	caused	CAUSED-BY
+cancer	coffee-drinking	caused	CAUSED-BY
+inflammation	animal products	trigger	CAUSED-BY
+inflammation	neu5gc	triggers	CAUSED-BY
+brain damage	homocysteine	could cause	CAUSED-BY
+erectile dysfunction	cholesterol	is because it predicts	CAUSED-BY
+cancer	animal protein	triggers the release of the	CAUSED-BY
+prediabetes	insulin resistance	is what causes	CAUSED-BY
+depression	folate	led to	CAUSED-BY
+brain tumors	x-rays	caused the	CAUSED-BY
+guidelines	who	creates	CAUSED-BY
+free radicals	exercise	creates	CAUSED-BY
+heterocyclic amines	fish	creates	CAUSED-BY
+inflammation	eggs	thought to cause	CAUSED-BY
+depressive symptoms	inflammation	to trigger	CAUSED-BY
+strokes	arteries	to trigger	CAUSED-BY
+gut	fat	causes our	CAUSED-BY
 
 arsenic	cancers	caused by	CAUSE
 smoking	dna mutations	caused by	CAUSE
@@ -132,6 +273,7 @@ leprosy	amyloidosis	triggered by	CAUSE
 kangaroo meat	inflammation	triggered by	CAUSE
 dioxin	inflammation	triggered by	CAUSE
 breathing	asthma	triggered by	CAUSE
+tick bites	allergies	triggered by	CAUSE
 dairy consumption	calcium intake	due to	CAUSE
 obesity	non-alcoholic fatty liver disease	due to	CAUSE
 noroviruses	pathogens	due to	CAUSE
@@ -162,6 +304,86 @@ short-chain fatty acids	ph	is caused by	CAUSE
 inflammation	pain	is caused by	CAUSE
 bacteria	plaque	is caused by	CAUSE
 insulin resistance	diabetes	is caused by	CAUSE
+arsenic	cancers	caused by	CAUSE
+smoking	dna mutations	caused by	CAUSE
+meat	uric acid	caused by	CAUSE
+radiation	dna damage	caused by	CAUSE
+arsenic	skin cancer	caused by	CAUSE
+gluten	inflammation	caused by	CAUSE
+inflammation	pain	caused by	CAUSE
+cooking	carcinogens	caused by	CAUSE
+obesity	epidemic	caused by	CAUSE
+obesity	health	caused by	CAUSE
+cetuximab	irritation	caused by	CAUSE
+muscle	inflammation	caused by	CAUSE
+cooking meat	carcinogens	caused by	CAUSE
+aspartame	adverse effects	caused by	CAUSE
+hpv	tumor	caused by	CAUSE
+frying	smoke	caused by	CAUSE
+smoking	mutations	caused by	CAUSE
+free radicals	dna damage	caused by	CAUSE
+metabolism	oxidation	caused by	CAUSE
+muscle cell	inflammation	caused by	CAUSE
+exercise	cancer growth	was because of the	CAUSE
+cooked meat	breast cancer	caused by the	CAUSE
+crystallization	inflammatory arthritis	caused by the	CAUSE
+pesticide	oxidative stress	caused by the	CAUSE
+carcinogen	dna mutations	caused by the	CAUSE
+cadmium	production	caused by the	CAUSE
+cadmium exposure	production	caused by the	CAUSE
+mercury	brain damage	caused by the	CAUSE
+carcinogen	mutations	caused by the	CAUSE
+american egg board	egg nutrition center	was created by the	CAUSE
+dairy consumption	calcium intake	due to	CAUSE
+obesity	non-alcoholic fatty liver disease	due to	CAUSE
+noroviruses	pathogens	due to	CAUSE
+cholesterol	arteries	due to	CAUSE
+steam	oils	due to	CAUSE
+arachidonic acid	meat	due to	CAUSE
+vitamin a	meat	due to	CAUSE
+atherosclerosis	brain	due to	CAUSE
+broccoli	liver toxicity	due to	CAUSE
+genetic manipulation	chickens	due to	CAUSE
+vitamin	dementia	due to	CAUSE
+broccoli	toxicity	due to	CAUSE
+symptoms	gluten	due to	CAUSE
+cholesterol	narrowed arteries	due to	CAUSE
+manure	viruses	due to	CAUSE
+bacteria	coli exposure	due to	CAUSE
+vitamin b12	dementia	due to	CAUSE
+seafood	reaction	due to	CAUSE
+phthalate	penis	due to	CAUSE
+ddt	meat	due to	CAUSE
+noroviruses	fecal pathogens	due to	CAUSE
+chemical pollutants	premature puberty	due to	CAUSE
+nutrient synergy	phytonutrients	due to	CAUSE
+cooking	carcinogens	created by 	CAUSE
+tobacco	copd	is caused by	CAUSE
+inflammation	cartilage	is caused by	CAUSE
+strep	fever	is caused by	CAUSE
+short-chain fatty acids	ph	is caused by	CAUSE
+inflammation	pain	is caused by	CAUSE
+bacteria	plaque	is caused by	CAUSE
+insulin resistance	diabetes	is caused by	CAUSE
+mercury	brains	due to the high levels of	CAUSE
+drugs	sexual dysfunction	caused by these three	CAUSE
+chicken	fish	could get triggered by	CAUSE
+animal protein	inflammatory response	triggered by the	CAUSE
+animal protein	inflammation	triggered by the	CAUSE
+antioxidant	oxidant stress	due to the	CAUSE
+food poisoning	fish	due to the	CAUSE
+cooking	toxins	created by	CAUSE
+cooking	carcinogens	created by	CAUSE
+domesticated animal	inflammation	triggered by	CAUSE
+leprosy	amyloidosis	triggered by	CAUSE
+kangaroo meat	inflammation	triggered by	CAUSE
+dioxin	inflammation	triggered by	CAUSE
+breathing	asthma	triggered by	CAUSE
+tick bites	allergies	triggered by	CAUSE
+acrylamide	carbohydrates	due to the effects of	CAUSE
+plant	phytonutrients	are created by the	CAUSE
+insulin resistance	diabetes	are caused by	CAUSE
+cooked meat	muscle tremors	due to the levels of	CAUSE
 
 milk	uric acid	caused	CAUSE
 coffee drinking	cancer	caused	CAUSE
@@ -197,3 +419,63 @@ free radicals	dysfunction	cause	CAUSE
 cell phones	cancer	cause	CAUSE
 animal products	inflammation	cause	CAUSE
 inflammation	depressive symptoms	to trigger	CAUSE
+arteries	strokes	to trigger	CAUSE
+milk	acne	cause	CAUSE
+carcinogens	dna mutations	cause	CAUSE
+dental x-rays	brain tumors	cause	CAUSE
+betel nuts	cancer	cause	CAUSE
+bacteria	plaque	cause	CAUSE
+hormones	dna mutations	cause	CAUSE
+meat	inflammation	cause	CAUSE
+air pollution	lung inflammation	cause	CAUSE
+carcinogens	dna	cause	CAUSE
+bacteria	infections	cause	CAUSE
+free radicals	dysfunction	cause	CAUSE
+cell phones	cancer	cause	CAUSE
+animal products	inflammation	cause	CAUSE
+raisins	blood sugar	caused less of a	CAUSE
+celery	nitrites	to create	CAUSE
+fish	insulin	causes triple the	CAUSE
+paratuberculosis	type 1 diabetes	be a "trigger for	CAUSE
+cigarette smoking	lung cancer	causes	CAUSE
+inflammation	depression	causes	CAUSE
+milk intake	acne	causes	CAUSE
+lung cancer	smoking	causes	CAUSE
+liquid smoke	dna	causes	CAUSE
+blood	insulin resistance	causes	CAUSE
+animal foods	inflammation	causes	CAUSE
+saturated fat	dysfunction	causes	CAUSE
+sucralose	insulin resistance	causes	CAUSE
+sucralose	insulin	causes	CAUSE
+cigarette smoking	cancer	causes	CAUSE
+liquid smoke	dna mutations	causes	CAUSE
+titanium dioxide	inflammation	to see if it would cause	CAUSE
+carbohydrates	insulin	trigger a release of	CAUSE
+obesity	diabetes	predisposes us to	CAUSE
+cholesterol	atherosclerosis	is the cause of	CAUSE
+plants	antioxidants	create	CAUSE
+nitrosamines	cancers	are what cause the	CAUSE
+muscle damage	pain	to cause	CAUSE
+carbohydrates	insulin	cause a release of	CAUSE
+bacteria	bladder infection	cause a	CAUSE
+cholesterol	blood	cause the	CAUSE
+platelets	blood clots	are what trigger the	CAUSE
+milk	uric acid	caused	CAUSE
+coffee drinking	cancer	caused	CAUSE
+animal products	inflammation	caused	CAUSE
+muscles	cancer	caused	CAUSE
+coffee-drinking	cancer	caused	CAUSE
+animal products	inflammation	trigger	CAUSE
+neu5gc	inflammation	triggers	CAUSE
+homocysteine	brain damage	could cause	CAUSE
+cholesterol	erectile dysfunction	is because it predicts	CAUSE
+animal protein	cancer	triggers the release of the	CAUSE
+insulin resistance	prediabetes	is what causes	CAUSE
+folate	depression	led to	CAUSE
+x-rays	brain tumors	caused the	CAUSE
+who	guidelines	creates	CAUSE
+exercise	free radicals	creates	CAUSE
+fish	heterocyclic amines	creates	CAUSE
+eggs	inflammation	thought to cause	CAUSE
+inflammation	depressive symptoms	to trigger	CAUSE
+arteries	strokes	to trigger	CAUSE

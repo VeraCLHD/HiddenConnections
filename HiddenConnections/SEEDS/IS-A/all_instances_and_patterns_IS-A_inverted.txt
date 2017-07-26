@@ -55,197 +55,200 @@ aspirin	medications	, including	HYPERNYMY
 beta-carboline alkaloids	chicken	, including	HYPERNYMY
 phip	heterocyclic amines	, including	HYPERNYMY
 beans	legumes	, including	HYPERNYMY
-collard greens	cruciferous vegetables	like	HYPERNYMY
 bleeding	inflammation	like	HYPERNYMY
 bacon	cured meats	like	HYPERNYMY
 lutein	phytonutrients	like	HYPERNYMY
 hibiscus	teas	like	HYPERNYMY
 protein	animal foods	like	HYPERNYMY
-erythritol	sweetener	like	HYPERNYMY
 ornish	plant-based diet	like	HYPERNYMY
-sweet potatoes	roots	like	HYPERNYMY
-antibiotics	drugs	like	HYPERNYMY
-endostatin	angiogenesis inhibitors	like	HYPERNYMY
 dioxins	persistent organic pollutants	like	HYPERNYMY
 beans	plant proteins	like	HYPERNYMY
 midazolam	drugs	like	HYPERNYMY
-cauliflower	plant foods	like	HYPERNYMY
-trans fats	food additives	like	HYPERNYMY
 dioxins	pollutants	like	HYPERNYMY
 igf	hormones	like	HYPERNYMY
-breast cancer	diseases	like	HYPERNYMY
-glyburide	medication	like	HYPERNYMY
 lycopene	phytonutrients	like	HYPERNYMY
-glaucoma	disease	like	HYPERNYMY
-viagra	drugs	like	HYPERNYMY
-prozac	drugs	like	HYPERNYMY
 strokes	diseases	like	HYPERNYMY
-fenugreek	spices	like	HYPERNYMY
-premarin	drug	like	HYPERNYMY
 insulin	medications	like	HYPERNYMY
 urine	smell	like	HYPERNYMY
-mayo	recipe	like	HYPERNYMY
 methionine	amino acids	like	HYPERNYMY
 aspirin	drugs	like	HYPERNYMY
-ibuprofen	anti-inflammatory drugs	like	HYPERNYMY
 igf	insulin	like	HYPERNYMY
 tofu	soyfoods	like	HYPERNYMY
-als	neurodegenerative diseases	like	HYPERNYMY
 benadryl	medications	like	HYPERNYMY
 ddt	pesticides	like	HYPERNYMY
 beans	plants	like	HYPERNYMY
 obesity	western diseases	like	HYPERNYMY
-chlorhexidine	chemicals	like	HYPERNYMY
-premarin	drugs	like	HYPERNYMY
 green tea	bacteria	like	HYPERNYMY
-aspirin	anti-inflammatory drugs	like	HYPERNYMY
-salmon	fish	like	HYPERNYMY
 turmeric	spices	like	HYPERNYMY
 soda	beverages	like	HYPERNYMY
 mercury	pollutants	like	HYPERNYMY
 campylobacter	bacteria	like	HYPERNYMY
+polysorbate 80	food additives	like	HYPERNYMY
+kale	cruciferous vegetables	like	HYPERNYMY
+coconut oil	oils	like	HYPERNYMY
+diabetes	leading killers	like	HYPERNYMY
+hesperidin	phytonutrients	like	HYPERNYMY
+vinegar	good bacteria	like	HYPERNYMY
+tetrahydroisoquinoline	toxins	like	HYPERNYMY
+sulfites	preservatives	like	HYPERNYMY
+tuna	fish	like	HYPERNYMY
+fruit juice	olive oil	like	HYPERNYMY
+spinach	leafy vegetables	like	HYPERNYMY
+stroke	diseases	like	HYPERNYMY
+mcdonald	food restaurants	like	HYPERNYMY
+salmonella	pathogens	like	HYPERNYMY
+cholesterol	drugs	like	HYPERNYMY
+spinach	bug	like	HYPERNYMY
+antacids	market	like	HYPERNYMY
+cancer	tissues	like	HYPERNYMY
+resveratrol	phytonutrients	like	HYPERNYMY
+breast cancer	carcinomas	like	HYPERNYMY
+beta	drugs	like	HYPERNYMY
+childhood leukemia	cancers	like	HYPERNYMY
+lipitor	statins	like	HYPERNYMY
+colon cancer	diseases	like	HYPERNYMY
+ddt	persistent pollutants	like	HYPERNYMY
+arsenic	minerals	like	HYPERNYMY
+gum	inflammation	like	HYPERNYMY
+leukemias	cancers	like	HYPERNYMY
+acupuncture	treatments	like	HYPERNYMY
+tylenol	drugs	like	HYPERNYMY
+gingivitis	periodontal diseases	like	HYPERNYMY
+lactic acid	acids	like	HYPERNYMY
+nicotine	hormones	like	HYPERNYMY
+lemons	fruit	like	HYPERNYMY
+zeranol	drugs	like	HYPERNYMY
+ginger	herbs	like	HYPERNYMY
+lipitor	statin drugs	like	HYPERNYMY
+palmitic acid	fats	like	HYPERNYMY
+ulcerative colitis	inflammatory bowel diseases	like	HYPERNYMY
+vitamin c	antioxidants	like	HYPERNYMY
+nausea	symptoms	like	HYPERNYMY
+cashews	nuts	like	HYPERNYMY
+fosamax	drugs	like	HYPERNYMY
+emphysema	diseases	like	HYPERNYMY
+ibuprofen	drugs	like	HYPERNYMY
+anchovies	fish	like	HYPERNYMY
+vitamin c	phytonutrients	like	HYPERNYMY
+iga	antibodies	like	HYPERNYMY
+nuts	plant foods	like	HYPERNYMY
+als	diseases	like	HYPERNYMY
+valium	drug	like	HYPERNYMY
+cranberries	healthy food	like	HYPERNYMY
+diabetes	diseases	like	HYPERNYMY
+viagra	pills	like	HYPERNYMY
+polychlorinated biphenyls	xenoestrogens	like	HYPERNYMY
+salmonella	food poisoning	like	HYPERNYMY
+tarragon	herb	like	HYPERNYMY
+salmonella	foodborne pathogens	like	HYPERNYMY
+veggie burgers	meats	like	HYPERNYMY
+depression	illnesses	like	HYPERNYMY
+rosmarinic acid	phytonutrients	like	HYPERNYMY
+sugar water	crystallizes	like	HYPERNYMY
+noni	fruits	like	HYPERNYMY
+triphala	supplements	like	HYPERNYMY
+pcbs	xenoestrogens	like	HYPERNYMY
+phip	cooked meat	like	HYPERNYMY
+apples	vegetables	like	HYPERNYMY
+nuts	fats	like	HYPERNYMY
+apples	fruit	like	HYPERNYMY
+rice	carbohydrates	like	HYPERNYMY
+vitamin c	acids	like	HYPERNYMY
+bologna	cured meats	like	HYPERNYMY
+collard greens	cruciferous vegetables	like	HYPERNYMY
+erythritol	sweetener	like	HYPERNYMY
+sweet potatoes	roots	like	HYPERNYMY
+antibiotics	drugs	like	HYPERNYMY
+endostatin	angiogenesis inhibitors	like	HYPERNYMY
+cauliflower	plant foods	like	HYPERNYMY
+trans fats	food additives	like	HYPERNYMY
+breast cancer	diseases	like	HYPERNYMY
+glyburide	medication	like	HYPERNYMY
+glaucoma	disease	like	HYPERNYMY
+viagra	drugs	like	HYPERNYMY
+prozac	drugs	like	HYPERNYMY
+fenugreek	spices	like	HYPERNYMY
+premarin	drug	like	HYPERNYMY
+mayo	recipe	like	HYPERNYMY
+ibuprofen	anti-inflammatory drugs	like	HYPERNYMY
+als	neurodegenerative diseases	like	HYPERNYMY
+chlorhexidine	chemicals	like	HYPERNYMY
+premarin	drugs	like	HYPERNYMY
+aspirin	anti-inflammatory drugs	like	HYPERNYMY
+salmon	fish	like	HYPERNYMY
 valium	drugs	like	HYPERNYMY
 cancer	diseases	like	HYPERNYMY
 obesity	diseases	like	HYPERNYMY
 hexachlorobenzene	pollutants	like	HYPERNYMY
 arugula	vegetables	like	HYPERNYMY
 antiangiogenesis	therapies	like	HYPERNYMY
-kale	cruciferous vegetables	like	HYPERNYMY
 garlic	family vegetables	like	HYPERNYMY
-coconut oil	oils	like	HYPERNYMY
-diabetes	leading killers	like	HYPERNYMY
-hesperidin	phytonutrients	like	HYPERNYMY
-vinegar	good bacteria	like	HYPERNYMY
 beta-carotene	carotenoids	like	HYPERNYMY
-tetrahydroisoquinoline	toxins	like	HYPERNYMY
-sulfites	preservatives	like	HYPERNYMY
 beta-carotene	antioxidants	like	HYPERNYMY
-tuna	fish	like	HYPERNYMY
 kale	leafy vegetables	like	HYPERNYMY
 drinking	smoothie	like	HYPERNYMY
-fruit juice	olive oil	like	HYPERNYMY
-spinach	leafy vegetables	like	HYPERNYMY
 lemonin	lemonoids	like	HYPERNYMY
-stroke	diseases	like	HYPERNYMY
 breast	kale	like	HYPERNYMY
-mcdonald	food restaurants	like	HYPERNYMY
-salmonella	pathogens	like	HYPERNYMY
 microcephaly	abnormalities	like	HYPERNYMY
 valium	sleeping pills	like	HYPERNYMY
 chicken	animal products	like	HYPERNYMY
 lipitor	drugs	like	HYPERNYMY
-cholesterol	drugs	like	HYPERNYMY
-spinach	bug	like	HYPERNYMY
 splenda	artificial sweeteners	like	HYPERNYMY
-antacids	market	like	HYPERNYMY
-cancer	tissues	like	HYPERNYMY
 adrenaline	stress hormones	like	HYPERNYMY
-resveratrol	phytonutrients	like	HYPERNYMY
-breast cancer	carcinomas	like	HYPERNYMY
 candy	drugs	like	HYPERNYMY
-beta	drugs	like	HYPERNYMY
-childhood leukemia	cancers	like	HYPERNYMY
-lipitor	statins	like	HYPERNYMY
 heart disease	killers	like	HYPERNYMY
 c. diff	bacteria	like	HYPERNYMY
 estrogen	steroid hormones	like	HYPERNYMY
 influenza	respiratory infections	like	HYPERNYMY
-colon cancer	diseases	like	HYPERNYMY
-ddt	persistent pollutants	like	HYPERNYMY
-arsenic	minerals	like	HYPERNYMY
-gum	inflammation	like	HYPERNYMY
+e. coli	bug	like	HYPERNYMY
 dha	omega-3s	like	HYPERNYMY
-leukemias	cancers	like	HYPERNYMY
 arsenic	toxins	like	HYPERNYMY
-acupuncture	treatments	like	HYPERNYMY
-tylenol	drugs	like	HYPERNYMY
-gingivitis	periodontal diseases	like	HYPERNYMY
 tofu	soy foods	like	HYPERNYMY
 hunger	feelings	like	HYPERNYMY
 methionine	inflammatory bowel diseases	like	HYPERNYMY
-lactic acid	acids	like	HYPERNYMY
 ddt	pollutants	like	HYPERNYMY
-nicotine	hormones	like	HYPERNYMY
 ibuprofen	drug	like	HYPERNYMY
 canola	oils	like	HYPERNYMY
 flax	plant foods	like	HYPERNYMY
 dairy	animal proteins	like	HYPERNYMY
-lemons	fruit	like	HYPERNYMY
 prostate	cancers	like	HYPERNYMY
 penicillin	drugs	like	HYPERNYMY
 lemons	sour fruit	like	HYPERNYMY
 bacon	processed meats	like	HYPERNYMY
-zeranol	drugs	like	HYPERNYMY
-ginger	herbs	like	HYPERNYMY
-lipitor	statin drugs	like	HYPERNYMY
-palmitic acid	fats	like	HYPERNYMY
 adrenaline	hormones	like	HYPERNYMY
-ulcerative colitis	inflammatory bowel diseases	like	HYPERNYMY
 nausea	side effects	like	HYPERNYMY
 cake	desserts	like	HYPERNYMY
 ginger	nausea	like	HYPERNYMY
-vitamin c	antioxidants	like	HYPERNYMY
 hexachlorobenzene	persistent pollutants	like	HYPERNYMY
 prozac	neurotransmitters	like	HYPERNYMY
-nausea	symptoms	like	HYPERNYMY
-cashews	nuts	like	HYPERNYMY
 cilantro	who	like	HYPERNYMY
-fosamax	drugs	like	HYPERNYMY
 nicotine	drugs	like	HYPERNYMY
-emphysema	diseases	like	HYPERNYMY
 heroin	drugs	like	HYPERNYMY
-ibuprofen	drugs	like	HYPERNYMY
-anchovies	fish	like	HYPERNYMY
-vitamin c	phytonutrients	like	HYPERNYMY
-iga	antibodies	like	HYPERNYMY
-nuts	plant foods	like	HYPERNYMY
 beta-carotene	phytonutrients	like	HYPERNYMY
 kale	vegetables	like	HYPERNYMY
-als	diseases	like	HYPERNYMY
 noni	exotic fruits	like	HYPERNYMY
 lovastatin	drug	like	HYPERNYMY
 zeaxanthin	pigments	like	HYPERNYMY
-valium	drug	like	HYPERNYMY
 tums	pills	like	HYPERNYMY
 alzheimer	brain diseases	like	HYPERNYMY
 lentils	legumes	like	HYPERNYMY
-cranberries	healthy food	like	HYPERNYMY
-diabetes	diseases	like	HYPERNYMY
-viagra	pills	like	HYPERNYMY
-polychlorinated biphenyls	xenoestrogens	like	HYPERNYMY
+how not to die	book	like	HYPERNYMY
 pcb	perfluorochemicals	like	HYPERNYMY
-salmonella	food poisoning	like	HYPERNYMY
-tarragon	herb	like	HYPERNYMY
-salmonella	foodborne pathogens	like	HYPERNYMY
-veggie burgers	meats	like	HYPERNYMY
 alfalfa sprouts	food poisoning	like	HYPERNYMY
-depression	illnesses	like	HYPERNYMY
-rosmarinic acid	phytonutrients	like	HYPERNYMY
 pancake	market	like	HYPERNYMY
-sugar water	crystallizes	like	HYPERNYMY
 soy	plant foods	like	HYPERNYMY
 lipitor	drug	like	HYPERNYMY
-noni	fruits	like	HYPERNYMY
-triphala	supplements	like	HYPERNYMY
-pcbs	xenoestrogens	like	HYPERNYMY
 rye	whole grains	like	HYPERNYMY
 grains	plant foods	like	HYPERNYMY
-phip	cooked meat	like	HYPERNYMY
 jogging	exercise	like	HYPERNYMY
 allopurinol	drugs	like	HYPERNYMY
-apples	vegetables	like	HYPERNYMY
-nuts	fats	like	HYPERNYMY
 zeaxanthin	phytonutrients	like	HYPERNYMY
-apples	fruit	like	HYPERNYMY
 serotonin	neurotransmitters	like	HYPERNYMY
 lutein	carotenoids	like	HYPERNYMY
 bpa	graphs	like	HYPERNYMY
-rice	carbohydrates	like	HYPERNYMY
 brussels sprouts	cruciferous vegetables	like	HYPERNYMY
 butyrate	short-chain fatty acids	like	HYPERNYMY
-vitamin c	acids	like	HYPERNYMY
 maple syrup	smell	like	HYPERNYMY
-bologna	cured meats	like	HYPERNYMY
 colon cancer	western diseases	like	HYPERNYMY
 tums	pills	—like	HYPERNYMY
 iodine	minerals	—like	HYPERNYMY
@@ -517,3 +520,404 @@ veggie chicken	meat substitutes	such as	HYPERNYMY
 fruit juice	beverages	such as	HYPERNYMY
 lignans	phytonutrients	such as	HYPERNYMY
 saffron	spices	such as	HYPERNYMY
+cardiovascular disease	diseases	such as cancer and	HYPERNYMY
+cardiovascular disease	chronic diseases	such as cancer and	HYPERNYMY
+beet	plants	—such as beets and	HYPERNYMY
+beet greens	plants	—such as beets and	HYPERNYMY
+tuna	fish	such as salmon and	HYPERNYMY
+grapes	vegetables	such as red onions and	HYPERNYMY
+common cold	upper respiratory tract infections	such as the	HYPERNYMY
+lichen planus	autoimmune diseases	such as 	HYPERNYMY
+hepatitis	diseases	such as 	HYPERNYMY
+vitamin c	phytonutrients	such as 	HYPERNYMY
+green	vegetables	, such as beets and	HYPERNYMY
+c. diff	bugs	such as salmonella and	HYPERNYMY
+methionine	amino acids	, such as leucine and	HYPERNYMY
+zeaxanthin	phytonutrients	such as lutein and	HYPERNYMY
+zeaxanthin	pigments	such as lutein and	HYPERNYMY
+kale	greens	such as spinach and	HYPERNYMY
+soy	plant foods	such as nuts and	HYPERNYMY
+heartburn	symptoms	are	HYPERNYMY
+airborne supplements	supplements	such as vitamin c and	HYPERNYMY
+nuts	beans	such as soy, and	HYPERNYMY
+fish oil	animal products	such as	HYPERNYMY
+soy	beans	such as	HYPERNYMY
+bacon	cured meats	such as	HYPERNYMY
+hamburgers	processed foods	such as	HYPERNYMY
+pcbs	industrial pollutants	such as	HYPERNYMY
+lutein	phytonutrients	such as	HYPERNYMY
+meat	methionine	such as	HYPERNYMY
+arsenic	heavy metals	such as	HYPERNYMY
+oranges	fruits	such as	HYPERNYMY
+brain	symptoms	such as	HYPERNYMY
+cancer	chronic diseases	such as	HYPERNYMY
+mercury	industrial pollutants	such as	HYPERNYMY
+heart disease	diseases	such as	HYPERNYMY
+cadmium	heavy metals	such as	HYPERNYMY
+bloating	symptoms	such as	HYPERNYMY
+turmeric	greens	such as	HYPERNYMY
+cinnamon	spices	such as	HYPERNYMY
+dioxins	industrial toxins	such as	HYPERNYMY
+erectile dysfunction	adverse effects	such as	HYPERNYMY
+magnesium	minerals	such as	HYPERNYMY
+milk	animal products	such as	HYPERNYMY
+statins	medications	such as	HYPERNYMY
+dioxins	pollutants	such as	HYPERNYMY
+arsenic	persistent organic pollutants	such as	HYPERNYMY
+memory	side effects	such as	HYPERNYMY
+asthma	diseases	such as	HYPERNYMY
+ham	cheese	such as	HYPERNYMY
+lycopene	phytonutrients	such as	HYPERNYMY
+breast	cancers	such as	HYPERNYMY
+prozac	drugs	such as	HYPERNYMY
+antibiotic residues	contaminants	such as	HYPERNYMY
+aspirin	drugs	such as	HYPERNYMY
+nuts	fat	such as	HYPERNYMY
+vitamin c	supplements	such as	HYPERNYMY
+grapefruit	beans	such as	HYPERNYMY
+greens	vegetables	such as	HYPERNYMY
+iron supplements	supplements	such as	HYPERNYMY
+beets	nitrate-rich vegetables	such as	HYPERNYMY
+garlic	spices	such as	HYPERNYMY
+psa	biomarkers	such as	HYPERNYMY
+titanium dioxide	microparticles	such as	HYPERNYMY
+meat	diarrhea	such as	HYPERNYMY
+salmon	fish	such as	HYPERNYMY
+chickpeas	legumes	such as	HYPERNYMY
+nitrate	health	such as	HYPERNYMY
+pneumonia	respiratory tract infections	such as	HYPERNYMY
+turmeric	spices	such as	HYPERNYMY
+mercury	pollutants	such as	HYPERNYMY
+french fries	carbs	such as	HYPERNYMY
+cancer	diseases	such as	HYPERNYMY
+meat	animal products	such as	HYPERNYMY
+currants	fruits	such as	HYPERNYMY
+alkylphenols	industrial pollutants	such as	HYPERNYMY
+turkey	poultry	such as	HYPERNYMY
+heart disease	inflammation	such as	HYPERNYMY
+antibiotic residues	dietary contaminants	such as	HYPERNYMY
+crohn	inflammatory bowel diseases	such as	HYPERNYMY
+lutein	pigments	such as	HYPERNYMY
+kale	greens	such as	HYPERNYMY
+stroke	diseases	such as	HYPERNYMY
+potassium	taking supplements	such as	HYPERNYMY
+nuts	processed foods	such as	HYPERNYMY
+salmonella	pathogens	such as	HYPERNYMY
+chicken	animal products	such as	HYPERNYMY
+hibiscus tea	beverages	such as	HYPERNYMY
+sun-dried	carbs	such as	HYPERNYMY
+kale	plants	such as	HYPERNYMY
+brain	parasites	such as	HYPERNYMY
+coronary heart disease	chronic diseases	such as	HYPERNYMY
+dioxins	pops	such as	HYPERNYMY
+pcbs found	industrial pollutants	such as	HYPERNYMY
+split peas	peas	such as	HYPERNYMY
+autism	diseases	such as	HYPERNYMY
+ginger	spices	such as	HYPERNYMY
+noni	fruit juices	such as	HYPERNYMY
+perfluorochemicals	toxins	such as	HYPERNYMY
+beans	legumes	such as	HYPERNYMY
+aspirin	plants	such as	HYPERNYMY
+heart disease	inflammatory diseases	such as	HYPERNYMY
+soy	plant proteins	such as	HYPERNYMY
+dopamine	neurotransmitters	such as	HYPERNYMY
+nutmeg	spices	such as	HYPERNYMY
+onions	vegetables	such as	HYPERNYMY
+asthma	inflammatory diseases	such as	HYPERNYMY
+oranges	citrus-based fruits	such as	HYPERNYMY
+red onions	vegetables	such as	HYPERNYMY
+dioxins	toxins	such as	HYPERNYMY
+osteoarthritis	inflammatory diseases	such as	HYPERNYMY
+dioxins	industrial carcinogens	such as	HYPERNYMY
+beans	plant foods	such as	HYPERNYMY
+blueberries	fresh fruits	such as	HYPERNYMY
+dental x-rays	radiation	such as	HYPERNYMY
+tuna	industrial pollutants	such as	HYPERNYMY
+currants	dried fruits	such as	HYPERNYMY
+skin cancer	cancers	such as	HYPERNYMY
+weight gain	side effects	such as	HYPERNYMY
+spinach	greens	such as	HYPERNYMY
+broccoli	cruciferous vegetables	such as	HYPERNYMY
+breast pain	menstrual symptoms	such as	HYPERNYMY
+alzheimer	diseases	such as	HYPERNYMY
+ulcerative colitis	inflammatory bowel diseases	such as	HYPERNYMY
+nausea	side effects	such as	HYPERNYMY
+hepatitis	diseases	such as	HYPERNYMY
+nori	sea vegetables	such as	HYPERNYMY
+peanuts	legumes	such as	HYPERNYMY
+titanium dioxide	nanoparticles	such as	HYPERNYMY
+noni juice	liver	such as	HYPERNYMY
+alzheimer	neurodegenerative diseases	such as	HYPERNYMY
+heterocyclic amines	carcinogens	such as	HYPERNYMY
+chicken	meat	such as	HYPERNYMY
+potassium	supplements	such as	HYPERNYMY
+pcb	persistent organic pollutants	such as	HYPERNYMY
+bacon	animal products	such as	HYPERNYMY
+pcb	toxins	such as	HYPERNYMY
+tomatoes	fruits	such as	HYPERNYMY
+vitamin c	phytonutrients	such as	HYPERNYMY
+multivitamins	vitamin supplements	such as	HYPERNYMY
+nuts	plant foods	such as	HYPERNYMY
+soy	legumes	such as	HYPERNYMY
+raisins	energy	such as	HYPERNYMY
+turmeric	dna damage	such as	HYPERNYMY
+mercury	heavy metals	such as	HYPERNYMY
+fibromyalgia	sweeteners	such as	HYPERNYMY
+lentils	legumes	such as	HYPERNYMY
+diabetes	diseases	such as	HYPERNYMY
+dairy	animal products	such as	HYPERNYMY
+uterine cancer	side effects	such as	HYPERNYMY
+scurvy	diseases	such as	HYPERNYMY
+phip	carcinogens	such as	HYPERNYMY
+statins	therapies	such as	HYPERNYMY
+antibiotic residues	drugs	such as	HYPERNYMY
+dairy	animal foods	such as	HYPERNYMY
+orange juice	fruit juices	such as	HYPERNYMY
+mrsa	superbugs	such as	HYPERNYMY
+psoriasis	autoimmune diseases	such as	HYPERNYMY
+stroke	cardiovascular diseases	such as	HYPERNYMY
+asbestos	contaminants	such as	HYPERNYMY
+pcbs	pollutants	such as	HYPERNYMY
+beets	vegetables	such as	HYPERNYMY
+salmonella	bugs	such as	HYPERNYMY
+ham	meat	such as	HYPERNYMY
+curcumin	antioxidants	such as	HYPERNYMY
+blueberries	fruits	such as	HYPERNYMY
+goji berries	herbs	such as	HYPERNYMY
+breast cancer	cancers	such as	HYPERNYMY
+wine	drinks	such as	HYPERNYMY
+schizophrenia	brain diseases	such as	HYPERNYMY
+vitamin e	vitamin supplements	such as	HYPERNYMY
+vitamin c	vitamin supplements	such as	HYPERNYMY
+worms	brain parasites	such as	HYPERNYMY
+ham	meats	such as	HYPERNYMY
+sun	carbs	such as	HYPERNYMY
+ham	processed meats	such as	HYPERNYMY
+pancreatic cancer	cancers	such as	HYPERNYMY
+veggie chicken	meat substitutes	such as	HYPERNYMY
+fruit juice	beverages	such as	HYPERNYMY
+lignans	phytonutrients	such as	HYPERNYMY
+saffron	spices	such as	HYPERNYMY
+mangosteen	fruit juices	such as noni and	HYPERNYMY
+dairy	animal products	such as fish, meat and	HYPERNYMY
+beans	legumes	such as lentils and	HYPERNYMY
+broccoli	greens	such as kale and	HYPERNYMY
+collards	greens	such as kale and	HYPERNYMY
+collard greens	plants	such as kale and	HYPERNYMY
+collard	plants	such as kale and	HYPERNYMY
+bleeding	inflammation	like	HYPERNYMY
+bacon	cured meats	like	HYPERNYMY
+lutein	phytonutrients	like	HYPERNYMY
+hibiscus	teas	like	HYPERNYMY
+protein	animal foods	like	HYPERNYMY
+ornish	plant-based diet	like	HYPERNYMY
+dioxins	persistent organic pollutants	like	HYPERNYMY
+beans	plant proteins	like	HYPERNYMY
+midazolam	drugs	like	HYPERNYMY
+dioxins	pollutants	like	HYPERNYMY
+igf	hormones	like	HYPERNYMY
+lycopene	phytonutrients	like	HYPERNYMY
+strokes	diseases	like	HYPERNYMY
+insulin	medications	like	HYPERNYMY
+urine	smell	like	HYPERNYMY
+methionine	amino acids	like	HYPERNYMY
+aspirin	drugs	like	HYPERNYMY
+igf	insulin	like	HYPERNYMY
+tofu	soyfoods	like	HYPERNYMY
+benadryl	medications	like	HYPERNYMY
+ddt	pesticides	like	HYPERNYMY
+beans	plants	like	HYPERNYMY
+obesity	western diseases	like	HYPERNYMY
+green tea	bacteria	like	HYPERNYMY
+turmeric	spices	like	HYPERNYMY
+soda	beverages	like	HYPERNYMY
+mercury	pollutants	like	HYPERNYMY
+campylobacter	bacteria	like	HYPERNYMY
+polysorbate 80	food additives	like	HYPERNYMY
+kale	cruciferous vegetables	like	HYPERNYMY
+coconut oil	oils	like	HYPERNYMY
+diabetes	leading killers	like	HYPERNYMY
+hesperidin	phytonutrients	like	HYPERNYMY
+vinegar	good bacteria	like	HYPERNYMY
+tetrahydroisoquinoline	toxins	like	HYPERNYMY
+sulfites	preservatives	like	HYPERNYMY
+tuna	fish	like	HYPERNYMY
+fruit juice	olive oil	like	HYPERNYMY
+spinach	leafy vegetables	like	HYPERNYMY
+stroke	diseases	like	HYPERNYMY
+mcdonald	food restaurants	like	HYPERNYMY
+salmonella	pathogens	like	HYPERNYMY
+cholesterol	drugs	like	HYPERNYMY
+spinach	bug	like	HYPERNYMY
+antacids	market	like	HYPERNYMY
+cancer	tissues	like	HYPERNYMY
+resveratrol	phytonutrients	like	HYPERNYMY
+breast cancer	carcinomas	like	HYPERNYMY
+beta	drugs	like	HYPERNYMY
+childhood leukemia	cancers	like	HYPERNYMY
+lipitor	statins	like	HYPERNYMY
+colon cancer	diseases	like	HYPERNYMY
+ddt	persistent pollutants	like	HYPERNYMY
+arsenic	minerals	like	HYPERNYMY
+gum	inflammation	like	HYPERNYMY
+leukemias	cancers	like	HYPERNYMY
+acupuncture	treatments	like	HYPERNYMY
+tylenol	drugs	like	HYPERNYMY
+gingivitis	periodontal diseases	like	HYPERNYMY
+lactic acid	acids	like	HYPERNYMY
+nicotine	hormones	like	HYPERNYMY
+lemons	fruit	like	HYPERNYMY
+zeranol	drugs	like	HYPERNYMY
+ginger	herbs	like	HYPERNYMY
+lipitor	statin drugs	like	HYPERNYMY
+palmitic acid	fats	like	HYPERNYMY
+ulcerative colitis	inflammatory bowel diseases	like	HYPERNYMY
+vitamin c	antioxidants	like	HYPERNYMY
+nausea	symptoms	like	HYPERNYMY
+cashews	nuts	like	HYPERNYMY
+fosamax	drugs	like	HYPERNYMY
+emphysema	diseases	like	HYPERNYMY
+ibuprofen	drugs	like	HYPERNYMY
+anchovies	fish	like	HYPERNYMY
+vitamin c	phytonutrients	like	HYPERNYMY
+iga	antibodies	like	HYPERNYMY
+nuts	plant foods	like	HYPERNYMY
+als	diseases	like	HYPERNYMY
+valium	drug	like	HYPERNYMY
+cranberries	healthy food	like	HYPERNYMY
+diabetes	diseases	like	HYPERNYMY
+viagra	pills	like	HYPERNYMY
+polychlorinated biphenyls	xenoestrogens	like	HYPERNYMY
+salmonella	food poisoning	like	HYPERNYMY
+tarragon	herb	like	HYPERNYMY
+salmonella	foodborne pathogens	like	HYPERNYMY
+veggie burgers	meats	like	HYPERNYMY
+depression	illnesses	like	HYPERNYMY
+rosmarinic acid	phytonutrients	like	HYPERNYMY
+sugar water	crystallizes	like	HYPERNYMY
+noni	fruits	like	HYPERNYMY
+triphala	supplements	like	HYPERNYMY
+pcbs	xenoestrogens	like	HYPERNYMY
+phip	cooked meat	like	HYPERNYMY
+apples	vegetables	like	HYPERNYMY
+nuts	fats	like	HYPERNYMY
+apples	fruit	like	HYPERNYMY
+rice	carbohydrates	like	HYPERNYMY
+vitamin c	acids	like	HYPERNYMY
+bologna	cured meats	like	HYPERNYMY
+collard greens	cruciferous vegetables	like	HYPERNYMY
+erythritol	sweetener	like	HYPERNYMY
+sweet potatoes	roots	like	HYPERNYMY
+antibiotics	drugs	like	HYPERNYMY
+endostatin	angiogenesis inhibitors	like	HYPERNYMY
+cauliflower	plant foods	like	HYPERNYMY
+trans fats	food additives	like	HYPERNYMY
+breast cancer	diseases	like	HYPERNYMY
+glyburide	medication	like	HYPERNYMY
+glaucoma	disease	like	HYPERNYMY
+viagra	drugs	like	HYPERNYMY
+prozac	drugs	like	HYPERNYMY
+fenugreek	spices	like	HYPERNYMY
+premarin	drug	like	HYPERNYMY
+mayo	recipe	like	HYPERNYMY
+ibuprofen	anti-inflammatory drugs	like	HYPERNYMY
+als	neurodegenerative diseases	like	HYPERNYMY
+chlorhexidine	chemicals	like	HYPERNYMY
+premarin	drugs	like	HYPERNYMY
+aspirin	anti-inflammatory drugs	like	HYPERNYMY
+salmon	fish	like	HYPERNYMY
+valium	drugs	like	HYPERNYMY
+cancer	diseases	like	HYPERNYMY
+obesity	diseases	like	HYPERNYMY
+hexachlorobenzene	pollutants	like	HYPERNYMY
+arugula	vegetables	like	HYPERNYMY
+antiangiogenesis	therapies	like	HYPERNYMY
+garlic	family vegetables	like	HYPERNYMY
+beta-carotene	carotenoids	like	HYPERNYMY
+beta-carotene	antioxidants	like	HYPERNYMY
+kale	leafy vegetables	like	HYPERNYMY
+drinking	smoothie	like	HYPERNYMY
+lemonin	lemonoids	like	HYPERNYMY
+breast	kale	like	HYPERNYMY
+microcephaly	abnormalities	like	HYPERNYMY
+valium	sleeping pills	like	HYPERNYMY
+chicken	animal products	like	HYPERNYMY
+lipitor	drugs	like	HYPERNYMY
+splenda	artificial sweeteners	like	HYPERNYMY
+adrenaline	stress hormones	like	HYPERNYMY
+candy	drugs	like	HYPERNYMY
+heart disease	killers	like	HYPERNYMY
+c. diff	bacteria	like	HYPERNYMY
+estrogen	steroid hormones	like	HYPERNYMY
+influenza	respiratory infections	like	HYPERNYMY
+e. coli	bug	like	HYPERNYMY
+dha	omega-3s	like	HYPERNYMY
+arsenic	toxins	like	HYPERNYMY
+tofu	soy foods	like	HYPERNYMY
+hunger	feelings	like	HYPERNYMY
+methionine	inflammatory bowel diseases	like	HYPERNYMY
+ddt	pollutants	like	HYPERNYMY
+ibuprofen	drug	like	HYPERNYMY
+canola	oils	like	HYPERNYMY
+flax	plant foods	like	HYPERNYMY
+dairy	animal proteins	like	HYPERNYMY
+prostate	cancers	like	HYPERNYMY
+penicillin	drugs	like	HYPERNYMY
+lemons	sour fruit	like	HYPERNYMY
+bacon	processed meats	like	HYPERNYMY
+adrenaline	hormones	like	HYPERNYMY
+nausea	side effects	like	HYPERNYMY
+cake	desserts	like	HYPERNYMY
+ginger	nausea	like	HYPERNYMY
+hexachlorobenzene	persistent pollutants	like	HYPERNYMY
+prozac	neurotransmitters	like	HYPERNYMY
+cilantro	who	like	HYPERNYMY
+nicotine	drugs	like	HYPERNYMY
+heroin	drugs	like	HYPERNYMY
+beta-carotene	phytonutrients	like	HYPERNYMY
+kale	vegetables	like	HYPERNYMY
+noni	exotic fruits	like	HYPERNYMY
+lovastatin	drug	like	HYPERNYMY
+zeaxanthin	pigments	like	HYPERNYMY
+tums	pills	like	HYPERNYMY
+alzheimer	brain diseases	like	HYPERNYMY
+lentils	legumes	like	HYPERNYMY
+how not to die	book	like	HYPERNYMY
+pcb	perfluorochemicals	like	HYPERNYMY
+alfalfa sprouts	food poisoning	like	HYPERNYMY
+pancake	market	like	HYPERNYMY
+soy	plant foods	like	HYPERNYMY
+lipitor	drug	like	HYPERNYMY
+rye	whole grains	like	HYPERNYMY
+grains	plant foods	like	HYPERNYMY
+jogging	exercise	like	HYPERNYMY
+allopurinol	drugs	like	HYPERNYMY
+zeaxanthin	phytonutrients	like	HYPERNYMY
+serotonin	neurotransmitters	like	HYPERNYMY
+lutein	carotenoids	like	HYPERNYMY
+bpa	graphs	like	HYPERNYMY
+brussels sprouts	cruciferous vegetables	like	HYPERNYMY
+butyrate	short-chain fatty acids	like	HYPERNYMY
+maple syrup	smell	like	HYPERNYMY
+colon cancer	western diseases	like	HYPERNYMY
+aspirin	drug	is	HYPERNYMY
+heart disease	diseases	is	HYPERNYMY
+bmaa	neurotoxins	is	HYPERNYMY
+skim milk	milk	is	HYPERNYMY
+microwaving	cooking method	is	HYPERNYMY
+barley	whole grains	, such as oats and	HYPERNYMY
+barley	grains	, such as oats and	HYPERNYMY
+corn	diets	(such as beans and	HYPERNYMY
+corn	plant-based diets	(such as beans and	HYPERNYMY
+amla	spices	such as garlic and	HYPERNYMY
+peaches	vegetables	, such as oranges and	HYPERNYMY
+dairy	animal products	such as meat and	HYPERNYMY
+pesticides	milk	, such as pcbs and	HYPERNYMY
+pesticides	breast milk	, such as pcbs and	HYPERNYMY
+plant	plants	, such as berries, and	HYPERNYMY
+lead	heavy metals	, such as mercury and	HYPERNYMY
+smoke	pollutants	, such as second hand	HYPERNYMY
+ham	meats	such as bacon and	HYPERNYMY
+ham	cured meats	such as bacon and	HYPERNYMY
+serotonin	neurotransmitters	such as dopamine and	HYPERNYMY
+curcumin	plants	such as aspirin and	HYPERNYMY

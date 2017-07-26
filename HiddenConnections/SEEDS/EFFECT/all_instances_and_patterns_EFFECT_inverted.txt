@@ -28,3 +28,132 @@ cholesterol	fiber	lowers	EFFECT-I
 ldl	nuts	lowers	EFFECT-I
 cancer risk	vegans	lowers	EFFECT-I
 blood pressure	tea	lowers	EFFECT-I
+infection	nutritional yeast	cut their rates of	EFFECT-I
+brain	mercury	is bad for	EFFECT-I
+lifespan	supplements	decrease your	EFFECT-I
+aromatase	spinach	dropped	EFFECT-I
+aromatase	grapes	suppress the activity of	EFFECT-I
+dna	plants	protects our 	EFFECT-I
+stroke	vegetables	per day are associated with [a quarter] lower rate of	EFFECT-I
+cholesterol	beef	lowers	EFFECT-I
+uric acid	milk	lowers	EFFECT-I
+cholesterol levels	eating eggs	lowers	EFFECT-I
+ldl	eating nuts	lowers	EFFECT-I
+ldl-cholesterol	intake	lowers	EFFECT-I
+cholesterol	eggs	lowers	EFFECT-I
+cholesterol	fiber	lowers	EFFECT-I
+ldl	nuts	lowers	EFFECT-I
+cancer risk	vegans	lowers	EFFECT-I
+blood pressure	tea	lowers	EFFECT-I
+thyroid gland	immune system	attacks our	EFFECT-I
+blood	standard american diet	is so toxic to	EFFECT-I
+cancer growth	standard american diet	slows	EFFECT-I
+cancer	plant foods	have lower rates of	EFFECT-I
+blood sugar	saturated fat	raises	EFFECT-I
+scurvy	fruits	could cure	EFFECT-I
+ldl	eggs	raise	EFFECT-I
+fecal bacteria	cooking	will kill these	EFFECT-I
+astrocytes	beans	would help protect	EFFECT-I
+chronic pain	plant-based diets	help with	EFFECT-I
+asthma	vegetables	help with	EFFECT-I
+cholesterol	almonds	lower our	EFFECT-I
+cholesterol	walnuts	lower our	EFFECT-I
+irritable bowel syndrome	cayenne pepper	could help with	EFFECT-I
+cadmium	vegetarians	had lower levels of	EFFECT-I
+belly fat	legumes	helps to reduce	EFFECT-I
+cancer	vegetables	reduce	EFFECT-I
+heart disease	vegetables	reduce	EFFECT-I
+atherosclerosis	vegan diet	could reverse	EFFECT-I
+oxidation	eggs	would reduce	EFFECT-I
+enzymes	grapefruit	suppress the	EFFECT-I
+muscles	peppermint	does is relax the	EFFECT-I
+detoxifying enzymes	broccoli	boosted the	EFFECT-I
+cholesterol levels	eating eggs	lowered	EFFECT-I
+cholesterol	eggs	lowered	EFFECT-I
+platelet	tomatoes	lowered	EFFECT-I
+platelet activation	tomatoes	lowered	EFFECT-I
+blood pressure	fiber	lowered	EFFECT-I
+cancer cells	phytates	help block the ability of	EFFECT-I
+symptoms	plant-based diets	reduced	EFFECT-I
+asthma	diet	reduced	EFFECT-I
+diabetes	brown rice	reduced	EFFECT-I
+diabetes risk	brown rice	reduced	EFFECT-I
+dna damage	phytonutrients	reduced	EFFECT-I
+bad cholesterol	nuts	drop your	EFFECT-I
+nitric oxide	viagra	works: it boosts	EFFECT-I
+antioxidant	tea	boost the	EFFECT-I
+plant-based diet	findings	do suggest a favorable effect of a	EFFECT-I
+cholesterol	saturated fat	were they able to boost their	EFFECT-I
+inflammation	plant-based diets	decrease	EFFECT-I
+detoxifying enzymes	broccoli	boosts the	EFFECT-I
+bioavailability	turmeric	boosts the	EFFECT-I
+ah receptor	pollutants	exert their toxic effects through the	EFFECT-I
+fruit	plant foods	helps boost	EFFECT-I
+brain	grains	protective of the	EFFECT-I
+inflammation	massage	could decrease	EFFECT-I
+cholesterol	eggs	could shoot their	EFFECT-I
+virus	immune systems	clear the	EFFECT-I
+dna damage	free radicals	would decrease the rate of	EFFECT-I
+enzyme	plant-based diet	helps to boost this	EFFECT-I
+appetite	vinegar	helps with both	EFFECT-I
+fat	nuts	boost	EFFECT-I
+breast cancer	cholesterol	boosts	EFFECT-I
+calcium	protein	boosts	EFFECT-I
+burn	brown adipose tissue	helps	EFFECT-I
+cancer cells	almond milk	suppressed the growth of these	EFFECT-I
+blood	standard american diet	is so toxic to the	EFFECT-I
+cancer cells	curry powder	kills	EFFECT-I
+macular degeneration	eggs	help people with	EFFECT-I
+cholesterol	split peas	cut	EFFECT-I
+nausea	peppermint	cut	EFFECT-I
+skin	phytonutrients	were able to protect	EFFECT-I
+antioxidant content	pressure cooking	reduce the	EFFECT-I
+chickens	caffeine	helps keeps the	EFFECT-I
+immune system	tumors	are able to trick our	EFFECT-I
+meat	diseases	were associated with which	EFFECT-I
+stroke	nuts	could cut	EFFECT-I
+cancer growth	melatonin	is thought to suppress	EFFECT-I
+dioxins	beans	block the effects of	EFFECT-I
+gut flora	antibiotics	wipe out the	EFFECT-I
+virus	immune systems	are able to clear the	EFFECT-I
+cancer growth	strawberries	blocked	EFFECT-I
+dna	greens	protect our	EFFECT-I
+estrogens	liver	clears	EFFECT-I
+breast cancer	nuts	suppressed	EFFECT-I
+testosterone	mozart	suppressed	EFFECT-I
+fat	nuts	boosted	EFFECT-I
+cold	supplements	help with a	EFFECT-I
+platelets	plants	help keep	EFFECT-I
+blood pressure	pets	lower your	EFFECT-I
+breast cancer	statins	had decreased	EFFECT-I
+colon cancer	protein	slows the growth of	EFFECT-I
+detoxifying enzymes	vegetables	 boost the activity of the	EFFECT-I
+stomach	drugs	reduce our	EFFECT-I
+metabolism	music	slow our	EFFECT-I
+inflammation	herbs	has the power to reduce	EFFECT-I
+muscle soreness	juice	could reduce	EFFECT-I
+oxidative stress	blueberries	could reduce the	EFFECT-I
+testosterone	diets	suppress	EFFECT-I
+prostate cancer	plant-based diets	suppresses	EFFECT-I
+cancer growth	plant-based diet	suppresses	EFFECT-I
+cancer cell growth	kale	suppresses	EFFECT-I
+multiple myeloma	turmeric	killed	EFFECT-I
+igf-1	plant-based diets	have lower levels of	EFFECT-I
+toxicity	cooking	will reduce the	EFFECT-I
+antioxidant	vegetables	boosts our	EFFECT-I
+colon cancer	strawberries	suppressed the growth of	EFFECT-I
+liver cancer	cranberry juice	suppressed the growth of	EFFECT-I
+inflammation	fish oil	decreases	EFFECT-I
+proteinuria	turmeric	decreases	EFFECT-I
+inflammation	tomato juice	decreases	EFFECT-I
+kidney	sodium bicarbonate	decreases	EFFECT-I
+inflammation	garlic	decreases	EFFECT-I
+cancer risk	immunosuppression	decreases	EFFECT-I
+botulism	processed meats	help reduce	EFFECT-I
+gastrocolic reflex	mints	are used to reduce the	EFFECT-I
+nutrition	fat	helps suck up the	EFFECT-I
+turmeric	black pepper	boosts the level of the	EFFECT-I
+aging	dairy	accelerates the	EFFECT-I
+astrocytes	beans	help protect	EFFECT-I
+blood pressure	diet	helped with	EFFECT-I
+pain	diets	helped with	EFFECT-I

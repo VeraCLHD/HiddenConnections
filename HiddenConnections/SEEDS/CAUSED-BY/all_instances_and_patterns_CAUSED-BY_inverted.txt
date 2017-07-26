@@ -32,6 +32,7 @@ leprosy	amyloidosis	triggered by	CAUSE
 kangaroo meat	inflammation	triggered by	CAUSE
 dioxin	inflammation	triggered by	CAUSE
 breathing	asthma	triggered by	CAUSE
+tick bites	allergies	triggered by	CAUSE
 dairy consumption	calcium intake	due to	CAUSE
 obesity	non-alcoholic fatty liver disease	due to	CAUSE
 noroviruses	pathogens	due to	CAUSE
@@ -62,3 +63,83 @@ short-chain fatty acids	ph	is caused by	CAUSE
 inflammation	pain	is caused by	CAUSE
 bacteria	plaque	is caused by	CAUSE
 insulin resistance	diabetes	is caused by	CAUSE
+arsenic	cancers	caused by	CAUSE
+smoking	dna mutations	caused by	CAUSE
+meat	uric acid	caused by	CAUSE
+radiation	dna damage	caused by	CAUSE
+arsenic	skin cancer	caused by	CAUSE
+gluten	inflammation	caused by	CAUSE
+inflammation	pain	caused by	CAUSE
+cooking	carcinogens	caused by	CAUSE
+obesity	epidemic	caused by	CAUSE
+obesity	health	caused by	CAUSE
+cetuximab	irritation	caused by	CAUSE
+muscle	inflammation	caused by	CAUSE
+cooking meat	carcinogens	caused by	CAUSE
+aspartame	adverse effects	caused by	CAUSE
+hpv	tumor	caused by	CAUSE
+frying	smoke	caused by	CAUSE
+smoking	mutations	caused by	CAUSE
+free radicals	dna damage	caused by	CAUSE
+metabolism	oxidation	caused by	CAUSE
+muscle cell	inflammation	caused by	CAUSE
+exercise	cancer growth	was because of the	CAUSE
+cooked meat	breast cancer	caused by the	CAUSE
+crystallization	inflammatory arthritis	caused by the	CAUSE
+pesticide	oxidative stress	caused by the	CAUSE
+carcinogen	dna mutations	caused by the	CAUSE
+cadmium	production	caused by the	CAUSE
+cadmium exposure	production	caused by the	CAUSE
+mercury	brain damage	caused by the	CAUSE
+carcinogen	mutations	caused by the	CAUSE
+american egg board	egg nutrition center	was created by the	CAUSE
+dairy consumption	calcium intake	due to	CAUSE
+obesity	non-alcoholic fatty liver disease	due to	CAUSE
+noroviruses	pathogens	due to	CAUSE
+cholesterol	arteries	due to	CAUSE
+steam	oils	due to	CAUSE
+arachidonic acid	meat	due to	CAUSE
+vitamin a	meat	due to	CAUSE
+atherosclerosis	brain	due to	CAUSE
+broccoli	liver toxicity	due to	CAUSE
+genetic manipulation	chickens	due to	CAUSE
+vitamin	dementia	due to	CAUSE
+broccoli	toxicity	due to	CAUSE
+symptoms	gluten	due to	CAUSE
+cholesterol	narrowed arteries	due to	CAUSE
+manure	viruses	due to	CAUSE
+bacteria	coli exposure	due to	CAUSE
+vitamin b12	dementia	due to	CAUSE
+seafood	reaction	due to	CAUSE
+phthalate	penis	due to	CAUSE
+ddt	meat	due to	CAUSE
+noroviruses	fecal pathogens	due to	CAUSE
+chemical pollutants	premature puberty	due to	CAUSE
+nutrient synergy	phytonutrients	due to	CAUSE
+cooking	carcinogens	created by 	CAUSE
+tobacco	copd	is caused by	CAUSE
+inflammation	cartilage	is caused by	CAUSE
+strep	fever	is caused by	CAUSE
+short-chain fatty acids	ph	is caused by	CAUSE
+inflammation	pain	is caused by	CAUSE
+bacteria	plaque	is caused by	CAUSE
+insulin resistance	diabetes	is caused by	CAUSE
+mercury	brains	due to the high levels of	CAUSE
+drugs	sexual dysfunction	caused by these three	CAUSE
+chicken	fish	could get triggered by	CAUSE
+animal protein	inflammatory response	triggered by the	CAUSE
+animal protein	inflammation	triggered by the	CAUSE
+antioxidant	oxidant stress	due to the	CAUSE
+food poisoning	fish	due to the	CAUSE
+cooking	toxins	created by	CAUSE
+cooking	carcinogens	created by	CAUSE
+domesticated animal	inflammation	triggered by	CAUSE
+leprosy	amyloidosis	triggered by	CAUSE
+kangaroo meat	inflammation	triggered by	CAUSE
+dioxin	inflammation	triggered by	CAUSE
+breathing	asthma	triggered by	CAUSE
+tick bites	allergies	triggered by	CAUSE
+acrylamide	carbohydrates	due to the effects of	CAUSE
+plant	phytonutrients	are created by the	CAUSE
+insulin resistance	diabetes	are caused by	CAUSE
+cooked meat	muscle tremors	due to the levels of	CAUSE

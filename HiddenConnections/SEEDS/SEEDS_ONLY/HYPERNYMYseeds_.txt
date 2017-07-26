@@ -2,12 +2,14 @@
 estrogen	steroid
 mediterranean diet	diet
 myelopathy	syndrome
+aging	disease
 xenoestrogens	chemicals
 phthalates	chemical
 high blood pressure	symptom
 carrots	roots
 lymphoma	cancer
 acrylamide	chemical
+colic	pain
 bean	legume
 nitrosamines	carcinogens
 organochlorines	chemical
@@ -17,7 +19,9 @@ melatonin	hormone
 lutein	carotenoid
 supplements	fish oil
 spirulina	blue-green algae
+high fructose corn syrup	pro-oxidant
 turmeric	plant
+vitamin e	vitamin
 patulin	mycotoxin
 raisins	dried fruit
 lead	toxin
@@ -30,6 +34,8 @@ mushrooms	vegetable
 dental plaque	bacteria
 campylobacter	bacteria
 prediabetes	disease
+iron	pro-oxidant
+hepatitis e	zoonotic disease
 statins	drugs
 tomatoes	vegetables
 tobacco	nightshade
@@ -37,6 +43,7 @@ insects	contaminants
 cherries	plant
 igf-1	growth hormone
 hypertension	diseases
+fiber	prebiotic
 vinegar	product
 plant-based diets	low-calorie diets
 chickpeas	legume

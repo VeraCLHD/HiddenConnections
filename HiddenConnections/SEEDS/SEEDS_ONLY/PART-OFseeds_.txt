@@ -13,6 +13,7 @@ curcumin	turmeric
 puberty	girls
 dna damage	bacteria
 heavy metals	meat
+toxins	raw
 aspartame	diet soda
 berries	milk
 galactose	milk
@@ -74,10 +75,12 @@ medium-chain fatty acids	coconut
 pigment	turmeric
 bacteria	animal products
 angiogenesis inhibitors	plant
+nitrate	vegetables
 antibodies	cancer
 amino acids	animal proteins
 beans	healthy diets
 carcinogens	chicken
+endotoxins	raw
 acetic acid	vinegar
 amino acids	milk
 vegetables	cancer prevention
@@ -112,6 +115,7 @@ fiber	sea vegetables
 cigarettes	atherosclerosis
 prevention	poultry
 antibiotics	chicken
+polycyclic aromatic hydrocarbons	meat fumes
 sugar	apple
 soy protein	miso
 zinc	plant
@@ -119,6 +123,7 @@ toxin	tuna
 dioxins	fish
 putrescine	turkey
 listeria	deli meat
+e. coli	chicken
 water	nettle tea
 bioflavonoids	citrus
 colon	digestion
@@ -150,6 +155,7 @@ heterocyclic amines	cooked meat
 esophageal cancer	bacon
 contamination	fish
 nitrates	celery
+mint leaves	water
 phytonutrient	broccoli
 glycotoxins	meat
 viruses	meat
@@ -168,6 +174,7 @@ infection	livestock
 isoflavones	soy
 fructose	blueberries
 pcbs	salmon
+phytonutrient	green
 animal protein	meat
 calcium	kale
 phytonutrient	cherries
@@ -211,6 +218,7 @@ diets	uganda
 heavy metals	protein powder supplements
 gluten	medical journals
 eggs	diet
+pesticides	chinese
 salmonella	eggs
 yersinia	pork
 mortality	infants
@@ -243,6 +251,7 @@ phytoestrogens	flax
 bacteria	meat
 hormones	vegans
 igf-1	vegans
+cruciferous vegetables	green
 bpa	plastics
 prostate cancer	prostate
 heavy metals	protein powder
@@ -317,7 +326,9 @@ protein	plants
 antioxidants	plant foods
 neurotoxic chemicals	chicken
 phytonutrients	raisins
+eggs	baking
 survival	plant
+lead	chinese
 phytonutrients	oats
 brain damage	adolescents
 ibs	kiwi fruit
@@ -382,6 +393,7 @@ allergies	fish
 saturated fat	meat
 agent	poultry
 phosphorus	plant
+dementia	alzheimer's
 anthocyanin phytonutrients	cherries
 lignans	flaxseeds
 enzyme	broccoli
@@ -392,6 +404,7 @@ polyphenols	legumes
 treatment	cardiovascular disease
 growth promoters	meat
 heme iron	chicken
+phytonutrients	raw
 herbs	cardiovascular disease
 seeds	breast cancer
 mortality	vitamin
@@ -439,6 +452,7 @@ early onset puberty	girls
 iron	animal foods
 arachidonic acid	vegetarian
 bacteria	chicken
+fish	chinese
 mercury	triphala
 phosphorus	plant foods
 angiogenesis inhibitors	plant foods
@@ -493,6 +507,7 @@ industrial carcinogens	animal fat
 insulin	milk
 prostate enlargement	china
 protein	sweet potatoes
+toxicity	breastfeeding
 phytonutrients	fruit
 mercury	fish
 neurotransmitters	plants
@@ -503,6 +518,7 @@ arachidonic acid	fish
 chronic disease	vegetarians
 carbs	plant
 steroids	farm
+vegetables	green
 vitamin c	beet
 vitamin c	beet juice
 phytonutrient	black pepper
@@ -547,6 +563,7 @@ pigment	tomatoes
 cancer prevention	poultry
 iron	muscle
 saturated fat	chocolate
+vomiting	pregnancy
 phytoestrogens	soy
 phytonutrients	flax seeds
 hormones	dairy

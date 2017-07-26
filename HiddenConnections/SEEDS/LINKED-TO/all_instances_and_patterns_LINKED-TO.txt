@@ -7,6 +7,7 @@ irritation	chemotherapy	associated with	LINKED-TO
 side effects	drugs	associated with	LINKED-TO
 disorder	gluten intolerance	associated with	LINKED-TO
 fish intake	brain	associated with	LINKED-TO
+vomiting	morning sickness	associated with	LINKED-TO
 sperm counts	processed meat	associated with	LINKED-TO
 fertility	saturated fat	associated with	LINKED-TO
 toxin	alzheimer	associated with	LINKED-TO
@@ -66,3 +67,91 @@ refined carbs	pancreatic cancer	was associated with	LINKED-TO
 iron	diabetes risk	was associated with	LINKED-TO
 iron	diabetes	was associated with	LINKED-TO
 adolescence	breast cancer	was associated with	LINKED-TO
+doughnuts	prostate cancer	was associated with about a third greater odds of	LINKED-TO
+chronic diseases	inflammation	associated with	LINKED-TO
+girls	french fries	associated with	LINKED-TO
+inflammatory reaction	egg	associated with	LINKED-TO
+eggs	diabetes	associated with	LINKED-TO
+irritation	chemotherapy	associated with	LINKED-TO
+side effects	drugs	associated with	LINKED-TO
+disorder	gluten intolerance	associated with	LINKED-TO
+fish intake	brain	associated with	LINKED-TO
+vomiting	morning sickness	associated with	LINKED-TO
+sperm counts	processed meat	associated with	LINKED-TO
+fertility	saturated fat	associated with	LINKED-TO
+toxin	alzheimer	associated with	LINKED-TO
+death	nut consumption	associated with	LINKED-TO
+lead poisoning	ayurvedic	associated with	LINKED-TO
+stomach cancer	salt	associated with	LINKED-TO
+amino acids	aging	associated with	LINKED-TO
+eggs	diabetes risk	associated with	LINKED-TO
+cancer mortality	poultry exposure	associated with	LINKED-TO
+arteries	cardiac disease	associated with	LINKED-TO
+girls	animal protein	associated with	LINKED-TO
+pain	rheumatoid arthritis	associated with	LINKED-TO
+cancers	alcohol	associated with	LINKED-TO
+deformities	rickets	associated with	LINKED-TO
+disability	heart disease	associated with	LINKED-TO
+biomarker	cancer	associated with	LINKED-TO
+pain	drugs	associated with	LINKED-TO
+headaches	aspartame	associated with	LINKED-TO
+inflammation	depression	associated with	LINKED-TO
+meat molecule	inflammation	associated with	LINKED-TO
+beverage	infertility	associated with	LINKED-TO
+death	nut	associated with	LINKED-TO
+rosy glow	cardiovascular health	associated with	LINKED-TO
+mortality	poultry	associated with	LINKED-TO
+brain	memory	associated with	LINKED-TO
+symptoms	diabetes	associated with	LINKED-TO
+cardiovascular disease	diet soda	associated with	LINKED-TO
+stomach cancer	salt intake	associated with	LINKED-TO
+virus	obesity	first associated with	LINKED-TO
+sperm counts	meat	associated with processed	LINKED-TO
+farm	blood	is associated with higher rates of	LINKED-TO
+chronic gum disease	sexual dysfunction	is associated with	LINKED-TO
+bpa	cardiovascular disease	is associated with	LINKED-TO
+meat intake	infertility	is associated with	LINKED-TO
+production	ulcerative colitis	is associated with	LINKED-TO
+animal products	weight gain	is associated with	LINKED-TO
+pancreatic cancer	beef	is associated with	LINKED-TO
+vegetable oil	pancreatic cancer	is associated with	LINKED-TO
+meat	inflammation	is associated with	LINKED-TO
+meat	weight gain	is associated with	LINKED-TO
+meats	cancers	were associated with	LINKED-TO
+animal foods	coronary heart disease	were associated with	LINKED-TO
+carbs	pancreatic cancer	was associated with	LINKED-TO
+refined carbs	pancreatic cancer	was associated with	LINKED-TO
+iron	diabetes risk	was associated with	LINKED-TO
+iron	diabetes	was associated with	LINKED-TO
+adolescence	breast cancer	was associated with	LINKED-TO
+coffee	suicide	is associated with decreased	LINKED-TO
+operations	mrsa	was each associated with	LINKED-TO
+carbohydrates	prevotella	are associated with the	LINKED-TO
+fat	bacteroides	are associated with the	LINKED-TO
+pcbs	fats	are associated with the	LINKED-TO
+saturated fat	semen	is associated with reduced	LINKED-TO
+protein	anxiety	are associated with lower levels of	LINKED-TO
+allergy	antibodies	associated	LINKED-TO
+poultry workers	wart	associated with these	LINKED-TO
+cholesterol	gestational diabetes	were associated with elevated [	LINKED-TO
+bladder infections	breast cancer	tied to	LINKED-TO
+sugar	pancreatic cancer	tied to	LINKED-TO
+food poisoning	sprouts	tied to	LINKED-TO
+poultry	liver	tied to	LINKED-TO
+poultry exposure	liver	tied to	LINKED-TO
+foodborne illness	pork	tied to	LINKED-TO
+dna damage	treatment	associated with this	LINKED-TO
+death	galactose	associated with the	LINKED-TO
+symptoms	wheat	associated with the	LINKED-TO
+pumpkin seeds	breast cancer	were associated with reduced	LINKED-TO
+parasites	meat	are associated with	LINKED-TO
+fat	prevotella	are associated with	LINKED-TO
+blood	depression	are associated with	LINKED-TO
+xenoestrogens	birth defects	are associated with	LINKED-TO
+dental x-rays	brain tumors	are associated with	LINKED-TO
+cholesterol	nonalcoholic fatty liver	are associated with	LINKED-TO
+pickled vegetables	multiple myeloma	are associated with	LINKED-TO
+plant foods	prevotella	are associated with	LINKED-TO
+pain	osteoarthritis	associated with both	LINKED-TO
+processed meat	cancer	were�associated with	LINKED-TO
+barbecue	birth weight	was associated with a	LINKED-TO
