@@ -95,7 +95,8 @@ public class PostProcessingSeeds {
 	}
 	
 	public static void main(String[] args) {
-		
+		readTerms();
+		readAndFilterSeedsFile(seeds_old, seeds_new);
 		
 	}
 
