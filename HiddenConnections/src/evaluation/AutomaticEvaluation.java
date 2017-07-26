@@ -44,8 +44,9 @@ public class AutomaticEvaluation {
 		br.readInformationContentFile();
 		br.readTerms();
 		
-		//baseline 1
+		
 		Writer.overwriteFile("", EVALUATION_ALL_EVALS_TXT);
+		//baseline 1
 		evaluate("IndexDirectory/", "Baseline1", DISTANT_CONNECTIONS_FINAL_TXT);
 		evaluate("EVALUATION SETS/DOCDUMP/INDEX SENTENCES/", "DOCDUMP", DISTANT_CONNECTIONS_FINAL_TXT);
 		evaluate("EVALUATION SETS/AUTHORITYNUTRITION/INDEX AUTHORITYUTRITION/", "AUTHORITY", DISTANT_CONNECTIONS_FINAL_TXT);
