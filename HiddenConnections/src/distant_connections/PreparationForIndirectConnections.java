@@ -371,7 +371,7 @@ public class PreparationForIndirectConnections {
 	public static void main(String[] args) throws MalformedURLException, IOException {
 		PostProcessingSeeds.fitSeedsToAdjustedTerms();
 		
-		Bootstrapper.readAllTerms();
+		/*Bootstrapper.readAllTerms();
 		List<String> types = new ArrayList<String>();
 		types.add("PART-OF");
 		types.add("PART-OF-I");
@@ -385,7 +385,7 @@ public class PreparationForIndirectConnections {
 		for(String type: types){
 			Bootstrapper.runForEachRelation(type, 100);
 			System.out.println("Ready with " + type);
-		}
+		}*/
 		
 		PostProcessingSeeds.reWriteAllInstancesAndPatternsPostBootstrapping();
 		
@@ -397,7 +397,7 @@ public class PreparationForIndirectConnections {
 		InformationContent ic = new InformationContent();
 		ic.computeInformationContent();
 		//information content minimum is set here; if 0: all terms are considered
-		ic.setFreq(2.2);
+		InformationContent.setMIN_INFORMATION_CONTENT(2.0);
 		ic.writeIC();
 		System.out.println("DONE with Information Content");
 		// setzt voraus, dass information content file already there

@@ -16,6 +16,7 @@ import overall.LuceneSearcher;
 import overall.Pair;
 
 public class AutomaticEvaluation {
+	private static final String EVALUATION_ALL_EVALS_TXT = "evaluation/allEvals.txt";
 	private static final String DISTANT_CONNECTIONS_FINAL_TXT = "distant connections/FINAL.txt";
 	public static final String FINAL_VARIANTS = "terms/finalVariants.txt";
 	public Map<String, Set<String>> variations = new HashMap<String, Set<String>>();
@@ -42,13 +43,18 @@ public class AutomaticEvaluation {
 		BaselineRandom br = new BaselineRandom();
 		br.readInformationContentFile();
 		br.readTerms();
-		br.buildRandomCombinations();
+		
 		//baseline 1
-		//evaluate();
+		Writer.overwriteFile("", EVALUATION_ALL_EVALS_TXT);
+		evaluate("IndexDirectory/", "Baseline1", DISTANT_CONNECTIONS_FINAL_TXT);
 		evaluate("EVALUATION SETS/DOCDUMP/INDEX SENTENCES/", "DOCDUMP", DISTANT_CONNECTIONS_FINAL_TXT);
 		evaluate("EVALUATION SETS/AUTHORITYNUTRITION/INDEX AUTHORITYUTRITION/", "AUTHORITY", DISTANT_CONNECTIONS_FINAL_TXT);
-		evaluate("EVALUATION SETS/DOCDUMP/INDEX SENTENCES/", "DOCDUMP_RANDOM", EVALUATION_RANDOM_COMBINATIONS_TXT);
-		evaluate("EVALUATION SETS/AUTHORITYNUTRITION/INDEX AUTHORITYUTRITION/", "AUTHORITY_RANDOM", EVALUATION_RANDOM_COMBINATIONS_TXT);
+		for(int i=0; i<10;i++){
+			br.buildRandomCombinations();
+			evaluate("EVALUATION SETS/DOCDUMP/INDEX SENTENCES/", "DOCDUMP_RANDOM" + i, EVALUATION_RANDOM_COMBINATIONS_TXT);
+			evaluate("EVALUATION SETS/AUTHORITYNUTRITION/INDEX AUTHORITYUTRITION/", "AUTHORITY_RANDOM" + i, EVALUATION_RANDOM_COMBINATIONS_TXT);
+		}
+		
 
 	}
 
@@ -58,17 +64,25 @@ public class AutomaticEvaluation {
 		AutomaticEvaluation ae = new AutomaticEvaluation(path_toIndexed, nameOfSource);
 		ae.readFinalVariants(FINAL_VARIANTS);
 		ae.readNewPairs(pathToConnections);
+		double countTotal = 0.0;
+		double truePositives = 0.0;
+		double falsePositives = 0.0;
 		for(Pair<String> pair: ae.pairsToEvaluate){
+			countTotal +=1.0;
 			String line = pair.first + "\t" + pair.second + "\t";
 			if(ae.findOnePairOfLemmas(pair.first, pair.second, path_toIndexed)){
 				line += "1";
+				truePositives +=1.0;
 			
 			} else{
 				line +="0";
+				falsePositives +=1.0; 
 			}
 			
 			Writer.appendLineToFile(line, "evaluation/evaluation_" + nameOfSource + ".txt");
 		}
+		
+		Writer.appendLineToFile(nameOfSource + "\t" +truePositives + "\t" + falsePositives + "\t" + countTotal + "\t" + truePositives/countTotal, EVALUATION_ALL_EVALS_TXT);
 	}
 	
 	public void readFinalVariants(String filename){

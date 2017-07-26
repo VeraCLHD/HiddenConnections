@@ -1,12 +1,12 @@
 
 sugar	diverticulosis	0
-plant foods	heart attacks	0
-almond	cardiac disease	1
-nut	erectile dysfunction	0
+plant foods	heart attacks	1
+almond	cardiac disease	0
+nut	erectile dysfunction	1
 seafood	insulin sensitivity	0
 plant foods	gestational diabetes	0
 flax seeds	scurvy	0
-egg	weight gain	0
+egg	weight gain	1
 green tea	weight gain	0
 milk	infection	1
 fig	atherosclerosis	0
@@ -16,24 +16,24 @@ beef	inflammation	1
 beer	atherosclerosis	0
 cilantro	heart attacks	0
 food poisoning	birth defects	0
-flax seeds	erectile dysfunction	0
+flax seeds	erectile dysfunction	1
 alfalfa	norovirus	0
 corn syrup	atherosclerosis	0
 eating meat	allergy	0
 avocado	gestational diabetes	0
-skim milk	breast cancer	0
+skim milk	breast cancer	1
 coconut oil	atherosclerosis	0
-chicken	allergy	0
+chicken	allergy	1
 chicken	eczema	0
-milk	skin cancer	0
-egg	atherosclerosis	0
+milk	skin cancer	1
+egg	atherosclerosis	1
 bt corn	heart attacks	0
 gluten	atherosclerosis	0
 brown rice	aid	0
 pork	breast cancer	1
 brown rice	insulin resistance	0
 breast milk	breast cancer	0
-avocado	breast cancer	0
+avocado	breast cancer	1
 split peas	nonalcoholic fatty liver	0
 chicken meat	breast cancer	0
 dessert	atherosclerosis	0
@@ -43,26 +43,26 @@ white bread	pain	0
 stevia	inflammation	0
 cheese	erectile dysfunction	0
 pork	atherosclerosis	0
-seed	dysfunction	0
+seed	dysfunction	1
 breast milk	heart attacks	0
 food poisoning	eczema	0
 walnut	cardiac disease	1
 tuna	insulin sensitivity	0
-apple	breast cancer	0
+apple	breast cancer	1
 diet	weight gain	1
 oatmeal	nonalcoholic fatty liver	0
-walnut	pain	0
+walnut	pain	1
 beef	nonalcoholic fatty liver	0
 diet	dysfunction	1
 food poisoning	salmonellosis	0
-green tea	infection	0
+green tea	infection	1
 eating meat	birth defects	0
-almond	weight loss	1
+almond	weight loss	0
 bacon	acne	0
 nettle tea	obesity	0
 egg	norovirus	0
 split peas	gestational diabetes	0
-nut	allergy	0
+nut	allergy	1
 milk protein	colon cancer	0
 diet	atherosclerosis	1
 tuna	weight gain	0
@@ -73,44 +73,44 @@ chicken	acne	0
 eating meat	scurvy	0
 coconut oil	gestational diabetes	0
 wheat	colon cancer	0
-plant foods	insulin sensitivity	0
-chicken	chronic diseases	0
+plant foods	insulin sensitivity	1
+chicken	chronic diseases	1
 plant foods	pancreatic cancer	0
-beef	allergy	0
-egg	insulin sensitivity	0
-green	heart attacks	0
+beef	allergy	1
+egg	insulin sensitivity	1
+green	heart attacks	1
 banana	scurvy	0
-eating nuts	breast tumors	0
-rice	atherosclerosis	1
+eating nuts	breast tumors	1
+rice	atherosclerosis	0
 carrot juice	obesity	0
 turmeric	dental plaque	0
-chicken	inflammation	0
+chicken	inflammation	1
 tuna	heart attacks	0
-egg	weight loss	0
-raisin	inflammation	0
+egg	weight loss	1
+raisin	inflammation	1
 sea vegetables	diverticulosis	0
 chicken	obesity	1
 aspartame	cardiovascular disease	0
-split peas	allergy	0
+split peas	allergy	1
 seafood	atherosclerosis	0
 almond milk	erectile dysfunction	0
 nettle tea	chronic diseases	0
-breast milk	inflammation	1
+breast milk	inflammation	0
 nettle tea	inflammation	0
 grape	pain	0
 beef	insulin resistance	0
-poultry	campylobacter infections	0
+poultry	campylobacter infections	1
 avocado	atherosclerosis	0
 almond	atherosclerosis	0
 egg	sexual dysfunction	0
 oatmeal	diverticulosis	0
-plant foods	diverticulosis	0
+plant foods	diverticulosis	1
 poultry	constipation	0
-color	allergy	0
+color	allergy	1
 avocado	weight gain	0
 whole foods	nonalcoholic fatty liver	0
 milk	colon cancer	0
-food poisoning	allergy	0
+food poisoning	allergy	1
 nutritional yeast	erectile dysfunction	0
 deli meats	norovirus	0
 strawberry	kidney stones	0
@@ -121,35 +121,35 @@ seafood	weight gain	0
 egg	infection	1
 deli meat	salmonellosis	0
 barley	atherosclerosis	0
-processed foods	breast cancer	0
+processed foods	breast cancer	1
 plant foods	weight gain	0
-beef	gestational diabetes	0
+beef	gestational diabetes	1
 chicken	birth defects	0
 coconut oil	dysfunction	0
-green	inflammation	0
+green	inflammation	1
 chocolate	nonalcoholic fatty liver	0
-beef	obesity	1
-milk	insulin sensitivity	1
-peppermint	inflammation	0
+beef	obesity	0
+milk	insulin sensitivity	0
+peppermint	inflammation	1
 tuna	inflammation	0
 apple	acne	0
-poultry	atherosclerosis	0
+poultry	atherosclerosis	1
 chocolate	inflammation	0
 dairy products	inflammation	1
 walnut	atherosclerosis	0
 anchovy	insulin sensitivity	0
-apple	inflammation	0
-whole grains	atherosclerosis	0
-milk	chronic diseases	0
+apple	inflammation	1
+whole grains	atherosclerosis	1
+milk	chronic diseases	1
 cheese	weight loss	0
-turmeric	infection	0
+turmeric	infection	1
 alfalfa sprout	salmonellosis	0
 fruit juice	weight loss	0
 beet	scurvy	0
 diet	asthma	1
-organ	inflammation	0
+organ	inflammation	1
 chicken	scurvy	0
-eating meat	heart attacks	0
+eating meat	heart attacks	1
 food poisoning	insulin sensitivity	0
 apple	skin cancer	0
 cranberry	pain	0
@@ -163,15 +163,15 @@ blueberry	urinary tract infections	0
 seafood	heart attacks	0
 apple	nonalcoholic fatty liver	0
 cooking meat	strain	0
-bean	colon cancer	0
+bean	colon cancer	1
 oatmeal	atherosclerosis	0
 egg	skin cancer	0
-kale	pain	0
+kale	pain	1
 dried fruit	gestational diabetes	0
-poultry	breast cancer	1
+poultry	breast cancer	0
 egg	heart attacks	1
 diet	erectile dysfunction	1
-nut	weight gain	0
+nut	weight gain	1
 rice	skin cancer	0
 corn	atherosclerosis	0
 olive	inflammation	0
@@ -179,41 +179,41 @@ tuna	eczema	0
 vitamin	wart	0
 almond	allergy	0
 nettle tea	insulin resistance	0
-plant foods	insulin resistance	0
+plant foods	insulin resistance	1
 plant foods	dysfunction	1
 dried fruit	diverticulosis	0
-egg	inflammation	0
+egg	inflammation	1
 egg	erectile dysfunction	0
 sea vegetables	nonalcoholic fatty liver	0
 poultry	salmonellosis	0
 tomato	blood clots	0
-brown rice	obesity	0
-egg	chronic diseases	0
+brown rice	obesity	1
+egg	chronic diseases	1
 curry powder	gestational diabetes	0
 strawberry	acidosis	0
 prebiotic	sexual dysfunction	0
 tuna	allergy	0
 avocado	cardiac disease	0
-egg	nonalcoholic fatty liver	1
+egg	nonalcoholic fatty liver	0
 miso	colon cancer	0
 sea vegetables	erectile dysfunction	0
 eating meat	eczema	0
-poultry	wart	0
-chicken	breast cancer	0
-whole foods	diverticulosis	0
+poultry	wart	1
+chicken	breast cancer	1
+whole foods	diverticulosis	1
 beef	cardiac disease	1
-plant foods	inflammation	0
+plant foods	inflammation	1
 anchovy	allergy	0
 spinach	salmonellosis	0
 egg	aid	0
-egg	insulin resistance	0
+egg	insulin resistance	1
 beer	breast cancer	0
 chocolate	heart attacks	0
-beef	weight gain	0
+beef	weight gain	1
 barley	dysfunction	0
 split peas	atherosclerosis	0
 apple	brain diseases	0
-prebiotic	weight loss	1
+prebiotic	weight loss	0
 stevia	cardiovascular disease	0
 fig	nonalcoholic fatty liver	0
 bt corn	inflammation	0
@@ -221,7 +221,7 @@ dessert	gestational diabetes	0
 walnut	gestational diabetes	0
 apple	atherosclerosis	0
 milk	weight gain	1
-chicken	salmonellosis	0
+chicken	salmonellosis	1
 whipped cream	colon cancer	0
 nut	breast tumors	1
 whole foods	atherosclerosis	0
@@ -229,10 +229,10 @@ milk	dental plaque	0
 mushroom	insulin resistance	0
 almond	nonalcoholic fatty liver	0
 orange	atherosclerosis	0
-seafood	inflammation	0
+seafood	inflammation	1
 rice	dysfunction	0
 almond milk	atherosclerosis	0
-eating meat	inflammation	0
+eating meat	inflammation	1
 drinking water	breast cancer	0
 almond	erectile dysfunction	0
 egg	cardiovascular disease	1
@@ -242,11 +242,11 @@ diet	heart attacks	1
 chocolate	dysfunction	0
 apple	scurvy	0
 bacon	heart attacks	0
-plant foods	chronic diseases	0
-flaxseed	breast cancer	0
+plant foods	chronic diseases	1
+flaxseed	breast cancer	1
 dandelion	inflammation	0
-seafood	dysfunction	0
-dessert	breast cancer	0
+seafood	dysfunction	1
+dessert	breast cancer	1
 beef	sexual dysfunction	0
 oatmeal	gestational diabetes	0
 split peas	diverticulosis	0
@@ -264,65 +264,65 @@ milk	acne	1
 diet	nonalcoholic fatty liver	1
 egg	allergy	1
 bt corn	skin cancer	0
-fruit juice	gestational diabetes	0
+fruit juice	gestational diabetes	1
 nut	breast cancer	1
 cassia cinnamon	breast cancer	0
 alfalfa	salmonellosis	0
 diet	inflammation	1
-milk	insulin resistance	1
-apple	erectile dysfunction	0
-split peas	cardiac disease	0
+milk	insulin resistance	0
+apple	erectile dysfunction	1
+split peas	cardiac disease	1
 poultry	skin cancer	0
 nut	ulcerative colitis	0
-chicken	weight gain	0
+chicken	weight gain	1
 apple	neurodegenerative diseases	0
-beef	weight loss	1
+beef	weight loss	0
 fenugreek	inflammation	0
-flax seeds	breast cancer	0
+flax seeds	breast cancer	1
 anchovy	inflammation	0
 cheese	sexual dysfunction	0
 carob	gestational diabetes	0
-bean	inflammation	0
+bean	inflammation	1
 curry powder	nonalcoholic fatty liver	0
 fruit juice	sexual dysfunction	0
-cinnamon	pain	0
+cinnamon	pain	1
 tuna	neurodegenerative diseases	0
 celery	obesity	0
 prebiotic	atherosclerosis	0
 tuna	scurvy	0
-split peas	weight loss	0
+split peas	weight loss	1
 brown rice	skin cancer	0
 brown rice	cardiovascular disease	0
 bacon	infection	0
 bacon	weight gain	0
-whole grains	inflammation	1
+whole grains	inflammation	0
 diet	acne	1
-seafood	allergy	0
-infant formula	inflammation	1
+seafood	allergy	1
+infant formula	inflammation	0
 flax seeds	gestational diabetes	0
-nut	insulin sensitivity	0
-seafood	neurodegenerative diseases	0
-diet	diverticulosis	0
+nut	insulin sensitivity	1
+seafood	neurodegenerative diseases	1
+diet	diverticulosis	1
 alcoholic beverages	atherosclerosis	0
 cheese	gestational diabetes	0
 brown rice	infection	0
 anchovy	eczema	0
-nut	gestational diabetes	0
-plant foods	obesity	0
-tomato	inflammation	0
-food poisoning	norovirus	0
-plant foods	colon cancer	0
-plant foods	pain	0
+nut	gestational diabetes	1
+plant foods	obesity	1
+tomato	inflammation	1
+food poisoning	norovirus	1
+plant foods	colon cancer	1
+plant foods	pain	1
 dessert	erectile dysfunction	0
-olive	atherosclerosis	0
-whole grains	gestational diabetes	1
-olive	insulin sensitivity	0
+olive	atherosclerosis	1
+whole grains	gestational diabetes	0
+olive	insulin sensitivity	1
 avocado	brain diseases	0
-poultry	obesity	0
+poultry	obesity	1
 breast milk	skin cancer	0
-chicken meat	obesity	0
-chicken	infection	0
-nut	atherosclerosis	0
+chicken meat	obesity	1
+chicken	infection	1
+nut	atherosclerosis	1
 whole grains	diverticulosis	0
 almond	sexual dysfunction	0
 grape	atherosclerosis	0
@@ -334,29 +334,29 @@ prebiotic	gestational diabetes	0
 diet	allergy	1
 milk	death	1
 chocolate	atherosclerosis	0
-turmeric	pain	0
+turmeric	pain	1
 carob	atherosclerosis	0
 walnut	sexual dysfunction	0
-pork	obesity	1
+pork	obesity	0
 almond milk	gestational diabetes	0
 green tea	inflammation	1
 fig	diverticulosis	0
-cooked meat	breast cancer	0
-egg	obesity	0
-bean	allergy	0
+cooked meat	breast cancer	1
+egg	obesity	1
+bean	allergy	1
 egg	salmonellosis	0
 almond	diverticulosis	0
 flax seeds	weight gain	0
 aspartame	erectile dysfunction	0
-olive	heart attacks	0
+olive	heart attacks	1
 soy foods	breast cancer	1
 almond milk	nonalcoholic fatty liver	0
-flax	breast cancer	0
+flax	breast cancer	1
 walnut	diverticulosis	0
 cheese	atherosclerosis	0
-seafood	brain diseases	1
+seafood	brain diseases	0
 nutritional yeast	gestational diabetes	0
-milk	endometrial cancer	0
+milk	endometrial cancer	1
 egg	diverticulosis	0
 dried fruit	erectile dysfunction	0
 fruit juice	atherosclerosis	0
@@ -364,29 +364,29 @@ tuna	birth defects	0
 almond milk	inflammation	0
 tuna	skin cancer	0
 deli meats	salmonellosis	0
-chocolate	insulin sensitivity	1
+chocolate	insulin sensitivity	0
 aspartame	vomit	0
-whole grains	nonalcoholic fatty liver	0
+whole grains	nonalcoholic fatty liver	1
 whole foods	erectile dysfunction	0
 eating meat	insulin sensitivity	0
 flax seeds	insulin sensitivity	0
 coconut oil	erectile dysfunction	0
 bt corn	weight gain	0
 split peas	erectile dysfunction	0
-beef	dysfunction	0
+beef	dysfunction	1
 milk	inflammation	1
 chicken	skin cancer	0
-broccoli	colon cancer	0
+broccoli	colon cancer	1
 tuna	brain diseases	0
 bacon	pain	0
 deli meat	norovirus	0
-chocolate	weight gain	0
+chocolate	weight gain	1
 soy	breast cancer	1
-cheese	breast cancer	0
+cheese	breast cancer	1
 anchovy	birth defects	0
 orange juice	atherosclerosis	0
 bacon	dental plaque	0
-milk	gout	0
+milk	gout	1
 dried fruit	nonalcoholic fatty liver	0
 flax seeds	atherosclerosis	0
 split peas	dysfunction	0
@@ -396,10 +396,10 @@ chicken	heart attacks	0
 breast milk	birth defects	0
 oatmeal	erectile dysfunction	0
 diet	breast cancer	1
-nut	inflammation	0
+nut	inflammation	1
 carob	diverticulosis	0
 green tea	pain	1
-milk	inflammatory bowel diseases	0
+milk	inflammatory bowel diseases	1
 cheese	nonalcoholic fatty liver	0
 color	birth defects	0
 flax seeds	nonalcoholic fatty liver	0
@@ -411,14 +411,14 @@ diet	obesity	1
 nut	nonalcoholic fatty liver	0
 food poisoning	scurvy	0
 nutritional yeast	diverticulosis	0
-cheese	inflammation	0
+cheese	inflammation	1
 plant foods	atherosclerosis	0
 soy	inflammation	1
-turmeric	dysfunction	0
-beef	chronic diseases	1
-kale	colon cancer	0
+turmeric	dysfunction	1
+beef	chronic diseases	0
+kale	colon cancer	1
 carob	nonalcoholic fatty liver	0
-egg	death	0
+egg	death	1
 milk	breast cancer	1
 avocado	diverticulosis	0
 dessert	nonalcoholic fatty liver	0
@@ -427,18 +427,18 @@ sea vegetables	gestational diabetes	0
 beef	erectile dysfunction	0
 tea	diverticulosis	0
 beef	breast cancer	1
-breast milk	allergy	0
+breast milk	allergy	1
 egg	rickets	0
 diet	gestational diabetes	1
 food poisoning	heart attacks	0
 tea	inflammation	1
-nut	diverticulosis	0
+nut	diverticulosis	1
 seed	atherosclerosis	0
 anchovy	scurvy	0
 french fries	pancreatic cancer	0
 egg	breast tumors	1
 coconut oil	nonalcoholic fatty liver	0
-brown rice	allergy	0
+brown rice	allergy	1
 bt corn	breast cancer	0
 fruit juice	nonalcoholic fatty liver	0
 diet	insulin sensitivity	1
@@ -446,16 +446,16 @@ egg	cardiac disease	1
 bacon	insulin sensitivity	0
 whole grains	erectile dysfunction	0
 flax seeds	allergy	0
-flaxseed	inflammation	0
-gluten	dysfunction	0
-nut	dysfunction	0
+flaxseed	inflammation	1
+gluten	dysfunction	1
+nut	dysfunction	1
 apple juice	skin cancer	0
 flax seeds	diverticulosis	0
 walnut	allergy	0
-seafood	birth defects	0
+seafood	birth defects	1
 diet	tumor	1
-cheese	dysfunction	0
-dairy products	weight gain	1
+cheese	dysfunction	1
+dairy products	weight gain	0
 avocado	allergy	0
 grape	dysfunction	0
 soy	acne	0
@@ -469,7 +469,7 @@ tuna	atherosclerosis	0
 split peas	sexual dysfunction	0
 soy	colon cancer	0
 beef	atherosclerosis	0
-mushroom	pain	0
+mushroom	pain	1
 avocado	skin cancer	0
 avocado	dysfunction	0
 soy milk	colon cancer	0
@@ -480,31 +480,31 @@ chicken	insulin sensitivity	0
 chicken	norovirus	0
 nutritional yeast	atherosclerosis	0
 sweet potatoes	colon cancer	0
-poultry	infection	0
+poultry	infection	1
 walnut	nonalcoholic fatty liver	0
 chicken	insulin resistance	0
 chocolate	gestational diabetes	0
 fig	gestational diabetes	0
-hop	breast cancer	0
+hop	breast cancer	1
 walnut	dysfunction	0
 diet	heart disease	1
 avocado	nonalcoholic fatty liver	0
 cilantro	breast cancer	0
 avocado	neurodegenerative diseases	0
-diet	birth defects	0
+diet	birth defects	1
 avocado	erectile dysfunction	0
 diet	cardiac disease	1
 prebiotic	nonalcoholic fatty liver	0
-french fries	inflammation	0
-egg	gestational diabetes	0
+french fries	inflammation	1
+egg	gestational diabetes	1
 plant foods	ulcerative colitis	0
 flax seeds	heart attacks	0
-nut	heart attacks	0
-flax seeds	inflammation	0
+nut	heart attacks	1
+flax seeds	inflammation	1
 breast milk	insulin sensitivity	0
 chicken	dental plaque	0
 fruit juice	erectile dysfunction	0
-poultry	norovirus	0
+poultry	norovirus	1
 beef	diverticulosis	0
 cheese	colon cancer	0
 processed foods	obesity	0
@@ -512,5 +512,5 @@ walnut	erectile dysfunction	0
 carob	erectile dysfunction	0
 green	insulin sensitivity	0
 avocado	inflammation	0
-breast milk	weight gain	0
+breast milk	weight gain	1
 curry powder	inflammation	0
