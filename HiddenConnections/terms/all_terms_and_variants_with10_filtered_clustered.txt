@@ -72,13 +72,13 @@ blood pressures	-	INTERMEDIARY_CONCEPT
 cold-steeping tea	-	FOOD
 ovary cancers	-	DISEASE
 autosomal recessive parkinsonism	-	DISEASE
-leukemia virus	-	INTERMEDIARY_CONCEPT
+leukemia virus	-	DISEASE
 department of agriculture	-	INTERMEDIARY_CONCEPT
 constrictive bronchiolitis	-	DISEASE
 pyrosis	pyrosis	DISEASE
 blood vessel	-	INTERMEDIARY_CONCEPT
 carophyll red	-	INTERMEDIARY_CONCEPT
-reticuloendotheliosis viruses	-	INTERMEDIARY_CONCEPT
+reticuloendotheliosis viruses	-	DISEASE
 isoglucose	isoglucose	FOOD
 yellow pigment	-	INTERMEDIARY_CONCEPT
 mesotheliomas	mesothelioma	DISEASE
@@ -1743,7 +1743,7 @@ sensory seizure	-	DISEASE
 gastroenterology	gastroenterology	INTERMEDIARY_CONCEPT
 fry	fry	INTERMEDIARY_CONCEPT
 iu	iu	INTERMEDIARY_CONCEPT
-dripped virus	-	INTERMEDIARY_CONCEPT
+dripped virus	-	DISEASE
 criminus	criminus	INTERMEDIARY_CONCEPT
 inflammatory bowel disease	-	DISEASE
 new paleo	-	INTERMEDIARY_CONCEPT
@@ -3099,7 +3099,7 @@ amyloid fibrils	-	INTERMEDIARY_CONCEPT
 linseeds	linseed	FOOD
 cellular telephones	-	INTERMEDIARY_CONCEPT
 cost per serving	-	INTERMEDIARY_CONCEPT
-viruses	virus	INTERMEDIARY_CONCEPT
+viruses	virus	DISEASE
 c. diff	-	INTERMEDIARY_CONCEPT
 protein gene products	-	INTERMEDIARY_CONCEPT
 platelets circulate	-	INTERMEDIARY_CONCEPT
@@ -5183,7 +5183,7 @@ alfalfa	alfalfa	FOOD
 high-fat	high-fat	INTERMEDIARY_CONCEPT
 pork brains	-	INTERMEDIARY_CONCEPT
 vegetive	vegetive	INTERMEDIARY_CONCEPT
-infectious virus	-	INTERMEDIARY_CONCEPT
+infectious virus	-	DISEASE
 carotenoids contribute	-	INTERMEDIARY_CONCEPT
 extreme reduction	-	INTERMEDIARY_CONCEPT
 rural china	-	INTERMEDIARY_CONCEPT
@@ -5501,7 +5501,7 @@ cardiovascular disease	-	DISEASE
 american diabetes association	-	INTERMEDIARY_CONCEPT
 fetal arteries	-	INTERMEDIARY_CONCEPT
 chamomile tea	-	FOOD
-animal viruses	-	INTERMEDIARY_CONCEPT
+animal viruses	-	DISEASE
 thyroids	thyroid	INTERMEDIARY_CONCEPT
 dysosmia	dysosmia	DISEASE
 diphenhydramine hydrochloride	-	INTERMEDIARY_CONCEPT
@@ -5729,7 +5729,7 @@ fluoxetine hydrochloride	-	INTERMEDIARY_CONCEPT
 hypnotics and sedatives	-	INTERMEDIARY_CONCEPT
 iowa women’s health study	-	INTERMEDIARY_CONCEPT
 antibiotic infections	-	INTERMEDIARY_CONCEPT
-chicken embryo lethal orphan virus	-	INTERMEDIARY_CONCEPT
+chicken embryo lethal orphan virus	-	DISEASE
 ilex paraguariensis	-	FOOD
 colon neoplasm	-	DISEASE
 bladder tumors	-	DISEASE
@@ -6944,7 +6944,7 @@ mt. sinai	-	INTERMEDIARY_CONCEPT
 polyaromatic hydrocarbon receptors	-	INTERMEDIARY_CONCEPT
 breast conserving surgery	-	INTERMEDIARY_CONCEPT
 rosemary	rosemary	FOOD
-marek's disease virus	-	INTERMEDIARY_CONCEPT
+marek's disease virus	-	DISEASE
 methionine	methionine	INTERMEDIARY_CONCEPT
 rectal neoplasm	-	DISEASE
 spinal meningiomas	-	DISEASE
@@ -7934,7 +7934,7 @@ myrosinase enzymes	-	INTERMEDIARY_CONCEPT
 popkin	popkin	INTERMEDIARY_CONCEPT
 glutens	gluten	FOOD
 greenery	greenery	FOOD
-cancer-causing viruses	-	INTERMEDIARY_CONCEPT
+cancer-causing viruses	-	DISEASE
 squash plants	-	FOOD
 nerve	nerve	INTERMEDIARY_CONCEPT
 iota carrageenan	-	INTERMEDIARY_CONCEPT
@@ -7998,7 +7998,7 @@ familial tremor	-	DISEASE
 holy basil tea	-	FOOD
 dietary protein	-	FOOD
 multiple myositis	-	DISEASE
-cancer-causing herpesvirus	-	INTERMEDIARY_CONCEPT
+cancer-causing herpesvirus	-	DISEASE
 bacterial richness	-	INTERMEDIARY_CONCEPT
 leprosy	leprosy	DISEASE
 autophagy	autophagy	INTERMEDIARY_CONCEPT
@@ -9768,7 +9768,7 @@ ultrapasteurization	ultrapasteurization	INTERMEDIARY_CONCEPT
 peripheral autoimmune demyelinating disease	-	DISEASE
 ritaline	ritaline	INTERMEDIARY_CONCEPT
 primary health care	-	INTERMEDIARY_CONCEPT
-poultry viruses	-	INTERMEDIARY_CONCEPT
+poultry viruses	-	DISEASE
 raw tomatoes	-	FOOD
 high fat	-	INTERMEDIARY_CONCEPT
 semi-vegetarian	semi-vegetarian	INTERMEDIARY_CONCEPT
@@ -9826,7 +9826,7 @@ adult-onset	adult-onset	INTERMEDIARY_CONCEPT
 acylpyrin	acylpyrin	INTERMEDIARY_CONCEPT
 replacement therapy	-	INTERMEDIARY_CONCEPT
 shark	shark	INTERMEDIARY_CONCEPT
-bacteria-eating viruses	-	INTERMEDIARY_CONCEPT
+bacteria-eating viruses	-	DISEASE
 potato glycoalkaloids	-	INTERMEDIARY_CONCEPT
 techno	techno	INTERMEDIARY_CONCEPT
 neurotoxins	neurotoxin	INTERMEDIARY_CONCEPT
@@ -9918,7 +9918,7 @@ babies breastfed	-	INTERMEDIARY_CONCEPT
 clethrionomys	clethrionomy	INTERMEDIARY_CONCEPT
 linseed	linseed	FOOD
 vietnamese cinnamom	-	INTERMEDIARY_CONCEPT
-herpesvirus	herpesvirus	INTERMEDIARY_CONCEPT
+herpesvirus	herpesvirus	DISEASE
 pvp-iodines	pvp-iodine	INTERMEDIARY_CONCEPT
 tv watching	-	INTERMEDIARY_CONCEPT
 chemicals	chemical	INTERMEDIARY_CONCEPT
@@ -10192,7 +10192,7 @@ cancer of the rectum	-	DISEASE
 anti-aging remedy	-	INTERMEDIARY_CONCEPT
 male subfertility	-	DISEASE
 horton syndrome	-	DISEASE
-carcinogenic retroviruses	-	INTERMEDIARY_CONCEPT
+carcinogenic retroviruses	-	DISEASE
 headache	headache	DISEASE
 pancreas health	-	INTERMEDIARY_CONCEPT
 floppy ears	-	INTERMEDIARY_CONCEPT
@@ -10218,7 +10218,7 @@ n 3 oils	-	INTERMEDIARY_CONCEPT
 dha supplementation	-	INTERMEDIARY_CONCEPT
 flavanols	flavanol	INTERMEDIARY_CONCEPT
 theoretical risk	-	INTERMEDIARY_CONCEPT
-obesity virus	-	INTERMEDIARY_CONCEPT
+obesity virus	-	DISEASE
 masers	maser	INTERMEDIARY_CONCEPT
 genitalium	genitalium	INTERMEDIARY_CONCEPT
 salsa	salsa	FOOD
@@ -10235,12 +10235,12 @@ bony apophysis	-	INTERMEDIARY_CONCEPT
 exudation	exudation	INTERMEDIARY_CONCEPT
 tarragon extracts	-	INTERMEDIARY_CONCEPT
 degenerative neurologic disorder	-	DISEASE
-virus	virus	INTERMEDIARY_CONCEPT
+virus	virus	DISEASE
 cuttlefish	cuttlefish	INTERMEDIARY_CONCEPT
 delivery person	-	INTERMEDIARY_CONCEPT
 atomic bombs	-	INTERMEDIARY_CONCEPT
 honeybush tea	-	FOOD
-cancer viruses	-	INTERMEDIARY_CONCEPT
+cancer viruses	-	DISEASE
 glibenclamide	glibenclamide	INTERMEDIARY_CONCEPT
 tooth	tooth	INTERMEDIARY_CONCEPT
 amomum cardamomums	-	FOOD
@@ -10520,7 +10520,7 @@ buttermilk	buttermilk	FOOD
 disrupted in b-cell malignancy	-	DISEASE
 ruler	ruler	INTERMEDIARY_CONCEPT
 endocrine-disruptor	endocrine-disruptor	INTERMEDIARY_CONCEPT
-bacteria-eating virus	-	INTERMEDIARY_CONCEPT
+bacteria-eating virus	-	DISEASE
 flammulina	flammulina	FOOD
 durum wheats	-	FOOD
 bilateral deafness	-	DISEASE
@@ -11001,7 +11001,7 @@ nucleotide excision repairs	-	INTERMEDIARY_CONCEPT
 sports supplements	-	INTERMEDIARY_CONCEPT
 absolute risk	-	INTERMEDIARY_CONCEPT
 tipuric	tipuric	INTERMEDIARY_CONCEPT
-avian leukosis/sarcoma virus	-	INTERMEDIARY_CONCEPT
+avian leukosis/sarcoma virus	-	DISEASE
 polyarthritis	polyarthritis	DISEASE
 sugar levels	-	INTERMEDIARY_CONCEPT
 vitamin d 2	-	INTERMEDIARY_CONCEPT
@@ -12344,7 +12344,7 @@ lymphatic sarcomas	-	DISEASE
 chewing fruit	-	FOOD
 2 phenyl chromenes	-	INTERMEDIARY_CONCEPT
 plate	plate	INTERMEDIARY_CONCEPT
-animal virus	-	INTERMEDIARY_CONCEPT
+animal virus	-	DISEASE
 human civilization	-	INTERMEDIARY_CONCEPT
 guam disease	-	DISEASE
 aura	aura	DISEASE
@@ -13114,7 +13114,7 @@ age related bone loss	-	DISEASE
 vitamin d-deficient	-	INTERMEDIARY_CONCEPT
 esselstyn	esselstyn	INTERMEDIARY_CONCEPT
 vegetative nervous systems	-	INTERMEDIARY_CONCEPT
-wart viruses	-	INTERMEDIARY_CONCEPT
+wart viruses	-	DISEASE
 sodium salt arachidonic acid	-	INTERMEDIARY_CONCEPT
 lymphoid cells	-	INTERMEDIARY_CONCEPT
 lemmus	lemmus	INTERMEDIARY_CONCEPT
@@ -13133,7 +13133,7 @@ seed intake	-	INTERMEDIARY_CONCEPT
 nervous system degenerative diseases	-	DISEASE
 malignant epithelial neoplasm	-	DISEASE
 coarse tremors	-	DISEASE
-chicken virus	-	INTERMEDIARY_CONCEPT
+chicken virus	-	DISEASE
 nanocrystals	nanocrystal	INTERMEDIARY_CONCEPT
 tonsillar cancers	-	DISEASE
 kenaf	kenaf	FOOD
@@ -13601,7 +13601,7 @@ catatoxic steroids	-	INTERMEDIARY_CONCEPT
 uterus neoplasms	-	DISEASE
 red delicious	-	FOOD
 mammals	mammal	INTERMEDIARY_CONCEPT
-porcine endogenous retroviruses	-	INTERMEDIARY_CONCEPT
+porcine endogenous retroviruses	-	DISEASE
 clonal abortion	-	INTERMEDIARY_CONCEPT
 residency and internship	-	INTERMEDIARY_CONCEPT
 yerba mate	-	FOOD
@@ -13720,7 +13720,7 @@ gasser's syndrome	-	DISEASE
 isometric exercise	-	INTERMEDIARY_CONCEPT
 high-antioxidant	high-antioxidant	INTERMEDIARY_CONCEPT
 emergency wards	-	INTERMEDIARY_CONCEPT
-chicken viruses	-	INTERMEDIARY_CONCEPT
+chicken viruses	-	DISEASE
 2 phenyl benzopyrans	-	INTERMEDIARY_CONCEPT
 inappropriate gh secretion syndrome (acromegaly)	-	DISEASE
 creatinine	creatinine	INTERMEDIARY_CONCEPT
@@ -13952,7 +13952,7 @@ situational syncope	-	DISEASE
 laser technology	-	INTERMEDIARY_CONCEPT
 vegan couple	-	INTERMEDIARY_CONCEPT
 right mind	-	INTERMEDIARY_CONCEPT
-mink encephalopathy virus	-	INTERMEDIARY_CONCEPT
+mink encephalopathy virus	-	DISEASE
 dance	dance	INTERMEDIARY_CONCEPT
 tamoxifen	tamoxifen	INTERMEDIARY_CONCEPT
 juglans regia	-	FOOD

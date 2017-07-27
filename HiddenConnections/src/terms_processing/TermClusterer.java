@@ -32,6 +32,8 @@ import io.Writer;
 import terms_processing.StanfordLemmatizer;
 
 public class TermClusterer {
+	// a file for the tree entries of existing terms in the termset
+	private static final String MESH_MESHTREES_TXT = "mesh/meshtrees.txt";
 	private static final String MESH_VARIANTS_ENRICHED_TXT = "mesh/meshVariants_enriched.txt";
 	private static Map<String, String> categorizedTerms = new HashMap<String, String>();
 	// key: meshId, value: list of all entry terms for id + term itself
@@ -55,6 +57,8 @@ public class TermClusterer {
     }
 
 	public void clusterTerms() throws MalformedURLException, IOException {
+		
+		Writer.overwriteFile("", MESH_MESHTREES_TXT);
 		String[] files = {MESH_DESC2017_ASCII};
 		Writer.overwriteFile("", pathToAllTermsAfterWordNet);
         IDictionary dict = prepareExtraction();
@@ -147,7 +151,7 @@ public class TermClusterer {
                 String LexFileName = synset.getLexicalFile().getName();
                 
                 if(LexFileName.equals("noun.food") || LexFileName.equals("noun.plant") || term.contains("food")){
-                	
+                		Writer.appendLineToFile(LexFileName +"\t" + term, MESH_MESHTREES_TXT);
                 		TermClusterer.getcategorizedTerms().put(term, "FOOD");
                 }
             } 
@@ -165,11 +169,19 @@ public class TermClusterer {
 					Set<String> mesh_tree = TermClusterer.getMeshTrees().get(id);
 					for(String tree_entry: mesh_tree){
 						// C: all diseases, F03.: psychological disorders, B04: viruses
-						if(tree_entry.startsWith("C") ||tree_entry.startsWith("F03.") || tree_entry.startsWith("B04.")){
+						if(tree_entry.startsWith("C") 
+							||tree_entry.startsWith("F03.") 
+							|| tree_entry.startsWith("B04.")
+							//Pathologic Processes [C23.550]
+							|| tree_entry.startsWith("C23.550")
+							//Pathological Conditions, Anatomical 
+							|| tree_entry.startsWith("C23.300")){
 							TermClusterer.getcategorizedTerms().put(term, "DISEASE");
+							Writer.appendLineToFile(tree_entry +"\t" + term, MESH_MESHTREES_TXT);
 							// B01.650: plants, J02 foods
 						} else if(tree_entry.startsWith("B01.650") || tree_entry.startsWith("J02.")){
 							TermClusterer.getcategorizedTerms().put(term, "FOOD");
+							Writer.appendLineToFile(tree_entry +"\t" + term, MESH_MESHTREES_TXT);
 						} else if(tree_entry.equals("-")){
 							// supplementary concept files
 							if(TermClusterer.isDisease(term)){
@@ -201,6 +213,7 @@ public class TermClusterer {
 						for(String tree_entry: mesh_tree){
 							if(tree_entry.startsWith("B01.650") || tree_entry.startsWith("J02.")){
 								TermClusterer.getcategorizedTerms().put(term, "FOOD");
+								Writer.appendLineToFile(tree_entry, MESH_MESHTREES_TXT);
 							} 
 						}
 			
@@ -217,7 +230,8 @@ public class TermClusterer {
 				"injury", "injuries", 
 				"condition", "conditions",
 				"cancer", "cancers",
-				"dysfunction", "dysfunction"};
+				"dysfunction", "dysfunction",
+				"virus", "viruses"};
 		for(String criterium: candidate_disease){
 			if(term_variant.endsWith(criterium)){
 				result = true;

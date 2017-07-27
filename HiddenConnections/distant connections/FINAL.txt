@@ -1,9 +1,9 @@
 
 beef	PART-OF-I	iron	PART-OF	muscle	CAUSE	inflammation
 coconut oil	PART-OF-I	saturated fat	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
-pork	PART-OF-I	virus	LINKED-TO	obesity
 carob	PART-OF-I	fiber	EFFECT	cholesterol	PART-OF	atherosclerosis
 egg	LINKED-TO	diabetes	PART-OF	childhood	PART-OF-I	skin cancer
+poultry	PART-OF-I	manure	CAUSE	virus
 diet	PART-OF-I	animal products	LINKED-TO	weight gain
 chicken	HYPERNYMY	animal products	LINKED-TO	weight gain
 turmeric	HYPERNYMY	dna damage	LINKED-TO	treatment	PART-OF	cardiovascular disease
@@ -70,6 +70,7 @@ avocado	PART-OF-I	cholesterol	CAUSE	atherosclerosis
 diet	PART-OF-I	animal products	IS-A	fish oil	EFFECT	inflammation
 mushroom	PART-OF-I	vitamin d	HYPERNYMY	diabetes	CAUSED-BY	insulin resistance
 aspartame	CAUSE	adverse effects	PART-OF	pregnancy	PART-OF-I	vomit
+broccoli	PART-OF-I	enzyme	EFFECT-I	plant-based diet	HYPERNYMY	virus
 tuna	PART-OF-I	toxin	IS-A	dioxin	CAUSE	inflammation
 food poisoning	CAUSE	fish	PART-OF-I	allergy
 milk	HYPERNYMY	animal products	IS-A	fish oil	EFFECT	inflammation
@@ -79,7 +80,6 @@ soy	PART-OF-I	estrogen	PART-OF	breast cancer
 oatmeal	PART-OF-I	fiber	EFFECT	cholesterol	LINKED-TO	gestational diabetes
 nut	EFFECT	fat	IS-A	brain	CAUSED-BY	atherosclerosis
 bacon	HYPERNYMY	animal products	IS-A	dairy	PART-OF	acne
-poultry	PART-OF-I	manure	CAUSE	virus	PART-OF	breast cancer
 almond milk	EFFECT	cancer cells	PART-OF-I	cholesterol	LINKED-TO	nonalcoholic fatty liver
 cheese	IS-A	saturated fat	PART-OF-I	cholesterol	LINKED-TO	gestational diabetes
 dessert	IS-A	cake	PART-OF-I	cholesterol	PART-OF	atherosclerosis
@@ -88,12 +88,12 @@ egg	PART-OF-I	fat	PART-OF	animal products	CAUSE	inflammation
 cheese	PART-OF-I	pesticide	PART-OF	animal products	CAUSE	inflammation
 cranberry	PART-OF-I	antioxidant	IS-A	curcumin	PART-OF	pain
 brown rice	EFFECT	diabetes	PART-OF	china	PART-OF-I	obesity
-chicken	PART-OF-I	virus	LINKED-TO	obesity
 egg	PART-OF	saturated fat	CAUSE	dysfunction
 milk	IS-A	pesticide	PART-OF	animal products	CAUSE	inflammation
 milk	HYPERNYMY	muscle	PART-OF	death
 plant foods	IS-A	grain	EFFECT	brain	CAUSED-BY	atherosclerosis
 green tea	HYPERNYMY	bacterium	PART-OF	animal products	CAUSE	inflammation
+milk	PART-OF-I	manure	CAUSE	virus
 cheese	PART-OF-I	steroid	IS-A	estrogen	PART-OF	breast cancer
 sweet potatoes	PART-OF-I	protein	EFFECT	colon cancer
 chocolate	PART-OF-I	calorie	PART-OF	saturated fat	CAUSE	dysfunction
@@ -107,6 +107,7 @@ plant foods	PART-OF-I	iron	LINKED-TO	diabetes	HYPERNYMY	chronic diseases
 tea	EFFECT	blood pressure	PART-OF-I	spike	PART-OF	inflammation
 soy	HYPERNYMY	animal proteins	IS-A	neu5gc	CAUSE	inflammation
 plant foods	PART-OF-I	iron	PART-OF	animal products	LINKED-TO	weight gain
+green	PART-OF-I	enzyme	EFFECT-I	plant-based diet	HYPERNYMY	virus
 nutritional yeast	PART-OF-I	fiber	EFFECT	cholesterol	CAUSE	erectile dysfunction
 chicken	CAUSE	fish	PART-OF-I	dha	PART-OF	scurvy
 alfalfa sprout	PART-OF-I	salmonella	PART-OF	salmonellosis
@@ -124,7 +125,6 @@ dessert	IS-A	cake	PART-OF-I	cholesterol	CAUSE	atherosclerosis
 beer	PART-OF-I	agent	PART-OF	atherosclerosis
 beef	IS-A	saturated fat	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
 cheese	IS-A	saturated fat	EFFECT	cholesterol	PART-OF-I	sexual dysfunction
-poultry	PART-OF-I	virus	LINKED-TO	obesity
 beef	IS-A	saturated fat	PART-OF-I	cholesterol	LINKED-TO	nonalcoholic fatty liver
 chicken	PART-OF-I	iron	PART-OF	animal products	LINKED-TO	weight gain
 chicken	PART-OF-I	iron	PART-OF	muscle	CAUSE	inflammation
@@ -179,6 +179,7 @@ coconut oil	PART-OF-I	saturated fat	EFFECT	cholesterol	PART-OF	atherosclerosis
 beef	EFFECT	cholesterol	CAUSE	artery	LINKED-TO	cardiac disease
 seafood	PART-OF-I	pcb	HYPERNYMY	xenoestrogen	LINKED-TO	birth defects
 chicken	PART-OF-I	iron	LINKED-TO	diabetes	HYPERNYMY	chronic diseases
+poultry	LINKED-TO-I	mortality	PART-OF	poultry workers	PART-OF-I	reticuloendotheliosis viruses
 flax seeds	PART-OF-I	fiber	EFFECT	cholesterol	CAUSE	erectile dysfunction
 processed foods	PART-OF-I	steroid	IS-A	estrogen	PART-OF	breast cancer
 egg	PART-OF-I	saturated fat	EFFECT	cholesterol	LINKED-TO	gestational diabetes
@@ -187,7 +188,6 @@ egg	PART-OF	saturated fat	PART-OF-I	cholesterol	CAUSE	atherosclerosis
 fruit juice	HYPERNYMY	fiber	EFFECT	cholesterol	CAUSE	erectile dysfunction
 nut	HYPERNYMY	fat	PART-OF	fish	PART-OF-I	allergy
 pork	PART-OF-I	protein	EFFECT	colon cancer
-milk	PART-OF-I	manure	CAUSE	virus	LINKED-TO	obesity
 seafood	PART-OF-I	bmaa	PART-OF	alzheimer	HYPERNYMY	neurodegenerative diseases
 dairy products	PART-OF-I	pesticide	PART-OF	animal products	CAUSE	inflammation
 breast milk	IS-A	pesticide	PART-OF	who	PART-OF-I	breast cancer
@@ -242,7 +242,6 @@ curry powder	EFFECT	cancer cells	PART-OF-I	cholesterol	LINKED-TO	gestational dia
 walnut	EFFECT	cholesterol	CAUSE	artery	PART-OF	allergy
 french fries	HYPERNYMY	carb	LINKED-TO	pancreatic cancer
 miso	PART-OF-I	salt	LINKED-TO-I	stomach cancer
-poultry	PART-OF-I	manure	CAUSE	virus	LINKED-TO	obesity
 whole grains	PART-OF-I	fiber	EFFECT	cholesterol	LINKED-TO	gestational diabetes
 egg	PART-OF-I	cholesterol	LINKED-TO	nonalcoholic fatty liver
 avocado	PART-OF-I	cholesterol	PART-OF	saturated fat	CAUSE	dysfunction
@@ -312,6 +311,7 @@ curry powder	EFFECT	cancer cells	PART-OF-I	cholesterol	CAUSE	atherosclerosis
 whipped cream	PART-OF-I	protein	EFFECT	colon cancer
 poultry	PART-OF-I	salmonella	HYPERNYMY	pathogen	CAUSED-BY	norovirus
 egg	EFFECT	cholesterol	CAUSE	erectile dysfunction
+cruciferous vegetables	PART-OF-I	enzyme	EFFECT-I	plant-based diet	HYPERNYMY	virus
 beef	EFFECT	cholesterol	PART-OF-I	sexual dysfunction
 egg	LINKED-TO	diabetes	PART-OF-I	aid
 plant foods	PART-OF-I	fiber	EFFECT	cholesterol	CAUSE	erectile dysfunction
@@ -327,8 +327,8 @@ seafood	PART-OF-I	toxin	IS-A	arsenic	CAUSE	skin cancer
 tuna	HYPERNYMY	industrial pollutants	PART-OF	fish	PART-OF-I	allergy
 kale	PART-OF-I	calcium	EFFECT-I	protein	EFFECT	colon cancer
 deli meats	PART-OF-I	salmonella	PART-OF	salmonellosis
-chicken meat	PART-OF-I	virus	PART-OF	breast cancer
 peppermint	EFFECT	muscle	CAUSE	inflammation
+lavender	PART-OF-I	finding	EFFECT	plant-based diet	HYPERNYMY	virus
 deli meat	PART-OF-I	salmonella	PART-OF	salmonellosis
 milk	HYPERNYMY	animal products	PART-OF-I	bacterium	IS-A	dental plaque
 egg	PART-OF-I	saturated fat	EFFECT	cholesterol	PART-OF	atherosclerosis
@@ -427,7 +427,6 @@ lentil	PART-OF-I	carb	LINKED-TO	pancreatic cancer
 nut	PART-OF-I	fat	PART-OF	animal products	CAUSE	inflammation
 split peas	EFFECT	cholesterol	LINKED-TO	gestational diabetes
 cheese	IS-A	saturated fat	CAUSE	dysfunction
-poultry	PART-OF-I	virus	PART-OF	breast cancer
 nettle tea	PART-OF-I	iron	PART-OF	animal products	LINKED-TO	weight gain
 flax seeds	PART-OF-I	fat	IS-A	brain	CAUSED-BY	atherosclerosis
 tuna	PART-OF-I	spike	PART-OF	blood	CAUSE	insulin resistance
@@ -485,9 +484,7 @@ chicken	PART-OF-I	campylobacter	HYPERNYMY	bacterium	IS-A	dental plaque
 nut	EFFECT	fat	PART-OF	insulin sensitivity
 egg	PART-OF-I	cholesterol	PART-OF	atherosclerosis
 beef	EFFECT	cholesterol	PART-OF	atherosclerosis
-milk	PART-OF-I	manure	CAUSE	virus	PART-OF	breast cancer
 cheese	PART-OF-I	calcium	EFFECT-I	protein	EFFECT	colon cancer
-chicken meat	PART-OF-I	virus	LINKED-TO	obesity
 food poisoning	CAUSE	fish	PART-OF-I	dha	PART-OF	scurvy
 egg	PART-OF-I	cholesterol	LINKED-TO	gestational diabetes
 brown rice	EFFECT	diabetes	PART-OF	livestock	PART-OF-I	infection
@@ -536,6 +533,7 @@ milk protein	IS-A	casein	HYPERNYMY	protein	EFFECT	colon cancer
 chicken	CAUSE	fish	PART-OF-I	allergy
 milk	IS-A	galactose	LINKED-TO-I	death
 peppermint	EFFECT	muscle	PART-OF	death
+poultry	LINKED-TO-I	mortality	PART-OF	poultry workers	PART-OF-I	cancer viruses
 nut	HYPERNYMY	fat	PART-OF	heart attacks
 diet	PART-OF-I	animal products	IS-A	dairy	PART-OF	acne
 beef	IS-A	saturated fat	PART-OF-I	cholesterol	EFFECT	breast cancer
@@ -556,6 +554,7 @@ bacon	HYPERNYMY	animal products	LINKED-TO	weight gain
 dessert	IS-A	cake	PART-OF-I	cholesterol	LINKED-TO	gestational diabetes
 milk	IS-A	pesticide	PART-OF-I	arsenic	CAUSE	skin cancer
 walnut	EFFECT	cholesterol	PART-OF-I	sexual dysfunction
+egg	PART-OF-I	finding	EFFECT	plant-based diet	HYPERNYMY	virus
 chocolate	PART-OF-I	saturated fat	EFFECT	cholesterol	LINKED-TO	gestational diabetes
 chocolate	PART-OF-I	fat	PART-OF	animal products	CAUSE	inflammation
 egg	LINKED-TO	diabetes	HYPERNYMY	chronic diseases
@@ -598,6 +597,7 @@ beef	IS-A	saturated fat	PART-OF-I	cholesterol	LINKED-TO	gestational diabetes
 plant foods	LINKED-TO	prevotella	LINKED-TO-I	fat	PART-OF	heart attacks
 wheat	PART-OF-I	protein	EFFECT	colon cancer
 egg	EFFECT	cholesterol	CAUSE	artery	LINKED-TO	cardiac disease
+strawberry	EFFECT	cancer growth	EFFECT-I	plant-based diet	HYPERNYMY	virus
 flax seeds	PART-OF-I	fat	PART-OF	insulin sensitivity
 egg	PART-OF-I	cholesterol	EFFECT	breast cancer
 chicken	HYPERNYMY	animal products	PART-OF-I	bacterium	CAUSE	infection
@@ -645,7 +645,6 @@ green	PART-OF-I	nutrition	EFFECT-I	fat	PART-OF	insulin sensitivity
 avocado	PART-OF-I	cholesterol	EFFECT	breast cancer
 fig	PART-OF-I	fiber	EFFECT	cholesterol	PART-OF	atherosclerosis
 chocolate	PART-OF-I	fat	PART-OF	animal products	LINKED-TO	weight gain
-pork	PART-OF-I	virus	PART-OF	breast cancer
 walnut	EFFECT	cholesterol	CAUSE	artery	LINKED-TO	cardiac disease
 egg	PART-OF-I	cholesterol	PART-OF	saturated fat	CAUSE	dysfunction
 cilantro	HYPERNYMY	who	PART-OF-I	breast cancer
@@ -678,7 +677,6 @@ beef	PART-OF-I	iron	LINKED-TO	diabetes	CAUSED-BY	obesity
 poultry	PART-OF-I	arsenic	CAUSE	skin cancer
 seafood	IS-A	mercury	HYPERNYMY	fish	PART-OF-I	allergy
 tuna	PART-OF-I	toxin	LINKED-TO	alzheimer	HYPERNYMY	brain diseases
-chicken	PART-OF-I	virus	PART-OF	breast cancer
 tuna	PART-OF-I	toxin	IS-A	arsenic	CAUSE	skin cancer
 split peas	EFFECT	cholesterol	PART-OF-I	sexual dysfunction
 diet	EFFECT	blood pressure	EFFECT-I	fiber	IS-A	diverticulosis
@@ -686,6 +684,7 @@ nut	PART-OF-I	fiber	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
 alfalfa	PART-OF-I	salmonella	PART-OF	salmonellosis
 seafood	PART-OF-I	bmaa	PART-OF	alzheimer	HYPERNYMY	brain diseases
 carob	PART-OF-I	fiber	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
+grapefruit	EFFECT	enzyme	EFFECT-I	plant-based diet	HYPERNYMY	virus
 egg	PART-OF	saturated fat	EFFECT	cholesterol	PART-OF-I	sexual dysfunction
 diet	PART-OF	health	PART-OF-I	xenoestrogen	LINKED-TO	birth defects
 diet	PART-OF-I	cholesterol	PART-OF	atherosclerosis
