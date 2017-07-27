@@ -11,6 +11,10 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
+import java.util.regex.Pattern;
+
+import org.codehaus.plexus.util.StringUtils;
+
 import java.util.Set;
 
 import bootstrapping.Bootstrapper;
@@ -47,9 +51,7 @@ public class TermClusterer {
 	
 	public static void main(String[] args) throws IOException{
 		TermClusterer tc = new TermClusterer();
-		tc.clusterTerms();
-       
-        
+		tc.clusterTerms();    
     }
 
 	public void clusterTerms() throws MalformedURLException, IOException {
@@ -66,8 +68,15 @@ public class TermClusterer {
         	 this.findLexNameForTerm(dict, t);
         	 this.categorizeTermWithMesh(t);
         	 this.finalCategorizationFoods(t);
+        	 
 		}
         
+        for(Entry<String, String> t: categorizedTerms.entrySet()){
+        	if(t.getValue().equals("INTERMEDIARY_CONCEPT")){
+        		this.candidateContainsOtherTerms(t.getKey());
+        	}
+        	
+        }
         writeAllTerms();
 	}
 	
@@ -394,6 +403,23 @@ public static void createEnrichedMeshSuppFile(){
 				} 
 			}
 		}
+	
+	/**
+	 * if one term contains other diseases or foods, then it is a food itself
+	 * @param candidate
+	 * @return
+	 */
+	public void candidateContainsOtherTerms(String candidate){
+		Set<String> set = categorizedTerms.keySet();
+		for(String term: set){
+			if(candidate.startsWith(term) || candidate.endsWith(term) 
+					|| candidate.matches("(\\w+\\b)*" + Pattern.quote(term) + "(\\w+\\b)*")){
+				String betterCategory = categorizedTerms.get(term);
+				categorizedTerms.put(candidate, betterCategory);
+				break;
+			}
+		}
+	}
 
 	
 	public static Map<String, String> getcategorizedTerms() {

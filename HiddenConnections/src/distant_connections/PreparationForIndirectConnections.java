@@ -411,8 +411,6 @@ public class PreparationForIndirectConnections {
 		System.out.println("DONE filtering too general");
 		// write big file as input for graph
 		prep.rewriteInstances();
-		
-
 	}
 	
 	
