@@ -11,6 +11,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 import org.apache.lucene.queryparser.classic.ParseException;
+import org.codehaus.plexus.util.StringUtils;
 import org.jsoup.Connection;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -108,7 +109,8 @@ public class TesterForStuff {
 		//parseTree();
 		//tagTerms();
 		
-		luceneSearch();
+		//luceneSearch();
+		 System.out.println(candidateContainsOtherTerms("disease"));
 	
 	}
 	
@@ -223,6 +225,23 @@ public class TesterForStuff {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+	}
+	
+	public static boolean candidateContainsOtherTerms(String candidate){
+		boolean result = false;
+		Set<String> set = new HashSet<String>();
+		set.add("heart disease");
+		set.add("last heart disease");
+		set.add("disease");
+		set.remove(candidate);
+		int index = StringUtils.indexOfAny(candidate, set.toArray(new String[set.size()]));
+		    if(index !=-1){
+		    	result = true;
+			
+		}
+	    
+	    
+		return result;
 	}
 	
 	
