@@ -56,7 +56,8 @@ public class Knoten {
 			for (Pfad p: pfade){
 				aktuelle_nachbarn = p.aktueller_knoten.neighbours;
 				for (Kante nachbar_kante: aktuelle_nachbarn.keySet()){
-					if (!(p.gesehene_kantentypen.contains(nachbar_kante.type))&&!(p.gesehene_knoten.contains(aktuelle_nachbarn.get(nachbar_kante)))&&!(aktuelle_nachbarn.get(nachbar_kante).type.equals("FOOD"))){
+					//!(p.gesehene_kantentypen.contains(nachbar_kante.type))&&!(p.gesehene_knoten.contains(aktuelle_nachbarn.get(nachbar_kante)))&&
+					if (!(aktuelle_nachbarn.get(nachbar_kante).type.equals("FOOD"))){
 						if (aktuelle_nachbarn.get(nachbar_kante).type=="DISEASE"){
 							//Zielpfad gefunden
 							Pfad neuer_pfad = p.expandPfad(nachbar_kante, aktuelle_nachbarn.get(nachbar_kante));
