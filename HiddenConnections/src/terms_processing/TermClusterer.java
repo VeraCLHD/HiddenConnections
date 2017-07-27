@@ -71,12 +71,13 @@ public class TermClusterer {
         	 
 		}
         
-        for(Entry<String, String> t: categorizedTerms.entrySet()){
+        /*dadurch entsteht müll wie pesticides is a disease! lieber nicht
+         * for(Entry<String, String> t: categorizedTerms.entrySet()){
         	if(t.getValue().equals("INTERMEDIARY_CONCEPT")){
         		this.candidateContainsOtherTerms(t.getKey());
         	}
         	
-        }
+        }*/
         writeAllTerms();
 	}
 	
@@ -412,11 +413,15 @@ public static void createEnrichedMeshSuppFile(){
 	public void candidateContainsOtherTerms(String candidate){
 		Set<String> set = categorizedTerms.keySet();
 		for(String term: set){
-			if(candidate.startsWith(term) || candidate.endsWith(term) 
-					|| candidate.matches("(\\w+\\b)*" + Pattern.quote(term) + "(\\w+\\b)*")){
+			if(candidate.endsWith(term)){
 				String betterCategory = categorizedTerms.get(term);
 				categorizedTerms.put(candidate, betterCategory);
 				break;
+			} else if( term.endsWith(candidate)){
+				String betterCategory = categorizedTerms.get(term);
+				categorizedTerms.put(candidate, betterCategory);
+				break;
+				
 			}
 		}
 	}

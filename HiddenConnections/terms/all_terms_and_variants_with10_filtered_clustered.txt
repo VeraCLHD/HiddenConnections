@@ -178,7 +178,7 @@ rose	rise	FOOD
 rosa	rosa	FOOD
 osteoarthritides	osteoarthritide	DISEASE
 piglets	piglet	INTERMEDIARY_CONCEPT
-rooting	root	FOOD
+rooting	root	INTERMEDIARY_CONCEPT
 generating heat	-	INTERMEDIARY_CONCEPT
 gift relationships	-	INTERMEDIARY_CONCEPT
 findings	finding	INTERMEDIARY_CONCEPT
@@ -405,7 +405,7 @@ red backed mouse	-	INTERMEDIARY_CONCEPT
 acute myeloid	-	INTERMEDIARY_CONCEPT
 broccomax	broccomax	INTERMEDIARY_CONCEPT
 sugar association	-	INTERMEDIARY_CONCEPT
-eating chicken	-	FOOD
+eating chicken	-	INTERMEDIARY_CONCEPT
 benzene levels	-	INTERMEDIARY_CONCEPT
 acquired deafness	-	DISEASE
 susadrin	susadrin	INTERMEDIARY_CONCEPT
@@ -797,7 +797,7 @@ kava kava	-	FOOD
 quinbisan	quinbisan	INTERMEDIARY_CONCEPT
 stone risk	-	INTERMEDIARY_CONCEPT
 fragmentation	fragmentation	INTERMEDIARY_CONCEPT
-cancer research	-	DISEASE
+cancer research	-	INTERMEDIARY_CONCEPT
 landfill	landfill	INTERMEDIARY_CONCEPT
 coca leaves	-	INTERMEDIARY_CONCEPT
 cacaos	cacao	FOOD
@@ -860,7 +860,7 @@ quinoa	quinoa	FOOD
 senile paranoid dementias	-	DISEASE
 one health initiative	-	INTERMEDIARY_CONCEPT
 huntington laboratories brand of povidone-iodine	-	INTERMEDIARY_CONCEPT
-eosinophilia–myalgia syndrome	-	DISEASE
+eosinophilia–myalgia syndrome	-	INTERMEDIARY_CONCEPT
 nitrobid	nitrobid	INTERMEDIARY_CONCEPT
 expec	expec	INTERMEDIARY_CONCEPT
 low calorie	-	INTERMEDIARY_CONCEPT
@@ -877,7 +877,7 @@ apple	apple	FOOD
 increased cancer	-	DISEASE
 chlorella	chlorella	FOOD
 downloads	download	INTERMEDIARY_CONCEPT
-cancer early diagnosis	-	DISEASE
+cancer early diagnosis	-	INTERMEDIARY_CONCEPT
 chemical hazard	-	INTERMEDIARY_CONCEPT
 nuloraz	nuloraz	INTERMEDIARY_CONCEPT
 irritable colon	-	DISEASE
@@ -1036,7 +1036,7 @@ chronic lymphoblastic leukemia	-	DISEASE
 watering	water	INTERMEDIARY_CONCEPT
 signaling systems	-	INTERMEDIARY_CONCEPT
 chemical warfare	-	INTERMEDIARY_CONCEPT
-uproot	uproot	FOOD
+uproot	uproot	INTERMEDIARY_CONCEPT
 açaí	açaí	INTERMEDIARY_CONCEPT
 horsebean	horsebean	FOOD
 conventional medicine	-	INTERMEDIARY_CONCEPT
@@ -1054,7 +1054,7 @@ pectin	pectin	INTERMEDIARY_CONCEPT
 spindle cell sarcoma	-	DISEASE
 silence	silence	INTERMEDIARY_CONCEPT
 oncoviruses	oncovirus	DISEASE
-beet juice	-	FOOD
+beet juice	-	INTERMEDIARY_CONCEPT
 medical device	-	INTERMEDIARY_CONCEPT
 chain omega-3s	-	INTERMEDIARY_CONCEPT
 nu-pharm brand of lorazepam	-	INTERMEDIARY_CONCEPT
@@ -1072,7 +1072,7 @@ end-of-year	end-of-year	INTERMEDIARY_CONCEPT
 intracranial cns disorders	-	DISEASE
 migration policies	-	INTERMEDIARY_CONCEPT
 coffee consumption	-	INTERMEDIARY_CONCEPT
-chicken samples	-	FOOD
+chicken samples	-	INTERMEDIARY_CONCEPT
 cocos	coco	FOOD
 pithecellobium	pithecellobium	FOOD
 boston	boston	INTERMEDIARY_CONCEPT
@@ -1106,7 +1106,7 @@ thiamine mononitrate	-	INTERMEDIARY_CONCEPT
 senile paranoid dementia	-	DISEASE
 bologna	bologna	INTERMEDIARY_CONCEPT
 tearing	tear	INTERMEDIARY_CONCEPT
-pomegranate juice	-	FOOD
+pomegranate juice	-	INTERMEDIARY_CONCEPT
 intervertebral disk degeneration	-	DISEASE
 nitroderm	nitroderm	INTERMEDIARY_CONCEPT
 feathering	feather	INTERMEDIARY_CONCEPT
@@ -1140,13 +1140,13 @@ snack food	-	FOOD
 biologic markers	-	INTERMEDIARY_CONCEPT
 farmed salmon	-	INTERMEDIARY_CONCEPT
 cooking oil	-	FOOD
-fibromyalgia patients	-	DISEASE
+fibromyalgia patients	-	INTERMEDIARY_CONCEPT
 salmonella poisoning	-	INTERMEDIARY_CONCEPT
 tadpoles	tadpole	INTERMEDIARY_CONCEPT
 kb-53	kb-53	INTERMEDIARY_CONCEPT
 sell salmonella-positive	-	INTERMEDIARY_CONCEPT
 beta-caroten-3-ol	beta-caroten-3-ol	INTERMEDIARY_CONCEPT
-food chicken	-	FOOD
+food chicken	-	INTERMEDIARY_CONCEPT
 melqx	melqx	INTERMEDIARY_CONCEPT
 national academies of science	-	INTERMEDIARY_CONCEPT
 sdz 202 250	-	INTERMEDIARY_CONCEPT
@@ -1384,7 +1384,7 @@ okras	okra	FOOD
 higher cancer	-	DISEASE
 mass screening	-	INTERMEDIARY_CONCEPT
 breast tenderness	-	INTERMEDIARY_CONCEPT
-v8 juice	-	FOOD
+v8 juice	-	INTERMEDIARY_CONCEPT
 protein restriction	-	INTERMEDIARY_CONCEPT
 gamma imido atp	-	INTERMEDIARY_CONCEPT
 neoplastic colony-forming unit	-	INTERMEDIARY_CONCEPT
@@ -1452,7 +1452,7 @@ common foxgloves	-	FOOD
 fenugreek seeds	-	FOOD
 blood brain barrier	-	INTERMEDIARY_CONCEPT
 rubberplant	rubberplant	FOOD
-fibromyalgia symptoms	-	DISEASE
+fibromyalgia symptoms	-	INTERMEDIARY_CONCEPT
 sodium phytate	-	INTERMEDIARY_CONCEPT
 intestinal microbiomes	-	INTERMEDIARY_CONCEPT
 baby equipment	-	INTERMEDIARY_CONCEPT
@@ -1466,7 +1466,7 @@ senile plaque	-	DISEASE
 algae	algae	INTERMEDIARY_CONCEPT
 fever	fever	DISEASE
 secale cereale	-	FOOD
-legume intake	-	FOOD
+legume intake	-	INTERMEDIARY_CONCEPT
 disk degenerations	-	DISEASE
 small round-structured viruses	-	DISEASE
 fish consumption	-	INTERMEDIARY_CONCEPT
@@ -1616,7 +1616,7 @@ leprosies	leprosy	DISEASE
 powerful human	-	INTERMEDIARY_CONCEPT
 bt	bt	INTERMEDIARY_CONCEPT
 fatigues	fatigue	INTERMEDIARY_CONCEPT
-kale juice	-	FOOD
+kale juice	-	INTERMEDIARY_CONCEPT
 lessened joint	-	INTERMEDIARY_CONCEPT
 selenium	selenium	INTERMEDIARY_CONCEPT
 square dance	-	INTERMEDIARY_CONCEPT
@@ -1654,7 +1654,7 @@ american dental association	-	INTERMEDIARY_CONCEPT
 hemolytic jaundice	-	DISEASE
 pseudopleuronectes	pseudopleuronecte	INTERMEDIARY_CONCEPT
 attacks	attack	INTERMEDIARY_CONCEPT
-seaweed salads	-	FOOD
+seaweed salads	-	INTERMEDIARY_CONCEPT
 salt retention	-	INTERMEDIARY_CONCEPT
 colonizer	colonizer	INTERMEDIARY_CONCEPT
 coffee enemas	-	INTERMEDIARY_CONCEPT
@@ -1674,7 +1674,7 @@ arvicolinae	arvicolinae	INTERMEDIARY_CONCEPT
 bloating	bloat	INTERMEDIARY_CONCEPT
 superficial head injuries	-	DISEASE
 tears	tear	INTERMEDIARY_CONCEPT
-meat-sweet diet	-	FOOD
+meat-sweet diet	-	INTERMEDIARY_CONCEPT
 dims	dim	INTERMEDIARY_CONCEPT
 sedative effects	-	INTERMEDIARY_CONCEPT
 cardiovascular health	-	INTERMEDIARY_CONCEPT
@@ -1756,7 +1756,7 @@ cross sectional survey	-	INTERMEDIARY_CONCEPT
 fetus	fetus	INTERMEDIARY_CONCEPT
 johne's disease	-	DISEASE
 burkitt's lymphoma virus	-	DISEASE
-applebee's	applebee	FOOD
+applebee's	applebee	INTERMEDIARY_CONCEPT
 persistent atrial fibrillation	-	DISEASE
 premature births	-	DISEASE
 ceylon cinnamon	-	FOOD
@@ -1792,7 +1792,7 @@ plasticise	plasticise	INTERMEDIARY_CONCEPT
 rhinolophus	rhinolophus	INTERMEDIARY_CONCEPT
 patentee	patentee	INTERMEDIARY_CONCEPT
 ll	ll	INTERMEDIARY_CONCEPT
-gluten free diet	-	FOOD
+gluten free diet	-	INTERMEDIARY_CONCEPT
 ph1-negative myelogenous leukemias	-	DISEASE
 cerium salt arachidonic acid	-	INTERMEDIARY_CONCEPT
 ly	ly	INTERMEDIARY_CONCEPT
@@ -1868,7 +1868,7 @@ pr	pr	INTERMEDIARY_CONCEPT
 pheasants	pheasant	INTERMEDIARY_CONCEPT
 convenience	convenience	INTERMEDIARY_CONCEPT
 life stress	-	INTERMEDIARY_CONCEPT
-cancer deaths	-	DISEASE
+cancer deaths	-	INTERMEDIARY_CONCEPT
 killer fats	-	INTERMEDIARY_CONCEPT
 hershey’s	hershey	INTERMEDIARY_CONCEPT
 ster-zac bath concentrate	-	INTERMEDIARY_CONCEPT
@@ -1906,7 +1906,7 @@ cocoanut	cocoanut	FOOD
 chinese hamsters	-	INTERMEDIARY_CONCEPT
 gassers syndrome	-	DISEASE
 fatty streaks	-	INTERMEDIARY_CONCEPT
-zygout	zygout	DISEASE
+zygout	zygout	INTERMEDIARY_CONCEPT
 cocas	coca	FOOD
 coronary disease	-	DISEASE
 vagus nerve	-	INTERMEDIARY_CONCEPT
@@ -1972,7 +1972,7 @@ preview	preview	INTERMEDIARY_CONCEPT
 anises	anise	FOOD
 rice consumption	-	INTERMEDIARY_CONCEPT
 snack	snack	FOOD
-standard diet	-	FOOD
+standard diet	-	INTERMEDIARY_CONCEPT
 sorbate	sorbate	INTERMEDIARY_CONCEPT
 zoonotic disease	-	DISEASE
 modern history (medicine)	-	INTERMEDIARY_CONCEPT
@@ -2059,7 +2059,7 @@ pickled vegetables	-	FOOD
 burgers aren	-	INTERMEDIARY_CONCEPT
 novo-sertraline	novo-sertraline	INTERMEDIARY_CONCEPT
 medical critical incident	-	INTERMEDIARY_CONCEPT
-syndrome x	-	DISEASE
+syndrome x	-	INTERMEDIARY_CONCEPT
 necrotizing fasciitis	-	DISEASE
 uterine leiomyoma	-	DISEASE
 ruptured appendicitis	-	DISEASE
@@ -2142,7 +2142,7 @@ marrow	marrow	INTERMEDIARY_CONCEPT
 myodes	myode	INTERMEDIARY_CONCEPT
 idiopathic polymyositides	-	DISEASE
 superoxide dismutase	-	INTERMEDIARY_CONCEPT
-flexitarian diet	-	FOOD
+flexitarian diet	-	INTERMEDIARY_CONCEPT
 cranial nerve x	-	INTERMEDIARY_CONCEPT
 protons	proton	INTERMEDIARY_CONCEPT
 hysterical amnesias	-	DISEASE
@@ -2164,7 +2164,7 @@ punica granatums	-	FOOD
 h2s2	h2s2	INTERMEDIARY_CONCEPT
 french bean plants	-	FOOD
 h2s3	h2s3	INTERMEDIARY_CONCEPT
-apple rings	-	FOOD
+apple rings	-	INTERMEDIARY_CONCEPT
 audition	audition	INTERMEDIARY_CONCEPT
 zinger tea	-	FOOD
 moose meat	-	FOOD
@@ -2181,11 +2181,11 @@ lead levels	-	INTERMEDIARY_CONCEPT
 darkness tremors	-	DISEASE
 max caro	-	INTERMEDIARY_CONCEPT
 levonorepinephrine	levonorepinephrine	INTERMEDIARY_CONCEPT
-cancer-free survival	-	DISEASE
+cancer-free survival	-	INTERMEDIARY_CONCEPT
 orthostasis	orthostasis	DISEASE
 rancidity	rancidity	INTERMEDIARY_CONCEPT
 ciguatera poisonings	-	DISEASE
-juicer	juicer	FOOD
+juicer	juicer	INTERMEDIARY_CONCEPT
 cu superoxide dismutase	-	INTERMEDIARY_CONCEPT
 polluted area	-	INTERMEDIARY_CONCEPT
 anti oncogenes	-	INTERMEDIARY_CONCEPT
@@ -2273,7 +2273,7 @@ smoking process	-	INTERMEDIARY_CONCEPT
 fiber	fiber	INTERMEDIARY_CONCEPT
 benign intracranial hypertension	-	DISEASE
 pulse rate	-	INTERMEDIARY_CONCEPT
-eco-atkins diet	-	FOOD
+eco-atkins diet	-	INTERMEDIARY_CONCEPT
 mood states	-	INTERMEDIARY_CONCEPT
 leucotomies	leucotomy	INTERMEDIARY_CONCEPT
 cgmp	cgmp	INTERMEDIARY_CONCEPT
@@ -2294,7 +2294,7 @@ salicylates	salicylate	INTERMEDIARY_CONCEPT
 gut	gut	INTERMEDIARY_CONCEPT
 guy	guy	INTERMEDIARY_CONCEPT
 pharyngitides	pharyngitide	DISEASE
-cancer fighting	-	DISEASE
+cancer fighting	-	INTERMEDIARY_CONCEPT
 cell phone	-	INTERMEDIARY_CONCEPT
 dysfunction	dysfunction	DISEASE
 wart hog	-	INTERMEDIARY_CONCEPT
@@ -2317,7 +2317,7 @@ horse bean	-	FOOD
 clogged artereris	-	INTERMEDIARY_CONCEPT
 inorganic arsenic	-	INTERMEDIARY_CONCEPT
 non-hodgkin	non-hodgkin	INTERMEDIARY_CONCEPT
-dietary salt	-	FOOD
+dietary salt	-	INTERMEDIARY_CONCEPT
 ingestion	ingestion	INTERMEDIARY_CONCEPT
 develop cancer	-	DISEASE
 leading killer	-	INTERMEDIARY_CONCEPT
@@ -2357,7 +2357,7 @@ jell-o	jell-o	FOOD
 novolorazem	novolorazem	INTERMEDIARY_CONCEPT
 vegetable sources	-	INTERMEDIARY_CONCEPT
 galactosemia 2s	-	DISEASE
-butter flavor	-	FOOD
+butter flavor	-	INTERMEDIARY_CONCEPT
 abdomen	abdomen	INTERMEDIARY_CONCEPT
 epithelial tissue	-	INTERMEDIARY_CONCEPT
 post traumatic osteoporosis	-	DISEASE
@@ -2496,7 +2496,7 @@ updates	update	INTERMEDIARY_CONCEPT
 submariner	submariner	INTERMEDIARY_CONCEPT
 vegetables	vegetable	FOOD
 exercising	exercise	INTERMEDIARY_CONCEPT
-diet pills	-	FOOD
+diet pills	-	INTERMEDIARY_CONCEPT
 yanomamo	yanomamo	INTERMEDIARY_CONCEPT
 cocktail	cocktail	FOOD
 tubulicid	tubulicid	INTERMEDIARY_CONCEPT
@@ -2628,7 +2628,7 @@ baby strollers	-	INTERMEDIARY_CONCEPT
 antiangiogenic agents	-	INTERMEDIARY_CONCEPT
 brewing	brewing	INTERMEDIARY_CONCEPT
 microbiological purity	-	INTERMEDIARY_CONCEPT
-dietitians	dietitian	FOOD
+dietitians	dietitian	INTERMEDIARY_CONCEPT
 food orange 8	-	INTERMEDIARY_CONCEPT
 lactescence	lactescence	INTERMEDIARY_CONCEPT
 antioxidant power	-	INTERMEDIARY_CONCEPT
@@ -2665,7 +2665,7 @@ bleach	bleach	INTERMEDIARY_CONCEPT
 persistent hiccups	-	INTERMEDIARY_CONCEPT
 beet	beet	FOOD
 beer	beer	FOOD
-dietary antibiotics	-	FOOD
+dietary antibiotics	-	INTERMEDIARY_CONCEPT
 butapirazol	butapirazol	INTERMEDIARY_CONCEPT
 p-acetamidophenol	p-acetamidophenol	INTERMEDIARY_CONCEPT
 galactosemia iii	-	DISEASE
@@ -2718,7 +2718,7 @@ glioma derived vascular endothelial cell growth factor	-	INTERMEDIARY_CONCEPT
 worms found	-	INTERMEDIARY_CONCEPT
 waterman	waterman	INTERMEDIARY_CONCEPT
 pregnancy pernicious vomiting	-	DISEASE
-cancer incidence	-	DISEASE
+cancer incidence	-	INTERMEDIARY_CONCEPT
 vicia fabas	-	FOOD
 bond flicks	-	INTERMEDIARY_CONCEPT
 immunologic marker	-	INTERMEDIARY_CONCEPT
@@ -2837,7 +2837,7 @@ adulteress	adulteress	INTERMEDIARY_CONCEPT
 reduced glaucoma	-	INTERMEDIARY_CONCEPT
 lanicor	lanicor	INTERMEDIARY_CONCEPT
 genitalia	genitalium	INTERMEDIARY_CONCEPT
-cancer risk	-	DISEASE
+cancer risk	-	INTERMEDIARY_CONCEPT
 workplace	workplace	INTERMEDIARY_CONCEPT
 high chair	-	INTERMEDIARY_CONCEPT
 mastalgia	mastalgia	DISEASE
@@ -2845,7 +2845,7 @@ schilling type myeloid leukemia	-	DISEASE
 cancer of testis	-	DISEASE
 degenerative intervertebral disk	-	DISEASE
 liver steatosis	-	DISEASE
-codex	codex	FOOD
+codex	codex	INTERMEDIARY_CONCEPT
 endorphin	endorphin	INTERMEDIARY_CONCEPT
 navy beans	-	FOOD
 chickpeas	chickpea	FOOD
@@ -2883,7 +2883,7 @@ unrefined plant	-	FOOD
 hickory trees	-	FOOD
 social policy	-	INTERMEDIARY_CONCEPT
 nutritional disease	-	DISEASE
-mycobacterium avium subsp. paratuberculosis	-	DISEASE
+mycobacterium avium subsp. paratuberculosis	-	INTERMEDIARY_CONCEPT
 no argument	-	INTERMEDIARY_CONCEPT
 deceitfulness	deceitfulness	INTERMEDIARY_CONCEPT
 soy consumption	-	INTERMEDIARY_CONCEPT
@@ -2891,7 +2891,7 @@ shan yao	-	FOOD
 flavonoid	flavonoid	INTERMEDIARY_CONCEPT
 beta	beta	INTERMEDIARY_CONCEPT
 century plants	-	FOOD
-shocker	shocker	DISEASE
+shocker	shocker	INTERMEDIARY_CONCEPT
 sudden-onset diabetes mellitus	-	DISEASE
 aromatic polycyclic hydrocarbons	-	INTERMEDIARY_CONCEPT
 adenomatous	adenomatous	INTERMEDIARY_CONCEPT
@@ -2948,7 +2948,7 @@ hhv-4	hhv-4	DISEASE
 hepatic neoplasm	-	DISEASE
 ibs	ib	INTERMEDIARY_CONCEPT
 chest x-ray	-	INTERMEDIARY_CONCEPT
-dietary advice	-	FOOD
+dietary advice	-	INTERMEDIARY_CONCEPT
 commercial milk	-	FOOD
 confusing story	-	INTERMEDIARY_CONCEPT
 cluster headaches	-	DISEASE
@@ -3004,7 +3004,7 @@ tumorigenesis	tumorigenesis	DISEASE
 sneeze	sneeze	INTERMEDIARY_CONCEPT
 caryophyllus	caryophyllus	FOOD
 tearfulness	tearfulness	INTERMEDIARY_CONCEPT
-neutropenic diet	-	FOOD
+neutropenic diet	-	INTERMEDIARY_CONCEPT
 spine	spine	INTERMEDIARY_CONCEPT
 gasoline prices	-	INTERMEDIARY_CONCEPT
 laser assisted stromal in situ keratomileusis	-	INTERMEDIARY_CONCEPT
@@ -3060,14 +3060,14 @@ plant derived compounds	-	INTERMEDIARY_CONCEPT
 cinnamomum verum	-	FOOD
 tumorigeneses	tumorigenese	DISEASE
 nettle	nettle	FOOD
-low-age diet	-	FOOD
+low-age diet	-	INTERMEDIARY_CONCEPT
 elderly rats	-	INTERMEDIARY_CONCEPT
 usftc	usftc	INTERMEDIARY_CONCEPT
 methanol	methanol	INTERMEDIARY_CONCEPT
 avitaminosis	avitaminosis	DISEASE
 crystalization	crystalization	INTERMEDIARY_CONCEPT
 longer lifespan	-	INTERMEDIARY_CONCEPT
-apple cider	-	FOOD
+apple cider	-	INTERMEDIARY_CONCEPT
 quit smoking	-	INTERMEDIARY_CONCEPT
 human papilloma virus	-	DISEASE
 bill gates	-	INTERMEDIARY_CONCEPT
@@ -3245,7 +3245,7 @@ ache	ache	DISEASE
 industrial animal	-	INTERMEDIARY_CONCEPT
 port	port	INTERMEDIARY_CONCEPT
 ballooning	ballooning	INTERMEDIARY_CONCEPT
-cancer recurrence	-	DISEASE
+cancer recurrence	-	INTERMEDIARY_CONCEPT
 dried food	-	FOOD
 bagful	bagful	INTERMEDIARY_CONCEPT
 guys	guy	INTERMEDIARY_CONCEPT
@@ -3429,7 +3429,7 @@ cjd (creutzfeldt jakob disease)	-	DISEASE
 randomization	randomization	INTERMEDIARY_CONCEPT
 diabetic amyotrophy	-	DISEASE
 jam	jam	FOOD
-conventional diet	-	FOOD
+conventional diet	-	INTERMEDIARY_CONCEPT
 immune system	-	INTERMEDIARY_CONCEPT
 official state	-	INTERMEDIARY_CONCEPT
 retail meat	-	FOOD
@@ -3528,7 +3528,7 @@ planter	planter	INTERMEDIARY_CONCEPT
 caesarean sections	-	INTERMEDIARY_CONCEPT
 antioxidant value	-	INTERMEDIARY_CONCEPT
 toxico infectious botulism	-	DISEASE
-organic chicken	-	FOOD
+organic chicken	-	INTERMEDIARY_CONCEPT
 male sexual impotence	-	DISEASE
 medical journals	-	INTERMEDIARY_CONCEPT
 hypervirulent strains	-	INTERMEDIARY_CONCEPT
@@ -3566,7 +3566,7 @@ waist	waist	INTERMEDIARY_CONCEPT
 travel well	-	INTERMEDIARY_CONCEPT
 saturate fat	-	INTERMEDIARY_CONCEPT
 food-poisoning-related	food-poisoning-related	INTERMEDIARY_CONCEPT
-caramelization	caramelization	FOOD
+caramelization	caramelization	INTERMEDIARY_CONCEPT
 pcbs found	-	INTERMEDIARY_CONCEPT
 good choice	-	INTERMEDIARY_CONCEPT
 hair health	-	INTERMEDIARY_CONCEPT
@@ -3578,7 +3578,7 @@ splintered	splintered	INTERMEDIARY_CONCEPT
 anti-inflammatory foods	-	FOOD
 femininity	femininity	INTERMEDIARY_CONCEPT
 guillain-barré syndrome	-	DISEASE
-life-or-death	life-or-death	DISEASE
+life-or-death	life-or-death	INTERMEDIARY_CONCEPT
 drink milk	-	FOOD
 republic of vietnam	-	INTERMEDIARY_CONCEPT
 stress	stress	INTERMEDIARY_CONCEPT
@@ -3688,7 +3688,7 @@ mozart	mozart	INTERMEDIARY_CONCEPT
 recipes	recipe	INTERMEDIARY_CONCEPT
 breast pain	-	DISEASE
 sarcopenias	sarcopenia	DISEASE
-chicken breast	-	FOOD
+chicken breast	-	INTERMEDIARY_CONCEPT
 cancer of thyroid	-	DISEASE
 non b hepatitis enterically transmitted non a	-	DISEASE
 pregnancy-induced diabetes	-	DISEASE
@@ -3711,10 +3711,10 @@ kaposus	kaposus	INTERMEDIARY_CONCEPT
 spaghetti	spaghetti	FOOD
 last month	-	INTERMEDIARY_CONCEPT
 scfas	scfa	INTERMEDIARY_CONCEPT
-spice tarragon	-	FOOD
-diet soda	-	FOOD
+spice tarragon	-	INTERMEDIARY_CONCEPT
+diet soda	-	INTERMEDIARY_CONCEPT
 salmonella	salmonella	INTERMEDIARY_CONCEPT
-dietary quality	-	FOOD
+dietary quality	-	INTERMEDIARY_CONCEPT
 two tablespoons	-	INTERMEDIARY_CONCEPT
 high quality protein	-	INTERMEDIARY_CONCEPT
 dogging	dog	INTERMEDIARY_CONCEPT
@@ -3793,7 +3793,7 @@ primary prevention	-	INTERMEDIARY_CONCEPT
 sugar-sweetened beverages	-	FOOD
 pain-killer	pain-killer	INTERMEDIARY_CONCEPT
 booker	booker	INTERMEDIARY_CONCEPT
-american association for cancer research	-	DISEASE
+american association for cancer research	-	INTERMEDIARY_CONCEPT
 glycemic index	-	INTERMEDIARY_CONCEPT
 percent trans	-	INTERMEDIARY_CONCEPT
 kiwifruits	kiwifruit	INTERMEDIARY_CONCEPT
@@ -3897,7 +3897,7 @@ muscle protein	-	INTERMEDIARY_CONCEPT
 download	download	INTERMEDIARY_CONCEPT
 pre school teachers	-	INTERMEDIARY_CONCEPT
 intraoperative procedures	-	INTERMEDIARY_CONCEPT
-cancer screening test	-	DISEASE
+cancer screening test	-	INTERMEDIARY_CONCEPT
 excess igf-1	-	INTERMEDIARY_CONCEPT
 semen quality analyses	-	INTERMEDIARY_CONCEPT
 healthy lifestyle	-	INTERMEDIARY_CONCEPT
@@ -3979,7 +3979,7 @@ endocrine disruptors	-	INTERMEDIARY_CONCEPT
 vitamin b6	-	INTERMEDIARY_CONCEPT
 plant estrogen	-	INTERMEDIARY_CONCEPT
 bush administration	-	INTERMEDIARY_CONCEPT
-vitamin b9	-	FOOD
+vitamin b9	-	INTERMEDIARY_CONCEPT
 cattlemen	cattlemen	INTERMEDIARY_CONCEPT
 monosodium salt folic acid	-	INTERMEDIARY_CONCEPT
 rancher	rancher	INTERMEDIARY_CONCEPT
@@ -4065,7 +4065,7 @@ neurotoxins found	-	INTERMEDIARY_CONCEPT
 solprin	solprin	INTERMEDIARY_CONCEPT
 human t cell leukemia virus type iii	-	DISEASE
 diabeta	diabeta	INTERMEDIARY_CONCEPT
-disease ate	-	DISEASE
+disease ate	-	INTERMEDIARY_CONCEPT
 inventory	inventory	INTERMEDIARY_CONCEPT
 know nuts	-	FOOD
 pop-tarts	pop-tart	INTERMEDIARY_CONCEPT
@@ -4076,7 +4076,7 @@ conflicts	conflict	INTERMEDIARY_CONCEPT
 n-3 oils	-	INTERMEDIARY_CONCEPT
 brain cysticercosis	-	DISEASE
 lorazepam riemser brand	-	INTERMEDIARY_CONCEPT
-dietary restriction	-	FOOD
+dietary restriction	-	INTERMEDIARY_CONCEPT
 antioxidant defenses	-	INTERMEDIARY_CONCEPT
 cancer of pancreas	-	DISEASE
 euratom	euratom	INTERMEDIARY_CONCEPT
@@ -4092,10 +4092,10 @@ vaccine	vaccine	INTERMEDIARY_CONCEPT
 incorporates cloves	-	FOOD
 chronic obstructive lung disease	-	DISEASE
 glucocorticoid effect	-	INTERMEDIARY_CONCEPT
-poultry workers	-	FOOD
+poultry workers	-	INTERMEDIARY_CONCEPT
 metastatic potential	-	INTERMEDIARY_CONCEPT
 national pork board	-	INTERMEDIARY_CONCEPT
-dietary carotenoids	-	FOOD
+dietary carotenoids	-	INTERMEDIARY_CONCEPT
 cherry plum tree	-	FOOD
 ovarian function	-	INTERMEDIARY_CONCEPT
 oxidisation	oxidisation	INTERMEDIARY_CONCEPT
@@ -4103,7 +4103,7 @@ cerebrovascular accidents	-	DISEASE
 trigger inflammation	-	INTERMEDIARY_CONCEPT
 teeth	tooth	INTERMEDIARY_CONCEPT
 reducing muscle	-	INTERMEDIARY_CONCEPT
-drinking lots	-	FOOD
+drinking lots	-	INTERMEDIARY_CONCEPT
 sprouts	sprout	FOOD
 slippage	slippage	INTERMEDIARY_CONCEPT
 antioxidant-packed dried	-	INTERMEDIARY_CONCEPT
@@ -4177,7 +4177,7 @@ streptococcus group a	-	INTERMEDIARY_CONCEPT
 commission medical errors	-	INTERMEDIARY_CONCEPT
 offal	offal	FOOD
 slovakia	slovakia	INTERMEDIARY_CONCEPT
-butter form	-	FOOD
+butter form	-	INTERMEDIARY_CONCEPT
 thyroid neoplasms	-	DISEASE
 sliding esophageal hernia	-	DISEASE
 temporary amnesias	-	DISEASE
@@ -4202,7 +4202,7 @@ waste disposal site	-	INTERMEDIARY_CONCEPT
 income statements	-	INTERMEDIARY_CONCEPT
 pedameth	pedameth	INTERMEDIARY_CONCEPT
 sesame	sesame	FOOD
-cancer institute	-	DISEASE
+cancer institute	-	INTERMEDIARY_CONCEPT
 tokelau	tokelau	INTERMEDIARY_CONCEPT
 important advances	-	INTERMEDIARY_CONCEPT
 rutabaga	rutabaga	FOOD
@@ -4218,8 +4218,8 @@ childbirths	childbirth	INTERMEDIARY_CONCEPT
 cranial nerve ii	-	INTERMEDIARY_CONCEPT
 flaxseed daily	-	INTERMEDIARY_CONCEPT
 cankerous	cankerous	INTERMEDIARY_CONCEPT
-vitamin b2	-	FOOD
-vitamin b1	-	FOOD
+vitamin b2	-	INTERMEDIARY_CONCEPT
+vitamin b1	-	INTERMEDIARY_CONCEPT
 weed	weed	FOOD
 basils	basil	FOOD
 beta waves	-	INTERMEDIARY_CONCEPT
@@ -4249,7 +4249,7 @@ below replacement fertility	-	INTERMEDIARY_CONCEPT
 spontaneous abortion	-	DISEASE
 modern medicine	-	INTERMEDIARY_CONCEPT
 latina	latina	INTERMEDIARY_CONCEPT
-butter leaf	-	FOOD
+butter leaf	-	INTERMEDIARY_CONCEPT
 farm-raised catfish	-	INTERMEDIARY_CONCEPT
 lilly110140	lilly110140	INTERMEDIARY_CONCEPT
 common market	-	INTERMEDIARY_CONCEPT
@@ -4257,7 +4257,7 @@ phosphorous	phosphorous	INTERMEDIARY_CONCEPT
 lipoplasties	lipoplasty	INTERMEDIARY_CONCEPT
 lipoid	lipoid	INTERMEDIARY_CONCEPT
 diffuse mixed-cell lymphomas	-	DISEASE
-antioxidant-rich diet	-	FOOD
+antioxidant-rich diet	-	INTERMEDIARY_CONCEPT
 saffrons	saffron	FOOD
 epidermal cell derived thymocyte-activating factor	-	INTERMEDIARY_CONCEPT
 higher cortisol	-	INTERMEDIARY_CONCEPT
@@ -4346,7 +4346,7 @@ acute inflammatory polyneuropathies	-	DISEASE
 malignment	malignment	INTERMEDIARY_CONCEPT
 watermelons	watermelon	FOOD
 gluten proteins	-	INTERMEDIARY_CONCEPT
-cancer survivors	-	DISEASE
+cancer survivors	-	INTERMEDIARY_CONCEPT
 grandparent	grandparent	INTERMEDIARY_CONCEPT
 milk-induced infant	-	INTERMEDIARY_CONCEPT
 spontaneous abortions	-	DISEASE
@@ -4440,7 +4440,7 @@ pimenta diocia	-	FOOD
 marijuana	marijuana	FOOD
 stomach neoplasms	-	DISEASE
 employee	employee	INTERMEDIARY_CONCEPT
-low-carb diet	-	FOOD
+low-carb diet	-	INTERMEDIARY_CONCEPT
 employed	employ	INTERMEDIARY_CONCEPT
 rectal suppositories	-	INTERMEDIARY_CONCEPT
 saffron beat	-	INTERMEDIARY_CONCEPT
@@ -4489,7 +4489,7 @@ pcb-free	pcb-free	INTERMEDIARY_CONCEPT
 osteoclastogenesis	osteoclastogenesis	INTERMEDIARY_CONCEPT
 non-profit research	-	INTERMEDIARY_CONCEPT
 ageing	ageing	INTERMEDIARY_CONCEPT
-drink water	-	FOOD
+drink water	-	INTERMEDIARY_CONCEPT
 factory farm	-	INTERMEDIARY_CONCEPT
 fecal pathogen	-	INTERMEDIARY_CONCEPT
 recrudescences	recrudescence	DISEASE
@@ -4509,7 +4509,7 @@ mitochondrial contractions	-	INTERMEDIARY_CONCEPT
 spiral fractures	-	DISEASE
 sport	sport	INTERMEDIARY_CONCEPT
 immunoglobulin a	-	INTERMEDIARY_CONCEPT
-veggie burrito	-	FOOD
+veggie burrito	-	INTERMEDIARY_CONCEPT
 edibleness	edibleness	INTERMEDIARY_CONCEPT
 exposure occurs	-	INTERMEDIARY_CONCEPT
 new content	-	INTERMEDIARY_CONCEPT
@@ -4535,7 +4535,7 @@ diabetic neuropathies	-	DISEASE
 visceral steatoses	-	DISEASE
 western diets	-	INTERMEDIARY_CONCEPT
 myplate	myplate	INTERMEDIARY_CONCEPT
-diet group	-	FOOD
+diet group	-	INTERMEDIARY_CONCEPT
 muscle damage	-	INTERMEDIARY_CONCEPT
 hydrogen oxide	-	INTERMEDIARY_CONCEPT
 ster zac bath concentrate	-	INTERMEDIARY_CONCEPT
@@ -4544,7 +4544,7 @@ latest update	-	INTERMEDIARY_CONCEPT
 functioning immune	-	INTERMEDIARY_CONCEPT
 false allegations	-	INTERMEDIARY_CONCEPT
 kidney bean	-	FOOD
-dietary modification	-	FOOD
+dietary modification	-	INTERMEDIARY_CONCEPT
 benzoates	benzoate	INTERMEDIARY_CONCEPT
 saccharomyces cerevisiae	-	FOOD
 min-i-jet morphine sulphate	-	INTERMEDIARY_CONCEPT
@@ -4639,13 +4639,13 @@ low doses	-	INTERMEDIARY_CONCEPT
 infection touching	-	INTERMEDIARY_CONCEPT
 plums	plum	FOOD
 louse	louse	INTERMEDIARY_CONCEPT
-vitamin b-12	-	FOOD
+vitamin b-12	-	INTERMEDIARY_CONCEPT
 cabbage	cabbage	FOOD
 trauma dolgit gel	-	INTERMEDIARY_CONCEPT
 split pea	-	FOOD
 dishes consisting	-	INTERMEDIARY_CONCEPT
 aroma therapies	-	INTERMEDIARY_CONCEPT
-plume	plume	FOOD
+plume	plume	INTERMEDIARY_CONCEPT
 humulus	humulus	FOOD
 coagulation factor iv	-	INTERMEDIARY_CONCEPT
 herbal formulation	-	INTERMEDIARY_CONCEPT
@@ -4773,14 +4773,14 @@ seafood intake	-	INTERMEDIARY_CONCEPT
 squash seeds	-	FOOD
 mad cow diseases	-	DISEASE
 bind	bind	INTERMEDIARY_CONCEPT
-blood type diet	-	FOOD
+blood type diet	-	INTERMEDIARY_CONCEPT
 citrus maxima	-	FOOD
 colony forming units	-	INTERMEDIARY_CONCEPT
 pigman	pigman	INTERMEDIARY_CONCEPT
 physical exercise	-	INTERMEDIARY_CONCEPT
 beta-casein	beta-casein	INTERMEDIARY_CONCEPT
 prevention	prevention	INTERMEDIARY_CONCEPT
-heavy diet	-	FOOD
+heavy diet	-	INTERMEDIARY_CONCEPT
 clot	clot	INTERMEDIARY_CONCEPT
 vegetarians appear	-	INTERMEDIARY_CONCEPT
 erectile functioning	-	INTERMEDIARY_CONCEPT
@@ -4800,7 +4800,7 @@ cohort studies	-	INTERMEDIARY_CONCEPT
 oceans	ocean	INTERMEDIARY_CONCEPT
 protein tend	-	INTERMEDIARY_CONCEPT
 emergency hospital services	-	INTERMEDIARY_CONCEPT
-dietary behaviors	-	FOOD
+dietary behaviors	-	INTERMEDIARY_CONCEPT
 addictiveness	addictiveness	INTERMEDIARY_CONCEPT
 unsafe toys	-	INTERMEDIARY_CONCEPT
 daytrana	daytrana	INTERMEDIARY_CONCEPT
@@ -4873,11 +4873,11 @@ pretty good	-	INTERMEDIARY_CONCEPT
 frosting	frosting	FOOD
 hypericum perforatum	-	FOOD
 juglans	juglan	FOOD
-drink seven	-	FOOD
+drink seven	-	INTERMEDIARY_CONCEPT
 insulin-like somatomedin peptide i	-	INTERMEDIARY_CONCEPT
 forehead trauma	-	DISEASE
 sugar substitutes	-	FOOD
-cancer suppressor genes	-	DISEASE
+cancer suppressor genes	-	INTERMEDIARY_CONCEPT
 basal cell carcinoma	-	DISEASE
 atisuril	atisuril	INTERMEDIARY_CONCEPT
 esophageal cancer	-	DISEASE
@@ -4890,14 +4890,14 @@ portulaca oleracea	-	FOOD
 quinine lafran	-	INTERMEDIARY_CONCEPT
 arterial stiffnesses	-	INTERMEDIARY_CONCEPT
 amyotrophic lateral sclerosis parkinsonism dementia complex 1	-	DISEASE
-autophagic cell death	-	DISEASE
+autophagic cell death	-	INTERMEDIARY_CONCEPT
 macintosh computers	-	INTERMEDIARY_CONCEPT
-vitamin recommendations	-	FOOD
+vitamin recommendations	-	INTERMEDIARY_CONCEPT
 kappa-caseins	kappa-casein	INTERMEDIARY_CONCEPT
 centrarchidae	centrarchida	INTERMEDIARY_CONCEPT
 animal agriculture	-	INTERMEDIARY_CONCEPT
 graders	grader	INTERMEDIARY_CONCEPT
-zero-meat diet	-	FOOD
+zero-meat diet	-	INTERMEDIARY_CONCEPT
 tannage	tannage	INTERMEDIARY_CONCEPT
 immune cells	-	INTERMEDIARY_CONCEPT
 punicaceae	punicaceae	FOOD
@@ -4942,9 +4942,9 @@ soda water	-	FOOD
 gammexane	gammexane	INTERMEDIARY_CONCEPT
 cookie	cookie	FOOD
 bits	bit	INTERMEDIARY_CONCEPT
-lavender flowers	-	FOOD
+lavender flowers	-	INTERMEDIARY_CONCEPT
 sense	sense	INTERMEDIARY_CONCEPT
-actual chicken	-	FOOD
+actual chicken	-	INTERMEDIARY_CONCEPT
 human longevity	-	INTERMEDIARY_CONCEPT
 hepatic neoplasms	-	DISEASE
 adp-carrier	adp-carrier	INTERMEDIARY_CONCEPT
@@ -5040,7 +5040,7 @@ mercury levels	-	INTERMEDIARY_CONCEPT
 black currants	-	FOOD
 food borne diseases	-	DISEASE
 taste buds	-	INTERMEDIARY_CONCEPT
-dietary pattern	-	FOOD
+dietary pattern	-	INTERMEDIARY_CONCEPT
 lorazepam wyeth brand	-	INTERMEDIARY_CONCEPT
 financial contributions	-	INTERMEDIARY_CONCEPT
 mark wyland	-	INTERMEDIARY_CONCEPT
@@ -5066,10 +5066,10 @@ autoimmune disease	-	DISEASE
 millet	millet	FOOD
 burping	burp	INTERMEDIARY_CONCEPT
 angiostatic agents	-	INTERMEDIARY_CONCEPT
-mcdeath	mcdeath	DISEASE
+mcdeath	mcdeath	INTERMEDIARY_CONCEPT
 boost	boost	INTERMEDIARY_CONCEPT
 leading sources	-	INTERMEDIARY_CONCEPT
-plan-based diet	-	FOOD
+plan-based diet	-	INTERMEDIARY_CONCEPT
 develop toxins	-	INTERMEDIARY_CONCEPT
 aortic stiffnesses	-	INTERMEDIARY_CONCEPT
 expense statements	-	INTERMEDIARY_CONCEPT
@@ -5089,7 +5089,7 @@ bioenergetics	bioenergetic	INTERMEDIARY_CONCEPT
 tetrahydroisoquinoline	tetrahydroisoquinoline	INTERMEDIARY_CONCEPT
 mit	mit	INTERMEDIARY_CONCEPT
 pill rolling tremor	-	DISEASE
-inflammation plays	-	DISEASE
+inflammation plays	-	INTERMEDIARY_CONCEPT
 surprising fish	-	INTERMEDIARY_CONCEPT
 hand washing	-	INTERMEDIARY_CONCEPT
 cancer of liver	-	DISEASE
@@ -5107,7 +5107,7 @@ brain-invasive pork	-	FOOD
 swank	swank	INTERMEDIARY_CONCEPT
 (+)-catechin	-lrb-	INTERMEDIARY_CONCEPT
 tsin dynasty	-	INTERMEDIARY_CONCEPT
-drink additives	-	FOOD
+drink additives	-	INTERMEDIARY_CONCEPT
 kappa caseins	-	INTERMEDIARY_CONCEPT
 berry	berry	FOOD
 chute	chute	INTERMEDIARY_CONCEPT
@@ -5173,15 +5173,15 @@ male breast tumor	-	DISEASE
 great year	-	INTERMEDIARY_CONCEPT
 spatial memory disorders	-	DISEASE
 acute inflammatory polyneuropathy	-	DISEASE
-dietary risk	-	FOOD
+dietary risk	-	INTERMEDIARY_CONCEPT
 sunshine	sunshine	INTERMEDIARY_CONCEPT
 adventist vegetarians	-	INTERMEDIARY_CONCEPT
 mom	mom	INTERMEDIARY_CONCEPT
-milk contains	-	FOOD
+milk contains	-	INTERMEDIARY_CONCEPT
 mop	mop	INTERMEDIARY_CONCEPT
 alfalfa	alfalfa	FOOD
 high-fat	high-fat	INTERMEDIARY_CONCEPT
-pork brains	-	FOOD
+pork brains	-	INTERMEDIARY_CONCEPT
 vegetive	vegetive	INTERMEDIARY_CONCEPT
 infectious virus	-	INTERMEDIARY_CONCEPT
 carotenoids contribute	-	INTERMEDIARY_CONCEPT
@@ -5192,7 +5192,7 @@ radioactivities	radioactivity	INTERMEDIARY_CONCEPT
 telomerase catalytic subunit	-	INTERMEDIARY_CONCEPT
 estrogen receptor agonists	-	INTERMEDIARY_CONCEPT
 brain cancer	-	DISEASE
-novel strain	-	DISEASE
+novel strain	-	INTERMEDIARY_CONCEPT
 diabetic diet	-	FOOD
 retained surgical item	-	DISEASE
 4-dihydroxyphenethylamine	4-dihydroxyphenethylamine	INTERMEDIARY_CONCEPT
@@ -5232,7 +5232,7 @@ catechuic acid	-	INTERMEDIARY_CONCEPT
 herbal remedy	-	INTERMEDIARY_CONCEPT
 carers	carer	INTERMEDIARY_CONCEPT
 nonalcoholic steatohepatitides	-	DISEASE
-type ii programmed cell death	-	DISEASE
+type ii programmed cell death	-	INTERMEDIARY_CONCEPT
 cleistocalyx	cleistocalyx	FOOD
 phytosterols	phytosterol	INTERMEDIARY_CONCEPT
 hominin	hominin	INTERMEDIARY_CONCEPT
@@ -5293,13 +5293,13 @@ blue green algae	-	INTERMEDIARY_CONCEPT
 blubber	blubber	INTERMEDIARY_CONCEPT
 brinjals	brinjal	FOOD
 5-year survival	-	INTERMEDIARY_CONCEPT
-okinawan diet	-	FOOD
+okinawan diet	-	INTERMEDIARY_CONCEPT
 big deal	-	INTERMEDIARY_CONCEPT
 noradrenaline	noradrenaline	INTERMEDIARY_CONCEPT
 coronary vessel	-	INTERMEDIARY_CONCEPT
 topical ginger	-	FOOD
 pre-diabetes	pre-diabetes	INTERMEDIARY_CONCEPT
-bone broth	-	FOOD
+bone broth	-	INTERMEDIARY_CONCEPT
 oolong	oolong	FOOD
 greens	green	FOOD
 aminohydroxybutane bisphosphonate	-	INTERMEDIARY_CONCEPT
@@ -5326,7 +5326,7 @@ aplasia	aplasia	INTERMEDIARY_CONCEPT
 cancer of cervix	-	DISEASE
 second meal effect	-	INTERMEDIARY_CONCEPT
 atherosclerosis	atherosclerosis	DISEASE
-dietary nitrate	-	FOOD
+dietary nitrate	-	INTERMEDIARY_CONCEPT
 ben feingold	-	INTERMEDIARY_CONCEPT
 uadt	uadt	INTERMEDIARY_CONCEPT
 liver cancers	-	DISEASE
@@ -5343,9 +5343,9 @@ epinephrine bitartrate	-	INTERMEDIARY_CONCEPT
 liptonorm	liptonorm	INTERMEDIARY_CONCEPT
 pepto-bismol	pepto-bismol	INTERMEDIARY_CONCEPT
 vision weakness	-	INTERMEDIARY_CONCEPT
-vegetable wash	-	FOOD
+vegetable wash	-	INTERMEDIARY_CONCEPT
 cysticercosis	cysticercosis	DISEASE
-low fat diet	-	FOOD
+low fat diet	-	INTERMEDIARY_CONCEPT
 icebergs	iceberg	INTERMEDIARY_CONCEPT
 gallbladder	gallbladder	INTERMEDIARY_CONCEPT
 iodination	iodination	INTERMEDIARY_CONCEPT
@@ -5362,7 +5362,7 @@ stressor	stressor	INTERMEDIARY_CONCEPT
 sleep	sleep	INTERMEDIARY_CONCEPT
 breast-feeding women	-	INTERMEDIARY_CONCEPT
 find pork	-	FOOD
-wheatgrass juice	-	FOOD
+wheatgrass juice	-	INTERMEDIARY_CONCEPT
 scurvies	scurvy	DISEASE
 hypersensitivities	hypersensitivity	DISEASE
 microwave popcorn	-	INTERMEDIARY_CONCEPT
@@ -5371,7 +5371,7 @@ uterine fibroma	-	DISEASE
 plant petals	-	INTERMEDIARY_CONCEPT
 preterm delivery	-	INTERMEDIARY_CONCEPT
 endocrine	endocrine	INTERMEDIARY_CONCEPT
-pork intake	-	FOOD
+pork intake	-	INTERMEDIARY_CONCEPT
 website	website	INTERMEDIARY_CONCEPT
 financial equities	-	INTERMEDIARY_CONCEPT
 mucilage adhesives	-	INTERMEDIARY_CONCEPT
@@ -5385,7 +5385,7 @@ purine	purine	INTERMEDIARY_CONCEPT
 analogization	analogization	INTERMEDIARY_CONCEPT
 sweet	sweet	INTERMEDIARY_CONCEPT
 pandemics	pandemic	INTERMEDIARY_CONCEPT
-balsalmic vinegar	-	FOOD
+balsalmic vinegar	-	INTERMEDIARY_CONCEPT
 oncovin	oncovin	INTERMEDIARY_CONCEPT
 shows lead	-	INTERMEDIARY_CONCEPT
 proliferative bronchiolitis	-	DISEASE
@@ -5438,13 +5438,13 @@ reactive oxygen species	-	INTERMEDIARY_CONCEPT
 silybum marianums	-	FOOD
 bartor brand of testosterone	-	INTERMEDIARY_CONCEPT
 acquired immuno deficiency syndrome	-	DISEASE
-no sprouts	-	FOOD
+no sprouts	-	INTERMEDIARY_CONCEPT
 insecta	insecta	INTERMEDIARY_CONCEPT
 soy beans	-	FOOD
 attacker	attacker	INTERMEDIARY_CONCEPT
 almond butter	-	FOOD
 almond tree	-	FOOD
-meat-eater	meat-eater	FOOD
+meat-eater	meat-eater	INTERMEDIARY_CONCEPT
 flavouring	flavour	FOOD
 atropa belladonnas	-	FOOD
 marital fertility	-	INTERMEDIARY_CONCEPT
@@ -5479,7 +5479,7 @@ roux-en-y gastric	-	INTERMEDIARY_CONCEPT
 familial dementias	-	DISEASE
 opiate	opiate	INTERMEDIARY_CONCEPT
 camomile	camomile	FOOD
-jama	jama	FOOD
+jama	jama	INTERMEDIARY_CONCEPT
 artery-damaging	artery-damaging	INTERMEDIARY_CONCEPT
 hemolytic jaundices	-	DISEASE
 calendulas	calendula	FOOD
@@ -5487,7 +5487,7 @@ industrial toxins	-	INTERMEDIARY_CONCEPT
 microtrabecular lattice	-	INTERMEDIARY_CONCEPT
 humans peeling	-	INTERMEDIARY_CONCEPT
 odontoclast	odontoclast	INTERMEDIARY_CONCEPT
-mycobacterium paratuberculosis	-	DISEASE
+mycobacterium paratuberculosis	-	INTERMEDIARY_CONCEPT
 advanced glycation end-products	-	INTERMEDIARY_CONCEPT
 visual seizure	-	DISEASE
 biquinate	biquinate	INTERMEDIARY_CONCEPT
@@ -5495,7 +5495,7 @@ nci	nci	INTERMEDIARY_CONCEPT
 map bacteria	-	INTERMEDIARY_CONCEPT
 cashew	cashew	FOOD
 omission medical errors	-	INTERMEDIARY_CONCEPT
-elmo sticker	-	FOOD
+elmo sticker	-	INTERMEDIARY_CONCEPT
 phytonutrient-rich	phytonutrient-rich	INTERMEDIARY_CONCEPT
 cardiovascular disease	-	DISEASE
 american diabetes association	-	INTERMEDIARY_CONCEPT
@@ -5512,7 +5512,7 @@ morel	morel	FOOD
 physical anhedonias	-	DISEASE
 randomisation	randomisation	INTERMEDIARY_CONCEPT
 losses	loss	INTERMEDIARY_CONCEPT
-death receptors	-	DISEASE
+death receptors	-	INTERMEDIARY_CONCEPT
 galactose-1-phosphate uridylyltransferase deficiency	-	DISEASE
 prostate enlargement	-	INTERMEDIARY_CONCEPT
 knobby	knobby	INTERMEDIARY_CONCEPT
@@ -5528,17 +5528,17 @@ atheroscleroses	atherosclerose	DISEASE
 ldl cholesteryl linoleate	-	INTERMEDIARY_CONCEPT
 aztec empire	-	INTERMEDIARY_CONCEPT
 coconut flakes	-	INTERMEDIARY_CONCEPT
-visual disorientation	-	DISEASE
+visual disorientation	-	INTERMEDIARY_CONCEPT
 short sleep phenotypes	-	DISEASE
 lens culinaris	-	FOOD
 kangaroos	kangaroo	INTERMEDIARY_CONCEPT
 mentha x piperita	-	FOOD
 1 alpha-isomer lovastatin	-	INTERMEDIARY_CONCEPT
-dietary intervention	-	FOOD
+dietary intervention	-	INTERMEDIARY_CONCEPT
 trimethylamine oxide	-	INTERMEDIARY_CONCEPT
 patulin	patulin	INTERMEDIARY_CONCEPT
 sorbitol	sorbitol	INTERMEDIARY_CONCEPT
-spring greens	-	FOOD
+spring greens	-	INTERMEDIARY_CONCEPT
 kool-aid	kool-aid	INTERMEDIARY_CONCEPT
 chocolate milkshake	-	INTERMEDIARY_CONCEPT
 anti-nutrient	anti-nutrient	INTERMEDIARY_CONCEPT
@@ -5554,7 +5554,7 @@ euler gaddum substance p	-	INTERMEDIARY_CONCEPT
 employment	employment	INTERMEDIARY_CONCEPT
 sprain	sprain	DISEASE
 portion size	-	INTERMEDIARY_CONCEPT
-milker	milker	FOOD
+milker	milker	INTERMEDIARY_CONCEPT
 acidoses	acidose	DISEASE
 pepsi products	-	INTERMEDIARY_CONCEPT
 diarrheal	diarrheal	INTERMEDIARY_CONCEPT
@@ -5608,7 +5608,7 @@ esterified fatty acids	-	INTERMEDIARY_CONCEPT
 social anxiety disorder	-	DISEASE
 endocrine disruptor effect	-	INTERMEDIARY_CONCEPT
 pneumococcal polysaccharide vaccine	-	INTERMEDIARY_CONCEPT
-milk-free	milk-free	FOOD
+milk-free	milk-free	INTERMEDIARY_CONCEPT
 resveratrol supplements	-	INTERMEDIARY_CONCEPT
 plant stamens	-	INTERMEDIARY_CONCEPT
 chromosome 6-linked autosomal recessive parkinsonism	-	DISEASE
@@ -5626,7 +5626,7 @@ epicatechin	epicatechin	INTERMEDIARY_CONCEPT
 watermelon	watermelon	FOOD
 dna-damaging	dna-damaging	INTERMEDIARY_CONCEPT
 dermatozoic delusion	-	DISEASE
-beverage consumption	-	FOOD
+beverage consumption	-	INTERMEDIARY_CONCEPT
 nosiness	nosiness	INTERMEDIARY_CONCEPT
 cataract	cataract	DISEASE
 poison	poison	INTERMEDIARY_CONCEPT
@@ -5673,7 +5673,7 @@ low back ache	-	DISEASE
 ratio tryptophan	-	INTERMEDIARY_CONCEPT
 considered gerontotoxins	-	INTERMEDIARY_CONCEPT
 animal fats	-	INTERMEDIARY_CONCEPT
-wartime	wartime	DISEASE
+wartime	wartime	INTERMEDIARY_CONCEPT
 non-celiac gluten	-	INTERMEDIARY_CONCEPT
 future mother	-	INTERMEDIARY_CONCEPT
 blind	blind	INTERMEDIARY_CONCEPT
@@ -5695,7 +5695,7 @@ headaches	headache	DISEASE
 ovary neoplasm	-	DISEASE
 wisconsin	wisconsin	INTERMEDIARY_CONCEPT
 atheroma	atheroma	DISEASE
-diet-related laws	-	FOOD
+diet-related laws	-	INTERMEDIARY_CONCEPT
 microlissencephaly	microlissencephaly	DISEASE
 obesity cause	-	INTERMEDIARY_CONCEPT
 relapse rate	-	INTERMEDIARY_CONCEPT
@@ -5715,10 +5715,10 @@ althaeas	althaea	FOOD
 monosodium glutamate	-	FOOD
 huge spike	-	INTERMEDIARY_CONCEPT
 invasive procedures	-	INTERMEDIARY_CONCEPT
-combat dyslipidemia	-	DISEASE
+combat dyslipidemia	-	INTERMEDIARY_CONCEPT
 baking chocolate	-	FOOD
 sc 18862	-	INTERMEDIARY_CONCEPT
-cataract risk	-	DISEASE
+cataract risk	-	INTERMEDIARY_CONCEPT
 yeasts	yeast	INTERMEDIARY_CONCEPT
 p53	p53	INTERMEDIARY_CONCEPT
 cacao	cacao	FOOD
@@ -5729,7 +5729,7 @@ fluoxetine hydrochloride	-	INTERMEDIARY_CONCEPT
 hypnotics and sedatives	-	INTERMEDIARY_CONCEPT
 iowa women’s health study	-	INTERMEDIARY_CONCEPT
 antibiotic infections	-	INTERMEDIARY_CONCEPT
-chicken embryo lethal orphan virus	-	FOOD
+chicken embryo lethal orphan virus	-	INTERMEDIARY_CONCEPT
 ilex paraguariensis	-	FOOD
 colon neoplasm	-	DISEASE
 bladder tumors	-	DISEASE
@@ -5745,12 +5745,12 @@ tumerics	tumeric	FOOD
 prasterone	prasterone	INTERMEDIARY_CONCEPT
 risk development	-	INTERMEDIARY_CONCEPT
 little thing	-	INTERMEDIARY_CONCEPT
-apple smoothie	-	FOOD
+apple smoothie	-	INTERMEDIARY_CONCEPT
 billion eggs	-	FOOD
 autosomal recessive juvenile parkinson disease 2	-	DISEASE
 food-borne illnesses	-	DISEASE
 defensibility	defensibility	INTERMEDIARY_CONCEPT
-asian diet	-	FOOD
+asian diet	-	INTERMEDIARY_CONCEPT
 marketing company	-	INTERMEDIARY_CONCEPT
 benzoic acids	-	INTERMEDIARY_CONCEPT
 flammulina velutipes	-	FOOD
@@ -5779,7 +5779,7 @@ mustard	mustard	FOOD
 abdominal obesity	-	DISEASE
 ardeydorm	ardeydorm	INTERMEDIARY_CONCEPT
 breast health	-	INTERMEDIARY_CONCEPT
-united states food and drug administration	-	FOOD
+united states food and drug administration	-	INTERMEDIARY_CONCEPT
 financial statements	-	INTERMEDIARY_CONCEPT
 secretory phase menstrual cycle	-	INTERMEDIARY_CONCEPT
 iron overload	-	DISEASE
@@ -5840,7 +5840,7 @@ meat-eaters	meat-eater	INTERMEDIARY_CONCEPT
 pharmaceutical industry	-	INTERMEDIARY_CONCEPT
 mercury contamination	-	INTERMEDIARY_CONCEPT
 nut bar	-	FOOD
-vitamin level	-	FOOD
+vitamin level	-	INTERMEDIARY_CONCEPT
 wonderful stuff	-	INTERMEDIARY_CONCEPT
 hip hop dance	-	INTERMEDIARY_CONCEPT
 hamburger	hamburger	FOOD
@@ -5860,7 +5860,7 @@ daily dozen	-	INTERMEDIARY_CONCEPT
 n 3 fatty acids	-	INTERMEDIARY_CONCEPT
 gamma 666	-	INTERMEDIARY_CONCEPT
 primary fibromyalgia	-	DISEASE
-vegan diet	-	FOOD
+vegan diet	-	INTERMEDIARY_CONCEPT
 frank	frank	INTERMEDIARY_CONCEPT
 whop	whop	INTERMEDIARY_CONCEPT
 abbesses	abbess	INTERMEDIARY_CONCEPT
@@ -5929,7 +5929,7 @@ rubiemen	rubiemen	INTERMEDIARY_CONCEPT
 plant-based supplements	-	INTERMEDIARY_CONCEPT
 ovo lacto vegetarians	-	INTERMEDIARY_CONCEPT
 rock wallaby	-	INTERMEDIARY_CONCEPT
-metabolic syndrome	-	DISEASE
+metabolic syndrome	-	INTERMEDIARY_CONCEPT
 celebration	celebration	INTERMEDIARY_CONCEPT
 neurologic degenerative diseases	-	DISEASE
 iron superoxide dismutase	-	INTERMEDIARY_CONCEPT
@@ -5950,7 +5950,7 @@ diabetic mononeuropathies	-	DISEASE
 levulosa	levulosa	INTERMEDIARY_CONCEPT
 softener	softener	INTERMEDIARY_CONCEPT
 levulose	levulose	INTERMEDIARY_CONCEPT
-decreased inflammation	-	DISEASE
+decreased inflammation	-	INTERMEDIARY_CONCEPT
 oat	oat	FOOD
 fatty acids	-	INTERMEDIARY_CONCEPT
 anoxemia	anoxemia	DISEASE
@@ -5987,9 +5987,9 @@ inhibiting platelet	-	INTERMEDIARY_CONCEPT
 bakery	bakery	INTERMEDIARY_CONCEPT
 no cavities	-	INTERMEDIARY_CONCEPT
 levoamphetamine	levoamphetamine	INTERMEDIARY_CONCEPT
-dietary change	-	FOOD
+dietary change	-	INTERMEDIARY_CONCEPT
 acne vulgaris	-	DISEASE
-drinker	drinker	FOOD
+drinker	drinker	INTERMEDIARY_CONCEPT
 lamina propria	-	INTERMEDIARY_CONCEPT
 pew commission	-	INTERMEDIARY_CONCEPT
 motion aid	-	INTERMEDIARY_CONCEPT
@@ -6010,7 +6010,7 @@ sadly	sadly	INTERMEDIARY_CONCEPT
 triticum vulgare	-	FOOD
 factory farming	-	INTERMEDIARY_CONCEPT
 undercooked meat	-	FOOD
-farms chicken	-	FOOD
+farms chicken	-	INTERMEDIARY_CONCEPT
 camelus	camelus	INTERMEDIARY_CONCEPT
 breast fed	-	INTERMEDIARY_CONCEPT
 betel	betel	FOOD
@@ -6080,9 +6080,9 @@ absorbent	absorbent	INTERMEDIARY_CONCEPT
 comet assay	-	INTERMEDIARY_CONCEPT
 coco	coco	FOOD
 oreo	oreo	FOOD
-nutrient database	-	FOOD
+nutrient database	-	INTERMEDIARY_CONCEPT
 macro autophagy	-	INTERMEDIARY_CONCEPT
-chicken nuggets	-	FOOD
+chicken nuggets	-	INTERMEDIARY_CONCEPT
 temporary amnesia	-	DISEASE
 human influenza	-	DISEASE
 bio-identical hormones	-	INTERMEDIARY_CONCEPT
@@ -6095,7 +6095,7 @@ corpus cerebelli	-	INTERMEDIARY_CONCEPT
 bacterial vaginitides	-	DISEASE
 plant stamen	-	INTERMEDIARY_CONCEPT
 quinine sulphate	-	INTERMEDIARY_CONCEPT
-turmeric curcumin	-	FOOD
+turmeric curcumin	-	INTERMEDIARY_CONCEPT
 psychomotor development	-	INTERMEDIARY_CONCEPT
 pupae	pupa	INTERMEDIARY_CONCEPT
 non-drug prescriptions	-	INTERMEDIARY_CONCEPT
@@ -6105,7 +6105,7 @@ drip	drip	INTERMEDIARY_CONCEPT
 single-cell gel electrophoresis	-	INTERMEDIARY_CONCEPT
 study lavender	-	FOOD
 reduced symptoms	-	INTERMEDIARY_CONCEPT
-death receptor	-	DISEASE
+death receptor	-	INTERMEDIARY_CONCEPT
 peas offer	-	INTERMEDIARY_CONCEPT
 turn brown	-	INTERMEDIARY_CONCEPT
 diseases	disease	DISEASE
@@ -6127,11 +6127,11 @@ arthrosis	arthrosis	DISEASE
 pharyngitis	pharyngitis	DISEASE
 intraorbital meningioma	-	DISEASE
 sodium ethylmercurithiosalicylate	-	INTERMEDIARY_CONCEPT
-obesity-causing chicken	-	FOOD
+obesity-causing chicken	-	INTERMEDIARY_CONCEPT
 scorbutus	scorbutus	DISEASE
 inositol hexakisphosphate	-	INTERMEDIARY_CONCEPT
 united states	-	INTERMEDIARY_CONCEPT
-gummed	gummed	FOOD
+gummed	gummed	INTERMEDIARY_CONCEPT
 promiscuousness	promiscuousness	INTERMEDIARY_CONCEPT
 rice bran	-	INTERMEDIARY_CONCEPT
 acid-inducing	acid-induce	INTERMEDIARY_CONCEPT
@@ -6148,7 +6148,7 @@ jenapurinol	jenapurinol	INTERMEDIARY_CONCEPT
 numbness	numbness	DISEASE
 amnesia memory loss	-	DISEASE
 waste dumps	-	INTERMEDIARY_CONCEPT
-strainer	strainer	DISEASE
+strainer	strainer	INTERMEDIARY_CONCEPT
 citric acid monohydrate	-	INTERMEDIARY_CONCEPT
 laughters	laughter	INTERMEDIARY_CONCEPT
 hip hop music	-	INTERMEDIARY_CONCEPT
@@ -6217,7 +6217,7 @@ ubiquitous use	-	INTERMEDIARY_CONCEPT
 sore throat	-	DISEASE
 lies	lie	INTERMEDIARY_CONCEPT
 xanthomax	xanthomax	INTERMEDIARY_CONCEPT
-diet therapy	-	FOOD
+diet therapy	-	INTERMEDIARY_CONCEPT
 orf	orf	DISEASE
 shark oil	-	INTERMEDIARY_CONCEPT
 coke	coke	INTERMEDIARY_CONCEPT
@@ -6232,7 +6232,7 @@ body lices	-	INTERMEDIARY_CONCEPT
 steroids	steroid	INTERMEDIARY_CONCEPT
 epinephrine acetate	-	INTERMEDIARY_CONCEPT
 turnip	turnip	FOOD
-carbohydrate restricted diet	-	FOOD
+carbohydrate restricted diet	-	INTERMEDIARY_CONCEPT
 epithelial tissues	-	INTERMEDIARY_CONCEPT
 caffeinism	caffeinism	INTERMEDIARY_CONCEPT
 diphenhydramine citrate	-	INTERMEDIARY_CONCEPT
@@ -6267,7 +6267,7 @@ domestic animal	-	INTERMEDIARY_CONCEPT
 copd	copd	DISEASE
 advocate consumption	-	INTERMEDIARY_CONCEPT
 saccharomyces boulardii	-	INTERMEDIARY_CONCEPT
-drinking alcohol	-	FOOD
+drinking alcohol	-	INTERMEDIARY_CONCEPT
 morning sickness	-	DISEASE
 digoxina boehringer	-	INTERMEDIARY_CONCEPT
 age related memory disorders	-	DISEASE
@@ -6276,9 +6276,9 @@ lurker	lurker	INTERMEDIARY_CONCEPT
 schizoaffective disorder	-	DISEASE
 recent gluten-free	-	INTERMEDIARY_CONCEPT
 streaks	streak	INTERMEDIARY_CONCEPT
-seasonal allergy	-	DISEASE
+seasonal allergy	-	INTERMEDIARY_CONCEPT
 cook	cook	INTERMEDIARY_CONCEPT
-meat-sweet diets	-	FOOD
+meat-sweet diets	-	INTERMEDIARY_CONCEPT
 hoaxer	hoaxer	INTERMEDIARY_CONCEPT
 green pepper	-	FOOD
 antioxidative properties	-	INTERMEDIARY_CONCEPT
@@ -6291,7 +6291,7 @@ glycation end	-	INTERMEDIARY_CONCEPT
 pelvic	pelvic	INTERMEDIARY_CONCEPT
 rowanberry	rowanberry	FOOD
 roses	rose	FOOD
-fried chicken	-	FOOD
+fried chicken	-	INTERMEDIARY_CONCEPT
 lyssa	lyssa	DISEASE
 sweet'n low	-	INTERMEDIARY_CONCEPT
 magic	magic	INTERMEDIARY_CONCEPT
@@ -6305,7 +6305,7 @@ blog	blog	INTERMEDIARY_CONCEPT
 psychological distress	-	INTERMEDIARY_CONCEPT
 drug	drug	INTERMEDIARY_CONCEPT
 milk chocolate	-	FOOD
-cranberry cocktail	-	FOOD
+cranberry cocktail	-	INTERMEDIARY_CONCEPT
 medical destiny	-	INTERMEDIARY_CONCEPT
 thermogenics	thermogenic	INTERMEDIARY_CONCEPT
 carica papaya	-	FOOD
@@ -6323,7 +6323,7 @@ foeniculum	foeniculum	FOOD
 exanthema	exanthema	DISEASE
 oxidise	oxidise	INTERMEDIARY_CONCEPT
 citrulline	citrulline	INTERMEDIARY_CONCEPT
-pork seizures	-	FOOD
+pork seizures	-	INTERMEDIARY_CONCEPT
 fructans	fructan	INTERMEDIARY_CONCEPT
 prevent kidney	-	INTERMEDIARY_CONCEPT
 gastrointestinal complaint	-	INTERMEDIARY_CONCEPT
@@ -6332,7 +6332,7 @@ gmo crops	-	INTERMEDIARY_CONCEPT
 international safety	-	INTERMEDIARY_CONCEPT
 review last	-	INTERMEDIARY_CONCEPT
 alpha-lipoprotein cholesterol	-	INTERMEDIARY_CONCEPT
-western diet	-	FOOD
+western diet	-	INTERMEDIARY_CONCEPT
 hormone treatment	-	INTERMEDIARY_CONCEPT
 trauma-dolgit gel	-	INTERMEDIARY_CONCEPT
 age-related memory disorders	-	DISEASE
@@ -6341,7 +6341,7 @@ udp-galactose-4-epimerase deficiency diseases	-	DISEASE
 hearts	heart	INTERMEDIARY_CONCEPT
 nose	nose	INTERMEDIARY_CONCEPT
 autoimmune diseases	-	DISEASE
-improve acne	-	DISEASE
+improve acne	-	INTERMEDIARY_CONCEPT
 obtuse	obtuse	INTERMEDIARY_CONCEPT
 cognition	cognition	INTERMEDIARY_CONCEPT
 pap smear	-	INTERMEDIARY_CONCEPT
@@ -6352,15 +6352,15 @@ algae sold	-	INTERMEDIARY_CONCEPT
 histamine antagonists	-	INTERMEDIARY_CONCEPT
 ethnomedicine	ethnomedicine	INTERMEDIARY_CONCEPT
 reduced cardiovascular	-	INTERMEDIARY_CONCEPT
-cancer early detection	-	DISEASE
+cancer early detection	-	INTERMEDIARY_CONCEPT
 premenstrual tensions	-	DISEASE
-bay bolete	-	FOOD
+bay bolete	-	INTERMEDIARY_CONCEPT
 undesirable effects	-	INTERMEDIARY_CONCEPT
 novartis brand of lorazepam	-	INTERMEDIARY_CONCEPT
 irrational revulsion	-	INTERMEDIARY_CONCEPT
 fortification	fortification	INTERMEDIARY_CONCEPT
 arterial stiffness	-	INTERMEDIARY_CONCEPT
-low sodium diet	-	FOOD
+low sodium diet	-	INTERMEDIARY_CONCEPT
 medical alma	-	INTERMEDIARY_CONCEPT
 salicylate	salicylate	INTERMEDIARY_CONCEPT
 french bean plant	-	FOOD
@@ -6398,12 +6398,12 @@ lymphadenopathy associated virus	-	DISEASE
 yellow	yellow	INTERMEDIARY_CONCEPT
 arsenic-containing drug	-	INTERMEDIARY_CONCEPT
 red meat	-	FOOD
-cancer-free	cancer-free	DISEASE
+cancer-free	cancer-free	INTERMEDIARY_CONCEPT
 parsley	parsley	FOOD
-dietary secondhand	-	FOOD
+dietary secondhand	-	INTERMEDIARY_CONCEPT
 epigenetic changes	-	INTERMEDIARY_CONCEPT
 respiratory tracts	-	INTERMEDIARY_CONCEPT
-cancer stem cells	-	DISEASE
+cancer stem cells	-	INTERMEDIARY_CONCEPT
 malignant stages	-	INTERMEDIARY_CONCEPT
 cows	cow	INTERMEDIARY_CONCEPT
 ocular headache	-	DISEASE
@@ -6413,7 +6413,7 @@ prostatic intraepithelial neoplasia	-	DISEASE
 psammomatous meningiomas	-	DISEASE
 cardiac death	-	DISEASE
 coxa	coxa	INTERMEDIARY_CONCEPT
-meat consumption	-	FOOD
+meat consumption	-	INTERMEDIARY_CONCEPT
 aremis	aremis	INTERMEDIARY_CONCEPT
 bruce neal	-	INTERMEDIARY_CONCEPT
 cord blood	-	INTERMEDIARY_CONCEPT
@@ -6440,7 +6440,7 @@ ct scans	-	INTERMEDIARY_CONCEPT
 ici46	ici46	INTERMEDIARY_CONCEPT
 back pains	-	DISEASE
 medicine involves	-	INTERMEDIARY_CONCEPT
-activating death	-	DISEASE
+activating death	-	INTERMEDIARY_CONCEPT
 non-vegan	non-vegan	INTERMEDIARY_CONCEPT
 nonsteroidal antiinflammatory agents	-	INTERMEDIARY_CONCEPT
 zinc requirements	-	INTERMEDIARY_CONCEPT
@@ -6477,7 +6477,7 @@ uribenz	uribenz	INTERMEDIARY_CONCEPT
 pea	pea	FOOD
 mammary cancers	-	DISEASE
 habitually	habitually	INTERMEDIARY_CONCEPT
-bacon contains	-	FOOD
+bacon contains	-	INTERMEDIARY_CONCEPT
 lung cancer	-	DISEASE
 pee	pee	INTERMEDIARY_CONCEPT
 xanthones	xanthone	INTERMEDIARY_CONCEPT
@@ -6507,8 +6507,8 @@ toxins	toxin	INTERMEDIARY_CONCEPT
 caffeinate	caffeinate	INTERMEDIARY_CONCEPT
 tisanes	tisane	FOOD
 type a monoamine oxidase	-	INTERMEDIARY_CONCEPT
-beer represents	-	FOOD
-autophagic programmed cell death	-	DISEASE
+beer represents	-	INTERMEDIARY_CONCEPT
+autophagic programmed cell death	-	INTERMEDIARY_CONCEPT
 golden delicious apples	-	FOOD
 obama	obama	INTERMEDIARY_CONCEPT
 pimenta officinali	-	FOOD
@@ -6531,7 +6531,7 @@ childhood treat	-	INTERMEDIARY_CONCEPT
 diaphragms	diaphragm	INTERMEDIARY_CONCEPT
 energy shots	-	INTERMEDIARY_CONCEPT
 white people	-	INTERMEDIARY_CONCEPT
-milk drinkers	-	FOOD
+milk drinkers	-	INTERMEDIARY_CONCEPT
 insecticide compounds	-	INTERMEDIARY_CONCEPT
 ldl-cholesterol	ldl-cholesterol	INTERMEDIARY_CONCEPT
 slow wave sleep	-	INTERMEDIARY_CONCEPT
@@ -6572,7 +6572,7 @@ acid erosion	-	INTERMEDIARY_CONCEPT
 johnes disease	-	DISEASE
 cholesterol level	-	INTERMEDIARY_CONCEPT
 liveness	liveness	INTERMEDIARY_CONCEPT
-glucophage	glucophage	DISEASE
+glucophage	glucophage	INTERMEDIARY_CONCEPT
 dioxide	dioxide	INTERMEDIARY_CONCEPT
 zoonotic infection	-	DISEASE
 ratio-tryptophan	ratio-tryptophan	INTERMEDIARY_CONCEPT
@@ -6613,7 +6613,7 @@ trash chute	-	INTERMEDIARY_CONCEPT
 spinal column	-	INTERMEDIARY_CONCEPT
 post-ictal confusion	-	DISEASE
 red yeast	-	INTERMEDIARY_CONCEPT
-bolete mushroom	-	FOOD
+bolete mushroom	-	INTERMEDIARY_CONCEPT
 pms	pm	INTERMEDIARY_CONCEPT
 cross-react	cross-react	INTERMEDIARY_CONCEPT
 cognitive dysfunction	-	DISEASE
@@ -6636,7 +6636,7 @@ peripheral arterial diseases	-	DISEASE
 muscle inflammation	-	INTERMEDIARY_CONCEPT
 lignan intake	-	INTERMEDIARY_CONCEPT
 evolutionary argument	-	INTERMEDIARY_CONCEPT
-disease research	-	DISEASE
+disease research	-	INTERMEDIARY_CONCEPT
 cuminum cyminums	-	FOOD
 t viruses	-	DISEASE
 pom	pom	INTERMEDIARY_CONCEPT
@@ -6647,7 +6647,7 @@ high fructose corn syrup	-	FOOD
 pomegranates	pomegranate	FOOD
 block cancer	-	DISEASE
 physical performance	-	INTERMEDIARY_CONCEPT
-pork-eat	pork-eat	FOOD
+pork-eat	pork-eat	INTERMEDIARY_CONCEPT
 tumor suppressor gene	-	INTERMEDIARY_CONCEPT
 safflowers	safflower	FOOD
 brain parasite	-	INTERMEDIARY_CONCEPT
@@ -6685,11 +6685,11 @@ federal trade	-	INTERMEDIARY_CONCEPT
 subsidence	subsidence	INTERMEDIARY_CONCEPT
 bmis	bmis	INTERMEDIARY_CONCEPT
 digester	digester	INTERMEDIARY_CONCEPT
-walnut-enriched restructured	-	FOOD
-improve cancer-free	-	DISEASE
+walnut-enriched restructured	-	INTERMEDIARY_CONCEPT
+improve cancer-free	-	INTERMEDIARY_CONCEPT
 bitter nightshade	-	FOOD
 processed apples	-	FOOD
-leukosis/sarcoma	leukosis/sarcoma	DISEASE
+leukosis/sarcoma	leukosis/sarcoma	INTERMEDIARY_CONCEPT
 burmese	burmese	INTERMEDIARY_CONCEPT
 grocery store	-	INTERMEDIARY_CONCEPT
 small cleaved cell lymphoma	-	DISEASE
@@ -6724,7 +6724,7 @@ protein powder	-	INTERMEDIARY_CONCEPT
 foam cell	-	INTERMEDIARY_CONCEPT
 inflammatory responses	-	INTERMEDIARY_CONCEPT
 trick question	-	INTERMEDIARY_CONCEPT
-contaminated chicken	-	FOOD
+contaminated chicken	-	INTERMEDIARY_CONCEPT
 salt institute	-	INTERMEDIARY_CONCEPT
 quotation	quotation	INTERMEDIARY_CONCEPT
 bravery	bravery	INTERMEDIARY_CONCEPT
@@ -6758,7 +6758,7 @@ nasal irrigation	-	INTERMEDIARY_CONCEPT
 sodium palmitate	-	INTERMEDIARY_CONCEPT
 macadamia	macadamia	FOOD
 raw poultry	-	FOOD
-nutrient-rich	nutrient-rich	FOOD
+nutrient-rich	nutrient-rich	INTERMEDIARY_CONCEPT
 chlorinate	chlorinate	INTERMEDIARY_CONCEPT
 intracranial meningiomas	-	DISEASE
 diffuse mixed cell lymphoma	-	DISEASE
@@ -6812,7 +6812,7 @@ secondhand	secondhand	INTERMEDIARY_CONCEPT
 taco	taco	INTERMEDIARY_CONCEPT
 million views	-	INTERMEDIARY_CONCEPT
 antioxidant intake	-	INTERMEDIARY_CONCEPT
-death domain receptors	-	DISEASE
+death domain receptors	-	INTERMEDIARY_CONCEPT
 gelcen	gelcen	INTERMEDIARY_CONCEPT
 radioactive isotopes	-	INTERMEDIARY_CONCEPT
 safety practices	-	INTERMEDIARY_CONCEPT
@@ -6864,7 +6864,7 @@ horse nettles	-	FOOD
 body burdens	-	INTERMEDIARY_CONCEPT
 dyschezia	dyschezia	DISEASE
 visual disturbance	-	INTERMEDIARY_CONCEPT
-lower-fat diet	-	FOOD
+lower-fat diet	-	INTERMEDIARY_CONCEPT
 festival	festival	INTERMEDIARY_CONCEPT
 abnormalities	abnormality	INTERMEDIARY_CONCEPT
 tersaseptic	tersaseptic	INTERMEDIARY_CONCEPT
@@ -6889,7 +6889,7 @@ astroglia	astroglia	INTERMEDIARY_CONCEPT
 contagious ecthyma	-	DISEASE
 colchicine	colchicine	INTERMEDIARY_CONCEPT
 2 amino 4 mercaptobutyric acid	-	INTERMEDIARY_CONCEPT
-meat report	-	FOOD
+meat report	-	INTERMEDIARY_CONCEPT
 cellidrin	cellidrin	INTERMEDIARY_CONCEPT
 smokers	smoker	INTERMEDIARY_CONCEPT
 antioxidant substances	-	INTERMEDIARY_CONCEPT
@@ -6904,11 +6904,11 @@ meningiomas	meningioma	DISEASE
 carentil	carentil	INTERMEDIARY_CONCEPT
 bargainer	bargainer	INTERMEDIARY_CONCEPT
 anticancer compounds	-	INTERMEDIARY_CONCEPT
-noni juice	-	FOOD
+noni juice	-	INTERMEDIARY_CONCEPT
 pet scans	-	INTERMEDIARY_CONCEPT
 3-butanedione	3-butanedione	INTERMEDIARY_CONCEPT
 enokitakes	enokitakes	INTERMEDIARY_CONCEPT
-consuming vinegar	-	FOOD
+consuming vinegar	-	INTERMEDIARY_CONCEPT
 alternative therapies	-	INTERMEDIARY_CONCEPT
 number two	-	INTERMEDIARY_CONCEPT
 elettaria cardamomums	-	FOOD
@@ -6923,7 +6923,7 @@ exercise trainings	-	INTERMEDIARY_CONCEPT
 norepinephrine bitartrate	-	INTERMEDIARY_CONCEPT
 quinine bisulfate	-	INTERMEDIARY_CONCEPT
 federal trade commission (u.s.)	-	INTERMEDIARY_CONCEPT
-sodium-restricted diet	-	FOOD
+sodium-restricted diet	-	INTERMEDIARY_CONCEPT
 chinese	chinese	INTERMEDIARY_CONCEPT
 food hypersensitivity	-	DISEASE
 drug abuse	-	DISEASE
@@ -6999,10 +6999,10 @@ iron supplements	-	INTERMEDIARY_CONCEPT
 cancer of stomach	-	DISEASE
 high grade lymphoma	-	DISEASE
 different mechanisms	-	INTERMEDIARY_CONCEPT
-apple group	-	FOOD
+apple group	-	INTERMEDIARY_CONCEPT
 gradate	gradate	INTERMEDIARY_CONCEPT
 sparid fish	-	INTERMEDIARY_CONCEPT
-standard american diet	-	FOOD
+standard american diet	-	INTERMEDIARY_CONCEPT
 neoplasm	neoplasm	DISEASE
 telomerase reverse transcriptase	-	INTERMEDIARY_CONCEPT
 contain mercury	-	INTERMEDIARY_CONCEPT
@@ -7015,12 +7015,12 @@ burkitt herpesvirus	-	DISEASE
 acquired blindness	-	DISEASE
 button mushrooms	-	INTERMEDIARY_CONCEPT
 nerves	nerve	INTERMEDIARY_CONCEPT
-meals on wheels	-	FOOD
+meals on wheels	-	INTERMEDIARY_CONCEPT
 fat soluble	-	INTERMEDIARY_CONCEPT
 hordein	hordein	INTERMEDIARY_CONCEPT
 tart	tart	INTERMEDIARY_CONCEPT
-cancer cases	-	DISEASE
-cancer promoter	-	DISEASE
+cancer cases	-	INTERMEDIARY_CONCEPT
+cancer promoter	-	INTERMEDIARY_CONCEPT
 taro	taro	FOOD
 cognitive performance	-	INTERMEDIARY_CONCEPT
 spillover effect	-	INTERMEDIARY_CONCEPT
@@ -7028,7 +7028,7 @@ oxen meat	-	FOOD
 extraintestinal pathogenic escherichia coli	-	INTERMEDIARY_CONCEPT
 junked	junk	INTERMEDIARY_CONCEPT
 venereal wart	-	DISEASE
-dietary aspects	-	FOOD
+dietary aspects	-	INTERMEDIARY_CONCEPT
 proteus	proteus	INTERMEDIARY_CONCEPT
 health	health	INTERMEDIARY_CONCEPT
 deaf-mutism	deaf-mutism	DISEASE
@@ -7083,7 +7083,7 @@ phoner	phoner	INTERMEDIARY_CONCEPT
 phones	phone	INTERMEDIARY_CONCEPT
 mild stresses	-	INTERMEDIARY_CONCEPT
 adventist health study	-	INTERMEDIARY_CONCEPT
-dietary strategy	-	FOOD
+dietary strategy	-	INTERMEDIARY_CONCEPT
 promotional item	-	INTERMEDIARY_CONCEPT
 speciality	speciality	INTERMEDIARY_CONCEPT
 arachis	arachis	FOOD
@@ -7117,7 +7117,7 @@ tbisc-ethane	tbisc-ethane	INTERMEDIARY_CONCEPT
 date suggests	-	INTERMEDIARY_CONCEPT
 brain benign neoplasms	-	DISEASE
 oil claim	-	INTERMEDIARY_CONCEPT
-oatmeal lotion	-	FOOD
+oatmeal lotion	-	INTERMEDIARY_CONCEPT
 gravol	gravol	INTERMEDIARY_CONCEPT
 solanum melongena	-	FOOD
 sdz 202250	-	INTERMEDIARY_CONCEPT
@@ -7142,12 +7142,12 @@ horror story	-	INTERMEDIARY_CONCEPT
 polycystic ovary	-	INTERMEDIARY_CONCEPT
 pinapples	pinapple	INTERMEDIARY_CONCEPT
 symptom	symptom	INTERMEDIARY_CONCEPT
-flaxseed oil	-	FOOD
+flaxseed oil	-	INTERMEDIARY_CONCEPT
 daily fruit	-	FOOD
 infantile autism	-	DISEASE
 fireman	fireman	INTERMEDIARY_CONCEPT
 dried blueberries	-	FOOD
-protein redistribution diet	-	FOOD
+protein redistribution diet	-	INTERMEDIARY_CONCEPT
 infant stroller	-	INTERMEDIARY_CONCEPT
 carotenoids	carotenoid	INTERMEDIARY_CONCEPT
 insulin	insulin	INTERMEDIARY_CONCEPT
@@ -7186,7 +7186,7 @@ hydrophobia	hydrophobia	DISEASE
 budge	budge	INTERMEDIARY_CONCEPT
 jacutin	jacutin	INTERMEDIARY_CONCEPT
 lung lining	-	INTERMEDIARY_CONCEPT
-diet high	-	FOOD
+diet high	-	INTERMEDIARY_CONCEPT
 arachidonic acid	-	INTERMEDIARY_CONCEPT
 fibroatheroma	fibroatheroma	DISEASE
 epitrate	epitrate	INTERMEDIARY_CONCEPT
@@ -7264,7 +7264,7 @@ pruritis	pruritis	DISEASE
 maimonides	maimonide	INTERMEDIARY_CONCEPT
 apple tree	-	FOOD
 parachuter	parachuter	INTERMEDIARY_CONCEPT
-chronic fatigue	-	DISEASE
+chronic fatigue	-	INTERMEDIARY_CONCEPT
 waist circumference	-	INTERMEDIARY_CONCEPT
 octogenarians	octogenarian	INTERMEDIARY_CONCEPT
 big food	-	FOOD
@@ -7294,7 +7294,7 @@ person-to-person	person-to-person	INTERMEDIARY_CONCEPT
 drinking water	-	FOOD
 ici 46474	-	INTERMEDIARY_CONCEPT
 fenilbutazon	fenilbutazon	INTERMEDIARY_CONCEPT
-dietician	dietician	FOOD
+dietician	dietician	INTERMEDIARY_CONCEPT
 pyrogallol	pyrogallol	INTERMEDIARY_CONCEPT
 diabetes association	-	INTERMEDIARY_CONCEPT
 deep-fried foods	-	FOOD
@@ -7307,7 +7307,7 @@ sweetness	sweetness	INTERMEDIARY_CONCEPT
 genitals	genitals	INTERMEDIARY_CONCEPT
 cranberry sauce	-	FOOD
 dioxins	dioxin	INTERMEDIARY_CONCEPT
-dietary methionine	-	FOOD
+dietary methionine	-	INTERMEDIARY_CONCEPT
 flame-retardant	flame-retardant	INTERMEDIARY_CONCEPT
 organization blames	-	INTERMEDIARY_CONCEPT
 one medicine initiative	-	INTERMEDIARY_CONCEPT
@@ -7423,7 +7423,7 @@ chronic disease	-	DISEASE
 long-term raw	-	INTERMEDIARY_CONCEPT
 reductionistic	reductionistic	INTERMEDIARY_CONCEPT
 ketchup	ketchup	FOOD
-beet consumption	-	FOOD
+beet consumption	-	INTERMEDIARY_CONCEPT
 industry adds	-	INTERMEDIARY_CONCEPT
 cognitive retention disorders	-	DISEASE
 tumor virus	-	DISEASE
@@ -7448,7 +7448,7 @@ retardant chemicals	-	INTERMEDIARY_CONCEPT
 photo	photo	INTERMEDIARY_CONCEPT
 parachuting	parachute	INTERMEDIARY_CONCEPT
 rda	rda	INTERMEDIARY_CONCEPT
-swine	swine	FOOD
+swine	swine	INTERMEDIARY_CONCEPT
 gingerol	gingerol	INTERMEDIARY_CONCEPT
 drinking milk	-	FOOD
 prostate neoplasms	-	DISEASE
@@ -7456,22 +7456,22 @@ rhythmic vocalization	-	INTERMEDIARY_CONCEPT
 frankness	frankness	INTERMEDIARY_CONCEPT
 musca domestica	-	INTERMEDIARY_CONCEPT
 low back aches	-	DISEASE
-pork industry	-	FOOD
+pork industry	-	INTERMEDIARY_CONCEPT
 procter	procter	INTERMEDIARY_CONCEPT
-treating breast	-	FOOD
+treating breast	-	INTERMEDIARY_CONCEPT
 breast dysplasia	-	DISEASE
 flammulinas	flammulina	FOOD
 duck	duck	INTERMEDIARY_CONCEPT
 purinol	purinol	INTERMEDIARY_CONCEPT
 cocoa plants	-	FOOD
-disease ranks	-	DISEASE
+disease ranks	-	INTERMEDIARY_CONCEPT
 gel electrophoresis	-	INTERMEDIARY_CONCEPT
 ip-82	ip-82	INTERMEDIARY_CONCEPT
 protein fermentation	-	INTERMEDIARY_CONCEPT
 binder	binder	INTERMEDIARY_CONCEPT
 popular fruits	-	FOOD
 gifts	gift	INTERMEDIARY_CONCEPT
-gout sufferers	-	DISEASE
+gout sufferers	-	INTERMEDIARY_CONCEPT
 irritable bowel syndromes	-	DISEASE
 chronic indigestion	-	INTERMEDIARY_CONCEPT
 water vapors	-	INTERMEDIARY_CONCEPT
@@ -7492,11 +7492,11 @@ healthier skin	-	INTERMEDIARY_CONCEPT
 vegetarian women	-	INTERMEDIARY_CONCEPT
 trust	trust	INTERMEDIARY_CONCEPT
 neonatal tremors	-	DISEASE
-uprooting	uproot	FOOD
+uprooting	uproot	INTERMEDIARY_CONCEPT
 american vegetarians	-	INTERMEDIARY_CONCEPT
 manusept	manusept	INTERMEDIARY_CONCEPT
 muscle control	-	INTERMEDIARY_CONCEPT
-rose bush	-	FOOD
+rose bush	-	INTERMEDIARY_CONCEPT
 market research	-	INTERMEDIARY_CONCEPT
 antimycobacterial agents	-	INTERMEDIARY_CONCEPT
 goji berry	-	FOOD
@@ -7585,7 +7585,7 @@ animal studies	-	INTERMEDIARY_CONCEPT
 angiogenesis factor inhibitors	-	INTERMEDIARY_CONCEPT
 nicotine bitartrate	-	INTERMEDIARY_CONCEPT
 isle of man	-	INTERMEDIARY_CONCEPT
-food and drug administration (u.s.)	-	FOOD
+food and drug administration (u.s.)	-	INTERMEDIARY_CONCEPT
 protoheme	protoheme	INTERMEDIARY_CONCEPT
 meditation	meditation	INTERMEDIARY_CONCEPT
 colocasias	colocasia	FOOD
@@ -7603,7 +7603,7 @@ odorants	odorant	INTERMEDIARY_CONCEPT
 fluorinated diphenyl ethers	-	INTERMEDIARY_CONCEPT
 hypnotic effects	-	INTERMEDIARY_CONCEPT
 brains	brain	INTERMEDIARY_CONCEPT
-drinking soymilk	-	FOOD
+drinking soymilk	-	INTERMEDIARY_CONCEPT
 noticeably improve	-	INTERMEDIARY_CONCEPT
 eczema	eczema	DISEASE
 ahp brand of lorazepam	-	INTERMEDIARY_CONCEPT
@@ -7649,7 +7649,7 @@ l isomer arginine	-	INTERMEDIARY_CONCEPT
 degenerative neurologic diseases	-	DISEASE
 plant ovary	-	INTERMEDIARY_CONCEPT
 hear infectious	-	INTERMEDIARY_CONCEPT
-apple peel	-	FOOD
+apple peel	-	INTERMEDIARY_CONCEPT
 carthamus tinctorius	-	FOOD
 warts	wart	DISEASE
 maggot	maggot	INTERMEDIARY_CONCEPT
@@ -7680,7 +7680,7 @@ pancreatic neoplasms	-	DISEASE
 attractive names	-	INTERMEDIARY_CONCEPT
 american academy	-	INTERMEDIARY_CONCEPT
 zerumbone	zerumbone	INTERMEDIARY_CONCEPT
-beef brains	-	FOOD
+beef brains	-	INTERMEDIARY_CONCEPT
 throat cancer	-	DISEASE
 catfish	catfish	FOOD
 oxford	oxford	INTERMEDIARY_CONCEPT
@@ -7697,13 +7697,13 @@ brain development	-	INTERMEDIARY_CONCEPT
 beta-carotene	beta-carotene	INTERMEDIARY_CONCEPT
 transudate	transudate	INTERMEDIARY_CONCEPT
 healthiest beverage	-	FOOD
-cancer lesions	-	DISEASE
+cancer lesions	-	INTERMEDIARY_CONCEPT
 barbecuing	barbecue	INTERMEDIARY_CONCEPT
 apple juice	-	FOOD
 goiaba	goiaba	FOOD
 miquelon and saint pierre	-	INTERMEDIARY_CONCEPT
-anti-acne	anti-acne	DISEASE
-pistachio principle	-	FOOD
+anti-acne	anti-acne	INTERMEDIARY_CONCEPT
+pistachio principle	-	INTERMEDIARY_CONCEPT
 crataegus monogyna	-	FOOD
 amp-activated protein kinase alpha subunit	-	INTERMEDIARY_CONCEPT
 grade	grade	INTERMEDIARY_CONCEPT
@@ -7718,7 +7718,7 @@ bhang	bhang	FOOD
 new vectors	-	INTERMEDIARY_CONCEPT
 graphitization	graphitization	INTERMEDIARY_CONCEPT
 peptides	peptide	INTERMEDIARY_CONCEPT
-high-antioxidant diet	-	FOOD
+high-antioxidant diet	-	INTERMEDIARY_CONCEPT
 sores	sore	INTERMEDIARY_CONCEPT
 xanthomatous meningioma	-	DISEASE
 hypoplasia	hypoplasia	INTERMEDIARY_CONCEPT
@@ -7736,7 +7736,7 @@ peppermints	peppermint	FOOD
 age-related maculopathies	-	DISEASE
 urinary bladder	-	INTERMEDIARY_CONCEPT
 bowel	bowel	INTERMEDIARY_CONCEPT
-chicken lacks	-	FOOD
+chicken lacks	-	INTERMEDIARY_CONCEPT
 multidrug-resistant bacteria	-	INTERMEDIARY_CONCEPT
 crater	crater	INTERMEDIARY_CONCEPT
 8 methyl n vanillyl 6 nonenamide	-	INTERMEDIARY_CONCEPT
@@ -7749,8 +7749,8 @@ processed meat	-	FOOD
 mongoloid races	-	INTERMEDIARY_CONCEPT
 active immunizations	-	INTERMEDIARY_CONCEPT
 harmfulness	harmfulness	INTERMEDIARY_CONCEPT
-dietary diversity	-	FOOD
-atkins diet	-	FOOD
+dietary diversity	-	INTERMEDIARY_CONCEPT
+atkins diet	-	INTERMEDIARY_CONCEPT
 stuffing	stuff	FOOD
 ergothioneine	ergothioneine	INTERMEDIARY_CONCEPT
 subjects lived	-	INTERMEDIARY_CONCEPT
@@ -7775,7 +7775,7 @@ thalomid	thalomid	INTERMEDIARY_CONCEPT
 holland	holland	INTERMEDIARY_CONCEPT
 mold	mold	INTERMEDIARY_CONCEPT
 pulmonary thromboembolism	-	DISEASE
-health food stores	-	FOOD
+health food stores	-	INTERMEDIARY_CONCEPT
 potentially harmful	-	INTERMEDIARY_CONCEPT
 bertholletia excelsa	-	FOOD
 crunch	crunch	INTERMEDIARY_CONCEPT
@@ -7786,7 +7786,7 @@ alli	alli	INTERMEDIARY_CONCEPT
 book	book	INTERMEDIARY_CONCEPT
 dromedaries	dromedary	INTERMEDIARY_CONCEPT
 non-heme iron	-	INTERMEDIARY_CONCEPT
-meat restriction	-	FOOD
+meat restriction	-	INTERMEDIARY_CONCEPT
 candy bar	-	FOOD
 white mushrooms	-	INTERMEDIARY_CONCEPT
 kicking	kick	INTERMEDIARY_CONCEPT
@@ -7837,11 +7837,11 @@ larva	larva	INTERMEDIARY_CONCEPT
 produce toxins	-	INTERMEDIARY_CONCEPT
 cerebellums	cerebellum	INTERMEDIARY_CONCEPT
 manganese superoxide dismutase	-	INTERMEDIARY_CONCEPT
-grilled chicken	-	FOOD
+grilled chicken	-	INTERMEDIARY_CONCEPT
 sugar maple	-	FOOD
 bowel movement	-	INTERMEDIARY_CONCEPT
 spindle-cell carcinomas	-	DISEASE
-winemaking	winemaking	FOOD
+winemaking	winemaking	INTERMEDIARY_CONCEPT
 images	image	INTERMEDIARY_CONCEPT
 christmas island	-	INTERMEDIARY_CONCEPT
 umbilical cords	-	INTERMEDIARY_CONCEPT
@@ -7860,7 +7860,7 @@ breast malignant tumor	-	DISEASE
 belladonna	belladonna	FOOD
 glaciers	glacier	INTERMEDIARY_CONCEPT
 b-12	b-12	INTERMEDIARY_CONCEPT
-vitamin supplements	-	FOOD
+vitamin supplements	-	INTERMEDIARY_CONCEPT
 feminine	feminine	INTERMEDIARY_CONCEPT
 histamine cephalgia	-	DISEASE
 bleeder	bleeder	INTERMEDIARY_CONCEPT
@@ -7888,7 +7888,7 @@ disorder	disorder	DISEASE
 semi-sweet	semi-sweet	INTERMEDIARY_CONCEPT
 jodetten henning	-	INTERMEDIARY_CONCEPT
 toxic potential	-	INTERMEDIARY_CONCEPT
-fruit diet	-	FOOD
+fruit diet	-	INTERMEDIARY_CONCEPT
 risk reduction behavior	-	INTERMEDIARY_CONCEPT
 psychological stresses	-	INTERMEDIARY_CONCEPT
 vision loss	-	INTERMEDIARY_CONCEPT
@@ -7907,7 +7907,7 @@ monopotassium salt taurine	-	INTERMEDIARY_CONCEPT
 rectal/anal	rectal/anal	INTERMEDIARY_CONCEPT
 ki-67	ki-67	INTERMEDIARY_CONCEPT
 chants	chant	INTERMEDIARY_CONCEPT
-mediterranean diet	-	FOOD
+mediterranean diet	-	INTERMEDIARY_CONCEPT
 semen quality	-	INTERMEDIARY_CONCEPT
 arterialization	arterialization	INTERMEDIARY_CONCEPT
 premature aging	-	DISEASE
@@ -7934,7 +7934,7 @@ myrosinase enzymes	-	INTERMEDIARY_CONCEPT
 popkin	popkin	INTERMEDIARY_CONCEPT
 glutens	gluten	FOOD
 greenery	greenery	FOOD
-cancer-causing viruses	-	DISEASE
+cancer-causing viruses	-	INTERMEDIARY_CONCEPT
 squash plants	-	FOOD
 nerve	nerve	INTERMEDIARY_CONCEPT
 iota carrageenan	-	INTERMEDIARY_CONCEPT
@@ -7975,7 +7975,7 @@ algae supplements	-	INTERMEDIARY_CONCEPT
 classical music	-	INTERMEDIARY_CONCEPT
 purines	purine	INTERMEDIARY_CONCEPT
 cognitive impairment	-	DISEASE
-meat-free	meat-free	FOOD
+meat-free	meat-free	INTERMEDIARY_CONCEPT
 promotion costs	-	INTERMEDIARY_CONCEPT
 angina	angina	INTERMEDIARY_CONCEPT
 mussel	mussel	FOOD
@@ -7998,7 +7998,7 @@ familial tremor	-	DISEASE
 holy basil tea	-	FOOD
 dietary protein	-	FOOD
 multiple myositis	-	DISEASE
-cancer-causing herpesvirus	-	DISEASE
+cancer-causing herpesvirus	-	INTERMEDIARY_CONCEPT
 bacterial richness	-	INTERMEDIARY_CONCEPT
 leprosy	leprosy	DISEASE
 autophagy	autophagy	INTERMEDIARY_CONCEPT
@@ -8076,8 +8076,8 @@ seafood include	-	INTERMEDIARY_CONCEPT
 smoothie	smoothie	INTERMEDIARY_CONCEPT
 biologic marker	-	INTERMEDIARY_CONCEPT
 encephalopathies	encephalopathy	DISEASE
-butter-flavored	butter-flavored	FOOD
-tremors due	-	DISEASE
+butter-flavored	butter-flavored	INTERMEDIARY_CONCEPT
+tremors due	-	INTERMEDIARY_CONCEPT
 cephalalgia	cephalalgia	DISEASE
 butyrate-producing	butyrate-producing	INTERMEDIARY_CONCEPT
 internets	internet	INTERMEDIARY_CONCEPT
@@ -8125,7 +8125,7 @@ green leafies	-	INTERMEDIARY_CONCEPT
 dry eye	-	INTERMEDIARY_CONCEPT
 pimpinellas	pimpinella	FOOD
 consumed chocolate	-	FOOD
-somatotropin hypersecretion syndromes	-	DISEASE
+somatotropin hypersecretion syndromes	-	INTERMEDIARY_CONCEPT
 imagery	imagery	INTERMEDIARY_CONCEPT
 age-related macular degeneration	-	DISEASE
 case-control studies	-	INTERMEDIARY_CONCEPT
@@ -8158,7 +8158,7 @@ gastric emptyings	-	INTERMEDIARY_CONCEPT
 quokkas	quokka	INTERMEDIARY_CONCEPT
 bladder disease	-	DISEASE
 sensitisation	sensitisation	INTERMEDIARY_CONCEPT
-animal-based diet	-	FOOD
+animal-based diet	-	INTERMEDIARY_CONCEPT
 promotes cavities	-	INTERMEDIARY_CONCEPT
 cardiac chronotropy	-	INTERMEDIARY_CONCEPT
 pharmacopuncture	pharmacopuncture	INTERMEDIARY_CONCEPT
@@ -8166,7 +8166,7 @@ dioxin receptors	-	INTERMEDIARY_CONCEPT
 crushing skull injuries	-	DISEASE
 emphasize plant	-	FOOD
 soybean	soybean	FOOD
-joint inflammation	-	DISEASE
+joint inflammation	-	INTERMEDIARY_CONCEPT
 ovis	ovis	INTERMEDIARY_CONCEPT
 autosomal dominant parkinsonism	-	DISEASE
 armpits	armpit	INTERMEDIARY_CONCEPT
@@ -8184,7 +8184,7 @@ beta-carboline	beta-carboline	INTERMEDIARY_CONCEPT
 cardiovascular strokes	-	DISEASE
 male pattern baldness	-	DISEASE
 normal blood	-	INTERMEDIARY_CONCEPT
-caveman diet	-	FOOD
+caveman diet	-	INTERMEDIARY_CONCEPT
 cortisone	cortisone	INTERMEDIARY_CONCEPT
 cryptoxanthin	cryptoxanthin	INTERMEDIARY_CONCEPT
 toying	toy	INTERMEDIARY_CONCEPT
@@ -8209,13 +8209,13 @@ doctor visits	-	INTERMEDIARY_CONCEPT
 transitional meningiomas	-	DISEASE
 sugar water	-	FOOD
 respiratory infections	-	DISEASE
-turmeric extract	-	FOOD
+turmeric extract	-	INTERMEDIARY_CONCEPT
 starfield	starfield	INTERMEDIARY_CONCEPT
 citronella	citronella	FOOD
 eating meat	-	FOOD
 degenerative neurologic disorders	-	DISEASE
 sipping	sip	INTERMEDIARY_CONCEPT
-chicken obesity	-	FOOD
+chicken obesity	-	INTERMEDIARY_CONCEPT
 plant fat	-	INTERMEDIARY_CONCEPT
 tense	tense	INTERMEDIARY_CONCEPT
 meteorites	meteorite	INTERMEDIARY_CONCEPT
@@ -8237,7 +8237,7 @@ sint maarten	-	INTERMEDIARY_CONCEPT
 signalization	signalization	INTERMEDIARY_CONCEPT
 tearful	tearful	INTERMEDIARY_CONCEPT
 carcinogen	carcinogen	INTERMEDIARY_CONCEPT
-poultry slaughtering	-	FOOD
+poultry slaughtering	-	INTERMEDIARY_CONCEPT
 american dietetics association	-	INTERMEDIARY_CONCEPT
 medication	medication	INTERMEDIARY_CONCEPT
 igf-1 deficiency	-	DISEASE
@@ -8275,7 +8275,7 @@ cancer of skin	-	DISEASE
 crystallizes	crystallize	INTERMEDIARY_CONCEPT
 pyorrhea alveolaris	-	DISEASE
 australia	australia	INTERMEDIARY_CONCEPT
-raw bean	-	FOOD
+raw bean	-	INTERMEDIARY_CONCEPT
 kinks	kink	INTERMEDIARY_CONCEPT
 solanums	solanum	FOOD
 secondary	secondary	INTERMEDIARY_CONCEPT
@@ -8396,14 +8396,14 @@ physicians	physician	INTERMEDIARY_CONCEPT
 parkinsonian syndromes	-	DISEASE
 ph1 negative myeloid leukemia	-	DISEASE
 uterus cancers	-	DISEASE
-meat allergies	-	FOOD
+meat allergies	-	INTERMEDIARY_CONCEPT
 upper right	-	INTERMEDIARY_CONCEPT
 stevia rebaudianas	-	FOOD
 bone neoplasm	-	DISEASE
 diverticulitis	diverticulitis	DISEASE
 radioactivity	radioactivity	INTERMEDIARY_CONCEPT
 cyanopsia	cyanopsia	INTERMEDIARY_CONCEPT
-meat molecule	-	FOOD
+meat molecule	-	INTERMEDIARY_CONCEPT
 major review	-	INTERMEDIARY_CONCEPT
 red peppers	-	FOOD
 absorbate	absorbate	INTERMEDIARY_CONCEPT
@@ -8431,7 +8431,7 @@ neurodegenerative disorder	-	DISEASE
 childhood asthma	-	INTERMEDIARY_CONCEPT
 polyradiculoneuritides	polyradiculoneuritide	DISEASE
 top dermatology	-	INTERMEDIARY_CONCEPT
-vegetable-enhanced	vegetable-enhanced	FOOD
+vegetable-enhanced	vegetable-enhanced	INTERMEDIARY_CONCEPT
 potential dna	-	INTERMEDIARY_CONCEPT
 haem	haem	INTERMEDIARY_CONCEPT
 confinement operations	-	INTERMEDIARY_CONCEPT
@@ -8481,7 +8481,7 @@ cobalamins	cobalamin	INTERMEDIARY_CONCEPT
 common foxglove	-	FOOD
 sage	sage	INTERMEDIARY_CONCEPT
 draconian	draconian	INTERMEDIARY_CONCEPT
-low-vegetable	low-vegetable	FOOD
+low-vegetable	low-vegetable	INTERMEDIARY_CONCEPT
 acacia tree	-	FOOD
 yeast rice	-	FOOD
 disrupting chemical	-	INTERMEDIARY_CONCEPT
@@ -8534,7 +8534,7 @@ anacin 3	-	INTERMEDIARY_CONCEPT
 proteinurias	proteinuria	DISEASE
 gehrigs disease	-	DISEASE
 plant-based foods	-	FOOD
-mangosteen juice	-	FOOD
+mangosteen juice	-	INTERMEDIARY_CONCEPT
 insulin a chain	-	INTERMEDIARY_CONCEPT
 cytoplasmic membrane	-	INTERMEDIARY_CONCEPT
 fruit-shaped marshmallows	-	FOOD
@@ -8544,7 +8544,7 @@ upload	upload	INTERMEDIARY_CONCEPT
 leucocythemia	leucocythemia	DISEASE
 stents	stent	INTERMEDIARY_CONCEPT
 fetal bloods	-	INTERMEDIARY_CONCEPT
-shooting	shooting	FOOD
+shooting	shooting	INTERMEDIARY_CONCEPT
 near-death experience	-	DISEASE
 tea	tea	FOOD
 drunk	drunk	INTERMEDIARY_CONCEPT
@@ -8571,7 +8571,7 @@ hand-picked	hand-picked	INTERMEDIARY_CONCEPT
 berberi	berberi	FOOD
 czechoslovakia	czechoslovakia	INTERMEDIARY_CONCEPT
 telling	tell	INTERMEDIARY_CONCEPT
-xanthan gum	-	FOOD
+xanthan gum	-	INTERMEDIARY_CONCEPT
 authenticate	authenticate	INTERMEDIARY_CONCEPT
 ay 22 989	-	INTERMEDIARY_CONCEPT
 quick-pep	quick-pep	INTERMEDIARY_CONCEPT
@@ -8593,8 +8593,8 @@ health-aarp	health-aarp	INTERMEDIARY_CONCEPT
 lifestyle risk reduction	-	INTERMEDIARY_CONCEPT
 ekbom delusional parasitosis	-	DISEASE
 brown rice	-	FOOD
-cancer screening tests	-	DISEASE
-cancer reversal	-	DISEASE
+cancer screening tests	-	INTERMEDIARY_CONCEPT
+cancer reversal	-	INTERMEDIARY_CONCEPT
 temporal region trauma	-	DISEASE
 deep-venous thrombosis	-	DISEASE
 biometals	biometal	FOOD
@@ -8630,7 +8630,7 @@ peppermint	peppermint	FOOD
 saturnine tremors	-	DISEASE
 compounds include	-	INTERMEDIARY_CONCEPT
 broader benefits	-	INTERMEDIARY_CONCEPT
-broth made	-	FOOD
+broth made	-	INTERMEDIARY_CONCEPT
 protein consumption	-	INTERMEDIARY_CONCEPT
 flame-retardant chemicals	-	INTERMEDIARY_CONCEPT
 harm	harm	INTERMEDIARY_CONCEPT
@@ -8656,7 +8656,7 @@ vegetable intake	-	INTERMEDIARY_CONCEPT
 verruca	verruca	DISEASE
 liver dysfunctions	-	DISEASE
 lung neoplasm	-	DISEASE
-meatless mondays	-	FOOD
+meatless mondays	-	INTERMEDIARY_CONCEPT
 embanox	embanox	INTERMEDIARY_CONCEPT
 alpha waves	-	INTERMEDIARY_CONCEPT
 toxoplasma gondius	-	INTERMEDIARY_CONCEPT
@@ -8706,7 +8706,7 @@ polysorbates	polysorbate	INTERMEDIARY_CONCEPT
 larynx posterior commissures	-	INTERMEDIARY_CONCEPT
 periorbital headache	-	DISEASE
 include xenoestrogens	-	INTERMEDIARY_CONCEPT
-agave nectar	-	FOOD
+agave nectar	-	INTERMEDIARY_CONCEPT
 ancel keys	-	INTERMEDIARY_CONCEPT
 enliven	enliven	INTERMEDIARY_CONCEPT
 tor	tor	INTERMEDIARY_CONCEPT
@@ -8718,7 +8718,7 @@ gamma-hexachlorocyclohexane	gamma-hexachlorocyclohexane	INTERMEDIARY_CONCEPT
 plasma-cell myelomas	-	DISEASE
 antioxidant fruits	-	FOOD
 drugs	drug	INTERMEDIARY_CONCEPT
-lunchmeat	lunchmeat	FOOD
+lunchmeat	lunchmeat	INTERMEDIARY_CONCEPT
 small pinch	-	INTERMEDIARY_CONCEPT
 phyllanthus emblicas	-	FOOD
 gastro-oesophageal reflux	-	DISEASE
@@ -8754,7 +8754,7 @@ rheum	rheum	FOOD
 crushing skull injury	-	DISEASE
 aortic stiffness	-	INTERMEDIARY_CONCEPT
 buckwheat	buckwheat	FOOD
-coconut-derived emulsion	-	FOOD
+coconut-derived emulsion	-	INTERMEDIARY_CONCEPT
 normalities	normality	INTERMEDIARY_CONCEPT
 metabolism	metabolism	INTERMEDIARY_CONCEPT
 acidic	acidic	INTERMEDIARY_CONCEPT
@@ -8769,15 +8769,15 @@ amp activated protein kinase beta subunits	-	INTERMEDIARY_CONCEPT
 health promotion	-	INTERMEDIARY_CONCEPT
 sorrel	sorrel	FOOD
 pimpinella anisums	-	FOOD
-bloat	bloat	FOOD
+bloat	bloat	INTERMEDIARY_CONCEPT
 metabolite	metabolite	INTERMEDIARY_CONCEPT
-mustard powder	-	FOOD
+mustard powder	-	INTERMEDIARY_CONCEPT
 ortho hydroxybenzoic acid	-	INTERMEDIARY_CONCEPT
 step test	-	INTERMEDIARY_CONCEPT
 vicia faba	-	FOOD
 galactose epimerase deficiency	-	DISEASE
 deglutition	deglutition	INTERMEDIARY_CONCEPT
-low-antioxidant diet	-	FOOD
+low-antioxidant diet	-	INTERMEDIARY_CONCEPT
 alendronate	alendronate	INTERMEDIARY_CONCEPT
 jelly	jelly	FOOD
 produce section	-	INTERMEDIARY_CONCEPT
@@ -8824,10 +8824,10 @@ cell growth in number	-	INTERMEDIARY_CONCEPT
 semi-vegetarians	semi-vegetarian	INTERMEDIARY_CONCEPT
 somatic cell	-	INTERMEDIARY_CONCEPT
 bris taxol	-	INTERMEDIARY_CONCEPT
-food-poisoning	food-poisoning	DISEASE
+food-poisoning	food-poisoning	INTERMEDIARY_CONCEPT
 green smoothie	-	INTERMEDIARY_CONCEPT
 gynoid lipodystrophy	-	INTERMEDIARY_CONCEPT
-lavender oil	-	FOOD
+lavender oil	-	INTERMEDIARY_CONCEPT
 tvp	tvp	INTERMEDIARY_CONCEPT
 aspirin use	-	INTERMEDIARY_CONCEPT
 ovary cancer	-	DISEASE
@@ -8841,7 +8841,7 @@ ate tuna	-	INTERMEDIARY_CONCEPT
 volunteerism	volunteerism	INTERMEDIARY_CONCEPT
 small intestine	-	INTERMEDIARY_CONCEPT
 gerontotoxin	gerontotoxin	INTERMEDIARY_CONCEPT
-mycobacterium avium paratuberculosis	-	DISEASE
+mycobacterium avium paratuberculosis	-	INTERMEDIARY_CONCEPT
 smam-1	smam-1	INTERMEDIARY_CONCEPT
 low folate	-	INTERMEDIARY_CONCEPT
 afzelia	afzelia	FOOD
@@ -8851,7 +8851,7 @@ thrombus	thrombus	DISEASE
 new research	-	INTERMEDIARY_CONCEPT
 insurance beneficiaries	-	INTERMEDIARY_CONCEPT
 unilateral headache	-	DISEASE
-teat	teat	FOOD
+teat	teat	INTERMEDIARY_CONCEPT
 microbial drug resistances	-	INTERMEDIARY_CONCEPT
 tear	tear	INTERMEDIARY_CONCEPT
 barbequing	barbeque	INTERMEDIARY_CONCEPT
@@ -8868,8 +8868,8 @@ pimpinella	pimpinella	FOOD
 sesame oil	-	FOOD
 services	service	INTERMEDIARY_CONCEPT
 lignans	lignan	INTERMEDIARY_CONCEPT
-meat institute	-	FOOD
-disease management	-	DISEASE
+meat institute	-	INTERMEDIARY_CONCEPT
+disease management	-	INTERMEDIARY_CONCEPT
 institutional tax	-	INTERMEDIARY_CONCEPT
 cricetinae	cricetinae	INTERMEDIARY_CONCEPT
 speech	speech	INTERMEDIARY_CONCEPT
@@ -8883,7 +8883,7 @@ case-compeer study	-	INTERMEDIARY_CONCEPT
 primary malignant brain neoplasms	-	DISEASE
 fagopyrum sagittatum	-	FOOD
 facts label	-	INTERMEDIARY_CONCEPT
-acne-promoting	acne-promoting	DISEASE
+acne-promoting	acne-promoting	INTERMEDIARY_CONCEPT
 lower prevalence	-	INTERMEDIARY_CONCEPT
 industry memo	-	INTERMEDIARY_CONCEPT
 breast lumps	-	INTERMEDIARY_CONCEPT
@@ -8954,7 +8954,7 @@ teen	teen	INTERMEDIARY_CONCEPT
 consumer protection scientific committee on food	-	FOOD
 bypass	bypass	INTERMEDIARY_CONCEPT
 institute funded	-	INTERMEDIARY_CONCEPT
-meal on wheels	-	FOOD
+meal on wheels	-	INTERMEDIARY_CONCEPT
 tv dinners	-	FOOD
 conveniences	convenience	INTERMEDIARY_CONCEPT
 3 hydroxy l tyrosine	-	INTERMEDIARY_CONCEPT
@@ -8962,7 +8962,7 @@ recipient	recipient	INTERMEDIARY_CONCEPT
 celebration meal	-	FOOD
 soda consists	-	INTERMEDIARY_CONCEPT
 aging process	-	INTERMEDIARY_CONCEPT
-meateater	meateater	FOOD
+meateater	meateater	INTERMEDIARY_CONCEPT
 oestrogenic	oestrogenic	INTERMEDIARY_CONCEPT
 waste disposal facility	-	INTERMEDIARY_CONCEPT
 rose berries	-	FOOD
@@ -8999,7 +8999,7 @@ black currant	-	FOOD
 life style induced illness	-	INTERMEDIARY_CONCEPT
 dietary supplement	-	FOOD
 wild radish	-	FOOD
-traditional diet	-	FOOD
+traditional diet	-	INTERMEDIARY_CONCEPT
 congenital defect	-	DISEASE
 comet (astronomy)	-	INTERMEDIARY_CONCEPT
 industrial contaminants	-	INTERMEDIARY_CONCEPT
@@ -9020,7 +9020,7 @@ adhesives	adhesive	INTERMEDIARY_CONCEPT
 non-profit organization	-	INTERMEDIARY_CONCEPT
 ad beta-casein	-	INTERMEDIARY_CONCEPT
 good bacteria	-	INTERMEDIARY_CONCEPT
-diamorf	diamorf	DISEASE
+diamorf	diamorf	INTERMEDIARY_CONCEPT
 supports immunity	-	INTERMEDIARY_CONCEPT
 clinical pharmacist	-	INTERMEDIARY_CONCEPT
 rachitides	rachitide	DISEASE
@@ -9035,7 +9035,7 @@ french fries	-	FOOD
 benjamin spock	-	INTERMEDIARY_CONCEPT
 take b12	-	INTERMEDIARY_CONCEPT
 luteolin	luteolin	INTERMEDIARY_CONCEPT
-cancer stem cell	-	DISEASE
+cancer stem cell	-	INTERMEDIARY_CONCEPT
 agaves	agave	FOOD
 natural vitamin	-	FOOD
 fake meat	-	FOOD
@@ -9044,8 +9044,8 @@ respiratory diaphragm	-	INTERMEDIARY_CONCEPT
 institute last	-	INTERMEDIARY_CONCEPT
 infant gynecomastia	-	DISEASE
 electric convulsive therapies	-	INTERMEDIARY_CONCEPT
-drinking	drinking	FOOD
-mint leaves	-	FOOD
+drinking	drinking	INTERMEDIARY_CONCEPT
+mint leaves	-	INTERMEDIARY_CONCEPT
 anus	anus	INTERMEDIARY_CONCEPT
 zedoary zedoarias	-	FOOD
 analogously	analogously	INTERMEDIARY_CONCEPT
@@ -9143,7 +9143,7 @@ exceeding safety	-	INTERMEDIARY_CONCEPT
 algae blooms	-	INTERMEDIARY_CONCEPT
 radiating pains	-	DISEASE
 current batch	-	INTERMEDIARY_CONCEPT
-dietary factors	-	FOOD
+dietary factors	-	INTERMEDIARY_CONCEPT
 gastrocnemius muscle	-	INTERMEDIARY_CONCEPT
 gala apples	-	FOOD
 2 dipyridyl	-	INTERMEDIARY_CONCEPT
@@ -9170,7 +9170,7 @@ eugenia malaccensis	-	FOOD
 safflower oil	-	FOOD
 protection scientific	-	INTERMEDIARY_CONCEPT
 autoimmune	autoimmune	INTERMEDIARY_CONCEPT
-applebee	applebee	FOOD
+applebee	applebee	INTERMEDIARY_CONCEPT
 urticarias	urticarias	DISEASE
 published last	-	INTERMEDIARY_CONCEPT
 proper amount	-	INTERMEDIARY_CONCEPT
@@ -9191,16 +9191,16 @@ foreign object	-	DISEASE
 schizophreniform disorders	-	DISEASE
 population policies	-	INTERMEDIARY_CONCEPT
 focal seizures	-	DISEASE
-stone age diet	-	FOOD
+stone age diet	-	INTERMEDIARY_CONCEPT
 vegetate	vegetate	INTERMEDIARY_CONCEPT
 dicrostonyx	dicrostonyx	INTERMEDIARY_CONCEPT
 bottled water	-	FOOD
 lower tract	-	INTERMEDIARY_CONCEPT
-cancer-promoting	cancer-promoting	DISEASE
+cancer-promoting	cancer-promoting	INTERMEDIARY_CONCEPT
 sunchokes	sunchoke	FOOD
 reversing cognitive	-	INTERMEDIARY_CONCEPT
 acai berry powder	-	INTERMEDIARY_CONCEPT
-apples institute	-	FOOD
+apples institute	-	INTERMEDIARY_CONCEPT
 optics	optics	INTERMEDIARY_CONCEPT
 pediatric dentist	-	INTERMEDIARY_CONCEPT
 arachis hypogaea	-	FOOD
@@ -9223,7 +9223,7 @@ mustards	mustard	FOOD
 elettaria	elettaria	FOOD
 acetic acid glacial	-	INTERMEDIARY_CONCEPT
 non-vegetarian	non-vegetarian	INTERMEDIARY_CONCEPT
-cancer victims	-	DISEASE
+cancer victims	-	INTERMEDIARY_CONCEPT
 digoxine nativelle	-	INTERMEDIARY_CONCEPT
 measuring food	-	FOOD
 blossoms	blossom	FOOD
@@ -9234,7 +9234,7 @@ aggressive forms	-	INTERMEDIARY_CONCEPT
 ninth leading	-	INTERMEDIARY_CONCEPT
 book chapters	-	INTERMEDIARY_CONCEPT
 bacteriophages	bacteriophage	DISEASE
-unwanted bleeding	-	DISEASE
+unwanted bleeding	-	INTERMEDIARY_CONCEPT
 meat sparingly	-	INTERMEDIARY_CONCEPT
 ananas	ananas	FOOD
 endocrine breast disease	-	DISEASE
@@ -9299,7 +9299,7 @@ cosmic rays	-	INTERMEDIARY_CONCEPT
 operative procedures	-	INTERMEDIARY_CONCEPT
 fortifying	fortify	INTERMEDIARY_CONCEPT
 vidine	vidine	INTERMEDIARY_CONCEPT
-inappropriate growth hormone secretion syndrome	-	DISEASE
+inappropriate growth hormone secretion syndrome	-	INTERMEDIARY_CONCEPT
 over-the-counter drugs	-	INTERMEDIARY_CONCEPT
 fifth phacomatosis	-	DISEASE
 feed samples	-	INTERMEDIARY_CONCEPT
@@ -9322,7 +9322,7 @@ stickers	sticker	FOOD
 grain	grain	INTERMEDIARY_CONCEPT
 oxygen	oxygen	INTERMEDIARY_CONCEPT
 petroleums	petroleum	INTERMEDIARY_CONCEPT
-chronic inflammation	-	DISEASE
+chronic inflammation	-	INTERMEDIARY_CONCEPT
 estragole	estragole	INTERMEDIARY_CONCEPT
 hardening of the arteries	-	INTERMEDIARY_CONCEPT
 uti	uti	INTERMEDIARY_CONCEPT
@@ -9330,8 +9330,8 @@ midazolam maleate	-	INTERMEDIARY_CONCEPT
 penile bone	-	INTERMEDIARY_CONCEPT
 picking	pick	INTERMEDIARY_CONCEPT
 numb	numb	INTERMEDIARY_CONCEPT
-antioxidant diet	-	FOOD
-nutate	nutate	FOOD
+antioxidant diet	-	INTERMEDIARY_CONCEPT
+nutate	nutate	INTERMEDIARY_CONCEPT
 poisoner	poisoner	INTERMEDIARY_CONCEPT
 menstrual periods	-	INTERMEDIARY_CONCEPT
 adp translocase	-	INTERMEDIARY_CONCEPT
@@ -9346,12 +9346,12 @@ disseminated sclerosis	-	DISEASE
 monkfish	monkfish	FOOD
 no pun	-	INTERMEDIARY_CONCEPT
 wrong-patient surgery	-	INTERMEDIARY_CONCEPT
-treat chronic	-	FOOD
+treat chronic	-	INTERMEDIARY_CONCEPT
 acute diarrheal	-	INTERMEDIARY_CONCEPT
 semantic memory disorders	-	DISEASE
 gastro oesophageal reflux	-	DISEASE
 chronic fatigue fibromyalgia syndrome	-	DISEASE
-chicken consumption	-	FOOD
+chicken consumption	-	INTERMEDIARY_CONCEPT
 organic consumers	-	INTERMEDIARY_CONCEPT
 smoking	smoking	INTERMEDIARY_CONCEPT
 squashe	squashe	FOOD
@@ -9383,7 +9383,7 @@ bone and bones	-	INTERMEDIARY_CONCEPT
 happier	happier	INTERMEDIARY_CONCEPT
 promotional items	-	INTERMEDIARY_CONCEPT
 seitan	seitan	INTERMEDIARY_CONCEPT
-drink consumption	-	FOOD
+drink consumption	-	INTERMEDIARY_CONCEPT
 artificial sweetener	-	FOOD
 breastfed infants	-	INTERMEDIARY_CONCEPT
 metabolife	metabolife	INTERMEDIARY_CONCEPT
@@ -9393,7 +9393,7 @@ soft drink	-	FOOD
 endometriosis	endometriosis	DISEASE
 internal content	-	INTERMEDIARY_CONCEPT
 egg consumption	-	INTERMEDIARY_CONCEPT
-meat-induced	meat-induced	FOOD
+meat-induced	meat-induced	INTERMEDIARY_CONCEPT
 revatio	revatio	INTERMEDIARY_CONCEPT
 dexitac	dexitac	INTERMEDIARY_CONCEPT
 fecal pathogens	-	INTERMEDIARY_CONCEPT
@@ -9405,7 +9405,7 @@ fibroid tumors	-	DISEASE
 roundup	roundup	INTERMEDIARY_CONCEPT
 amp-activated protein kinase gamma subunit	-	INTERMEDIARY_CONCEPT
 cooking methods	-	INTERMEDIARY_CONCEPT
-low-fiber diet	-	FOOD
+low-fiber diet	-	INTERMEDIARY_CONCEPT
 malignant neoplasm of breast	-	DISEASE
 mao-a	mao-a	INTERMEDIARY_CONCEPT
 herbalism	herbalism	INTERMEDIARY_CONCEPT
@@ -9423,7 +9423,7 @@ virgin olive	-	FOOD
 car sickness	-	DISEASE
 kappa-carrageenan	kappa-carrageenan	INTERMEDIARY_CONCEPT
 womb	womb	INTERMEDIARY_CONCEPT
-beeturia	beeturia	FOOD
+beeturia	beeturia	INTERMEDIARY_CONCEPT
 loss supplement	-	INTERMEDIARY_CONCEPT
 brain vascular accidents	-	DISEASE
 workers	worker	INTERMEDIARY_CONCEPT
@@ -9459,7 +9459,7 @@ white petrolatum	-	INTERMEDIARY_CONCEPT
 whole-grain intake	-	INTERMEDIARY_CONCEPT
 perceived level	-	INTERMEDIARY_CONCEPT
 sport medicine	-	INTERMEDIARY_CONCEPT
-kiwifruit	kiwifruit	FOOD
+kiwifruit	kiwifruit	INTERMEDIARY_CONCEPT
 farm workers	-	INTERMEDIARY_CONCEPT
 cherry plum trees	-	FOOD
 skin yellowness	-	INTERMEDIARY_CONCEPT
@@ -9474,7 +9474,7 @@ undergoing chemotherapy	-	INTERMEDIARY_CONCEPT
 ractopamine	ractopamine	INTERMEDIARY_CONCEPT
 thyroid	thyroid	INTERMEDIARY_CONCEPT
 nuts	nut	FOOD
-vegetable families	-	FOOD
+vegetable families	-	INTERMEDIARY_CONCEPT
 enforcing public	-	INTERMEDIARY_CONCEPT
 quality-adjusted life years	-	INTERMEDIARY_CONCEPT
 genital organ	-	INTERMEDIARY_CONCEPT
@@ -9491,7 +9491,7 @@ arteriography	arteriography	INTERMEDIARY_CONCEPT
 mn superoxide dismutase	-	INTERMEDIARY_CONCEPT
 glucose tolerance	-	INTERMEDIARY_CONCEPT
 contains theanine	-	INTERMEDIARY_CONCEPT
-cadaverine	cadaverine	DISEASE
+cadaverine	cadaverine	INTERMEDIARY_CONCEPT
 fiber-eating bacteria	-	INTERMEDIARY_CONCEPT
 heart study	-	INTERMEDIARY_CONCEPT
 england journal	-	INTERMEDIARY_CONCEPT
@@ -9507,7 +9507,7 @@ starved	starve	INTERMEDIARY_CONCEPT
 undaria	undaria	INTERMEDIARY_CONCEPT
 malignant epithelial tumor	-	DISEASE
 incidence study	-	INTERMEDIARY_CONCEPT
-cancer treatment	-	DISEASE
+cancer treatment	-	INTERMEDIARY_CONCEPT
 marsh mallow	-	FOOD
 vulva cancers	-	DISEASE
 gargle	gargle	INTERMEDIARY_CONCEPT
@@ -9533,7 +9533,7 @@ coronaries	coronary	INTERMEDIARY_CONCEPT
 wort	wort	FOOD
 flavorful	flavorful	INTERMEDIARY_CONCEPT
 zinc-containing nasal	-	INTERMEDIARY_CONCEPT
-treating alzheimer	-	FOOD
+treating alzheimer	-	INTERMEDIARY_CONCEPT
 tinted	tint	INTERMEDIARY_CONCEPT
 tween 20	-	INTERMEDIARY_CONCEPT
 anti-smoking	anti-smoking	INTERMEDIARY_CONCEPT
@@ -9591,7 +9591,7 @@ ischemic heart diseases	-	DISEASE
 intervertebral disc degeneration	-	DISEASE
 stem vegetables	-	FOOD
 octopuses	octopus	FOOD
-migraine sufferers	-	DISEASE
+migraine sufferers	-	INTERMEDIARY_CONCEPT
 portfolio	portfolio	INTERMEDIARY_CONCEPT
 tisane	tisane	FOOD
 gold kiwi	-	INTERMEDIARY_CONCEPT
@@ -9604,7 +9604,7 @@ cow's milk	-	FOOD
 weight loss	-	DISEASE
 skid row alcoholics	-	INTERMEDIARY_CONCEPT
 fibrous meningiomas	-	DISEASE
-anti-inflammation	anti-inflammation	DISEASE
+anti-inflammation	anti-inflammation	INTERMEDIARY_CONCEPT
 pentastomidas	pentastomida	INTERMEDIARY_CONCEPT
 cavity	cavity	INTERMEDIARY_CONCEPT
 ketogenic agent ac-1202	-	INTERMEDIARY_CONCEPT
@@ -9613,7 +9613,7 @@ cold remedy	-	INTERMEDIARY_CONCEPT
 endometrioses	endometriose	DISEASE
 texturized soy protein	-	FOOD
 acetamidophenol	acetamidophenol	INTERMEDIARY_CONCEPT
-diet coke	-	FOOD
+diet coke	-	INTERMEDIARY_CONCEPT
 reticulolymphosarcomas	reticulolymphosarcoma	DISEASE
 federal authorities	-	INTERMEDIARY_CONCEPT
 antidepressant drugs	-	INTERMEDIARY_CONCEPT
@@ -9661,7 +9661,7 @@ cheerios	cheerio	INTERMEDIARY_CONCEPT
 marine glaciers	-	INTERMEDIARY_CONCEPT
 carbohydrates	carbohydrate	INTERMEDIARY_CONCEPT
 long-chain omega	-	INTERMEDIARY_CONCEPT
-vitamin d supplements	-	FOOD
+vitamin d supplements	-	INTERMEDIARY_CONCEPT
 ancestral diets	-	INTERMEDIARY_CONCEPT
 veggy	veggy	INTERMEDIARY_CONCEPT
 vertiginous seizures	-	DISEASE
@@ -9670,20 +9670,20 @@ conundrum	conundrum	INTERMEDIARY_CONCEPT
 y bearing sperm	-	INTERMEDIARY_CONCEPT
 dyes	dye	INTERMEDIARY_CONCEPT
 dyer	dyer	INTERMEDIARY_CONCEPT
-jellybeans	jellybean	FOOD
+jellybeans	jellybean	INTERMEDIARY_CONCEPT
 topectomies	topectomy	INTERMEDIARY_CONCEPT
 ursus	ursus	INTERMEDIARY_CONCEPT
 adolescence	adolescence	INTERMEDIARY_CONCEPT
 gerson	gerson	INTERMEDIARY_CONCEPT
 whortleberries	whortleberry	FOOD
-banned soy	-	FOOD
-cancer rates	-	DISEASE
+banned soy	-	INTERMEDIARY_CONCEPT
+cancer rates	-	INTERMEDIARY_CONCEPT
 chronic pain	-	DISEASE
 amyloidosis	amyloidosis	DISEASE
 centrum	centrum	INTERMEDIARY_CONCEPT
 sensitizer	sensitizer	INTERMEDIARY_CONCEPT
 hyperventilation syncope	-	DISEASE
-salmonella-positive chicken	-	FOOD
+salmonella-positive chicken	-	INTERMEDIARY_CONCEPT
 epinephrine hydrogen tartrate	-	INTERMEDIARY_CONCEPT
 mitochondrial adp atp carriers	-	INTERMEDIARY_CONCEPT
 beta-alanylhistidine	beta-alanylhistidine	INTERMEDIARY_CONCEPT
@@ -9758,7 +9758,7 @@ complainer	complainer	INTERMEDIARY_CONCEPT
 bullet	bullet	INTERMEDIARY_CONCEPT
 lyme borreliosis	-	DISEASE
 farm worker	-	INTERMEDIARY_CONCEPT
-treating constipation	-	FOOD
+treating constipation	-	INTERMEDIARY_CONCEPT
 plastic packaging	-	INTERMEDIARY_CONCEPT
 oncogens	oncogen	INTERMEDIARY_CONCEPT
 seminal fluid	-	INTERMEDIARY_CONCEPT
@@ -9783,16 +9783,16 @@ nuclear weapons testings	-	INTERMEDIARY_CONCEPT
 endocannabinoids	endocannabinoid	INTERMEDIARY_CONCEPT
 autophagies	autophagy	INTERMEDIARY_CONCEPT
 positron emission tomography	-	INTERMEDIARY_CONCEPT
-fatigue syndrome	-	DISEASE
-cancer-producing substances	-	DISEASE
+fatigue syndrome	-	INTERMEDIARY_CONCEPT
+cancer-producing substances	-	INTERMEDIARY_CONCEPT
 excess cancer	-	DISEASE
 oral lesions	-	INTERMEDIARY_CONCEPT
 calcium absorption	-	INTERMEDIARY_CONCEPT
 metastasis suppressor gene	-	INTERMEDIARY_CONCEPT
-mild dehydration	-	DISEASE
+mild dehydration	-	INTERMEDIARY_CONCEPT
 neurocysticercosis	neurocysticercosis	DISEASE
 variant creutzfeldt-jakob disease	-	DISEASE
-flax seed powder	-	FOOD
+flax seed powder	-	INTERMEDIARY_CONCEPT
 open head injuries	-	DISEASE
 pickled foods	-	FOOD
 pro oxidants	-	INTERMEDIARY_CONCEPT
@@ -9819,7 +9819,7 @@ singer	singer	INTERMEDIARY_CONCEPT
 male breast carcinoma	-	DISEASE
 cigarette smoking	-	INTERMEDIARY_CONCEPT
 propaphenin	propaphenin	INTERMEDIARY_CONCEPT
-microscopic greens	-	FOOD
+microscopic greens	-	INTERMEDIARY_CONCEPT
 zea mays	-	FOOD
 hypericum	hypericum	FOOD
 adult-onset	adult-onset	INTERMEDIARY_CONCEPT
@@ -9857,7 +9857,7 @@ digitization	digitization	INTERMEDIARY_CONCEPT
 gastroesophageal reflux	-	DISEASE
 breast-conserving surgery	-	INTERMEDIARY_CONCEPT
 tumor of rete testis	-	DISEASE
-chicken products	-	FOOD
+chicken products	-	INTERMEDIARY_CONCEPT
 keynote	keynote	INTERMEDIARY_CONCEPT
 rna tumor viruses	-	DISEASE
 daily intake	-	INTERMEDIARY_CONCEPT
@@ -9907,7 +9907,7 @@ complying	comply	INTERMEDIARY_CONCEPT
 electric lighting	-	INTERMEDIARY_CONCEPT
 plantaris muscle	-	INTERMEDIARY_CONCEPT
 male sub fertility	-	DISEASE
-mediterranean-type diet	-	FOOD
+mediterranean-type diet	-	INTERMEDIARY_CONCEPT
 right nostril	-	INTERMEDIARY_CONCEPT
 mild cognitive impairment	-	DISEASE
 leukemogenic viruses	-	DISEASE
@@ -9928,7 +9928,7 @@ groundbreaking science	-	INTERMEDIARY_CONCEPT
 canderel	canderel	INTERMEDIARY_CONCEPT
 alvit 55	-	INTERMEDIARY_CONCEPT
 average western	-	INTERMEDIARY_CONCEPT
-dash diet	-	FOOD
+dash diet	-	INTERMEDIARY_CONCEPT
 hemolytic-uremic syndrome	-	DISEASE
 adolescents	adolescent	INTERMEDIARY_CONCEPT
 polyphagia	polyphagia	DISEASE
@@ -9943,7 +9943,7 @@ carcinoma of endometrium	-	DISEASE
 consultation and referral	-	INTERMEDIARY_CONCEPT
 food store	-	INTERMEDIARY_CONCEPT
 alkalize	alkalize	INTERMEDIARY_CONCEPT
-death rates	-	DISEASE
+death rates	-	INTERMEDIARY_CONCEPT
 zingiber officinales	-	FOOD
 memory function	-	INTERMEDIARY_CONCEPT
 triacylglycerol	triacylglycerol	INTERMEDIARY_CONCEPT
@@ -9983,7 +9983,7 @@ basil grown	-	INTERMEDIARY_CONCEPT
 clonal deletion	-	INTERMEDIARY_CONCEPT
 arterialise	arterialise	INTERMEDIARY_CONCEPT
 sweetening	sweeten	FOOD
-meat group	-	FOOD
+meat group	-	INTERMEDIARY_CONCEPT
 nested case-control studies	-	INTERMEDIARY_CONCEPT
 neurocysticercoses	neurocysticercose	DISEASE
 world pandemic	-	INTERMEDIARY_CONCEPT
@@ -10021,7 +10021,7 @@ yellowness	yellowness	INTERMEDIARY_CONCEPT
 safflower	safflower	FOOD
 respiratory systems	-	INTERMEDIARY_CONCEPT
 poor antioxidant	-	INTERMEDIARY_CONCEPT
-lupus	lupus	DISEASE
+lupus	lupus	INTERMEDIARY_CONCEPT
 earl grey tea	-	FOOD
 digital computer	-	INTERMEDIARY_CONCEPT
 hummus	hummus	FOOD
@@ -10036,7 +10036,7 @@ green	green	INTERMEDIARY_CONCEPT
 anise tea	-	FOOD
 increase ldl	-	INTERMEDIARY_CONCEPT
 tumor initiating cell	-	INTERMEDIARY_CONCEPT
-plant-based diet	-	FOOD
+plant-based diet	-	INTERMEDIARY_CONCEPT
 calm-x	calm-x	INTERMEDIARY_CONCEPT
 african	african	INTERMEDIARY_CONCEPT
 zone therapies	-	INTERMEDIARY_CONCEPT
@@ -10049,17 +10049,17 @@ abdominal pains	-	DISEASE
 plaything	plaything	INTERMEDIARY_CONCEPT
 lanacordin	lanacordin	INTERMEDIARY_CONCEPT
 mesquites	mesquite	FOOD
-dietary guidelines	-	FOOD
+dietary guidelines	-	INTERMEDIARY_CONCEPT
 consuming fish	-	INTERMEDIARY_CONCEPT
 raft	raft	INTERMEDIARY_CONCEPT
 single seizure	-	DISEASE
 atropa belladonna	-	FOOD
 bind bile	-	INTERMEDIARY_CONCEPT
-scurvy rates	-	DISEASE
+scurvy rates	-	INTERMEDIARY_CONCEPT
 white button	-	INTERMEDIARY_CONCEPT
 hemigoxine nativelle	-	INTERMEDIARY_CONCEPT
 portobello	portobello	INTERMEDIARY_CONCEPT
-garbanzo bean	-	FOOD
+garbanzo bean	-	INTERMEDIARY_CONCEPT
 fe zn superoxide dismutase	-	INTERMEDIARY_CONCEPT
 seeder	seeder	INTERMEDIARY_CONCEPT
 suicide	suicide	INTERMEDIARY_CONCEPT
@@ -10079,26 +10079,26 @@ curcuma zedoaria	-	FOOD
 chocolate	chocolate	FOOD
 trans fat	-	INTERMEDIARY_CONCEPT
 tnfalpha	tnfalpha	INTERMEDIARY_CONCEPT
-vitamin a	-	FOOD
+vitamin a	-	INTERMEDIARY_CONCEPT
 cassias	cassia	FOOD
-vitamin c	-	FOOD
+vitamin c	-	INTERMEDIARY_CONCEPT
 kappa casein	-	INTERMEDIARY_CONCEPT
-vitamin d	-	FOOD
+vitamin d	-	INTERMEDIARY_CONCEPT
 portion	portion	INTERMEDIARY_CONCEPT
-vitamin e	-	FOOD
+vitamin e	-	INTERMEDIARY_CONCEPT
 raw cranberries	-	FOOD
-vitamin f	-	FOOD
+vitamin f	-	INTERMEDIARY_CONCEPT
 familial creutzfeldt-jakob diseases	-	DISEASE
 convincing vegetarians	-	INTERMEDIARY_CONCEPT
-vitamin g	-	FOOD
+vitamin g	-	INTERMEDIARY_CONCEPT
 mucous colitides	-	DISEASE
 nanomole	nanomole	INTERMEDIARY_CONCEPT
 pop-tart	pop-tart	INTERMEDIARY_CONCEPT
 furry pets	-	INTERMEDIARY_CONCEPT
-vitamin k	-	FOOD
+vitamin k	-	INTERMEDIARY_CONCEPT
 cruciferous phytonutrients	-	INTERMEDIARY_CONCEPT
 pollution straight	-	INTERMEDIARY_CONCEPT
-vitamin m	-	FOOD
+vitamin m	-	INTERMEDIARY_CONCEPT
 accumulated research	-	INTERMEDIARY_CONCEPT
 receiving	receive	INTERMEDIARY_CONCEPT
 hepatic failure	-	DISEASE
@@ -10136,7 +10136,7 @@ food samples	-	INTERMEDIARY_CONCEPT
 snacks	snack	FOOD
 rectum neoplasm	-	DISEASE
 puberties	puberty	INTERMEDIARY_CONCEPT
-butcher's warts	-	DISEASE
+butcher's warts	-	INTERMEDIARY_CONCEPT
 shiitake mushrooms	-	FOOD
 rye bread	-	FOOD
 alkaline	alkaline	INTERMEDIARY_CONCEPT
@@ -10163,7 +10163,7 @@ cardiovascular heath	-	INTERMEDIARY_CONCEPT
 defecations	defecation	INTERMEDIARY_CONCEPT
 radiation exposure	-	INTERMEDIARY_CONCEPT
 human mammary carcinomas	-	DISEASE
-berberine	berberine	FOOD
+berberine	berberine	INTERMEDIARY_CONCEPT
 colitides	colitide	DISEASE
 dietary sugars	-	FOOD
 adhatoda	adhatoda	FOOD
@@ -10179,7 +10179,7 @@ extraintestinal pathogenic e. coli	-	INTERMEDIARY_CONCEPT
 win	win	INTERMEDIARY_CONCEPT
 β-casomorphin	β-casomorphin	INTERMEDIARY_CONCEPT
 autoimmune disorders	-	DISEASE
-virulent strain	-	DISEASE
+virulent strain	-	INTERMEDIARY_CONCEPT
 rectal cancer	-	DISEASE
 graphitisation	graphitisation	INTERMEDIARY_CONCEPT
 salmonella outbreak	-	INTERMEDIARY_CONCEPT
@@ -10228,19 +10228,19 @@ proxy	proxy	INTERMEDIARY_CONCEPT
 intrinsic pathway apoptosis	-	INTERMEDIARY_CONCEPT
 immortalise	immortalise	INTERMEDIARY_CONCEPT
 risk reduction behaviors	-	INTERMEDIARY_CONCEPT
-include soymilk	-	FOOD
+include soymilk	-	INTERMEDIARY_CONCEPT
 5-alpha	5-alpha	INTERMEDIARY_CONCEPT
 pancreatitis	pancreatitis	DISEASE
 bony apophysis	-	INTERMEDIARY_CONCEPT
 exudation	exudation	INTERMEDIARY_CONCEPT
-tarragon extracts	-	FOOD
+tarragon extracts	-	INTERMEDIARY_CONCEPT
 degenerative neurologic disorder	-	DISEASE
 virus	virus	INTERMEDIARY_CONCEPT
 cuttlefish	cuttlefish	INTERMEDIARY_CONCEPT
 delivery person	-	INTERMEDIARY_CONCEPT
 atomic bombs	-	INTERMEDIARY_CONCEPT
 honeybush tea	-	FOOD
-cancer viruses	-	DISEASE
+cancer viruses	-	INTERMEDIARY_CONCEPT
 glibenclamide	glibenclamide	INTERMEDIARY_CONCEPT
 tooth	tooth	INTERMEDIARY_CONCEPT
 amomum cardamomums	-	FOOD
@@ -10278,7 +10278,7 @@ steatosis of liver	-	DISEASE
 testoderm	testoderm	INTERMEDIARY_CONCEPT
 sweet orange	-	FOOD
 allspices	allspice	FOOD
-take multivitamin	-	FOOD
+take multivitamin	-	INTERMEDIARY_CONCEPT
 mercury-containing fillings	-	INTERMEDIARY_CONCEPT
 aspartame	aspartame	FOOD
 visceral obesity	-	DISEASE
@@ -10286,7 +10286,7 @@ quetelet's index	-	INTERMEDIARY_CONCEPT
 bony apophyses	-	INTERMEDIARY_CONCEPT
 papanicolaou smear	-	INTERMEDIARY_CONCEPT
 intrinsic pathway apoptoses	-	INTERMEDIARY_CONCEPT
-spice group	-	FOOD
+spice group	-	INTERMEDIARY_CONCEPT
 insulin-like growth factor 1	-	INTERMEDIARY_CONCEPT
 salon	salon	INTERMEDIARY_CONCEPT
 pentastomida	pentastomida	INTERMEDIARY_CONCEPT
@@ -10300,7 +10300,7 @@ intracranial central nervous system disorders	-	DISEASE
 chlorinated diphenyl ethers	-	INTERMEDIARY_CONCEPT
 betel nut	-	FOOD
 immune response	-	INTERMEDIARY_CONCEPT
-bean group	-	FOOD
+bean group	-	INTERMEDIARY_CONCEPT
 lorazepam neuraxpharm brand	-	INTERMEDIARY_CONCEPT
 cancer of the tonsil	-	DISEASE
 overconsumption	overconsumption	INTERMEDIARY_CONCEPT
@@ -10319,7 +10319,7 @@ healthy weight	-	INTERMEDIARY_CONCEPT
 bleminol	bleminol	INTERMEDIARY_CONCEPT
 chewing	chew	INTERMEDIARY_CONCEPT
 fish-oil	fish-oil	INTERMEDIARY_CONCEPT
-turmeric yellow	-	FOOD
+turmeric yellow	-	INTERMEDIARY_CONCEPT
 rash	rash	DISEASE
 primary growth hormone resistance	-	DISEASE
 endotenons	endotenon	INTERMEDIARY_CONCEPT
@@ -10327,7 +10327,7 @@ menstrual secretory phase	-	INTERMEDIARY_CONCEPT
 human males	-	INTERMEDIARY_CONCEPT
 change brain	-	INTERMEDIARY_CONCEPT
 voice box health	-	INTERMEDIARY_CONCEPT
-jellybean	jellybean	FOOD
+jellybean	jellybean	INTERMEDIARY_CONCEPT
 cat contacts	-	INTERMEDIARY_CONCEPT
 micristin	micristin	INTERMEDIARY_CONCEPT
 hibiscus cannabinus	-	FOOD
@@ -10349,12 +10349,12 @@ rabies virus	-	DISEASE
 noses	nose	INTERMEDIARY_CONCEPT
 reference books	-	INTERMEDIARY_CONCEPT
 heroin hydrochloride	-	INTERMEDIARY_CONCEPT
-serving sizes	-	FOOD
+serving sizes	-	INTERMEDIARY_CONCEPT
 bacterial vaginoses	-	DISEASE
 erythroxylon	erythroxylon	FOOD
 mk 803	-	INTERMEDIARY_CONCEPT
 sir2-like proteins	-	INTERMEDIARY_CONCEPT
-dutched cocoa	-	FOOD
+dutched cocoa	-	INTERMEDIARY_CONCEPT
 subscription	subscription	INTERMEDIARY_CONCEPT
 cognitive decline	-	DISEASE
 oreganos	oregano	FOOD
@@ -10410,9 +10410,9 @@ campylobacter infections	-	DISEASE
 grilled meat	-	FOOD
 flyer	flyer	INTERMEDIARY_CONCEPT
 appetites	appetite	INTERMEDIARY_CONCEPT
-spice popularity	-	FOOD
+spice popularity	-	INTERMEDIARY_CONCEPT
 grenz rays	-	INTERMEDIARY_CONCEPT
-gluten intolerance	-	FOOD
+gluten intolerance	-	INTERMEDIARY_CONCEPT
 metformin hydrochloride	-	INTERMEDIARY_CONCEPT
 rays	ray	INTERMEDIARY_CONCEPT
 5-ht	5-ht	INTERMEDIARY_CONCEPT
@@ -10421,7 +10421,7 @@ dark-green leafy	-	INTERMEDIARY_CONCEPT
 immortality	immortality	INTERMEDIARY_CONCEPT
 liver injury	-	DISEASE
 underarm	underarm	INTERMEDIARY_CONCEPT
-veal brains	-	FOOD
+veal brains	-	INTERMEDIARY_CONCEPT
 bacterial vaginosis	-	DISEASE
 recent sugar	-	INTERMEDIARY_CONCEPT
 seal	seal	INTERMEDIARY_CONCEPT
@@ -10438,7 +10438,7 @@ type 1 diabetes	-	DISEASE
 fructan	fructan	INTERMEDIARY_CONCEPT
 4 dihydroxyphenethylamine 3	-	INTERMEDIARY_CONCEPT
 kava kavas	-	FOOD
-lunching	lunch	FOOD
+lunching	lunch	INTERMEDIARY_CONCEPT
 air travel	-	INTERMEDIARY_CONCEPT
 food policies	-	INTERMEDIARY_CONCEPT
 berberis	berberis	FOOD
@@ -10451,9 +10451,9 @@ formol	formol	INTERMEDIARY_CONCEPT
 salad	salad	FOOD
 senile tremors	-	DISEASE
 primordial preventions	-	INTERMEDIARY_CONCEPT
-drink formulation	-	FOOD
+drink formulation	-	INTERMEDIARY_CONCEPT
 supplementation	supplementation	INTERMEDIARY_CONCEPT
-salad sandwich	-	FOOD
+salad sandwich	-	INTERMEDIARY_CONCEPT
 mangifera indica	-	FOOD
 molecular signatures	-	INTERMEDIARY_CONCEPT
 information act	-	INTERMEDIARY_CONCEPT
@@ -10479,7 +10479,7 @@ ipecac syrup	-	INTERMEDIARY_CONCEPT
 houseflies	housefly	INTERMEDIARY_CONCEPT
 seas	sea	INTERMEDIARY_CONCEPT
 daily allowance	-	INTERMEDIARY_CONCEPT
-orfidal wyeth	-	DISEASE
+orfidal wyeth	-	INTERMEDIARY_CONCEPT
 drug clearance	-	INTERMEDIARY_CONCEPT
 sorbilax	sorbilax	INTERMEDIARY_CONCEPT
 downer pigs	-	INTERMEDIARY_CONCEPT
@@ -10515,7 +10515,7 @@ somatotropin hypersecretion (acromegaly) syndromes	-	DISEASE
 percoffedrinol n	-	INTERMEDIARY_CONCEPT
 antibiotic	antibiotic	INTERMEDIARY_CONCEPT
 apolipoprotein e-4	-	INTERMEDIARY_CONCEPT
-vegetable consumption	-	FOOD
+vegetable consumption	-	INTERMEDIARY_CONCEPT
 buttermilk	buttermilk	FOOD
 disrupted in b-cell malignancy	-	DISEASE
 ruler	ruler	INTERMEDIARY_CONCEPT
@@ -10555,10 +10555,10 @@ corn sugar	-	FOOD
 factory farming practices	-	INTERMEDIARY_CONCEPT
 2-amino-4-mercaptobutyric acid	-	INTERMEDIARY_CONCEPT
 sense of smell	-	INTERMEDIARY_CONCEPT
-spice-eater	spice-eater	FOOD
+spice-eater	spice-eater	INTERMEDIARY_CONCEPT
 auriculo-ventricular dissociation	-	DISEASE
 streptococcus mutans	-	INTERMEDIARY_CONCEPT
-gluten sensitivity	-	FOOD
+gluten sensitivity	-	INTERMEDIARY_CONCEPT
 planting	plant	INTERMEDIARY_CONCEPT
 fish bone	-	INTERMEDIARY_CONCEPT
 talents	talent	INTERMEDIARY_CONCEPT
@@ -10584,7 +10584,7 @@ goldswite	goldswite	INTERMEDIARY_CONCEPT
 bragg	bragg	INTERMEDIARY_CONCEPT
 nuggets	nugget	INTERMEDIARY_CONCEPT
 kidney cancer	-	DISEASE
-nutrient absorption	-	FOOD
+nutrient absorption	-	INTERMEDIARY_CONCEPT
 mentha spicatas	-	FOOD
 natural levels	-	INTERMEDIARY_CONCEPT
 jewish ethic	-	INTERMEDIARY_CONCEPT
@@ -10602,15 +10602,15 @@ fellow animals	-	INTERMEDIARY_CONCEPT
 frozen broccoli	-	FOOD
 macular dystrophy	-	DISEASE
 jazz music	-	INTERMEDIARY_CONCEPT
-cancer tumors	-	DISEASE
+cancer tumors	-	INTERMEDIARY_CONCEPT
 naproxen	naproxen	INTERMEDIARY_CONCEPT
 hemp	hemp	FOOD
 coli exposure	-	INTERMEDIARY_CONCEPT
 cinnamomum zeylanicum	-	FOOD
-coca-cola	coca-cola	FOOD
+coca-cola	coca-cola	INTERMEDIARY_CONCEPT
 labeling	labeling	INTERMEDIARY_CONCEPT
 4 diaminobutane 1	-	INTERMEDIARY_CONCEPT
-disease topic	-	DISEASE
+disease topic	-	INTERMEDIARY_CONCEPT
 body burden	-	INTERMEDIARY_CONCEPT
 sustinence	sustinence	INTERMEDIARY_CONCEPT
 concurrent study	-	INTERMEDIARY_CONCEPT
@@ -10637,7 +10637,7 @@ blackberries	blackberry	FOOD
 health claim	-	INTERMEDIARY_CONCEPT
 powerful egg	-	INTERMEDIARY_CONCEPT
 patinopectens	patinopecten	INTERMEDIARY_CONCEPT
-cod liver	-	FOOD
+cod liver	-	INTERMEDIARY_CONCEPT
 sweet pepper	-	FOOD
 add variety	-	INTERMEDIARY_CONCEPT
 therapies	therapy	INTERMEDIARY_CONCEPT
@@ -10651,7 +10651,7 @@ health campaigns	-	INTERMEDIARY_CONCEPT
 hens	hen	INTERMEDIARY_CONCEPT
 ralgro	ralgro	INTERMEDIARY_CONCEPT
 mk412a	mk412a	INTERMEDIARY_CONCEPT
-cancer suppressor gene	-	DISEASE
+cancer suppressor gene	-	INTERMEDIARY_CONCEPT
 dental erosion	-	INTERMEDIARY_CONCEPT
 surgical scrubbing	-	INTERMEDIARY_CONCEPT
 inflammation isn	-	INTERMEDIARY_CONCEPT
@@ -10679,7 +10679,7 @@ birth defects	-	DISEASE
 benzene	benzene	INTERMEDIARY_CONCEPT
 fertilizer	fertilizer	INTERMEDIARY_CONCEPT
 pulmonary neoplasm	-	DISEASE
-acne-promoting effects	-	DISEASE
+acne-promoting effects	-	INTERMEDIARY_CONCEPT
 chlorophyllous	chlorophyllous	INTERMEDIARY_CONCEPT
 employee health	-	INTERMEDIARY_CONCEPT
 concussions	concussion	INTERMEDIARY_CONCEPT
@@ -10714,7 +10714,7 @@ fabric softener	-	INTERMEDIARY_CONCEPT
 head injury	-	DISEASE
 booster	booster	INTERMEDIARY_CONCEPT
 cider	cider	FOOD
-drinkings	drinking	FOOD
+drinkings	drinking	INTERMEDIARY_CONCEPT
 physical universe	-	INTERMEDIARY_CONCEPT
 paraesophageal hiatal hernias	-	DISEASE
 bugs	bug	INTERMEDIARY_CONCEPT
@@ -10749,8 +10749,8 @@ larynx posterior commissure	-	INTERMEDIARY_CONCEPT
 cell densities	-	INTERMEDIARY_CONCEPT
 polopirin	polopirin	INTERMEDIARY_CONCEPT
 endometrial cancers	-	DISEASE
-paratuberculosis bacteria	-	DISEASE
-hamarin	hamarin	FOOD
+paratuberculosis bacteria	-	INTERMEDIARY_CONCEPT
+hamarin	hamarin	INTERMEDIARY_CONCEPT
 medical specialities	-	INTERMEDIARY_CONCEPT
 excess protein	-	INTERMEDIARY_CONCEPT
 harvard studies	-	INTERMEDIARY_CONCEPT
@@ -10795,7 +10795,7 @@ small non cleaved cell lymphoma	-	DISEASE
 clamoring	clamor	INTERMEDIARY_CONCEPT
 betacarotene	betacarotene	INTERMEDIARY_CONCEPT
 functional body	-	INTERMEDIARY_CONCEPT
-autophagic cell deaths	-	DISEASE
+autophagic cell deaths	-	INTERMEDIARY_CONCEPT
 sea ice covers	-	INTERMEDIARY_CONCEPT
 acidity	acidity	INTERMEDIARY_CONCEPT
 prioress	prioress	INTERMEDIARY_CONCEPT
@@ -10842,8 +10842,8 @@ gallus gallus domesticus	-	INTERMEDIARY_CONCEPT
 advanced glycation	-	INTERMEDIARY_CONCEPT
 color additives	-	INTERMEDIARY_CONCEPT
 microtrabecular lattices	-	INTERMEDIARY_CONCEPT
-meat industries	-	FOOD
-winemaker	winemaker	FOOD
+meat industries	-	INTERMEDIARY_CONCEPT
+winemaker	winemaker	INTERMEDIARY_CONCEPT
 adenine nucleotide carrier (mitochondrial)	-	INTERMEDIARY_CONCEPT
 secalins	secalin	INTERMEDIARY_CONCEPT
 chocolate ice	-	INTERMEDIARY_CONCEPT
@@ -10863,24 +10863,24 @@ esophagitis	esophagitis	DISEASE
 endometrium	endometrium	INTERMEDIARY_CONCEPT
 sensory function	-	INTERMEDIARY_CONCEPT
 mustard seeds	-	FOOD
-butter balls	-	FOOD
+butter balls	-	INTERMEDIARY_CONCEPT
 volatile fatty acids	-	INTERMEDIARY_CONCEPT
 phyto-estrogen	phyto-estrogen	INTERMEDIARY_CONCEPT
 gmo soybeans	-	FOOD
 vegetable cell	-	INTERMEDIARY_CONCEPT
 reason lignans	-	INTERMEDIARY_CONCEPT
 snow-capped tips	-	INTERMEDIARY_CONCEPT
-treating acne	-	FOOD
+treating acne	-	INTERMEDIARY_CONCEPT
 aquatic food	-	FOOD
 porgies	porgy	FOOD
 nutriceuticals	nutriceutical	FOOD
-methyl alcohol	-	FOOD
+methyl alcohol	-	INTERMEDIARY_CONCEPT
 dopar	dopar	INTERMEDIARY_CONCEPT
-sugar reduction	-	FOOD
+sugar reduction	-	INTERMEDIARY_CONCEPT
 bacteria	bacterium	INTERMEDIARY_CONCEPT
 ultrasonography	ultrasonography	INTERMEDIARY_CONCEPT
 assessor	assessor	INTERMEDIARY_CONCEPT
-gout attacks	-	DISEASE
+gout attacks	-	INTERMEDIARY_CONCEPT
 reverse type	-	INTERMEDIARY_CONCEPT
 include apples	-	FOOD
 dehydrating effect	-	INTERMEDIARY_CONCEPT
@@ -10894,8 +10894,8 @@ diffuse mixed-cell lymphoma	-	DISEASE
 cox-1	cox-1	INTERMEDIARY_CONCEPT
 cyclamate calcium (2:1) salt	-	INTERMEDIARY_CONCEPT
 confections	confection	FOOD
-vegan diets	-	FOOD
-snack food association	-	FOOD
+vegan diets	-	INTERMEDIARY_CONCEPT
+snack food association	-	INTERMEDIARY_CONCEPT
 oral cancer	-	DISEASE
 “three strikes” carcinogens	-	INTERMEDIARY_CONCEPT
 testosterone congeners	-	INTERMEDIARY_CONCEPT
@@ -10950,15 +10950,15 @@ megadoses	megadose	INTERMEDIARY_CONCEPT
 prevent copd	-	INTERMEDIARY_CONCEPT
 parasitization	parasitization	INTERMEDIARY_CONCEPT
 nih-aarp study	-	INTERMEDIARY_CONCEPT
-hyperemesis	hyperemesis	DISEASE
+hyperemesis	hyperemesis	INTERMEDIARY_CONCEPT
 infant botulism	-	DISEASE
-daily diet	-	FOOD
+daily diet	-	INTERMEDIARY_CONCEPT
 somatotropin	somatotropin	INTERMEDIARY_CONCEPT
 soyfoods	soyfood	INTERMEDIARY_CONCEPT
-semi-vegetarian diet	-	FOOD
+semi-vegetarian diet	-	INTERMEDIARY_CONCEPT
 anterior tibial muscle	-	INTERMEDIARY_CONCEPT
 centenarian	centenarian	INTERMEDIARY_CONCEPT
-drinkers	drinker	FOOD
+drinkers	drinker	INTERMEDIARY_CONCEPT
 casein	casein	INTERMEDIARY_CONCEPT
 plaque buildup	-	INTERMEDIARY_CONCEPT
 geriatrics	geriatrics	INTERMEDIARY_CONCEPT
@@ -10973,7 +10973,7 @@ abdominal fat	-	INTERMEDIARY_CONCEPT
 viral infection	-	DISEASE
 anatomic pathologists	-	INTERMEDIARY_CONCEPT
 ay 22989	-	INTERMEDIARY_CONCEPT
-beans costs	-	FOOD
+beans costs	-	INTERMEDIARY_CONCEPT
 accident	accident	INTERMEDIARY_CONCEPT
 safeness	safeness	INTERMEDIARY_CONCEPT
 computer eye strain	-	INTERMEDIARY_CONCEPT
@@ -11003,9 +11003,9 @@ absolute risk	-	INTERMEDIARY_CONCEPT
 tipuric	tipuric	INTERMEDIARY_CONCEPT
 avian leukosis/sarcoma virus	-	INTERMEDIARY_CONCEPT
 polyarthritis	polyarthritis	DISEASE
-sugar levels	-	FOOD
-vitamin d 2	-	FOOD
-vitamin d 3	-	FOOD
+sugar levels	-	INTERMEDIARY_CONCEPT
+vitamin d 2	-	INTERMEDIARY_CONCEPT
+vitamin d 3	-	INTERMEDIARY_CONCEPT
 kiwi fruits	-	FOOD
 chart	chart	INTERMEDIARY_CONCEPT
 own fat	-	INTERMEDIARY_CONCEPT
@@ -11061,13 +11061,13 @@ adult onset	-	INTERMEDIARY_CONCEPT
 cooked meat	-	FOOD
 respiratory infection	-	INTERMEDIARY_CONCEPT
 dopamine hydrochloride	-	INTERMEDIARY_CONCEPT
-hiv/aids	hiv/aids	DISEASE
+hiv/aids	hiv/aids	INTERMEDIARY_CONCEPT
 2 dipyridyl 2	-	INTERMEDIARY_CONCEPT
 redness	redness	INTERMEDIARY_CONCEPT
 metformin hcl	-	INTERMEDIARY_CONCEPT
 phenylbutazone	phenylbutazone	INTERMEDIARY_CONCEPT
 black teas	-	FOOD
-muscular fatigue	-	DISEASE
+muscular fatigue	-	INTERMEDIARY_CONCEPT
 disruptor	disruptor	INTERMEDIARY_CONCEPT
 physical sufferings	-	DISEASE
 brassica napus	-	FOOD
@@ -11076,7 +11076,7 @@ deletion	deletion	INTERMEDIARY_CONCEPT
 plantago arenaria	-	FOOD
 syzygium cumini	-	FOOD
 catechin	catechin	INTERMEDIARY_CONCEPT
-caramel coloring	-	FOOD
+caramel coloring	-	INTERMEDIARY_CONCEPT
 analogist	analogist	INTERMEDIARY_CONCEPT
 coloring	color	FOOD
 leucocythaemia	leucocythaemia	DISEASE
@@ -11090,7 +11090,7 @@ cassia trees	-	FOOD
 uveitis	uveitis	DISEASE
 immunoglobulins	immunoglobulin	INTERMEDIARY_CONCEPT
 harvard physician	-	INTERMEDIARY_CONCEPT
-honeybush	honeybush	FOOD
+honeybush	honeybush	INTERMEDIARY_CONCEPT
 scientific studies	-	INTERMEDIARY_CONCEPT
 good thing	-	INTERMEDIARY_CONCEPT
 plant sterols	-	INTERMEDIARY_CONCEPT
@@ -11144,9 +11144,9 @@ misalignment	misalignment	INTERMEDIARY_CONCEPT
 bergamot	bergamot	FOOD
 chronic cystic mastitis	-	DISEASE
 flax oil	-	INTERMEDIARY_CONCEPT
-cancer patients	-	DISEASE
+cancer patients	-	INTERMEDIARY_CONCEPT
 hemp plants	-	FOOD
-cola drinks	-	FOOD
+cola drinks	-	INTERMEDIARY_CONCEPT
 bilberries	bilberry	FOOD
 pain management	-	INTERMEDIARY_CONCEPT
 floret	floret	FOOD
@@ -11154,12 +11154,12 @@ trofan	trofan	INTERMEDIARY_CONCEPT
 digestive tracts	-	INTERMEDIARY_CONCEPT
 bruises	bruise	DISEASE
 romaine	romaine	FOOD
-bruiser	bruiser	DISEASE
+bruiser	bruiser	INTERMEDIARY_CONCEPT
 b-cell leukemia	-	DISEASE
 tailored clothing	-	INTERMEDIARY_CONCEPT
 intractable headache	-	DISEASE
 continuous wave laser	-	INTERMEDIARY_CONCEPT
-carb diet	-	FOOD
+carb diet	-	INTERMEDIARY_CONCEPT
 cat scan	-	INTERMEDIARY_CONCEPT
 fleboplast levulosa	-	INTERMEDIARY_CONCEPT
 preventable cancers	-	DISEASE
@@ -11167,7 +11167,7 @@ maintain weight	-	INTERMEDIARY_CONCEPT
 infarction	infarction	DISEASE
 case report	-	INTERMEDIARY_CONCEPT
 diabetes mellitus complications	-	DISEASE
-dietary goal	-	FOOD
+dietary goal	-	INTERMEDIARY_CONCEPT
 operative therapy	-	INTERMEDIARY_CONCEPT
 necking	neck	INTERMEDIARY_CONCEPT
 indigestible wax	-	INTERMEDIARY_CONCEPT
@@ -11203,7 +11203,7 @@ pruning	pruning	INTERMEDIARY_CONCEPT
 areca catechu	-	FOOD
 reductionist	reductionist	INTERMEDIARY_CONCEPT
 non steroidal antirheumatic agents	-	INTERMEDIARY_CONCEPT
-type i programmed cell death	-	DISEASE
+type i programmed cell death	-	INTERMEDIARY_CONCEPT
 mothers	mother	INTERMEDIARY_CONCEPT
 granny	granny	INTERMEDIARY_CONCEPT
 bladder cancer	-	DISEASE
@@ -11234,7 +11234,7 @@ nasality	nasality	INTERMEDIARY_CONCEPT
 liver neoplasm	-	DISEASE
 citrus hystrix	-	FOOD
 respiratory mucosa	-	INTERMEDIARY_CONCEPT
-butter-flavored microwave	-	FOOD
+butter-flavored microwave	-	INTERMEDIARY_CONCEPT
 serum marker	-	INTERMEDIARY_CONCEPT
 bone fracture	-	DISEASE
 sodium sorbate	-	INTERMEDIARY_CONCEPT
@@ -11255,7 +11255,7 @@ indoles	indole	INTERMEDIARY_CONCEPT
 sockeye salmon	-	FOOD
 adhesive mucilages	-	INTERMEDIARY_CONCEPT
 aging	age	INTERMEDIARY_CONCEPT
-light drinking	-	FOOD
+light drinking	-	INTERMEDIARY_CONCEPT
 celebrity	celebrity	INTERMEDIARY_CONCEPT
 thrombocytes	thrombocyte	INTERMEDIARY_CONCEPT
 b12 deficiency	-	DISEASE
@@ -11278,10 +11278,10 @@ boniness	boniness	INTERMEDIARY_CONCEPT
 degenerative neurologic disease	-	DISEASE
 entrees	entree	FOOD
 fast-food	fast-food	INTERMEDIARY_CONCEPT
-dietetics	dietetics	FOOD
+dietetics	dietetics	INTERMEDIARY_CONCEPT
 baked potato	-	FOOD
 nanism	nanism	DISEASE
-dietary phytate	-	FOOD
+dietary phytate	-	INTERMEDIARY_CONCEPT
 bacteriocides	bacteriocide	INTERMEDIARY_CONCEPT
 social phobias	-	DISEASE
 cancer of bladder	-	DISEASE
@@ -11305,7 +11305,7 @@ hydrogen ions	-	INTERMEDIARY_CONCEPT
 tryptan	tryptan	INTERMEDIARY_CONCEPT
 trimethylamine	trimethylamine	INTERMEDIARY_CONCEPT
 lipotropes	lipotrope	INTERMEDIARY_CONCEPT
-cause inflammation	-	DISEASE
+cause inflammation	-	INTERMEDIARY_CONCEPT
 roux en y gastric bypass	-	INTERMEDIARY_CONCEPT
 developing diabetes	-	INTERMEDIARY_CONCEPT
 natural substances	-	INTERMEDIARY_CONCEPT
@@ -11345,7 +11345,7 @@ tcdd receptors	-	INTERMEDIARY_CONCEPT
 tomato sauce	-	FOOD
 greta	greta	INTERMEDIARY_CONCEPT
 national (u.s.) research council	-	INTERMEDIARY_CONCEPT
-increased flatulence	-	DISEASE
+increased flatulence	-	INTERMEDIARY_CONCEPT
 high cholesterol level	-	DISEASE
 nipantiox 1-f	-	INTERMEDIARY_CONCEPT
 lifetime risk	-	INTERMEDIARY_CONCEPT
@@ -11358,7 +11358,7 @@ gluey	gluey	INTERMEDIARY_CONCEPT
 estrogen levels	-	INTERMEDIARY_CONCEPT
 floppy	floppy	INTERMEDIARY_CONCEPT
 radicals	radical	INTERMEDIARY_CONCEPT
-cancer prevention	-	DISEASE
+cancer prevention	-	INTERMEDIARY_CONCEPT
 mycotoxins	mycotoxin	INTERMEDIARY_CONCEPT
 stop heart	-	INTERMEDIARY_CONCEPT
 persistent tremor	-	DISEASE
@@ -11411,7 +11411,7 @@ sampled bamboo	-	INTERMEDIARY_CONCEPT
 slow-wave sleep	-	INTERMEDIARY_CONCEPT
 crohn disease	-	DISEASE
 autosomal dominant juvenile parkinson disease	-	DISEASE
-coffee drinking	-	FOOD
+coffee drinking	-	INTERMEDIARY_CONCEPT
 kaiser	kaiser	INTERMEDIARY_CONCEPT
 dietary proteins	-	FOOD
 isoflavones	isoflavone	INTERMEDIARY_CONCEPT
@@ -11466,7 +11466,7 @@ jumbo jets	-	INTERMEDIARY_CONCEPT
 increased antioxidant	-	INTERMEDIARY_CONCEPT
 hepatotoxin	hepatotoxin	INTERMEDIARY_CONCEPT
 thoracic cords	-	INTERMEDIARY_CONCEPT
-grapefruit consumers	-	FOOD
+grapefruit consumers	-	INTERMEDIARY_CONCEPT
 dust mite	-	INTERMEDIARY_CONCEPT
 manure	manure	INTERMEDIARY_CONCEPT
 grandparents	grandparent	INTERMEDIARY_CONCEPT
@@ -11566,7 +11566,7 @@ daily value	-	INTERMEDIARY_CONCEPT
 comment	comment	INTERMEDIARY_CONCEPT
 usda dietary	-	INTERMEDIARY_CONCEPT
 cognitive dysfunctions	-	DISEASE
-milk consumption	-	FOOD
+milk consumption	-	INTERMEDIARY_CONCEPT
 zinc salt arachidonic acid	-	INTERMEDIARY_CONCEPT
 bio-equivalent	bio-equivalent	INTERMEDIARY_CONCEPT
 women’s health initiative study	-	INTERMEDIARY_CONCEPT
@@ -11608,7 +11608,7 @@ fatty liver disease	-	DISEASE
 raillietina	raillietina	INTERMEDIARY_CONCEPT
 cancer of mouth	-	DISEASE
 boiler	boiler	INTERMEDIARY_CONCEPT
-juice intake	-	FOOD
+juice intake	-	INTERMEDIARY_CONCEPT
 in vitro studies	-	INTERMEDIARY_CONCEPT
 abortifacient	abortifacient	INTERMEDIARY_CONCEPT
 web 2.0s	-	INTERMEDIARY_CONCEPT
@@ -11660,7 +11660,7 @@ sustainment	sustainment	INTERMEDIARY_CONCEPT
 farm bill	-	INTERMEDIARY_CONCEPT
 malignant lymphoma	-	DISEASE
 chronic b-lymphocytic leukemia	-	DISEASE
-hallelujah diet	-	FOOD
+hallelujah diet	-	INTERMEDIARY_CONCEPT
 leading drug	-	INTERMEDIARY_CONCEPT
 steak	steak	FOOD
 golden yellow	-	INTERMEDIARY_CONCEPT
@@ -11681,7 +11681,7 @@ penis neoplasms	-	DISEASE
 benzochloryl	benzochloryl	INTERMEDIARY_CONCEPT
 shellfish	shellfish	FOOD
 hospital referral	-	INTERMEDIARY_CONCEPT
-low-sodium diets	-	FOOD
+low-sodium diets	-	INTERMEDIARY_CONCEPT
 female sterility	-	DISEASE
 fish-induced keriorrhea	-	INTERMEDIARY_CONCEPT
 chronic fatigue syndrome	-	DISEASE
@@ -11692,7 +11692,7 @@ health insurance	-	INTERMEDIARY_CONCEPT
 shaker	shaker	INTERMEDIARY_CONCEPT
 kappa carrageenan	-	INTERMEDIARY_CONCEPT
 texas	texa	INTERMEDIARY_CONCEPT
-cancer-promoting growth	-	DISEASE
+cancer-promoting growth	-	INTERMEDIARY_CONCEPT
 bone mineral densities	-	INTERMEDIARY_CONCEPT
 sardines	sardine	FOOD
 sanitized world	-	INTERMEDIARY_CONCEPT
@@ -11721,7 +11721,7 @@ toxic plants	-	FOOD
 laboratory marker	-	INTERMEDIARY_CONCEPT
 disc degradations	-	DISEASE
 benzodiazepine compounds	-	INTERMEDIARY_CONCEPT
-balsamic vinegar	-	FOOD
+balsamic vinegar	-	INTERMEDIARY_CONCEPT
 5-alpha pregnanedione	-	INTERMEDIARY_CONCEPT
 fatty liver	-	DISEASE
 cocoa powder	-	FOOD
@@ -11765,9 +11765,9 @@ dairy product intolerance	-	DISEASE
 weeds	weed	FOOD
 multilevel marketing	-	INTERMEDIARY_CONCEPT
 ay 22-989	-	INTERMEDIARY_CONCEPT
-sugar rises	-	FOOD
+sugar rises	-	INTERMEDIARY_CONCEPT
 cavia porcellus	-	INTERMEDIARY_CONCEPT
-stickers made	-	FOOD
+stickers made	-	INTERMEDIARY_CONCEPT
 zedoary zedoaria	-	FOOD
 arsenic	arsenic	INTERMEDIARY_CONCEPT
 parachute	parachute	INTERMEDIARY_CONCEPT
@@ -11779,7 +11779,7 @@ pharmacy	pharmacy	INTERMEDIARY_CONCEPT
 u.s. department of defense	-	INTERMEDIARY_CONCEPT
 claudication	claudication	INTERMEDIARY_CONCEPT
 handwashing	handwashing	INTERMEDIARY_CONCEPT
-treat heart	-	FOOD
+treat heart	-	INTERMEDIARY_CONCEPT
 age-related maculopathy	-	DISEASE
 healthier options	-	INTERMEDIARY_CONCEPT
 kombucha tea	-	FOOD
@@ -11793,7 +11793,7 @@ vaginal discharges	-	DISEASE
 fish sauce	-	INTERMEDIARY_CONCEPT
 sweet basils	-	FOOD
 mixed lymphocytic-histiocytic lymphomas	-	DISEASE
-vitamin b12	-	FOOD
+vitamin b12	-	INTERMEDIARY_CONCEPT
 new game	-	INTERMEDIARY_CONCEPT
 dialyzer	dialyzer	INTERMEDIARY_CONCEPT
 lorazep von ct	-	INTERMEDIARY_CONCEPT
@@ -11856,7 +11856,7 @@ plant embryos	-	FOOD
 varicose	varicose	INTERMEDIARY_CONCEPT
 macadamia nut	-	FOOD
 local excision mastectomy	-	INTERMEDIARY_CONCEPT
-zearalanol	zearalanol	FOOD
+zearalanol	zearalanol	INTERMEDIARY_CONCEPT
 coronary diseases	-	DISEASE
 fattiness	fattiness	INTERMEDIARY_CONCEPT
 mptp induced experimental parkinsonism	-	DISEASE
@@ -11889,7 +11889,7 @@ osteoporosis	osteoporosis	DISEASE
 agenesis	agenesis	INTERMEDIARY_CONCEPT
 fetal programmings	-	INTERMEDIARY_CONCEPT
 human colon	-	INTERMEDIARY_CONCEPT
-american diet	-	FOOD
+american diet	-	INTERMEDIARY_CONCEPT
 early onset parkinsonism	-	DISEASE
 human breast	-	INTERMEDIARY_CONCEPT
 ascorbic acid	-	INTERMEDIARY_CONCEPT
@@ -11913,7 +11913,7 @@ methylmalonic acid	-	INTERMEDIARY_CONCEPT
 isoflavone	isoflavone	INTERMEDIARY_CONCEPT
 colonoscopic surgeries	-	INTERMEDIARY_CONCEPT
 false belief	-	INTERMEDIARY_CONCEPT
-anhydrous dextrose	-	FOOD
+anhydrous dextrose	-	INTERMEDIARY_CONCEPT
 oil supplementation	-	INTERMEDIARY_CONCEPT
 puppets	puppet	INTERMEDIARY_CONCEPT
 ball clay	-	INTERMEDIARY_CONCEPT
@@ -11924,7 +11924,7 @@ testicular neoplasms	-	DISEASE
 food coloring	-	FOOD
 bacteroidetes	bacteroidete	INTERMEDIARY_CONCEPT
 shin	shin	INTERMEDIARY_CONCEPT
-cancer cell growth	-	DISEASE
+cancer cell growth	-	INTERMEDIARY_CONCEPT
 second hand smokes	-	INTERMEDIARY_CONCEPT
 zyloprim	zyloprim	INTERMEDIARY_CONCEPT
 pyrogallic acid	-	INTERMEDIARY_CONCEPT
@@ -11933,9 +11933,9 @@ pregnant woman	-	INTERMEDIARY_CONCEPT
 proxies	proxy	INTERMEDIARY_CONCEPT
 the national dairy council	-	INTERMEDIARY_CONCEPT
 absorptivity	absorptivity	INTERMEDIARY_CONCEPT
-euterpe oleracea mart	-	FOOD
+euterpe oleracea mart	-	INTERMEDIARY_CONCEPT
 ferring brand of testosterone	-	INTERMEDIARY_CONCEPT
-avocado toxin	-	FOOD
+avocado toxin	-	INTERMEDIARY_CONCEPT
 pregnancy	pregnancy	INTERMEDIARY_CONCEPT
 ct-arzneimittel brand of lorazepam	-	INTERMEDIARY_CONCEPT
 tobacco products	-	INTERMEDIARY_CONCEPT
@@ -11972,7 +11972,7 @@ cuminum cyminum	-	FOOD
 primitive medicine	-	INTERMEDIARY_CONCEPT
 colon health	-	INTERMEDIARY_CONCEPT
 cancer of the liver	-	DISEASE
-disease frequency surveys	-	DISEASE
+disease frequency surveys	-	INTERMEDIARY_CONCEPT
 indian gooseberry	-	FOOD
 hypolactasia	hypolactasia	DISEASE
 2-phenyl-chromenes	2-phenyl-chromenes	INTERMEDIARY_CONCEPT
@@ -12010,7 +12010,7 @@ garden radish	-	FOOD
 senate	senate	INTERMEDIARY_CONCEPT
 apoprotein (e)	-	INTERMEDIARY_CONCEPT
 disc degeneration	-	DISEASE
-high-fiber diet	-	FOOD
+high-fiber diet	-	INTERMEDIARY_CONCEPT
 craniocerebral traumas	-	DISEASE
 diastolic pressure	-	INTERMEDIARY_CONCEPT
 pneumovax	pneumovax	INTERMEDIARY_CONCEPT
@@ -12025,7 +12025,7 @@ muscle tissues	-	INTERMEDIARY_CONCEPT
 dyspepsias	dyspepsia	DISEASE
 cream cheese	-	FOOD
 thousand questions/comments	-	INTERMEDIARY_CONCEPT
-coronary death	-	DISEASE
+coronary death	-	INTERMEDIARY_CONCEPT
 hindu medicine	-	INTERMEDIARY_CONCEPT
 low meat	-	FOOD
 shot	shot	INTERMEDIARY_CONCEPT
@@ -12049,11 +12049,11 @@ high age	-	INTERMEDIARY_CONCEPT
 stomach cancer	-	DISEASE
 discomfort	discomfort	INTERMEDIARY_CONCEPT
 waste dumping sites	-	INTERMEDIARY_CONCEPT
-vitamin b 1	-	FOOD
-vitamin b 2	-	FOOD
+vitamin b 1	-	INTERMEDIARY_CONCEPT
+vitamin b 2	-	INTERMEDIARY_CONCEPT
 cyanidanol-3	cyanidanol-3	INTERMEDIARY_CONCEPT
 q-switched lasers	-	INTERMEDIARY_CONCEPT
-vitamin b 6	-	FOOD
+vitamin b 6	-	INTERMEDIARY_CONCEPT
 penny	penny	INTERMEDIARY_CONCEPT
 predime	predime	INTERMEDIARY_CONCEPT
 healthiest snack	-	FOOD
@@ -12084,7 +12084,7 @@ anxieties	anxiety	INTERMEDIARY_CONCEPT
 gestational diabetes mellitus	-	DISEASE
 rural pennsylvania	-	INTERMEDIARY_CONCEPT
 benign brain neoplasms	-	DISEASE
-death domain family receptors	-	DISEASE
+death domain family receptors	-	INTERMEDIARY_CONCEPT
 nonsmokers	nonsmoker	INTERMEDIARY_CONCEPT
 blood donations	-	INTERMEDIARY_CONCEPT
 manic states	-	DISEASE
@@ -12092,7 +12092,7 @@ potassium sorbate	-	INTERMEDIARY_CONCEPT
 gonadal steroid hormones	-	INTERMEDIARY_CONCEPT
 grill	grill	INTERMEDIARY_CONCEPT
 cherry	cherry	FOOD
-cancer screening	-	DISEASE
+cancer screening	-	INTERMEDIARY_CONCEPT
 surrogate end points	-	INTERMEDIARY_CONCEPT
 household products	-	INTERMEDIARY_CONCEPT
 babies	baby	INTERMEDIARY_CONCEPT
@@ -12102,11 +12102,11 @@ palmitic acid	-	INTERMEDIARY_CONCEPT
 folacin	folacin	INTERMEDIARY_CONCEPT
 sweet spot	-	INTERMEDIARY_CONCEPT
 sodium salt cyclamate	-	INTERMEDIARY_CONCEPT
-rice vinegar	-	FOOD
-diet book	-	FOOD
-eating meat-free	-	FOOD
+rice vinegar	-	INTERMEDIARY_CONCEPT
+diet book	-	INTERMEDIARY_CONCEPT
+eating meat-free	-	INTERMEDIARY_CONCEPT
 falling prey	-	INTERMEDIARY_CONCEPT
-combining herbs	-	FOOD
+combining herbs	-	INTERMEDIARY_CONCEPT
 sneezings	sneezing	DISEASE
 fuji apples	-	FOOD
 galactosemias	galactosemia	DISEASE
@@ -12117,8 +12117,8 @@ foxgloves	foxglove	FOOD
 food diets	-	INTERMEDIARY_CONCEPT
 dairy	dairy	INTERMEDIARY_CONCEPT
 neogluconin	neogluconin	INTERMEDIARY_CONCEPT
-normal diet	-	FOOD
-asian diets	-	FOOD
+normal diet	-	INTERMEDIARY_CONCEPT
+asian diets	-	INTERMEDIARY_CONCEPT
 skeletonise	skeletonise	INTERMEDIARY_CONCEPT
 buddhist nuns	-	INTERMEDIARY_CONCEPT
 crohn’s disease	-	DISEASE
@@ -12127,7 +12127,7 @@ intestinal microbiota transfers	-	INTERMEDIARY_CONCEPT
 atorvastatin calcium trihydrate	-	INTERMEDIARY_CONCEPT
 organochlorines accumulated	-	INTERMEDIARY_CONCEPT
 excitatory neurotoxins	-	INTERMEDIARY_CONCEPT
-froot	froot	FOOD
+froot	froot	INTERMEDIARY_CONCEPT
 stool ph	-	INTERMEDIARY_CONCEPT
 sedative	sedative	INTERMEDIARY_CONCEPT
 high school teachers	-	INTERMEDIARY_CONCEPT
@@ -12141,10 +12141,10 @@ paralyses	paralysis	DISEASE
 distilled fish	-	INTERMEDIARY_CONCEPT
 encephalon disease	-	DISEASE
 lycopene	lycopene	INTERMEDIARY_CONCEPT
-academy of nutrition and dietetics	-	FOOD
+academy of nutrition and dietetics	-	INTERMEDIARY_CONCEPT
 7-tetrahydroxy-flavone	7-tetrahydroxy-flavone	INTERMEDIARY_CONCEPT
 tor stimulation	-	INTERMEDIARY_CONCEPT
-meat association	-	FOOD
+meat association	-	INTERMEDIARY_CONCEPT
 exclamation point	-	INTERMEDIARY_CONCEPT
 industry influence	-	INTERMEDIARY_CONCEPT
 fava bean	-	FOOD
@@ -12175,7 +12175,7 @@ adherence	adherence	INTERMEDIARY_CONCEPT
 diabetic asymmetric polyneuropathies	-	DISEASE
 big carob	-	INTERMEDIARY_CONCEPT
 kingdom	kingdom	INTERMEDIARY_CONCEPT
-white cranberry juice	-	FOOD
+white cranberry juice	-	INTERMEDIARY_CONCEPT
 (d-his)-isomer carnosine	-	INTERMEDIARY_CONCEPT
 clove	clove	FOOD
 puppet	puppet	INTERMEDIARY_CONCEPT
@@ -12183,7 +12183,7 @@ widespread exposure	-	INTERMEDIARY_CONCEPT
 stomach lining	-	INTERMEDIARY_CONCEPT
 musculature	musculature	INTERMEDIARY_CONCEPT
 cephalalgias	cephalalgia	DISEASE
-bowel syndrome	-	DISEASE
+bowel syndrome	-	INTERMEDIARY_CONCEPT
 saccharomyces boulardius	-	INTERMEDIARY_CONCEPT
 common causes	-	INTERMEDIARY_CONCEPT
 euterpe oleracea mart.s	-	FOOD
@@ -12203,7 +12203,7 @@ phaseolus vulgaris	-	FOOD
 migrants and transients	-	INTERMEDIARY_CONCEPT
 bunny	bunny	INTERMEDIARY_CONCEPT
 voice talent	-	INTERMEDIARY_CONCEPT
-dextrose	dextrose	FOOD
+dextrose	dextrose	INTERMEDIARY_CONCEPT
 philadelphia cream cheese	-	FOOD
 cellular phones	-	INTERMEDIARY_CONCEPT
 phyllanthus emblica	-	FOOD
@@ -12227,7 +12227,7 @@ vaginal cancers	-	DISEASE
 nonfat meal	-	FOOD
 istradefylline	istradefylline	INTERMEDIARY_CONCEPT
 malignant lymphomas	-	DISEASE
-american meat institute	-	FOOD
+american meat institute	-	INTERMEDIARY_CONCEPT
 jock	jock	INTERMEDIARY_CONCEPT
 thousand foods	-	FOOD
 proctosigmoidoscopies	proctosigmoidoscopy	INTERMEDIARY_CONCEPT
@@ -12246,7 +12246,7 @@ transporter protein	-	INTERMEDIARY_CONCEPT
 piling	pile	INTERMEDIARY_CONCEPT
 malus domestica	-	FOOD
 celery root	-	FOOD
-dietary means	-	FOOD
+dietary means	-	INTERMEDIARY_CONCEPT
 rosehips	rosehip	FOOD
 vertebral columns	-	INTERMEDIARY_CONCEPT
 cellular aging	-	INTERMEDIARY_CONCEPT
@@ -12300,7 +12300,7 @@ deception flow chart	-	INTERMEDIARY_CONCEPT
 sdz202-250	sdz202-250	INTERMEDIARY_CONCEPT
 rubbing	rub	INTERMEDIARY_CONCEPT
 ondatra zibethicus	-	INTERMEDIARY_CONCEPT
-kidney inflammation	-	DISEASE
+kidney inflammation	-	INTERMEDIARY_CONCEPT
 liver neoplasms	-	DISEASE
 signaling system	-	INTERMEDIARY_CONCEPT
 cycling	cycling	INTERMEDIARY_CONCEPT
@@ -12311,7 +12311,7 @@ inspector general	-	INTERMEDIARY_CONCEPT
 healthiest apple	-	FOOD
 blood corpuscles	-	INTERMEDIARY_CONCEPT
 placebo	placebo	INTERMEDIARY_CONCEPT
-treat asthma	-	FOOD
+treat asthma	-	INTERMEDIARY_CONCEPT
 mastic tree	-	FOOD
 mastalgias	mastalgia	DISEASE
 balance sheet	-	INTERMEDIARY_CONCEPT
@@ -12319,7 +12319,7 @@ trash pickers	-	INTERMEDIARY_CONCEPT
 bikes	bike	INTERMEDIARY_CONCEPT
 mutagen	mutagen	INTERMEDIARY_CONCEPT
 aggressiveness	aggressiveness	INTERMEDIARY_CONCEPT
-sodium-restricted diets	-	FOOD
+sodium-restricted diets	-	INTERMEDIARY_CONCEPT
 americanization	americanization	INTERMEDIARY_CONCEPT
 cost per calorie	-	INTERMEDIARY_CONCEPT
 passeres	passere	INTERMEDIARY_CONCEPT
@@ -12338,7 +12338,7 @@ roasted almonds	-	FOOD
 kidney beans	-	FOOD
 chronic headache	-	DISEASE
 ergocalciferol	ergocalciferol	INTERMEDIARY_CONCEPT
-seed oil	-	FOOD
+seed oil	-	INTERMEDIARY_CONCEPT
 idalprem	idalprem	INTERMEDIARY_CONCEPT
 lymphatic sarcomas	-	DISEASE
 chewing fruit	-	FOOD
@@ -12404,7 +12404,7 @@ thoracic cord	-	INTERMEDIARY_CONCEPT
 esophageal hernias	-	DISEASE
 adenylimidodiphosphate	adenylimidodiphosphate	INTERMEDIARY_CONCEPT
 national research (u.s.) council	-	INTERMEDIARY_CONCEPT
-meat packages	-	FOOD
+meat packages	-	INTERMEDIARY_CONCEPT
 solvay brand of testosterone	-	INTERMEDIARY_CONCEPT
 fat storage	-	INTERMEDIARY_CONCEPT
 metabonomics	metabonomic	INTERMEDIARY_CONCEPT
@@ -12432,7 +12432,7 @@ vaginal suppository	-	INTERMEDIARY_CONCEPT
 control	control	INTERMEDIARY_CONCEPT
 pwawg	pwawg	INTERMEDIARY_CONCEPT
 lemons	lemon	FOOD
-dietary source	-	FOOD
+dietary source	-	INTERMEDIARY_CONCEPT
 normal people	-	INTERMEDIARY_CONCEPT
 conus medullari	-	INTERMEDIARY_CONCEPT
 conflicts (psychology)	-	INTERMEDIARY_CONCEPT
@@ -12462,10 +12462,10 @@ petrogales	petrogale	INTERMEDIARY_CONCEPT
 l tryptophan	-	INTERMEDIARY_CONCEPT
 2 phenyl 3 hydroxy benzopyran 4 ones	-	INTERMEDIARY_CONCEPT
 hormone receptor agonists	-	INTERMEDIARY_CONCEPT
-dietary treatments	-	FOOD
+dietary treatments	-	INTERMEDIARY_CONCEPT
 monsanto	monsanto	INTERMEDIARY_CONCEPT
 trinitrolong	trinitrolong	INTERMEDIARY_CONCEPT
-mintage	mintage	FOOD
+mintage	mintage	INTERMEDIARY_CONCEPT
 fe-zn superoxide dismutase	-	INTERMEDIARY_CONCEPT
 asthma	asthma	DISEASE
 woodear mushrooms	-	INTERMEDIARY_CONCEPT
@@ -12486,7 +12486,7 @@ extend lifespan	-	INTERMEDIARY_CONCEPT
 easter island	-	INTERMEDIARY_CONCEPT
 bractrian camels	-	INTERMEDIARY_CONCEPT
 caregivers	caregiver	INTERMEDIARY_CONCEPT
-garbanzo beans	-	FOOD
+garbanzo beans	-	INTERMEDIARY_CONCEPT
 pasadena brand of testosterone	-	INTERMEDIARY_CONCEPT
 mesothelioma	mesothelioma	DISEASE
 lorazepam nu-pharm brand	-	INTERMEDIARY_CONCEPT
@@ -12570,7 +12570,7 @@ rete testis tumor	-	DISEASE
 hips	hip	INTERMEDIARY_CONCEPT
 involves treatments	-	INTERMEDIARY_CONCEPT
 concentrated sources	-	INTERMEDIARY_CONCEPT
-high-meat	high-meat	FOOD
+high-meat	high-meat	INTERMEDIARY_CONCEPT
 arecas	arecas	FOOD
 postmortem examination	-	INTERMEDIARY_CONCEPT
 cost per weight	-	INTERMEDIARY_CONCEPT
@@ -12614,7 +12614,7 @@ leukocyte	leukocyte	INTERMEDIARY_CONCEPT
 menstruating	menstruate	INTERMEDIARY_CONCEPT
 evidence-based medicine	-	INTERMEDIARY_CONCEPT
 6 methylcompactin	-	INTERMEDIARY_CONCEPT
-hive	hive	DISEASE
+hive	hive	INTERMEDIARY_CONCEPT
 bragg liquid aminos	-	INTERMEDIARY_CONCEPT
 anaprox	anaprox	INTERMEDIARY_CONCEPT
 41-year-old guy	-	INTERMEDIARY_CONCEPT
@@ -12644,24 +12644,24 @@ torcetrapib	torcetrapib	INTERMEDIARY_CONCEPT
 physical suffering	-	DISEASE
 new look	-	INTERMEDIARY_CONCEPT
 cocaine hydrochloride	-	INTERMEDIARY_CONCEPT
-oryzanol	oryzanol	FOOD
+oryzanol	oryzanol	INTERMEDIARY_CONCEPT
 terminal heart	-	INTERMEDIARY_CONCEPT
 palmoplantaris pustulosis	-	DISEASE
 sausage	sausage	FOOD
 leaders	leader	INTERMEDIARY_CONCEPT
 aves	aves	INTERMEDIARY_CONCEPT
-disease advisories	-	DISEASE
+disease advisories	-	INTERMEDIARY_CONCEPT
 gasser syndrome	-	DISEASE
 ulcerative colitis	-	DISEASE
 cortland	cortland	FOOD
 obesity	obesity	DISEASE
 ultra-processed food	-	FOOD
 texturized soy proteins	-	FOOD
-cancer-or-e-coli	cancer-or-e-coli	DISEASE
+cancer-or-e-coli	cancer-or-e-coli	INTERMEDIARY_CONCEPT
 desmethyl sildenafil	-	INTERMEDIARY_CONCEPT
 lorazepam	lorazepam	INTERMEDIARY_CONCEPT
 excitement	excitement	INTERMEDIARY_CONCEPT
-macadamia oil	-	FOOD
+macadamia oil	-	INTERMEDIARY_CONCEPT
 eating organic	-	INTERMEDIARY_CONCEPT
 non alcoholic fatty liver disease	-	DISEASE
 kola nuts	-	FOOD
@@ -12743,8 +12743,8 @@ oxidized fat	-	INTERMEDIARY_CONCEPT
 animal protein	-	INTERMEDIARY_CONCEPT
 important predictors	-	INTERMEDIARY_CONCEPT
 healthy fruit	-	FOOD
-platypus	platypus	DISEASE
-meat industry	-	FOOD
+platypus	platypus	INTERMEDIARY_CONCEPT
+meat industry	-	INTERMEDIARY_CONCEPT
 neuroregulators	neuroregulator	INTERMEDIARY_CONCEPT
 bechterew disease	-	DISEASE
 tonsillar cancer	-	DISEASE
@@ -12764,10 +12764,10 @@ euterpe precatoria	-	FOOD
 boost serotonin	-	INTERMEDIARY_CONCEPT
 xanturic	xanturic	INTERMEDIARY_CONCEPT
 surgery	surgery	INTERMEDIARY_CONCEPT
-africanise	africanise	FOOD
+africanise	africanise	INTERMEDIARY_CONCEPT
 glucosinolate	glucosinolate	INTERMEDIARY_CONCEPT
 cytochrome p450 19	-	INTERMEDIARY_CONCEPT
-juice plus supplements	-	FOOD
+juice plus supplements	-	INTERMEDIARY_CONCEPT
 longest lifespan	-	INTERMEDIARY_CONCEPT
 foodstuffs	foodstuff	FOOD
 high-fructose corn	-	FOOD
@@ -12802,7 +12802,7 @@ uterine neoplasm	-	DISEASE
 cardamons	cardamon	FOOD
 crowberries	crowberry	FOOD
 post-surgery	post-surgery	INTERMEDIARY_CONCEPT
-death rate	-	DISEASE
+death rate	-	INTERMEDIARY_CONCEPT
 miocene era	-	INTERMEDIARY_CONCEPT
 national livestock and meat board	-	INTERMEDIARY_CONCEPT
 thyroid gland	-	INTERMEDIARY_CONCEPT
@@ -12814,7 +12814,7 @@ gravies	gravy	FOOD
 title 18 health insurance for aged and disabled	-	INTERMEDIARY_CONCEPT
 white blood corpuscle	-	INTERMEDIARY_CONCEPT
 purple grape	-	FOOD
-pinapple	pinapple	FOOD
+pinapple	pinapple	INTERMEDIARY_CONCEPT
 national research council (u.s.)	-	INTERMEDIARY_CONCEPT
 galk deficiency	-	DISEASE
 woman's health	-	INTERMEDIARY_CONCEPT
@@ -12853,11 +12853,11 @@ rest tremors	-	DISEASE
 restorative dentists	-	INTERMEDIARY_CONCEPT
 familiarization	familiarization	INTERMEDIARY_CONCEPT
 healthy diets	-	INTERMEDIARY_CONCEPT
-cod liver oil	-	FOOD
+cod liver oil	-	INTERMEDIARY_CONCEPT
 mentha spicata	-	FOOD
 last resort	-	INTERMEDIARY_CONCEPT
 neurotoxin	neurotoxin	INTERMEDIARY_CONCEPT
-avocado oil	-	FOOD
+avocado oil	-	INTERMEDIARY_CONCEPT
 reticulum cell sarcoma	-	DISEASE
 non drug prescriptions	-	INTERMEDIARY_CONCEPT
 head louse	-	INTERMEDIARY_CONCEPT
@@ -12913,8 +12913,8 @@ androderm	androderm	INTERMEDIARY_CONCEPT
 formaldehyde	formaldehyde	INTERMEDIARY_CONCEPT
 tobacco smoke air pollution	-	INTERMEDIARY_CONCEPT
 acute monocytic leukemia	-	DISEASE
-vegetarian diet	-	FOOD
-dietary management	-	FOOD
+vegetarian diet	-	INTERMEDIARY_CONCEPT
+dietary management	-	INTERMEDIARY_CONCEPT
 japanese researchers	-	INTERMEDIARY_CONCEPT
 leading cause	-	INTERMEDIARY_CONCEPT
 age related osteoporosis	-	DISEASE
@@ -12926,11 +12926,11 @@ lipectomy	lipectomy	INTERMEDIARY_CONCEPT
 praxel	praxel	INTERMEDIARY_CONCEPT
 sneak preview	-	INTERMEDIARY_CONCEPT
 foreign bodies	-	DISEASE
-herbivory	herbivory	FOOD
+herbivory	herbivory	INTERMEDIARY_CONCEPT
 win-win-win	win-win-win	INTERMEDIARY_CONCEPT
 1-biphosphonate 4-amino-1-hydroxybutylidene 1	-	INTERMEDIARY_CONCEPT
 taxation	taxation	INTERMEDIARY_CONCEPT
-reiter's syndrome	-	DISEASE
+reiter's syndrome	-	INTERMEDIARY_CONCEPT
 healthy habits	-	INTERMEDIARY_CONCEPT
 healthy years equivalent	-	INTERMEDIARY_CONCEPT
 defecation	defecation	INTERMEDIARY_CONCEPT
@@ -12993,7 +12993,7 @@ total estrogens	-	INTERMEDIARY_CONCEPT
 infects apples	-	FOOD
 fruit and vegetable juices	-	FOOD
 simple lifestyle	-	INTERMEDIARY_CONCEPT
-wood alcohol	-	FOOD
+wood alcohol	-	INTERMEDIARY_CONCEPT
 plant sepal	-	INTERMEDIARY_CONCEPT
 armpit	armpit	INTERMEDIARY_CONCEPT
 fat retention	-	INTERMEDIARY_CONCEPT
@@ -13005,18 +13005,18 @@ strains	strain	DISEASE
 fetuses	fetus	INTERMEDIARY_CONCEPT
 ici-46	ici-46	INTERMEDIARY_CONCEPT
 chronic daily headaches	-	DISEASE
-tear secretions	-	FOOD
+tear secretions	-	INTERMEDIARY_CONCEPT
 hydroxyacetanilide	hydroxyacetanilide	INTERMEDIARY_CONCEPT
 polynuclear aromatic hydrocarbons	-	INTERMEDIARY_CONCEPT
 cicer arietinums	-	FOOD
 mangosteens	mangosteen	FOOD
 english walnut	-	FOOD
-near-vegetarian diet	-	FOOD
+near-vegetarian diet	-	INTERMEDIARY_CONCEPT
 barrett epithelium	-	DISEASE
 chronic diseases	-	DISEASE
 withdrawal	withdrawal	INTERMEDIARY_CONCEPT
 l isomer methionine	-	INTERMEDIARY_CONCEPT
-menstrual cramps	-	DISEASE
+menstrual cramps	-	INTERMEDIARY_CONCEPT
 conjugated equine estrogens	-	INTERMEDIARY_CONCEPT
 wolf spider	-	INTERMEDIARY_CONCEPT
 moderatism	moderatism	INTERMEDIARY_CONCEPT
@@ -13024,7 +13024,7 @@ dried bark	-	INTERMEDIARY_CONCEPT
 paprika	paprika	FOOD
 pads	pad	INTERMEDIARY_CONCEPT
 marion nestle	-	INTERMEDIARY_CONCEPT
-nuts count	-	FOOD
+nuts count	-	INTERMEDIARY_CONCEPT
 gustatory seizure	-	DISEASE
 continuous wave lasers	-	INTERMEDIARY_CONCEPT
 carbs	carb	INTERMEDIARY_CONCEPT
@@ -13058,19 +13058,19 @@ winsomeness	winsomeness	INTERMEDIARY_CONCEPT
 crohns disease	-	DISEASE
 bloodstream doesn	-	INTERMEDIARY_CONCEPT
 vulva neoplasm	-	DISEASE
-sprouted beans	-	FOOD
+sprouted beans	-	INTERMEDIARY_CONCEPT
 monacolin k	-	INTERMEDIARY_CONCEPT
 frying foods	-	FOOD
 pepper	pepper	FOOD
 long sleeper syndromes	-	DISEASE
 malabar-nut	malabar-nut	FOOD
 smoke flavorings	-	INTERMEDIARY_CONCEPT
-acacia gum	-	FOOD
+acacia gum	-	INTERMEDIARY_CONCEPT
 polyaromatic hydrocarbon receptor	-	INTERMEDIARY_CONCEPT
 lumbar cords	-	INTERMEDIARY_CONCEPT
 metastases	metastase	DISEASE
 latinos	latino	INTERMEDIARY_CONCEPT
-avocado commission	-	FOOD
+avocado commission	-	INTERMEDIARY_CONCEPT
 syzygium sandwicense	-	FOOD
 bilateral sciaticas	-	DISEASE
 care2	care2	INTERMEDIARY_CONCEPT
@@ -13091,8 +13091,8 @@ potential culprits	-	INTERMEDIARY_CONCEPT
 studio	studio	INTERMEDIARY_CONCEPT
 no coffee	-	FOOD
 antioxidant enzymes	-	INTERMEDIARY_CONCEPT
-cocoa solids	-	FOOD
-healthier diet	-	FOOD
+cocoa solids	-	INTERMEDIARY_CONCEPT
+healthier diet	-	INTERMEDIARY_CONCEPT
 latinas	latina	INTERMEDIARY_CONCEPT
 diabetic	diabetic	INTERMEDIARY_CONCEPT
 primate	primate	INTERMEDIARY_CONCEPT
@@ -13105,23 +13105,23 @@ mashed potatoes	-	FOOD
 social anxiety disorders	-	DISEASE
 latest meta-analysis	-	INTERMEDIARY_CONCEPT
 flavonoid phytonutrients	-	INTERMEDIARY_CONCEPT
-near-vegan diet	-	FOOD
+near-vegan diet	-	INTERMEDIARY_CONCEPT
 glyconutrients	glyconutrient	INTERMEDIARY_CONCEPT
 petri dish	-	INTERMEDIARY_CONCEPT
 no scam	-	INTERMEDIARY_CONCEPT
 vincrisul	vincrisul	INTERMEDIARY_CONCEPT
 age related bone loss	-	DISEASE
-vitamin d-deficient	-	FOOD
+vitamin d-deficient	-	INTERMEDIARY_CONCEPT
 esselstyn	esselstyn	INTERMEDIARY_CONCEPT
 vegetative nervous systems	-	INTERMEDIARY_CONCEPT
-wart viruses	-	DISEASE
+wart viruses	-	INTERMEDIARY_CONCEPT
 sodium salt arachidonic acid	-	INTERMEDIARY_CONCEPT
 lymphoid cells	-	INTERMEDIARY_CONCEPT
 lemmus	lemmus	INTERMEDIARY_CONCEPT
 consultation	consultation	INTERMEDIARY_CONCEPT
 meals	meal	FOOD
 4 2-hydroxy-2'	-	INTERMEDIARY_CONCEPT
-western dietary patterns	-	FOOD
+western dietary patterns	-	INTERMEDIARY_CONCEPT
 fisetin	fisetin	INTERMEDIARY_CONCEPT
 intactness	intactness	INTERMEDIARY_CONCEPT
 walter willet	-	INTERMEDIARY_CONCEPT
@@ -13133,7 +13133,7 @@ seed intake	-	INTERMEDIARY_CONCEPT
 nervous system degenerative diseases	-	DISEASE
 malignant epithelial neoplasm	-	DISEASE
 coarse tremors	-	DISEASE
-chicken virus	-	FOOD
+chicken virus	-	INTERMEDIARY_CONCEPT
 nanocrystals	nanocrystal	INTERMEDIARY_CONCEPT
 tonsillar cancers	-	DISEASE
 kenaf	kenaf	FOOD
@@ -13196,7 +13196,7 @@ curcuma longas	-	FOOD
 home cooking	-	INTERMEDIARY_CONCEPT
 hb 419	-	INTERMEDIARY_CONCEPT
 primary fibromyalgias	-	DISEASE
-two kiwis	-	FOOD
+two kiwis	-	INTERMEDIARY_CONCEPT
 public health	-	INTERMEDIARY_CONCEPT
 zone therapy	-	INTERMEDIARY_CONCEPT
 chemo	chemo	INTERMEDIARY_CONCEPT
@@ -13215,14 +13215,14 @@ earl	earl	INTERMEDIARY_CONCEPT
 parietal region trauma	-	DISEASE
 prions	prion	INTERMEDIARY_CONCEPT
 galactose 1 phosphate uridyltransferase deficiency	-	DISEASE
-organic greens	-	FOOD
+organic greens	-	INTERMEDIARY_CONCEPT
 continuous tremor	-	DISEASE
 urosin	urosin	INTERMEDIARY_CONCEPT
 psychosurgeries	psychosurgery	INTERMEDIARY_CONCEPT
 inorganic sulfites	-	INTERMEDIARY_CONCEPT
 prosopi	prosopi	FOOD
 smoked foods	-	FOOD
-treating asthma	-	FOOD
+treating asthma	-	INTERMEDIARY_CONCEPT
 flavorings	flavoring	FOOD
 nervus opticus	-	INTERMEDIARY_CONCEPT
 blood beta-carotene	-	INTERMEDIARY_CONCEPT
@@ -13232,7 +13232,7 @@ ovarian cancer	-	DISEASE
 vital sign	-	INTERMEDIARY_CONCEPT
 pass	pass	INTERMEDIARY_CONCEPT
 eating vegetarian	-	INTERMEDIARY_CONCEPT
-dietary components	-	FOOD
+dietary components	-	INTERMEDIARY_CONCEPT
 producers council	-	INTERMEDIARY_CONCEPT
 receptiveness	receptiveness	INTERMEDIARY_CONCEPT
 worldwide health	-	INTERMEDIARY_CONCEPT
@@ -13240,7 +13240,7 @@ great apes	-	INTERMEDIARY_CONCEPT
 nightshade	nightshade	FOOD
 tetracycline monohydrochloride	-	INTERMEDIARY_CONCEPT
 bucket	bucket	INTERMEDIARY_CONCEPT
-hiv patients	-	DISEASE
+hiv patients	-	INTERMEDIARY_CONCEPT
 dilations	dilation	INTERMEDIARY_CONCEPT
 shorter lifespan	-	INTERMEDIARY_CONCEPT
 dilate	dilate	INTERMEDIARY_CONCEPT
@@ -13253,11 +13253,11 @@ coriandrum	coriandrum	FOOD
 eath	eath	INTERMEDIARY_CONCEPT
 grow breasts	-	INTERMEDIARY_CONCEPT
 major surgery	-	INTERMEDIARY_CONCEPT
-western dietary pattern	-	FOOD
+western dietary pattern	-	INTERMEDIARY_CONCEPT
 ortho brand of testosterone	-	INTERMEDIARY_CONCEPT
 galactosemia	galactosemia	DISEASE
-include msg	-	FOOD
-sugar control	-	FOOD
+include msg	-	INTERMEDIARY_CONCEPT
+sugar control	-	INTERMEDIARY_CONCEPT
 oatmeal	oatmeal	FOOD
 thriller	thriller	INTERMEDIARY_CONCEPT
 bowel disease	-	DISEASE
@@ -13324,7 +13324,7 @@ passing gas	-	INTERMEDIARY_CONCEPT
 potato proteins	-	INTERMEDIARY_CONCEPT
 flying fox	-	INTERMEDIARY_CONCEPT
 cordite	cordite	INTERMEDIARY_CONCEPT
-plantation	plantation	FOOD
+plantation	plantation	INTERMEDIARY_CONCEPT
 podcast	podcast	INTERMEDIARY_CONCEPT
 mononitrogen monoxide	-	INTERMEDIARY_CONCEPT
 diabetes epidemic	-	INTERMEDIARY_CONCEPT
@@ -13340,11 +13340,11 @@ meta-analysis	meta-analysis	INTERMEDIARY_CONCEPT
 esophagus neoplasm	-	DISEASE
 cardiac diseases	-	DISEASE
 todarodes	todarode	INTERMEDIARY_CONCEPT
-framingham	framingham	FOOD
+framingham	framingham	INTERMEDIARY_CONCEPT
 dramamine	dramamine	INTERMEDIARY_CONCEPT
 consumption biomarkers	-	INTERMEDIARY_CONCEPT
 nanogram	nanogram	INTERMEDIARY_CONCEPT
-disease mortality	-	DISEASE
+disease mortality	-	INTERMEDIARY_CONCEPT
 haritaki fruit	-	FOOD
 beta-caseins	beta-casein	INTERMEDIARY_CONCEPT
 ranchers	rancher	INTERMEDIARY_CONCEPT
@@ -13366,7 +13366,7 @@ supplies	supplies	INTERMEDIARY_CONCEPT
 cycad trees	-	FOOD
 sperm counts	-	INTERMEDIARY_CONCEPT
 sea vegetables	-	FOOD
-dietary nitrates	-	FOOD
+dietary nitrates	-	INTERMEDIARY_CONCEPT
 cryptoxanthins	cryptoxanthin	INTERMEDIARY_CONCEPT
 inspection	inspection	INTERMEDIARY_CONCEPT
 justicia adhatoda	-	FOOD
@@ -13398,7 +13398,7 @@ mangiferas	mangiferas	FOOD
 general mills	-	INTERMEDIARY_CONCEPT
 estrogenic agents	-	INTERMEDIARY_CONCEPT
 tryptophan	tryptophan	INTERMEDIARY_CONCEPT
-tea drinking	-	FOOD
+tea drinking	-	INTERMEDIARY_CONCEPT
 pulmonary disease	-	DISEASE
 low fat	-	INTERMEDIARY_CONCEPT
 heme b	-	INTERMEDIARY_CONCEPT
@@ -13417,13 +13417,13 @@ rock wallabies	-	INTERMEDIARY_CONCEPT
 complex antioxidant	-	INTERMEDIARY_CONCEPT
 brynner	brynner	INTERMEDIARY_CONCEPT
 ag-zn superoxide dismutase	-	INTERMEDIARY_CONCEPT
-spinach leaves	-	FOOD
-beef association	-	FOOD
+spinach leaves	-	INTERMEDIARY_CONCEPT
+beef association	-	INTERMEDIARY_CONCEPT
 vitaseptol	vitaseptol	INTERMEDIARY_CONCEPT
 vagina	vagina	INTERMEDIARY_CONCEPT
 hemorrhages	hemorrhage	DISEASE
 neuritic plaque	-	DISEASE
-hamming	ham	FOOD
+hamming	ham	INTERMEDIARY_CONCEPT
 oral health	-	INTERMEDIARY_CONCEPT
 poor 24-year-old	-	INTERMEDIARY_CONCEPT
 asparagus pee	-	INTERMEDIARY_CONCEPT
@@ -13460,7 +13460,7 @@ leukemia cells	-	INTERMEDIARY_CONCEPT
 breast	breast	INTERMEDIARY_CONCEPT
 cell senescence	-	INTERMEDIARY_CONCEPT
 antidepressive agents	-	INTERMEDIARY_CONCEPT
-filamentous fungi	-	FOOD
+filamentous fungi	-	INTERMEDIARY_CONCEPT
 pineal glands	-	INTERMEDIARY_CONCEPT
 calcium supplements	-	INTERMEDIARY_CONCEPT
 blood cancers	-	DISEASE
@@ -13512,7 +13512,7 @@ aroma therapy	-	INTERMEDIARY_CONCEPT
 epa standards	-	INTERMEDIARY_CONCEPT
 crate	crate	INTERMEDIARY_CONCEPT
 artery disease	-	DISEASE
-cancer killer	-	DISEASE
+cancer killer	-	INTERMEDIARY_CONCEPT
 glaxosmithkline brand 2 of digoxin	-	INTERMEDIARY_CONCEPT
 5 2h-1-benzopyran-3	-	INTERMEDIARY_CONCEPT
 sorbic acid	-	INTERMEDIARY_CONCEPT
@@ -13531,7 +13531,7 @@ wrinkles	wrinkle	INTERMEDIARY_CONCEPT
 modern 1601- history	-	INTERMEDIARY_CONCEPT
 ldl levels	-	INTERMEDIARY_CONCEPT
 new studies	-	INTERMEDIARY_CONCEPT
-cancer growth	-	DISEASE
+cancer growth	-	INTERMEDIARY_CONCEPT
 carotid sinus syncope	-	DISEASE
 tobacco	tobacco	FOOD
 homoeopathy	homoeopathy	INTERMEDIARY_CONCEPT
@@ -13579,7 +13579,7 @@ medical education	-	INTERMEDIARY_CONCEPT
 coffeinum n	-	INTERMEDIARY_CONCEPT
 parasitism	parasitism	INTERMEDIARY_CONCEPT
 sharks	shark	INTERMEDIARY_CONCEPT
-intestinal inflammation	-	DISEASE
+intestinal inflammation	-	INTERMEDIARY_CONCEPT
 chronology as topic	-	INTERMEDIARY_CONCEPT
 anana	anana	FOOD
 a v dissociation	-	DISEASE
@@ -13594,7 +13594,7 @@ hazelnut	hazelnut	FOOD
 bone mineral contents	-	INTERMEDIARY_CONCEPT
 climate changes	-	INTERMEDIARY_CONCEPT
 panadol	panadol	INTERMEDIARY_CONCEPT
-regular diet	-	FOOD
+regular diet	-	INTERMEDIARY_CONCEPT
 experimental group	-	INTERMEDIARY_CONCEPT
 sugary foods	-	FOOD
 catatoxic steroids	-	INTERMEDIARY_CONCEPT
@@ -13637,7 +13637,7 @@ female infertility	-	DISEASE
 jakob-creutzfeldt disease	-	DISEASE
 alkalinizing agents	-	INTERMEDIARY_CONCEPT
 breastfeeding	breastfeed	INTERMEDIARY_CONCEPT
-plant-based sources	-	FOOD
+plant-based sources	-	INTERMEDIARY_CONCEPT
 bromination	bromination	INTERMEDIARY_CONCEPT
 galactokinase deficiencies	-	DISEASE
 illnesses	illness	INTERMEDIARY_CONCEPT
@@ -13662,12 +13662,12 @@ mineralization	mineralization	INTERMEDIARY_CONCEPT
 kidney cancers	-	DISEASE
 wound healings	-	INTERMEDIARY_CONCEPT
 ultrahigh frequency waves	-	INTERMEDIARY_CONCEPT
-bean-to-rice	bean-to-rice	FOOD
+bean-to-rice	bean-to-rice	INTERMEDIARY_CONCEPT
 feline leukemia viruses	-	DISEASE
 psychogenic parasitosis	-	DISEASE
 whole wheat	-	FOOD
 blood cell	-	INTERMEDIARY_CONCEPT
-low-carbohydrate diet	-	FOOD
+low-carbohydrate diet	-	INTERMEDIARY_CONCEPT
 hb419	hb419	INTERMEDIARY_CONCEPT
 lecithins	lecithin	INTERMEDIARY_CONCEPT
 ovis dalli	-	INTERMEDIARY_CONCEPT
@@ -13704,7 +13704,7 @@ physical fitness testing	-	INTERMEDIARY_CONCEPT
 real world	-	INTERMEDIARY_CONCEPT
 screenings	screening	INTERMEDIARY_CONCEPT
 omnivore	omnivore	INTERMEDIARY_CONCEPT
-stroke risk	-	DISEASE
+stroke risk	-	INTERMEDIARY_CONCEPT
 lilly brand of digoxin	-	INTERMEDIARY_CONCEPT
 x-radiations	x-radiation	INTERMEDIARY_CONCEPT
 ultrahigh frequency wave	-	INTERMEDIARY_CONCEPT
@@ -13715,12 +13715,12 @@ amphetamines	amphetamine	INTERMEDIARY_CONCEPT
 sensations	sensation	INTERMEDIARY_CONCEPT
 nagasaki	nagasaki	INTERMEDIARY_CONCEPT
 social mediums	-	INTERMEDIARY_CONCEPT
-nauseation	nauseation	DISEASE
+nauseation	nauseation	INTERMEDIARY_CONCEPT
 gasser's syndrome	-	DISEASE
 isometric exercise	-	INTERMEDIARY_CONCEPT
 high-antioxidant	high-antioxidant	INTERMEDIARY_CONCEPT
 emergency wards	-	INTERMEDIARY_CONCEPT
-chicken viruses	-	FOOD
+chicken viruses	-	INTERMEDIARY_CONCEPT
 2 phenyl benzopyrans	-	INTERMEDIARY_CONCEPT
 inappropriate gh secretion syndrome (acromegaly)	-	DISEASE
 creatinine	creatinine	INTERMEDIARY_CONCEPT
@@ -13728,7 +13728,7 @@ toxocara	toxocara	INTERMEDIARY_CONCEPT
 non-prescription drugs	-	INTERMEDIARY_CONCEPT
 leukocytes	leukocyte	INTERMEDIARY_CONCEPT
 hdl2 cholesterol	-	INTERMEDIARY_CONCEPT
-fungicide	fungicide	FOOD
+fungicide	fungicide	INTERMEDIARY_CONCEPT
 hay fever	-	DISEASE
 butazolidin	butazolidin	INTERMEDIARY_CONCEPT
 vital signs	-	INTERMEDIARY_CONCEPT
@@ -13738,7 +13738,7 @@ malignant tumor of urinary bladder	-	DISEASE
 headphone	headphone	INTERMEDIARY_CONCEPT
 gut microbiota	-	INTERMEDIARY_CONCEPT
 allergic reactions	-	DISEASE
-gumming	gum	FOOD
+gumming	gum	INTERMEDIARY_CONCEPT
 cytoplasmic filaments	-	INTERMEDIARY_CONCEPT
 hemangiopericytic meningioma	-	DISEASE
 women's health	-	INTERMEDIARY_CONCEPT
@@ -13750,7 +13750,7 @@ instillment	instillment	INTERMEDIARY_CONCEPT
 adhd symptoms	-	INTERMEDIARY_CONCEPT
 screening	screening	INTERMEDIARY_CONCEPT
 prevent and reverse heart disease	-	DISEASE
-omnivorous diet	-	FOOD
+omnivorous diet	-	INTERMEDIARY_CONCEPT
 n-acetyl-p-aminophenol	n-acetyl-p-aminophenol	INTERMEDIARY_CONCEPT
 immunosuppression	immunosuppression	INTERMEDIARY_CONCEPT
 agaricale	agaricale	INTERMEDIARY_CONCEPT
@@ -13784,15 +13784,15 @@ lactose	lactose	INTERMEDIARY_CONCEPT
 ride	ride	INTERMEDIARY_CONCEPT
 açai berries	-	FOOD
 metastase	metastase	INTERMEDIARY_CONCEPT
-cancer progression	-	DISEASE
+cancer progression	-	INTERMEDIARY_CONCEPT
 triticum turgidum	-	FOOD
 critical medical incidents	-	INTERMEDIARY_CONCEPT
 central nervous system cysticercosis	-	DISEASE
-westernized diet	-	FOOD
+westernized diet	-	INTERMEDIARY_CONCEPT
 outstanding health	-	INTERMEDIARY_CONCEPT
 submariners	submariner	INTERMEDIARY_CONCEPT
 t helper factor	-	INTERMEDIARY_CONCEPT
-dietetic association	-	FOOD
+dietetic association	-	INTERMEDIARY_CONCEPT
 bargaining	bargaining	INTERMEDIARY_CONCEPT
 flounder	flounder	FOOD
 rice	rice	FOOD
@@ -13822,7 +13822,7 @@ quinine-odan	quinine-odan	INTERMEDIARY_CONCEPT
 stem cells	-	INTERMEDIARY_CONCEPT
 generalized spasm	-	DISEASE
 lotions	lotion	INTERMEDIARY_CONCEPT
-horrific death	-	DISEASE
+horrific death	-	INTERMEDIARY_CONCEPT
 senile osteoporoses	-	DISEASE
 practitioner	practitioner	INTERMEDIARY_CONCEPT
 sleep initiation dysfunctions	-	DISEASE
@@ -13871,9 +13871,9 @@ firing	firing	INTERMEDIARY_CONCEPT
 responsible medicine	-	INTERMEDIARY_CONCEPT
 phase ii enzyme system	-	INTERMEDIARY_CONCEPT
 ten grams	-	INTERMEDIARY_CONCEPT
-disease frequency survey	-	DISEASE
+disease frequency survey	-	INTERMEDIARY_CONCEPT
 twitter messaging	-	INTERMEDIARY_CONCEPT
-cancer protection	-	DISEASE
+cancer protection	-	INTERMEDIARY_CONCEPT
 artichoke	artichoke	FOOD
 progenitor cells	-	INTERMEDIARY_CONCEPT
 consumer reports	-	INTERMEDIARY_CONCEPT
@@ -13908,7 +13908,7 @@ clear cell meningiomas	-	DISEASE
 working memories	-	INTERMEDIARY_CONCEPT
 different drugs	-	INTERMEDIARY_CONCEPT
 flame retardants	-	INTERMEDIARY_CONCEPT
-cherry juice	-	FOOD
+cherry juice	-	INTERMEDIARY_CONCEPT
 sirolimus	sirolimus	INTERMEDIARY_CONCEPT
 chlorhexidine	chlorhexidine	INTERMEDIARY_CONCEPT
 sdz202250	sdz202250	INTERMEDIARY_CONCEPT
@@ -13920,20 +13920,20 @@ committee recommendations	-	INTERMEDIARY_CONCEPT
 handling food	-	FOOD
 campylobacter infection	-	DISEASE
 quarts	quart	INTERMEDIARY_CONCEPT
-seaweed	seaweed	FOOD
+seaweed	seaweed	INTERMEDIARY_CONCEPT
 cannabis	cannabis	FOOD
 lens plant	-	FOOD
 cistron	cistron	INTERMEDIARY_CONCEPT
 common health	-	INTERMEDIARY_CONCEPT
 four habits	-	INTERMEDIARY_CONCEPT
 ob protein	-	INTERMEDIARY_CONCEPT
-dietary choline	-	FOOD
+dietary choline	-	INTERMEDIARY_CONCEPT
 gynecomastia	gynecomastia	DISEASE
 cell signaling	-	INTERMEDIARY_CONCEPT
 prevalence study	-	INTERMEDIARY_CONCEPT
 hydroxymethylglutaryl coa inhibitors	-	INTERMEDIARY_CONCEPT
 mucosa	mucosa	INTERMEDIARY_CONCEPT
-baked beans	-	FOOD
+baked beans	-	INTERMEDIARY_CONCEPT
 tremendous insight	-	INTERMEDIARY_CONCEPT
 amendment	amendment	INTERMEDIARY_CONCEPT
 hershey	hershey	INTERMEDIARY_CONCEPT
@@ -13978,7 +13978,7 @@ romaine lettuce	-	FOOD
 osteoarthritis	osteoarthritis	DISEASE
 regrets	regret	INTERMEDIARY_CONCEPT
 foligan	foligan	INTERMEDIARY_CONCEPT
-anti-acne activities	-	DISEASE
+anti-acne activities	-	INTERMEDIARY_CONCEPT
 leukovirus	leukovirus	DISEASE
 signalman	signalman	INTERMEDIARY_CONCEPT
 olfactory seizures	-	DISEASE
@@ -14001,7 +14001,7 @@ nitrolan	nitrolan	INTERMEDIARY_CONCEPT
 enterocele	enterocele	DISEASE
 early onset puberty	-	INTERMEDIARY_CONCEPT
 case-compeer studies	-	INTERMEDIARY_CONCEPT
-atherosclerosis research	-	DISEASE
+atherosclerosis research	-	INTERMEDIARY_CONCEPT
 carnitine palmitoyl transferase	-	INTERMEDIARY_CONCEPT
 ro 21-3981	-	INTERMEDIARY_CONCEPT
 inflammatory disease	-	DISEASE
@@ -14010,7 +14010,7 @@ multiple meningioma	-	DISEASE
 exciting case	-	INTERMEDIARY_CONCEPT
 voles	vole	INTERMEDIARY_CONCEPT
 easy-to-understand video	-	INTERMEDIARY_CONCEPT
-vitamin a aldehyde	-	FOOD
+vitamin a aldehyde	-	INTERMEDIARY_CONCEPT
 lymphoplasmacytoid lymphoma	-	DISEASE
 air force personnel	-	INTERMEDIARY_CONCEPT
 galactokinase deficiency disease	-	DISEASE
@@ -14040,14 +14040,14 @@ black rice	-	FOOD
 referencing the american heart association	-	INTERMEDIARY_CONCEPT
 gingivitis	gingivitis	DISEASE
 toxico-infectious botulism	-	DISEASE
-dietary scoring	-	FOOD
+dietary scoring	-	INTERMEDIARY_CONCEPT
 indigestion	indigestion	DISEASE
 lower back pain	-	DISEASE
 gut flora	-	INTERMEDIARY_CONCEPT
 pistacia vera	-	FOOD
 sleep wake disorders	-	DISEASE
 intact grains	-	INTERMEDIARY_CONCEPT
-dietary phytochemicals	-	FOOD
+dietary phytochemicals	-	INTERMEDIARY_CONCEPT
 familial atrial fibrillations	-	DISEASE
 mammal	mammal	INTERMEDIARY_CONCEPT
 xeno-autoantibodies	xeno-autoantibodies	INTERMEDIARY_CONCEPT
@@ -14124,7 +14124,7 @@ clinical nutrition	-	INTERMEDIARY_CONCEPT
 blood pressure medications	-	INTERMEDIARY_CONCEPT
 rodovan	rodovan	INTERMEDIARY_CONCEPT
 spinal cord health	-	INTERMEDIARY_CONCEPT
-pork tapeworm	-	FOOD
+pork tapeworm	-	INTERMEDIARY_CONCEPT
 comet assays	-	INTERMEDIARY_CONCEPT
 appendant	appendant	INTERMEDIARY_CONCEPT
 cancer of bone	-	DISEASE
@@ -14147,9 +14147,9 @@ peripheral artery diseases	-	DISEASE
 strawberry	strawberry	FOOD
 healthier meat	-	FOOD
 chronic b lymphocytic leukemia	-	DISEASE
-low salt diet	-	FOOD
+low salt diet	-	INTERMEDIARY_CONCEPT
 collard	collard	FOOD
-tobacco industries	-	FOOD
+tobacco industries	-	INTERMEDIARY_CONCEPT
 crystallization	crystallization	INTERMEDIARY_CONCEPT
 proper hydration	-	INTERMEDIARY_CONCEPT
 suction lipectomies	-	INTERMEDIARY_CONCEPT
@@ -14158,7 +14158,7 @@ festivals	festival	INTERMEDIARY_CONCEPT
 anti-proteus	anti-proteus	INTERMEDIARY_CONCEPT
 extra calories	-	INTERMEDIARY_CONCEPT
 last meal	-	FOOD
-nutrient density	-	FOOD
+nutrient density	-	INTERMEDIARY_CONCEPT
 ochre suppressor genes	-	INTERMEDIARY_CONCEPT
 kombu	kombu	INTERMEDIARY_CONCEPT
 schizophrenia	schizophrenia	DISEASE
@@ -14171,7 +14171,7 @@ food borne illnesses	-	DISEASE
 5 hydroxytryptamine	-	INTERMEDIARY_CONCEPT
 centedrin	centedrin	INTERMEDIARY_CONCEPT
 mother clubs	-	INTERMEDIARY_CONCEPT
-plant sepals	-	FOOD
+plant sepals	-	INTERMEDIARY_CONCEPT
 cognitive function	-	INTERMEDIARY_CONCEPT
 undercooks	undercook	INTERMEDIARY_CONCEPT
 postoperative emesis	-	DISEASE
@@ -14202,7 +14202,7 @@ foreign objects	-	DISEASE
 cancer of the penis	-	DISEASE
 breads	bread	FOOD
 endurance	endurance	INTERMEDIARY_CONCEPT
-disease risk	-	DISEASE
+disease risk	-	INTERMEDIARY_CONCEPT
 catarrhs	catarrh	DISEASE
 premenstrual syndrome	-	DISEASE
 licorice root	-	FOOD
@@ -14246,8 +14246,8 @@ sealdin	sealdin	INTERMEDIARY_CONCEPT
 edible muscle	-	INTERMEDIARY_CONCEPT
 formosa	formosa	INTERMEDIARY_CONCEPT
 brinjal	brinjal	FOOD
-protein diet	-	FOOD
-cancer-causing chicken	-	DISEASE
+protein diet	-	INTERMEDIARY_CONCEPT
+cancer-causing chicken	-	INTERMEDIARY_CONCEPT
 second-hand smoke	-	INTERMEDIARY_CONCEPT
 endochondral ossifications	-	INTERMEDIARY_CONCEPT
 climopax	climopax	INTERMEDIARY_CONCEPT
@@ -14258,7 +14258,7 @@ determination of death	-	DISEASE
 hawthorn	hawthorn	FOOD
 mptp-induced experimental parkinsonism	-	DISEASE
 hormonal manipulation	-	INTERMEDIARY_CONCEPT
-african diet	-	FOOD
+african diet	-	INTERMEDIARY_CONCEPT
 anesthesia	anesthesia	INTERMEDIARY_CONCEPT
 education council	-	INTERMEDIARY_CONCEPT
 nutrient synergy	-	INTERMEDIARY_CONCEPT
@@ -14313,7 +14313,7 @@ zucchini	zucchini	FOOD
 mesclun mix	-	INTERMEDIARY_CONCEPT
 hemp plant	-	FOOD
 natural remedies	-	INTERMEDIARY_CONCEPT
-pork consumption	-	FOOD
+pork consumption	-	INTERMEDIARY_CONCEPT
 raw vegan	-	INTERMEDIARY_CONCEPT
 economic downturn	-	INTERMEDIARY_CONCEPT
 gestation	gestation	INTERMEDIARY_CONCEPT
@@ -14324,11 +14324,11 @@ amphetamine	amphetamine	INTERMEDIARY_CONCEPT
 mallinckrodt brand of methylphenidate hydrochloride	-	INTERMEDIARY_CONCEPT
 dietary supplementations	-	FOOD
 ulcerative colitis type inflammatory bowel disease	-	DISEASE
-cancer concerns	-	DISEASE
+cancer concerns	-	INTERMEDIARY_CONCEPT
 carts	cart	INTERMEDIARY_CONCEPT
 ignoring research	-	INTERMEDIARY_CONCEPT
 butyrate-producing bacteria	-	INTERMEDIARY_CONCEPT
-beethoven	beethoven	FOOD
+beethoven	beethoven	INTERMEDIARY_CONCEPT
 venti	venti	INTERMEDIARY_CONCEPT
 sulfide	sulfide	INTERMEDIARY_CONCEPT
 tremendous interest	-	INTERMEDIARY_CONCEPT
@@ -14382,13 +14382,13 @@ currant	currant	FOOD
 optic nerves	-	INTERMEDIARY_CONCEPT
 gamma imino atp	-	INTERMEDIARY_CONCEPT
 fat intake	-	INTERMEDIARY_CONCEPT
-plant enzymes	-	FOOD
+plant enzymes	-	INTERMEDIARY_CONCEPT
 relieving depression	-	INTERMEDIARY_CONCEPT
 manic disorders	-	DISEASE
 soothing agent	-	INTERMEDIARY_CONCEPT
-cancer outcome	-	DISEASE
+cancer outcome	-	INTERMEDIARY_CONCEPT
 virginity	virginity	INTERMEDIARY_CONCEPT
-chronic constipation	-	DISEASE
+chronic constipation	-	INTERMEDIARY_CONCEPT
 transluminal angioplasty	-	INTERMEDIARY_CONCEPT
 degrees celsius	-	INTERMEDIARY_CONCEPT
 the holocaust	-	INTERMEDIARY_CONCEPT
@@ -14417,13 +14417,13 @@ stevia	stevia	FOOD
 lobotomies	lobotomy	INTERMEDIARY_CONCEPT
 eden	eden	INTERMEDIARY_CONCEPT
 torsion fractures	-	DISEASE
-meat intake	-	FOOD
+meat intake	-	INTERMEDIARY_CONCEPT
 diagnosis	diagnosis	INTERMEDIARY_CONCEPT
 dinner times	-	FOOD
 miraculous powers	-	INTERMEDIARY_CONCEPT
 keoflo	keoflo	INTERMEDIARY_CONCEPT
 interdental papilla	-	INTERMEDIARY_CONCEPT
-non-meat diet	-	FOOD
+non-meat diet	-	INTERMEDIARY_CONCEPT
 iodisation	iodisation	INTERMEDIARY_CONCEPT
 hypermelanoses	hypermelanose	DISEASE
 dyspepsia	dyspepsia	DISEASE
@@ -14433,11 +14433,11 @@ nasal membranes	-	INTERMEDIARY_CONCEPT
 bertholletia	bertholletia	FOOD
 iodinate	iodinate	INTERMEDIARY_CONCEPT
 potassium	potassium	INTERMEDIARY_CONCEPT
-caveman diets	-	FOOD
+caveman diets	-	INTERMEDIARY_CONCEPT
 tussive syncope	-	DISEASE
 desensitizing	desensitize	INTERMEDIARY_CONCEPT
 antiangiogenesis effect	-	INTERMEDIARY_CONCEPT
-treat emphysema	-	FOOD
+treat emphysema	-	INTERMEDIARY_CONCEPT
 (r)-isomer colchicine	-	INTERMEDIARY_CONCEPT
 plant steroids	-	INTERMEDIARY_CONCEPT
 flavanol	flavanol	INTERMEDIARY_CONCEPT
@@ -14480,7 +14480,7 @@ exercises	exercise	INTERMEDIARY_CONCEPT
 suprapubic prostatectomy	-	INTERMEDIARY_CONCEPT
 exerciser	exerciser	INTERMEDIARY_CONCEPT
 amine oxidase	-	INTERMEDIARY_CONCEPT
-eat soy	-	FOOD
+eat soy	-	INTERMEDIARY_CONCEPT
 digital computers	-	INTERMEDIARY_CONCEPT
 aspartame intake	-	INTERMEDIARY_CONCEPT
 okinawan	okinawan	INTERMEDIARY_CONCEPT
@@ -14516,11 +14516,11 @@ enteroinvasive escherichia coli	-	INTERMEDIARY_CONCEPT
 metabolous	metabolous	INTERMEDIARY_CONCEPT
 amnestic state	-	DISEASE
 catechins	catechin	INTERMEDIARY_CONCEPT
-disease processes	-	DISEASE
+disease processes	-	INTERMEDIARY_CONCEPT
 hiatus hernia	-	DISEASE
 breast neoplasm	-	DISEASE
 low backache	-	DISEASE
-broccoli sprouts	-	FOOD
+broccoli sprouts	-	INTERMEDIARY_CONCEPT
 respiratory tract cancer	-	DISEASE
 atrophy	atrophy	DISEASE
 creutzfeldt jacob disease	-	DISEASE
@@ -14552,7 +14552,7 @@ complications of diabetes mellitus	-	DISEASE
 longevity	longevity	INTERMEDIARY_CONCEPT
 motor seizures	-	DISEASE
 mustard plants	-	FOOD
-beverages last	-	FOOD
+beverages last	-	INTERMEDIARY_CONCEPT
 vincristin medac	-	INTERMEDIARY_CONCEPT
 nu pharm brand of lorazepam	-	INTERMEDIARY_CONCEPT
 syzygium	syzygium	FOOD
@@ -14602,7 +14602,7 @@ wild pheasants	-	INTERMEDIARY_CONCEPT
 type 1 diabetes mellitus	-	DISEASE
 mydrial	mydrial	INTERMEDIARY_CONCEPT
 wheat allergies	-	DISEASE
-brown rice syrup	-	FOOD
+brown rice syrup	-	INTERMEDIARY_CONCEPT
 west irian	-	INTERMEDIARY_CONCEPT
 waste stream	-	INTERMEDIARY_CONCEPT
 great britain	-	INTERMEDIARY_CONCEPT
@@ -14617,8 +14617,8 @@ anesthetization	anesthetization	INTERMEDIARY_CONCEPT
 hormone-disruptors	hormone-disruptor	INTERMEDIARY_CONCEPT
 hexachlorocyclohexane	hexachlorocyclohexane	INTERMEDIARY_CONCEPT
 stains	stain	INTERMEDIARY_CONCEPT
-cancer cell proliferation	-	DISEASE
-dietary pollutants	-	FOOD
+cancer cell proliferation	-	INTERMEDIARY_CONCEPT
+dietary pollutants	-	INTERMEDIARY_CONCEPT
 proper cooking	-	INTERMEDIARY_CONCEPT
 aptitudes	aptitude	INTERMEDIARY_CONCEPT
 bean sprouts	-	FOOD
@@ -14662,7 +14662,7 @@ landmark study	-	INTERMEDIARY_CONCEPT
 novalsan	novalsan	INTERMEDIARY_CONCEPT
 gluten-sensitive enteropathies	-	DISEASE
 galactose 1 phosphate uridyl transferase deficiency disease	-	DISEASE
-vitamin 's'	-	FOOD
+vitamin 's'	-	INTERMEDIARY_CONCEPT
 galactokinase deficiency diseases	-	DISEASE
 peanut butter	-	FOOD
 cashiers	cashier	INTERMEDIARY_CONCEPT
@@ -14675,7 +14675,7 @@ smoking patterns	-	INTERMEDIARY_CONCEPT
 narrow-leaved plantains	-	FOOD
 date	date	INTERMEDIARY_CONCEPT
 pleasure center	-	INTERMEDIARY_CONCEPT
-meat eating	-	FOOD
+meat eating	-	INTERMEDIARY_CONCEPT
 burning pain	-	DISEASE
 joggings	jogging	INTERMEDIARY_CONCEPT
 tmao production	-	INTERMEDIARY_CONCEPT
@@ -14690,13 +14690,13 @@ upper respiratory infections	-	DISEASE
 lifeguards	lifeguard	INTERMEDIARY_CONCEPT
 adenovirus	adenovirus	DISEASE
 galactosemia iiis	-	DISEASE
-decrease inflammation	-	DISEASE
+decrease inflammation	-	INTERMEDIARY_CONCEPT
 false advertising	-	INTERMEDIARY_CONCEPT
 blood flow	-	INTERMEDIARY_CONCEPT
 foodborne illnesses	-	DISEASE
 relaxant phytonutrient	-	INTERMEDIARY_CONCEPT
 wound healing	-	INTERMEDIARY_CONCEPT
-processed juice	-	FOOD
+processed juice	-	INTERMEDIARY_CONCEPT
 v-cjd (variant-creutzfeldt-jakob disease)	-	DISEASE
 macadamia nuts	-	FOOD
 interventional study	-	INTERMEDIARY_CONCEPT
@@ -14723,7 +14723,7 @@ cyanocobalamin	cyanocobalamin	INTERMEDIARY_CONCEPT
 non epileptic convulsion	-	DISEASE
 riding	ride	INTERMEDIARY_CONCEPT
 hydrogen bombs	-	INTERMEDIARY_CONCEPT
-orange infamy	-	FOOD
+orange infamy	-	INTERMEDIARY_CONCEPT
 malabar-nuts	malabar-nut	FOOD
 falx cerebrus	-	INTERMEDIARY_CONCEPT
 eating healthier	-	INTERMEDIARY_CONCEPT
@@ -14734,7 +14734,7 @@ endotenon	endotenon	INTERMEDIARY_CONCEPT
 shortened telomeres	-	INTERMEDIARY_CONCEPT
 long-term adherence	-	INTERMEDIARY_CONCEPT
 splitting pain	-	DISEASE
-roaster	roaster	FOOD
+roaster	roaster	INTERMEDIARY_CONCEPT
 manic-depressive psychosis	-	DISEASE
 breakfasts	breakfast	FOOD
 controlled study	-	INTERMEDIARY_CONCEPT
@@ -14753,11 +14753,11 @@ pervasion	pervasion	INTERMEDIARY_CONCEPT
 trihydrate alendronate monosodium salt	-	INTERMEDIARY_CONCEPT
 limonol	limonol	INTERMEDIARY_CONCEPT
 rupture	rupture	DISEASE
-ovary syndrome	-	DISEASE
+ovary syndrome	-	INTERMEDIARY_CONCEPT
 endoluminal repair	-	INTERMEDIARY_CONCEPT
 curcumas	curcuma	FOOD
 goiabas	goiaba	FOOD
-dietary interventions	-	FOOD
+dietary interventions	-	INTERMEDIARY_CONCEPT
 testis cancer	-	DISEASE
 food calories	-	INTERMEDIARY_CONCEPT
 h. pylori	-	INTERMEDIARY_CONCEPT
@@ -14781,7 +14781,7 @@ pms lindane	-	INTERMEDIARY_CONCEPT
 spongiform encephalopathies	-	DISEASE
 texidor twinge	-	DISEASE
 mma levels	-	INTERMEDIARY_CONCEPT
-juice plus	-	FOOD
+juice plus	-	INTERMEDIARY_CONCEPT
 utis	utis	INTERMEDIARY_CONCEPT
 reactant	reactant	INTERMEDIARY_CONCEPT
 novopurol	novopurol	INTERMEDIARY_CONCEPT
@@ -14792,7 +14792,7 @@ baby carrots	-	FOOD
 thermal hypesthesia	-	DISEASE
 bookplate	bookplate	INTERMEDIARY_CONCEPT
 myeloma	myeloma	INTERMEDIARY_CONCEPT
-quinoa protein	-	FOOD
+quinoa protein	-	INTERMEDIARY_CONCEPT
 cva (cerebrovascular accident)	-	DISEASE
 lameness	lameness	INTERMEDIARY_CONCEPT
 apium graveolens var. rapaceum	-	FOOD
@@ -14871,8 +14871,8 @@ enoki	enoki	INTERMEDIARY_CONCEPT
 prostate gland	-	INTERMEDIARY_CONCEPT
 box elders	-	FOOD
 low intakes	-	INTERMEDIARY_CONCEPT
-throats	throat	FOOD
-dietitian	dietitian	FOOD
+throats	throat	INTERMEDIARY_CONCEPT
+dietitian	dietitian	INTERMEDIARY_CONCEPT
 butternut squash	-	FOOD
 cured meat	-	FOOD
 miocene	miocene	INTERMEDIARY_CONCEPT
@@ -14890,16 +14890,16 @@ fresh fruits	-	FOOD
 anxiety disorder	-	DISEASE
 kiwifruit organization	-	INTERMEDIARY_CONCEPT
 vintec	vintec	INTERMEDIARY_CONCEPT
-plumage	plumage	FOOD
+plumage	plumage	INTERMEDIARY_CONCEPT
 urinary levels	-	INTERMEDIARY_CONCEPT
 marine oil	-	INTERMEDIARY_CONCEPT
 beneficial health	-	INTERMEDIARY_CONCEPT
 male fertility	-	INTERMEDIARY_CONCEPT
-cancer-or-e-coli conundrum	-	DISEASE
-doughnut	doughnut	FOOD
+cancer-or-e-coli conundrum	-	INTERMEDIARY_CONCEPT
+doughnut	doughnut	INTERMEDIARY_CONCEPT
 soybeans	soybean	FOOD
 prevalence	prevalence	INTERMEDIARY_CONCEPT
-ulceration	ulceration	DISEASE
+ulceration	ulceration	INTERMEDIARY_CONCEPT
 swiss chard	-	FOOD
 whortleberry	whortleberry	FOOD
 pain-killers	pain-killer	INTERMEDIARY_CONCEPT
@@ -14916,11 +14916,11 @@ hospital service emergency	-	INTERMEDIARY_CONCEPT
 oxidant stress	-	INTERMEDIARY_CONCEPT
 ear infections	-	INTERMEDIARY_CONCEPT
 immortalisation	immortalisation	INTERMEDIARY_CONCEPT
-dietary antioxidant	-	FOOD
+dietary antioxidant	-	INTERMEDIARY_CONCEPT
 allium cepa	-	FOOD
 nutmeg	nutmeg	FOOD
 milk thistle	-	FOOD
-cancer stem	-	DISEASE
+cancer stem	-	INTERMEDIARY_CONCEPT
 nugget	nugget	INTERMEDIARY_CONCEPT
 average american	-	INTERMEDIARY_CONCEPT
 environments	environment	INTERMEDIARY_CONCEPT
@@ -14957,13 +14957,13 @@ endocrine-disrupting chemicals	-	INTERMEDIARY_CONCEPT
 religious sister	-	INTERMEDIARY_CONCEPT
 frameshift suppressor gene	-	INTERMEDIARY_CONCEPT
 genetics	genetics	INTERMEDIARY_CONCEPT
-apple peels	-	FOOD
+apple peels	-	INTERMEDIARY_CONCEPT
 university of memphis	-	INTERMEDIARY_CONCEPT
 gold kiwifruit	-	INTERMEDIARY_CONCEPT
 eupatorium rebaudianum	-	FOOD
 pms tryptophan	-	INTERMEDIARY_CONCEPT
 spools	spool	INTERMEDIARY_CONCEPT
-taking multivitamins	-	FOOD
+taking multivitamins	-	INTERMEDIARY_CONCEPT
 aircraft	aircraft	INTERMEDIARY_CONCEPT
 blood clottings	-	INTERMEDIARY_CONCEPT
 developing fetus	-	INTERMEDIARY_CONCEPT
@@ -14997,14 +14997,14 @@ muskrat	muskrat	INTERMEDIARY_CONCEPT
 beta vulgari	-	FOOD
 red delicious apples	-	FOOD
 octopodiforme	octopodiforme	INTERMEDIARY_CONCEPT
-cancer cell	-	DISEASE
+cancer cell	-	INTERMEDIARY_CONCEPT
 head pains	-	DISEASE
 decapodiforme	decapodiforme	INTERMEDIARY_CONCEPT
 carotenes	carotene	INTERMEDIARY_CONCEPT
 speech impairment	-	INTERMEDIARY_CONCEPT
 pumpkin pie	-	FOOD
 modern 1601 history	-	INTERMEDIARY_CONCEPT
-nut consumption	-	FOOD
+nut consumption	-	INTERMEDIARY_CONCEPT
 citrus fruits	-	FOOD
 absorption	absorption	INTERMEDIARY_CONCEPT
 3 butanedione 2	-	INTERMEDIARY_CONCEPT
@@ -15013,7 +15013,7 @@ muscle tenderness	-	DISEASE
 2-hydroxy-n	2-hydroxy-n	INTERMEDIARY_CONCEPT
 canola	canola	INTERMEDIARY_CONCEPT
 growth factor	-	INTERMEDIARY_CONCEPT
-westernized diets	-	FOOD
+westernized diets	-	INTERMEDIARY_CONCEPT
 humming	hum	INTERMEDIARY_CONCEPT
 exercise-only group	-	INTERMEDIARY_CONCEPT
 tea hibiscus	-	FOOD
@@ -15032,18 +15032,18 @@ pseudotumor cerebri	-	DISEASE
 official recommendation	-	INTERMEDIARY_CONCEPT
 desensitisation	desensitisation	INTERMEDIARY_CONCEPT
 hydroxycut	hydroxycut	INTERMEDIARY_CONCEPT
-meat counter	-	FOOD
+meat counter	-	INTERMEDIARY_CONCEPT
 digestion	digestion	INTERMEDIARY_CONCEPT
 norepinephrine hydrochloride	-	INTERMEDIARY_CONCEPT
 chronic kidney	-	INTERMEDIARY_CONCEPT
 bio-accumulate	bio-accumulate	INTERMEDIARY_CONCEPT
 giver	giver	INTERMEDIARY_CONCEPT
 young vegan	-	INTERMEDIARY_CONCEPT
-extra serving	-	FOOD
+extra serving	-	INTERMEDIARY_CONCEPT
 brown sugar	-	FOOD
 voice box cancer	-	DISEASE
 human t-cell lymphotropic virus type iii	-	DISEASE
-dried herbs	-	FOOD
+dried herbs	-	INTERMEDIARY_CONCEPT
 new york coalition for healthy school food	-	FOOD
 multiple sclerosis	-	DISEASE
 top killers	-	INTERMEDIARY_CONCEPT
@@ -15070,7 +15070,7 @@ mycobacterial protein	-	INTERMEDIARY_CONCEPT
 medical establishment	-	INTERMEDIARY_CONCEPT
 endometrium carcinoma	-	DISEASE
 molasses	molasses	FOOD
-caramel color	-	FOOD
+caramel color	-	INTERMEDIARY_CONCEPT
 lithium salt arachidonic acid	-	INTERMEDIARY_CONCEPT
 favoritism	favoritism	INTERMEDIARY_CONCEPT
 glycemic indices	-	INTERMEDIARY_CONCEPT
@@ -15083,12 +15083,12 @@ employees	employee	INTERMEDIARY_CONCEPT
 emergency mobile units	-	INTERMEDIARY_CONCEPT
 capsule	capsule	INTERMEDIARY_CONCEPT
 complaining	complain	INTERMEDIARY_CONCEPT
-raise hepatitis	-	DISEASE
+raise hepatitis	-	INTERMEDIARY_CONCEPT
 agriculture	agriculture	INTERMEDIARY_CONCEPT
-american dietetic association	-	FOOD
+american dietetic association	-	INTERMEDIARY_CONCEPT
 hibiscus	hibiscus	FOOD
 pheasant	pheasant	INTERMEDIARY_CONCEPT
-gum arabic	-	FOOD
+gum arabic	-	INTERMEDIARY_CONCEPT
 juvenile parkinsonisms	-	DISEASE
 folic acid	-	INTERMEDIARY_CONCEPT
 pharmacies	pharmacy	INTERMEDIARY_CONCEPT
@@ -15105,11 +15105,11 @@ smoked food	-	FOOD
 sugar substitute	-	FOOD
 waste dump sites	-	INTERMEDIARY_CONCEPT
 orgasm	orgasm	INTERMEDIARY_CONCEPT
-diet quality	-	FOOD
+diet quality	-	INTERMEDIARY_CONCEPT
 euchresta	euchresta	FOOD
 prostate	prostate	INTERMEDIARY_CONCEPT
 lafran brand of quinine hydrochloride	-	INTERMEDIARY_CONCEPT
-plant carpals	-	FOOD
+plant carpals	-	INTERMEDIARY_CONCEPT
 medicare	medicare	INTERMEDIARY_CONCEPT
 pets	pet	INTERMEDIARY_CONCEPT
 correct answers	-	INTERMEDIARY_CONCEPT
@@ -15117,12 +15117,12 @@ magnesium di l ascorbate	-	INTERMEDIARY_CONCEPT
 underlying causes	-	INTERMEDIARY_CONCEPT
 lung disorders	-	DISEASE
 infant	infant	INTERMEDIARY_CONCEPT
-enterocyte trash	-	DISEASE
+enterocyte trash	-	INTERMEDIARY_CONCEPT
 wrists	wrist	INTERMEDIARY_CONCEPT
 lifestyle influence	-	INTERMEDIARY_CONCEPT
 sciatica	sciatica	DISEASE
 plantago ovata	-	FOOD
-curcumin	curcumin	FOOD
+curcumin	curcumin	INTERMEDIARY_CONCEPT
 cell activity	-	INTERMEDIARY_CONCEPT
 pest	pest	INTERMEDIARY_CONCEPT
 blood iron	-	INTERMEDIARY_CONCEPT
@@ -15137,7 +15137,7 @@ exotic fruits	-	FOOD
 2 bipyridyl 2	-	INTERMEDIARY_CONCEPT
 dna protective	-	INTERMEDIARY_CONCEPT
 kidney calculus	-	DISEASE
-california pepsi	-	FOOD
+california pepsi	-	INTERMEDIARY_CONCEPT
 taboulus	taboulus	INTERMEDIARY_CONCEPT
 collards	collard	FOOD
 taenia coli	-	INTERMEDIARY_CONCEPT
@@ -15181,7 +15181,7 @@ cucumber	cucumber	FOOD
 stomach	stomach	INTERMEDIARY_CONCEPT
 alpine strawberry	-	FOOD
 miracle drugs	-	INTERMEDIARY_CONCEPT
-developing asthma	-	DISEASE
+developing asthma	-	INTERMEDIARY_CONCEPT
 ocular headaches	-	DISEASE
 sexual gratifications	-	INTERMEDIARY_CONCEPT
 nitrangin	nitrangin	INTERMEDIARY_CONCEPT
@@ -15213,12 +15213,12 @@ deep-vein thrombosis	-	DISEASE
 early infantile autism	-	DISEASE
 known members	-	INTERMEDIARY_CONCEPT
 lung inflammation	-	DISEASE
-ephedra weight	-	FOOD
+ephedra weight	-	INTERMEDIARY_CONCEPT
 variant creutzfeldt jakob disease	-	DISEASE
 live presentation	-	INTERMEDIARY_CONCEPT
 gut microbiomes	-	INTERMEDIARY_CONCEPT
 healthiest animal	-	INTERMEDIARY_CONCEPT
-meat carcinogens	-	FOOD
+meat carcinogens	-	INTERMEDIARY_CONCEPT
 cooking temperature	-	INTERMEDIARY_CONCEPT
 evans vaccines brand of heroin hydrochloride	-	INTERMEDIARY_CONCEPT
 bladder diseases	-	DISEASE
@@ -15228,7 +15228,7 @@ choline o-sulfate	-	INTERMEDIARY_CONCEPT
 medical mistake	-	INTERMEDIARY_CONCEPT
 slaughterhouse byproducts	-	INTERMEDIARY_CONCEPT
 rinsing	rinse	INTERMEDIARY_CONCEPT
-vitamin b 12	-	FOOD
+vitamin b 12	-	INTERMEDIARY_CONCEPT
 health professional	-	INTERMEDIARY_CONCEPT
 adenyl imidodiphosphate	-	INTERMEDIARY_CONCEPT
 sprains and strains	-	DISEASE
@@ -15241,7 +15241,7 @@ tick bites	-	DISEASE
 padding	padding	INTERMEDIARY_CONCEPT
 apricot trees	-	FOOD
 harvard physicians’ study ii	-	INTERMEDIARY_CONCEPT
-feverous	feverous	DISEASE
+feverous	feverous	INTERMEDIARY_CONCEPT
 mucosal immune responses	-	INTERMEDIARY_CONCEPT
 soda	soda	INTERMEDIARY_CONCEPT
 apo e	-	INTERMEDIARY_CONCEPT
@@ -15311,10 +15311,10 @@ junk	junk	INTERMEDIARY_CONCEPT
 primary care	-	INTERMEDIARY_CONCEPT
 cancer of endometrium	-	DISEASE
 maple syrup	-	FOOD
-ginger works	-	FOOD
+ginger works	-	INTERMEDIARY_CONCEPT
 treadmill	treadmill	INTERMEDIARY_CONCEPT
 bovine spongiform encephalopathy	-	DISEASE
-meat option	-	FOOD
+meat option	-	INTERMEDIARY_CONCEPT
 frontal region traumas	-	DISEASE
 pteroylglutamic acid	-	INTERMEDIARY_CONCEPT
 chromosome 6 linked autosomal recessive parkinsonism	-	DISEASE
@@ -15326,7 +15326,7 @@ donor feces infusions	-	INTERMEDIARY_CONCEPT
 hmg coa statins	-	INTERMEDIARY_CONCEPT
 germinoblastic sarcoma	-	DISEASE
 purgatory	purgatory	INTERMEDIARY_CONCEPT
-cherry group	-	FOOD
+cherry group	-	INTERMEDIARY_CONCEPT
 remittence	remittence	INTERMEDIARY_CONCEPT
 laminaria japonicas	-	INTERMEDIARY_CONCEPT
 drug allergies	-	DISEASE
@@ -15341,7 +15341,7 @@ neurologic degenerative conditions	-	DISEASE
 age related macular degeneration	-	DISEASE
 retained surgical sponge	-	DISEASE
 clog arteries	-	INTERMEDIARY_CONCEPT
-codeine/morphine	codeine/morphine	FOOD
+codeine/morphine	codeine/morphine	INTERMEDIARY_CONCEPT
 wrong procedure errors	-	INTERMEDIARY_CONCEPT
 china study	-	INTERMEDIARY_CONCEPT
 hpv infection	-	INTERMEDIARY_CONCEPT
@@ -15358,7 +15358,7 @@ passer	passer	INTERMEDIARY_CONCEPT
 european coal and steel community	-	INTERMEDIARY_CONCEPT
 sedatives and hypnotics	-	INTERMEDIARY_CONCEPT
 homo	homo	INTERMEDIARY_CONCEPT
-serving size	-	FOOD
+serving size	-	INTERMEDIARY_CONCEPT
 spinal cord	-	INTERMEDIARY_CONCEPT
 plant proteins	-	INTERMEDIARY_CONCEPT
 reduced breast	-	INTERMEDIARY_CONCEPT
@@ -15440,7 +15440,7 @@ expensive pee	-	INTERMEDIARY_CONCEPT
 seats	seat	INTERMEDIARY_CONCEPT
 small-cell lymphoma	-	DISEASE
 intestinal microbiome	-	INTERMEDIARY_CONCEPT
-dieting	dieting	FOOD
+dieting	dieting	INTERMEDIARY_CONCEPT
 fine	fine	INTERMEDIARY_CONCEPT
 iritis	iritis	DISEASE
 norepinephrine l-tartrate (1:2)	-	INTERMEDIARY_CONCEPT
@@ -15454,19 +15454,19 @@ zoonotic infectious diseases	-	DISEASE
 healthiest fruits	-	FOOD
 seal oil	-	INTERMEDIARY_CONCEPT
 heart	heart	INTERMEDIARY_CONCEPT
-trash	trash	DISEASE
+trash	trash	INTERMEDIARY_CONCEPT
 genotoxic stresses	-	INTERMEDIARY_CONCEPT
 malabar nut	-	FOOD
 hormone adiponectin	-	INTERMEDIARY_CONCEPT
 botulism	botulism	DISEASE
 tactics	tactic	INTERMEDIARY_CONCEPT
-herbal supplements	-	FOOD
+herbal supplements	-	INTERMEDIARY_CONCEPT
 glow	glow	INTERMEDIARY_CONCEPT
 laughter	laughter	INTERMEDIARY_CONCEPT
 soup	soup	FOOD
 insulin like somatomedin peptide i	-	INTERMEDIARY_CONCEPT
 uterus cancer	-	DISEASE
-healthful diet	-	FOOD
+healthful diet	-	INTERMEDIARY_CONCEPT
 buying juices	-	INTERMEDIARY_CONCEPT
 tangeretin	tangeretin	INTERMEDIARY_CONCEPT
 petri	petri	INTERMEDIARY_CONCEPT
@@ -15486,9 +15486,9 @@ croaker	croaker	FOOD
 hernia	hernia	DISEASE
 retro ocular headache	-	DISEASE
 legume family	-	FOOD
-painkillers	painkiller	DISEASE
+painkillers	painkiller	INTERMEDIARY_CONCEPT
 growth hormones	-	INTERMEDIARY_CONCEPT
-potato beetles	-	FOOD
+potato beetles	-	INTERMEDIARY_CONCEPT
 chenopodium quinoas	-	FOOD
 oxidation reaction	-	INTERMEDIARY_CONCEPT
 diagesil	diagesil	INTERMEDIARY_CONCEPT
@@ -15503,7 +15503,7 @@ salmonella-infected	salmonella-infected	INTERMEDIARY_CONCEPT
 gastrointestinal tracts	-	INTERMEDIARY_CONCEPT
 pesticide residue	-	INTERMEDIARY_CONCEPT
 glue	glue	INTERMEDIARY_CONCEPT
-dietary patterns	-	FOOD
+dietary patterns	-	INTERMEDIARY_CONCEPT
 laparoscopic	laparoscopic	INTERMEDIARY_CONCEPT
 fibromyalgia-fibromyositis syndromes	-	DISEASE
 spirulina maxima	-	INTERMEDIARY_CONCEPT
@@ -15520,7 +15520,7 @@ pentagon	pentagon	INTERMEDIARY_CONCEPT
 heterocyclic amines	-	INTERMEDIARY_CONCEPT
 migratory pains	-	DISEASE
 immortalization	immortalization	INTERMEDIARY_CONCEPT
-cancer survival	-	DISEASE
+cancer survival	-	INTERMEDIARY_CONCEPT
 airborne supplements	-	INTERMEDIARY_CONCEPT
 male breast neoplasm	-	DISEASE
 complementary medicine	-	INTERMEDIARY_CONCEPT
@@ -15548,7 +15548,7 @@ althaea	althaea	FOOD
 sperm number	-	INTERMEDIARY_CONCEPT
 environmental impacts	-	INTERMEDIARY_CONCEPT
 adhesion	adhesion	INTERMEDIARY_CONCEPT
-codex commission	-	FOOD
+codex commission	-	INTERMEDIARY_CONCEPT
 chesapeake	chesapeake	INTERMEDIARY_CONCEPT
 fish	fish	INTERMEDIARY_CONCEPT
 norepinephrin d-tartrate (1:1)	-	INTERMEDIARY_CONCEPT
@@ -15558,14 +15558,14 @@ occidental diets	-	INTERMEDIARY_CONCEPT
 mercury intake	-	INTERMEDIARY_CONCEPT
 dozen studies	-	INTERMEDIARY_CONCEPT
 solanum tuberosum	-	FOOD
-plant style	-	FOOD
-auraptene	auraptene	DISEASE
+plant style	-	INTERMEDIARY_CONCEPT
+auraptene	auraptene	INTERMEDIARY_CONCEPT
 longevity benefit	-	INTERMEDIARY_CONCEPT
 infections	infection	DISEASE
 poroporos	poroporo	FOOD
 chestnuts	chestnut	FOOD
 nervus vagus	-	INTERMEDIARY_CONCEPT
-asthma exacerbations	-	DISEASE
+asthma exacerbations	-	INTERMEDIARY_CONCEPT
 volatile carcinogens	-	INTERMEDIARY_CONCEPT
 galactose-1-phosphate uridyl-transferase deficiency disease	-	DISEASE
 2 hydroxypropanoic acid	-	INTERMEDIARY_CONCEPT
@@ -15600,7 +15600,7 @@ high-fructose maize syrup	-	FOOD
 specific nuts	-	FOOD
 bioequivalent	bioequivalent	INTERMEDIARY_CONCEPT
 taxpayer	taxpayer	INTERMEDIARY_CONCEPT
-nondairy products	-	FOOD
+nondairy products	-	INTERMEDIARY_CONCEPT
 dioscorea batatas	-	FOOD
 colonoscopic surgery	-	INTERMEDIARY_CONCEPT
 dilation	dilation	INTERMEDIARY_CONCEPT
@@ -15619,7 +15619,7 @@ n-3 fatty acids	-	INTERMEDIARY_CONCEPT
 iron requirements	-	INTERMEDIARY_CONCEPT
 biliary sludge	-	INTERMEDIARY_CONCEPT
 nutrition content	-	INTERMEDIARY_CONCEPT
-nutrient content	-	FOOD
+nutrient content	-	INTERMEDIARY_CONCEPT
 nitrite preservatives	-	INTERMEDIARY_CONCEPT
 scallop	scallop	INTERMEDIARY_CONCEPT
 beets	beet	FOOD
@@ -15635,7 +15635,7 @@ pimenta diocias	-	FOOD
 excision repair	-	INTERMEDIARY_CONCEPT
 grilling	grill	INTERMEDIARY_CONCEPT
 long-time editor	-	INTERMEDIARY_CONCEPT
-farmed chicken	-	FOOD
+farmed chicken	-	INTERMEDIARY_CONCEPT
 gastroesophageal reflux disease	-	DISEASE
 fibromyalgias	fibromyalgia	DISEASE
 jellification	jellification	INTERMEDIARY_CONCEPT
@@ -15651,7 +15651,7 @@ tapeworm larvae	-	INTERMEDIARY_CONCEPT
 different colon	-	INTERMEDIARY_CONCEPT
 tranquillisation	tranquillisation	INTERMEDIARY_CONCEPT
 mucosal immune response	-	INTERMEDIARY_CONCEPT
-beer-drinking	beer-drinking	FOOD
+beer-drinking	beer-drinking	INTERMEDIARY_CONCEPT
 puerto rican	-	INTERMEDIARY_CONCEPT
 breast diseases	-	DISEASE
 cardiovascular function	-	INTERMEDIARY_CONCEPT
@@ -15676,7 +15676,7 @@ reticulolymphosarcoma	reticulolymphosarcoma	DISEASE
 lunch time	-	FOOD
 preterm birth	-	DISEASE
 acers	acer	FOOD
-healthy diet	-	FOOD
+healthy diet	-	INTERMEDIARY_CONCEPT
 myalgia	myalgia	DISEASE
 sugars spike	-	INTERMEDIARY_CONCEPT
 hot dog	-	INTERMEDIARY_CONCEPT
@@ -15688,14 +15688,14 @@ omnivores	omnivore	INTERMEDIARY_CONCEPT
 beta casein	-	INTERMEDIARY_CONCEPT
 severe congenital microcephalies	-	DISEASE
 tylenol	tylenol	INTERMEDIARY_CONCEPT
-pure sugar	-	FOOD
+pure sugar	-	INTERMEDIARY_CONCEPT
 commitment	commitment	INTERMEDIARY_CONCEPT
 accidents	accident	INTERMEDIARY_CONCEPT
 pulmonary cancers	-	DISEASE
 arthritis	arthritis	DISEASE
 half-lifes	half-life	INTERMEDIARY_CONCEPT
 breast cell	-	INTERMEDIARY_CONCEPT
-american institute for cancer research	-	DISEASE
+american institute for cancer research	-	INTERMEDIARY_CONCEPT
 mackerels	mackerel	FOOD
 detoxification	detoxification	INTERMEDIARY_CONCEPT
 atp(beta	atp	INTERMEDIARY_CONCEPT
@@ -15712,7 +15712,7 @@ thrilling	thrilling	INTERMEDIARY_CONCEPT
 mobilization	mobilization	INTERMEDIARY_CONCEPT
 visual phototransduction	-	INTERMEDIARY_CONCEPT
 clear cell meningioma	-	DISEASE
-cancer-fighting	cancer-fighting	DISEASE
+cancer-fighting	cancer-fighting	INTERMEDIARY_CONCEPT
 multiple head injuries	-	DISEASE
 tsin	tsin	INTERMEDIARY_CONCEPT
 pneumonia	pneumonia	DISEASE
@@ -15720,13 +15720,13 @@ female change of life	-	INTERMEDIARY_CONCEPT
 beers	beer	FOOD
 microcapsules	microcapsule	INTERMEDIARY_CONCEPT
 arsenic-containing drugs	-	INTERMEDIARY_CONCEPT
-dietary recommendations	-	FOOD
+dietary recommendations	-	INTERMEDIARY_CONCEPT
 antitoxin	antitoxin	INTERMEDIARY_CONCEPT
 small cleaved-cell lymphoma	-	DISEASE
 somatomedin c	-	INTERMEDIARY_CONCEPT
 quindan	quindan	INTERMEDIARY_CONCEPT
 food safety	-	INTERMEDIARY_CONCEPT
-rice diet	-	FOOD
+rice diet	-	INTERMEDIARY_CONCEPT
 neurotic anxiety states	-	DISEASE
 carnosine	carnosine	INTERMEDIARY_CONCEPT
 industrial pollutants	-	INTERMEDIARY_CONCEPT
@@ -15736,7 +15736,7 @@ hand antiseptics	-	INTERMEDIARY_CONCEPT
 cooked carrots	-	FOOD
 adenomatous polyp	-	DISEASE
 anti-inflammatory antioxidants	-	INTERMEDIARY_CONCEPT
-milkman	milkman	FOOD
+milkman	milkman	INTERMEDIARY_CONCEPT
 tryptophan levels	-	INTERMEDIARY_CONCEPT
 fluoride	fluoride	INTERMEDIARY_CONCEPT
 cervix health	-	INTERMEDIARY_CONCEPT
@@ -15756,15 +15756,15 @@ medical brand of lorazepam	-	INTERMEDIARY_CONCEPT
 casomorphin	casomorphin	INTERMEDIARY_CONCEPT
 pig livers	-	INTERMEDIARY_CONCEPT
 ulmer brand of testosterone	-	INTERMEDIARY_CONCEPT
-boiled beans	-	FOOD
+boiled beans	-	INTERMEDIARY_CONCEPT
 aruba	aruba	INTERMEDIARY_CONCEPT
 nutrition pulling	-	INTERMEDIARY_CONCEPT
 fat pads	-	INTERMEDIARY_CONCEPT
-progout	progout	DISEASE
+progout	progout	INTERMEDIARY_CONCEPT
 new numbers	-	INTERMEDIARY_CONCEPT
 cancer of the brain	-	DISEASE
 anti-angiogenesis effect	-	INTERMEDIARY_CONCEPT
-throat	throat	FOOD
+throat	throat	INTERMEDIARY_CONCEPT
 fibroatheromatous plaque	-	DISEASE
 chondrites	chondrite	INTERMEDIARY_CONCEPT
 aap	aap	INTERMEDIARY_CONCEPT
@@ -15823,7 +15823,7 @@ happiness	happiness	INTERMEDIARY_CONCEPT
 paracetamol	paracetamol	INTERMEDIARY_CONCEPT
 cancer of prostate	-	DISEASE
 hibernating gland	-	INTERMEDIARY_CONCEPT
-cocainization	cocainization	FOOD
+cocainization	cocainization	INTERMEDIARY_CONCEPT
 testolin	testolin	INTERMEDIARY_CONCEPT
 kallikrein hk3	-	INTERMEDIARY_CONCEPT
 ready-to-eat meal	-	FOOD
@@ -15852,7 +15852,7 @@ women’s healthy eating and living study	-	INTERMEDIARY_CONCEPT
 cadmium exposure	-	INTERMEDIARY_CONCEPT
 shark cartilage	-	INTERMEDIARY_CONCEPT
 fisher	fisher	INTERMEDIARY_CONCEPT
-coca-cola company	-	FOOD
+coca-cola company	-	INTERMEDIARY_CONCEPT
 defect	defect	INTERMEDIARY_CONCEPT
 hmg coa reductase inhibitors	-	INTERMEDIARY_CONCEPT
 odds	odds	INTERMEDIARY_CONCEPT
@@ -15885,7 +15885,7 @@ saint john wort	-	FOOD
 aid	aid	INTERMEDIARY_CONCEPT
 ubiquinol	ubiquinol	INTERMEDIARY_CONCEPT
 degenerative disease	-	DISEASE
-kaposi’s sarcoma	-	DISEASE
+kaposi’s sarcoma	-	INTERMEDIARY_CONCEPT
 plant calyxs	-	INTERMEDIARY_CONCEPT
 breast neoplasms	-	DISEASE
 psychological stress	-	INTERMEDIARY_CONCEPT
@@ -15910,15 +15910,15 @@ united states centers for disease control	-	INTERMEDIARY_CONCEPT
 sufficient blood	-	INTERMEDIARY_CONCEPT
 enterotypes	enterotype	INTERMEDIARY_CONCEPT
 grains	grain	INTERMEDIARY_CONCEPT
-diet score	-	FOOD
+diet score	-	INTERMEDIARY_CONCEPT
 heart disease prevention	-	INTERMEDIARY_CONCEPT
 obesity in adolescence	-	DISEASE
-cancer mortality	-	DISEASE
+cancer mortality	-	INTERMEDIARY_CONCEPT
 gmos	gmo	INTERMEDIARY_CONCEPT
 medical schools	-	INTERMEDIARY_CONCEPT
 signing	signing	INTERMEDIARY_CONCEPT
 atypical chronic myeloid leukemia	-	DISEASE
-painfulness	painfulness	DISEASE
+painfulness	painfulness	INTERMEDIARY_CONCEPT
 ocimum basilicum	-	FOOD
 flexitarians	flexitarian	INTERMEDIARY_CONCEPT
 tryptacin	tryptacin	INTERMEDIARY_CONCEPT
@@ -15957,8 +15957,8 @@ weakness	weakness	INTERMEDIARY_CONCEPT
 diffuse mixed small and large cell lymphoma	-	DISEASE
 deoxyribonucleic acid	-	INTERMEDIARY_CONCEPT
 thermal hypesthesias	-	DISEASE
-trash recovery	-	DISEASE
-cancer-fighting lignans	-	DISEASE
+trash recovery	-	INTERMEDIARY_CONCEPT
+cancer-fighting lignans	-	INTERMEDIARY_CONCEPT
 atrial fibrillations	-	DISEASE
 mottled enamels	-	DISEASE
 orthopedic surgeries	-	INTERMEDIARY_CONCEPT
@@ -16000,7 +16000,7 @@ ncx-911	ncx-911	INTERMEDIARY_CONCEPT
 normal weight	-	INTERMEDIARY_CONCEPT
 l-tryptophan	l-tryptophan	INTERMEDIARY_CONCEPT
 pill rolling tremors	-	DISEASE
-wine supplements	-	FOOD
+wine supplements	-	INTERMEDIARY_CONCEPT
 feminisation	feminisation	INTERMEDIARY_CONCEPT
 big salad	-	INTERMEDIARY_CONCEPT
 diffuse well-differentiated lymphocytic lymphoma	-	DISEASE
@@ -16019,7 +16019,7 @@ microwaves	microwave	INTERMEDIARY_CONCEPT
 sports performances	-	INTERMEDIARY_CONCEPT
 cheeses	cheese	FOOD
 lentinula edode	-	INTERMEDIARY_CONCEPT
-tart cherries	-	FOOD
+tart cherries	-	INTERMEDIARY_CONCEPT
 cortril	cortril	INTERMEDIARY_CONCEPT
 meateaters	meateater	INTERMEDIARY_CONCEPT
 odor	odor	INTERMEDIARY_CONCEPT
@@ -16068,9 +16068,9 @@ body mass index	-	INTERMEDIARY_CONCEPT
 steviosides	stevioside	INTERMEDIARY_CONCEPT
 mcgovern report	-	INTERMEDIARY_CONCEPT
 lymphocytic leukemia	-	DISEASE
-meat-eating group	-	FOOD
+meat-eating group	-	INTERMEDIARY_CONCEPT
 dairy promotion	-	INTERMEDIARY_CONCEPT
-retail chicken	-	FOOD
+retail chicken	-	INTERMEDIARY_CONCEPT
 kombus	kombus	INTERMEDIARY_CONCEPT
 volunteer	volunteer	INTERMEDIARY_CONCEPT
 diesel fumes	-	INTERMEDIARY_CONCEPT
@@ -16080,11 +16080,11 @@ antibiotic use	-	INTERMEDIARY_CONCEPT
 bipolar affective psychoses	-	DISEASE
 neoplasms	neoplasm	DISEASE
 health benefits	-	INTERMEDIARY_CONCEPT
-poultry industry	-	FOOD
-cocainisation	cocainisation	FOOD
+poultry industry	-	INTERMEDIARY_CONCEPT
+cocainisation	cocainisation	INTERMEDIARY_CONCEPT
 surquina	surquina	INTERMEDIARY_CONCEPT
 amp activated protein kinase beta subunit	-	INTERMEDIARY_CONCEPT
-ice diet	-	FOOD
+ice diet	-	INTERMEDIARY_CONCEPT
 big changes	-	INTERMEDIARY_CONCEPT
 acquired immuno-deficiency syndrome	-	DISEASE
 non hodgkin's lymphoma	-	DISEASE
@@ -16110,7 +16110,7 @@ blood platelet	-	INTERMEDIARY_CONCEPT
 arthropathy	arthropathy	DISEASE
 estrogen effect	-	INTERMEDIARY_CONCEPT
 test report	-	INTERMEDIARY_CONCEPT
-cancer patient	-	DISEASE
+cancer patient	-	INTERMEDIARY_CONCEPT
 sun exposure	-	INTERMEDIARY_CONCEPT
 generalized seizure	-	DISEASE
 orobronze	orobronze	INTERMEDIARY_CONCEPT
@@ -16171,7 +16171,7 @@ nasa	nasa	INTERMEDIARY_CONCEPT
 cats	cat	INTERMEDIARY_CONCEPT
 reisegold	reisegold	INTERMEDIARY_CONCEPT
 menstrual disorders	-	DISEASE
-processed cocoa	-	FOOD
+processed cocoa	-	INTERMEDIARY_CONCEPT
 playthings	plaything	INTERMEDIARY_CONCEPT
 perfluorochemicals	perfluorochemical	INTERMEDIARY_CONCEPT
 dinnertime	dinnertime	FOOD
@@ -16199,7 +16199,7 @@ warning sign	-	INTERMEDIARY_CONCEPT
 hydrogen bomb	-	INTERMEDIARY_CONCEPT
 biliary calculi	-	DISEASE
 benign neoplasm	-	DISEASE
-gamma oryzanol	-	FOOD
+gamma oryzanol	-	INTERMEDIARY_CONCEPT
 papaver somniferum	-	FOOD
 consultations	consultation	INTERMEDIARY_CONCEPT
 nerve cells	-	INTERMEDIARY_CONCEPT
@@ -16216,7 +16216,7 @@ rooibo	rooibo	FOOD
 malay peninsula	-	INTERMEDIARY_CONCEPT
 3-benzylidene-4-chromanones	3-benzylidene-4-chromanone	INTERMEDIARY_CONCEPT
 positive mood	-	INTERMEDIARY_CONCEPT
-occidental diet	-	FOOD
+occidental diet	-	INTERMEDIARY_CONCEPT
 reactive confusion	-	DISEASE
 nightshade family	-	INTERMEDIARY_CONCEPT
 cost savings	-	INTERMEDIARY_CONCEPT
@@ -16234,11 +16234,11 @@ breast glands	-	INTERMEDIARY_CONCEPT
 open head injury	-	DISEASE
 energy metabolisms	-	INTERMEDIARY_CONCEPT
 malaya federation	-	INTERMEDIARY_CONCEPT
-juice concentrate	-	FOOD
+juice concentrate	-	INTERMEDIARY_CONCEPT
 dog rose berries	-	FOOD
 fat-restricted diet	-	INTERMEDIARY_CONCEPT
-tea phytonutrient	-	FOOD
-microgreens	microgreen	FOOD
+tea phytonutrient	-	INTERMEDIARY_CONCEPT
+microgreens	microgreen	INTERMEDIARY_CONCEPT
 canthaxanthin	canthaxanthin	INTERMEDIARY_CONCEPT
 authentication	authentication	INTERMEDIARY_CONCEPT
 itchiness	itchiness	INTERMEDIARY_CONCEPT
@@ -16253,7 +16253,7 @@ six capsules	-	INTERMEDIARY_CONCEPT
 lipotoxicty	lipotoxicty	INTERMEDIARY_CONCEPT
 jakob-creutzfeldt syndrome	-	DISEASE
 rectal tumor	-	DISEASE
-dietary salicylates	-	FOOD
+dietary salicylates	-	INTERMEDIARY_CONCEPT
 depression	depression	INTERMEDIARY_CONCEPT
 recovery bins	-	INTERMEDIARY_CONCEPT
 veritable army	-	INTERMEDIARY_CONCEPT
@@ -16263,7 +16263,7 @@ charcot disease	-	DISEASE
 bag	bag	INTERMEDIARY_CONCEPT
 trigylceride	trigylceride	INTERMEDIARY_CONCEPT
 fecal ph	-	INTERMEDIARY_CONCEPT
-nut group	-	FOOD
+nut group	-	INTERMEDIARY_CONCEPT
 pineal gland	-	INTERMEDIARY_CONCEPT
 ban	ban	INTERMEDIARY_CONCEPT
 levo amphetamine	-	INTERMEDIARY_CONCEPT
@@ -16342,7 +16342,7 @@ main recommendations	-	INTERMEDIARY_CONCEPT
 ondatra	ondatra	INTERMEDIARY_CONCEPT
 crib death	-	DISEASE
 persimmon	persimmon	FOOD
-roasting	roast	FOOD
+roasting	roast	INTERMEDIARY_CONCEPT
 domestic cats	-	INTERMEDIARY_CONCEPT
 soil health	-	INTERMEDIARY_CONCEPT
 toxoplasmas	toxoplasma	INTERMEDIARY_CONCEPT
@@ -16362,7 +16362,7 @@ common bile duct gallstones	-	DISEASE
 depressions	depression	INTERMEDIARY_CONCEPT
 bronchial asthma	-	DISEASE
 bha	bha	INTERMEDIARY_CONCEPT
-smithfield ham	-	FOOD
+smithfield ham	-	INTERMEDIARY_CONCEPT
 phenopromin	phenopromin	INTERMEDIARY_CONCEPT
 pacific bluefin tuna	-	INTERMEDIARY_CONCEPT
 last survey	-	INTERMEDIARY_CONCEPT
@@ -16399,10 +16399,10 @@ cranberries	cranberry	FOOD
 mentha	mentha	FOOD
 proliferative bronchiolitides	-	DISEASE
 mitochondrial	mitochondrial	INTERMEDIARY_CONCEPT
-dried cherries	-	FOOD
+dried cherries	-	INTERMEDIARY_CONCEPT
 blue-green algae	-	INTERMEDIARY_CONCEPT
 biological availability	-	INTERMEDIARY_CONCEPT
-meat science	-	FOOD
+meat science	-	INTERMEDIARY_CONCEPT
 activate receptors	-	INTERMEDIARY_CONCEPT
 colon spasm	-	INTERMEDIARY_CONCEPT
 artery function	-	INTERMEDIARY_CONCEPT
@@ -16411,12 +16411,12 @@ phip	phip	INTERMEDIARY_CONCEPT
 gossypiboma	gossypiboma	DISEASE
 intellectual property	-	INTERMEDIARY_CONCEPT
 lipocytes	lipocyte	INTERMEDIARY_CONCEPT
-nasale	nasale	FOOD
+nasale	nasale	INTERMEDIARY_CONCEPT
 bilateral headache	-	DISEASE
 instillation	instillation	INTERMEDIARY_CONCEPT
 prostatic adenoma	-	DISEASE
 inflammatory diseases	-	DISEASE
-cancer cells	-	DISEASE
+cancer cells	-	INTERMEDIARY_CONCEPT
 phenamine	phenamine	INTERMEDIARY_CONCEPT
 tomaxithen	tomaxithen	INTERMEDIARY_CONCEPT
 increased energy	-	INTERMEDIARY_CONCEPT
@@ -16426,7 +16426,7 @@ commentator	commentator	INTERMEDIARY_CONCEPT
 post-mortem examination	-	INTERMEDIARY_CONCEPT
 human brain	-	INTERMEDIARY_CONCEPT
 amif72	amif72	INTERMEDIARY_CONCEPT
-special stickers	-	FOOD
+special stickers	-	INTERMEDIARY_CONCEPT
 steroid hormones	-	INTERMEDIARY_CONCEPT
 energy gels	-	INTERMEDIARY_CONCEPT
 nuclear weapons testing	-	INTERMEDIARY_CONCEPT
@@ -16459,7 +16459,7 @@ deafness	deafness	DISEASE
 petroleum	petroleum	INTERMEDIARY_CONCEPT
 encephalon	encephalon	INTERMEDIARY_CONCEPT
 human flu	-	DISEASE
-sodium restricted diet	-	FOOD
+sodium restricted diet	-	INTERMEDIARY_CONCEPT
 rimapurinol	rimapurinol	INTERMEDIARY_CONCEPT
 zinc gels	-	INTERMEDIARY_CONCEPT
 secretory meningioma	-	DISEASE
@@ -16496,7 +16496,7 @@ hazelnuts	hazelnut	FOOD
 bph	bph	INTERMEDIARY_CONCEPT
 dermatoses	dermatosis	DISEASE
 ect (psychotherapy)	-	INTERMEDIARY_CONCEPT
-carrot consumption	-	FOOD
+carrot consumption	-	INTERMEDIARY_CONCEPT
 undaria pinnatifida	-	INTERMEDIARY_CONCEPT
 grey hamsters	-	INTERMEDIARY_CONCEPT
 alpha(s1)-casein	alpha	INTERMEDIARY_CONCEPT
@@ -16508,7 +16508,7 @@ suppressor genes	-	INTERMEDIARY_CONCEPT
 desensitization	desensitization	INTERMEDIARY_CONCEPT
 broccoli raab	-	FOOD
 streptococcus pyogenes	-	INTERMEDIARY_CONCEPT
-pizza hut	-	FOOD
+pizza hut	-	INTERMEDIARY_CONCEPT
 convulsions	convulsion	DISEASE
 disadines	disadine	INTERMEDIARY_CONCEPT
 cognitive retention disorder	-	DISEASE
@@ -16516,13 +16516,13 @@ thallium heart scans	-	INTERMEDIARY_CONCEPT
 cardiac problems	-	INTERMEDIARY_CONCEPT
 chicanos	chicano	INTERMEDIARY_CONCEPT
 dairy herds	-	INTERMEDIARY_CONCEPT
-moderate alcohol	-	FOOD
+moderate alcohol	-	INTERMEDIARY_CONCEPT
 stool	stool	INTERMEDIARY_CONCEPT
 l glutamic acid	-	INTERMEDIARY_CONCEPT
 colophospermum	colophospermum	FOOD
 laying hens	-	INTERMEDIARY_CONCEPT
 hemicrania	hemicrania	DISEASE
-pains	pain	DISEASE
+pains	pain	INTERMEDIARY_CONCEPT
 excess cholesterol	-	INTERMEDIARY_CONCEPT
 tumor suppressor genes	-	INTERMEDIARY_CONCEPT
 lower methionine	-	INTERMEDIARY_CONCEPT
@@ -16546,7 +16546,7 @@ servicemen	serviceman	INTERMEDIARY_CONCEPT
 bse	bse	INTERMEDIARY_CONCEPT
 doctors	doctor	INTERMEDIARY_CONCEPT
 protein powder supplements	-	INTERMEDIARY_CONCEPT
-shooter	shooter	FOOD
+shooter	shooter	INTERMEDIARY_CONCEPT
 onco suppressor genes	-	INTERMEDIARY_CONCEPT
 reactance	reactance	INTERMEDIARY_CONCEPT
 cohort analysis	-	INTERMEDIARY_CONCEPT
@@ -16558,17 +16558,17 @@ second opinions	-	INTERMEDIARY_CONCEPT
 never events	-	INTERMEDIARY_CONCEPT
 pituitary dwarfism iis	-	DISEASE
 reisetabletten ratiopharm	-	INTERMEDIARY_CONCEPT
-low-calorie diets	-	FOOD
+low-calorie diets	-	INTERMEDIARY_CONCEPT
 a1c level	-	INTERMEDIARY_CONCEPT
 hereditary galactokinase deficiency	-	DISEASE
 servicing	servicing	INTERMEDIARY_CONCEPT
 slipping	slip	INTERMEDIARY_CONCEPT
-cancer detection	-	DISEASE
+cancer detection	-	INTERMEDIARY_CONCEPT
 experimental parkinsonisms	-	DISEASE
-raw foodists	-	FOOD
+raw foodists	-	INTERMEDIARY_CONCEPT
 dragon's blood	-	INTERMEDIARY_CONCEPT
 gamma-imino-atp	gamma-imino-atp	INTERMEDIARY_CONCEPT
-honeycrisp	honeycrisp	FOOD
+honeycrisp	honeycrisp	INTERMEDIARY_CONCEPT
 tranquilizers	tranquilizer	INTERMEDIARY_CONCEPT
 autopsy study	-	INTERMEDIARY_CONCEPT
 carrier proteins	-	INTERMEDIARY_CONCEPT
@@ -16582,7 +16582,7 @@ mcdonald's	mcdonald	INTERMEDIARY_CONCEPT
 prioresses	prioress	INTERMEDIARY_CONCEPT
 sparkling waters	-	FOOD
 square centimeters	-	INTERMEDIARY_CONCEPT
-corpus pineale	-	FOOD
+corpus pineale	-	INTERMEDIARY_CONCEPT
 480-10	480-10	INTERMEDIARY_CONCEPT
 long sleeper syndrome	-	DISEASE
 psychologic stress	-	INTERMEDIARY_CONCEPT
@@ -16611,7 +16611,7 @@ pancreatic beta	-	INTERMEDIARY_CONCEPT
 hypericum perforatums	-	FOOD
 desk	desk	INTERMEDIARY_CONCEPT
 all-cause mortality	-	INTERMEDIARY_CONCEPT
-warthogs	warthog	DISEASE
+warthogs	warthog	INTERMEDIARY_CONCEPT
 gerson therapy	-	INTERMEDIARY_CONCEPT
 r.a.n. brand of digoxin	-	INTERMEDIARY_CONCEPT
 experimental data	-	INTERMEDIARY_CONCEPT
@@ -16622,7 +16622,7 @@ human fat	-	INTERMEDIARY_CONCEPT
 foxglove	foxglove	FOOD
 citrus medica	-	FOOD
 cohort analyses	-	INTERMEDIARY_CONCEPT
-cyclical mastalgia	-	DISEASE
+cyclical mastalgia	-	INTERMEDIARY_CONCEPT
 environmental protection agency	-	INTERMEDIARY_CONCEPT
 experimental lung inflammation	-	DISEASE
 coldness	coldness	INTERMEDIARY_CONCEPT
@@ -16643,7 +16643,7 @@ stone	stone	INTERMEDIARY_CONCEPT
 greater pandas	-	INTERMEDIARY_CONCEPT
 insomnia disorder	-	DISEASE
 shelf life	-	INTERMEDIARY_CONCEPT
-apple cider vinegar	-	FOOD
+apple cider vinegar	-	INTERMEDIARY_CONCEPT
 campbell's soup	-	INTERMEDIARY_CONCEPT
 chinese rhubarb	-	FOOD
 central nervous system degenerative diseases	-	DISEASE
@@ -16660,7 +16660,7 @@ cheerio	cheerio	INTERMEDIARY_CONCEPT
 tiresomeness	tiresomeness	INTERMEDIARY_CONCEPT
 ovary health	-	INTERMEDIARY_CONCEPT
 igf-i	igf-i	INTERMEDIARY_CONCEPT
-low carbohydrate diet	-	FOOD
+low carbohydrate diet	-	INTERMEDIARY_CONCEPT
 micturition syncope	-	DISEASE
 nonprofit organization	-	INTERMEDIARY_CONCEPT
 epicortisol	epicortisol	INTERMEDIARY_CONCEPT
@@ -16670,11 +16670,11 @@ zoonosis	zoonosis	INTERMEDIARY_CONCEPT
 hirsuteness	hirsuteness	INTERMEDIARY_CONCEPT
 thrombocyte	thrombocyte	INTERMEDIARY_CONCEPT
 male breast neoplasms	-	DISEASE
-chicken fat	-	FOOD
+chicken fat	-	INTERMEDIARY_CONCEPT
 non-gmo	non-gmo	INTERMEDIARY_CONCEPT
 carbonated mineral waters	-	FOOD
 specialty mushrooms	-	INTERMEDIARY_CONCEPT
-meat diet	-	FOOD
+meat diet	-	INTERMEDIARY_CONCEPT
 recurrent brain tumor	-	DISEASE
 four cups	-	INTERMEDIARY_CONCEPT
 citric acid	-	INTERMEDIARY_CONCEPT
@@ -16684,23 +16684,23 @@ lake score	-	INTERMEDIARY_CONCEPT
 tap water	-	FOOD
 persistent tremors	-	DISEASE
 pharmaceutical companies	-	INTERMEDIARY_CONCEPT
-cause acne	-	DISEASE
+cause acne	-	INTERMEDIARY_CONCEPT
 prelestrin	prelestrin	INTERMEDIARY_CONCEPT
 tranquillization	tranquillization	INTERMEDIARY_CONCEPT
 flax	flax	FOOD
 snacktimes	snacktime	FOOD
-u.s. food and drug administration	-	FOOD
+u.s. food and drug administration	-	INTERMEDIARY_CONCEPT
 recall	recall	INTERMEDIARY_CONCEPT
 celiac disease	-	DISEASE
 igf-1	igf-1	INTERMEDIARY_CONCEPT
 carcinogens	carcinogen	INTERMEDIARY_CONCEPT
 persistent atrial fibrillations	-	DISEASE
 sickening	sicken	INTERMEDIARY_CONCEPT
-asthma rates	-	DISEASE
+asthma rates	-	INTERMEDIARY_CONCEPT
 soy bean curds	-	FOOD
 testis cancers	-	DISEASE
 soda waters	-	FOOD
-fruit and vegetable wash	-	FOOD
+fruit and vegetable wash	-	INTERMEDIARY_CONCEPT
 enamel	enamel	INTERMEDIARY_CONCEPT
 erythrocuprein	erythrocuprein	INTERMEDIARY_CONCEPT
 potent neurotoxin	-	INTERMEDIARY_CONCEPT
@@ -16772,7 +16772,7 @@ peach trees	-	FOOD
 sports drinks	-	INTERMEDIARY_CONCEPT
 cestoda	cestoda	INTERMEDIARY_CONCEPT
 joint pains	-	DISEASE
-veggie chicken	-	FOOD
+veggie chicken	-	INTERMEDIARY_CONCEPT
 mitochondria	mitochondria	INTERMEDIARY_CONCEPT
 cardiovascular diseases	-	DISEASE
 previous record	-	INTERMEDIARY_CONCEPT
