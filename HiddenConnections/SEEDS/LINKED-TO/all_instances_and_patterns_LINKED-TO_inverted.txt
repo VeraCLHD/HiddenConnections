@@ -1,7 +1,6 @@
 
 inflammation	chronic diseases	associated with	LINKED-TO-I
 french fries	girls	associated with	LINKED-TO-I
-egg	inflammatory reaction	associated with	LINKED-TO-I
 diabetes	eggs	associated with	LINKED-TO-I
 chemotherapy	irritation	associated with	LINKED-TO-I
 drugs	side effects	associated with	LINKED-TO-I
@@ -10,7 +9,6 @@ brain	fish intake	associated with	LINKED-TO-I
 morning sickness	vomiting	associated with	LINKED-TO-I
 processed meat	sperm counts	associated with	LINKED-TO-I
 saturated fat	fertility	associated with	LINKED-TO-I
-alzheimer	toxin	associated with	LINKED-TO-I
 nut consumption	death	associated with	LINKED-TO-I
 ayurvedic	lead poisoning	associated with	LINKED-TO-I
 salt	stomach cancer	associated with	LINKED-TO-I
@@ -24,17 +22,14 @@ alcohol	cancers	associated with	LINKED-TO-I
 rickets	deformities	associated with	LINKED-TO-I
 heart disease	disability	associated with	LINKED-TO-I
 cancer	biomarker	associated with	LINKED-TO-I
-drugs	pain	associated with	LINKED-TO-I
 aspartame	headaches	associated with	LINKED-TO-I
 depression	inflammation	associated with	LINKED-TO-I
-inflammation	meat molecule	associated with	LINKED-TO-I
 infertility	beverage	associated with	LINKED-TO-I
 nut	death	associated with	LINKED-TO-I
 cardiovascular health	rosy glow	associated with	LINKED-TO-I
 poultry	mortality	associated with	LINKED-TO-I
 memory	brain	associated with	LINKED-TO-I
 diabetes	symptoms	associated with	LINKED-TO-I
-diet soda	cardiovascular disease	associated with	LINKED-TO-I
 salt intake	stomach cancer	associated with	LINKED-TO-I
 prevotella	carbohydrates	are associated with the	LINKED-TO-I
 bacteroides	fat	are associated with the	LINKED-TO-I
@@ -55,7 +50,6 @@ liver	poultry	tied to	LINKED-TO-I
 liver	poultry exposure	tied to	LINKED-TO-I
 pork	foodborne illness	tied to	LINKED-TO-I
 meat	parasites	are associated with	LINKED-TO-I
-prevotella	fat	are associated with	LINKED-TO-I
 depression	blood	are associated with	LINKED-TO-I
 birth defects	xenoestrogens	are associated with	LINKED-TO-I
 brain tumors	dental x-rays	are associated with	LINKED-TO-I
@@ -70,7 +64,6 @@ breast cancer	adolescence	was associated with	LINKED-TO-I
 prostate cancer	doughnuts	was associated with about a third greater odds of	LINKED-TO-I
 inflammation	chronic diseases	associated with	LINKED-TO-I
 french fries	girls	associated with	LINKED-TO-I
-egg	inflammatory reaction	associated with	LINKED-TO-I
 diabetes	eggs	associated with	LINKED-TO-I
 chemotherapy	irritation	associated with	LINKED-TO-I
 drugs	side effects	associated with	LINKED-TO-I
@@ -79,7 +72,6 @@ brain	fish intake	associated with	LINKED-TO-I
 morning sickness	vomiting	associated with	LINKED-TO-I
 processed meat	sperm counts	associated with	LINKED-TO-I
 saturated fat	fertility	associated with	LINKED-TO-I
-alzheimer	toxin	associated with	LINKED-TO-I
 nut consumption	death	associated with	LINKED-TO-I
 ayurvedic	lead poisoning	associated with	LINKED-TO-I
 salt	stomach cancer	associated with	LINKED-TO-I
@@ -93,17 +85,14 @@ alcohol	cancers	associated with	LINKED-TO-I
 rickets	deformities	associated with	LINKED-TO-I
 heart disease	disability	associated with	LINKED-TO-I
 cancer	biomarker	associated with	LINKED-TO-I
-drugs	pain	associated with	LINKED-TO-I
 aspartame	headaches	associated with	LINKED-TO-I
 depression	inflammation	associated with	LINKED-TO-I
-inflammation	meat molecule	associated with	LINKED-TO-I
 infertility	beverage	associated with	LINKED-TO-I
 nut	death	associated with	LINKED-TO-I
 cardiovascular health	rosy glow	associated with	LINKED-TO-I
 poultry	mortality	associated with	LINKED-TO-I
 memory	brain	associated with	LINKED-TO-I
 diabetes	symptoms	associated with	LINKED-TO-I
-diet soda	cardiovascular disease	associated with	LINKED-TO-I
 salt intake	stomach cancer	associated with	LINKED-TO-I
 obesity	virus	first associated with	LINKED-TO-I
 meat	sperm counts	associated with processed	LINKED-TO-I
@@ -145,7 +134,6 @@ galactose	death	associated with the	LINKED-TO-I
 wheat	symptoms	associated with the	LINKED-TO-I
 breast cancer	pumpkin seeds	were associated with reduced	LINKED-TO-I
 meat	parasites	are associated with	LINKED-TO-I
-prevotella	fat	are associated with	LINKED-TO-I
 depression	blood	are associated with	LINKED-TO-I
 birth defects	xenoestrogens	are associated with	LINKED-TO-I
 brain tumors	dental x-rays	are associated with	LINKED-TO-I

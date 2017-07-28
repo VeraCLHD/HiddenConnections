@@ -7,13 +7,11 @@ skin cancer	arsenic	caused by	CAUSED-BY
 inflammation	gluten	caused by	CAUSED-BY
 pain	inflammation	caused by	CAUSED-BY
 carcinogens	cooking	caused by	CAUSED-BY
-epidemic	obesity	caused by	CAUSED-BY
 health	obesity	caused by	CAUSED-BY
 irritation	cetuximab	caused by	CAUSED-BY
 inflammation	muscle	caused by	CAUSED-BY
 carcinogens	cooking meat	caused by	CAUSED-BY
 adverse effects	aspartame	caused by	CAUSED-BY
-tumor	hpv	caused by	CAUSED-BY
 smoke	frying	caused by	CAUSED-BY
 mutations	smoking	caused by	CAUSED-BY
 dna damage	free radicals	caused by	CAUSED-BY
@@ -24,14 +22,12 @@ inflammatory arthritis	crystallization	caused by the	CAUSED-BY
 oxidative stress	pesticide	caused by the	CAUSED-BY
 dna mutations	carcinogen	caused by the	CAUSED-BY
 production	cadmium	caused by the	CAUSED-BY
-production	cadmium exposure	caused by the	CAUSED-BY
 brain damage	mercury	caused by the	CAUSED-BY
 mutations	carcinogen	caused by the	CAUSED-BY
 inflammation	domesticated animal	triggered by	CAUSED-BY
 amyloidosis	leprosy	triggered by	CAUSED-BY
 inflammation	kangaroo meat	triggered by	CAUSED-BY
 inflammation	dioxin	triggered by	CAUSED-BY
-asthma	breathing	triggered by	CAUSED-BY
 allergies	tick bites	triggered by	CAUSED-BY
 calcium intake	dairy consumption	due to	CAUSED-BY
 non-alcoholic fatty liver disease	obesity	due to	CAUSED-BY
@@ -43,16 +39,12 @@ meat	vitamin a	due to	CAUSED-BY
 brain	atherosclerosis	due to	CAUSED-BY
 liver toxicity	broccoli	due to	CAUSED-BY
 chickens	genetic manipulation	due to	CAUSED-BY
-dementia	vitamin	due to	CAUSED-BY
 toxicity	broccoli	due to	CAUSED-BY
 gluten	symptoms	due to	CAUSED-BY
 narrowed arteries	cholesterol	due to	CAUSED-BY
 viruses	manure	due to	CAUSED-BY
-coli exposure	bacteria	due to	CAUSED-BY
 dementia	vitamin b12	due to	CAUSED-BY
-reaction	seafood	due to	CAUSED-BY
 penis	phthalate	due to	CAUSED-BY
-meat	ddt	due to	CAUSED-BY
 fecal pathogens	noroviruses	due to	CAUSED-BY
 premature puberty	chemical pollutants	due to	CAUSED-BY
 phytonutrients	nutrient synergy	due to	CAUSED-BY
@@ -71,13 +63,11 @@ skin cancer	arsenic	caused by	CAUSED-BY
 inflammation	gluten	caused by	CAUSED-BY
 pain	inflammation	caused by	CAUSED-BY
 carcinogens	cooking	caused by	CAUSED-BY
-epidemic	obesity	caused by	CAUSED-BY
 health	obesity	caused by	CAUSED-BY
 irritation	cetuximab	caused by	CAUSED-BY
 inflammation	muscle	caused by	CAUSED-BY
 carcinogens	cooking meat	caused by	CAUSED-BY
 adverse effects	aspartame	caused by	CAUSED-BY
-tumor	hpv	caused by	CAUSED-BY
 smoke	frying	caused by	CAUSED-BY
 mutations	smoking	caused by	CAUSED-BY
 dna damage	free radicals	caused by	CAUSED-BY
@@ -89,7 +79,6 @@ inflammatory arthritis	crystallization	caused by the	CAUSED-BY
 oxidative stress	pesticide	caused by the	CAUSED-BY
 dna mutations	carcinogen	caused by the	CAUSED-BY
 production	cadmium	caused by the	CAUSED-BY
-production	cadmium exposure	caused by the	CAUSED-BY
 brain damage	mercury	caused by the	CAUSED-BY
 mutations	carcinogen	caused by the	CAUSED-BY
 egg nutrition center	american egg board	was created by the	CAUSED-BY
@@ -103,16 +92,12 @@ meat	vitamin a	due to	CAUSED-BY
 brain	atherosclerosis	due to	CAUSED-BY
 liver toxicity	broccoli	due to	CAUSED-BY
 chickens	genetic manipulation	due to	CAUSED-BY
-dementia	vitamin	due to	CAUSED-BY
 toxicity	broccoli	due to	CAUSED-BY
 gluten	symptoms	due to	CAUSED-BY
 narrowed arteries	cholesterol	due to	CAUSED-BY
 viruses	manure	due to	CAUSED-BY
-coli exposure	bacteria	due to	CAUSED-BY
 dementia	vitamin b12	due to	CAUSED-BY
-reaction	seafood	due to	CAUSED-BY
 penis	phthalate	due to	CAUSED-BY
-meat	ddt	due to	CAUSED-BY
 fecal pathogens	noroviruses	due to	CAUSED-BY
 premature puberty	chemical pollutants	due to	CAUSED-BY
 phytonutrients	nutrient synergy	due to	CAUSED-BY
@@ -137,7 +122,6 @@ inflammation	domesticated animal	triggered by	CAUSED-BY
 amyloidosis	leprosy	triggered by	CAUSED-BY
 inflammation	kangaroo meat	triggered by	CAUSED-BY
 inflammation	dioxin	triggered by	CAUSED-BY
-asthma	breathing	triggered by	CAUSED-BY
 allergies	tick bites	triggered by	CAUSED-BY
 carbohydrates	acrylamide	due to the effects of	CAUSED-BY
 phytonutrients	plant	are created by the	CAUSED-BY
@@ -161,7 +145,6 @@ insulin resistance	sucralose	causes	CAUSED-BY
 insulin	sucralose	causes	CAUSED-BY
 cancer	cigarette smoking	causes	CAUSED-BY
 dna mutations	liquid smoke	causes	CAUSED-BY
-guidelines	who	creates	CAUSED-BY
 free radicals	exercise	creates	CAUSED-BY
 heterocyclic amines	fish	creates	CAUSED-BY
 acne	milk	cause	CAUSED-BY
@@ -232,7 +215,6 @@ cancer	animal protein	triggers the release of the	CAUSED-BY
 prediabetes	insulin resistance	is what causes	CAUSED-BY
 depression	folate	led to	CAUSED-BY
 brain tumors	x-rays	caused the	CAUSED-BY
-guidelines	who	creates	CAUSED-BY
 free radicals	exercise	creates	CAUSED-BY
 heterocyclic amines	fish	creates	CAUSED-BY
 inflammation	eggs	thought to cause	CAUSED-BY
@@ -248,13 +230,11 @@ arsenic	skin cancer	caused by	CAUSE
 gluten	inflammation	caused by	CAUSE
 inflammation	pain	caused by	CAUSE
 cooking	carcinogens	caused by	CAUSE
-obesity	epidemic	caused by	CAUSE
 obesity	health	caused by	CAUSE
 cetuximab	irritation	caused by	CAUSE
 muscle	inflammation	caused by	CAUSE
 cooking meat	carcinogens	caused by	CAUSE
 aspartame	adverse effects	caused by	CAUSE
-hpv	tumor	caused by	CAUSE
 frying	smoke	caused by	CAUSE
 smoking	mutations	caused by	CAUSE
 free radicals	dna damage	caused by	CAUSE
@@ -265,14 +245,12 @@ crystallization	inflammatory arthritis	caused by the	CAUSE
 pesticide	oxidative stress	caused by the	CAUSE
 carcinogen	dna mutations	caused by the	CAUSE
 cadmium	production	caused by the	CAUSE
-cadmium exposure	production	caused by the	CAUSE
 mercury	brain damage	caused by the	CAUSE
 carcinogen	mutations	caused by the	CAUSE
 domesticated animal	inflammation	triggered by	CAUSE
 leprosy	amyloidosis	triggered by	CAUSE
 kangaroo meat	inflammation	triggered by	CAUSE
 dioxin	inflammation	triggered by	CAUSE
-breathing	asthma	triggered by	CAUSE
 tick bites	allergies	triggered by	CAUSE
 dairy consumption	calcium intake	due to	CAUSE
 obesity	non-alcoholic fatty liver disease	due to	CAUSE
@@ -284,16 +262,12 @@ vitamin a	meat	due to	CAUSE
 atherosclerosis	brain	due to	CAUSE
 broccoli	liver toxicity	due to	CAUSE
 genetic manipulation	chickens	due to	CAUSE
-vitamin	dementia	due to	CAUSE
 broccoli	toxicity	due to	CAUSE
 symptoms	gluten	due to	CAUSE
 cholesterol	narrowed arteries	due to	CAUSE
 manure	viruses	due to	CAUSE
-bacteria	coli exposure	due to	CAUSE
 vitamin b12	dementia	due to	CAUSE
-seafood	reaction	due to	CAUSE
 phthalate	penis	due to	CAUSE
-ddt	meat	due to	CAUSE
 noroviruses	fecal pathogens	due to	CAUSE
 chemical pollutants	premature puberty	due to	CAUSE
 nutrient synergy	phytonutrients	due to	CAUSE
@@ -312,13 +286,11 @@ arsenic	skin cancer	caused by	CAUSE
 gluten	inflammation	caused by	CAUSE
 inflammation	pain	caused by	CAUSE
 cooking	carcinogens	caused by	CAUSE
-obesity	epidemic	caused by	CAUSE
 obesity	health	caused by	CAUSE
 cetuximab	irritation	caused by	CAUSE
 muscle	inflammation	caused by	CAUSE
 cooking meat	carcinogens	caused by	CAUSE
 aspartame	adverse effects	caused by	CAUSE
-hpv	tumor	caused by	CAUSE
 frying	smoke	caused by	CAUSE
 smoking	mutations	caused by	CAUSE
 free radicals	dna damage	caused by	CAUSE
@@ -330,7 +302,6 @@ crystallization	inflammatory arthritis	caused by the	CAUSE
 pesticide	oxidative stress	caused by the	CAUSE
 carcinogen	dna mutations	caused by the	CAUSE
 cadmium	production	caused by the	CAUSE
-cadmium exposure	production	caused by the	CAUSE
 mercury	brain damage	caused by the	CAUSE
 carcinogen	mutations	caused by the	CAUSE
 american egg board	egg nutrition center	was created by the	CAUSE
@@ -344,16 +315,12 @@ vitamin a	meat	due to	CAUSE
 atherosclerosis	brain	due to	CAUSE
 broccoli	liver toxicity	due to	CAUSE
 genetic manipulation	chickens	due to	CAUSE
-vitamin	dementia	due to	CAUSE
 broccoli	toxicity	due to	CAUSE
 symptoms	gluten	due to	CAUSE
 cholesterol	narrowed arteries	due to	CAUSE
 manure	viruses	due to	CAUSE
-bacteria	coli exposure	due to	CAUSE
 vitamin b12	dementia	due to	CAUSE
-seafood	reaction	due to	CAUSE
 phthalate	penis	due to	CAUSE
-ddt	meat	due to	CAUSE
 noroviruses	fecal pathogens	due to	CAUSE
 chemical pollutants	premature puberty	due to	CAUSE
 nutrient synergy	phytonutrients	due to	CAUSE
@@ -378,7 +345,6 @@ domesticated animal	inflammation	triggered by	CAUSE
 leprosy	amyloidosis	triggered by	CAUSE
 kangaroo meat	inflammation	triggered by	CAUSE
 dioxin	inflammation	triggered by	CAUSE
-breathing	asthma	triggered by	CAUSE
 tick bites	allergies	triggered by	CAUSE
 acrylamide	carbohydrates	due to the effects of	CAUSE
 plant	phytonutrients	are created by the	CAUSE
@@ -402,7 +368,6 @@ sucralose	insulin resistance	causes	CAUSE
 sucralose	insulin	causes	CAUSE
 cigarette smoking	cancer	causes	CAUSE
 liquid smoke	dna mutations	causes	CAUSE
-who	guidelines	creates	CAUSE
 exercise	free radicals	creates	CAUSE
 fish	heterocyclic amines	creates	CAUSE
 milk	acne	cause	CAUSE
@@ -473,7 +438,6 @@ animal protein	cancer	triggers the release of the	CAUSE
 insulin resistance	prediabetes	is what causes	CAUSE
 folate	depression	led to	CAUSE
 x-rays	brain tumors	caused the	CAUSE
-who	guidelines	creates	CAUSE
 exercise	free radicals	creates	CAUSE
 fish	heterocyclic amines	creates	CAUSE
 eggs	inflammation	thought to cause	CAUSE

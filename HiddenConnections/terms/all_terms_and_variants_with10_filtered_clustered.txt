@@ -6395,10 +6395,8 @@ wine	wine	FOOD
 flight	flight	INTERMEDIARY_CONCEPT
 inflammatory bowel diseases	-	DISEASE
 lymphadenopathy associated virus	-	DISEASE
-yellow	yellow	INTERMEDIARY_CONCEPT
 arsenic-containing drug	-	INTERMEDIARY_CONCEPT
 red meat	-	FOOD
-cancer-free	cancer-free	INTERMEDIARY_CONCEPT
 parsley	parsley	FOOD
 dietary secondhand	-	INTERMEDIARY_CONCEPT
 epigenetic changes	-	INTERMEDIARY_CONCEPT
@@ -6425,7 +6423,6 @@ multivitamin supplements	-	INTERMEDIARY_CONCEPT
 choiceness	choiceness	INTERMEDIARY_CONCEPT
 dietary sucrose	-	FOOD
 pad	pad	INTERMEDIARY_CONCEPT
-wise	wise	INTERMEDIARY_CONCEPT
 kidney stone	-	DISEASE
 referrals	referral	INTERMEDIARY_CONCEPT
 orange trees	-	FOOD
@@ -8140,11 +8137,9 @@ malignant brain neoplasms	-	DISEASE
 sle	sle	INTERMEDIARY_CONCEPT
 plant calyx	-	INTERMEDIARY_CONCEPT
 practitioners	practitioner	INTERMEDIARY_CONCEPT
-refinance	refinance	INTERMEDIARY_CONCEPT
 new volume	-	INTERMEDIARY_CONCEPT
 butacote	butacote	INTERMEDIARY_CONCEPT
 morinda citrifolia	-	FOOD
-u.s	u.s	INTERMEDIARY_CONCEPT
 nitro dur	-	INTERMEDIARY_CONCEPT
 tyramine oxidase	-	INTERMEDIARY_CONCEPT
 plant compound	-	INTERMEDIARY_CONCEPT

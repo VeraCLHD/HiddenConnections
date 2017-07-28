@@ -16,7 +16,6 @@ sucralose	insulin resistance	causes	CAUSE
 sucralose	insulin	causes	CAUSE
 cigarette smoking	cancer	causes	CAUSE
 liquid smoke	dna mutations	causes	CAUSE
-who	guidelines	creates	CAUSE
 exercise	free radicals	creates	CAUSE
 fish	heterocyclic amines	creates	CAUSE
 milk	acne	cause	CAUSE
@@ -87,7 +86,6 @@ animal protein	cancer	triggers the release of the	CAUSE
 insulin resistance	prediabetes	is what causes	CAUSE
 folate	depression	led to	CAUSE
 x-rays	brain tumors	caused the	CAUSE
-who	guidelines	creates	CAUSE
 exercise	free radicals	creates	CAUSE
 fish	heterocyclic amines	creates	CAUSE
 eggs	inflammation	thought to cause	CAUSE

@@ -1,7 +1,7 @@
 
-associated with	[VBN, IN]	2.9653811465887867
+associated with	[VBN, IN]	2.5
 are associated with the	[VBP, VBN, IN, DT]	0.07924812503605783
-is associated with	[VBZ, VBN, IN]	0.4389126925073972
-tied to	[VBN, TO]	0.23861192314349133
-are associated with	[VBP, VBN, IN]	0.36923076923076925
-was associated with	[VBD, VBN, IN]	0.17860985345287403
+is associated with	[VBZ, VBN, IN]	0.4457707033278252
+tied to	[VBN, TO]	0.24234023444260838
+are associated with	[VBP, VBN, IN]	0.30705444460005044
+was associated with	[VBD, VBN, IN]	0.18140063241307516

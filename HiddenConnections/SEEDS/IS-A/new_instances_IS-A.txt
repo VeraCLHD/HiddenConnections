@@ -1,7 +1,6 @@
 
 inflammation	bleeding
 diseases	parkinson
-medications	ibuprofen
 menstrual symptoms	cramping
 diseases	heart disease
 herbal teas	hibiscus tea
@@ -12,51 +11,32 @@ hormones	igf
 cheese	ham
 symptoms	asthma
 creatinine	cheese
-insulin	igf
 soyfoods	tofu
-western diseases	obesity
 good bacteria	vinegar
 dietary contaminants	antibiotic residues
-inflammatory bowel diseases	crohn
 spices	mustard
 diseases	stroke
 food restaurants	mcdonald
-bug	spinach
 carcinomas	breast cancer
-meal	fruit
 cancers	childhood leukemia
 persistent pollutants	ddt
-citrus-based fruits	oranges
-treatments	acupuncture
 meat	poultry
-vegetables	oranges
-gerd	heartburn
 hormones	nicotine
-whole grains	oats
 hormones	steroids
 diseases	alzheimer
-drink	orange
-fruits	tomatoes
 coffee	insomnia
-therapies	cholesterol lowering
-breast milk	pcbs
 herb	tarragon
 bone health	bone mineral density
 illnesses	depression
-crystallizes	sugar water
 meat	pathogens
 vitamin supplements	vitamin e
 eating meat	fish
 vitamin supplements	vitamin c
-calcium	broccoli
 plants	potato chips
 sweetener	erythritol
 disease	tremor
-symptoms	brain
 whole grains	gluten
-diseases	asthma
 autoimmune diseases	meat glue
-cured meat	bacon
 multidrug-resistant bacteria	mrsa
 supplements	pancreatic enzymes
 anti-inflammatory drugs	ibuprofen
@@ -66,70 +46,45 @@ animal protein	meat
 anti-inflammatory drugs	aspirin
 top killers	heart disease
 vegetables	arugula
-family vegetables	garlic
 carbs	sun-dried
-stress hormones	adrenaline
-oils	olive oil
 chronic diseases	diabetes
 vegetables	onions
-feelings	hunger
-inflammatory bowel diseases	methionine
 fresh fruits	blueberries
-plant kingdom	fruits
 sour fruit	lemons
 spices	curcumin
 modern medicine	surgery
-vegetables	salad
-persistent pollutants	hexachlorobenzene
 neurotransmitters	prozac
 meat	chicken
-chronic disease	cancer
-who	cilantro
-drugs	nicotine
 spices	clove
-processed meat	bacon
-pigments	zeaxanthin
 fruits	apples
-contaminants	mercury
 fish	mercury
 market	pancake
-meat	ham
 drug	lipitor
-autoimmune diseases	rheumatoid arthritis
 whole grains	rye
-graphs	bpa
-protein	beans
 western diseases	colon cancer
 plants	berries
 teas	hibiscus
 plant-based diet	ornish
-radiation	radiation exposure
-persistent organic pollutants	arsenic
 cancers	breast
 drinks	tea
 atopic disease	asthma
-food cans	cans
 medications	benadryl
 supplements	vitamin a
 nitrate-rich vegetables	beets
 leading killers	diabetes
-pigments	lutein
 animal fat	chicken fat
 plant-based diets	greens
 seeds	sesame
 tissues	cancer
 spices	cloves
 seafood	mercury
-pops	dioxins
 drugs	beta
 fruits	strawberries
 industrial pollutants	pcbs found
-meal	citrus
 heterocyclic amines	phip
 inflammation	gum
 illnesses	teenagers
 plant proteins	soy
-minerals	iodine
 acids	lactic acid
 diabetes	vitamin d
 pregnancy	shorter cerebellums
@@ -142,64 +97,37 @@ baggage	cholesterol
 vitamin supplements	multivitamins
 illnesses	heart disease
 plant fat	nuts
-drug	valium
-drinks	wine
-animal proteins	soy
 plant-based diet	seeds
-treatments	tamoxifen
 medications	aspirin
 acids	vitamin c
-proteins	casein
 methionine	meat
-meat	beef
 drug	premarin
-exposure	farmworkers
 recipe	mayo
 beans	grapefruit
 legumes	chickpeas
 health	nitrate
 diseases	cancer
-inflammatory bowel disease	crohn
-illnesses	acne
 leukemia	b-cell
 preventing cancer	pancreatic cancer
 carotenoids	beta-carotene
 acid-forming	bread
-smoothie	drinking
-meats	poultry
-kale	breast
-taking supplements	potassium
-fish	anisakis
 nuts	peanuts
 arthritis	rheumatoid arthritis
 prebiotics	fiber
 killers	heart disease
 tissues	bone
 omega-3s	dha
-toxins	dioxins
-inflammatory diseases	crohn
 drug	ibuprofen
 meat	pesticides
 dried fruits	currants
 illnesses	cancer
-eye diseases	uveitis
 sea vegetables	nori
-liver	noni juice
 neurodegenerative diseases	alzheimer
-drugs	heroin
-copd	emphysema
-vegetables	kale
 exotic fruits	noni
-kidney cancer	obesity
-animal proteins	neu5gc
 brain diseases	alzheimer
 plants	apples
-pollutants	pcbs
-amino acids	leucine
 pollutants	formaldehyde
 cancer	prostate cancer
-vegetables	berries
 exercise	jogging
-health	carrot juice
 carotenoids	lutein
 chicken	beta-carboline alkaloids

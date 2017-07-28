@@ -111,10 +111,10 @@ public class Bootstrapper {
 		
 		Bootstrapper.readAllTerms();
 		List<String> types = new ArrayList<String>();
+		types.add("HYPERNYMY");
+		types.add("IS-A");
 		types.add("PART-OF");
 		types.add("PART-OF-I");
-		types.add("IS-A");
-		types.add("HYPERNYMY");
 		types.add("CAUSED-BY");
 		types.add("CAUSE");
 		types.add("EFFECT");
@@ -375,10 +375,13 @@ public class Bootstrapper {
 		    
 		    List<String> term1_candidate = new ArrayList<String>();
 		    List<String> term2_candidate = new ArrayList<String>();
+		    List<String> term1_candidatePOS = new ArrayList<String>();
+		    List<String> term2_candidatePOS = new ArrayList<String>();
 		    
 		    if(!before.isEmpty()){
 		    	Sentence beforeSentence = new Sentence(before);
 		    	term1_candidate = beforeSentence.words();
+		    	term1_candidatePOS = beforeSentence.posTags();
 		    } else{
 		    	term1_candidate = Arrays.asList(before.split(" "));
 		    }
@@ -386,6 +389,7 @@ public class Bootstrapper {
 		    if(!after.isEmpty()){
 		    	Sentence afterSentence = new Sentence(after);
 				 term2_candidate = afterSentence.words();
+				 term2_candidatePOS = afterSentence.posTags();
 		    } else{
 		    	term2_candidate = Arrays.asList(after.split(" "));
 		    }
@@ -399,6 +403,12 @@ public class Bootstrapper {
 		    		continue;
 		    	}// in the sentence string, punctiation is directly in the word 
 		    	else{
+		    		if(!term1_candidatePOS.isEmpty() && term1_candidatePOS.size()> i){
+		    			if(term1_candidatePOS.get(i).matches("NN|NNS|NNP|NNPS")){
+		    				temp1 = "";
+		    			}
+		    		}
+		    		
 		    		break;
 		    	}
 		    }
@@ -411,7 +421,13 @@ public class Bootstrapper {
 		    		continue;
 		    	}
 		    	else{
-						break;
+		    		if(!term2_candidatePOS.isEmpty() && term2_candidatePOS.size()> i){
+		    			if(term2_candidatePOS.get(i).matches("NN|NNS|NNP|NNPS")){
+		    				temp2 = "";
+		    			}
+		    		}
+		    		//if temp2.last word is an N, NNS usw. -> temp1 = ""	
+		    		break;
 					}
 		    		
 		    	}

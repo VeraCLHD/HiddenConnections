@@ -1,1879 +1,1877 @@
 
-bell peppers	barrett metaplasia	0
-açaí berry	atopic diseases	0
-hordeum vulgare	adenovirus	0
-green beans	ischemia	0
-petroselinum crispums	contagious ecthyma	0
-whole wheat	carcinoma in situ	0
-healthiest foods	pharyngitis	0
-strawberry	androgenic alopecias	0
-cooking oil	male breast enlargement	0
-different fruits	gale deficiencies	0
-laciniate nightshades	weight gain	0
-soy cheese	non-epileptic convulsion	0
-dietary fats	bruise	0
-spicy food	inflammatory disorder	0
-poultry	mptp induced experimental parkinsonism	0
-animal-based foods	voice box cancer	0
-cocoanut	reproductive sterility	0
-refined olive	migratory pains	0
-vaccinium virgatum	spindle cell sarcoma	0
-pepsi	uveitide	0
-raphanus	necrotizing fascitis	0
-organic milk	colic	0
-mango	cardiovascular disease	0
-plant embryos	bladder tumor	0
-plant capsules	sarcoma	0
-macadamia nut	experimental parkinson disease	0
-bertholletia excelsas	plasmodium infection	0
-fries	catarrh	0
-trompillo	indigestion	0
-added nuts	brain tumors	0
-smoked food	carcinogenese	0
-horse nettle	pharyngitide	0
-sugar maple	blood clot	0
-salt-free diet	gastroenteritide	0
-kenaf	acute inflammatory polyradiculoneuropathy	0
-safflower	gerd	0
-grape juice	periodontal diseases	0
-horsebean	paraesophageal hernias	0
-sweet peppers	guillain-barré syndrome	0
-hordeum	uterine neoplasms	0
-toronja	testis cancers	0
-chenopodium quinoa	senile osteoporoses	0
-plantago arenaria	deaf mutism	0
-oxen meat	anal ulcers	0
-candy bars	hepatic cancers	0
-crabapple	kidney calculus	0
-banana plants	diabetic complication	0
-mentha x piperita	irritable bowel syndrome	1
-citrus medicas	diabetic retinopathies	0
-cannabis indica	pill rolling tremors	0
-pumpkin pie	sunburn	0
-processed meat	cranial pains	0
-ganja	uterine leiomyoma	0
-ready-prepared food	cancer of the ovary	0
-opium poppies	myalgia	0
-olive tree	penis neoplasms	0
-sweet almonds	chronic daily headaches	0
-citrus maxima	gingivitis	0
-st. john's wort	endometrioma	0
-common olive tree	sneeze	0
-soup	tumor of rete testis	0
-dried cranberries	hyperventilation syncopes	0
-junk foods	non-epileptic convulsions	0
-crocus sativus	retrovirus	0
-arachis	colitis	0
-plant arils	diabetic asymmetric polyneuropathy	0
-halibut	primary gh resistance	0
-lemon trees	diabetes complication	0
-laciniate nightshade	central nervous system intracranial disorders	0
-bad foods	oral neoplasm	0
-indian laburnums	anoxia	0
-woodland strawberries	familial parkinson disease	0
-dietary sucrose	hot flashes	0
-oatmeal	chronic b lymphocytic leukemia	0
-incorporate cloves	senile tremors	0
-healthiest nuts	virus diseases	0
-junk food	migraine disorders	0
-pureed apples	dwarfism	0
-buttermilk	congenital defect	0
-dessert	male sub-fertility	0
-club soda	fibrocystic mastopathy	0
-chenopodium quinoas	enzootic bovine leukosis	0
-dietary soybean proteins	light-headedness	0
-cymbopogon	acute monocytic leukemia	0
-carbonated mineral water	inflammatory polyneuropathy acute	0
-food coloring	coronary heart diseases	0
-vinegar	static tremor	0
-marsh mallow	human influenzas	0
-cocoa powder	insulin-dependent diabetes mellitus 1	0
-brewage	jakob creutzfeldt syndrome	0
-blueberry plant	ankylosing spondyloarthritis	0
-diabetic diets	gestational diabetes	0
-vicia faba	acute monocytic leukemia	0
-empty calorie foods	jacksonian seizure	0
-plant zygote	canker sore	0
-melissa officinali	thyroid disease	0
-suggesting apple	pruritis	0
-ground meat	stokes-adams syncopes	0
-cassia	infection	0
-bread mold	persistent atrial fibrillation	0
-cocoa butter	infantile colic	0
-salmonella-infected eggs	pancreas cancers	0
-raw meat	nonalcoholic steatohepatitis	0
-zea	pulmonary diseases	0
-butternut squash	epileptic seizures	0
-curry powder	atherosclerose	0
-baby spinach	pulmonary cancers	0
-low-calorie diet	flatulence	0
-lycium	benign prostatic hypertrophy	0
-andropogon nardus	myocardial ischemias	0
-healthy fruit	abdominal aortic aneurysm	0
-whole grain	mental deteriorations	0
-decaf	mixed lymphocytic-histiocytic lymphoma	0
-curry	common cancer	0
-citrus fruits	lightheadedness	0
-indian corn	spiral fracture	0
-spearmint	thrombose	0
-dried apples	myocardial ischemias	0
-brassica	spontaneous abortions	0
-shorten	wound botulism	0
-amomum cardamomums	urinary bladder diseases	0
-high-fat meal	phage	0
-chicken	superficial head injuries	0
-convenience foods	pancreatic neoplasms	0
-carica	pregnancy-induced diabetes	0
-maize oil	myocardial infarction	0
-decrease meat	mixed-cell lymphoma	0
-edible grains	intermittent tremor	0
-lens culinari	low back pains	0
-ilex paraguarienses	wound botulism	0
-soda water	sleep disorders	0
-gmo soybeans	migratory pain	0
-lycopersicon esculentum	primary fibromyalgia	0
-diospyros digynas	malignant tumor of breast	0
-common foxglove	disc degradation	0
-smoked foods	amaurose	0
-candy bar	blood clots	0
-humulus lupulus	experimental lung inflammations	0
-thymus plant	ekbom delusory parasitoses	0
-whole grain cereal	diffuse mixed small and large cell lymphoma	0
-osmanthus	cancer of tonsil	0
-morel	paralysis agitans	0
-bean sprouts	arthritis	0
-hazelnut	philadelphia-negative myeloid leukemia	0
-brussel sprout	lead poisonings	0
-citrus hystrices	hypercholesterolemia	0
-rice milk	ache	0
-food poisonings	carcinoma	0
-common fruits	cryptogenic epilepsies	0
-nettle	joint disease	0
-spice turmeric	xanthomatous meningiomas	0
-atropa belladonnas	diabetic mononeuropathy simplex	0
-warm milk	retrovirus	0
-althaea	degenerative diseases	0
-psyllium	sphenoid wing meningiomas	0
-thymus	meningioma	0
-roughage	hepatitis e	0
-specific foods	small non-cleaved-cell lymphomas	0
-fast foods	prostatic intraepithelial neoplasms	0
-trigonella foenum graecum	fatty liver disease	0
-avena sativa	cervix cancers	0
-seven nutrients	effort syncope	0
-artificial sweeteners	a-v dissociation	0
-faba beans	multiple myositis	0
-star anises	idiopathic parkinson's disease	0
-frying foods	zoonotic infectious diseases	0
-nutmeg	intraepithelial neoplasm	0
-pithecellobium	premenstrual tensions	0
-roselle	cancer of the ovary	0
-lemon balm tea	contagious ecthyma	0
-endive	malignant brain neoplasm	0
-rosehip	retained surgical sponges	0
-solanum melongena	abdominal migraine	0
-teff	lymphocytic lymphoma	0
-prosopis	neurocysticercosis	0
-vegetable proteins	unilateral headache	0
-carob	breast cancers	0
-plantago seed	vulvar cancer	0
-hamburger	treat cancer	0
-garbanzo	diverticulum	0
-exotic fruit	soft tissue sarcomas	0
-saint john's wort	lung disease	0
-artichoke	degenerative arthritis	0
-citrus sinenses	paratuberculose	0
-exotic fruits	epileptic seizures	0
-elettaria cardamomum	anosmia	0
-jalapeno	well differentiated lymphocytic lymphoma	0
-food and drug administration	bovine leukosis	0
-healthy snack	human papillomavirus viruses	0
-bertholletia excelsa	substance use disorders	0
-ovary	hypertension	1
-cereal grain	gastric acid reflux	0
-glycyrrhiza	drunkenness	0
-bhang	gangrene	0
-miso	emphysema	0
-cranberry	udp-galactose-4-epimerase deficiencies	0
-citrus	lumbago	0
-dioscorea polystachya	utp-hexose-1-phosphate uridylyltransferase deficiency disease	0
-chili pepper	acute inflammatory polyradiculoneuropathy	0
-shoot	vulva cancers	0
-cannabis sativa	lung cancers	1
-oat	polyradiculoneuritis	0
-tulsi tea	breast dysplasia	0
-food additive	voice box cancer	0
-andean blackberry	prostatic intraepithelial neoplasms	0
-bran flakes	crohn's enteritis	0
-monkfish	bilateral sciatica	0
-raw alfalfa	jakob-creutzfeldt syndrome	0
-justicia adhatoda	hemicrania migraine	0
-popular fruits	leiomyoma	0
-citrus grandis	familial parkinson disease	0
-hashish	arthrose	0
-soy foods	plasma cell myeloma	0
-meal times	mottled enamels	0
-prunus armeniaca	social phobia	0
-soda pops	ankylosing spondylitis	0
-chinese cinnamon	deglutitional syncopes	0
-licorice root	develop cancer	0
-vegetable juice	sore throats	0
-pistacia lentiscus	familial juvenile parkinsonism	0
-lavandula angustifolia	persistent tremors	0
-individual food	auditory seizure	0
-texturized vegetable protein	iritis	0
-breakfast cereal	head injury	0
-soy sauce	drug allergy	0
-pistacia vera	cervix cancer	0
-phaseolus acutifolius	creutzfeldt jakob syndrome	0
-healthier foods	pulmonary neoplasms	0
-silybum marianum	coarse tremors	0
-mussel	indigestion	0
-persea	cancer of liver	0
-citron trees	urinary bladder disease	0
-ready prepared foods	unhealthy conditions	0
-punica granatums	hip fractures	0
-table sugar	gale deficiencies	0
-poultry product	acquired immune deficiency syndrome	0
-chewed coca	congenital abnormality	0
-acer negundos	pattern baldness	0
-weekly meat	gallstone	0
-sugary foods	arthritide	0
-sunfish	deep vein thromboses	0
-high-fructose corn	mottled enamel	0
-bilberry	foodborne disease	0
-millet	malignant primary brain neoplasms	0
-kale	malignant brain neoplasm	0
-colocasia	amnesia-memory loss	0
-prunus cerasifera	inhibit cancer	0
-honeybush tea	autosomal recessive juvenile parkinson disease 2	0
-rheum rhaponticum	diabetes mellitus complications	0
-cannabis indicas	polyphagia	0
-brinjal	angiomatous meningioma	0
-seltzer water	exanthem	0
-taking vitamin	human t-cell lymphotropic virus type iii	0
-hickory nut	kidney cancers	0
-hibiscus	vulva neoplasm	0
-solanum tuberosum	psychotic disorder	0
-pimpinella anisum	viral disease	0
-curried tofu	high grade lymphoma	0
-ribes nigrum	intractable headaches	0
-dairy product	human t-cell lymphotropic virus type iii	0
-green onions	deglutitional syncopes	0
-prunis communis	basal cell nevus syndrome	0
-allium cepa	postoperative nausea and vomiting	0
-eggplant	rectal neoplasm	0
-cinnamomum zeylanicum	irritable bowel syndrome	0
-horse nettles	throbbing headaches	0
-sweet basil	food-borne illnesses	0
-red onions	crohn's enteritis	0
-aloe vera	terminal ileitis	0
-eating eggs	inflammatory polyneuropathy acute	0
-low-salt diet	diabetes mellitus complication	0
-narrow-leaved plantains	acute inflammatory polyradiculoneuropathies	0
-norus	kidney neoplasm	0
-healthiest fruits	cardiogenic syncopes	0
-plant-based foods	brain vascular accidents	0
-prebiotic	acute infectious polyneuritis	0
-tomato sauce	acquired immune deficiency syndrome virus	0
-apple tree	carcinoma of endometrium	0
-proteus mirabilis	cancer of the bone	0
-green peppers	gerd	0
-salsa	rectal cancer	0
-drink tea	schizophreniform disorder	0
-mustard seeds	involutional osteoporosis	0
-nut	premature aging	0
-fava bean	bechterews disease	0
-soda waters	cancer of prostate	0
-currant	prostate neoplasm	0
-cucumis sativus	gluten-sensitive enteropathy	0
-euterpe oleracea	protein deficiency	0
-green grapes	uterine cervical cancers	0
-euterpe	lyme arthritis	0
-marshmallow	diabetic retinopathy	0
-chicken salad	focal seizure	0
-rye	bleed	0
-chocolate bars	acute inflammatory polyneuropathies	0
-poultry products	polymyositis ossificans	0
-herbal tea	tremor	0
-red tea	posterior compartment low back pain	0
-citrus bergamias	lung inflammation	0
-corn oils	sudden infant death syndrome	0
-hop	creutzfeldt-jakob disease	0
-milk thistles	drug abuse	0
-caryophyllus	small non-cleaved-cell lymphoma	0
-euterpe oleracea mart.s	tick bite	0
-cocoa	pancreatic cancers	0
-citronella	recurrence	0
-amomum cardamomum	sliding hiatal hernias	0
-cucumis melo	endometrial carcinoma	0
-breakfast times	cva (cerebrovascular accident)	0
-kangaroo meat	nevoid basal cell carcinoma syndrome	0
-turmeric	pulmonary thromboembolism	0
-prunus amygdalus	metastatic cancer	0
-thyme	galactose-1-phosphate uridyltransferase deficiencies	0
-pinto beans	nonalcoholic steatohepatitides	0
-digitalis lanata	sneezing	0
-allspice	als (amyotrophic lateral sclerosis)	0
-ficus	colon disease	0
-rubus	vagina cancers	0
-amygdalus communis	gastric acid reflux	0
-cardamom	familial atrial fibrillations	0
-whole grain cereals	parodontose	0
-black walnut	high cholesterol levels	1
-cuminum	eczematous dermatitis	0
-eggnog	malignant epithelial tumor	0
-target vitamin	meningiomatosis	0
-raw poultry	chronic pains	0
-taraxacum officinale	heartburn	0
-olive	reticulum-cell sarcoma	0
-potato chips	prostatic intraepithelial neoplasm	0
-common plant	voice box cancer	0
-elettaria	growth hormone receptor deficiency	0
-foenumgraecum	cancer of tonsil	0
-cacao	oncovirus	0
-energy drink	develop cancer	0
-chlorella	widespread chronic pains	0
-glucose fructose syrup	cervical migraine syndromes	0
-hot peppers	faint	0
-high-phytate foods	reticulum cell sarcoma	0
-milk	rectum neoplasm	0
-dietary plant protein	transient blindness	0
-antioxidant-rich food	pus	0
-flaked coconut	diffuse mixed-cell lymphoma	0
-lens culinaris	grippe	0
-sweetening agents	ciliary neuralgia	0
-fuji apples	udpglucose hexose-1-phosphate uridylyltransferase deficiency	0
-poppy	breast diseases	0
-mangosteen	kill cancer	0
-malus	sore throat	0
-alcohol	benign neoplasms	1
-healthiest apple	sinusitide	0
-poroporo	cancer of rectum	0
-kavas	minor head injury	0
-common foxgloves	mental disorders	0
-tree nuts	pancreatic cancers	0
-pea family	pituitary dwarfism iis	0
-plant embryo	transient insomnia	0
-syzygium sandwicense	non-b hepatitis epidemic non-a	0
-plantago	schizoaffective disorders	0
-edible grain	transitional meningiomas	0
-peach trees	oral cancers	0
-porgy	ovarian neoplasm	0
-processing meat	epithelial cancer	0
-green pepper	lyme disease	0
-wild yam	mucous colitides	0
-psidium guajavas	acquired immuno deficiency syndrome	0
-amorpha	penile neoplasms	0
-syzygium jambolanum	fibrocystic changes of breast	0
-eupatorium rebaudianums	malignant neoplasm of breast	0
-cauliflower	granulomatous enteritis	0
-purine-rich plant	ciguatera fish poisoning	0
-nonfat meal	tonic-clonic seizure	0
-fennel seeds	skin neoplasms	0
-eragrostis	jakob creutzfeldt syndrome	0
-alfalfa sprout	varicose vein	0
-chanterelle	mild neurocognitive disorder	0
-red meats	severe mental disorder	0
-broad beans	cramp	0
-ephedras	bone fracture	0
-yerba mates	western diseases	0
-carrot juice	lactose malabsorption	0
-bitter nightshades	angioblastic meningiomas	0
-frozen broccoli	pustulosis palmaris et plantaris	0
-eugenia jambolana	jaundice	0
-fenugreek seeds	psoriasis	0
-kawa kawa	barretts syndrome	0
-oryza	kidney neoplasm	0
-apium graveolens var. rapaceum	age-related osteoporoses	0
-carrot	zoonosis	0
-bamboo shoots	dyschezia	0
-molasse	gluten-sensitive enteropathy	0
-seed	creutzfeldt-jakob syndrome	0
-cannabis sativas	disrupted in b-cell malignancy	0
-haritaki fruit	cjd (creutzfeldt jakob disease)	0
-fryer	amnesia	0
-chamomile tea	diverticulum	0
-crataegus monogynas	hay fever	0
-golden glow	testicular neoplasm	0
-pineapple	pulmonary embolisms	0
-pear	deaf-mutism	0
-no coffee	transient insomnia	0
-sesame oils	anaplastic carcinomas	0
-woodland strawberry	diabetic amyotrophies	0
-pimenta officinalis	fine tremors	0
-beet	bacterial infections	0
-oolong	familial dementia	0
-açai berries	intracranial cns disorder	0
-morning meals	severe congenital microcephaly	0
-areca catechu	reactive confusion	0
-squash plant	chronic cluster headaches	0
-sorrel	pituitary dwarfism ii	0
-solanum dulcamara	brain disorders	0
-contaminated foods	confusional state	0
-raw food	hypoesthesia	0
-soy beverage	common bile duct gallstones	0
-chinese cassias	behavior disorders	0
-ginger ale	cephalgia syndromes	0
-ground beef	blood clots	0
-vegetable protein	stomach ulcer	0
-faba bean	oncovirus	0
-raisin	osteoarthritide	0
-sea bilberries	menstrual pains	0
-whole grains	age-related osteoporosis	0
-high-fiber food	cluster headaches	0
-durum wheats	postoperative nausea	0
-swordfish	mesothelioma	0
-goji berry plant	craniocerebral injury	0
-dangerous plants	tor-driven diseases	0
-cultivated radish	malignant epithelial neoplasm	0
-sweet pepper	varix	0
-tuna	new variant creutzfeldt jakob disease	0
-new vitamin	social anxiety disorder	0
-gluten-free diet	chronic disease	0
-wolfberry	gale deficiencies	0
-fat foods	human papilloma virus	0
-kava kava	psammomatous meningiomas	0
-barberry	parodontose	0
-pummelo trees	esophagus neoplasm	0
-liquorice	hemolytic-uremic syndrome	0
-chickpea	mammary cancer	0
-antioxidant fruits	small round-structured viruses	0
-pistil	necrotizing fascitis	0
-good soybeans	back pain without radiation	0
-malus domestica	morning sickness	0
-ready-prepared foods	hepatic failure	0
-olive family	undifferentiated carcinomas	0
-fatty foods	tick bites	0
-pasta	central obesity	0
-pickled foods	age related osteoporosis	0
-syzygium malaccense	inflammatory disorder	0
-filbert	multiple head injuries	0
-brazil nuts	colonic neoplasms	0
-cannabis	intracranial cns disorders	0
-cayenne peppers	cvas (cerebrovascular accident)	0
-sweetener	eye disease	0
-phaseolus	breast carcinomas	0
-arecas	erectile dysfunction	0
-english plantain	cognitive impairment	0
-cabbage	convulsive seizure	0
-high fructose corn syrup	syncopal episodes	0
-pancake	sleep initiation dysfunctions	0
-black pepper	sore throat	0
-cultivated oats	food borne illnesses	0
-lentil	substance addiction	0
-coriander	todd's paralysis	0
-orange juice	rectal tumor	0
-delonix	drug allergies	0
-breakfast cereals	degenerative disease	0
-fruit juice	fatty liver disease	0
-ranking foods	sleep initiation dysfunction	0
-kaffir lime	viral diseases	0
-sweeten	galt deficiencies	0
-coconut	foodborne botulism	0
-silybum marianums	fibrocystic changes of breast	0
-include flaxseed	endocrine breast diseases	0
-different seed	rupture	0
-illicium verums	fibromyositis fibromyalgia syndrome	0
-solanum melongenas	autistic disorders	0
-fake meat	sciatica	0
-cooked meat	hereditary galactokinase deficiencies	0
-jambolan plum trees	tumor virus	0
-sea vegetable	palsy	0
-meal	cardiac dysrhythmia	0
-rubberplant	confusion	0
-trace minerals	erectile dysfunction	0
-flammulina velutipes	olfaction disorders	0
-raw garlic	semantic memory disorders	0
-beverage	juvenile onset diabetes mellitus	0
-mandarin orange tree	chronic headache	0
-acai berries	colon cancer	0
-crocus	virus infections	0
-hot pepper	throat cancer	0
-cinnamomum verum	fibroatheroma	0
-licorice	amnesia-memory loss	0
-eragrostus	dizziness	0
-liquor	radiating pains	0
-pyrus	endotoxemia	0
-eugenia jambos	hysterical amnesias	0
-watermelon	passive tremor	0
-leaf lettuce	growth hormone receptor deficiency	0
-carduus marianus	respiratory tract infection	0
-peppermint oil	liver neoplasm	0
-horsenettle	peanut allergy	0
-pistachio nut tree	lymphatic sarcoma	0
-common bean plants	experimental lung inflammation	0
-callerya	arthritis	0
-dried peas	resting tremor	0
-sesame oil	atheroma	0
-sour cream	eye diseases	0
-squashe	cerebrovascular accidents	0
-yoghurt	different cancer	0
-phaseolus vulgaris	parasagittal meningioma	0
-drink milk	static tremors	0
-sugar-sweetened beverages	inflammatory polyneuropathy acutes	0
-chai tea	galactosemia	0
-herb	cancer of cervix	0
-mirobalanus embilica	low back pains	0
-unfertilized eggs	early-onset parkinsonism	0
-cranberry juice	gall bladder disease	0
-white bread	deep vein thrombosis	0
-amla	retained surgical needles	0
-basil	aphthae	0
-stryphnodendron	adenomatous polyps	0
-eating meat	olfaction disorder	0
-jelly	proliferative bronchiolitis	0
-collard greens	headache syndrome	0
-citrus reticulatas	stomach cancer	0
-vital nutrients	johne's disease	0
-carbonated beverages	convulsive seizures	0
-pumpkin	cerebral strokes	0
-goiaba	prostate neoplasms	0
-blackberry	melanoma	0
-theobroma cacao	cluster headache	0
-common bean plant	sciatic neuralgias	0
-goji berries	chronic infectious mononucleosis like syndrome	0
-curcuma zedoaria	colonic cancer	0
-digitalis purpurea	ocular headaches	0
-hickory tree	myelopathy	0
-larder	static tremors	0
-saint johns wort	intermittent tremor	0
-brussels sprouts	bechterew's disease	0
-nut butters	bronchiolitis obliterans	0
-sugar substitutes	barrett metaplasia	0
-java plum tree	acute stroke	0
-snail meat	secondary insomnia	0
-dried fruit	birth weight	0
-density foods	type c oncoviruses	0
-chipotle	cancer of the endometrium	0
-white mallows	tying disease	0
-stuff	cognitive impairment	0
-plantago indica	prostatic intraepithelial neoplasms	0
-fagopyrum tataricum	acquired immuno-deficiency syndrome	0
-oryza sativa	breast malignant tumor	1
-kava	cancer of the vulva	0
-potable water	benign meningioma	0
-colophospermum	degenerative neurologic disorders	0
-sour orange tree	ekbom delusory parasitosis	0
-term vegetable	breast pains	0
-whole foods	fibromyositis-fibromyalgia syndromes	0
-bitter orange tree	acquired immuno-deficiency syndrome	0
-decaffeinated tea	diabetic asymmetric polyneuropathy	0
-vodka	senile paranoid dementias	0
-high fructose maize syrup	groundnut hypersensitivity	0
-dietary supplements	degenerative disease	0
-rice	chronic lymphocytic leukemia	0
-cassia fistulas	post-traumatic osteoporoses	0
-nutraceutical	obesity in adolescence	0
-cassia cinnamon	diabetic mononeuropathy	0
-big food	sciatic neuralgias	0
-drinking milk	precordial catch	0
-solanum tuberosums	kidney failure	0
-crave chocolate	zoonotic infectious disease	0
-tea leaves	presyncope	0
-mint	nausea	1
-anise tea	manic disorder	0
-low-sodium diet	experimental parkinsonism	0
-illicium anisatum	emphysema	0
-malabar-nut	prostatic cancer	0
-trigonella foenum-graecum	norwalk-like viruses	0
-yolk	abdominal obesity	0
-gooseberry	prostate neoplasm	0
-lentinus edodes	substance use disorders	0
-goji berry plants	insulin resistance	0
-seltzer waters	substance induced organic mental disorders	0
-red yeast rice	gynecomastia	0
-grecian foxglove	aura	0
-sugar	hypoesthesia	0
-cooked tomatoes	halitose	0
-radicchio	inner ear cancer	0
-areca	male sterility	0
-conventional food	esophageal neoplasms	0
-chile pepper	high blood pressure	0
-animal food	benign prostatic hyperplasia	0
-sesame	stomach cancer	0
-lens plants	myocardial failure	0
-dried blueberries	benign brain neoplasms	0
-lemon verbena	udpglucose hexose-1-phosphate uridylyltransferase deficiency	0
-grecian foxgloves	preterm births	0
-mint tea	hemolytic jaundice	0
-red wine	experimental parkinson diseases	0
-milkshake	oncornavirus	0
-sugar substitute	influenza	0
-moose meat	hhv-4	0
-macadamia	nonalcoholic steatohepatitis	0
-poisonous plant	pregnancy pernicious vomiting	0
-garlic	terminal ileitis	0
-raphanus raphanistrum	human papilloma virus	0
-curcuma longa	fatigue	1
-petroselinum crispum	insomnia disorders	0
-butter milk	leprosy	0
-soy food	cancer of the testis	0
-cherry plum trees	hemangiopericytic meningiomas	0
-prettiest fruit	muscle soreness	0
-raspberry	nonalcoholic steatohepatitis	0
-century plants	mixed lymphocytic-histiocytic lymphomas	0
-thousand foods	malignant brain neoplasms	0
-caramel	high grade lymphoma	0
-aspalathus	male infertility	0
-club sodas	prostatic cancer	0
-zedoary zedoaria	ph1-negative myelogenous leukemia	0
-eat flax	tubal abortion	0
-ready-to-eat meals	lung disorders	0
-grapefruit	idiopathic parkinson disease	0
-spinach	igf-1 deficiency	0
-cereal grains	human immunodeficiency virus	0
-fresh fruits	thermal hypesthesia	0
-acai berry	dissociative amnesias	0
-healthiest beverages	horton syndrome	0
-meal time	common cold	0
-garden radish	brief reactive psychosis	0
-milk proteins	focal seizures	0
-sweetleaf	retro-ocular headache	0
-rose berries	mania	0
-specific cheeses	cancer of pancreas	0
-maple syrup	arrhythmia	0
-portulaca oleracea	postoperative vomiting	0
-silken tofu	peripheral demyelinating autoimmune disease	0
-origanum vulgare	cancer of vulva	0
-wheatgrass	colonic neoplasms	0
-myristica fragrans	fetal iodine deficiency disorder	0
-apium graveolens var. dulce	muscle pains	0
-dog rose	tussive syncope	0
-avoid peanuts	esophageal cancer	0
-last meal	cancer of the rectum	0
-glycyrrhiza glabra	johne's disease	0
-fructose corn	plasmodium infection	0
-real chocolate	darkness tremors	0
-anacardium occidentale	galk deficiencies	0
-regular olive	diffuse lymphomas	0
-apricot	prostate cancer	0
-seville orange trees	adolescent obesity	0
-wild celeries	polyarthralgia	0
-ginger	celiac disease	0
-foeniculum	hot flashes	0
-fagopyrum sagittatum	fusiform aneurysm	0
-aquatic food	atrioventricular dissociations	0
-kola nut	viral infections	0
-cola nitida	sprain	0
-white meat	basal cell epitheliomas	0
-lucerne	intervertebral disk degenerations	0
-nori	varicose vein	0
-anticancer plant	chronic fatigue syndromes	0
-oyster mushrooms	thyroid disease	0
-include apples	udpglucose hexose 1 phosphate uridylyltransferase deficiency	0
-pithecolobium	human t cell lymphotropic virus type iii	0
-ready-to-eat meal	temporal region traumas	0
-purslane	infantile obesity	0
-cicer arietinums	gum disease	0
-pleurotus	primary growth hormone resistance	0
-mealtime	dental disease	0
-hickory nuts	small non-cleaved-cell lymphoma	0
-honey	back pain	0
-pumpkin seeds	schizoaffective disorders	0
-inadequate fruit	acute inflammatory polyneuropathy	0
-squash plants	burkitt's lymphoma virus	0
-mastictree	bovine leukemia	0
-skim milk	vestibular seizure	0
-stevia rebaudianas	occipital traumas	0
-vaccinium myrtillus	high cholesterol level	0
-cruciferous vegetables	bovine lymphomas	0
-salad	global amnesia	0
-rheum tanguticum	perforated appendicitis	0
-root	backache	1
-hot sauce	aneurysm	0
-raw tomatoes	pancreas cancer	0
-espresso	brain disorders	0
-arginine-rich foods	breast cancers	0
-hypericum perforatums	focal seizure	0
-navy beans	female sterility	0
-amlas	bacterial vaginitides	0
-tumeric	prostatic adenomas	0
-milk thistle	sciatica	0
-frozen spinach	atrial fibrillation	0
-antioxidant food	essential tremors	0
-carbonated water	myocardial infarcts	0
-peanut	gastro-oesophageal reflux	0
-legume family	granulomatous colitis	0
-betel nuts	sudden infant death syndrome	0
-infant formula	adenomatous polyp	0
-elephant garlic	cancer of the esophagus	0
-nicotiana tabacum	pseudotumor cerebri	0
-brown rice	sore throats	0
-almond trees	hip fractures	0
-soy protein	creutzfeldt-jakob disease	0
-morinda	ponv	0
-english walnut	rectal cancer	0
-vitis vinifera	genital wart	0
-soda pop	postviral fatigue syndromes	0
-food manufacturers	cognitive retention disorder	0
-billion eggs	burkitt herpesvirus	0
-morinda citrifolia	sexual dysfunction	0
-wine	uveitide	0
-stevia rebaudiana	condylomata acuminata	0
-oregano plant	malignant tumor of urinary bladder	0
-taro	rickets	0
-pineapple juice	bladder neoplasms	0
-sugar maples	disc degenerations	0
-fermented cabbage	benign essential tremor	0
-leek	early infantile autism	0
-almond butter	jacksonian seizure	0
-prenatal vitamins	ocular headaches	0
-persea americana	intractable headaches	0
-green tea	hemangioblastic meningioma	0
-unhealthy food	human papilloma viruses	0
-ilex paraguariensis	soft tissue sarcomas	0
-cocos nucifera	study cancer	0
-turkey meat	auto-immune disease	0
-monitoring food	colon neoplasms	0
-worldwide fruit	proliferative bronchiolitis	0
-kiwi fruit	cervical neoplasms	0
-national meat	malignant epithelial neoplasm	0
-reindeer meat	barrett's esophagus	0
-soymilk	painful menstruations	0
-cacao bean	hereditary essential tremor	0
-fermented foods	leucocythemia	0
-bt corn	cancer of the testis	0
-muffin	colorectal tumors	0
-poppy seed	galactose 1 phosphate uridylyltransferase deficiency	0
-kiwi fruits	mouth cancers	0
-rooibo	todd's paralysis	0
-philadelphia cream cheese	micturition syncope	0
-anise	familial diffuse gastric cancer	0
-regular carrots	darkness tremor	0
-adding blueberries	thyroid cancers	0
-safflower oil	pseudopelade	0
-nicotiana	prostatic hypertrophy	0
-eugenia malaccensis	anxiety neuroses	0
-sea vegetables	anal ulcers	0
-ultra-processed food	acquired immuno-deficiency syndrome	0
-acid-binding vegetables	burkitts lymphoma virus	0
-dried apricots	new variant creutzfeldt-jakob disease	0
-chestnut	short sleep phenotype	0
-unfiltered coffee	craniocerebral trauma	0
-soybean	idiopathic parkinson's disease	0
-indian gooseberry	schilling type myeloid leukemia	0
-cocoa powders	basal cell carcinoma	0
-adhatoda vasica	human t-cell leukemia virus type iii	0
-lima beans	heartburn	0
-mentha spicatas	colonic neoplasms	0
-betel	avitaminose	0
-beer	asthma	0
-baking chocolate	amyloidosis	0
-fresh ginger	hypermelanosis	0
-daucus carota	low backache	0
-mirobalanus embilicas	somatotropin (acromegaly) hypersecretion syndromes	0
-herr	grave’s disease	0
-calendula officinali	intention tremors	0
-saccharomyces cerevisiae	ankylosing spondylarthritis	0
-hummus	deep-venous thrombosis	0
-dairy yogurt	autosomal recessive juvenile parkinsonism	0
-squash	reduced sensation	0
-punica granatum	scurvy	0
-bread	mental deteriorations	0
-coriandrum	perioral tremors	0
-turnip	syncope	0
-black raspberries	migraine variants	0
-lemon	lichen planus	0
-nettle tea	manic-depressive psychoses	0
-chard	metastatic cancer	0
-eat chocolate	dysfunction	0
-cooked carrots	new variant creutzfeldt jakob disease	0
-andira	bipolar affective psychoses	0
-zingiber officinales	aortic aneurysm	0
-tepary beans	multiple head injuries	0
-soft drinks	colonic inertia	1
-chewing fruit	manic depressive psychoses	0
-split peas	sinusitis	0
-drinking orange	creutzfeldt jakob disease	0
-flax	kidney neoplasms	0
-carica papaya	mottled enamel	0
-wheat bran	fighting cancer	0
-green teas	macular degeneration	0
-cruciferous foods	multiple sclerosis	0
-citrus medica	amyotrophic lateral sclerosis parkinsonism dementia complex 1	0
-burrito	hiccup	0
-tisane	blindness	0
-aspartame	severe mental disorders	1
-cupcake	food borne illnesses	0
-humulus	dental diseases	0
-dried foods	liver failure	0
-cow's milk	spondyloarthritis ankylopoietica	0
-salmonella food	mptp-induced experimental parkinsonism	0
-marijuana	pancreas neoplasms	0
-barley	gastric neoplasms	0
-mangifera indica	feline lymphoma viruses	0
-holy basil tea	colonic neoplasms	0
-venison	schilling type myeloid leukemia	0
-assai palm berry	macular degenerations	0
-fagopyrum	penis neoplasms	0
-nutriceutical	flatus	0
-chamomile	throat cancer	0
-mangifera indicas	polymyositide	0
-cannabi	gastroenteritide	0
-pummelo tree	udpglucose hexose 1 phosphate uridylyltransferase deficiency	0
-granny smith apples	ciliary body spasm	0
-so-called vegetable	prostatic intraepithelial neoplasias	0
-afzelia	mixed cell lymphoma	0
-aspalathus linearis	catarrh	0
-salami	hhv-4	0
-mustard greens	ciguatera fish poisonings	0
-processed meats	hereditary galactokinase deficiencies	0
-chinese cassia	respiratory tract infections	0
-dietary supplement	breast malignant neoplasm	1
-vegetable oil	kidney insufficiencies	0
-include fennel	epileptic seizure	0
-dried pomegranate	senile tremors	0
-anacardium occidentales	global amnesia	0
-euterpe edulis	breast pain	0
-crataegus	e b virus	0
-lemon tree	vitamin deficiency	0
-marjoram	barretts syndrome	0
-pea families	peripheral autoimmune demyelinating disease	0
-neu5gc-rich food	hyperpigmentation	0
-syzygium jambos	ramsay hunt paralysis syndrome	0
-plantain	semantic memory disorders	0
-confection	muscle sorenesses	0
-arachis hypogaea	physical sufferings	0
-linseed	exudative bronchiolitides	0
-eugenia caryophyllata	hyperventilation syncope	0
-food poisoning	myocardial infarct	0
-calendula officinalis	gallbladder diseases	0
-pomegranate fruit	classic galactosemias	0
-citrus sinensis	ovary neoplasms	0
-maraschino cherry	bladder neoplasms	0
-fenugreek seed	dental fluoroses	0
-flax seed	infant gynecomastia	0
-floret	chronic fatigue and immune dysfunction syndrome	0
-snack foods	small non cleaved cell lymphoma	0
-oolong tea	acquired immunodeficiency syndrome	0
-eden foods	epilepsy	0
-cassia fistula	nonhodgkin lymphoma	0
-petroselinum	chronic lymphatic leukemia	0
-ready soybeans	degenerative neurologic disorder	0
-erythroxylon	intracranial neoplasms	0
-allium sativum	exudative bronchiolitides	0
-anana	cystic breast disease	0
-mentha piperita	bovine lymphomas	0
-tap water	sleeplessness	0
-phaseolus vulgari	hip fractures	0
-citrus aurantiifolias	intervertebral disc degeneration	0
-pease	female sub fertility	0
-carbonated drink	senile osteoporosis	0
-star anise	barrett esophagus	0
-chamomile oils	pancreatic cancer	0
-jell-o	burkitt's lymphoma virus	0
-emphasize plant	hypoxia	0
-syzygium cumini	intraepithelial prostatic neoplasia	0
-potassium-rich foods	nonorganic insomnia	0
-piper nigrum	micturition syncope	0
-avocado fruit	abdominal aortic aneurysm	0
-wheat	acute cerebrovascular accident	0
-organ meats	non b hepatitis enterically transmitted non a	0
-cuminum cyminums	hiccup	0
-black teas	somatotropin (acromegaly) hypersecretion syndrome	0
-sesamum	amyloid deposit	0
-mock meats	stokes-adams syncope	0
-french fries	strains and sprains	0
-origanum onites	autosomal recessive juvenile parkinson disease	0
-offal	autosomal dominant juvenile parkinsonism	0
-juglans nigra	clonic seizures	0
-almond oil	foodborne botulisms	0
-healthiest vegetable	palsy	0
-japanese plum	retained surgical needles	0
-herbal teas	jacksonian seizure	0
-carthamus tinctorius	acute inflammatory demyelinating polyneuropathy	0
-organic foods	plasma-cell myelomas	0
-shan yaos	breast fibrocystic changes	0
-bean sprout	fissure in ano	0
-dietary fiber	reversing chronic disease	0
-organ	neoplasm metastases	1
-poenumgraecum	infertility	0
-tofu	sleep wake disorders	0
-food colors	dermatosis	0
-jambolan plum tree	foodborne botulisms	0
-dried fruits	familial creutzfeldt jakob disease	0
-antioxidant foods	chronic infectious mononucleosis-like syndrome	0
-eating broccoli	low back ache	0
-okra	kidney insufficiency	0
-group foods	prostate neoplasms	0
-chocolate pudding	hernia	0
-baby formulas	human t-cell leukemia virus type iii	0
-feather meal	disc degradation	0
-true nut	hypermelanosis	0
-plum	shock	0
-fabaceae	syncope	0
-horsemeat	gall bladder disease	0
-lycium chinense	johnes disease	0
-majorana hortensis	cardiovascular conditions	0
-apricot tree	malignant lymphomas	0
-portulaca oleraceas	bladder neoplasms	0
-soy bean	nonalcoholic steatohepatitides	0
-horse beans	leucocythaemia	0
-rabbit meat	myalgic encephalomyelitis	0
-concord grapes	parkinsonism	0
-breast milk	thermal hypesthesia	0
-cumin	different cancer	0
-citrus bergamia	long sleeper syndromes	0
-dried apple	cryptogenic epilepsies	0
-da huang	cephalalgia	0
-olive trees	macular degenerations	0
-squash seeds	rest tremor	0
-apple trees	lewy body parkinson's disease	0
-banana plant	early onset parkinsonism	0
-mashed potatoes	epithelioid sarcomas	0
-copaifera	esophagitide	0
-broth	hemolytic jaundice	0
-low meat	stokes-adams syncope	0
-carya illinoenses	chest pains	0
-rye bread	ekbom psychogenic parasitoses	0
-soy cheeses	rupture	0
-beetroot	lung neoplasms	0
-shiitake	penile cancers	0
-white wine	widespread chronic pains	0
-probiotic	mammary cancer	0
-avenas	halitose	0
-vaccinium macrocarpons	chromosome 6-linked autosomal recessive parkinsonism	0
-healthy food	gorlin syndrome	0
-secale	fibroatheroma	0
-no-calorie sweeteners	dyschezia	0
-emphasizes vegetables	acute inflammatory polyneuropathy	0
-buckwheat	burning pains	0
-ephedra	testis neoplasms	0
-handling meat	cardiovascular conditions	0
-longevity legumes	sudden infant death	0
-coco	malignant tumor of urinary bladder	0
-plant zygotes	esophageal hernias	0
-purple cabbage	colorectal tumors	0
-table salt	bacterial vaginosis	0
-capsicum	udp galactose 4 epimerase deficiency disease	0
-cured meats	udp-galactose-4-epimerase deficiency diseases	0
-black currant	involutional osteoporosis	0
-syzygium aromaticum	diabetic retinopathies	0
-cinnamomum cassia	vaginal discharge	0
-potato	chronic b cell leukemia	0
-fragaria vesca	tactile hypesthesia	0
-pork	foreign body	0
-red rice	flatus	0
-avena	cancer of the lung	0
-margarine	fibromyalgia-fibromyositis syndrome	0
-bell pepper	adenomatous polyp	0
-watercress	nonorganic insomnia	0
-fava beans	perforated appendicitis	0
-crab apples	sliding hiatal hernia	0
-red delicious apples	ciguatera poisonings	0
-guibourtia	human herpesvirus 4	0
-oregano	esophagitide	0
-origanum majorana	liver disease	0
-walnut oil	non-epileptic convulsion	0
-mustard oil	colonic neoplasm	0
-curcuma longas	wheat allergies	0
-lunch times	malignant epithelial tumor	0
-hibiscus cannabinus	hot flashes	0
-rose hips	aids viruses	0
-plant aril	cot deaths	0
-pie	degenerative neurologic disease	0
-actual fruit	cognitive retention disorder	0
-use sweeteners	rectum cancer	0
-chinook salmon	nonalcoholic fatty liver disease	0
-food supplements	anthrax	0
-chicken meat	malignant meningiomas	0
-kohlrabi	diffuse lymphocytic lymphoma	0
-prunus salicina	colitis gravis	0
-baked potato	prostatic cancers	0
-greenery	open head injury	0
-morning meal	insomnia disorders	0
-antioxidant-rich foods	renal failure	0
-goji berry	hiv	0
-roasted almonds	growth hormone receptor defect	0
-capsicum annuum	tonsillar neoplasm	0
-energy drinks	early onset parkinsonism	0
-porphyra	male breast tumor	0
-national pork	well-differentiated lymphocytic lymphoma	0
-shiitake mushroom	effort syncopes	0
-incorporates cloves	deep-vein thrombosis	0
-caper	lyme disease	0
-alfalfa	common bile duct gallstones	0
-daily nut	emesis	0
-portulaca	limb cramps	0
-retail meat	cadaver	0
-mustard	non epileptic convulsion	0
-snacktime	apnea	0
-pimiento	primary brain neoplasms	0
-ocimum tenuiflorum	airsickness	0
-osmanthus tea	penis neoplasms	0
-find pork	pill rolling tremor	0
-experience food	retained surgical tool	0
-sweet marjoram	mouth and tooth diseases	0
-fast food	groundnut hypersensitivity	0
-dinner	dyspepsia	1
-hemlock	bovine leukosis	0
-vicia fabas	bechterews disease	0
-kava kavas	premenstrual tensions	0
-rooibos	udpglucose 4 epimerase deficiency disease	0
-know nuts	superficial head injury	0
-noni fruit	diffuse mixed-cell lymphomas	0
-wild radish	fibrocystic breast disease	0
-illicium	manic state	0
-rose	diffuse mixed-cell lymphoma	0
-red peppers	brain vascular accidents	0
-japanese plums	splitting pains	0
-rooibos tea	pulmonary inflammations	0
-papaya	rest tremors	0
-lavandula	acute autoimmune neuropathy	0
-chinese yam	syncope	0
-sauerkraut	autoimmune disease	0
-black sapotes	insulin resistance	0
-crataegus monogyna	rectum cancer	0
-marihuana	memory disorders	0
-largest meal	short sleep phenotype	0
-linum usitatissimum	gasser's syndrome	0
-triticum turgidum subsp. durum	spinal meningioma	0
-purple rice	cancer of the bone	0
-recommend tea	sick headache	0
-acacia tree	hereditary essential tremor	0
-ice cream	diffuse undifferentiated lymphoma	0
-pimenta diocia	drug allergies	0
-foeniculum vulgare	juvenile parkinsonism	0
-ocimum basilicums	disc degradation	0
-kidney bean	ovary neoplasm	0
-pepper	pseudotumor cerebri	0
-granny smith	cancer of the breast	0
-food allergies	premature birth	0
-bottled water	aphthous ulcers	0
-foeniculum vulgares	radiating pain	1
-healthy nuts	stomach ulcers	0
-holy basils	intracranial neoplasms	0
-low fruit	prion protein diseases	0
-fiddlehead ferns	ph1-negative myelogenous leukemia	0
-alfalfa sprouts	familial guillain-barre syndrome	0
-eating nuts	pleomorphic lymphomas	0
-sweet potatoes	vertebrogenic pain syndrome	0
-beta vulgari	huntington’s disease	0
-chinese rhubarb	guam disease	0
-natural vitamin	uveitide	0
-tangerine tree	deglutitional syncopes	0
-frosting	global amnesias	0
-fungus	short sleep phenotypes	0
-texturized soy protein	low backaches	0
-nitrate-rich vegetables	male sterility	0
-contaminated meat	degenerative arthritides	0
-rutabaga	bone neoplasm	0
-raw foods	symptom clusters	0
-french bean plant	water borne hepatitis	0
-lemon balm	type c oncovirus	0
-cinnamon	coronary disease	0
-lunch time	cervical migraine syndromes	0
-wild yams	androgenic alopecias	0
-algarrobo	visceral steatosis	0
-mesquite	myelomatose	0
-marjoram plants	thyroid disorders	0
-emblica officinalis	early diagnosis of cancer	0
-wort	splitting pain	0
-triticum turgidum	cluster headache syndrome	0
-crunch berries	cerebral convexity meningiomas	0
-soy bean curd	global amnesias	0
-citrus grandi	soft tissue sarcoma	0
-clathrotropis	fibrositis	0
-big meals	parkinsons disease	0
-tea hibiscus	male sexual impotence	0
-gluten	generalized headache	0
-drink	heart attack	0
-whortleberry	lyme borreliosis	0
-saint johnswort	kidney calculi	0
-carya	galactosemia 3s	0
-spaghetti	cervical neoplasm	0
-soybean proteins	psammomatous meningiomas	0
-cherry	recrudescence	0
-glycine max	spinal meningioma	0
-baby formula	forehead traumas	0
-toxic plant	rabies virus	0
-spore	pleomorphic lymphoma	0
-molasses	ductal carcinomas	0
-olea europaea	age-related bone loss	0
-eugenia aromatica	experimental lung inflammations	0
-alpine strawberries	migraine headaches	0
-cassia tree	encephalopathy	0
-secale cereale	hypercapnia	0
-snack	chronic illness	0
-onion	male breast carcinoma	0
-plantago ovata	urinary bladder disease	0
-placenta	bowel diseases	0
-capparis	male sub-fertility	0
-avocado	stomatognathic diseases	0
-rowanberry	diffuse mixed small and large cell lymphoma	0
-carya illinoensis	familial tremor	0
-black sapote	neoplasm	0
-fat milk	cognitive decline	0
-thymus vulgari	benign brain neoplasms	0
-rubus glaucus	diabetes-related complication	0
-justicia	hyperemesis gravidarum	0
-prosopi	megacolon	0
-citrus reticulata	focal seizures	0
-oregano plants	low backache	0
-fried foods	polymyositide	0
-curcuma	generalized spasms	0
-usda poultry	gehrig's disease	0
-new york coalition for healthy school food	pancreas cancer	0
-eating fruits	brain benign neoplasm	0
-indian gooseberries	sensory seizures	0
-kidney beans	degenerative neurologic diseases	0
-sustenance	cancer of vulva	0
-filtered coffee	oncogenic virus	0
-blueberry plants	schizophrenia	0
-food supplement	foreign bodies	0
-hibiscus tea	crushing pain	0
-contamination meat	diabetic mononeuropathies	0
-cured meat	kanner syndrome	0
-bitter orange trees	arrhythmia	0
-so-called meat	eczematous dermatitides	0
-sea bilberry	coronary heart disease	0
-brew	visceral steatoses	0
-drinking coffee	oral disease	0
-sour orange trees	cervical cancer	0
-food allergy	gynecomastia	0
-poisonous plants	fibromyositis-fibromyalgia syndrome	0
-tv dinners	thyroid diseases	0
-broccoli	female infertility	0
-kawa kawas	gehrigs disease	0
-baker's yeast	infantile obesity	0
-white tea	familial parkinson disease	0
-artificially-flavored corn	postviral fatigue syndromes	0
-texturized vegetable proteins	eye diseases	0
-arugula	vestibular seizures	0
-celery	non hodgkin's lymphoma	0
-jalapeno pepper	vertebrogenic pain syndrome	0
-triticum	nonhodgkin's lymphoma	0
-flowering shrub	decreased cancer	0
-color	amaurosis	0
-juiced broccoli	galactosemia iii	0
-nightshade	pus	0
-milk chocolate	hepatic neoplasms	0
-sprout	udp-galactose-4-epimerase deficiency diseases	0
-cleistocalyx	forehead trauma	0
-bibhitaki fruit	male breast cancer	0
-soy beans	small non-cleaved-cell lymphoma	0
-high-fructose maize syrup	presyncope	0
-narrow leaved plantain	diabetic mononeuropathy	0
-lard	oxygen deficiencies	0
-whiting	salmonella infections	0
-camomile	ciguatera poisoning	0
-boiled broccoli	mouth and tooth diseases	0
-diospyro	paratuberculosis	0
-sour fruit	cystic disease of breast	0
-purple grape	liver injury	0
-official vitamin	mixed-cell lymphoma	0
-dioscorea	cystic disease of breast	0
-jam	spasm	0
-processed foods	influenza in human	0
-fruit juices	peanut allergy	0
-berberi	avitaminosis	0
-neutraceutical	parkinsonism	0
-maize syrup	skin neoplasm	0
-replenish nutrients	food-borne illnesses	0
-flavorer	spatial memory disorder	0
-cola	pancreatitis	0
-ocimum basilicum	ketosis-prone diabetes mellitus	0
-roundup-ready soybeans	cervical migraine syndromes	0
-kombucha teas	granulomatous colitis	0
-restructured meat	male breast cancer	0
-solanum	esophageal cancers	0
-java plum trees	bses (bovine spongiform encephalopathy)	0
-healthiest snack	low-grade lymphoma	0
-undercooked meat	drug hypersensitivities	0
-ground flax	delusional parasitoses	0
-ketchup	epimerase deficiency galactosemias	0
-brewed coffee	congenital defect	0
-grapefruit juice	throat cancer	0
-apple	enzootic bovine leukosis	0
-diet	type 1 diabetes	0
-dog rose berries	joint pain	0
-punicaceae	uterine fibroma	0
-persimmon	fibromyoma	0
-althaea officinalis	mental deterioration	0
-sell meat	bone fracture	0
-sugar water	genital warts	0
-egg	relapse	1
-drinking water	eye diseases	0
-cod	basal cell epitheliomas	0
-sausage	soft tissue sarcoma	0
-citrus aurantium	vaginal cancer	0
-grilled meat	obesity	0
-bertholletia	subwakefullness syndrome	0
-citron tree	penile neoplasms	0
-mushroom	rectal tumors	0
-citrus limon	non alcoholic fatty liver disease	0
-psidium guajava	adenomatous polyps	0
-brazil nut tree	tonsillar cancers	0
-rheum officinale	postural syncope	0
-food companies	hypesthesia	0
-gum acacia	cancer of esophagus	0
-collard	cephalalgia	0
-vitis	saccular aneurysm	0
-dinner time	vulva cancer	0
-new candy	kidney calculus	0
-cucumis melos	undifferentiated carcinomas	0
-anacardium	resting tremor	0
-cuminum cyminum	hypoascorbemia	0
-melissa	degenerative neurologic disorders	0
-maize	prostate neoplasm	0
-green peas	mptp induced experimental parkinsonism	0
-reason food	parkinsonian syndrome	0
-musa	endometrium cancers	0
-sunflower seeds	intestinal diseases	0
-dietary fat	hhv-4	0
-cooked meats	kidney failure	0
-linum	schilling type myeloid leukemia	0
-celeriac	mastodynia	0
-zucchini	utp-hexose-1-phosphate uridylyltransferase deficiency disease	0
-jelly beans	testicular tumors	0
-areca nuts	juvenile-onset diabetes	0
-mother cells	bacterial vaginosis	0
-kawa	acquired immuno-deficiency syndrome	0
-infant formulas	pulmonary neoplasm	0
-coffee	sudden infant death syndrome	0
-dandelion	sprain	0
-anti-inflammatory foods	lactose malabsorption	0
-cultivated oat	pediatric obesity	0
-alcoholic beverages	tying disease	0
-hypericum perforatum	atypical diffuse small lymphoid lymphoma	0
-four nuts	dizzyness	0
-century plant	chronic obstructive airway disease	0
-mentha spicata	pulmonary diseases	0
-ananas	extreme hearing loss	0
-catfish	human influenzas	0
-raw broccoli	galactokinase deficiency	0
-seville orange tree	salmonellosis	0
-tangerine trees	lav-htlv-iii	0
-seafood	cancer of liver	0
-tea plant	malignant tumor of urinary bladder	0
-sardine	jakob-creutzfeldt syndrome	0
-alpine strawberry	myalgia	0
-octopus	lyme borreliosis	0
-garcinia mangostanas	schizophreniform disorder	0
-cereal	involutional osteoporosis	0
-plum trees	hemicrania	0
-dark chocolate	memory disorder	0
-black walnuts	coarse tremor	0
-family vegetables	avitaminose	0
-earl grey tea	atrioventricular dissociation	0
-shellfish	regional ileitis	0
-applesauce	early onset parkinson disease autosomal recessive	0
-monosodium glutamate	tumor	0
-whale meat	chronic lymphocytic leukemias	0
-coriandrum sativums	neuralgic migraines	0
-acer negundo	cancer of uterus	0
-dietary proteins	multiple sclerosis	0
-melissa officinalis	bacteriophage	0
-jerusalem artichokes	colonic neoplasm	0
-rosemary	age related bone loss	0
-psidium	diabetic mononeuropathy	0
-coconut water	determination of death	0
-no meat	motor seizures	0
-emblica officinali	lyssa	0
-hydroponic basil	infant botulism	0
-spice saffron	nonalcoholic fatty liver disease	0
-fresh basil	cow disease	0
-deep-fried foods	painful diabetic neuropathy	0
-adhatoda	heart decompensation	0
-lavender	gangrene	0
-fragaria	sub-fertility	0
-apple juice	preterm births	0
-prunus domestica	brain disease	0
-commercial milk	focal seizure	0
-pistachio nut trees	endemic cretinism	0
-whipped cream	acquired immuno-deficiency syndrome	0
-cashew	male breast tumors	0
-anise seed	galactose 1 phosphate uridylyltransferase deficiency	0
-orange trees	ischemic heart disease	0
-squid	schizoaffective disorder	0
-pistachio	deaf mutism	0
-vegetarianism	diabetes-related complications	0
-iceberg lettuce	frontal region trauma	0
-garcinia mangostana	low back aches	0
-wild celery	infertility	0
-grouper	sleep wake disorders	0
-study lavender	bladder tumors	0
-brown sugar	bovine leukemia virus	0
-cinnamomum trees	inappropriate growth hormone secretion syndrome (acromegaly)	0
-sea-food	cephalodynia	0
-pomegranate	gall stone	0
-dioscorea batatas	sick headaches	0
-almond milk	blood cancers	0
-canned fruit	beriberi	0
-vaccinium corymbosum	utp hexose 1 phosphate uridylyltransferase deficiency	0
-bolete	cancer of the liver	0
-fed beef	nontropical sprue	0
-measuring food	bovine leukosis	0
-carica papayas	male sub fertility	0
-including cloves	oncogenesis	0
-yerba mate	thrombose	0
-cicer arietinum	primary fibromyalgia	0
-pimenta officinali	disorder	0
-wheat brans	olfactory groove meningiomas	0
-portulaca oleracae	chronic illnesses	0
-zea mays	necrotizing fascitides	0
-pine nuts	senile paranoid dementias	0
-breakfast time	gassers syndrome	0
-flavourer	e b virus	0
-golden raisins	hhv-4	0
-asparagus	appendicitis	0
-solanum laciniatums	forehead trauma	0
-lunchtime	periorbital headaches	0
-medicago sativa	breast cystic diseases	0
-chinese cinnamons	hip fractures	0
-artificial butter	degenerative intervertebral discs	0
-candy	hepatic cancer	0
-st. johnswort	pseudocoma	0
-cranberry sauce	retro ocular headache	0
-hemp	mammary cancer	0
-chervil	schilling-type myeloid leukemia	0
-white rice	atrioventricular dissociation	0
-anchovy	wart	0
-favorite meals	insulin deficiency	0
-white pepper	iddm	0
-mustard plant	zoonotic infectious diseases	0
-dietary supplementations	primary brain neoplasms	0
-romaine lettuce	paraosmia	0
-healthier meat	retro-ocular headache	0
-malabar nut	substance addiction	0
-food supplementations	undifferentiated lymphomas	0
-isoglucose	burkitts lymphoma virus	0
-açaí berries	acute confusional migraine	0
-shiitake mushrooms	oncogenic viruses	0
-cycad trees	anthrax	0
-drug administration united states food	amnesia-memory loss	0
-piper methysticums	variant creutzfeldt-jakob disease	0
-low-fat diet	back ache	0
-coconut oil	foodborne disease	0
-turmeric root	classic galactosemia	0
-individual candy	avitaminose	0
-stevia	fibromyoma	0
-mastic tree	microcystic meningioma	0
-mandarin orange trees	acute cerebrovascular accident	1
-yogurt	gluten-sensitive enteropathies	0
-triticum spelta	carcinoma	0
-healthiest beverage	parkinsonian diseases	0
-sparkling water	zoonotic infectious diseases	0
-processed apples	abdominal migraines	0
-stem vegetables	drug use disorder	0
-green lentils	weight losses	0
-red meat	exudative bronchiolitides	0
-corn oil	allergic reactions	0
-white potatoes	parietal region traumas	0
-nuclear power plant	preterm births	0
-cooked broccoli	esophageal hernia	0
-assai palms	crib death	0
-fenugreek	dissociative amnesia	0
-dietary sugars	retained surgical item	0
-pickled vegetables	drop attack	0
-animal-based vitamin	national cancer	0
-sweet marjorams	reticulum-cell sarcomas	0
-saffron	age related maculopathies	0
-wild bananas	minor head injuries	0
-soy beverages	hemorrhage	0
-common olive trees	anal fissure	0
-parsley	human papillomavirus viruses	0
-raphanus sativus	pneumonitide	0
-tomato	cancer of vagina	0
-chili	penile neoplasm	0
-hibiscus sabdariffa	drug addiction	0
-machaerium	muscle pain	0
-kombucha tea	somatotropin (acromegaly) hypersecretion syndrome	0
-caryophyllus aromaticus	diffuse well-differentiated lymphocytic lymphoma	0
-laudable legume	paratuberculose	0
-romaine	rectum cancer	0
-scallion	occipital region traumas	0
-illicium verum	e-b virus	0
-dairy products	fever	0
-vitamin pills	mild cognitive impairment	0
-agave	chronic cluster headache	0
-cider	esophagus cancer	0
-ocimum sanctum	gastro oesophageal reflux	0
-rheum	cancer of the colon	0
-citrus aurantiums	gestational diabetes	0
-vitamin	sliding esophageal hernias	0
-nut bars	numbness	0
-citrus-based fruits	migraine headaches	0
-popcorn	retained surgical tools	0
-overpriced vitamin	lymphadenopathy-associated virus	0
-lemon grasses	b cell leukemia	0
-mayo	multiple sclerosis	0
-beta vulgaris	wheat hypersensitivities	0
-health food	sudden onset diabetes mellitus	0
-virgin olive	gestational diabetes mellitus	0
-preserved food	anxiety disorders	0
-orange	tumorigenesis	0
-human milk	ovarian neoplasms	0
-diospyros digyna	chronic lymphoblastic leukemia	0
-happy meal	ankylosing spondylarthritides	0
-sweetening agent	back pains	0
-syrup	chromosome 6-linked autosomal recessive parkinsonism	0
-pimenta	prevent and reverse heart disease	0
-syzygium	inflammatory bowel disease	0
-biometal	carcinogenesis	0
-poultry meat	neurologic degenerative disease	0
-barley coffee	texidor's twinge	0
-thymus plants	hepatic neoplasm	0
-eugenia cumini	light-headedness	0
-msg	preventing cancer	0
-corylus	intraventricular meningiomas	0
-deli meats	liver steatoses	0
-trigonella foenum-graecums	gnathostomiase	0
-zedoary zedoarias	hyperventilation syncope	0
-nutrient-dense foods	meningiomatosis	0
-maple	autosomal dominant. juvenile parkinson disease	0
-areca catechus	dims (disorders of initiating and maintaining sleep)	0
-uncooked foods	esophagus cancer	0
-coconut milk	heart block	0
-nut butter	tussive syncope	0
-dioscorea opposita	udpglucose hexose-1-phosphate uridylyltransferase deficiency	0
-sun-dried raisin	chronic lymphocytic leukemia	0
-peach	pancreas neoplasms	0
-tempeh	cancer of tongue	0
-carbonated beverage	cll lymphoplasmacytoid lymphoma	0
-apricot trees	cow disease	0
-garlic sauce	reverse cancer	0
-lemon grass	coad	0
-eating almonds	autism	0
-thymus vulgaris	landry guillain barre syndrome	0
-nuclear power plants	low back pains	0
-consumed chocolate	hypoxemia	0
-rubus idaeus	acquired immunodeficiency syndrome	0
-tomato juice	retro ocular headache	0
-red lentils	cognitive decline	0
-brassica napus	non b hepatitis enterically transmitted non a	0
-deep-fry foods	focal seizure	0
-olea	hemicrania migraine	0
-solanum laciniatum	ekbom delusional parasitosis	0
-oyster mushroom	autistic disorder	0
-almond	salmonella infections	0
-dripping	muscular cramp	0
-celebration meal	focal seizure	0
-leafy vegetables	sterility	0
-tuna fish	precordial catch syndrome	0
-plantago psyllium	infectious disease	0
-irritable bowel kiwi fruit	malignant epithelial neoplasm	0
-dinnertime	disorder	0
-chinese food	primary fibromyalgia	0
-brassica nigra	pseudocoma	0
-restrict food	juvenile onset diabetes mellitus	0
-linum usitatissimums	migratory pains	0
-olive oil	pustulosis palmaris et plantaris	0
-lemongrass	eye diseases	0
-bitter nightshade	cluster headache syndromes	0
-dried food	secretory meningiomas	0
-lycium barbarum	pregnancy pernicious vomiting	0
-berry	cardiovascular diseases	1
-fortify milk	light-headedness	0
-pimpinella anisums	cancer of the bladder	0
-assai palm	insomnia disorders	0
-trace element	multiple myeloma	0
-teosinte	gallbladder diseases	0
-cola acuminata	multiple myeloma	0
-prunus dulcis	central nervous system degenerative diseases	0
-brain-invasive pork	peripheral arterial disease	0
-veal	intermediate grade lymphoma	0
-aloe	diabetic polyneuropathy	0
-pecan tree	autistic disorder	0
-cayenne	familial creutzfeldt jakob disease	0
-pistacia	laron type dwarfism i	0
-natto	spinal cord diseases	0
-dietary fibers	ms (multiple sclerosis)	0
-kiwi	schizoaffective disorder	0
-triticum vulgare	feline leukemia virus	0
-nicotiana tabacums	cancer of the tonsil	0
-pomelo tree	tonsil neoplasm	0
-blossom	human papilloma virus	0
-jalapeno peppers	prediabetic states	0
-dasheen	hypovolemic shock	0
-carbonated drinks	muscle spasm	0
-healthy foods	malignant epithelial neoplasm	0
-dried plums	vertex headache	0
-paella	vulva cancer	0
-daily fruit	abdominal migraines	0
-convenience food	classic galactosemia	0
-macadamia nuts	small cell lymphoma	0
-soy yogurt	sleeplessness	0
-pizza	familial diffuse gastric cancer	0
-orange tree	cardiovascular conditions	0
-dairy eggs	generalized headache	0
-rhubarb	abdominal aortic aneurysm	0
-sweet almond	diabetic neuropathy	0
-bok choy	splitting pain	0
-mother cell	coarse tremor	0
-poppy seeds	well-differentiated lymphocytic lymphoma	0
-banana	premenstrual tensions	0
-frequent meals	gastric acid reflux	0
-handling food	oral neoplasm	0
-powdered ginger	memory deficits	0
-cardamon	tying disease	0
-fennel	gout	0
-corn	cancer of rectum	0
-fig	pulmonary disorder	0
-chinese yams	inflammatory disease	0
-olive oils	idiopathic polymyositides	0
-phytonutrient-rich food	leukemogenic viruses	0
-prunus persica	nausea	0
-amaranth	retained surgical sponges	0
-plaice	non-b hepatitis enterically-transmitted non-a	0
-elettaria cardamomums	crohns disease	0
-red pepper	extreme hearing loss	0
-phyllanthus emblicas	familial tremors	0
-chili peppers	brain benign neoplasm	0
-iv vitamin	texidor's twinge	0
-concord grape	rebound insomnia	0
-french bean plants	feline lymphoma virus	0
-curcuma zedoarias	gastric neoplasms	0
-kola nuts	degenerative intervertebral disk	0
-food company	prevent and reverse heart disease	0
-split pea	breast cystic disease	0
-acer saccharum	hepatic neoplasm	0
-cantaloupe	endometriosis	0
-food additives	inflammatory disorder	0
-oats	testis neoplasms	0
-plant foods	fibroid tumor	0
-english plantains	sliding hiatal hernias	0
-consumer protection scientific committee on food	human papilloma viruses	0
-white mallow	undifferentiated carcinoma	0
-flower	feline leukemia virus	0
-vaccinium ashei	limb cramp	0
-holy basil	cough	0
-narrow-leaved plantain	diverticulitide	0
-grape	dairy product intolerance	0
-willow tree	parodontose	0
-topical ginger	ocular headache	0
-veggie	lymphoplasmacytoid lymphoma	0
-anti-inflammatory plant	psammomatous meningioma	0
-frozen fruit	malignant primary brain neoplasms	0
-organic meat	post-traumatic osteoporosis	0
-pudding	wart	0
-celery root	inflammatory demyelinating polyneuropathy	0
-pecan	brain cysticercosis	0
-ultra-processed foods	salmonellosis	0
-citrus fruit	paralysis	0
-brassica juncea	convulsive syncopes	0
-gala apples	ciguatera poisonings	0
-tachigalia	diabetic mononeuropathy	0
-agaricaceae	laron dwarfism	0
-cucumber	urticarias	0
-papaver	fifth phacomatoses	0
-chilli pepper	vestibular seizures	0
-red cabbage	cancer of colon	0
-tea	head injury	1
-fruit and vegetable juices	sleep disorders	0
-cream cheese	elevated cholesterol	0
-pomegranate seeds	rodent ulcers	0
-corn syrup	enterocele	0
-foodstuff	arterial dysfunction	0
-trace elements	weight gain	0
-citrus aurantiifolia	chronic lymphocytic leukemia	0
-prunus salicinas	hepatic failure	0
-belladonna	gluten enteropathy	0
-serve	laron type dwarfism i	0
-cilantro	migraine variants	0
-calendula	schizoaffective disorders	0
-oreo	rheumatoid spondylitis	0
-actual licorice	muscular cramp	0
-acer saccharums	breast neoplasm	0
-peach tree	tussive syncopes	0
-clove	metastatic cancer	0
-morinda citrifolias	basal cell epitheliomas	0
-crowberry	preventable cancers	0
-carbonated waters	cervix neoplasms	0
-soy	phlebothrombosis	0
-dinner times	persistent tremor	0
-cookie	papillary meningiomas	0
-paprika	carcinoma in situ	0
-infects apples	heat stroke	0
-cayenne pepper	hiatus hernia	0
-citrus paradisi	resting tremors	0
-lipomul	amyotrophic lateral sclerosis	0
-sweet foods	dementia praecox	0
-phyllanthus emblica	rete testis tumor	0
-glucose-fructose syrup	atrioventricular dissociation	0
-domestic fowl	ankylosing spondylarthritides	0
-indian laburnum	mucous colitides	0
-low vitamin	burning pains	0
-intoxicant	inappropriate growth hormone secretion syndrome (acromegaly)	0
-zinger tea	brain benign neoplasm	0
-multivitamin	mild cognitive impairment	0
-chewing gum	jaundice	0
-steak	atrioventricular dissociation	0
-citrus x paradisi	block cancer	0
-black coffee	mastalgia	0
-gui zhi	amnesia-memory losses	0
-flesh foods	bse (bovine spongiform encephalopathy)	0
-health nuts	deficiency diseases	0
-marsh mallows	primary growth hormone resistance	0
-specific nuts	cerebrovascular accidents	0
-no noni	breast disease	0
-yeast rice	breast cystic diseases	0
-colorful foods	atherogenesis	0
-frozen cranberries	renal neoplasm	0
-mustard plants	wheat hypersensitivity	0
-acaí berries	vagina neoplasms	0
-juglans regia	urticarias	0
-fruit-shaped marshmallows	fatty liver	0
-legume pods	rectum cancer	1
-noncaloric sweetener	post-traumatic osteoporosis	0
-american meat	alopecia cicatrisata	0
-acer	aphthous stomatitides	0
-ribe	behavior disorders	0
-flax seeds	non-alcoholic fatty liver disease	0
-lactuca sativa	osteoporosis	0
-component spices	terminal cancer	0
-retail poultry	prostatic hyperplasia	0
-fatty meal	uterine fibroma	0
-sparkling waters	myeloma-multiple	0
-dress	renal calculus	0
-nutritional yeast	peripheral arterial diseases	0
-sandwich	congenital defect	0
-flavoring	cardiac arrhythmia	0
-brewing tea	persistent tremors	0
-plant capsule	thyroid neoplasm	0
-scrambled eggs	skin diseases	0
-bellis	bechterew's disease	0
-chia seeds	aortic aneurysms	0
-food pyramid	low-grade lymphomas	0
-california avocado	endometrioma	0
-canned food	numbness	0
-sweet orange	anemia	0
-coriandrum sativum	lung inflammations	0
-saint john wort	oral disease	0
-pleurotus ostreatus	hiatal hernia	0
-vaccinium uliginosum	male sub fertility	0
-sticker	intraorbital meningioma	0
-cherry plum tree	human t-cell lymphotropic virus type iii	0
-nonus	multiple meningiomas	0
-tobacco	mild cognitive impairments	0
-fagopyrum esculentum	undifferentiated lymphomas	0
-vaccinium macrocarpon	age related bone loss	0
-carbonated mineral waters	dermatozoic delusion	0
-hemp plants	cognitive dysfunction	0
-healthy snacks	familial guillain-barre syndrome	0
-vaccinium bracteatums	ph1-negative myeloid leukemias	0
-shan yao	polyp	0
-plum tree	mouth neoplasm	0
-raw cranberries	burning pain	0
-ceylon cinnamon	experimental parkinson disease	0
-extracted fruit	gum disease	0
-papaver somniferum	early diagnosis of cancer	0
-preserved foods	juvenile onset diabetes mellitus	0
-norovirus food	myeloma multiple	0
-baptisia	autosomal recessive juvenile parkinsonism	0
-processed food	meningotheliomatous meningioma	0
-bacon	meningotheliomatous meningioma	0
-agent orange	sleep initiation and maintenance disorders	0
-marjoram plant	schilling-type myeloid leukemia	0
-beet greens	galactose-1-phosphate uridyl-transferase deficiency disease	0
-hawthorn	reproductive sterility	0
-solanum lycopersicum	frontal region traumas	0
-domestic fowls	age-related maculopathies	0
-allium porrum	cranial pains	0
-dietary plant proteins	cjd (creutzfeldt jakob disease)	0
-dragon fruit	male breast carcinoma	0
-cocoa plant	atrioventricular dissociations	0
-mangifera	familial atrial fibrillation	0
-calling eggs	myocardial infarctions	0
-soy bean proteins	paraesophageal hernia	0
-pea	migratory pains	0
-sushi	xanthomatous meningioma	0
-açai berry	landry-guillain-barre syndrome	0
-soft drink	insulin-dependent diabetes mellitus 1	0
-snack food	lymphocytic leukemia	0
-little meat	mesothelioma	0
-mangiferas	iritis	0
-walnut	lower back pain	0
-texturized soy proteins	cancer of the thyroid	0
-berberis	brain disease	0
-euterpe precatoria	postoperative emesis	0
-digitalis	inflammation	0
-yellow vegetables	ductal carcinomas	0
-weed	brain neoplasm	0
-suggesting fruit	infectious mononucleosis viruses	0
-andean blackberries	craniocerebral traumas	0
-dioscorea villosa	brain cancer	0
-tepary bean	chronic illnesses	1
-ceratonia	female pattern baldness	0
-chilli peppers	encephalopathy	0
-beef	food hypersensitivity	0
-cocos nuciferas	melanoma	0
-sea food	marsh fever	0
-sockeye salmon	presyncope	0
-fresh meat	periodontal diseases	0
-dried yeast	chronic cluster headaches	0
-artificial sweetener	fusiform aneurysm	0
-golden delicious	mental deteriorations	0
-organic food	galactose-1-phosphate uridylyltransferase deficiency	0
-cinnamomum aromaticum	vaginal cancers	0
-dark meat	renal calculus	0
-sunchoke	generalized seizure	0
-opium poppy	deficiency disease	0
-antioxidant vitamin	penile cancers	0
-red delicious	cancer of mouth	0
-pecan trees	age-related macular degeneration	0
-coca	psoriasis	0
-quinoa	continuous tremor	0
-althea officinalis	well-differentiated lymphocytic lymphomas	0
-rosa	social anxiety disorders	0
-alcoholic beverage	galt deficiency	0
-triticum durum	central obesity	0
-steamer	brain malignant neoplasm	0
-eupatorium rebaudianum	painful menstruations	0
-pimpinella	cerebral strokes	0
-cocktail	esophagitide	0
-breakfast	sleep disorders	0
-mastic trees	amentia	0
-flammulina	human papillomavirus virus	0
-bagel	acute infectious polyneuritis	0
-betel nut	peanut allergy	0
-spinacia oleracea	weight losses	0
-pisum sativum	faint	0
-mentha	hemolytic jaundice	0
-soya milk	schilling type myeloid leukemia	0
-apium graveolens	parkinsonian syndromes	0
-triticum aestivum	inflammatory demyelinating polyneuropathy	0
-diabetic diet	myelogenous leukemia	0
-solanum dulcamaras	heart attack	0
-hypericum	stroke	0
-tarragon	social anxiety disorders	0
-pretzel	human mammary neoplasms	0
-foie gras	hiatus hernias	0
-canned foods	benign essential tremors	0
-organic plants	visceral steatosis	0
-soy milk	pus	0
-coleslaw	contagious pustular dermatitides	0
-higher vegetable	intermittent tremors	0
-chewing gums	spinal cord disorders	0
-store licorice	hyperthermia	0
-swiss chard	dental disease	0
-vaccinium bracteatum	emesis	0
-yam	avitaminose	0
-chile peppers	vulvar neoplasm	0
-milk protein	oral cancer	0
-horse bean	gassers syndrome	0
-frier	malaria	0
-lettuce	lymphatic sarcomas	0
-citrullus	retained surgical needle	0
-legume pod	auditory seizure	0
-crab apple	chronic fatigue fibromyalgia syndrome	0
-sweetened cereal	foreign object	0
-deli meat	benign prostatic hyperplasia	0
-pomelo trees	cot death	0
-cooking meat	nonhodgkins lymphoma	0
-euchresta	fibrocystic mastopathy	0
-grape seeds	non-epileptic convulsions	0
-mackerel	colonic cancer	0
-nut bar	amyloid plaques	0
-toxic plants	drug abuse	0
-lens plant	rupture	0
-raisin bran	bovine leukemia virus	0
-box elders	proliferative bronchiolitis	0
-cold-steeping tea	diabetic neuropathies	0
-safflower oils	olfactory groove meningioma	0
-black rice	galactose epimerase deficiencies	0
-corn sugar	amyotrophic lateral sclerosis motor neuron disease	0
-assai palm berries	retro-ocular headache	0
-abelmoschus esculentus	pleomorphic lymphomas	0
-hemp plant	brain cancer	0
-maize oils	leanness	0
-almond tree	intraepithelial prostatic neoplasias	0
-cycad	superficial head injuries	0
-baby carrots	mixed-cell lymphoma	0
-collard green	stomatognathic diseases	0
-eugenia sandwicensis	developed cancer	0
-treat	tonic-clonic seizure	0
-caffeinated coffee	enzootic bovine leukoses	0
-cassia trees	penile neoplasm	0
-juglan	carcinomatosis	0
-cheese	seizure	0
-coca cola	metabolic acidosis	0
-ground ginger	icterus	0
-black currants	dissociative amnesia	0
-pinto bean	sensory seizures	0
-peanut butter	cancer of the brain	0
-flounder	amyotrophic lateral sclerosis parkinsonism dementia complex 1	0
-vegetable juices	sciatic neuralgias	0
-butter	colon neoplasms	0
-cruciferous vegetable	brain benign neoplasms	0
-atropa belladonna	acromegaly	0
-soy bean curds	b cell chronic lymphocytic leukemia	0
-unrefined plant	toxico infectious botulism	0
-boiled eggs	brain vascular accidents	0
-drinking tea	prediabete	0
-abelmoschus	lymphocytic leukemia	0
-ice creams	cancer of the bone	0
-dietary protein	urinary bladder neoplasm	0
-added sweeteners	food hypersensitivity	0
-chamomile oil	congestive heart failure	0
-taraxacum	cjd (creutzfeldt jakob disease)	0
-breast milks	ocular headache	0
-ale	eczematous dermatitis	0
-leguminosae	halitosis	0
-rise	deficiency diseases	0
-origanum	fibromyalgia-fibromyositis syndromes	0
-black beans	adenomatous polyps	0
-dressing	retained surgical instrument	0
-bergamot	penis cancer	0
-plantago lanceolata	sub-fertility	0
-cymbopogon nardus	cjd (creutzfeldt-jakob disease)	0
-soy proteins	intraepithelial prostatic neoplasias	0
-wisconsin milk	multiple myelomas	0
-foxglove	small cleaved-cell lymphoma	0
-big apples	substance addiction	0
-saffron crocus	oncornavirus	0
-maguey	deficiency disease	0
-lime	anaplastic carcinoma	0
-sesame seeds	neoplasm metastases	0
-plant-based nutrients	neonatal tremor	0
-aubergine	huntingtons disease	0
-powdered sugar	venous thromboses	0
-little saffron	muscle disease	0
-not-necessarily-so-healthy foods	infantile obesity	0
-illicium anisatums	muscular cramp	0
-international nut	fatigue	0
-broccoli raab	upper respiratory infections	0
-lamb chops	granulomatous colitis	0
-cocoa plants	atrial fibrillation	0
-trigonella	cerebrovascular stroke	0
-cappari	et-nanbh	0
-guacamole	deep venous thromboses	0
-durum wheat	galactosemia 3s	0
-own vitamin	preterm birth	0
-english walnuts	vulvar cancer	0
-black tea	malignant melanoma	0
-peppermint	kidney cancers	0
-purple potatoes	bladder neoplasms	0
-blueberry	tongue neoplasm	0
-hickory trees	philadelphia negative myeloid leukemia	0
-piper methysticum	ovary cancer	0
-entree	primary insomnia	0
-vaccinium angustifolium	germinoblastic sarcoma	0
-radish	obesity in adolescence	0
-pimenta diocias	drunkenness	0
-gravy	small noncleaved cell lymphoma	0
-cucurbita	sleep disorder	0
-cider vinegar	basal cell epithelioma	0
-bean	muscle cramp	0
-rubus fruticosus	creutzfeldt jakob syndrome	0
-lemon balms	plasma cell myelomas	0
-citrus hystrix	acquired immunologic deficiency syndrome	0
-cortland	chronic fatigue syndrome	0
-uncooked food	hemicrania	0
-croaker	lou gehrig's disease	0
-cicer	amaurosis	0
-guava	colorectal cancer	0
-sweet basils	campylobacter infection	0
-trace mineral	premature aging	0
-eating food	beriberi	0
-golden delicious apples	pancreatic neoplasms	0
-flaxseed	hemicrania	0
-myristica fragran	amyloidose	0
-jasmine tea	temporary amnesias	0
-frying meat	burkitt lymphoma virus	0
-persea americanas	acute strokes	0
-cynara scolymus	reticulolymphosarcoma	0
-zingiber officinale	bruise	0
-chocolate	thyroid cancer	0
-supper	high blood pressures	0
+endive	carotid sinus syncopes	0
+seafood	rete testis tumors	0
+oyster mushroom	uterine leiomyoma	0
+purine-rich plant	deficiency disease	0
+breast milks	schizoaffective disorders	0
+malabar nut	study cancer	0
+wild yam	papillary meningiomas	0
+bertholletia excelsas	low back ache	0
+carbonated beverage	bechterew's disease	0
+fermented foods	severe mental disorders	0
+soy bean	diffuse lymphoma	0
+fried foods	fatty liver	0
+zinger tea	allergic reactions	0
+carbonated drinks	pulmonary inflammations	0
+pistachio	diabetic autonomic neuropathies	0
+bertholletia excelsa	canker sores	0
+antioxidant vitamin	cancer of the liver	0
+texturized vegetable protein	cancer of the thyroid	0
+porgy	uterine fibroid	0
+bamboo shoots	adenomatous polyps	0
+vitis vinifera	transmissible dementias	0
+berberi	age related maculopathies	0
+persea americana	e-b virus	0
+molasses	myocardial infarction	0
+citrus-based fruits	hiv	0
+rheum officinale	alzheimer’s disease	0
+canned fruit	airsickness	0
+okra	iron deficiency	0
+carthamus tinctorius	delusory parasitosis	0
+happy meal	idiopathic intracranial hypertension	0
+contaminated meat	malignant meningiomas	0
+horsenettle	nonalcoholic fatty liver disease	0
+milk proteins	vaginal discharges	0
+scrambled eggs	infant botulisms	0
+zingiber officinales	visceral obesity	0
+millet	burkitts lymphoma virus	0
+nutritional yeast	reproductive sterility	0
+lycium	basal cell nevus syndrome	0
+beta vulgaris	jacksonian seizure	0
+fagopyrum sagittatum	iddm	0
+organic food	schizoaffective disorders	0
+skim milk	cancer of the uterine cervix	0
+anacardium occidentale	spiral fractures	0
+coconut water	esophageal neoplasm	0
+flavourer	tonsil cancer	0
+fryer	myalgic encephalomyelitis	0
+hickory nuts	radiating pains	0
+atropa belladonna	open head injury	0
+adhatoda	cancer viruses	0
+different seed	sore throats	0
+spearmint	vertiginous seizure	0
+raphanus sativus	uterus neoplasms	0
+raw cranberries	familial guillain-barre syndrome	0
+solanum laciniatums	periadenitis mucosa necrotica recurrens	0
+agave	cardiac disease	0
+caramel	human influenzas	0
+raisin bran	charcot disease	0
+barberry	retroviridae	0
+mint tea	arthritide	0
+food additives	diverticulum	0
+chewing gum	lewy body parkinson's disease	0
+mustard plant	spinal cord diseases	0
+dried pomegranate	aids virus	0
+snacktime	breast neoplasm	0
+ice creams	viral infection	0
+cynara scolymus	breast cystic diseases	0
+cherry plum trees	somatotropin hypersecretion (acromegaly) syndrome	0
+healthiest vegetable	motor seizures	0
+poisonous plants	burning pains	0
+pinto beans	erectile dysfunction	0
+cooked tomatoes	gall bladder disease	0
+mint	mink encephalopathy virus	0
+sesame seeds	burning pains	0
+chamomile tea	experimental parkinsonism	0
+spinacia oleracea	food borne illnesses	0
+breakfast cereal	iddm	0
+iceberg lettuce	fibrocystic breast disease	0
+concord grapes	urinary bladder diseases	0
+fresh meat	ischemic heart disease	0
+soy beverages	frontal region trauma	0
+health nuts	vulva neoplasms	0
+apium graveolens	rna tumor virus	0
+dietary supplement	brain conditions	0
+myristica fragran	parasagittal meningiomas	0
+opium poppies	penile neoplasm	0
+raw poultry	kidney calculi	0
+sardine	atrioventricular dissociation	0
+anise	vertebrogenic pain syndrome	0
+arginine-rich foods	pleomorphic lymphomas	0
+neu5gc-rich food	tonic seizures	0
+sesame oil	prostate cancer	0
+tea hibiscus	vagina cancer	0
+mangifera	insulin resistance	0
+sockeye salmon	diffuse undifferentiated lymphoma	0
+amla	low-grade lymphoma	0
+seville orange tree	rupture	0
+warm milk	retained surgical instruments	0
+adding blueberries	thyroid adenomas	0
+corn oil	pituitary dwarfism ii	0
+oolong	subfertility	0
+cymbopogon	breast cystic disease	0
+oregano plants	histamine cephalgias	0
+malabar-nut	condylomata acuminata	0
+rice	breast diseases	0
+red pepper	paroxysmal atrial fibrillations	0
+amaranth	heart failure	0
+lentil	intraventricular meningiomas	0
+sugar maple	carcinoma in situ	0
+milk	water-borne hepatitis	0
+rosa	malignancy	1
+whole wheat	condylomata acuminata	0
+cooking meat	cancer of ovary	0
+prunus amygdalus	amnesia	0
+chili pepper	brief reactive psychoses	0
+artichoke	galactosemia iii	0
+mustard	alopecia cicatrisatas	0
+potato	leprosy	0
+milk thistle	hypoascorbemia	0
+linum usitatissimums	high grade lymphoma	0
+breakfast cereals	arthrosis	0
+chamomile oils	head trauma	0
+processed meat	osteoarthrosis	0
+plantago arenaria	presyncope	0
+black walnut	autoimmune disease	0
+steak	head injury	0
+dinnertime	strains and sprains	0
+bad foods	chronic airflow obstruction	0
+chipotle	iron overload	0
+coriander	hereditary essential tremor	0
+frosting	cryptogenic epilepsy	0
+phaseolus vulgari	drug addiction	0
+potato chips	spindle cell sarcoma	0
+star anise	peanut allergy	0
+herbal teas	endometrium carcinoma	0
+maple	obesity virus	0
+frozen cranberries	craniocerebral traumas	0
+glucose-fructose syrup	cancer of ovary	0
+curcuma longa	breast cancers	0
+narrow-leaved plantain	aids viruses	0
+fagopyrum tataricum	kidney disease	0
+spore	diabetic neuralgia	0
+restrict food	reticulum cell sarcoma	0
+pummelo tree	neurodegenerative disorder	0
+hypericum perforatum	human t cell lymphotropic virus type iii	0
+anti-inflammatory foods	disseminated sclerosis	0
+euterpe oleracea mart.s	disk degradations	0
+salami	cancer of tongue	0
+chilli peppers	common colds	0
+vitamin pills	muscle cramps	0
+saccharomyces cerevisiae	crohn disease	0
+citrus bergamia	circulatory failure	0
+own vitamin	dizzyness	0
+pea family	colitide	0
+carrot juice	headache syndrome	0
+box elders	amyotrophic lateral sclerosis motor neuron disease	0
+dairy eggs	uveitis	0
+pumpkin	mixed small and large cell lymphoma	0
+junk food	familial creutzfeldt-jakob disease	0
+cinnamomum trees	non-alcoholic fatty liver disease	0
+yolk	pulmonary cancers	0
+maize oil	cancer of penis	0
+curcuma longas	visceral obesities	0
+frying foods	galactose 1 phosphate uridyl transferase deficiency disease	0
+cherry	posterior fossa meningiomas	0
+hypericum perforatums	generalized spasm	0
+gluten-free diet	polyp	0
+citrus aurantiums	chronic b-lymphocytic leukemias	0
+stevia rebaudiana	arrythmia	0
+whipped cream	polyradiculoneuritide	0
+cocoa plant	gall bladder diseases	0
+yogurt	periadenitis mucosa necrotica recurrens	0
+grecian foxglove	frontal region traumas	0
+osmanthus	metabolic acidosis	0
+entree	colon neoplasms	0
+hemp	spinal cord disorder	0
+unhealthy food	recurrent brain tumor	0
+soy	amyloid plaque	0
+lime	convulsive seizures	0
+mustard greens	convulsion	0
+soy milk	asymmetric diabetic proximal motor neuropathy	0
+retail poultry	obesity virus	0
+arachis	ph1-negative myeloid leukemias	0
+alfalfa sprouts	lymphoma	0
+english plantains	hysterical blindness	0
+high fructose maize syrup	upper respiratory infections	0
+vaccinium ashei	vitamin deficiency	0
+antioxidant food	cancer of the rectum	0
+pimiento	complete blindness	0
+raw alfalfa	human mammary neoplasms	0
+sell meat	degenerative neurologic diseases	0
+mustard oil	cadaver	0
+fragaria	darkness tremors	0
+guacamole	drug hypersensitivities	0
+chinese yam	diabetic amyotrophy	0
+citrus medicas	diffuse mixed-cell lymphoma	0
+aspartame	manic disorders	0
+citrus aurantium	head pain	0
+asparagus	convulsive syncope	0
+green peas	senile plaques	0
+walnut oil	hhv-4	0
+healthy nuts	galactokinase deficiency diseases	0
+triticum turgidum subsp. durum	experimental parkinson diseases	0
+bitter orange trees	adenosis of breast	0
+drinking coffee	age related memory disorders	0
+cannabis indica	preterm birth	0
+walnut	e-b virus	0
+ginger ale	wound botulism	0
+cardamon	dna injury	0
+processing meat	bacterial vaginitis	0
+broth	lymphadenopathy associated virus	0
+myristica fragrans	dental diseases	0
+bergamot	fibromyoma	0
+club sodas	tonsil cancer	0
+illicium	atheroma	0
+eupatorium rebaudianum	wart viruses	0
+lettuce	leukemogenic virus	0
+blossom	pattern baldness	0
+euchresta	arthritis	0
+capsicum annuum	sleep initiation dysfunctions	0
+prunus persica	hiccough	0
+indian gooseberries	ciguatera	0
+common fruits	occipital region trauma	0
+coriandrum sativums	degenerative diseases	0
+punica granatums	acquired immuno deficiency syndrome	0
+phaseolus vulgaris	myelomatosis	0
+new vitamin	breast fibrocystic change	0
+meal time	esophageal reflux	1
+fungus	complications of diabetes mellitus	0
+natural vitamin	common cold	0
+marjoram plants	male pattern alopecia	0
+arecas	disk degradations	0
+zea mays	fight cancer	0
+purple cabbage	fine tremor	0
+origanum	histamine cephalgias	0
+barley coffee	tongue cancer	0
+lemon balms	muscle disease	0
+vinegar	visceral steatoses	0
+bell peppers	jaundice	0
+gmo soybeans	chronic illness	0
+olive trees	oxygen deficiency	0
+chili peppers	prediabetic state	0
+bilberry	reticulum cell sarcoma	0
+citrus hystrices	exudative bronchiolitis	0
+stevia	paratuberculose	0
+eggplant	autoimmune condition	0
+brinjal	coma	0
+unfertilized eggs	acute autoimmune neuropathy	0
+treat	frontal region traumas	0
+wine	human immunodeficiency virus	0
+allspice	chromosome 6 linked autosomal recessive parkinsonism	0
+coca	kidney neoplasms	0
+noncaloric sweetener	ciguatera poisonings	0
+assai palm	htlv-iii	0
+concord grape	androgenic alopecia	0
+portulaca	fifth phacomatoses	0
+trompillo	confusion	0
+uncooked food	cjd (creutzfeldt-jakob disease)	0
+golden delicious apples	diffuse undifferentiated lymphomas	0
+dried peas	amyloidose	0
+hemp plant	androgenic alopecia	0
+chewing gums	birth defect	0
+brassica napus	spatial memory disorder	0
+no noni	peripheral autoimmune demyelinating disease	0
+apricot tree	primary malignant brain neoplasms	0
+common foxglove	bipolar disorder	0
+phyllanthus emblica	hepatic neoplasm	0
+mirobalanus embilicas	parkinsonism	0
+common bean plants	lymphocytic lymphomas	0
+sea food	aphthous stomatitis	0
+ilex paraguarienses	papillary meningioma	0
+jalapeno pepper	alopecia cicatrisatas	0
+frequent meals	intracranial cns disorder	0
+açaí berries	fibromyositis-fibromyalgia syndromes	0
+cinnamomum verum	familial dementias	0
+black raspberries	renal neoplasm	0
+mentha spicatas	pleomorphic lymphoma	0
+ceylon cinnamon	uterus cancer	0
+dried fruits	lymphocytic leukemia	0
+olive	thyroid disease	0
+whole grains	congenital defect	0
+include flaxseed	breast tumor	0
+euterpe edulis	neurocysticercose	0
+woodland strawberries	diverticulosis	0
+yoghurt	aphthous stomatitides	0
+lemon	arterial fatty streak	0
+crataegus monogynas	voice box cancer	0
+cucurbita	anaplastic carcinoma	0
+steamer	sid	0
+french fries	cot deaths	0
+bhang	prostatic hyperplasia	0
+pistachio nut tree	small cell lymphoma	0
+coca cola	diffuse mixed-cell lymphomas	0
+petroselinum	artery disease	0
+candy	vulvar cancers	0
+rheum	high grade lymphoma	0
+sweet pepper	primary insomnia	0
+organic foods	autoimmune disorders	0
+trace mineral	age-related memory disorders	0
+granny smith	male breast neoplasm	0
+ephedra	broken bones	0
+frying meat	myocardial infarcts	0
+wild celeries	brain disorders	0
+vitamin	uterus cancers	0
+holy basil	hypercapnia	0
+food supplementations	visceral steatoses	0
+french bean plant	food-borne diseases	0
+gala apples	mastitis	0
+citrus maxima	impaired sensation	0
+pretzel	ocular headaches	0
+big food	cancer of the esophagus	0
+hop	parodontosis	0
+inadequate fruit	esophagitis	0
+crataegus monogyna	pseudotumor cerebri	0
+black walnuts	auriculo-ventricular dissociations	0
+malus domestica	galt deficiency	0
+mastic tree	deficiency diseases	0
+cycad trees	cat leukemia viruses	0
+dairy product	pneumonitide	0
+chickpea	upper respiratory infections	0
+soy beverage	acne vulgaris	0
+zingiber officinale	glaucoma	0
+different fruits	tonsil cancers	0
+hibiscus cannabinus	tumor virus	0
+rooibos tea	halitosis	0
+antioxidant-rich food	oxygen deficiency	0
+illicium anisatums	feline lymphoma viruses	0
+turmeric	udp-galactose-4-epimerase deficiency	0
+carbonated mineral waters	perforated appendicitis	0
+target vitamin	sudden cardiac arrest	0
+food manufacturers	barretts syndrome	0
+alcoholic beverage	hypersensitivity	0
+probiotic	blood cancers	0
+soy cheeses	abdominal cramp	0
+raphanus raphanistrum	neoplasm metastases	0
+pancake	prostate cancers	0
+nutmeg	sleep wake disorders	0
+mayo	myocardial infarctions	0
+oryza	hypospadia	0
+cortland	lung neoplasm	0
+cannabi	hemangiopericytic meningiomas	0
+crab apples	small and large cleaved-cell lymphoma	0
+red lentils	breast tumors	0
+glycyrrhiza glabra	semirhythmic tremor	0
+trace elements	ovary neoplasm	0
+sweet almond	post-traumatic osteoporosis	0
+prunus salicina	baldness	0
+sweet peppers	complete hearing loss	0
+drink	transitional meningioma	0
+cappari	muscular cramp	0
+hazelnut	preventable cancers	0
+buttermilk	infectious mononucleosis viruses	0
+alpine strawberries	action tremors	0
+orange	polymyositide	0
+brazil nuts	prion protein diseases	0
+erythroxylon	essential tremors	0
+rosehip	disk degenerations	0
+beer	deglutitional syncope	0
+raw meat	small noncleaved cell lymphoma	0
+pepsi	mild cognitive impairments	0
+euterpe	short sleep phenotypes	0
+mealtime	autoimmune condition	0
+silybum marianums	type i diabetes mellitus	0
+plantain	foreign bodies	0
+capparis	lyme arthritis	0
+oryza sativa	mouth neoplasm	0
+carica	splitting pains	0
+yeast rice	monocular blindness	0
+abelmoschus esculentus	episodic cluster headache	0
+lemon verbena	elevated cholesterols	0
+venison	viral hepatitis	0
+thymus vulgaris	neurological condition	0
+saint john's wort	postural syncopes	0
+porphyra	limb tremor	0
+honeybush tea	autoimmune diabetes	0
+foie gras	thrombose	0
+organic plants	texidor's twinge	0
+cooking oil	lymphoplasmacytoid lymphoma	0
+cruciferous foods	lichen ruber planus	0
+narrow-leaved plantains	prion-induced disorders	0
+english walnuts	colon disease	0
+specific foods	age-related osteoporoses	0
+domestic fowls	atrial fibrillations	0
+dietary protein	heart attack	0
+incorporate cloves	seasickness	0
+veggie	breast carcinomas	0
+coriandrum	irritable colon	0
+stryphnodendron	childhood obesity	0
+bran flakes	human t cell leukemia virus type iii	0
+fake meat	human herpesvirus 4	0
+raw broccoli	diffuse myofascial pain syndrome	0
+origanum majorana	uterine fibromas	0
+chinese cassia	mptp induced experimental parkinsonism	0
+pithecolobium	frontal region traumas	0
+meal times	human influenzas	0
+fortify milk	abdominal pains	0
+infant formulas	galk deficiencies	0
+mustard seeds	polyarthritis	0
+rhubarb	arterial fatty streak	0
+kaffir lime	syncopal vertigo	0
+pistacia	carotid sinus syncopes	0
+kawa	chronic daily headaches	0
+tuna fish	galactokinase deficiency diseases	0
+almond	dna injury	0
+copaifera	mptp induced experimental parkinsonism	0
+phytonutrient-rich food	paludism	0
+nut butters	sprain	0
+lactuca sativa	relapse	0
+maraschino cherry	infantile colic	0
+food pyramid	uterine neoplasms	0
+frozen fruit	stomach cancers	0
+chile pepper	bacterial infection	0
+cocos nuciferas	disk degradation	0
+dried food	plasma cell myelomas	0
+plantago lanceolata	kill cancer	0
+almond butter	pulmonary thromboembolisms	0
+larder	experimental parkinsonism	0
+illicium verum	diabetes complications	0
+purple potatoes	paraesophageal hiatal hernia	0
+empty calorie foods	amyotrophic lateral sclerosis parkinsonism dementia complex 1	0
+horse beans	type c oncoviruses	0
+fast foods	convulsive syncope	0
+tachigalia	sneeze	0
+new york coalition for healthy school food	ache	0
+dioscorea	diffuse mixed cell lymphoma	0
+vegetable juices	common bile duct gallstones	0
+use sweeteners	uterine cancers	0
+beta vulgari	seizure disorders	0
+artificial sweeteners	cancer of the cervix	0
+soy yogurt	skin rash	0
+taking vitamin	avian leukosis/sarcoma virus	0
+gooseberry	enterocele	0
+calendula officinali	familial tremors	0
+citrus grandis	diffuse undifferentiated lymphoma	0
+betel nuts	experimental parkinson disease	0
+pimenta officinali	juvenile-onset diabetes mellitus	0
+green peppers	food borne illnesses	0
+orange juice	generalized spasm	0
+morinda citrifolia	virus disease	0
+cookie	diverticula	0
+punicaceae	prostate neoplasm	1
+apium graveolens var. dulce	gasser syndrome	0
+chinese yams	social anxiety disorder	0
+sweet potatoes	human t cell lymphotropic virus type iii	0
+pea families	tonsil neoplasm	0
+citron tree	lewy body parkinson disease	0
+olea	baldness	0
+squash	familial tremors	0
+plant embryos	painful diabetic neuropathy	0
+chilli pepper	kidney disease	0
+barley	thyroid cancer	0
+healthier meat	enterocele	0
+rooibos	venous thrombosis	0
+breakfast time	subfertility	0
+dried fruit	generalized headaches	0
+black sapotes	foodborne illnesses	0
+ice cream	uterine fibromas	0
+wolfberry	brain neoplasms	0
+plum trees	sudden cardiac arrests	0
+goji berry	age-related macular degenerations	0
+bean	lung cancers	0
+eating broccoli	pruritis	0
+cinnamomum cassia	liver cancer	0
+silken tofu	occipital region traumas	0
+crocus	kidney disease	0
+sea bilberries	intractable headache	0
+rubus glaucus	diabetic asymmetric polyneuropathies	0
+spice turmeric	saturnine tremors	0
+crunch berries	chest pains	0
+solanum melongenas	muscular cramp	0
+food allergy	respiratory tract infections	0
+fenugreek seeds	granulomatous colitis	0
+acer saccharums	iritide	0
+potassium-rich foods	foodborne diseases	0
+maize syrup	chronic lymphoblastic leukemia	0
+high-fiber food	renal neoplasm	0
+faba bean	dermatosis	0
+eugenia caryophyllata	vertiginous seizure	0
+allium sativum	malignant epithelial tumors	0
+peach tree	neurologic degenerative conditions	0
+vaccinium myrtillus	soft tissue sarcoma	0
+ocimum basilicums	preventable cancers	0
+fennel seeds	alcoholism	0
+herbal tea	cancer of the kidney	0
+ready-to-eat meal	sciatica	0
+mangifera indicas	perioral tremors	0
+food supplements	nonalcoholic fatty livers	0
+red onions	gorlin goltz syndrome	0
+aubergine	human mammary carcinoma	0
+lunch time	corpse	0
+food and drug administration	cancer of the prostate	0
+illicium anisatum	breast cancers	0
+bell pepper	membranous cataracts	0
+syzygium	food-borne illnesses	0
+bagel	goiter	0
+triticum vulgare	tonsil neoplasms	0
+squash plants	aura	0
+artificial butter	dental fluorosis	0
+hashish	muscular rheumatism	0
+nonus	vitamin deficiency	0
+kangaroo meat	carcinomatosis	0
+exotic fruits	atherosclerotic plaque	0
+junk foods	breast pains	0
+little meat	macular dystrophies	0
+olive tree	galactose-1-phosphate uridylyltransferase deficiency	0
+mango	type i diabetes mellitus	0
+kiwi fruits	micturition syncope	0
+guava	malignant primary brain neoplasms	0
+baked potato	thyroid adenoma	0
+aloe vera	blood clot	0
+musa	diabetic amyotrophy	0
+specific cheeses	lymphatic sarcomas	0
+cinnamomum aromaticum	common cold	0
+black pepper	viral disease	0
+group foods	galactokinase deficiency disease	0
+carya illinoenses	v cjd (variant creutzfeldt jakob disease)	0
+pizza	clear cell meningiomas	0
+shiitake mushrooms	thyroid neoplasm	0
+apple	fibromyoma	0
+persea americanas	colon disease	0
+pickled foods	salami brusher's disease	0
+sustenance	spatial memory disorder	0
+acer negundos	cephalgia syndrome	0
+pimenta	tonic clonic seizures	0
+dark chocolate	dehydration	0
+curcuma zedoarias	adenomatous polyps	0
+dark meat	undifferentiated lymphomas	0
+lens culinari	disorientation	0
+boiled broccoli	diabetic neuralgias	0
+marjoram	infectious diseases	0
+filbert	fibroatheromatous plaque	0
+carbonated mineral water	voice box cancer	0
+organic meat	continuous tremors	0
+goji berry plants	cancer of the penis	0
+fiddlehead ferns	cancer of the brain	0
+fruit and vegetable juices	acute monocytic leukemia	0
+collard green	bacterial vaginosis	0
+dietary supplements	hyperventilation syncopes	0
+dinner times	testicular neoplasms	0
+salmonella food	human t cell lymphotropic virus type iii	0
+humulus	prostate cancers	0
+broccoli	hypospadia	0
+cassia trees	jakob creutzfeldt syndrome	0
+fructose corn	semantic memory disorder	0
+green grapes	olfactory groove meningiomas	0
+plant-based nutrients	bewilderment	0
+frier	osteoporosis	0
+horsemeat	hernia	0
+bitter nightshades	penis neoplasms	0
+pisum sativum	oral disease	0
+cocos nucifera	diabetes mellitus complications	0
+majorana hortensis	brain malignant neoplasms	0
+hemp plants	non epileptic convulsion	0
+scallion	strains and sprains	0
+celery	intervertebral disc degenerations	0
+sparkling waters	arthritis	0
+prunis communis	disorientation	0
+dried plums	pulmonary disorder	0
+persea	sciatic neuralgia	0
+big apples	memory deficits	0
+chicken salad	nerve tremor	0
+pureed apples	juvenile parkinsonisms	0
+sweet basil	megacolon	0
+eating meat	esophageal hernias	0
+salad	non-alcoholic fatty liver disease	0
+kidney beans	reticuloendotheliosis virus	0
+blueberry plant	plasmodium infections	0
+extracted fruit	intermittent tremors	0
+english walnut	microglandular adenoses	0
+sprout	aphthous ulcer	0
+infects apples	postural syncopes	0
+popcorn	colitide	0
+zea	status migrainosus	0
+isoglucose	bladder tumor	0
+apricot	chronic b-cell leukemias	0
+sweetleaf	vestibular seizures	0
+low-calorie diet	rete testis tumor	0
+gum acacia	epileptic seizures	0
+cruciferous vegetables	colonic neoplasms	0
+healthiest beverage	myocardial infarct	0
+decaf	fusiform aneurysm	0
+kawa kawa	age related macular degeneration	0
+narrow leaved plantain	eczematous dermatitides	0
+mashed potatoes	acute autoimmune neuropathies	0
+plant arils	unilateral headache	0
+triticum spelta	endocrine breast disease	0
+saint johns wort	intracranial cns disorders	0
+indian laburnums	hip fractures	0
+areca nuts	kill cancer	0
+peppermint	royal free disease	0
+dinner time	autoimmune disorders	0
+swordfish	goiter	0
+eating eggs	infantile autism	0
+tangerine trees	minor head injury	0
+nuclear power plants	lymphoblastic leukemia	0
+animal food	rodent ulcer	0
+artificial sweetener	liver disease	0
+nettle	retroviridae	0
+soy foods	cysticercosis	0
+food company	degenerative intervertebral disk	0
+solanum tuberosum	abdominal obesities	0
+energy drink	cancer of cervix	0
+bellis	enzootic bovine leukoses	0
+common olive tree	irritable colon	0
+potable water	diabetic complication	0
+grecian foxgloves	human cancer	0
+lavandula	degenerative neurologic disease	0
+fabaceae	malignancy	1
+billion eggs	cot death	0
+cruciferous vegetable	rachitide	0
+taro	male breast tumor	0
+eragrostus	diabetic polyneuropathies	0
+melissa officinali	diabetes complication	0
+hypericum	heat stroke	0
+red peppers	cancer of prostate	0
+machaerium	retro-ocular headaches	0
+euterpe oleracea	sleep initiation dysfunctions	0
+avenas	macular dystrophies	0
+pinto bean	lobar pneumonia	0
+portulaca oleracea	atopic disease	0
+cereal grains	familial creutzfeldt jakob disease	0
+macadamia nuts	malignant epithelial tumor	0
+fatty foods	diabetic polyneuropathy	0
+tap water	atrial fibrillations	0
+japanese plum	sore throats	0
+cooked carrots	rectum neoplasms	0
+convenience foods	tonic-clonic seizure	0
+lemon grasses	malignant epithelial tumor	0
+cuminum cyminum	foreign body	0
+cauliflower	deficiency disease	0
+chia seeds	skin neoplasms	0
+powdered sugar	diabetic amyotrophies	0
+individual food	acute inflammatory polyneuropathies	0
+olive family	neurodegenerative disease	0
+restructured meat	oncovirus	0
+olive oils	migraine disorders	0
+aspalathus linearis	multiple meningioma	0
+monitoring food	androgenic alopecias	0
+canned foods	laron dwarfism	0
+horse bean	insomnia	0
+dietary sucrose	diabetic autonomic neuropathies	0
+fenugreek	parkinson's disease	0
+edible grain	aura	0
+dinner	exudative bronchiolitis	0
+ultra-processed food	fifth phacomatoses	0
+mandarin orange trees	migratory pains	0
+sunfish	acute inflammatory polyneuropathy	0
+know nuts	meningotheliomatous meningiomas	0
+yam	treat cancer	0
+breakfast times	cysticercosis	0
+apple trees	fibromyositis-fibromyalgia syndrome	0
+green onions	extreme hearing loss	0
+pimpinella anisums	lymphoplasmacytoid lymphoma	0
+sweetener	age related memory disorders	0
+trace element	congenital abnormalities	0
+cider	head traumas	0
+fruit-shaped marshmallows	serious disease	0
+chocolate pudding	uterine cancers	0
+eugenia jambos	feline lymphoma virus	0
+cinnamomum zeylanicum	kidney cancer	0
+white wine	persistent atrial fibrillation	0
+eating food	idiopathic intracranial hypertension	0
+pork	oxygen deficiencies	0
+dried apple	physical anhedonias	0
+ephedras	diffuse lymphocytic lymphoma	0
+avocado	cow disease	0
+breakfast	manic disorders	0
+food supplement	age-related osteoporosis	0
+sesamum	esophageal hernias	0
+anacardium occidentales	uterus cancer	0
+moose meat	bacterial infections	0
+strawberry	cancer of pancreas	0
+papaver	classic galactosemias	0
+plantago ovata	proteinuria	0
+plant capsules	cardiac arrhythmia	0
+flavorer	postoperative emeses	0
+conventional food	cancer of the bone	0
+healthiest snack	foreign objects	0
+citrus bergamias	intraventricular meningiomas	0
+curried tofu	uterus neoplasm	0
+allium porrum	spiral fracture	0
+orange tree	colon disease	0
+cooked broccoli	osteoarthrosis deformans	0
+grape juice	leukemia virus	0
+safflower	episodic cluster headache	0
+andean blackberry	rabies virus	0
+chanterelle	deformity	0
+lard	cancer of stomach	0
+eating fruits	multiple myelomas	0
+dog rose berries	bovine leukosis	0
+flesh foods	brittle diabetes mellitus	0
+table sugar	diabetic amyotrophy	0
+deli meats	disorders of initiating and maintaining sleep	0
+healthier foods	colitide	0
+cranberry	testis cancers	0
+kola nut	acute monocytic leukemia	0
+aquatic food	breast cancers	0
+solanum	cellulite	0
+ground beef	amnesia-memory loss	0
+soy bean curd	mouth and tooth diseases	0
+filtered coffee	cardiac death	0
+eating almonds	hemangiopericytic meningiomas	0
+kale	diffuse mixed-cell lymphomas	0
+bean sprout	sliding hiatal hernias	0
+juiced broccoli	episodic cluster headaches	0
+chinese cassias	food hypersensitivities	0
+cupcake	papillomaviridae	0
+soda pop	rodent ulcers	0
+citrus	cerebrovascular accident	1
+nut	dental diseases	0
+sushi	secretory meningiomas	0
+ale	develop cancer	0
+common foxgloves	female sub-fertility	0
+sun-dried raisin	parasagittal meningioma	0
+bok choy	retained surgical sponge	0
+sparkling water	lead poisonings	0
+algarrobo	food hypersensitivity	0
+dioscorea polystachya	amyloidose	0
+opium poppy	parasagittal meningiomas	0
+dessert	halitose	0
+theobroma cacao	primary brain neoplasm	0
+romaine lettuce	plasmodium infections	0
+dripping	tongue cancer	0
+flaked coconut	hemangioblastic meningioma	0
+dioscorea opposita	cognitive decline	0
+red cabbage	jakob-creutzfeldt syndrome	0
+eugenia sandwicensis	pharyngitis	0
+national pork	ph1 negative myelogenous leukemia	0
+oreo	spiral fracture	0
+carya illinoensis	high blood pressure	0
+eugenia aromatica	food-borne diseases	0
+yerba mates	endometrial neoplasms	0
+cassia tree	fibroid tumors	0
+low-salt diet	ductal carcinoma	0
+canned food	stomach ulcer	0
+foenumgraecum	icterus	0
+poultry products	proliferative bronchiolitides	0
+jam	cervical neoplasm	0
+tomato	nonhodgkins lymphoma	0
+rye bread	foreign body	0
+licorice	cluster headache syndromes	0
+stem vegetables	sneezing	0
+cocoa butter	exanthema	0
+syzygium jambos	insomnia	0
+brewage	bovine lymphosarcomas	0
+orange trees	fibrosis	0
+psidium guajava	cardiac arrhythmia	0
+prunus armeniaca	sore throat	0
+maguey	acute monoblastic leukemias	0
+hordeum	intestinal disease	0
+caffeinated coffee	prostate neoplasms	0
+aloe	postoperative emeses	0
+organ meats	back pains	0
+petroselinum crispums	acquired immune deficiency syndrome virus	0
+plantago	hypospadia	0
+olea europaea	spongiform encephalopathies	0
+stuff	ileocolitis	0
+coconut milk	thyroid carcinoma	0
+eat chocolate	pulmonary diseases	0
+vaccinium macrocarpons	vaginal neoplasm	0
+chinese rhubarb	ciliary body spasm	0
+fat foods	symptom cluster	0
+cola acuminata	atherogenesis	0
+root	prostatic hyperplasia	0
+macadamia nut	intervertebral disk degeneration	0
+laciniate nightshade	pustular psoriasis of palms and soles	0
+avoid peanuts	chromosome 6 linked autosomal recessive parkinsonism	0
+jelly	syncopal vertigos	0
+oyster mushrooms	ankylosing spondyloarthritis	0
+real chocolate	rash	0
+radish	gastro esophageal reflux	0
+replenish nutrients	visual seizures	0
+seltzer water	marie struempell disease	0
+split pea	galactose-1-phosphate uridyl-transferase deficiency disease	0
+no coffee	multiple head injury	0
+convenience food	guillain-barré syndrome	0
+animal-based vitamin	lewy body parkinson's disease	0
+pecan	cancer of the endometrium	0
+drink milk	carcinoma of endometrium	0
+milk thistles	myeloma-multiple	0
+white mallow	muscle tenderness	0
+roundup-ready soybeans	ankylosing spondylarthritides	0
+shellfish	intracranial cns disorder	0
+poultry meat	age-related bone losses	0
+msg	unhealthy conditions	0
+tomato sauce	dna injury	0
+brassica	autoimmune diabetes	0
+margarine	mastitis	0
+eugenia cumini	motion sickness	0
+goiaba	olfactory seizures	0
+wheat brans	sudden infant death	0
+muffin	colon neoplasms	0
+jell-o	classic galactosemias	0
+juglans nigra	chronic b cell leukemia	0
+capsicum	neurodegenerative disease	0
+mentha	inflammatory diseases	0
+origanum onites	lymphadenopathy associated virus	0
+fermented cabbage	diffuse small cleaved-cell lymphoma	0
+sweet almonds	symmetric diabetic proximal motor neuropathy	0
+pomelo trees	galactose epimerase deficiencies	0
+ocimum tenuiflorum	pulmonary thromboembolisms	0
+tepary bean	metabolic acidosis	0
+yerba mate	mental disorders	0
+exotic fruit	darkness tremors	0
+anise tea	sleep wake disorders	0
+food allergies	leanness	0
+suggesting apple	gastroesophageal reflux	0
+green lentils	foreign object	0
+bibhitaki fruit	severe gh insensitivity	0
+eugenia malaccensis	lightheadedness	0
+maize	cancer of prostate	0
+crowberry	common cancers	0
+beverage	fibrosis	1
+cereal grain	cluster headaches	0
+ginger	spontaneous abortion	0
+andean blackberries	diverticulitide	0
+thymus vulgari	ekbom dermatozoic delusions	0
+dried foods	virus diseases	0
+sorrel	primary growth hormone resistance	0
+cooked meat	fibromyalgia fibromyositis syndrome	0
+veal	cardiovascular stroke	0
+dried yeast	parodontosis	0
+apium graveolens var. rapaceum	galactokinase deficiencies	0
+cereal	auricular fibrillations	0
+lycopersicon esculentum	emphysema	0
+dandelion	comatose	0
+grouper	arthralgia	0
+garcinia mangostana	prediabetic states	0
+plant zygotes	bilateral deafness	0
+meal	prediabetic states	0
+lemongrass	frontal region traumas	0
+turkey meat	psoriasis	0
+dietary fats	disc degradations	0
+dried blueberries	well-differentiated lymphocytic lymphomas	0
+club soda	pregnancy pernicious vomiting	0
+high-fat meal	bacteriophage	0
+rose	diffuse lymphomas	0
+fava beans	congenital defects	0
+tulsi tea	chronic obstructive airway disease	0
+processed foods	muscle spasm	0
+lima beans	groundnut hypersensitivity	0
+cheese	primary growth hormone resistance	0
+pimenta officinalis	oral cancer	0
+parsley	renal neoplasm	0
+althaea officinalis	carotid sinus syncope	0
+brussels sprouts	brain benign neoplasm	0
+lycium barbarum	guillain-barre syndrome	0
+lavender	syncope	0
+almond trees	kidney disease	0
+sour orange trees	effort syncopes	0
+maize oils	indigestion	0
+fruit juice	epimerase deficiency galactosemias	0
+serve	cancer of the bladder	0
+soy protein	environmental cancer	0
+baby formulas	parkinson’s disease	0
+sesame oils	multiple myositides	0
+sugar maples	gall bladder diseases	0
+cultivated radish	poultry viruses	0
+eden foods	chronic fatigue-fibromyalgia syndromes	0
+dried apricots	chronic fatigue syndromes	0
+alcoholic beverages	autistic disorder	0
+american meat	respiratory tract infections	0
+nut bars	adenosis of breast	0
+apple tree	common bile duct gallstones	0
+cayenne peppers	generalized headaches	0
+clove	shock	0
+red delicious	mptp-induced experimental parkinsonism	0
+lemon grass	hot flashes	0
+eat flax	palsy	0
+coco	periadenitis mucosa necrotica recurrens	0
+areca catechus	auriculo ventricular dissociation	0
+anana	cardiac arrhythmia	0
+wild celery	hypesthesia	0
+abelmoschus	auricular fibrillation	0
+multivitamin	kidney calculi	0
+nightshade	precordial catch	0
+belladonna	parkinsonism-dementia complex of guam amyotrophic lateral sclerosis	0
+philadelphia cream cheese	acute cerebrovascular accident	0
+zucchini	gastro-esophageal reflux	0
+camomile	cephalalgia	0
+anti-inflammatory plant	cardiac arrhythmia	0
+infant formula	obesity in adolescence	1
+pecan trees	fibromyalgia	0
+chocolate bars	post ictal confusion	0
+mother cells	stomach cancer	0
+dried apples	ankylosing spondylarthritides	0
+roselle	urinary tract infection	0
+vaccinium bracteatum	liver dysfunction	0
+cassia cinnamon	schizophrenia	0
+frozen broccoli	cardiac arrhythmia	0
+plant aril	sensory seizures	0
+pear	low grade lymphoma	0
+monkfish	menstrual pains	0
+solanum dulcamara	human mammary neoplasms	0
+regular olive	prostatic cancer	0
+andropogon nardus	toxico-infectious botulism	0
+secale cereale	androgenic alopecia	0
+deep-fried foods	infant botulism	0
+mandarin orange tree	chronic fatigue-fibromyalgia syndrome	0
+white meat	premenstrual tensions	0
+cream cheese	kidney neoplasm	0
+nicotiana tabacum	gluten enteropathies	0
+turnip	diffuse mixed-cell lymphomas	0
+green beans	drunkenness	0
+flax	eye diseases	0
+jerusalem artichokes	spatial memory disorders	0
+trace minerals	testis cancers	0
+lipomul	stomach cancers	0
+prunus dulcis	coronary diseases	0
+blueberry	infectious virus	0
+guibourtia	childhood obesity	0
+tempeh	orthostatic headache	0
+rye	insomnia disorder	0
+ready-prepared food	childhood onset obesity	0
+melissa	posterior fossa meningiomas	0
+high-fructose corn	cancer of the pancreas	0
+biometal	rabies	0
+corylus	smell disorders	0
+nutrient-dense foods	fibromyositis-fibromyalgia syndromes	0
+vegetable proteins	severe gh insensitivity	0
+chile peppers	eye diseases	0
+herr	human t cell leukemia virus type iii	0
+banana plants	autosomal recessive parkinsonism	0
+dietary fibers	hepatic cancers	0
+hot pepper	feline leukemia viruses	0
+citrus sinenses	brain conditions	0
+corn	parkinsonism-dementia complex of guam amyotrophic lateral sclerosis	0
+snack food	myocardial infarct	0
+tv dinners	small cleaved-cell lymphoma	0
+shan yao	parkinson’s disease	0
+rose hips	postural syncopes	0
+triticum aestivum	sinusitis	0
+antioxidant-rich foods	tonsil cancer	0
+pecan tree	childhood onset obesity	0
+soda water	renal cancers	0
+virgin olive	physical suffering	0
+laciniate nightshades	familial creutzfeldt-jakob disease	0
+pummelo trees	polyphagia	0
+romaine	udp-galactose-4-epimerase deficiency disease	0
+currant	male sterility	0
+citrus limon	well-differentiated lymphocytic lymphomas	0
+acaí berries	cll lymphoplasmacytoid lymphoma	0
+pleurotus	mild cognitive impairments	0
+cocktail	kidney insufficiencies	0
+digitalis lanata	dementia praecox	0
+healthiest nuts	human influenza	0
+diabetic diet	colitis	0
+kava kava	leukemia virus	0
+golden delicious	bronchiolitide	0
+soy sauce	arthralgia	0
+fenugreek seed	drug addiction	0
+new candy	high-grade lymphomas	0
+dairy products	mechanical low back pain	0
+handling meat	autoimmune diabetes	0
+plum tree	birth defect	0
+pineapple juice	olfactory seizure	0
+powdered ginger	peanut hypersensitivity	0
+soft drink	classic galactosemias	0
+brassica nigra	malaria	0
+baptisia	galactokinase deficiencies	0
+sandwich	cardiovascular diseases	0
+low meat	degenerative arthritis	0
+seven nutrients	foodborne botulism	0
+açai berry	endometrioma	0
+beef	benign brain neoplasm	0
+pomegranate fruit	migratory pain	0
+snail meat	infant botulism	0
+vicia fabas	malignant primary brain tumors	0
+nut butter	prostatic cancers	0
+colophospermum	cerebrovascular apoplexy	1
+avena sativa	colon neoplasms	1
+gui zhi	malignant epithelial tumors	0
+lemon trees	bowel diseases	0
+white potatoes	sleep disorder	0
+medicago sativa	tactile hypesthesias	0
+black rice	contagious pustular dermatitis	0
+cycad	cancer of the liver	0
+cooked meats	renal neoplasm	0
+kidney bean	intention tremor	0
+wheat bran	papillary meningioma	0
+berry	scorbutus	0
+chinese cinnamons	gastric acid reflux	0
+including cloves	palmoplantaris pustulosis	0
+curry powder	joint disease	0
+neutraceutical	myocardial infarct	0
+maple syrup	juvenile-onset diabetes mellitus	0
+foxglove	migraine headaches	0
+baking chocolate	pulmonary inflammations	0
+vodka	carcinogenesis	0
+split peas	sliding esophageal hernia	0
+artificially-flavored corn	cancer of pancreas	0
+spinach	testis neoplasm	0
+supper	icterus	0
+melissa officinalis	copd	0
+cocoa powders	generalized spasm	0
+psyllium	cancer of the lung	0
+squash seeds	polymyositide	0
+toxic plant	mechanical low back pain	0
+nicotiana tabacums	effort syncopes	0
+english plantain	reversing chronic disease	0
+coconut oil	hyperventilation syncopes	0
+tea	laron syndrome	0
+vaccinium uliginosum	premature birth	0
+grape seeds	disorder	0
+little saffron	colic	0
+syzygium sandwicense	malignant lymphoma	0
+natto	dwarfism	0
+carya	fibromyositis-fibromyalgia syndrome	0
+legume family	inflammatory bowel disease	0
+soybean	fatigue	0
+actual licorice	gall bladder diseases	0
+black coffee	diabetic neuropathy	0
+phaseolus	bacteria-eating virus	0
+jelly beans	ekbom dermatozoic delusions	0
+mangosteen	dyslipoproteinemia	0
+citrus aurantiifolia	anoxia	0
+portulaca oleracae	crohn disease	0
+cassia fistulas	retained surgical needles	0
+calling eggs	intraepithelial neoplasms	0
+da huang	cancer of breast	0
+intoxicant	bovine lymphosarcomas	0
+floret	psychogenic parasitosis	0
+açai berries	auricular fibrillations	0
+sugary foods	premenstrual tensions	0
+citrus fruits	tumor viruses	0
+hibiscus	inappropriate gh secretion syndrome (acromegaly)	0
+solanum laciniatum	spinal meningiomas	0
+digitalis purpurea	melanoma	0
+banana	oncogenic viruses	0
+legume pods	peripheral autoimmune demyelinating disease	0
+dietary fat	bladder diseases	0
+soy bean proteins	postoperative vomiting	0
+piper methysticum	mechanical low back pain	0
+sweetening agents	muscle spasms	0
+lamb chops	manic state	0
+goji berries	cancer of pancreas	0
+dioscorea batatas	amyloid plaque	0
+grilled meat	mixed lymphoma	0
+cod	dysosmia	0
+piper methysticums	cognitive impairment	0
+white bread	diabetes complication	0
+sweeten	schizophreniform disorder	0
+texturized soy protein	hypoascorbemia	0
+whale meat	regional enteritis	0
+morinda citrifolias	acquired immunodeficiency syndrome virus	0
+boiled eggs	food borne illnesses	0
+curry	intraorbital meningiomas	0
+wisconsin milk	clear cell meningioma	0
+bertholletia	wart viruses	0
+amorpha	prostatic intraepithelial neoplasia	0
+prebiotic	atheroma	0
+marijuana	fibromyalgia	0
+lunchtime	senile osteoporosis	0
+sea-food	migraine headaches	0
+illicium verums	cancer of lung	0
+sour orange tree	chronic illness	0
+navy beans	virus diseases	0
+sesame	infant obesity	0
+flowering shrub	prostatic cancers	0
+carbonated waters	lewy body parkinson's disease	0
+no-calorie sweeteners	foodborne disease	0
+citrus reticulatas	esophagitis	0
+red wine	tonsillar neoplasm	0
+pistachio nut trees	hiatus hernia	0
+high-phytate foods	rectum cancer	0
+carbonated beverages	vaginal neoplasms	0
+lens culinaris	cryptogenic epilepsies	0
+agent orange	urticaria	0
+carica papaya	blv	0
+tomato juice	chronic diseases	0
+vitis	vulva neoplasm	0
+find pork	esophageal neoplasm	0
+kiwi	bechterews disease	0
+pumpkin pie	kidney disease	0
+cucumis sativus	breast diseases	0
+sour fruit	endometrial carcinomas	0
+whortleberry	convulsive seizures	0
+plantago psyllium	primary brain neoplasm	0
+peanut butter	deep-venous thrombosis	0
+curcuma	colonic neoplasm	0
+healthy foods	iritis	0
+preserved food	esophageal reflux	0
+cicer arietinums	motion sickness	0
+nut bar	hemangioblastic meningioma	0
+antioxidant fruits	tubal abortion	0
+nuclear power plant	subfertility	0
+chamomile oil	chronic daily headaches	0
+teff	brain malignant neoplasms	0
+added nuts	high cholesterol level	0
+elettaria	oncovirus	0
+morning meal	hyperemesis gravidarum	0
+caper	kidney calculi	0
+papaver somniferum	diffuse lymphomas	0
+leafy vegetables	dims (disorders of initiating and maintaining sleep)	0
+amlas	subfertility	0
+herb	sudden-onset diabetes mellitus	0
+black tea	schilling type myeloid leukemia	0
+trigonella foenum-graecum	varice	0
+lentinus edodes	bladder neoplasm	0
+dietary proteins	enzootic bovine leukosis	0
+raw garlic	brains cancer	0
+fruit juices	grippe	0
+mustard plants	adenovirus	0
+sour cream	acquired blindness	0
+shoot	back ache	0
+last meal	autistic disorders	0
+eggnog	acute inflammatory polyradiculoneuropathy	0
+whiting	substance induced organic mental disorders	0
+althea officinalis	human t-cell lymphotropic virus type iii	0
+pineapple	somatotropin hypersecretion syndrome (acromegaly)	0
+ocimum sanctum	manic states	0
+phaseolus acutifolius	hiv	0
+garlic	hepatocellular cancers	0
+kavas	kidney stones	0
+cured meat	diverticulum	0
+tofu	intraepithelial prostatic neoplasias	0
+mastic trees	inflammatory polyneuropathy acute	0
+halibut	utp hexose 1 phosphate uridylyltransferase deficiency	0
+brew	rectal tumors	0
+sweet marjorams	anxiety neuroses	0
+alfalfa	germinoblastoma	0
+granny smith apples	varicose vein	0
+sugar water	reticuloendotheliosis virus	0
+kava kavas	food borne illnesses	0
+plant kingdom	prostatic neoplasm	0
+suggesting fruit	salami brusher's disease	0
+so-called meat	endometrial neoplasm	0
+dioscorea villosa	heart failure	0
+golden glow	bechterews disease	0
+holy basils	voice box cancer	0
+basil	common cancers	0
+glycine max	autistic disorder	0
+cultivated oat	gastro-oesophageal reflux	0
+foeniculum	leukemia	0
+burrito	remittent fever	0
+blackberry	mental disorders	0
+plant zygote	behavior disorders	0
+breast milk	venous thrombosis	0
+cocoanut	epilepsy	0
+zedoary zedoaria	communicable diseases	0
+fennel	pharyngitis	0
+tangerine tree	nonalcoholic fatty liver	0
+betel nut	neurotic anxiety states	0
+ribes nigrum	generalized seizures	0
+elettaria cardamomums	craniocerebral injuries	0
+dressing	wart viruses	0
+density foods	myocardial infarction	0
+vaccinium bracteatums	galactose 1 phosphate uridyl transferase deficiency disease	0
+nori	cardiovascular stroke	0
+squash plant	deep vein thromboses	0
+jambolan plum tree	malignant epithelial neoplasm	0
+safflower oil	uterine cervical cancers	0
+citron trees	cancer of the vulva	0
+lens plant	intermediate grade lymphoma	0
+dietary fiber	chronic pain	0
+cocoa	retrovirus	0
+anchovy	central nervous system intracranial disorders	0
+individual candy	herpesvirus	0
+cannabis sativas	galk deficiency	0
+hibiscus sabdariffa	cerebral strokes	0
+ultra-processed foods	paraesophageal hernias	0
+chenopodium quinoa	presyncope	0
+bottled water	ponv	0
+mastictree	intervertebral disc degeneration	0
+linum usitatissimum	carcinoma	0
+hordeum vulgare	contagious ecthyma	0
+rubus fruticosus	disorientation	0
+ground ginger	vulvar cancer	0
+black teas	neuritic plaque	0
+emphasize plant	deep-vein thrombosis	0
+lemon tree	secretory meningiomas	0
+peach	back aches	0
+calendula	vertiginous seizure	0
+chai tea	birth weights	0
+assai palm berry	plegia	0
+pomelo tree	pancreatic cancer	0
+store licorice	endothelial dysfunction	0
+mentha x piperita	hemorrhage	0
+soybean proteins	fights cancer	0
+yellow vegetables	fibroatheroma	0
+colorful foods	pneumonitide	0
+vaccinium corymbosum	classic galactosemias	0
+sugar	bacterial infection	0
+durum wheat	rectal tumor	0
+rubus idaeus	retained surgical item	0
+amomum cardamomum	breast fibrocystic change	0
+acer	stomach cancer	0
+not-necessarily-so-healthy foods	tongue neoplasms	0
+cannabis	inflammatory polyneuropathy acute	0
+tree nuts	block cancer	0
+almond milk	apneas	0
+carbonated drink	blindness	0
+citronella	hyperpigmentation	0
+diospyros digyna	pancreatic cancers	0
+international nut	familial tremors	0
+sweet orange	galactose 1 phosphate uridyltransferase deficiency	0
+poroporo	female sub fertility	0
+chewing fruit	focal seizures	0
+assai palms	endometrium cancer	0
+chamomile	galk deficiencies	0
+betel	infantile botulism	0
+worldwide fruit	tongue neoplasm	0
+low vitamin	barrett's syndrome	0
+popular fruits	chronic fatigue disorders	0
+silybum marianum	colitide	0
+mentha piperita	breast pain	0
+tumeric	gangrene	0
+nettle tea	renal calculus	0
+flax seed	cryptogenic epilepsy	0
+carob	neuralgic migraine	0
+spicy food	saccular aneurysm	0
+radicchio	darkness tremor	0
+citrus reticulata	pancreatic neoplasm	0
+soda waters	drug allergies	0
+almond tree	sprain	0
+higher vegetable	dental fluoroses	0
+brassica juncea	overeat	0
+golden raisins	benign neoplasms	0
+corn oils	androgenic alopecia	0
+diabetic diets	visual seizure	0
+family vegetables	diabetic mononeuropathy simplices	0
+triticum	diabetes complication	0
+organ	sleep initiation and maintenance disorders	0
+calendula officinalis	diffuse lymphocytic lymphoma	0
+apricot trees	hhv-4	0
+chinese food	gassers syndrome	0
+petroselinum crispum	degenerative neurologic disorders	0
+shorten	head injury	0
+vaccinium macrocarpon	udp-galactose-4-epimerase deficiencies	0
+fragaria vesca	lichen planus	0
+coffee	virus diseases	0
+wheat	colorectal cancers	0
+food colors	diverticulum	0
+dog rose	idiopathic parkinson's disease	0
+cold-steeping tea	infectious virus	0
+plum	hepatocellular cancers	0
+clathrotropis	zoonotic infections	0
+alpine strawberry	chronic b cell leukemia	0
+mangiferas	ductal carcinoma	0
+jasmine tea	primary fibromyalgia	0
+drinking milk	nbcc	0
+whole grain cereal	memory deficits	0
+offal	nevoid basal cell carcinoma syndrome	0
+sea vegetables	baldness	0
+salsa	gastric acid reflux disease	0
+spaghetti	acquired immunodeficiency syndrome	0
+seed	sick headaches	0
+taraxacum	pustular psoriasis of palms and soles	0
+white tea	diffuse undifferentiated lymphoma	0
+measuring food	substance induced organic mental disorders	0
+aspalathus	bse (bovine spongiform encephalopathy)	0
+whole grain	regional ileitides	0
+candy bar	vulva cancers	0
+shiitake mushroom	mastalgia	0
+pistil	crohn's disease	0
+food poisonings	dermatozoic delusions	0
+squashe	chronic airflow obstructions	0
+no meat	peanut allergy	0
+hot sauce	urinary tract infection	0
+mock meats	female sub-fertility	0
+soup	creutzfeldt-jakob syndrome	0
+saffron	lyssa	0
+persimmon	spindle-cell carcinomas	0
+saffron crocus	lymphatic sarcomas	0
+salmonella-infected eggs	deep-venous thrombosis	0
+preserved foods	utp hexose-1-phosphate uridylyltransferase deficiency	0
+rutabaga	deafness	0
+noni fruit	tumor viruses	0
+animal foods	chronic fatigue disorder	0
+cranberry sauce	radiating pain	0
+pie	autosomal recessive juvenile parkinson disease	0
+red yeast rice	cervix cancers	0
+glucose fructose syrup	proliferative bronchiolitides	0
+unrefined plant	esophagitis	0
+pistacia lentiscus	retained surgical tool	0
+andira	sick headaches	0
+callerya	acquired blindness	0
+pyrus	nephrolith	0
+curcuma zedoaria	tonic-clonic seizures	0
+marihuana	intestinal disease	0
+hibiscus tea	respiratory tract infection	0
+liquorice	urinary bladder disease	0
+onion	spondylitis ankylopoietica	0
+assai palm berries	xanthomatous meningiomas	0
+berberis	infant botulism	0
+proteus mirabilis	lens opacity	0
+nicotiana	parkinson disease	1
+black sapote	dermatosis	0
+malus	pharyngitis	0
+pimpinella	periodontal disease	0
+cassia	subtrochanteric fractures	0
+bean sprouts	cancer of brain	0
+justicia	galactokinase deficiency diseases	0
+smoked foods	limb tremor	0
+wort	ekbom dermatozoic delusions	0
+thymus	abdominal migraines	0
+drinking water	bone neoplasms	0
+taraxacum officinale	non hodgkins lymphoma	0
+acer saccharum	parasagittal meningioma	0
+healthiest apple	cervix neoplasm	0
+applesauce	low back aches	0
+prosopi	non-epileptic convulsion	0
+syzygium malaccense	thyroid disorders	0
+milk protein	avian leukosis/sarcoma virus	0
+ocimum basilicum	tonic-clonic seizures	0
+emphasizes vegetables	kidney insufficiency	0
+spice saffron	weight reductions	0
+laudable legume	superficial head injuries	0
+fed beef	aphthous stomatitides	0
+ready-to-eat meals	reversing chronic disease	0
+so-called vegetable	social phobias	0
+healthiest fruits	cephalgia syndromes	0
+triticum durum	unhealthy conditions	0
+food companies	heart block	0
+healthiest beverages	retro-ocular headaches	0
+tea plant	stomatognathic disease	0
+poenumgraecum	gallstone	0
+flammulina velutipes	steatosis of liver	0
+cayenne pepper	chronic cluster headache	0
+afzelia	udp-galactose-4-epimerase deficiency disease	0
+mother cell	cll lymphoplasmacytoid lymphoma	0
+psidium guajavas	bone fractures	0
+deli meat	rete testis tumor	0
+seville orange trees	human papillomavirus virus	0
+syzygium cumini	udp-galactose-4-epimerase deficiency diseases	0
+overpriced vitamin	diabetic retinopathy	0
+legume pod	gastric acid reflux disease	1
+human milk	toxic megacolon	0
+oats	galactose-1-phosphate uridyltransferase deficiencies	0
+dietary sugars	cluster headache syndromes	0
+marjoram plant	central obesity	0
+poultry product	degenerative neurologic disorders	0
+kawa kawas	chronic infectious mononucleosis-like syndrome	0
+brussel sprout	postpartum sterility	0
+incorporates cloves	joint pains	0
+drinking tea	fibromyalgia	0
+norus	pyrose	0
+red tea	botulism	0
+whole grain cereals	ciliary neuralgia	0
+flax seeds	tonic seizures	0
+diospyros digynas	disc degeneration	0
+organic milk	non-b hepatitis enterically-transmitted non-a	0
+broad beans	wheat hypersensitivity	0
+healthy food	intracranial cns disorders	0
+ranking foods	brittle diabetes mellitus	0
+crataegus	familial guillain-barre syndrome	0
+jambolan plum trees	human t-cell leukemia virus type iii	0
+citrus sinensis	ekbom delusory parasitoses	0
+food poisoning	eczematous dermatitides	0
+kava	somatosensory seizures	0
+raisin	radiating pains	0
+almond oil	tonsil neoplasms	0
+caryophyllus aromaticus	exudative bronchiolitis	0
+longevity legumes	kidney disease	0
+cayenne	sea sickness	0
+ananas	cardiovascular disease	0
+citrus medica	sick headaches	0
+bread	ekbom delusory parasitosis	0
+poisonous plant	tumorigenese	0
+dasheen	weight reductions	0
+leaf lettuce	utp hexose 1 phosphate uridylyltransferase deficiency	0
+brown sugar	thyroid carcinoma	0
+official vitamin	retained surgical items	0
+purslane	pancreas neoplasm	0
+low fruit	bacteriophage	0
+cashew	lyme arthritis	0
+snack	sciatic neuralgias	0
+true nut	cretinism	0
+ground flax	diffuse well-differentiated lymphocytic lymphoma	0
+soy beans	gasser's syndrome	0
+rabbit meat	cryptogenic epilepsies	0
+texturized vegetable proteins	insulin sensitivity	0
+foeniculum vulgares	chronic lymphatic leukemia	0
+good soybeans	substance induced organic mental disorders	0
+oat	generalized headaches	0
+carica papayas	vertiginous seizures	0
+syzygium aromaticum	semirhythmic tremor	0
+dietary soybean proteins	social phobias	0
+origanum vulgare	migraine disorder	0
+honey	tremor	0
+cacao bean	plasma cell myeloma	0
+chenopodium quinoas	crushing pain	0
+california avocado	fifth phacomatoses	0
+nutriceutical	primary brain neoplasms	0
+colocasia	widespread chronic pains	0
+chlorella	chronic cluster headaches	0
+oatmeal	diffuse undifferentiated lymphomas	0
+snack foods	drug use disorders	0
+marsh mallows	intracranial meningioma	0
+goji berry plant	mixed-cell lymphomas	0
+hamburger	amaurosis	0
+health food	senile paranoid dementia	0
+common bean plant	tongue neoplasms	0
+chinese cinnamon	melanoma	0
+sea vegetable	fight cancer	0
+trigonella	ovarian neoplasms	0
+bread mold	peripheral artery disease	0
+juglan	substance-induced organic mental disorders	0
+cider vinegar	sliding esophageal hernia	0
+trigonella foenum graecum	wound botulisms	0
+brewing tea	colorectal cancer	0
+sweet foods	cancer of the rectum	0
+regular carrots	anal ulcer	0
+processed apples	variant creutzfeldt jakob disease	0
+baby formula	acute infectious polyneuritis	0
+plant capsule	arthrose	0
+osmanthus tea	diabetic neuropathies	0
+banana plant	brain diseases	0
+eupatorium rebaudianums	benign neoplasm	0
+morning meals	focal seizures	0
+mentha spicata	postoperative nausea	0
+toxic plants	newborn gynecomastia	0
+pease	fibrous meningiomas	0
+pleurotus ostreatus	ciguatera	0
+indian gooseberry	gustatory seizure	0
+cassia fistula	kidney cancer	0
+sweetening agent	bleed	0
+cocoa plants	olfactory seizure	0
+wild radish	malignant epithelial tumor	0
+roughage	familial dementia	0
+tepary beans	retained surgical needle	0
+refined olive	bovine leukemia	0
+rose berries	breast carcinomas	0
+thymus plants	dizziness	0
+soya milk	drug habituation	0
+amomum cardamomums	apoplexy	0
+favorite meals	bovine spongiform encephalopathy	0
+antioxidant foods	low-grade lymphomas	0
+celeriac	manic depressive psychosis	0
+unfiltered coffee	cephalodynia	0
+baby spinach	disc degenerations	0
+tobacco	age-related memory disorders	0
+baker's yeast	lou-gehrigs disease	0
+cardamom	senile osteoporoses	0
+adhatoda vasica	creutzfeldt-jakob syndrome	0
+java plum trees	infectious mononucleosis virus	0
+decaffeinated tea	parkinsonian syndromes	0
+solanum tuberosums	headache syndromes	0
+black currant	inflammatory polyneuropathy acutes	0
+drug administration united states food	brain neoplasm	0
+greenery	cancer of the kidney	0
+mushroom	sleep-related neurogenic tachypneas	0
+horse nettles	royal free disease	0
+fresh basil	venereal wart	0
+consumer protection scientific committee on food	esophageal cancers	0
+coconut	female subfertility	0
+specific nuts	lead poisoning	0
+chinook salmon	new variant creutzfeldt-jakob disease	0
+prunus domestica	exanthem	0
+kiwi fruit	leukemia	0
+collard	substance use disorder	0
+holy basil tea	basal cell epitheliomas	0
+cacao	norovirus	0
+anise seed	hyperphagia	0
+fat milk	hemicrania migraines	0
+marshmallow	infant botulisms	0
+flounder	left sided heart failure	0
+oolong tea	gall bladder disease	0
+lemon balm tea	pustulosis palmaris et plantaris	0
+dietary plant proteins	testicular cancers	0
+chewed coca	cow disease	0
+ceratonia	low grade lymphoma	0
+wheatgrass	limb cramps	0
+white rice	bowel diseases	0
+citrullus	memory disorders	0
+green tea	burkitt herpesvirus	0
+jalapeno	nevoid basal cell carcinoma syndrome	0
+bitter nightshade	benign essential tremors	0
+teosinte	ankylosing spondyloarthritis	0
+citrus x paradisi	hypoxemia	0
+morel	basal cell epitheliomas	0
+syrup	cervical cancer	0
+tarragon	colorectal tumor	0
+rubus	cancer of testis	0
+kola nuts	familial creutzfeldt-jakob disease	0
+undercooked meat	mucous colitis	0
+plant embryo	human papillomavirus virus	0
+century plants	pustulosis of palms and soles	0
+deep-fry foods	mixed lymphocytic histiocytic lymphoma	0
+sweetened cereal	chronic lymphoblastic leukemias	0
+hickory trees	diabetes-related complication	0
+earl grey tea	retinitis	0
+cuminum cyminums	uterine neoplasm	0
+ketchup	carcinoma of endometrium	0
+rowanberry	ph1-negative myelogenous leukemia	0
+delonix	common bile duct calculi	0
+gluten	tonic clonic seizures	0
+hydroponic basil	sudden infant death	0
+chervil	involutional osteoporosis	0
+horsebean	feline lymphoma viruses	0
+candy bars	benign brain neoplasms	0
+cocoa powder	substance abuses	0
+althaea	meningotheliomatous meningiomas	0
+linseed	cognitive impairments	0
+cannabis sativa	memory deficit	0
+molasse	migraine headaches	0
+raspberry	endothelial dysfunction	0
+acai berries	peripheral artery diseases	0
+pimenta diocia	lens opacity	0
+mesquite	cardiac diseases	0
+fresh fruits	viral infection	0
+juglans regia	chronic fatigue-fibromyalgia syndromes	0
+fagopyrum	cluster headache syndrome	0
+soft drinks	diabetic neuralgia	0
+linum	horton's syndrome	0
+caryophyllus	virus infection	0
+poppy	diffuse small cleaved-cell lymphoma	0
+nitrate-rich vegetables	reactive confusion	0
+licorice root	hair loss	0
+sunchoke	ph1 negative myeloid leukemia	0
+frozen spinach	relapse	0
+century plant	auriculo ventricular dissociation	0
+thousand foods	aortic aneurysms	0
+sugar substitutes	nerve tremor	0
+safflower oils	bipolar affective psychoses	0
+carbonated water	cancer of cervix	0
+watermelon	food-borne illnesses	0
+white mallows	olfaction disorder	0
+lucerne	felv	0
+ribe	baldness	0
+energy drinks	catarrh	0
+butternut squash	viral diseases	0
+fries	syncopal vertigo	0
+acai berry	strain	0
+dangerous plants	ph1-negative myeloid leukemia	0
+acid-binding vegetables	senile osteoporoses	0
+sea bilberry	congenital abnormalities	0
+mirobalanus embilica	uterine cervical cancers	0
+salt-free diet	cot deaths	0
+solanum lycopersicum	experimental parkinsonism	0
+alfalfa sprout	disrupted in b-cell malignancy	0
+peanut	osteoarthrosis	0
+lavandula angustifolia	bovine lymphoma	0
+vegetable oil	seizure	0
+ready prepared foods	thrombosis	0
+leguminosae	diffuse lymphoma	0
+rice milk	head injuries	0
+citrus fruit	kanner syndrome	0
+fast food	udpglucose hexose-1-phosphate uridylyltransferase deficiency	0
+seltzer waters	clonic seizure	0
+trigonella foenum-graecums	uterine cancers	0
+star anises	megacolon	0
+kombucha tea	confusional state	0
+cicer arietinum	endometriose	0
+pickled vegetables	central nervous system intracranial disorders	0
+component spices	cancer of the brain	0
+garbanzo	tonic-clonic seizures	0
+green pepper	viral hepatitis	0
+common olive trees	ischemia	1
+haritaki fruit	ciliary body spasm	0
+amygdalus communis	headache	0
+wild bananas	lactose malabsorption	0
+citrus hystrix	tonic-clonic seizures	0
+hot peppers	reticulolymphosarcoma	0
+soymilk	thyroid cancer	0
+purple rice	splitting pains	0
+cilantro	brief reactive psychoses	0
+macadamia	thyroid carcinoma	0
+processed food	familial guillain-barre syndrome	0
+prenatal vitamins	autosomal recessive parkinsonism	0
+brown rice	massive tremors	0
+crab apple	salmonella infection	0
+emblica officinali	prostatic cancer	0
+healthy snack	chronic b-lymphocytic leukemias	0
+cherry plum tree	dental fluorosis	0
+piper nigrum	udpglucose hexose-1-phosphate uridylyltransferase deficiency	0
+coriandrum sativum	parasagittal meningiomas	0
+rubberplant	water-borne hepatitides	0
+flower	small noncleaved-cell lymphoma	0
+chicken	aphthae	0
+ficus	posterior fossa meningioma	0
+pepper	age-related osteoporosis	0
+chocolate	central obesities	0
+sunflower seeds	aids viruses	0
+cinnamon	temporal region traumas	0
+roasted almonds	lung inflammation	0
+decrease meat	cancer of the uterus	0
+low-fat diet	bacteria-eating viruses	0
+celebration meal	pulmonary neoplasm	0
+grape	adenovirus	0
+red meats	neoplasm metastases	1
+pasta	diverticulum	0
+citrus grandi	prostatic cancers	0
+oregano	nonalcoholic fatty liver disease	0
+national meat	celiac sprue	0
+weekly meat	e-b viruses	0
+dairy yogurt	infectious mononucleosis viruses	0
+brazil nut tree	hansen disease	0
+flaxseed	deep-vein thromboses	0
+vaccinium virgatum	atheromatous plaques	0
+corn sugar	vertex headaches	0
+watercress	small lymphocytic lymphoma	0
+red meat	body weight	0
+cucumis melo	non-hodgkin's lymphoma	0
+sausage	malignant primary brain neoplasms	0
+confection	seizure disorder	0
+java plum tree	myelopathy	0
+edible grains	parkinson's disease	0
+solanum melongena	brain conditions	0
+papaya	felv	0
+cleistocalyx	microcystic meningioma	0
+octopus	abdominal pains	0
+soy food	manic depressive psychosis	0
+apple juice	mental disorders	0
+table salt	acute myeloid leukemia	0
+healthy fruit	occipital traumas	0
+nutraceutical	dermatozoic delusions	0
+allium cepa	lung diseases	0
+woodland strawberry	exudative bronchiolitis	0
+milkshake	somatotropin hypersecretion (acromegaly) syndrome	0
+french bean plants	frontal region trauma	0
+irritable bowel kiwi fruit	varicose vein	0
+anticancer plant	throbbing headaches	0
+vaccinium angustifolium	pulmonary disease	0
+high fructose corn syrup	barrett epithelium	0
+iv vitamin	colorectal neoplasm	0
+rooibo	leukemia virus	0
+saint johnswort	disc degenerations	0
+fagopyrum esculentum	malignant primary brain tumors	0
+carrot	substance use disorders	0
+vegetable juice	intervertebral disc degeneration	0
+cicer	catarrh	0
+contamination meat	pulmonary disease	0
+black beans	benign meningiomas	0
+healthy snacks	chronic obstructive airway disease	0
+flavoring	vaginal cancer	0
+feather meal	inflammatory polyneuropathy acutes	0
+lycium chinense	transient blindness	0
+chicken meat	painful menstruations	0
+wild yams	meningiomatosis	0
+stevia rebaudianas	type 1 diabetes	0
+elephant garlic	jacksonian seizure	0
+recommend tea	continuous tremors	0
+sauerkraut	dental fluorosis	0
+handling food	liver steatoses	0
+plant-based foods	male sexual impotence	0
+fatty meal	pruritus	0
+eugenia jambolana	memory deficits	0
+dietary supplementations	birth weight	0
+paprika	vertebrogenic pain syndrome	0
+consumed chocolate	amyotrophic lateral sclerosis parkinsonism dementia complex 1	0
+cultivated oats	gorlin goltz syndrome	0
+ovary	cancer of vagina	0
+hemlock	sick headaches	0
+reindeer meat	udp-galactose-4-epimerase deficiencies	0
+grapefruit juice	muscle spasm	0
+glycyrrhiza	galactose epimerase deficiency	0
+vegetarianism	cretinism	0
+pithecellobium	insulin-dependent diabetes mellitus 1	0
+baby carrots	gall bladder diseases	0
+olive oil	impaired sensation	0
+syzygium jambolanum	lung disorders	0
+cumin	esophageal reflux	0
+leek	cholera	0
+smoked food	sliding esophageal hernias	0
+lemon balm	poultry viruses	0
+retail meat	throat cancer	0
+rheum tanguticum	pulmonary inflammations	0
+plaice	anxiety neuroses	0
+cantaloupe	chromosome 6 linked autosomal recessive parkinsonism	0
+miso	inflammatory disease	0
+white pepper	cervix neoplasm	0
+four nuts	proliferative bronchiolitis	0
+paella	minor head injury	0
+texturized soy proteins	angioblastic meningioma	0
+acacia tree	short sleep phenotypes	0
+poultry	malignant epithelial tumor	0
+cymbopogon nardus	hypoesthesia	0
+hawthorn	torsion fracture	0
+kombucha teas	lou gehrig's disease	0
+dress	primary malignant brain neoplasms	0
+low-sodium diet	post-ictal confusion	0
+portulaca oleraceas	rest tremor	0
+garlic sauce	oncornavirus	0
+sweet basils	voice box cancer	0
+digitalis	sphenoid wing meningiomas	0
+indian corn	autosomal dominant juvenile parkinsonism	0
+nonfat meal	orthostasis	0
+color	bacteria-eating viruses	0
+mussel	nbcc	0
+prunus salicinas	hemicrania migraines	0
+milk chocolate	food-borne disease	0
+ganja	hansen's disease	0
+lens plants	lung diseases	0
+egg	weight gains	0
+morinda	burning pain	0
+whole foods	acquired immunodeficiency syndrome virus	0
+domestic fowl	encephalon disease	0
+reason food	mixed lymphocytic histiocytic lymphoma	0
+diospyro	colonic inertia	0
+animal-based foods	inflammatory bowel diseases	0
+corn syrup	gastric cancers	0
+celery root	thyroid neoplasm	0
+buckwheat	osteoarthrosis	0
+catfish	premenstrual tensions	0
+soy cheese	exanthema	0
+willow tree	gastroenteritide	0
+usda poultry	renal calculus	0
+chard	diverticulitide	0
+espresso	temporal region trauma	0
+cannabis indicas	benign essential tremors	0
+euterpe precatoria	peripheral artery diseases	0
+hummus	gustatory seizure	0
+big meals	verruca	0
+tea leaves	sneezing	0
+horse nettle	mixed lymphomas	0
+common plant	mixed-cell lymphomas	0
+broccoli raab	alopecia	0
+liquor	mottled enamels	0
+butter	lung neoplasms	0
+vital nutrients	senile paranoid dementias	0
+green teas	anthrax	0
+garcinia mangostanas	myocardial infarct	0
+dietary plant protein	diabetic neuropathy	0
+saint john wort	bladder cancer	0
+bt corn	diffuse lymphomas	0
+dried cranberries	hypesthesia	0
+flammulina	venereal warts	0
+purple grape	rest tremors	0
+foeniculum vulgare	chronic lymphoblastic leukemias	0
+alcohol	hiv	0
+areca	acquired blindness	0
+high-fructose maize syrup	body weight	0
+ready soybeans	dental disease	0
+raw tomatoes	galt deficiencies	0
+food coloring	impotence	0
+processed meats	mental deterioration	0
+turmeric root	dermatozoic delusion	0
+citrus paradisi	eczema	0
+added sweeteners	infection	0
+soy bean curds	spinal cord disorder	0
+marsh mallow	atrioventricular dissociations	0
+atropa belladonnas	aids virus	0
+pumpkin seeds	cervical neoplasms	0
+poppy seeds	hemicrania migraine	0
+experience food	familial diffuse gastric cancer	0
+monosodium glutamate	central obesities	0
+prunus cerasifera	genital warts	0
+sweet marjoram	retained surgical instrument	0
+cured meats	ciguatera poisonings	0
+study lavender	frontal region trauma	0
+emblica officinalis	iritis	0
+durum wheats	hydrophobia	0
+daily fruit	myocardial failure	0
+phyllanthus emblicas	crushing pains	0
+squid	animal viruses	0
+carduus marianus	menstrual pains	0
+sticker	cardiovascular disease	0
+faba beans	burning pain	0
+shan yaos	cancer of the skin	0
+cola nitida	nausea	0
+oxen meat	infantile colic	0
+pomegranate seeds	cancer of the lung	0
+cabbage	mild neurocognitive disorders	0
+food additive	thyroid disease	0
+japanese plums	muscle cramp	0
+areca catechu	chest pains	0
+kohlrabi	tonsil cancers	0
+red rice	reticulosarcoma	0
+pistacia vera	pneumonia	0
+kenaf	adenomatous polyp	0
+mangifera indica	brain malignant neoplasms	0
+coleslaw	chronic b lymphocytic leukemia	0
+include apples	type c oncoviruses	0
+grapefruit	effort syncope	0
+weed	psychophysiological insomnia	0
+fava bean	recurrence	0
+garden radish	charcot disease	0
+daucus carota	lewy body parkinson disease	0
+bolete	diabetic retinopathies	0
+justicia adhatoda	rachitis	0
+mackerel	breast malignant tumor	0
+prettiest fruit	uterine neoplasms	0
+contaminated foods	ulcerative colitis type inflammatory bowel disease	0
+crave chocolate	impaired sensations	0
+jalapeno peppers	gnathostomiase	0
+rosemary	severe congenital microcephalies	0
+ilex paraguariensis	mixed lymphocytic-histiocytic lymphoma	0
+dragon fruit	urinary bladder neoplasms	0
+hickory nut	heart diseases	0
+brewed coffee	fights cancer	0
+oregano plant	oral cancer	0
+triticum turgidum	hemangiopericytic meningiomas	0
+foodstuff	headache disorder	0
+avocado fruit	hansens disease	0
+blueberry plants	membranous cataract	0
+pimenta diocias	uterus neoplasm	0
+swiss chard	dissociative amnesias	0
+rise	complete hearing loss	0
+tisane	chronic lymphoblastic leukemias	0
+poppy seed	kanner syndrome	0
+elettaria cardamomum	emesis	0
+thyme	cerebrovascular accident	0
+actual fruit	esophageal neoplasm	0
+black currants	neurologic degenerative diseases	0
+placenta	radiating pains	1
+include fennel	cancer-causing herpesvirus	0
+arachis hypogaea	chronic headache	0
+healthiest foods	bladder cancers	0
+citrus aurantiifolias	head pain	0
+vegetable protein	hernia	0
+daily nut	upper respiratory tract infections	0
+avena	rectum neoplasm	0
+term vegetable	brain disorders	0
+agaricaceae	bronchiolitis	0
+beetroot	gastric acid reflux	0
+hickory tree	milk sugar intolerance	0
+chestnut	sarcopenia	0
+fresh ginger	ankylosing spondylarthritides	0
+croaker	myocardial ischemias	0
+eragrostis	endotoxemia	0
+sugar-sweetened beverages	spinal meningioma	0
+beet greens	parkinsonism-dementia complex of guam amyotrophic lateral sclerosis	0
+fig	skin neoplasms	0
+lunch times	lower back pains	0
+commercial milk	carotid sinus syncope	0
+cow's milk	udp-galactose-4-epimerase deficiencies	0
+pimpinella anisum	male breast tumors	0
+crabapple	hyperventilation syncope	0
+pea	bladder cancers	0
+açaí berry	spongiform encephalopathies	0
+largest meal	nephrolith	0
+pomegranate	memory disorder	0
+toronja	infectious virus	0
+eating nuts	pulmonary neoplasms	0
+bitter orange tree	diffuse lymphocytic lymphoma	0
+cola	acne	0
+peppermint oil	atherogenesis	0
+topical ginger	high cholesterol levels	0
+cucumber	male impotence	0
+plantago indica	disorder	0
+plantago seed	necrotizing fasciitis	0
+indian laburnum	thyroid disease	0
+psidium	age-related maculopathy	0
+cuminum	auriculo-ventricular dissociation	0
+quinoa	cervical cancer	0
+vicia faba	childhood obesity	0
+thymus plant	diabetic neuralgias	0
+collard greens	convulsive seizure	0
+ready-prepared foods	dysmenorrhea	0
+zedoary zedoarias	preterm births	0
+sugar substitute	renal neoplasms	0
+anacardium	block cancer	0
+butter milk	epithelioma	0
+secale	renal neoplasm	0
+cucumis melos	parkinson's disease	0
+gravy	congenital abnormality	0
+drink tea	dental fluoroses	0
+arugula	senile plaques	0
+acer negundo	laron syndrome	0
+pudding	lens opacities	0
+shiitake	age related maculopathies	0
+ground meat	inflammatory disease	0
+soda pops	human mammary neoplasms	0
+uncooked foods	nafld	0
+raphanus	creutzfeldt jakob syndrome	0
+raw food	polyp	0
+rheum rhaponticum	nonalcoholic fatty livers	0
+cranberry juice	seizure disorder	0
+tuna	glaucoma	0
+punica granatum	olfaction disorders	0
+norovirus food	cancer of the stomach	0
+solanum dulcamaras	pernicious vomiting of pregnancy	0
+brain-invasive pork	cephalalgia	0
+fuji apples	occipital region trauma	0
+red delicious apples	intention tremors	0
+drinking orange	sciatic neuralgia	0
+chili	pulmonary neoplasms	0
+pine nuts	chronic infectious mononucleosis-like syndrome	0
+bacon	dental diseases	0
+raw foods	multiple meningiomas	0
+humulus lupulus	high cholesterol levels	0
+crocus sativus	study cancer	0
+peach trees	cancer of the colon	0
+prosopis	lymphadenopathy associated virus	0
+beet	dims (disorders of initiating and maintaining sleep)	0
+soy proteins	gastric acid reflux disease	0

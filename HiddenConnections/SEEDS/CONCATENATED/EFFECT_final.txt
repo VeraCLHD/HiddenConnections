@@ -11,7 +11,6 @@ tomatoes	platelet	lowered	EFFECT
 tomatoes	platelet activation	lowered	EFFECT
 fiber	blood pressure	lowered	EFFECT
 plant-based diets	symptoms	reduced	EFFECT
-diet	asthma	reduced	EFFECT
 brown rice	diabetes	reduced	EFFECT
 brown rice	diabetes risk	reduced	EFFECT
 phytonutrients	dna damage	reduced	EFFECT
@@ -22,7 +21,6 @@ beef	cholesterol	lowers	EFFECT
 milk	uric acid	lowers	EFFECT
 eating eggs	cholesterol levels	lowers	EFFECT
 eating nuts	ldl	lowers	EFFECT
-intake	ldl-cholesterol	lowers	EFFECT
 eggs	cholesterol	lowers	EFFECT
 fiber	cholesterol	lowers	EFFECT
 nuts	ldl	lowers	EFFECT
@@ -39,7 +37,6 @@ beef	cholesterol	lowers	EFFECT
 milk	uric acid	lowers	EFFECT
 eating eggs	cholesterol levels	lowers	EFFECT
 eating nuts	ldl	lowers	EFFECT
-intake	ldl-cholesterol	lowers	EFFECT
 eggs	cholesterol	lowers	EFFECT
 fiber	cholesterol	lowers	EFFECT
 nuts	ldl	lowers	EFFECT
@@ -75,7 +72,6 @@ tomatoes	platelet activation	lowered	EFFECT
 fiber	blood pressure	lowered	EFFECT
 phytates	cancer cells	help block the ability of	EFFECT
 plant-based diets	symptoms	reduced	EFFECT
-diet	asthma	reduced	EFFECT
 brown rice	diabetes	reduced	EFFECT
 brown rice	diabetes risk	reduced	EFFECT
 phytonutrients	dna damage	reduced	EFFECT
@@ -170,7 +166,6 @@ platelet	tomatoes	lowered	EFFECT-I
 platelet activation	tomatoes	lowered	EFFECT-I
 blood pressure	fiber	lowered	EFFECT-I
 symptoms	plant-based diets	reduced	EFFECT-I
-asthma	diet	reduced	EFFECT-I
 diabetes	brown rice	reduced	EFFECT-I
 diabetes risk	brown rice	reduced	EFFECT-I
 dna damage	phytonutrients	reduced	EFFECT-I
@@ -181,7 +176,6 @@ cholesterol	beef	lowers	EFFECT-I
 uric acid	milk	lowers	EFFECT-I
 cholesterol levels	eating eggs	lowers	EFFECT-I
 ldl	eating nuts	lowers	EFFECT-I
-ldl-cholesterol	intake	lowers	EFFECT-I
 cholesterol	eggs	lowers	EFFECT-I
 cholesterol	fiber	lowers	EFFECT-I
 ldl	nuts	lowers	EFFECT-I
@@ -198,7 +192,6 @@ cholesterol	beef	lowers	EFFECT-I
 uric acid	milk	lowers	EFFECT-I
 cholesterol levels	eating eggs	lowers	EFFECT-I
 ldl	eating nuts	lowers	EFFECT-I
-ldl-cholesterol	intake	lowers	EFFECT-I
 cholesterol	eggs	lowers	EFFECT-I
 cholesterol	fiber	lowers	EFFECT-I
 ldl	nuts	lowers	EFFECT-I
@@ -234,7 +227,6 @@ platelet activation	tomatoes	lowered	EFFECT-I
 blood pressure	fiber	lowered	EFFECT-I
 cancer cells	phytates	help block the ability of	EFFECT-I
 symptoms	plant-based diets	reduced	EFFECT-I
-asthma	diet	reduced	EFFECT-I
 diabetes	brown rice	reduced	EFFECT-I
 diabetes risk	brown rice	reduced	EFFECT-I
 dna damage	phytonutrients	reduced	EFFECT-I

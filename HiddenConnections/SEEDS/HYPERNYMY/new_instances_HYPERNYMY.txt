@@ -1,156 +1,123 @@
 
 neurotoxin	meat consumption
 vegetables	bok choy
+diet	heart-healthy
+heart disease	choice
 beet juice	nitrate
 daily diet	vegetarian
 saturated fat	beef
 sorbitol	sugar
+smoke	fat soluble
 diverticulosis	disease
+baking soda	sodium bicarbonate
 vegetarians	iodine
+tea	fine
 multiple sclerosis	beta
 american diet	meat
+american diet	dairy products
+balsamic vinegar	product
 diseases	heart disease
 leading killer	parkinson
 galactose	milk
-who	leaner
+brain	fat
 drug	aspirin
 infants	breastmilk
-rose hips	fruits
-bone	eaten
-herbal teas	fine
-caldwell esselstyn	practitioner pioneer
-cancer	insulin-like growth
-fluoride	poison
-salmonella	poultry
-ham	pork
-colon	butyrate
-greens	fat soluble
-nutrition	diet
-milk	muscles
-who	insulin
-kids	muscles
-nuts	health-promoting
-cortisol	stress hormone
-vegetable	bell peppers
-workers	diseases
-death	choline
-casein	milk protein
-maspin	tumor suppressor gene
-fruits	eaten
-pcbs	fish consumption
-breast cancer survival	flax seeds
-table sugar	fructose
-supplements	supplement
-saturated fat	cheese
-odds	label
-sweet potatoes	health-promoting
-disability	diet
-plant-based diets	beta
-gmo soy	gmo
-calorie	junk
-greens	health-promoting
-neurotoxins	bmaa
-vegetables	potato chips
-teens	pizza
-longevity	legumes
-breast tumors	estrogen receptor
-rhubarb	roots
-chickens	fatty
-antioxidants	dandelion
-who	pritikin
-atherosclerosis	disease
-fruit juice	fiber
-grains	seeds
-anthocyanins	pigments
-omega	bioequivalent
-infection	hen
-mediterranean diet	diet high
-diet	vegetables
-who	lactose
-streak	baby
-pecans	chart
-herbal tea	hibiscus
-candy	phytonutrient-rich
-who	happier
-babies	breast fed
-snacks	fruit
-gluten	fine
-raw	bell peppers
-scurvy	vitamin c
-exercise	stress
-exercise	medicine
-berries	stars
-culture	turmeric
-specialty	lifestyle medicine
-diet	heart-healthy
-heart disease	choice
-estrogens	milk
-smoke	fat soluble
-baking soda	sodium bicarbonate
-tea	fine
-american diet	dairy products
-balsamic vinegar	product
-brain	fat
 tomatoes	water
 osteoarthritis	degenerative joint
+rose hips	fruits
 omega	flax seeds
 drink	tea
+bone	eaten
+herbal teas	fine
 tea	matcha
 abdominal aortic aneurysms	ballooning bulges
 antioxidants	plant
 milk	skim milk
+cancer	insulin-like growth
 antioxidants	boiling
+fluoride	poison
 birds	chemicals
 gluten sensitivity	disease
+ham	pork
 stones	calcium
-diverticulosis	fiber
-symptoms	heartburn
+colon	butyrate
+greens	fat soluble
+nutrition	diet
+who	insulin
 salad	fat soluble
+kids	muscles
 odds	suffering
 salmon	fish consumption
 diet	acid producing
-signal	igf
+nuts	health-promoting
+cortisol	stress hormone
+vegetable	bell peppers
+death	choline
 fruit	fine
 dietary guidelines	fine
+casein	milk protein
 peas	roots
+maspin	tumor suppressor gene
 flight	apple juice
+fruits	eaten
 citrus fruits	acidic
-plant protein	protein
+pcbs	fish consumption
+table sugar	fructose
+supplements	supplement
 fiber	potassium
-disease	exercise
 nitrites	preservatives
 label	lying
+odds	label
+sweet potatoes	health-promoting
+disability	diet
+plant-based diets	beta
 putrescine	chemical
 infants	fatter
-campylobacter	poultry
+calorie	junk
+greens	health-promoting
 tomatoes	billion dollar
-taking statins	suffering
 strokes	killer
 lutein	carotenoid phytonutrient
 heart	beating
+vegetables	potato chips
+teens	pizza
 signal	butyrate
+breast tumors	estrogen receptor
 nettle tea	mineral
-pesticides	fruits
+rhubarb	roots
+antioxidants	dandelion
 mediterranean diet	sodium intake
+who	pritikin
+atherosclerosis	disease
 salicylic acid	defense
 beans	fruit
 mushrooms	vitamin d
 milk	trigger
-tea	beans
+fruit juice	fiber
+grains	seeds
 garbanzo bean	legume
+anthocyanins	pigments
 drugs	exposures
-supplements	bit
 vision loss	cataracts
+diet	vegetables
 liver cancer	diseases
 diverticula	outpouchings
 green leafies	roots
-cells	dying
 dietary supplements	multibillion
+streak	baby
 urine	acidic
+pecans	chart
 floppy ears	cute
+herbal tea	hibiscus
+candy	phytonutrient-rich
+babies	breast fed
+snacks	fruit
+gluten	fine
 healthiest nuts	pecans
-coffee	beans
+raw	bell peppers
 breastfed infants	diet
-fruits	roots
-osteoarthritis	rose hips
+exercise	stress
 phytonutrients	fat soluble
+exercise	medicine
+berries	stars
+specialty	lifestyle medicine

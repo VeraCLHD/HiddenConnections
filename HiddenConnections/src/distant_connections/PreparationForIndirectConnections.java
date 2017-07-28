@@ -371,12 +371,12 @@ public class PreparationForIndirectConnections {
 	public static void main(String[] args) throws MalformedURLException, IOException {
 		PostProcessingSeeds.fitSeedsToAdjustedTerms();
 		
-		/*Bootstrapper.readAllTerms();
+		Bootstrapper.readAllTerms();
 		List<String> types = new ArrayList<String>();
+		types.add("HYPERNYMY");
+		types.add("IS-A");
 		types.add("PART-OF");
 		types.add("PART-OF-I");
-		types.add("IS-A");
-		types.add("HYPERNYMY");
 		types.add("CAUSED-BY");
 		types.add("CAUSE");
 		types.add("EFFECT");
@@ -385,7 +385,7 @@ public class PreparationForIndirectConnections {
 		for(String type: types){
 			Bootstrapper.runForEachRelation(type, 100);
 			System.out.println("Ready with " + type);
-		}*/
+		}
 		
 		PostProcessingSeeds.reWriteAllInstancesAndPatternsPostBootstrapping();
 		

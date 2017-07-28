@@ -16,7 +16,6 @@ insulin resistance	sucralose	causes	CAUSED-BY
 insulin	sucralose	causes	CAUSED-BY
 cancer	cigarette smoking	causes	CAUSED-BY
 dna mutations	liquid smoke	causes	CAUSED-BY
-guidelines	who	creates	CAUSED-BY
 free radicals	exercise	creates	CAUSED-BY
 heterocyclic amines	fish	creates	CAUSED-BY
 acne	milk	cause	CAUSED-BY
@@ -87,7 +86,6 @@ cancer	animal protein	triggers the release of the	CAUSED-BY
 prediabetes	insulin resistance	is what causes	CAUSED-BY
 depression	folate	led to	CAUSED-BY
 brain tumors	x-rays	caused the	CAUSED-BY
-guidelines	who	creates	CAUSED-BY
 free radicals	exercise	creates	CAUSED-BY
 heterocyclic amines	fish	creates	CAUSED-BY
 inflammation	eggs	thought to cause	CAUSED-BY

@@ -74,13 +74,13 @@ blood pressures	blood pressures,	INTERMEDIARY_CONCEPT
 cold-steeping tea	cold-steeping tea,	FOOD
 ovary cancers	ovarian neoplasms,ovary cancer,ovary cancers,cancer of the ovary,cancer of ovary,ovarian cancer,ovarian cancers,ovarian neoplasm,ovary neoplasms,ovary neoplasm,	DISEASE
 autosomal recessive parkinsonism	parkinsonism,chromosome 6-linked autosomal recessive parkinsonism,mptp-induced experimental parkinsonism,parkinsonian disorders,familial parkinson disease,autosomal recessive familial parkinson disease,chromosome 6 linked autosomal recessive parkinsonism,experimental parkinson diseases,parkinsonian diseases,autosomal recessive juvenile parkinson disease 2,parkinsonian syndromes,autosomal recessive juvenile parkinson disease,juvenile parkinson disease,autosomal recessive juvenile parkinsonism,experimental parkinson disease,juvenile parkinsonisms,autosomal dominant. juvenile parkinson disease,juvenile parkinsonism,autosomal dominant juvenile parkinsonism,parkinsonian syndrome,experimental parkinsonisms,autosomal recessive parkinsonism,parkinson disease 2,familial juvenile parkinsonism,early onset parkinson disease autosomal recessive,autosomal dominant parkinsonism,early-onset parkinsonism,autosomal dominant juvenile parkinson disease,mptp induced experimental parkinsonism,early onset parkinsonism,experimental parkinsonism,ramsay hunt paralysis syndrome,autosomal recesssive juvenile parkinsonism,	DISEASE
-leukemia virus	leukemia virus,	INTERMEDIARY_CONCEPT
+leukemia virus	leukemia virus,	DISEASE
 department of agriculture	department of agriculture,	INTERMEDIARY_CONCEPT
 constrictive bronchiolitis	constrictive bronchiolitis,proliferative bronchiolitis,constrictive bronchiolitides,bronchiolitis obliterans,proliferative bronchiolitides,exudative bronchiolitides,exudative bronchiolitis,	DISEASE
 pyrosis	pyroses,pyrosis,heartburn,	DISEASE
 blood vessel	blood vessel,blood vessels,	INTERMEDIARY_CONCEPT
 carophyll red	carophyll red,canthaxanthine,roxanthin red 10,food orange 8,c.i. 40850,canthaxanthin,orobronze,	INTERMEDIARY_CONCEPT
-reticuloendotheliosis viruses	reticuloendotheliosis viruses,	INTERMEDIARY_CONCEPT
+reticuloendotheliosis viruses	reticuloendotheliosis viruses,	DISEASE
 isoglucose	glucose-fructose syrup,corn sugar,high fructose corn syrup,high fructose maize syrup,isoglucose,high-fructose maize syrup,maize syrup,glucose fructose syrup,	FOOD
 yellow pigment	yellow pigment,	INTERMEDIARY_CONCEPT
 food additive	food additive,food additives,	FOOD
@@ -1586,7 +1586,7 @@ sensory seizure	focal seizures,visual seizures,focal seizure,olfactory seizure,t
 gastroenterology	hepatology,gastroenterology,	INTERMEDIARY_CONCEPT
 fry	frying,fry,	INTERMEDIARY_CONCEPT
 iu	iu,	INTERMEDIARY_CONCEPT
-dripped virus	dripped virus,	INTERMEDIARY_CONCEPT
+dripped virus	dripped virus,	DISEASE
 criminus	crimini,criminus,	INTERMEDIARY_CONCEPT
 inflammatory bowel disease	inflammatory bowel diseases,inflammatory bowel disease,	DISEASE
 new paleo	new paleo,	INTERMEDIARY_CONCEPT
@@ -3744,7 +3744,6 @@ metastatic potential	metastatic potential,	INTERMEDIARY_CONCEPT
 national pork board	national pork board,	INTERMEDIARY_CONCEPT
 dietary carotenoids	dietary carotenoids,	INTERMEDIARY_CONCEPT
 cherry plum tree	plum,prunus cerasifera,plums,cherry plum trees,prunus salicina,prunus salicinas,prunus domestica,plum tree,cherry plum tree,plum trees,japanese plum,japanese plums,	FOOD
-st. johnswort	st. johns wort,saint john's wort,st. john's wort,hypericums,hypericum perforatums,hypericum,saint johns wort,st. johnswort,saint john wort,hypericum perforatum,st. john wort,saint johnswort,	FOOD
 ovarian function	ovarian function,	INTERMEDIARY_CONCEPT
 oxidisation	oxidisation,	INTERMEDIARY_CONCEPT
 cerebrovascular accidents	cerebrovascular apoplexy,strokes,acute cerebrovascular accidents,cerebrovascular strokes,stroke,cerebrovascular accident,cerebrovascular stroke,cerebral strokes,cerebrovascular accidents,acute stroke,acute cerebrovascular accident,cva (cerebrovascular accident),apoplexy,brain vascular accident,cvas (cerebrovascular accident),acute strokes,cerebral stroke,brain vascular accidents,	DISEASE
@@ -4143,7 +4142,6 @@ ster zac bath concentrate	4 2-hydroxy-2',sapoderm,4 2,irgasan dp 300,oxy skin wa
 frozen cranberries	frozen cranberries,	FOOD
 latest update	latest update,	INTERMEDIARY_CONCEPT
 functioning immune	functioning immune,	INTERMEDIARY_CONCEPT
-st. john's wort	st. johns wort,saint john's wort,st. john's wort,hypericums,hypericum perforatums,hypericum,saint johns wort,st. johnswort,saint john wort,hypericum perforatum,st. john wort,saint johnswort,	FOOD
 false allegations	deception,false allegations,false allegation,hoax,lying,	INTERMEDIARY_CONCEPT
 kidney bean	phaseolus,kidney beans,french bean plant,common bean plants,kidney bean,tepary bean,phaseolus vulgaris,common bean plant,french bean plants,tepary beans,phaseolus vulgari,phaseolus acutifolius,	FOOD
 dietary modification	dietary modification,	INTERMEDIARY_CONCEPT
@@ -4718,7 +4716,7 @@ alfalfa	medicago sativa,alfalfa,lucerne,	FOOD
 high-fat	high-fat,	INTERMEDIARY_CONCEPT
 pork brains	pork brains,	INTERMEDIARY_CONCEPT
 vegetive	vegetive,	INTERMEDIARY_CONCEPT
-infectious virus	infectious virus,	INTERMEDIARY_CONCEPT
+infectious virus	infectious virus,	DISEASE
 carotenoids contribute	carotenoids contribute,	INTERMEDIARY_CONCEPT
 extreme reduction	extreme reduction,	INTERMEDIARY_CONCEPT
 phytosteroid	phytosteroid,	INTERMEDIARY_CONCEPT
@@ -5008,7 +5006,7 @@ cardiovascular disease	cardiovascular disease,cardiovascular diseases,	DISEASE
 american diabetes association	american diabetes association,	INTERMEDIARY_CONCEPT
 fetal arteries	fetal arteries,	INTERMEDIARY_CONCEPT
 chamomile tea	chamomile tea,	FOOD
-animal viruses	viruses,animal viruses,animal virus,virus,zoophaginae,	INTERMEDIARY_CONCEPT
+animal viruses	viruses,animal viruses,animal virus,virus,zoophaginae,	DISEASE
 dysosmia	olfaction disorders,paraosmia,smell disorders,paraosmias,olfaction disorder,cacosmias,dysosmia,dysosmias,anosmia,smell disorder,cacosmia,	DISEASE
 diphenhydramine hydrochloride	benylin,diphenylhydramine,benzhydramine,benhydramin,dimedrol,diphenhydramine citrate,allerdryl,benadryl,diphenhydramine hydrochloride,2-diphenylmethoxy-n,n-dimethylethylamine,diphenylhydramin,dormin,diphenhydramine,diphenhydramine citrate (1:1),	INTERMEDIARY_CONCEPT
 significant drop	significant drop,	INTERMEDIARY_CONCEPT
@@ -5224,7 +5222,7 @@ fluoxetine hydrochloride	fluoxetine,lilly 110140,prozac,sarafem,lilly-110140,lil
 hypnotics and sedatives	hypnotic effects,sedative effect,hypnotic effect,sedatives and hypnotics,sedative effects,hypnotics,hypnotics and sedatives,sedatives,	INTERMEDIARY_CONCEPT
 iowa women’s health study	iowa women’s health study,	INTERMEDIARY_CONCEPT
 antibiotic infections	antibiotic infections,	INTERMEDIARY_CONCEPT
-chicken embryo lethal orphan virus	chicken embryo lethal orphan virus,	INTERMEDIARY_CONCEPT
+chicken embryo lethal orphan virus	chicken embryo lethal orphan virus,	DISEASE
 ilex paraguariensis	ilex paraguarienses,yerba mates,yerba mate,ilex paraguariensis,	FOOD
 colon neoplasm	colon neoplasm,colonic neoplasms,colonic cancer,colonic cancers,colon cancer,cancer of colon,cancer of the colon,colon cancers,colon neoplasms,colonic neoplasm,	DISEASE
 bladder tumors	cancer of bladder,bladder neoplasms,urinary bladder neoplasm,bladder cancers,bladder tumors,bladder cancer,malignant tumor of urinary bladder,cancer of the bladder,urinary bladder neoplasms,bladder tumor,bladder neoplasm,urinary bladder cancer,	DISEASE
@@ -5835,10 +5833,8 @@ wine	wines,wine,	FOOD
 flight	flight,	INTERMEDIARY_CONCEPT
 inflammatory bowel diseases	inflammatory bowel diseases,inflammatory bowel disease,	DISEASE
 lymphadenopathy associated virus	lymphadenopathy associated virus,human t-cell lymphotropic virus type iii,aids virus,human t-cell leukemia virus type iii,human t cell leukemia virus type iii,human immunodeficiency viruses,human t-lymphotropic virus type iii,human t lymphotropic virus type iii,hiv,acquired immune deficiency syndrome virus,lymphadenopathy-associated viruses,lav-htlv-iii,human immunodeficiency virus,aids viruses,lymphadenopathy-associated virus,human t cell lymphotropic virus type iii,acquired immunodeficiency syndrome virus,htlv-iii,	DISEASE
-yellow	yellow,	INTERMEDIARY_CONCEPT
 arsenic-containing drug	arsenic-containing drug,	INTERMEDIARY_CONCEPT
 red meat	red meats,beef,pork,red meat,	FOOD
-cancer-free	cancer-free,	INTERMEDIARY_CONCEPT
 parsley	parsley,petroselinum,petroselinums,petroselinum crispums,parsleys,petroselinum crispum,	FOOD
 dietary secondhand	dietary secondhand,	INTERMEDIARY_CONCEPT
 epigenetic changes	epigenetic changes,	INTERMEDIARY_CONCEPT
@@ -5866,7 +5862,6 @@ multivitamin supplements	multivitamin supplements,	INTERMEDIARY_CONCEPT
 choiceness	choiceness,	INTERMEDIARY_CONCEPT
 dietary sucrose	dietary sucrose,dietary sugars,table sugar,	FOOD
 pad	pad,pads,	INTERMEDIARY_CONCEPT
-wise	wise,	INTERMEDIARY_CONCEPT
 kidney stone	kidney stone,renal calculus,kidney calculi,renal calculi,kidney calculus,nephrolith,kidney stones,	DISEASE
 orange trees	orange,citrus sinensis,orange tree,oranges,citrus sinenses,orange trees,	FOOD
 diabetic mononeuropathy simplices	diabetic polyneuropathies,diabetic neuropathy,diabetic asymmetric polyneuropathies,diabetic polyneuropathy,painful diabetic neuropathy,diabetic neuropathies,diabetic amyotrophies,diabetic neuralgias,symmetric diabetic proximal motor neuropathy,painful diabetic neuropathies,diabetic mononeuropathies,diabetic amyotrophy,diabetic asymmetric polyneuropathy,diabetic autonomic neuropathy,diabetic mononeuropathy simplices,diabetic mononeuropathy,asymmetric diabetic proximal motor neuropathy,diabetic autonomic neuropathies,diabetic mononeuropathy simplex,diabetic neuralgia,	DISEASE
@@ -6350,7 +6345,7 @@ mt. sinai	mt. sinai,	INTERMEDIARY_CONCEPT
 polyaromatic hydrocarbon receptors	tcdd receptors,dioxin receptor,polyaromatic hydrocarbon receptor,2 receptors,aryl hydrocarbon receptors,ah receptors,tcdd receptor,dioxin receptors,polyaromatic hydrocarbon receptors,aryl hydrocarbon receptor,ah receptor,	INTERMEDIARY_CONCEPT
 breast conserving surgery	segmental mastectomies,lumpectomies,breast-sparing surgery,local excision mastectomy,segmentectomy,segmentectomies,lumpectomy,breast quadrantectomy,local excision mastectomies,breast conserving surgery,breast conservation therapies,breast conservation therapy,breast-sparing surgeries,breast sparing surgery,limited resection mastectomies,breast-conserving surgery,partial mastectomies,limited resection mastectomy,segmental mastectomy,breast-conserving surgeries,breast quadrantectomies,partial mastectomy,	INTERMEDIARY_CONCEPT
 rosemary	rosemary,	FOOD
-marek's disease virus	marek's disease virus,	INTERMEDIARY_CONCEPT
+marek's disease virus	marek's disease virus,	DISEASE
 methionine	l-methionine,methionine,liquimeth,pedameth,l isomer methionine,l-isomer methionine,	INTERMEDIARY_CONCEPT
 rectal neoplasm	rectum cancers,rectum neoplasms,cancer of the rectum,rectal neoplasm,rectal tumors,rectal cancer,cancer of rectum,rectal neoplasms,rectal tumor,rectum cancer,rectum neoplasm,rectal cancers,	DISEASE
 spinal meningiomas	meningioma,angiomatous meningiomas,fibrous meningioma,meningiomatosis,intraorbital meningiomas,psammomatous meningioma,papillary meningioma,cerebral convexity meningiomas,spinal meningioma,intracranial meningioma,meningotheliomatous meningiomas,secretory meningiomas,malignant meningioma,sphenoid wing meningioma,cerebral convexity meningioma,meningotheliomatous meningioma,intraventricular meningioma,benign meningioma,hemangiopericytic meningiomas,angioblastic meningioma,parasagittal meningiomas,fibrous meningiomas,secretory meningioma,transitional meningiomas,olfactory groove meningiomas,papillary meningiomas,hemangioblastic meningioma,microcystic meningioma,transitional meningioma,spinal meningiomas,angiomatous meningioma,benign meningiomas,hemangioblastic meningiomas,malignant meningiomas,multiple meningiomas,intraorbital meningioma,intracranial meningiomas,clear cell meningiomas,angioblastic meningiomas,clear cell meningioma,xanthomatous meningioma,olfactory groove meningioma,sphenoid wing meningiomas,microcystic meningiomas,posterior fossa meningioma,parasagittal meningioma,meningiomas,posterior fossa meningiomas,xanthomatous meningiomas,multiple meningioma,psammomatous meningiomas,hemangiopericytic meningioma,intraventricular meningiomas,meningiomatoses,	DISEASE
@@ -7249,7 +7244,7 @@ kink	kink,kinks,	INTERMEDIARY_CONCEPT
 myrosinase enzymes	myrosinase enzymes,	INTERMEDIARY_CONCEPT
 popkin	popkin,	INTERMEDIARY_CONCEPT
 greenery	greenery,	FOOD
-cancer-causing viruses	cancer-causing viruses,	INTERMEDIARY_CONCEPT
+cancer-causing viruses	cancer-causing viruses,	DISEASE
 squash plants	pumpkins,squash plants,cucurbita,squashes,cucurbitas,squashe,squash plant,pumpkin,	FOOD
 nerve	nerve,	INTERMEDIARY_CONCEPT
 iota carrageenan	carrageenan,iota-carrageenan,lambda-carrageenan,kappa-carrageenan,iota carrageenan,kappa carrageenan,lambda carrageenan,carrageenin,	INTERMEDIARY_CONCEPT
@@ -7307,7 +7302,7 @@ familial tremor	benign essential tremor,essential tremors,benign essential tremo
 holy basil tea	holy basil tea,	FOOD
 dietary protein	dietary proteins,dietary protein,	FOOD
 multiple myositis	multiple myositides,idiopathic polymyositides,idiopathic polymyositis,polymyositis,multiple myositis,polymyositis ossificans,polymyositides,	DISEASE
-cancer-causing herpesvirus	cancer-causing herpesvirus,	INTERMEDIARY_CONCEPT
+cancer-causing herpesvirus	cancer-causing herpesvirus,	DISEASE
 bacterial richness	bacterial richness,	INTERMEDIARY_CONCEPT
 leprosy	leprosy,leprosies,hansen's disease,hansen disease,hansens disease,	DISEASE
 autophagy	autophagic cell death,autophagy,cellular autophagy,macroautophagy,autophagic programmed cell death,macroautophagies,type ii programmed cell death,autophagic cell deaths,macro-autophagy,cellular autophagies,macro autophagy,autophagies,macro-autophagies,autophagocytosis,	INTERMEDIARY_CONCEPT
@@ -7435,11 +7430,9 @@ rectum cancer	rectum cancers,rectum neoplasms,cancer of the rectum,rectal tumors
 malignant brain neoplasms	primary malignant brain neoplasms,primary brain neoplasm,intracranial neoplasm,brain benign neoplasms,brain neoplasm,brain neoplasms,intracranial neoplasms,primary malignant brain tumors,recurrent brain tumors,primary brain tumors,malignant primary brain tumors,benign brain neoplasm,brain tumors,brain malignant neoplasms,primary brain tumor,primary brain neoplasms,brain malignant neoplasm,brain tumor,brain cancer,malignant brain neoplasms,brain cancers,benign brain neoplasms,malignant brain neoplasm,recurrent brain tumor,malignant primary brain neoplasms,brain benign neoplasm,cancer of brain,cancer of the brain,	DISEASE
 sle	sle,	INTERMEDIARY_CONCEPT
 plant calyx	plant stamens,plant calyxs,plant blooms,plant stamen,plant corollas,flower filaments,plant style,plant petal,plant ovaries,plant ovary,plant anthers,plant petals,plant sepals,plant styles,pistil,flowers,flower filament,blossom,pistils,plant carpal,plant anther,flower,plant calyx,plant bloom,plant stigmas,plant corolla,blossoms,plant stigma,plant carpals,plant sepal,	INTERMEDIARY_CONCEPT
-refinance	refinance,	INTERMEDIARY_CONCEPT
 new volume	new volume,	INTERMEDIARY_CONCEPT
 butacote	butadion,phenylbutazone,butazolidin,butapirazol,butadione,butacote,butapyrazole,fenilbutazon,diphenylbutazone,	INTERMEDIARY_CONCEPT
 morinda citrifolia	morinda citrifolias,morindas,nonus,morinda citrifolia,morinda,noni,	FOOD
-u.s	u.s,	INTERMEDIARY_CONCEPT
 nitro dur	susadrin,sustac,sustak,nitrangin,nitrocard,nitrospan,dynamite,nitroglycerin,tridil,nitro-bid,perlinganit,nitrostat,nitro-dur,glyceryl trinitrate,nitrolan,trinitrin,transderm nitro,trinitrolong,nitrol,nitroderm tts,gilustenon,nitrodur,sustonit,nitro bid,nitroglyn,nitrobid,nitroderm,anginine,nitro dur,nitrong,	INTERMEDIARY_CONCEPT
 tyramine oxidase	mao b,mao a,mao-a,type b monoamine oxidase,amine oxidase (flavin-containing),mao,tyramine oxidase,monoamine oxidase b,mao-b,monoamine oxidase,monoamine oxidase a,type a monoamine oxidase,	INTERMEDIARY_CONCEPT
 plant compound	plant compound,	INTERMEDIARY_CONCEPT
@@ -8923,7 +8916,7 @@ ultrapasteurization	ultrapasteurizations,ultrapasteurization,pasteurization,past
 peripheral autoimmune demyelinating disease	peripheral demyelinating autoimmune disease,peripheral autoimmune demyelinating disease,polyradiculoneuropathy,polyradiculoneuropathies,polyradiculoneuritis,polyradiculoneuritides,	DISEASE
 ritaline	celltech brand of methylphenidate hydrochloride,methylphenidate hydrochloride,methylphenidate,novartis brand 2 of methylphenidate hydrochloride,novartis brand 1 of methylphenidate hydrochloride,ritalin sr,concerta,ritaline,equasym,mallinckrodt brand of methylphenidate hydrochloride,ritalin,ritalin-sr,phenidylate,tsentedrin,centedrin,cephalon brand of methylphenidate hydrochloride,methylin,metadate,daytrana,	INTERMEDIARY_CONCEPT
 primary health care	primary healthcare,primary health care,primary care,	INTERMEDIARY_CONCEPT
-poultry viruses	poultry viruses,	INTERMEDIARY_CONCEPT
+poultry viruses	poultry viruses,	DISEASE
 raw tomatoes	raw tomatoes,	FOOD
 high fat	high fat,	INTERMEDIARY_CONCEPT
 semi-vegetarian	semi-vegetarian,	INTERMEDIARY_CONCEPT
@@ -8976,7 +8969,7 @@ adult-onset	adult-onset,	INTERMEDIARY_CONCEPT
 acylpyrin	ecotrin,endosprin,polopirin,micristin,polopiryna,solprin,acetylsalicylic acid,magnecyl,aloxiprimum,dispril,aspirin,2-(acetyloxy)benzoic acid,zorprin,acetysal,easprin,acylpyrin,colfarit,solupsan,	INTERMEDIARY_CONCEPT
 replacement therapy	replacement therapy,	INTERMEDIARY_CONCEPT
 shark	shark,sharks,	INTERMEDIARY_CONCEPT
-bacteria-eating viruses	bacteria-eating viruses,	INTERMEDIARY_CONCEPT
+bacteria-eating viruses	bacteria-eating viruses,	DISEASE
 potato glycoalkaloids	potato glycoalkaloids,	INTERMEDIARY_CONCEPT
 techno	techno,	INTERMEDIARY_CONCEPT
 pulmonary neoplasms	lung cancer,pulmonary cancer,pulmonary cancers,lung neoplasms,lung neoplasm,lung cancers,cancer of lung,pulmonary neoplasms,cancer of the lung,pulmonary neoplasm,	DISEASE
@@ -9048,7 +9041,7 @@ crushing pains	physical suffering,pain,migratory pains,burning pain,splitting pa
 babies breastfed	babies breastfed,	INTERMEDIARY_CONCEPT
 linseed	flaxseed,linum usitatissimums,flax,linum usitatissimum,linseed,linseeds,flaxs,linum,flaxseeds,linums,	FOOD
 vietnamese cinnamom	vietnamese cinnamom,	INTERMEDIARY_CONCEPT
-herpesvirus	herpesvirus,	INTERMEDIARY_CONCEPT
+herpesvirus	herpesvirus,	DISEASE
 tv watching	tv watching,	INTERMEDIARY_CONCEPT
 malformation	malformation,	INTERMEDIARY_CONCEPT
 myocardial infarctions	heart attacks,cardiovascular stroke,heart attack,myocardial infarction,cardiovascular strokes,myocardial infarcts,myocardial infarctions,myocardial infarct,	DISEASE
@@ -9300,7 +9293,7 @@ cancer of the rectum	rectum cancers,rectum neoplasms,cancer of the rectum,rectal
 anti-aging remedy	anti-aging remedy,	INTERMEDIARY_CONCEPT
 male subfertility	male subfertility,male sub fertility,male sterility,male sub-fertility,male infertility,	DISEASE
 horton syndrome	neuralgic migraine,hortons syndrome,episodic cluster headaches,cluster headaches,atypical cluster headache,histamine cephalgia,episodic cluster headache,chronic cluster headaches,cluster headache syndrome,cluster headache,histamine cephalgias,horton syndrome,atypical cluster headaches,cluster headache syndromes,chronic cluster headache,ciliary neuralgias,ciliary neuralgia,neuralgic migraines,horton's syndrome,	DISEASE
-carcinogenic retroviruses	carcinogenic retroviruses,	INTERMEDIARY_CONCEPT
+carcinogenic retroviruses	carcinogenic retroviruses,	DISEASE
 headache	cranial pains,unilateral headaches,periorbital headache,sharp headache,cephalgias,retro-ocular headache,bilateral headaches,hemicrania,retro-ocular headaches,ocular headaches,vertex headache,unilateral headache,periorbital headaches,cephalgia,head pains,throbbing headaches,orthostatic headache,generalized headaches,headaches,cranial pain,cephalalgia,ocular headache,vertex headaches,throbbing headache,head pain,cephalodynias,sharp headaches,retro ocular headache,generalized headache,cephalalgias,cephalodynia,headache,bilateral headache,orthostatic headaches,	DISEASE
 pancreas health	pancreas health,	INTERMEDIARY_CONCEPT
 floppy ears	floppy ears,	INTERMEDIARY_CONCEPT
@@ -9322,7 +9315,7 @@ nitrogen monoxide	nitric oxide,nitrogen monoxide,endothelium-derived nitric oxid
 n 3 oils	n3 fatty acid,n 3 oils,omega 3 fatty acids,n3 polyunsaturated fatty acid,n 3 polyunsaturated fatty acid,omega-3 fatty acids,n-3 fatty acids,n-3 polyunsaturated fatty acid,n-3 pufa,n 3 fatty acids,n3 pufa,n3 oils,n-3 oils,	INTERMEDIARY_CONCEPT
 dha supplementation	dha supplementation,	INTERMEDIARY_CONCEPT
 theoretical risk	theoretical risk,	INTERMEDIARY_CONCEPT
-obesity virus	obesity virus,	INTERMEDIARY_CONCEPT
+obesity virus	obesity virus,	DISEASE
 genitalium	genitalium,	INTERMEDIARY_CONCEPT
 salsa	salsa,	FOOD
 oak leaf	oak leaf,	INTERMEDIARY_CONCEPT
@@ -9338,12 +9331,12 @@ bony apophysis	condyle,bony apophyses,bones and bone tissue,condyles,bones,bones
 exudation	exudation,	INTERMEDIARY_CONCEPT
 tarragon extracts	tarragon extracts,	INTERMEDIARY_CONCEPT
 degenerative neurologic disorder	neurodegenerative disease,degenerative neurologic disorder,spinal cord degenerative diseases,degenerative neurologic disease,neurodegenerative disorder,neurodegenerative disorders,neurologic degenerative disease,neurologic degenerative conditions,neurodegenerative diseases,degenerative neurologic diseases,neurologic degenerative condition,neurologic degenerative diseases,degenerative neurologic disorders,central nervous system degenerative diseases,nervous system degenerative diseases,	DISEASE
-virus	viruses,animal viruses,animal virus,virus,zoophaginae,	INTERMEDIARY_CONCEPT
+virus	viruses,animal viruses,animal virus,virus,zoophaginae,	DISEASE
 cuttlefish	cuttlefish,decapodiforme,decapodiformes,cuttlefishs,illex,todarodes,todarode,squid,illices,squids,sepiidae,	INTERMEDIARY_CONCEPT
 delivery person	delivery person,	INTERMEDIARY_CONCEPT
 atomic bombs	dirty bomb,nuclear weapons,nuclear weapons testing,nuclear weapons testings,atomic bombs,nuclear weapon,hydrogen bombs,atomic bomb,dirty bombs,hydrogen bomb,	INTERMEDIARY_CONCEPT
 honeybush tea	honeybush tea,	FOOD
-cancer viruses	cancer viruses,	INTERMEDIARY_CONCEPT
+cancer viruses	cancer viruses,	DISEASE
 glibenclamide	glybenclamide,hb 420,hb419,glyburide,diabeta,hb-420,maninil,daonil,micronase,euglucon n,hb 419,hb-419,glibenclamide,neogluconin,hb420,euglucon 5,	INTERMEDIARY_CONCEPT
 tooth	teeth,tooth,	INTERMEDIARY_CONCEPT
 amomum cardamomums	elettaria,amomum cardamomums,elettaria cardamomum,cardamom,cardamon,cardamons,cardamoms,amomum cardamomum,elettarias,elettaria cardamomums,	FOOD
@@ -9602,7 +9595,7 @@ buttermilk	butter milk,buttermilk,	FOOD
 disrupted in b-cell malignancy	b cell leukemia,small lymphocytic lymphoma,cll lymphoplasmacytoid lymphomas,chronic b cell leukemia,diffuse well differentiated lymphocytic lymphoma,lymphocytic lymphoma,disrupted in b-cell malignancy,small lymphocytic lymphomas,small-cell lymphoma,chronic lymphocytic leukemias,b-cell chronic lymphocytic leukemia,well-differentiated lymphocytic lymphomas,low-grade b-cell malignancy,diffuse lymphocytic lymphoma,well-differentiated lymphocytic lymphoma,chronic lymphoblastic leukemias,cll lymphoplasmacytoid lymphoma,b cell chronic lymphocytic leukemia,lymphoblastic leukemia,lymphocytic lymphomas,chronic lymphoblastic leukemia,lymphocytic leukemia,well differentiated lymphocytic lymphoma,chronic b lymphocytic leukemia,small-cell lymphomas,chronic b-lymphocytic leukemias,diffuse well-differentiated lymphocytic lymphoma,b-cell leukemia,chronic lymphocytic leukemia,chronic lymphatic leukemia,small cell lymphoma,chronic b-cell leukemia,lymphoplasmacytoid lymphoma,chronic b-lymphocytic leukemia,chronic b-cell leukemias,	DISEASE
 ruler	ruler,	INTERMEDIARY_CONCEPT
 endocrine-disruptor	endocrine-disruptor,	INTERMEDIARY_CONCEPT
-bacteria-eating virus	bacteria-eating virus,	INTERMEDIARY_CONCEPT
+bacteria-eating virus	bacteria-eating virus,	DISEASE
 flammulina	enokitake,flammulinas,enokitakes,flammulina,flammulina velutipe,enoki mushroom,flammulina velutipes,enoki mushrooms,	FOOD
 durum wheats	triticum vulgare,triticum aestivum,triticum spelta,triticum turgidum subsp. durum,triticum,triticum durum,durum wheats,triticum turgidum,durum wheat,wheat,	FOOD
 bilateral deafness	prelingual deafness,deaf mutism,extreme hearing loss,deaf-mutism,bilateral deafness,deafness,acquired deafness,complete hearing loss,	DISEASE
@@ -10035,7 +10028,7 @@ nucleotide excision repairs	nucleotide excision repairs,excision repair,excision
 sports supplements	sports supplements,	INTERMEDIARY_CONCEPT
 absolute risk	absolute risk,	INTERMEDIARY_CONCEPT
 tipuric	atisuril,remid,allorin,milurit,novopurol,foligan,urosin,cellidrin,uribenz,pan quimica,zygout,hamarin,zyloric,allpargin,zyloprim,apurin,capurate,purinol,allural,alloprin,allopurinol,allopurin,uripurinol,xanthomax,jenapurinol,rimapurinol,lopurin,lysuron,apulonga,urtias,bleminol,suspendol,tipuric,milurite,roucol,uridocid,embarin,pureduct,allohexal,progout,allohexan,xanturic,caplenal,	INTERMEDIARY_CONCEPT
-avian leukosis/sarcoma virus	avian leukosis/sarcoma virus,	INTERMEDIARY_CONCEPT
+avian leukosis/sarcoma virus	avian leukosis/sarcoma virus,	DISEASE
 polyarthritis	polyarthritides,polyarthritis,arthritis,arthritides,	DISEASE
 sugar levels	sugar levels,	INTERMEDIARY_CONCEPT
 vitamin d 2	ergocalciferol,vitamin d2,vitamin d 2,ergocalciferols,calciferols,	INTERMEDIARY_CONCEPT
@@ -11271,7 +11264,7 @@ lymphatic sarcomas	small non-cleaved-cell lymphoma,atypical diffuse small lympho
 chewing fruit	chewing fruit,	FOOD
 2 phenyl chromenes	2 phenyl benzopyrans,2-phenyl-benzopyrans,bioflavonoids,2 phenyl chromenes,flavonoids,2-phenyl-chromenes,	INTERMEDIARY_CONCEPT
 plate	plating,plate,	INTERMEDIARY_CONCEPT
-animal virus	viruses,animal viruses,animal virus,virus,zoophaginae,	INTERMEDIARY_CONCEPT
+animal virus	viruses,animal viruses,animal virus,virus,zoophaginae,	DISEASE
 human civilization	human civilization,	INTERMEDIARY_CONCEPT
 guam disease	gehrig's disease,charcot disease,amyotrophic lateral sclerosis motor neuron disease,lou-gehrigs disease,lou gehrig's disease,guam form of amyotrophic lateral sclerosis,guam disease,amyotrophic lateral sclerosis,gehrigs disease,parkinsonism-dementia complex of guam amyotrophic lateral sclerosis,amyotrophic lateral sclerosis-parkinsonism-dementia complex 1,parkinsonism dementia complex of guam amyotrophic lateral sclerosis,lou gehrig disease,guam form amyotrophic lateral sclerosis,als (amyotrophic lateral sclerosis),amyotrophic lateral sclerosis with dementia,gehrig disease,amyotrophic lateral sclerosis parkinsonism dementia complex 1,dementia with amyotrophic lateral sclerosis,	DISEASE
 aura	epilepsy,cryptogenic epilepsies,epileptic seizure,seizure disorders,single seizure,aura,single seizures,cryptogenic epilepsy,epileptic seizures,seizure disorder,awakening epilepsy,epilepsies,auras,	DISEASE
@@ -11443,7 +11436,6 @@ deliciousness	deliciousness,	INTERMEDIARY_CONCEPT
 vitamin pills	vitamin pills,	FOOD
 excellent addition	excellent addition,	INTERMEDIARY_CONCEPT
 seizure disorder	epilepsy,cryptogenic epilepsies,epileptic seizure,seizure disorders,single seizure,aura,single seizures,cryptogenic epilepsy,epileptic seizures,seizure disorder,awakening epilepsy,epilepsies,auras,	DISEASE
-st. pierre and miquelon	saint pierre and miquelon,miquelon and st. pierre,corsica,france,st. pierre and miquelon,miquelon and saint pierre,	INTERMEDIARY_CONCEPT
 nsc-125973	nsc-125973,paclitaxel,anzatax,taxol a,onxol,bris taxol,(4 alpha)-isomer paclitaxel,7 epi taxol,nsc125973,praxel,7-epi-taxol,taxol,paxene,nsc 125973,	INTERMEDIARY_CONCEPT
 anzatax	nsc-125973,anzatax,paclitaxel,taxol a,onxol,bris taxol,(4 alpha)-isomer paclitaxel,7 epi taxol,nsc125973,praxel,7-epi-taxol,taxol,paxene,nsc 125973,	INTERMEDIARY_CONCEPT
 multivitamin	multivitamin,multivitamins,	FOOD
@@ -11965,7 +11957,7 @@ age related bone loss	osteoporoses,senile osteoporoses,senile osteoporosis,post 
 vitamin d-deficient	vitamin d-deficient,	INTERMEDIARY_CONCEPT
 esselstyn	esselstyn,	INTERMEDIARY_CONCEPT
 vegetative nervous systems	visceral nervous systems,visceral nervous system,autonomic nervous systems,autonomic nervous system,vegetative nervous systems,vegetative nervous system,	INTERMEDIARY_CONCEPT
-wart viruses	wart viruses,	INTERMEDIARY_CONCEPT
+wart viruses	wart viruses,	DISEASE
 sodium salt arachidonic acid	arachidonic acid,zinc salt arachidonic acid,potassium salt arachidonic acid,8 (all-z)-5,sodium arachidonate,sodium salt arachidonic acid,ammonium salt arachidonic acid,vitamin f,cerium salt arachidonic acid,lithium salt arachidonic acid,(all-z)-isomer arachidonic acid,cesium salt arachidonic acid,	INTERMEDIARY_CONCEPT
 lymphoid cells	lymphocytes,lymphoid cell,lymphoid cells,lymphocyte,	INTERMEDIARY_CONCEPT
 lemmus	arvicoline,muskrats,dicrostonyx,lemming,vole,cricetidae,ondatra zibethicus,red-backed mouse,microtines,lemmings,muskrat,ondatra,microtine,clethrionomys,red backed mouse,myodes,voles,microtinae,microtus,arvicolines,red backed mice,lemmus,arvicolinae,red-backed mice,	INTERMEDIARY_CONCEPT
@@ -11983,7 +11975,7 @@ seed intake	seed intake,	INTERMEDIARY_CONCEPT
 nervous system degenerative diseases	neurodegenerative disease,degenerative neurologic disorder,spinal cord degenerative diseases,degenerative neurologic disease,neurodegenerative disorder,neurodegenerative disorders,neurologic degenerative disease,neurologic degenerative conditions,neurodegenerative diseases,degenerative neurologic diseases,neurologic degenerative condition,neurologic degenerative diseases,degenerative neurologic disorders,central nervous system degenerative diseases,nervous system degenerative diseases,	DISEASE
 malignant epithelial neoplasm	malignant epithelial neoplasm,anaplastic carcinomas,spindle-cell carcinoma,epithelioma,malignant epithelial tumor,undifferentiated carcinoma,carcinomatoses,carcinoma,undifferentiated carcinomas,carcinomas,carcinomatosis,spindle cell carcinoma,anaplastic carcinoma,epitheliomas,malignant epithelial tumors,spindle-cell carcinomas,malignant epithelial neoplasms,	DISEASE
 coarse tremors	perioral tremor,resting tremors,intention tremor,neonatal tremors,darkness tremors,fine tremor,fine tremors,senile tremors,involuntary quivers,action tremor,limb tremors,massive tremors,coarse tremor,nerve tremor,passive tremors,passive tremor,massive tremor,persistent tremor,neonatal tremor,rest tremor,static tremors,perioral tremors,muscle tremors,darkness tremor,tremors,senile tremor,pill rolling tremor,muscle tremor,tremor,continuous tremors,coarse tremors,static tremor,action tremors,intermittent tremors,rest tremors,intermittent tremor,pill rolling tremors,resting tremor,nerve tremors,saturnine tremor,semirhythmic tremors,semirhythmic tremor,intention tremors,saturnine tremors,limb tremor,involuntary quiver,persistent tremors,continuous tremor,	DISEASE
-chicken virus	chicken virus,	INTERMEDIARY_CONCEPT
+chicken virus	chicken virus,	DISEASE
 tonsillar cancers	tonsil neoplasm,cancer of tonsil,tonsillar neoplasms,tonsil neoplasms,tonsil cancers,tonsillar cancers,tonsil cancer,cancer of the tonsil,tonsillar neoplasm,tonsillar cancer,	DISEASE
 kenaf	roselle,roselles,hibiscus,kenaf,hibiscus sabdariffa,hibiscus cannabinus,	FOOD
 squatter	nomads,nonmigrant,squatters,migrant workers,nonmigrants,squatter,transients and migrants,nomad,migrant,transient,migrant worker,migrants,migrants and transients,transients,	INTERMEDIARY_CONCEPT
@@ -12408,7 +12400,7 @@ sugary foods	sugary foods,	FOOD
 catatoxic steroids	steroids,catatoxic steroids,	INTERMEDIARY_CONCEPT
 uterus neoplasms	uterus cancers,uterine neoplasm,uterine cancer,uterine cancers,cancer of uterus,uterus cancer,uterine neoplasms,cancer of the uterus,uterus neoplasms,uterus neoplasm,	DISEASE
 red delicious	red delicious,	FOOD
-porcine endogenous retroviruses	porcine endogenous retroviruses,	INTERMEDIARY_CONCEPT
+porcine endogenous retroviruses	porcine endogenous retroviruses,	DISEASE
 clonal abortion	clonal deletions,clonal abortions,clonal deletion,clonal abortion,	INTERMEDIARY_CONCEPT
 residency and internship	residency,dental internships,internship and residency,dental residencies,dental residency,medical residency,house staff,internships,dental internship,residencies,residency and internship,house staffs,medical residencies,internship,	INTERMEDIARY_CONCEPT
 yerba mate	ilex paraguarienses,yerba mates,yerba mate,ilex paraguariensis,	FOOD
@@ -12516,7 +12508,7 @@ gasser's syndrome	hemolytic-uremic syndrome,gasser syndrome,gasser's syndrome,ga
 isometric exercise	aerobic exercise,exercise trainings,exercise,aerobic exercises,acute exercise,physical activity,physical exercises,isometric exercises,exercises,exercise training,physical exercise,physical activities,isometric exercise,acute exercises,	INTERMEDIARY_CONCEPT
 high-antioxidant	high-antioxidant,	INTERMEDIARY_CONCEPT
 emergency wards	hospital emergency services,hospital service emergencies,emergency hospital service,emergency wards,emergency rooms,emergency ward,hospital emergency service,emergency room,emergency departments,emergency department,accident and emergency department,emergency unit,emergency outpatient units,emergency outpatient unit,hospital service emergency,emergency units,emergency hospital services,	INTERMEDIARY_CONCEPT
-chicken viruses	chicken viruses,	INTERMEDIARY_CONCEPT
+chicken viruses	chicken viruses,	DISEASE
 2 phenyl benzopyrans	2 phenyl benzopyrans,2-phenyl-benzopyrans,bioflavonoids,2 phenyl chromenes,flavonoids,2-phenyl-chromenes,	INTERMEDIARY_CONCEPT
 inappropriate gh secretion syndrome (acromegaly)	inappropriate gh secretion syndrome (acromegaly),somatotropin hypersecretion syndrome (acromegaly),somatotropin (acromegaly) hypersecretion syndrome,somatotropin (acromegaly) hypersecretion syndromes,acromegaly,somatotropin hypersecretion syndromes (acromegaly),somatotropin hypersecretion (acromegaly) syndrome,somatotropin hypersecretion (acromegaly) syndromes,inappropriate growth hormone secretion syndrome (acromegaly),	DISEASE
 creatinine	creatinine,krebiozen,creatinine sulfate salt,	INTERMEDIARY_CONCEPT
@@ -12733,7 +12725,7 @@ situational syncope	tussive syncope,postural syncopes,carotid sinus syncopes,pos
 laser technology	laser technology,	INTERMEDIARY_CONCEPT
 vegan couple	vegan couple,	INTERMEDIARY_CONCEPT
 right mind	right mind,	INTERMEDIARY_CONCEPT
-mink encephalopathy virus	mink encephalopathy virus,prions,	INTERMEDIARY_CONCEPT
+mink encephalopathy virus	mink encephalopathy virus,prions,	DISEASE
 dance	dancing,line dancing,jazz dance,square dance,salsa dancing,modern dance,ballet,hip hop dance,hip-hop dance,dance,tap dance,	INTERMEDIARY_CONCEPT
 tamoxifen	ici-47699,ici47699,ici-46474,ici 47699,ici46474,ici46,nolvadex,novaldex,tamoxifen citrate,tomaxithen,soltamox,ici-46,zitazonium,474,474 ici 46,ici 46474,tamoxifen,	INTERMEDIARY_CONCEPT
 juglans regia	english walnut,walnut,juglans nigra,walnuts,black walnut,black walnuts,english walnuts,juglans regia,juglans,	FOOD

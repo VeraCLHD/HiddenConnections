@@ -1,7 +1,6 @@
 
 chronic diseases	inflammation	associated with	LINKED-TO
 girls	french fries	associated with	LINKED-TO
-inflammatory reaction	egg	associated with	LINKED-TO
 eggs	diabetes	associated with	LINKED-TO
 irritation	chemotherapy	associated with	LINKED-TO
 side effects	drugs	associated with	LINKED-TO
@@ -10,7 +9,6 @@ fish intake	brain	associated with	LINKED-TO
 vomiting	morning sickness	associated with	LINKED-TO
 sperm counts	processed meat	associated with	LINKED-TO
 fertility	saturated fat	associated with	LINKED-TO
-toxin	alzheimer	associated with	LINKED-TO
 death	nut consumption	associated with	LINKED-TO
 lead poisoning	ayurvedic	associated with	LINKED-TO
 stomach cancer	salt	associated with	LINKED-TO
@@ -24,17 +22,14 @@ cancers	alcohol	associated with	LINKED-TO
 deformities	rickets	associated with	LINKED-TO
 disability	heart disease	associated with	LINKED-TO
 biomarker	cancer	associated with	LINKED-TO
-pain	drugs	associated with	LINKED-TO
 headaches	aspartame	associated with	LINKED-TO
 inflammation	depression	associated with	LINKED-TO
-meat molecule	inflammation	associated with	LINKED-TO
 beverage	infertility	associated with	LINKED-TO
 death	nut	associated with	LINKED-TO
 rosy glow	cardiovascular health	associated with	LINKED-TO
 mortality	poultry	associated with	LINKED-TO
 brain	memory	associated with	LINKED-TO
 symptoms	diabetes	associated with	LINKED-TO
-cardiovascular disease	diet soda	associated with	LINKED-TO
 stomach cancer	salt intake	associated with	LINKED-TO
 carbohydrates	prevotella	are associated with the	LINKED-TO
 fat	bacteroides	are associated with the	LINKED-TO
@@ -55,7 +50,6 @@ poultry	liver	tied to	LINKED-TO
 poultry exposure	liver	tied to	LINKED-TO
 foodborne illness	pork	tied to	LINKED-TO
 parasites	meat	are associated with	LINKED-TO
-fat	prevotella	are associated with	LINKED-TO
 blood	depression	are associated with	LINKED-TO
 xenoestrogens	birth defects	are associated with	LINKED-TO
 dental x-rays	brain tumors	are associated with	LINKED-TO
@@ -70,7 +64,6 @@ adolescence	breast cancer	was associated with	LINKED-TO
 doughnuts	prostate cancer	was associated with about a third greater odds of	LINKED-TO
 chronic diseases	inflammation	associated with	LINKED-TO
 girls	french fries	associated with	LINKED-TO
-inflammatory reaction	egg	associated with	LINKED-TO
 eggs	diabetes	associated with	LINKED-TO
 irritation	chemotherapy	associated with	LINKED-TO
 side effects	drugs	associated with	LINKED-TO
@@ -79,7 +72,6 @@ fish intake	brain	associated with	LINKED-TO
 vomiting	morning sickness	associated with	LINKED-TO
 sperm counts	processed meat	associated with	LINKED-TO
 fertility	saturated fat	associated with	LINKED-TO
-toxin	alzheimer	associated with	LINKED-TO
 death	nut consumption	associated with	LINKED-TO
 lead poisoning	ayurvedic	associated with	LINKED-TO
 stomach cancer	salt	associated with	LINKED-TO
@@ -93,17 +85,14 @@ cancers	alcohol	associated with	LINKED-TO
 deformities	rickets	associated with	LINKED-TO
 disability	heart disease	associated with	LINKED-TO
 biomarker	cancer	associated with	LINKED-TO
-pain	drugs	associated with	LINKED-TO
 headaches	aspartame	associated with	LINKED-TO
 inflammation	depression	associated with	LINKED-TO
-meat molecule	inflammation	associated with	LINKED-TO
 beverage	infertility	associated with	LINKED-TO
 death	nut	associated with	LINKED-TO
 rosy glow	cardiovascular health	associated with	LINKED-TO
 mortality	poultry	associated with	LINKED-TO
 brain	memory	associated with	LINKED-TO
 symptoms	diabetes	associated with	LINKED-TO
-cardiovascular disease	diet soda	associated with	LINKED-TO
 stomach cancer	salt intake	associated with	LINKED-TO
 virus	obesity	first associated with	LINKED-TO
 sperm counts	meat	associated with processed	LINKED-TO
@@ -145,7 +134,6 @@ death	galactose	associated with the	LINKED-TO
 symptoms	wheat	associated with the	LINKED-TO
 pumpkin seeds	breast cancer	were associated with reduced	LINKED-TO
 parasites	meat	are associated with	LINKED-TO
-fat	prevotella	are associated with	LINKED-TO
 blood	depression	are associated with	LINKED-TO
 xenoestrogens	birth defects	are associated with	LINKED-TO
 dental x-rays	brain tumors	are associated with	LINKED-TO

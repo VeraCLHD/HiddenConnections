@@ -4,12 +4,9 @@ vegetables	cancer	without the	PART-OF-I
 beef	saturated fat	without the	PART-OF-I
 rheumatoid arthritis	side effects	without the	PART-OF-I
 vegetables	cancer risk	without the	PART-OF-I
-boost	brain damage	without the	PART-OF-I
 saturated fat	cholesterol	without the	PART-OF-I
-saturated fat	egg	without the	PART-OF-I
 fruits	preservative	without the	PART-OF-I
 drug	side effects	without the	PART-OF-I
-dried fruits	preservative	without the	PART-OF-I
 massage	fragrance	without the	PART-OF-I
 oatmeal	carbs	packed with	PART-OF-I
 diet	plants	packed with	PART-OF-I
@@ -23,30 +20,24 @@ beef	saturated fat	, without the	PART-OF-I
 drug	side effects	, without the	PART-OF-I
 phytonutrients	fat	, without the	PART-OF-I
 drugs	drug	, without the	PART-OF-I
+plants	dna	have	PART-OF-I
+plant foods	fiber	have	PART-OF-I
 dates	phytonutrients	have	PART-OF-I
 processed foods	health	have	PART-OF-I
 grapes	antioxidants	have	PART-OF-I
 dates	fiber	have	PART-OF-I
-who	mgus	have	PART-OF-I
-sea vegetables	phytonutrients	have	PART-OF-I
-plants	fiber	have	PART-OF-I
-who	heart attacks	have	PART-OF-I
-plants	dna	have	PART-OF-I
-plant foods	fiber	have	PART-OF-I
-who	breast cancer	have	PART-OF-I
 vegetables	antioxidants	have	PART-OF-I
 soft drinks	benzene	have	PART-OF-I
-who	prostate enlargement	have	PART-OF-I
 plants	nicotine	have	PART-OF-I
 greens	myrosinase	have	PART-OF-I
-who	apoe	have	PART-OF-I
 animal foods	phosphorus	have	PART-OF-I
-who	eaten	have	PART-OF-I
+who	mgus	have	PART-OF-I
 kids	fatty streaks	have	PART-OF-I
-hypersensitivity	signs	have	PART-OF-I
 pregnancy	adverse effects	have	PART-OF-I
+sea vegetables	phytonutrients	have	PART-OF-I
 smoothies	amla	have	PART-OF-I
 kiwifruits	antioxidants	have	PART-OF-I
+plants	fiber	have	PART-OF-I
 grapes	polyphenols	have	PART-OF-I
 seeds	phytosterols	are packed with	PART-OF-I
 flaxseeds	lignans	are packed with	PART-OF-I
@@ -56,18 +47,15 @@ turkey	salmonella	has	PART-OF-I
 casomorphin	opioid	has	PART-OF-I
 protein	phosphorus	has	PART-OF-I
 diet	bumped	has	PART-OF-I
-u.s	mrsa	has	PART-OF-I
 spice	health benefits	has	PART-OF-I
 mom	vitamin d	has	PART-OF-I
 dementia	shot	has	PART-OF-I
-intake	tobacco	has	PART-OF-I
 kiwifruit	folate	has	PART-OF-I
 date sugar	fiber	has	PART-OF-I
 disease	copper	have higher levels of	PART-OF-I
 meat	cadmium	have higher levels of	PART-OF-I
 cancer cells	cholesterol	have higher levels of	PART-OF-I
 who	pesticides	have higher levels of	PART-OF-I
-farmed fish	ddt	have higher levels of	PART-OF-I
 fish	ddt	have higher levels of	PART-OF-I
 diets	plants	full of	PART-OF-I
 diet	plants	full of	PART-OF-I
@@ -108,17 +96,14 @@ turkey	salmonella	has	PART-OF-I
 casomorphin	opioid	has	PART-OF-I
 protein	phosphorus	has	PART-OF-I
 diet	bumped	has	PART-OF-I
-u.s	mrsa	has	PART-OF-I
 spice	health benefits	has	PART-OF-I
 mom	vitamin d	has	PART-OF-I
 dementia	shot	has	PART-OF-I
-intake	tobacco	has	PART-OF-I
 kiwifruit	folate	has	PART-OF-I
 date sugar	fiber	has	PART-OF-I
 kale	antioxidants	is a good source of	PART-OF-I
 egg	saturated fat	would have	PART-OF-I
 vegetables	sulforaphane	are a top source of	PART-OF-I
-farmed fish	ddt	had higher levels of	PART-OF-I
 fish	ddt	had higher levels of	PART-OF-I
 omega-3 fatty acids	cholesterol	are still loaded with	PART-OF-I
 diets	meat	with lots of	PART-OF-I
@@ -138,26 +123,21 @@ cancer cells	dna	wither away as their	PART-OF-I
 bacon	antioxidants	has to have	PART-OF-I
 pigs	hepatitis e	are the reservoirs of the	PART-OF-I
 rectal flora	urinary tract infections	serve as a reservoir for	PART-OF-I
-who	breast cancer	carry	PART-OF-I
 nutritional yeast	lead	carry	PART-OF-I
 cancer cells	cholesterol	have higher levels of these	PART-OF-I
 disease	copper	have higher levels of	PART-OF-I
 meat	cadmium	have higher levels of	PART-OF-I
 cancer cells	cholesterol	have higher levels of	PART-OF-I
 who	pesticides	have higher levels of	PART-OF-I
-farmed fish	ddt	have higher levels of	PART-OF-I
 fish	ddt	have higher levels of	PART-OF-I
 anxiety	downer	without the	PART-OF-I
 vegetables	cancer	without the	PART-OF-I
 beef	saturated fat	without the	PART-OF-I
 rheumatoid arthritis	side effects	without the	PART-OF-I
 vegetables	cancer risk	without the	PART-OF-I
-boost	brain damage	without the	PART-OF-I
 saturated fat	cholesterol	without the	PART-OF-I
-saturated fat	egg	without the	PART-OF-I
 fruits	preservative	without the	PART-OF-I
 drug	side effects	without the	PART-OF-I
-dried fruits	preservative	without the	PART-OF-I
 massage	fragrance	without the	PART-OF-I
 cruciferous vegetables	enzyme	have this	PART-OF-I
 meat	hormones	has these	PART-OF-I
@@ -173,30 +153,24 @@ diet	plants	filled with	PART-OF-I
 fat cells	saturated fat	filled with	PART-OF-I
 broccoli florets	flower	are just clusters of	PART-OF-I
 seeds	arginine	are a source of	PART-OF-I
+plants	dna	have	PART-OF-I
+plant foods	fiber	have	PART-OF-I
 dates	phytonutrients	have	PART-OF-I
 processed foods	health	have	PART-OF-I
 grapes	antioxidants	have	PART-OF-I
 dates	fiber	have	PART-OF-I
-who	mgus	have	PART-OF-I
-sea vegetables	phytonutrients	have	PART-OF-I
-plants	fiber	have	PART-OF-I
-who	heart attacks	have	PART-OF-I
-plants	dna	have	PART-OF-I
-plant foods	fiber	have	PART-OF-I
-who	breast cancer	have	PART-OF-I
 vegetables	antioxidants	have	PART-OF-I
 soft drinks	benzene	have	PART-OF-I
-who	prostate enlargement	have	PART-OF-I
 plants	nicotine	have	PART-OF-I
 greens	myrosinase	have	PART-OF-I
-who	apoe	have	PART-OF-I
 animal foods	phosphorus	have	PART-OF-I
-who	eaten	have	PART-OF-I
+who	mgus	have	PART-OF-I
 kids	fatty streaks	have	PART-OF-I
-hypersensitivity	signs	have	PART-OF-I
 pregnancy	adverse effects	have	PART-OF-I
+sea vegetables	phytonutrients	have	PART-OF-I
 smoothies	amla	have	PART-OF-I
 kiwifruits	antioxidants	have	PART-OF-I
+plants	fiber	have	PART-OF-I
 grapes	polyphenols	have	PART-OF-I
 cinnamon	antioxidants	is a great source of 	PART-OF-I
 plant-based diets	fat	have less	PART-OF-I

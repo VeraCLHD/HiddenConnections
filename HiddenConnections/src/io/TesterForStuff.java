@@ -24,11 +24,106 @@ import edu.stanford.nlp.trees.Tree;
 import edu.stanford.nlp.trees.tregex.TregexMatcher;
 import edu.stanford.nlp.trees.tregex.TregexPattern;
 import overall.LuceneSearcher;
+import overall.Pair;
 
 public class TesterForStuff {
 	public static final String pathToAllTerms = "terms/all_terms_and_variants_with10_filtered.txt";
+	Set<String> allTerms = new HashSet<String>();
+	
+	public void lookForPatternMatch(String sentenceString, String pattern) {
+		this.allTerms.add("toxin");
+		this.allTerms.add("alzheimer's disease");
+		this.allTerms.add("alzheimer");
+		
+		Set<Pair<String>> candidates = new HashSet<Pair<String>>();
+		String temp1 = "";
+	    String temp2 = "";
+		final Matcher matcher = Pattern.compile("\\b" +
+				 Pattern.quote(pattern) + "\\b").matcher(sentenceString);
+		while(matcher.find()){
+		    String before = sentenceString.substring(0, matcher.start()).trim();
+		    String after = sentenceString.substring(matcher.end()).trim();
+		    
+		    List<String> term1_candidate = new ArrayList<String>();
+		    List<String> term2_candidate = new ArrayList<String>();
+		    List<String> term1_candidatePOS = new ArrayList<String>();
+		    List<String> term2_candidatePOS = new ArrayList<String>();
+		    
+		    if(!before.isEmpty()){
+		    	Sentence beforeSentence = new Sentence(before);
+		    	term1_candidate = beforeSentence.words();
+		    	term1_candidatePOS = beforeSentence.posTags();
+		    } else{
+		    	term1_candidate = Arrays.asList(before.split(" "));
+		    }
+		    
+		    if(!after.isEmpty()){
+		    	Sentence afterSentence = new Sentence(after);
+				 term2_candidate = afterSentence.words();
+				 term2_candidatePOS = afterSentence.posTags();
+		    } else{
+		    	term2_candidate = Arrays.asList(after.split(" "));
+		    }
 
+		    //
+		    for(int i = term1_candidate.size()-1; i>= 0; i--){
+		    	String t1_candidate = String.join(" ", term1_candidate.subList(i, term1_candidate.size()));
+		    	String t1_candidateWP = t1_candidate.replaceAll("[^a-zA-Z]+$", "").trim();
+		    	if(this.allTerms.contains(t1_candidateWP)){
+		    		temp1 = t1_candidateWP;
+		    		continue;
+		    	}// in the sentence string, punctiation is directly in the word 
+		    	else{
+		    		if(!term1_candidatePOS.isEmpty() && term1_candidatePOS.size()> i){
+		    			if(term1_candidatePOS.get(i-1).matches("NN|NNS|NNP|NNPS")){
+		    				System.out.println(temp1 + " " +term1_candidatePOS.get(i-1));
+		    				temp1 = "";
+		    			}
+		    		}
+		    		
+		    		break;
+		    	}
+		    }
+		    
+		    for(int i = 1; i<= term2_candidate.size(); i++){
+		    	String t2_candidate = String.join(" ", term2_candidate.subList(0, i));
+		    	String t2_candidateWP = t2_candidate.replaceAll("[^a-zA-Z]+$", "").trim();
+		    	if(this.allTerms.contains(t2_candidateWP)){
+		    		temp2 = t2_candidateWP;
+		    		continue;
+		    	}
+		    	else{
+		    		if(!term2_candidatePOS.isEmpty() && term2_candidatePOS.size()> i){
+		    			if(term2_candidatePOS.get(i-1).matches("NN|NNS|NNP|NNPS")){
+		    				System.out.println(temp2 + " " +term2_candidatePOS.get(i-1) + term2_candidate.get(i-1));
+		    				temp2 = "";
+		    			}
+		    		}
+		    		//if temp2.last word is an N, NNS usw. -> temp1 = ""	
+		    		break;
+					}
+		    		
+		    	}
+		
+		    if(!temp1.isEmpty() && !temp2.isEmpty()){
+				if(!temp1.equals(temp2)){
+					Pair<String> pair = new Pair<String>(temp1, temp2);
+					candidates.add(pair);	
+				}
+				
+			}
+		    
+		   
+
+	}
+		
+		
+	}
 	public static void main(String[] args) {
+		String sentenceString = "Homocysteine, a toxin associated with Alzheimer’s disease, can be detoxified from our body with folate, vitamin B12, and vitamin B6.".toLowerCase();
+		String pattern = "associated with";
+		TesterForStuff ts = new TesterForStuff();
+		ts.lookForPatternMatch(sentenceString, pattern);
 		/*Document doc;
 		try {
 			 Connection.Response loginForm = Jsoup.connect("http://scienceofdiet.com/login").userAgent("vera bachelorarbeit")
@@ -110,7 +205,7 @@ public class TesterForStuff {
 		//tagTerms();
 		
 		//luceneSearch();
-		 System.out.println(candidateContainsOtherTerms("disease"));
+		 //System.out.println(candidateContainsOtherTerms("disease"));
 	
 	}
 	
@@ -213,7 +308,7 @@ public class TesterForStuff {
 		LuceneSearcher ls = new LuceneSearcher();
 		  Set<String> set;
 		try {
-			set = ls.doSearch("\"" + "nonalcoholic fatty liver" +"\"", "EVALUATION SETS/AUTHORITYNUTRITION/INDEX AUTHORITYUTRITION/");
+			set = ls.doSearch("\"" + "alzheimer’s disease" +"\"", "IndexDirectory/");
 			for(String path: set){
 				  String str = Reader.readContentOfFile(path);
 				  System.out.println(path);
