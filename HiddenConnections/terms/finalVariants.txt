@@ -215,7 +215,6 @@ black bear	greater panda,grizzly bear,giant panda,black bears,black bear,bears,g
 funding effect	funding effect,	INTERMEDIARY_CONCEPT
 fibromyalgia-fibromyositis syndrome	fibromyalgia-fibromyositis syndromes,secondary fibromyalgia,fibromyalgia-fibromyositis syndrome,fibrositides,fibrositis,secondary fibromyalgias,fibromyalgia,diffuse myofascial pain syndrome,primary fibromyalgia,muscular rheumatism,fibromyositis-fibromyalgia syndromes,fibromyalgia fibromyositis syndrome,fibromyositis-fibromyalgia syndrome,primary fibromyalgias,fibromyositis fibromyalgia syndrome,fibromyalgias,	DISEASE
 intestinal bacteria	intestinal bacteria,	INTERMEDIARY_CONCEPT
-fatter	fatter,	INTERMEDIARY_CONCEPT
 pineapple	pineapple,pineapples,ananas,anana,	FOOD
 legume	colophospermum,pithecolobium,andira,tachigalia,afzelia,guibourtia,baptisia,legumes,ceratonia,copaifera,pea family,clathrotropis,stryphnodendron,leguminosae,callerya,legume,fabaceae,amorpha,pea families,machaerium,delonix,euchresta,pithecellobium,	FOOD
 cck-33	cck-33,pancreozymin,cholecystokinin,uropancreozymin,cholecystokinin 33,	INTERMEDIARY_CONCEPT
@@ -520,7 +519,7 @@ audio version	audio version,	INTERMEDIARY_CONCEPT
 transport proteins	carrier proteins,binding proteins,transport proteins,binding protein,	INTERMEDIARY_CONCEPT
 global health	global health,international health problems,one health initiative,one health,one medicine initiative,world health,worldwide health,international health problem,	INTERMEDIARY_CONCEPT
 cdcp	cdcp,centers for disease control,cdc,centers for disease control and prevention (u.s.),centers for disease control and prevention,center for disease control,centers for disease control (u.s.),united states centers for disease control,united states centers for disease control and prevention,center for disease control and prevention,	INTERMEDIARY_CONCEPT
-ssri	ssri,ssri's,ssri’s,	INTERMEDIARY_CONCEPT
+ssri	ssri,ssri's,	INTERMEDIARY_CONCEPT
 groundbreak	groundbreak,	INTERMEDIARY_CONCEPT
 bad breath	bad breath,	INTERMEDIARY_CONCEPT
 hip fractures	subtrochanteric fractures,hip fractures,intertrochanteric fractures,trochanteric fractures,	DISEASE
@@ -874,7 +873,7 @@ dietary changes	dietary changes,	INTERMEDIARY_CONCEPT
 ear	ears,vestibulocochlear system,ear,vestibulocochlear apparatus,	INTERMEDIARY_CONCEPT
 rooibos tea	rooibos tea,	FOOD
 fructose corn	fructose corn,	FOOD
-eat	ate,eat,	INTERMEDIARY_CONCEPT
+eat	eat,	INTERMEDIARY_CONCEPT
 açai	açai,	INTERMEDIARY_CONCEPT
 taufon	tauphon,taufon,taurine zinc salt (2:1),monopotassium salt taurine,taurine,taurine hydrochloride,	INTERMEDIARY_CONCEPT
 lower cholesterol	lower cholesterol,	INTERMEDIARY_CONCEPT
@@ -2367,7 +2366,6 @@ squash	squash,squashes,	FOOD
 hiv	lymphadenopathy associated virus,human t-cell lymphotropic virus type iii,aids virus,human t-cell leukemia virus type iii,human t cell leukemia virus type iii,human immunodeficiency viruses,human t-lymphotropic virus type iii,human t lymphotropic virus type iii,hiv,acquired immune deficiency syndrome virus,lymphadenopathy-associated viruses,lav-htlv-iii,human immunodeficiency virus,aids viruses,lymphadenopathy-associated virus,human t cell lymphotropic virus type iii,acquired immunodeficiency syndrome virus,htlv-iii,	DISEASE
 uk 9248010	homosildenafil,ncx-911,desmethylsildenafil,480-10,480 10 uk 92,ncx911,desmethyl sildenafil,uk 92480-10,sildenafil citrate,sildenafil,acetildenafil,sildenafil lactate,revatio,uk 92480 10,uk-92,uk 9248010,hydroxyhomosildenafil,viagra,ncx 911,7-dihydro-1-methyl-7-oxo-3-propyl-1h-pyrazolo(4 1-((3-(6,sildenafil nitrate,	INTERMEDIARY_CONCEPT
 johne disease	johne's disease,paratuberculosis,johne disease,paratuberculoses,johnes disease,	DISEASE
-beat	beat,	INTERMEDIARY_CONCEPT
 bear	greater panda,grizzly bear,giant panda,black bears,bears,black bear,greater pandas,giant pandas,polar bears,ursidae,ursus,polar bear,tremarctos,grizzly bears,spectacled bear,bear,ailuropoda,spectacled bears,	INTERMEDIARY_CONCEPT
 grandfather	grandmothers,grandparents,grandmother,grandparent,grandfather,grandfathers,	INTERMEDIARY_CONCEPT
 bean	beans,bean,	FOOD
@@ -3290,7 +3288,6 @@ mucous colitis	mucous colitis,irritable bowel syndromes,irritable bowel syndrome
 gladem	lustral,novo sertraline,sealdin,gen sertraline,besitran,sertraline hydrochloride (1s-cis)-isomer,rhoxal-sertraline,gen-sertraline,altruline,ratio-sertraline,gladem,novo-sertraline,apo sertraline,ratio sertraline,sertraline hydrochloride,zoloft,apo-sertraline,rhoxal sertraline,sertraline,aremis,	INTERMEDIARY_CONCEPT
 marsh fever	remittent fever,paludism,marsh fever,plasmodium infection,malaria,plasmodium infections,	DISEASE
 menopause	menopause,female change of life,	INTERMEDIARY_CONCEPT
-health-promoting	health-promoting,	INTERMEDIARY_CONCEPT
 foam cells	foam cells,foam cell,	INTERMEDIARY_CONCEPT
 heart failure	heart failure,myocardial failure,right sided heart failure,left sided heart failure,congestive heart failure,heart decompensation,right-sided heart failure,left-sided heart failure,cardiac failure,	DISEASE
 fortify milk	fortify milk,	FOOD
@@ -3709,7 +3706,7 @@ red rice	red rice,	FOOD
 kava	kawas,kawa,kava,kavas,piper methysticums,kawa kawas,kava kava,kava kavas,kawa kawa,piper methysticum,	FOOD
 protein recommendations	protein recommendations,	INTERMEDIARY_CONCEPT
 wheelchair	wheel chairs,wheelchair,wheelchairs,wheel chair,	INTERMEDIARY_CONCEPT
-kid	kid,kids,	INTERMEDIARY_CONCEPT
+kid	kid,	INTERMEDIARY_CONCEPT
 neurotoxins found	neurotoxins found,	INTERMEDIARY_CONCEPT
 solprin	ecotrin,endosprin,polopirin,micristin,polopiryna,solprin,acetylsalicylic acid,magnecyl,aloxiprimum,dispril,aspirin,2-(acetyloxy)benzoic acid,zorprin,acetysal,easprin,acylpyrin,colfarit,solupsan,	INTERMEDIARY_CONCEPT
 human t cell leukemia virus type iii	lymphadenopathy associated virus,human t-cell lymphotropic virus type iii,aids virus,human t-cell leukemia virus type iii,human t cell leukemia virus type iii,human immunodeficiency viruses,human t-lymphotropic virus type iii,human t lymphotropic virus type iii,hiv,acquired immune deficiency syndrome virus,lymphadenopathy-associated viruses,lav-htlv-iii,human immunodeficiency virus,aids viruses,lymphadenopathy-associated virus,human t cell lymphotropic virus type iii,acquired immunodeficiency syndrome virus,htlv-iii,	DISEASE
@@ -5484,7 +5481,6 @@ factory farming	factory farming,	INTERMEDIARY_CONCEPT
 undercooked meat	undercooked meat,	FOOD
 farms chicken	farms chicken,	INTERMEDIARY_CONCEPT
 camelus	bractrian camels,bractrian camel,camels,camelus bactrianus,camel,dromedaries,camelus,camelus dromedarius,dromedary,	INTERMEDIARY_CONCEPT
-breast fed	breast fed,	INTERMEDIARY_CONCEPT
 betel	betel,	FOOD
 barberry	barberries,berberi,barberry,berberis,	FOOD
 orac	orac,	INTERMEDIARY_CONCEPT
@@ -6099,7 +6095,6 @@ vomiturition	vomiturition,	INTERMEDIARY_CONCEPT
 zyloric	atisuril,remid,allorin,milurit,novopurol,foligan,urosin,cellidrin,uribenz,pan quimica,zygout,hamarin,zyloric,allpargin,zyloprim,apurin,capurate,purinol,allural,alloprin,allopurinol,allopurin,uripurinol,xanthomax,jenapurinol,rimapurinol,lopurin,lysuron,apulonga,urtias,bleminol,suspendol,milurite,tipuric,roucol,uridocid,embarin,pureduct,allohexal,progout,allohexan,xanturic,caplenal,	INTERMEDIARY_CONCEPT
 moms insisted	moms insisted,	INTERMEDIARY_CONCEPT
 white blood cells	white blood corpuscle,white blood cell,white blood cells,leukocyte,leukocytes,white blood corpuscles,	INTERMEDIARY_CONCEPT
-fatty	fatty,	INTERMEDIARY_CONCEPT
 increasing incidence	increasing incidence,	INTERMEDIARY_CONCEPT
 federal trade	federal trade,	INTERMEDIARY_CONCEPT
 subsidence	subsidence,	INTERMEDIARY_CONCEPT
@@ -6409,7 +6404,6 @@ burkitt herpesvirus	e-b viruses,epstein barr virus,burkitt's lymphoma virus,huma
 acquired blindness	hysterical blindness,monocular blindness,blindness,amauroses,complete blindness,transient blindness,acquired blindness,amaurosis,legal blindness,	DISEASE
 button mushrooms	button mushrooms,	INTERMEDIARY_CONCEPT
 meals on wheels	meal on wheels,meals on wheels,food services,food service,	INTERMEDIARY_CONCEPT
-fat soluble	fat soluble,	INTERMEDIARY_CONCEPT
 hordein	gluten,glutens,glutelin,hordeins,gluten proteins,hordein,secalins,secalin,glutelins,	INTERMEDIARY_CONCEPT
 tart	tart,	INTERMEDIARY_CONCEPT
 cancer cases	cancer cases,	INTERMEDIARY_CONCEPT
@@ -7995,7 +7989,6 @@ aortic stiffness	arterial stiffness,aortic stiffness,vascular stiffnesses,arteri
 buckwheat	fagopyrum sagittatum,buckwheat,fagopyrum esculentum,fagopyrum tataricum,fagopyrum,buckwheats,	FOOD
 coconut-derived emulsion	coconut-derived emulsion,	INTERMEDIARY_CONCEPT
 metabolism	biochemical pathways,incorporation,biotransformation,mobilization,biodegradation,metabolism,degradation,catabolism,turnover,	INTERMEDIARY_CONCEPT
-acidic	acidic,	INTERMEDIARY_CONCEPT
 braeburn	braeburn,	INTERMEDIARY_CONCEPT
 eco-atkin	eco-atkins,eco-atkin,	INTERMEDIARY_CONCEPT
 experimental parkinsonism	parkinsonism,chromosome 6-linked autosomal recessive parkinsonism,mptp-induced experimental parkinsonism,parkinsonian disorders,familial parkinson disease,autosomal recessive familial parkinson disease,chromosome 6 linked autosomal recessive parkinsonism,experimental parkinson diseases,parkinsonian diseases,autosomal recessive juvenile parkinson disease 2,parkinsonian syndromes,autosomal recessive juvenile parkinson disease,juvenile parkinson disease,autosomal recessive juvenile parkinsonism,experimental parkinson disease,juvenile parkinsonisms,autosomal dominant. juvenile parkinson disease,juvenile parkinsonism,autosomal dominant juvenile parkinsonism,parkinsonian syndrome,experimental parkinsonisms,autosomal recessive parkinsonism,parkinson disease 2,familial juvenile parkinsonism,early onset parkinson disease autosomal recessive,autosomal dominant parkinsonism,early-onset parkinsonism,autosomal dominant juvenile parkinson disease,mptp induced experimental parkinsonism,early onset parkinsonism,experimental parkinsonism,ramsay hunt paralysis syndrome,autosomal recesssive juvenile parkinsonism,	DISEASE
@@ -8600,7 +8593,6 @@ scam	scam,	INTERMEDIARY_CONCEPT
 galactosemia 3	galactose-1-phosphate uridyltransferase deficiencies,galactokinase deficiency disease,galactosemia 2s,galk deficiencies,udp-galactose-4-epimerase deficiencies,udpglucose hexose-1-phosphate uridylyltransferase deficiency,galactokinase deficiencies,galactosemia,epimerase deficiency galactosemia,gale deficiencies,galactosemia 3,galactosemia 2,utp hexose 1 phosphate uridylyltransferase deficiency disease,galactose-1-phosphate uridylyltransferase deficiency,galactose-1-phosphate uridylyltransferase deficiencies,udp-galactose-4-epimerase deficiency disease,udp-galactose-4-epimerase deficiency diseases,galactokinase deficiency,utp hexose-1-phosphate uridylyltransferase deficiency,galactose epimerase deficiency,galactosemia iiis,hereditary galactokinase deficiencies,hereditary galactokinase deficiency,galk deficiency,udpglucose 4 epimerase deficiency disease,galactose 1 phosphate uridyl transferase deficiency disease,epimerase deficiency galactosemias,galactose-1-phosphate uridyltransferase deficiency,galactosemia 3s,udp galactose 4 epimerase deficiency,classic galactosemias,classic galactosemia,galactosemias,galactokinase deficiency diseases,galactosemia iii,galactose-1-phosphate uridyl-transferase deficiency disease,udpglucose hexose 1 phosphate uridylyltransferase deficiency,utp-hexose-1-phosphate uridylyltransferase deficiency disease,galt deficiency,galactose epimerase deficiencies,udp galactose 4 epimerase deficiency disease,utp hexose 1 phosphate uridylyltransferase deficiency,gale deficiency,udpglucose 4-epimerase deficiency disease,galactose 1 phosphate uridyltransferase deficiency,galactose 1 phosphate uridylyltransferase deficiency,udp-galactose-4-epimerase deficiency,galt deficiencies,	DISEASE
 galactosemia 2	galactose-1-phosphate uridyltransferase deficiencies,galactokinase deficiency disease,galactosemia 2s,galk deficiencies,udp-galactose-4-epimerase deficiencies,udpglucose hexose-1-phosphate uridylyltransferase deficiency,galactokinase deficiencies,galactosemia,epimerase deficiency galactosemia,gale deficiencies,galactosemia 3,galactosemia 2,utp hexose 1 phosphate uridylyltransferase deficiency disease,galactose-1-phosphate uridylyltransferase deficiency,galactose-1-phosphate uridylyltransferase deficiencies,udp-galactose-4-epimerase deficiency disease,udp-galactose-4-epimerase deficiency diseases,galactokinase deficiency,utp hexose-1-phosphate uridylyltransferase deficiency,galactose epimerase deficiency,galactosemia iiis,hereditary galactokinase deficiencies,hereditary galactokinase deficiency,galk deficiency,udpglucose 4 epimerase deficiency disease,galactose 1 phosphate uridyl transferase deficiency disease,epimerase deficiency galactosemias,galactose-1-phosphate uridyltransferase deficiency,galactosemia 3s,udp galactose 4 epimerase deficiency,classic galactosemias,classic galactosemia,galactosemias,galactokinase deficiency diseases,galactosemia iii,galactose-1-phosphate uridyl-transferase deficiency disease,udpglucose hexose 1 phosphate uridylyltransferase deficiency,utp-hexose-1-phosphate uridylyltransferase deficiency disease,galt deficiency,galactose epimerase deficiencies,udp galactose 4 epimerase deficiency disease,utp hexose 1 phosphate uridylyltransferase deficiency,gale deficiency,udpglucose 4-epimerase deficiency disease,galactose 1 phosphate uridyltransferase deficiency,galactose 1 phosphate uridylyltransferase deficiency,udp-galactose-4-epimerase deficiency,galt deficiencies,	DISEASE
 the german medical association	the german medical association,	INTERMEDIARY_CONCEPT
-cute	cute,	INTERMEDIARY_CONCEPT
 risk group	risk group,	INTERMEDIARY_CONCEPT
 thyme	thymes,thymus plants,thymus vulgari,thyme,thymus plant,thymus vulgaris,	FOOD
 dolphin fish	centrarchidae,bluegill,croaker,mackerel,dolphin fish,croakers,sunfishes,perciformes,bluegills,sparid fish,porgies,sparus,mackerels,mahi-mahi,	INTERMEDIARY_CONCEPT
@@ -10271,7 +10263,6 @@ dandelion	dandelions,dandelion,taraxacum,taraxacum officinale,	FOOD
 testosterone sulfate	testim,ortho brand of testosterone,17 beta hydroxy 8 alpha 4 androsten 3 one,sterotate,17-beta-hydroxy-8 alpha-4-androsten-3-one,andropatch,testosterone sulfate,bartor brand of testosterone,pasadena brand of testosterone,testoderm,auxilium pharmaceuticals inc. brand of testosterone,androtop,sustanon,androderm,ulmer brand of testosterone,testosterone,ferring brand of testosterone,androgel,testolin,17-beta-hydroxy-4-androsten-3-one,schering brand of testosterone,smithkline beecham brand of testosterone,watson brand of testosterone,testopel,8 isotestosterone,17 beta hydroxy 4 androsten 3 one,hauck brand of testosterone,faulding brand of testosterone,dr. kade brand of testosterone,astrazeneca brand of testosterone,8-isotestosterone,histerone,paladin brand of testosterone,unimed brand of testosterone,glaxosmithkline brand of testosterone,solvay brand of testosterone,cepa brand of testosterone,	INTERMEDIARY_CONCEPT
 retained surgical tool	textiloma,gossypibomas,retained surgical items,retained surgical tools,foreign body,foreign objects,gossypiboma,retained surgical needles,retained surgical tool,retained surgical item,retained surgical sponge,retained surgical sponges,foreign bodies,textilomas,retained surgical instrument,foreign object,retained surgical instruments,retained surgical needle,	DISEASE
 perioral tremors	perioral tremor,resting tremors,intention tremor,neonatal tremors,darkness tremors,fine tremor,fine tremors,senile tremors,involuntary quivers,action tremor,limb tremors,massive tremors,coarse tremor,nerve tremor,passive tremors,passive tremor,massive tremor,persistent tremor,neonatal tremor,rest tremor,static tremors,perioral tremors,muscle tremors,darkness tremor,tremors,senile tremor,pill rolling tremor,muscle tremor,tremor,continuous tremors,static tremor,coarse tremors,action tremors,intermittent tremors,rest tremors,intermittent tremor,pill rolling tremors,resting tremor,nerve tremors,saturnine tremor,semirhythmic tremors,semirhythmic tremor,intention tremors,saturnine tremors,limb tremor,involuntary quiver,persistent tremors,continuous tremor,	DISEASE
-leaner	leaner,	INTERMEDIARY_CONCEPT
 energy chews	energy chews,	INTERMEDIARY_CONCEPT
 barrier function	barrier function,	INTERMEDIARY_CONCEPT
 agricultural workers	farmworker,agricultural worker,rancher,farmer,ranchers,farmers,farmworkers,farm worker,agricultural workers,farm workers,	INTERMEDIARY_CONCEPT

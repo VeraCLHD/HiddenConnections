@@ -19,7 +19,6 @@ downer	anxiety	, without the	PART-OF
 saturated fat	beef	, without the	PART-OF
 side effects	drug	, without the	PART-OF
 fat	phytonutrients	, without the	PART-OF
-drug	drugs	, without the	PART-OF
 dna	plants	have	PART-OF
 fiber	plant foods	have	PART-OF
 phytonutrients	dates	have	PART-OF
@@ -29,10 +28,8 @@ fiber	dates	have	PART-OF
 antioxidants	vegetables	have	PART-OF
 benzene	soft drinks	have	PART-OF
 nicotine	plants	have	PART-OF
-myrosinase	greens	have	PART-OF
 phosphorus	animal foods	have	PART-OF
 mgus	who	have	PART-OF
-fatty streaks	kids	have	PART-OF
 adverse effects	pregnancy	have	PART-OF
 phytonutrients	sea vegetables	have	PART-OF
 amla	smoothies	have	PART-OF
@@ -44,11 +41,8 @@ lignans	flaxseeds	are packed with	PART-OF
 nutrition	nuts	are packed with	PART-OF
 fiber	dried fruit	are packed with	PART-OF
 salmonella	turkey	has	PART-OF
-opioid	casomorphin	has	PART-OF
 phosphorus	protein	has	PART-OF
-bumped	diet	has	PART-OF
 health benefits	spice	has	PART-OF
-vitamin d	mom	has	PART-OF
 shot	dementia	has	PART-OF
 folate	kiwifruit	has	PART-OF
 fiber	date sugar	has	PART-OF
@@ -93,11 +87,8 @@ lignans	flaxseeds	are packed with	PART-OF
 nutrition	nuts	are packed with	PART-OF
 fiber	dried fruit	are packed with	PART-OF
 salmonella	turkey	has	PART-OF
-opioid	casomorphin	has	PART-OF
 phosphorus	protein	has	PART-OF
-bumped	diet	has	PART-OF
 health benefits	spice	has	PART-OF
-vitamin d	mom	has	PART-OF
 shot	dementia	has	PART-OF
 folate	kiwifruit	has	PART-OF
 fiber	date sugar	has	PART-OF
@@ -162,10 +153,8 @@ fiber	dates	have	PART-OF
 antioxidants	vegetables	have	PART-OF
 benzene	soft drinks	have	PART-OF
 nicotine	plants	have	PART-OF
-myrosinase	greens	have	PART-OF
 phosphorus	animal foods	have	PART-OF
 mgus	who	have	PART-OF
-fatty streaks	kids	have	PART-OF
 adverse effects	pregnancy	have	PART-OF
 phytonutrients	sea vegetables	have	PART-OF
 amla	smoothies	have	PART-OF

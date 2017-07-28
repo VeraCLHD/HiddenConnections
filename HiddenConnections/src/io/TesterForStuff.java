@@ -32,7 +32,7 @@ public class TesterForStuff {
 	
 	public void lookForPatternMatch(String sentenceString, String pattern) {
 		this.allTerms.add("toxin");
-		this.allTerms.add("alzheimer's disease");
+		//this.allTerms.add("alzheimer's disease");
 		this.allTerms.add("alzheimer");
 		
 		Set<Pair<String>> candidates = new HashSet<Pair<String>>();
@@ -75,8 +75,8 @@ public class TesterForStuff {
 		    	}// in the sentence string, punctiation is directly in the word 
 		    	else{
 		    		if(!term1_candidatePOS.isEmpty() && term1_candidatePOS.size()> i){
-		    			if(term1_candidatePOS.get(i-1).matches("NN|NNS|NNP|NNPS")){
-		    				System.out.println(temp1 + " " +term1_candidatePOS.get(i-1));
+		    			if(term1_candidatePOS.get(i).matches("NN|NNS|NNP|NNPS")){
+		    				System.out.println(temp1 + " " +term1_candidatePOS.get(i) + " " + term1_candidate.get(i));
 		    				temp1 = "";
 		    			}
 		    		}
@@ -93,7 +93,7 @@ public class TesterForStuff {
 		    		continue;
 		    	}
 		    	else{
-		    		if(!term2_candidatePOS.isEmpty() && term2_candidatePOS.size()> i){
+		    		if(!term2_candidatePOS.isEmpty() && term2_candidatePOS.size()> i && i-1>0){
 		    			if(term2_candidatePOS.get(i-1).matches("NN|NNS|NNP|NNPS")){
 		    				System.out.println(temp2 + " " +term2_candidatePOS.get(i-1) + term2_candidate.get(i-1));
 		    				temp2 = "";
@@ -108,6 +108,7 @@ public class TesterForStuff {
 		    if(!temp1.isEmpty() && !temp2.isEmpty()){
 				if(!temp1.equals(temp2)){
 					Pair<String> pair = new Pair<String>(temp1, temp2);
+					System.out.println(temp1 + " "+ temp2);
 					candidates.add(pair);	
 				}
 				
@@ -120,7 +121,7 @@ public class TesterForStuff {
 		
 	}
 	public static void main(String[] args) {
-		String sentenceString = "Homocysteine, a toxin associated with Alzheimer’s disease, can be detoxified from our body with folate, vitamin B12, and vitamin B6.".toLowerCase();
+		String sentenceString = "A toxin associated with Alzheimer's disease, can be detoxified from our body with folate, vitamin B12, and vitamin B6.".toLowerCase();
 		String pattern = "associated with";
 		TesterForStuff ts = new TesterForStuff();
 		ts.lookForPatternMatch(sentenceString, pattern);

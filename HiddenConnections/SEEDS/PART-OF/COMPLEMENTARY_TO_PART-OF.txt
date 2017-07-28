@@ -634,7 +634,6 @@ dump sentences\V-319_26_.txt	drug	placebo effects	or	AND-CONJ	[CC]	4
 dump sentences\V-101_47_.txt	heart disease	arteries	,	LIST	[,]	4
 dump sentences\T-906_9_.txt	nitrates	antioxidants	,	LIST	[,]	4
 dump sentences\T-1026_8_.txt	fruit	mushrooms	,	LIST	[,]	4
-dump sentences\V-382_13_.txt	kids	kidney failure	with	PREP	[IN]	4
 dump sentences\A-281_26_.txt	plants	beet	—such as beets and	IS-A	[:, JJ, IN, NNS, CC]	20
 dump sentences\A-281_26_.txt	plants	beet greens	—such as beets and	IS-A	[:, JJ, IN, NNS, CC]	20
 dump sentences\A-348_7_.txt	dried apples	dates	,	LIST	[,]	4
@@ -718,7 +717,6 @@ dump sentences\V-404_0_.txt	headache	fatigue	,	LIST	[,]	4
 dump sentences\V-760_9_.txt	saturated animal fat	blood	, our	LIST	[,, PRP$]	4
 dump sentences\T-1347_1_.txt	broccoli	green tea	,	LIST	[,]	4
 dump sentences\V-1069_21_.txt	inflammation	skin cancers	,	LIST	[,]	4
-dump sentences\A-83_19_.txt	kids	pregnant women	or	AND-CONJ	[CC]	4
 dump sentences\T-606_1_.txt	aging	plant-based diets	,	LIST	[,]	4
 dump sentences\A-230_21_.txt	animal protein	calcium	, &	AND-CONJ	[,, CC]	4
 dump sentences\A-224_9_.txt	pasta	tomato sauce	,	LIST	[,]	4
@@ -1000,7 +998,6 @@ dump sentences\T-159_4_.txt	meat	cod liver oil	,	LIST	[,]	3
 dump sentences\A-465_4_.txt	national chicken council	american meat institute	,	LIST	[,]	3
 dump sentences\A-175_21_.txt	dairy	meat	or	AND-CONJ	[CC]	3
 dump sentences\A-32_14_.txt	muscles	insulin resistance	with	PREP	[IN]	3
-dump sentences\V-33_16_.txt	kids	age	by	PREP	[IN]	3
 dump sentences\T-298_6_.txt	celiac disease	who	, those	LIST	[,, DT]	3
 dump sentences\T-585_5_.txt	biomarkers	fish	for	PREP	[IN]	3
 dump sentences\A-10_34_.txt	brains	dying	of those	PREP	[IN, DT]	3
@@ -1205,7 +1202,6 @@ dump sentences\A-16_34_.txt	side effects	antidepressants	of	PREP	[IN]	3
 dump sentences\A-454_10_.txt	cows	who	,	LIST	[,]	3
 dump sentences\A-34_36_.txt	pritikin	ornish	,	LIST	[,]	3
 dump sentences\T-225_5_.txt	fruit juices	mangosteen	such as noni and	IS-A	[JJ, IN, NNS, CC]	16
-dump sentences\V-15_135_.txt	snacking	kids	for	PREP	[IN]	3
 dump sentences\A-289_13_.txt	pain	inflammation	caused by	CAUSE	[VBN, IN]	3
 dump sentences\V-546_2_.txt	drug	multiple sclerosis	for	PREP	[IN]	3
 dump sentences\T-890_3_.txt	meat	eggs	or	AND-CONJ	[CC]	3
@@ -1292,7 +1288,6 @@ dump sentences\A-243_16_.txt	cruciferous vegetables	broccoli	such as	IS-A	[JJ, I
 dump sentences\A-1_19_.txt	chronic diseases	coronary heart disease	such as	IS-A	[JJ, IN]	8
 dump sentences\V-789_0_.txt	farmer	hydroponic greenhouse	with a	PREP	[IN, DT]	2
 dump sentences\T-114_6_.txt	breast cancer	treatment	because	PREP	[IN]	2
-dump sentences\A-155_24_.txt	allergies	kids	,	LIST	[,]	2
 dump sentences\A-7_29_.txt	flexitarian	vegetarian	or	AND-CONJ	[CC]	2
 dump sentences\A-137_23_.txt	smoking	lung cancer	after	PREP	[IN]	2
 dump sentences\V-478_21_.txt	malformations	preterm birth	,	LIST	[,]	2
@@ -1502,7 +1497,6 @@ dump sentences\V-798_4_.txt	viruses	food additive	as a	PREP	[IN, DT]	2
 dump sentences\A-283_7_.txt	inflammation	variety	through a	PREP	[IN, DT]	2
 dump sentences\T-120_10_.txt	dried apples	cherries	, dried	LIST	[,, VBD]	2
 dump sentences\V-864_8_.txt	alcohol	exercise	,	LIST	[,]	2
-dump sentences\V-327_10_.txt	kids	who	, though,	LIST	[,, RB, ,]	2
 dump sentences\V-42_12_.txt	vegetables	soy foods	,	LIST	[,]	2
 dump sentences\A-201_5_.txt	lifespan	cardiac death	,	LIST	[,]	2
 dump sentences\A-75_25_.txt	sperm counts	processed meat	associated with	CAUSE	[VBN, IN]	2
@@ -1929,7 +1923,6 @@ dump sentences\V-434_7_.txt	adverse effects	cadmium	of the	PREP	[IN, DT]	2
 dump sentences\A-188_5_.txt	treatment	dementia	of	PREP	[IN]	2
 dump sentences\T-1464_3_.txt	dietary antibiotics	industrial toxins	,	LIST	[,]	2
 dump sentences\V-40_28_.txt	dioxins	cooked meat	,	LIST	[,]	2
-dump sentences\V-336_19_.txt	kids	puberty	to	PREP	[TO]	2
 dump sentences\V-454_4_.txt	cabbage	sweet potatoes	,	LIST	[,]	2
 dump sentences\V-917_0_.txt	hay fever	eczema	,	LIST	[,]	2
 dump sentences\T-756_9_.txt	phytonutrients	dna damage	reduced	DECREASE	[VBD]	2
@@ -2076,7 +2069,6 @@ dump sentences\A-20_0_.txt	nuts	plant foods	are	HYPERNYMY	[VBP]	4
 dump sentences\V-509_9_.txt	blueberries	oxidative stress	 could reduce the	DECREASE	[MD, VB, DT]	2
 dump sentences\T-114_6_.txt	treatment	antibiotics	with	PREP	[IN]	2
 dump sentences\T-590_8_.txt	purple potatoes	kiwi	,	LIST	[,]	2
-dump sentences\V-38_11_.txt	kids	asthma	with	PREP	[IN]	2
 dump sentences\V-1095_18_.txt	broad beans	broccoli	,	LIST	[,]	2
 dump sentences\V-1168_12_.txt	breast cancer	radicchio	,	LIST	[,]	2
 dump sentences\T-1792_2_.txt	protein	colon cancer	slows the growth of	DECREASE	[VBZ, DT, NN, IN]	2
@@ -2279,7 +2271,6 @@ dump sentences\A-448_12_.txt	vegetables	copd	for	PREP	[IN]	2
 dump sentences\A-245_4_.txt	split peas	lentils	or	AND-CONJ	[CC]	2
 dump sentences\A-422_0_.txt	macadamia oil	grape seed oil	,	LIST	[,]	2
 dump sentences\V-278_2_.txt	american heart association	american college of cardiology	, the	LIST	[,, DT]	2
-dump sentences\A-42_4_.txt	snacks	kids	for	PREP	[IN]	2
 dump sentences\A-362_20_.txt	tomatoes	tomato juice	to	PREP	[TO]	2
 dump sentences\A-346_12_.txt	dried apples	diet	to our	PREP	[TO, PRP$]	2
 dump sentences\V-119_6_.txt	colon cancer	multiple myeloma	,	LIST	[,]	2
@@ -3231,7 +3222,6 @@ dump sentences\T-502_3_.txt	pain	osteoarthritis	associated with both	CAUSE	[VBN,
 dump sentences\V-16_56_.txt	tumors	lymphomas	,	LIST	[,]	1
 dump sentences\T-751_3_.txt	toxins	chemical	,	LIST	[,]	1
 dump sentences\V-879_2_.txt	eggplant	squash	,	LIST	[,]	1
-dump sentences\V-1275_6_.txt	kids	vegan	, the	LIST	[,, DT]	1
 dump sentences\T-1911_13_.txt	colon cancer	bph	, as well as	AND-CONJ	[,, RB, RB, IN]	1
 dump sentences\T-1914_24_.txt	nitrates	treat	, which	LIST	[,, WDT]	1
 dump sentences\V-1247_3_.txt	vegetables	tofu	,	LIST	[,]	1
@@ -3294,7 +3284,6 @@ dump sentences\A-230_3_.txt	minerals	calcium	, like	LIST	[,, IN]	1
 dump sentences\V-1015_10_.txt	gooseberries	indian gooseberries	, or	AND-CONJ	[,, CC]	1
 dump sentences\V-570_1_.txt	carrageenan	food additive	, a	LIST	[,, DT]	1
 dump sentences\V-1250_5_.txt	nuts	cloves	, but	LIST	[,, CC]	1
-dump sentences\V-22_14_.txt	sugar	kids	,	LIST	[,]	1
 dump sentences\T-120_10_.txt	sugar	currants	,	LIST	[,]	1
 dump sentences\A-199_21_.txt	fecal contamination	chicken	on	PREP	[IN]	2
 dump sentences\A-173_1_.txt	drug	control	is used to	USAGE	[VBZ, VBN, TO]	1

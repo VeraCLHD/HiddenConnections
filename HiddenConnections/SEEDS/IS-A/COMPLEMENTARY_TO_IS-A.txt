@@ -531,7 +531,6 @@ dump sentences\V-319_26_.txt	drug	placebo effects	or	AND-CONJ	[CC]	4
 dump sentences\V-101_47_.txt	heart disease	arteries	,	LIST	[,]	4
 dump sentences\T-906_9_.txt	nitrates	antioxidants	,	LIST	[,]	4
 dump sentences\T-1026_8_.txt	fruit	mushrooms	,	LIST	[,]	4
-dump sentences\V-382_13_.txt	kids	kidney failure	with	PREP	[IN]	4
 dump sentences\A-348_7_.txt	dried apples	dates	,	LIST	[,]	4
 dump sentences\V-13_70_.txt	leafy vegetables	fruits	, dried	LIST	[,, VBD]	4
 dump sentences\T-358_11_.txt	muscle tissue	animal foods	of	PREP	[IN]	4
@@ -611,7 +610,6 @@ dump sentences\V-404_0_.txt	headache	fatigue	,	LIST	[,]	4
 dump sentences\V-760_9_.txt	saturated animal fat	blood	, our	LIST	[,, PRP$]	4
 dump sentences\T-1347_1_.txt	broccoli	green tea	,	LIST	[,]	4
 dump sentences\V-1069_21_.txt	inflammation	skin cancers	,	LIST	[,]	4
-dump sentences\A-83_19_.txt	kids	pregnant women	or	AND-CONJ	[CC]	4
 dump sentences\T-606_1_.txt	aging	plant-based diets	,	LIST	[,]	4
 dump sentences\A-230_21_.txt	animal protein	calcium	, &	AND-CONJ	[,, CC]	4
 dump sentences\A-224_9_.txt	pasta	tomato sauce	,	LIST	[,]	4
@@ -878,7 +876,6 @@ dump sentences\T-159_4_.txt	meat	cod liver oil	,	LIST	[,]	3
 dump sentences\A-465_4_.txt	national chicken council	american meat institute	,	LIST	[,]	3
 dump sentences\A-175_21_.txt	dairy	meat	or	AND-CONJ	[CC]	3
 dump sentences\A-32_14_.txt	muscles	insulin resistance	with	PREP	[IN]	3
-dump sentences\V-33_16_.txt	kids	age	by	PREP	[IN]	3
 dump sentences\T-298_6_.txt	celiac disease	who	, those	LIST	[,, DT]	3
 dump sentences\T-585_5_.txt	biomarkers	fish	for	PREP	[IN]	3
 dump sentences\A-10_34_.txt	brains	dying	of those	PREP	[IN, DT]	3
@@ -1079,7 +1076,6 @@ dump sentences\V-644_4_.txt	health	teeth	of the	PREP	[IN, DT]	3
 dump sentences\A-16_34_.txt	side effects	antidepressants	of	PREP	[IN]	3
 dump sentences\A-454_10_.txt	cows	who	,	LIST	[,]	3
 dump sentences\A-34_36_.txt	pritikin	ornish	,	LIST	[,]	3
-dump sentences\V-15_135_.txt	snacking	kids	for	PREP	[IN]	3
 dump sentences\A-289_13_.txt	pain	inflammation	caused by	CAUSE	[VBN, IN]	3
 dump sentences\V-546_2_.txt	drug	multiple sclerosis	for	PREP	[IN]	3
 dump sentences\T-890_3_.txt	meat	eggs	or	AND-CONJ	[CC]	3
@@ -1161,7 +1157,6 @@ dump sentences\A-321_14_.txt	precancerous lesions	esophagus	of the	PREP	[IN, DT]
 dump sentences\V-112_1_.txt	milk	vitamin d	with	PREP	[IN]	2
 dump sentences\V-789_0_.txt	farmer	hydroponic greenhouse	with a	PREP	[IN, DT]	2
 dump sentences\T-114_6_.txt	breast cancer	treatment	because	PREP	[IN]	2
-dump sentences\A-155_24_.txt	allergies	kids	,	LIST	[,]	2
 dump sentences\A-7_29_.txt	flexitarian	vegetarian	or	AND-CONJ	[CC]	2
 dump sentences\A-137_23_.txt	smoking	lung cancer	after	PREP	[IN]	2
 dump sentences\V-478_21_.txt	malformations	preterm birth	,	LIST	[,]	2
@@ -1368,7 +1363,6 @@ dump sentences\A-283_7_.txt	inflammation	variety	through a	PREP	[IN, DT]	2
 dump sentences\T-120_10_.txt	dried apples	cherries	, dried	LIST	[,, VBD]	2
 dump sentences\V-393_12_.txt	dried fruit	fiber	are packed with	PART-OF	[VBP, VBN, IN]	2
 dump sentences\V-864_8_.txt	alcohol	exercise	,	LIST	[,]	2
-dump sentences\V-327_10_.txt	kids	who	, though,	LIST	[,, RB, ,]	2
 dump sentences\V-42_12_.txt	vegetables	soy foods	,	LIST	[,]	2
 dump sentences\A-201_5_.txt	lifespan	cardiac death	,	LIST	[,]	2
 dump sentences\A-75_25_.txt	sperm counts	processed meat	associated with	CAUSE	[VBN, IN]	2
@@ -1789,7 +1783,6 @@ dump sentences\V-434_7_.txt	adverse effects	cadmium	of the	PREP	[IN, DT]	2
 dump sentences\A-188_5_.txt	treatment	dementia	of	PREP	[IN]	2
 dump sentences\T-1464_3_.txt	dietary antibiotics	industrial toxins	,	LIST	[,]	2
 dump sentences\V-40_28_.txt	dioxins	cooked meat	,	LIST	[,]	2
-dump sentences\V-336_19_.txt	kids	puberty	to	PREP	[TO]	2
 dump sentences\V-454_4_.txt	cabbage	sweet potatoes	,	LIST	[,]	2
 dump sentences\V-917_0_.txt	hay fever	eczema	,	LIST	[,]	2
 dump sentences\T-756_9_.txt	phytonutrients	dna damage	reduced	DECREASE	[VBD]	2
@@ -1934,7 +1927,6 @@ dump sentences\A-20_0_.txt	nuts	plant foods	are	HYPERNYMY	[VBP]	4
 dump sentences\V-509_9_.txt	blueberries	oxidative stress	 could reduce the	DECREASE	[MD, VB, DT]	2
 dump sentences\T-114_6_.txt	treatment	antibiotics	with	PREP	[IN]	2
 dump sentences\T-590_8_.txt	purple potatoes	kiwi	,	LIST	[,]	2
-dump sentences\V-38_11_.txt	kids	asthma	with	PREP	[IN]	2
 dump sentences\V-1095_18_.txt	broad beans	broccoli	,	LIST	[,]	2
 dump sentences\V-1168_12_.txt	breast cancer	radicchio	,	LIST	[,]	2
 dump sentences\T-1792_2_.txt	protein	colon cancer	slows the growth of	DECREASE	[VBZ, DT, NN, IN]	2
@@ -2131,7 +2123,6 @@ dump sentences\A-448_12_.txt	vegetables	copd	for	PREP	[IN]	2
 dump sentences\A-245_4_.txt	split peas	lentils	or	AND-CONJ	[CC]	2
 dump sentences\A-422_0_.txt	macadamia oil	grape seed oil	,	LIST	[,]	2
 dump sentences\V-278_2_.txt	american heart association	american college of cardiology	, the	LIST	[,, DT]	2
-dump sentences\A-42_4_.txt	snacks	kids	for	PREP	[IN]	2
 dump sentences\A-362_20_.txt	tomatoes	tomato juice	to	PREP	[TO]	2
 dump sentences\A-346_12_.txt	dried apples	diet	to our	PREP	[TO, PRP$]	2
 dump sentences\V-119_6_.txt	colon cancer	multiple myeloma	,	LIST	[,]	2
@@ -3108,7 +3099,6 @@ dump sentences\T-502_3_.txt	pain	osteoarthritis	associated with both	CAUSE	[VBN,
 dump sentences\V-16_56_.txt	tumors	lymphomas	,	LIST	[,]	1
 dump sentences\T-751_3_.txt	toxins	chemical	,	LIST	[,]	1
 dump sentences\V-879_2_.txt	eggplant	squash	,	LIST	[,]	1
-dump sentences\V-1275_6_.txt	kids	vegan	, the	LIST	[,, DT]	1
 dump sentences\T-1911_13_.txt	colon cancer	bph	, as well as	AND-CONJ	[,, RB, RB, IN]	1
 dump sentences\T-1914_24_.txt	nitrates	treat	, which	LIST	[,, WDT]	1
 dump sentences\V-1247_3_.txt	vegetables	tofu	,	LIST	[,]	1
@@ -3186,7 +3176,6 @@ dump sentences\V-570_1_.txt	carrageenan	food additive	, a	LIST	[,, DT]	1
 dump sentences\A-189_23_.txt	e. coli	chicken	in	PART-OF	[IN]	2
 dump sentences\A-310_7_.txt	e. coli	chicken	in	PART-OF	[IN]	2
 dump sentences\V-1250_5_.txt	nuts	cloves	, but	LIST	[,, CC]	1
-dump sentences\V-22_14_.txt	sugar	kids	,	LIST	[,]	1
 dump sentences\V-591_7_.txt	e. coli	chicken	in	PART-OF	[IN]	2
 dump sentences\T-120_10_.txt	sugar	currants	,	LIST	[,]	1
 dump sentences\A-199_21_.txt	fecal contamination	chicken	on	PREP	[IN]	2
@@ -5471,7 +5460,6 @@ dump sentences\T-208_4_.txt	saliva	bacteria	,	LIST	[,]	1
 dump sentences\V-144_8_.txt	celery	lime	,	LIST	[,]	1
 dump sentences\V-401_11_.txt	gout	arthritis	,	LIST	[,]	1
 dump sentences\V-1095_5_.txt	baking	boiling	,	LIST	[,]	1
-dump sentences\V-644_23_.txt	cavities	kids	in	PART-OF	[IN]	2
 dump sentences\T-18_3_.txt	carbohydrates	acrylamide	due to the effects of	CAUSE	[JJ, TO, DT, NNS, IN]	1
 dump sentences\V-323_0_.txt	walnuts	almonds	,	LIST	[,]	1
 dump sentences\V-1091_4_.txt	supplements	cold	help with a	INFLUENCE	[VBP, IN, DT]	1
@@ -9632,7 +9620,6 @@ dump sentences\A-171_44_.txt	asthma	eczema	and	AND-CONJ	[CC]	1
 dump sentences\A-171_15_.txt	symptoms	asthma	and	AND-CONJ	[CC]	1
 dump sentences\V-460_13_.txt	symptoms	asthma	and	AND-CONJ	[CC]	1
 dump sentences\T-1199_1_.txt	teens	infants	and	AND-CONJ	[CC]	1
-dump sentences\V-54_13_.txt	kids	teens	and	AND-CONJ	[CC]	1
 dump sentences\V-560_2_.txt	erectile dysfunction	heart disease	and	AND-CONJ	[CC]	1
 dump sentences\A-278_2_.txt	erectile dysfunction	heart disease	and	AND-CONJ	[CC]	1
 dump sentences\V-551_6_.txt	mesothelioma	lung cancer	and	AND-CONJ	[CC]	1
@@ -10943,7 +10930,6 @@ dump sentences\V-1300_14_.txt	eggs	baking	in	PART-OF	[IN]	2
 dump sentences\V-1135_0_.txt	protein	wheat	in	PART-OF	[IN]	2
 dump sentences\T-266_3_.txt	protein	soy	in	PART-OF	[IN]	2
 dump sentences\A-478_4_.txt	salicylic acid	fruits	in	PART-OF	[IN]	2
-dump sentences\V-476_5_.txt	symptoms	kids	in	PART-OF	[IN]	2
 dump sentences\T-1115_6_.txt	bpa	plastics	in	PART-OF	[IN]	2
 dump sentences\T-1117_6_.txt	bpa	plastics	in	PART-OF	[IN]	2
 dump sentences\A-303_31_.txt	radioactivity	seafood	in	PART-OF	[IN]	2
@@ -11029,11 +11015,9 @@ dump sentences\T-354_2_.txt	metabolism	sugar	of	PREP	[IN]	1
 dump sentences\V-594_5_.txt	smell	lavender	of	PREP	[IN]	1
 dump sentences\A-5_10_.txt	aromatherapy	nausea	for	PREP	[IN]	1
 dump sentences\V-740_2_.txt	biomarkers	antioxidant	of	PREP	[IN]	1
-dump sentences\V-1186_2_.txt	surgery	kids	for	PREP	[IN]	1
 dump sentences\A-2_13_.txt	contamination	gut	by	PREP	[IN]	1
 dump sentences\V-28_26_.txt	meta-analysis	fiber	of	PREP	[IN]	1
 dump sentences\V-26_21_.txt	nutrition guidelines	cancer	for	PREP	[IN]	1
-dump sentences\V-558_1_.txt	kids	attention deficit	for	PREP	[IN]	1
 dump sentences\T-75_6_.txt	product	usda	via the	PREP	[IN, DT]	1
 dump sentences\A-369_1_.txt	national cancer institute	chemicals	as "	PREP	[IN, ``]	1
 dump sentences\T-730_8_.txt	preparation	poultry	of the	PREP	[IN, DT]	1
@@ -11195,7 +11179,6 @@ dump sentences\V-93_24_.txt	age	kidneys	because our	PREP	[IN, PRP$]	1
 dump sentences\V-640_2_.txt	preparation	brains	of their	PREP	[IN, PRP$]	1
 dump sentences\A-317_0_.txt	treatment	gastroenteritis	of	PREP	[IN]	1
 dump sentences\T-485_0_.txt	dietary guidelines	beverages	for	PREP	[IN]	1
-dump sentences\A-276_0_.txt	ritalin	kids	for	PREP	[IN]	1
 dump sentences\T-545_11_.txt	bioavailability	turmeric	of	PREP	[IN]	1
 dump sentences\V-1233_12_.txt	brains	berry	of	PREP	[IN]	1
 dump sentences\V-15_298_.txt	birds	bacteria	with	PREP	[IN]	1
@@ -11283,7 +11266,6 @@ dump sentences\A-221_5_.txt	suicide	death	via	PREP	[IN]	1
 dump sentences\A-260_2_.txt	meat	diet	to our	PREP	[TO, PRP$]	1
 dump sentences\A-213_37_.txt	spice	diet	up your	PREP	[IN, PRP$]	1
 dump sentences\V-778_5_.txt	precancerous lesions	cervical cancer	to	PREP	[TO]	1
-dump sentences\A-276_2_.txt	amphetamines	kids	for a lot of	PREP	[IN, DT, NN, IN]	1
 dump sentences\V-1122_2_.txt	calcium	vegans	per day as the	PREP	[IN, NN, IN, DT]	1
 dump sentences\A-169_30_.txt	diet	fruit	to the three-	PREP	[TO, DT]	1
 dump sentences\V-12_5_.txt	brain	stomach	to our chest to our	PREP	[TO, PRP$, NN, TO, PRP$]	1
@@ -11365,13 +11347,11 @@ dump sentences\V-667_7_.txt	vegetables	stroke	per day are associated with [a qua
 dump sentences\V-456_10_.txt	fat	breast cancer	that the	PREP	[IN, DT]	1
 dump sentences\V-1281_18_.txt	walnuts	meat	to	PREP	[TO]	1
 dump sentences\V-851_1_.txt	life	cancer	after	PREP	[IN]	1
-dump sentences\V-51_18_.txt	kids	dairy	with	PREP	[IN]	1
 dump sentences\V-1233_1_.txt	beans	berries	to	PREP	[TO]	1
 dump sentences\T-157_1_.txt	sweeteners	prevention	as a	PREP	[IN, DT]	1
 dump sentences\T-293_9_.txt	x-rays	diagnosis	for	PREP	[IN]	1
 dump sentences\A-441_16_.txt	adolescents	mercury	at below the	PREP	[IN, IN, DT]	1
 dump sentences\T-345_12_.txt	lead	heartburn	to	PREP	[TO]	1
-dump sentences\V-1050_6_.txt	probiotics	kids	to	PREP	[TO]	1
 dump sentences\V-150_2_.txt	treatment	smoking	of the costs of	PREP	[IN, DT, NNS, IN]	1
 dump sentences\V-184_4_.txt	production	nitric oxide	of	PREP	[IN]	1
 dump sentences\T-1424_5_.txt	contamination	water	of the	PREP	[IN, DT]	1
@@ -11383,7 +11363,6 @@ dump sentences\V-255_17_.txt	calories	chocolate	of	PREP	[IN]	1
 dump sentences\V-16_293_.txt	varicose veins	hemorrhoids	to	PREP	[TO]	1
 dump sentences\V-1246_11_.txt	apples	juice	for	PREP	[IN]	1
 dump sentences\T-345_9_.txt	symptoms	who	for those	PREP	[IN, DT]	1
-dump sentences\A-276_0_.txt	kids	attention deficit	with	PREP	[IN]	1
 dump sentences\V-860_3_.txt	production	sulforaphane	of	PREP	[IN]	1
 dump sentences\V-18_8_.txt	abnormalities	syndrome	of the	PREP	[IN, DT]	1
 dump sentences\T-308_7_.txt	health	baby	of their	PREP	[IN, PRP$]	1
@@ -11483,7 +11462,6 @@ dump sentences\V-117_7_.txt	hormone	calcium	of	PREP	[IN]	1
 dump sentences\A-489_14_.txt	soy	breast cancer	with	PREP	[IN]	1
 dump sentences\T-461_5_.txt	oxalates	turmeric	as you do with	PREP	[IN, PRP, VBP, IN]	1
 dump sentences\A-260_44_.txt	animal protein	variety	for a	PREP	[IN, DT]	1
-dump sentences\V-54_13_.txt	sodium	kids	for	PREP	[IN]	1
 dump sentences\V-899_9_.txt	findings	grain	with a	PREP	[IN, DT]	1
 dump sentences\T-725_0_.txt	symptom	variety	of a	PREP	[IN, DT]	1
 dump sentences\V-24_10_.txt	estrogenic effects	phytoestrogens	of the	PREP	[IN, DT]	1
@@ -11551,7 +11529,6 @@ dump sentences\V-778_0_.txt	treatment	genital warts	for	PREP	[IN]	1
 dump sentences\T-30_9_.txt	lead	hiatal hernias	to	PREP	[TO]	1
 dump sentences\A-368_2_.txt	production	cancer	of these	PREP	[IN, DT]	1
 dump sentences\T-545_3_.txt	painkillers	treatment	for the	PREP	[IN, DT]	1
-dump sentences\A-308_18_.txt	hydration	kids	for	PREP	[IN]	1
 dump sentences\T-1568_0_.txt	snack	variety	with a	PREP	[IN, DT]	1
 dump sentences\V-18_24_.txt	ipecac	kfc	with your	PREP	[IN, PRP$]	1
 dump sentences\V-1015_30_.txt	antioxidant content	diets	while	PREP	[IN]	1
@@ -11645,7 +11622,6 @@ dump sentences\V-264_7_.txt	signs	scurvy	of	PREP	[IN]	1
 dump sentences\V-513_3_.txt	banana	breakfast	for 	PREP	[IN]	1
 dump sentences\T-1079_2_.txt	diets	health	for their	PREP	[IN, PRP$]	1
 dump sentences\V-875_19_.txt	nitrites	meat	to	PREP	[TO]	1
-dump sentences\A-171_27_.txt	kids	allergies	with	PREP	[IN]	1
 dump sentences\A-117_22_.txt	therapy	heart disease	for	PREP	[IN]	1
 dump sentences\V-621_11_.txt	supplementation	flax	with	PREP	[IN]	1
 dump sentences\A-152_20_.txt	patent	broccoli	to	PREP	[TO]	1
@@ -11742,7 +11718,6 @@ dump sentences\V-647_8_.txt	broccoli	meat	with your	PREP	[IN, PRP$]	1
 dump sentences\V-843_7_.txt	infection	variety	with a	PREP	[IN, DT]	1
 dump sentences\V-905_22_.txt	diabetes	gooseberry	with	PREP	[IN]	1
 dump sentences\T-291_5_.txt	infection	animal viruses	with	PREP	[IN]	1
-dump sentences\V-1201_3_.txt	kids	insecticides	with	PREP	[IN]	1
 dump sentences\A-108_0_.txt	immune function	age	as we	PREP	[IN, PRP]	1
 dump sentences\T-1961_12_.txt	protein	plant	with	PREP	[IN]	1
 dump sentences\V-292_19_.txt	mgus	multiple myeloma	to	PREP	[TO]	1

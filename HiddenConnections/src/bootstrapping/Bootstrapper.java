@@ -421,12 +421,11 @@ public class Bootstrapper {
 		    		continue;
 		    	}
 		    	else{
-		    		if(!term2_candidatePOS.isEmpty() && term2_candidatePOS.size()> i){
-		    			if(term2_candidatePOS.get(i).matches("NN|NNS|NNP|NNPS")){
+		    		if(!term2_candidatePOS.isEmpty() && term2_candidatePOS.size()> i && i-1>0){
+		    			if(term2_candidatePOS.get(i-1).matches("NN|NNS|NNP|NNPS")){
 		    				temp2 = "";
 		    			}
-		    		}
-		    		//if temp2.last word is an N, NNS usw. -> temp1 = ""	
+		    		}	
 		    		break;
 					}
 		    		

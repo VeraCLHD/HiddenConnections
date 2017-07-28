@@ -1,16 +1,16 @@
 
 chronic diseases	inflammation	associated with	LINKED-TO
 girls	french fries	associated with	LINKED-TO
+inflammatory reaction	egg	associated with	LINKED-TO
 eggs	diabetes	associated with	LINKED-TO
 irritation	chemotherapy	associated with	LINKED-TO
 side effects	drugs	associated with	LINKED-TO
 disorder	gluten intolerance	associated with	LINKED-TO
-fish intake	brain	associated with	LINKED-TO
 vomiting	morning sickness	associated with	LINKED-TO
 sperm counts	processed meat	associated with	LINKED-TO
 fertility	saturated fat	associated with	LINKED-TO
+toxin	alzheimer	associated with	LINKED-TO
 death	nut consumption	associated with	LINKED-TO
-lead poisoning	ayurvedic	associated with	LINKED-TO
 stomach cancer	salt	associated with	LINKED-TO
 amino acids	aging	associated with	LINKED-TO
 eggs	diabetes risk	associated with	LINKED-TO
@@ -24,6 +24,7 @@ disability	heart disease	associated with	LINKED-TO
 biomarker	cancer	associated with	LINKED-TO
 headaches	aspartame	associated with	LINKED-TO
 inflammation	depression	associated with	LINKED-TO
+meat molecule	inflammation	associated with	LINKED-TO
 beverage	infertility	associated with	LINKED-TO
 death	nut	associated with	LINKED-TO
 rosy glow	cardiovascular health	associated with	LINKED-TO
@@ -57,23 +58,22 @@ cholesterol	nonalcoholic fatty liver	are associated with	LINKED-TO
 pickled vegetables	multiple myeloma	are associated with	LINKED-TO
 plant foods	prevotella	are associated with	LINKED-TO
 carbs	pancreatic cancer	was associated with	LINKED-TO
-refined carbs	pancreatic cancer	was associated with	LINKED-TO
 iron	diabetes risk	was associated with	LINKED-TO
 iron	diabetes	was associated with	LINKED-TO
 adolescence	breast cancer	was associated with	LINKED-TO
 doughnuts	prostate cancer	was associated with about a third greater odds of	LINKED-TO
 chronic diseases	inflammation	associated with	LINKED-TO
 girls	french fries	associated with	LINKED-TO
+inflammatory reaction	egg	associated with	LINKED-TO
 eggs	diabetes	associated with	LINKED-TO
 irritation	chemotherapy	associated with	LINKED-TO
 side effects	drugs	associated with	LINKED-TO
 disorder	gluten intolerance	associated with	LINKED-TO
-fish intake	brain	associated with	LINKED-TO
 vomiting	morning sickness	associated with	LINKED-TO
 sperm counts	processed meat	associated with	LINKED-TO
 fertility	saturated fat	associated with	LINKED-TO
+toxin	alzheimer	associated with	LINKED-TO
 death	nut consumption	associated with	LINKED-TO
-lead poisoning	ayurvedic	associated with	LINKED-TO
 stomach cancer	salt	associated with	LINKED-TO
 amino acids	aging	associated with	LINKED-TO
 eggs	diabetes risk	associated with	LINKED-TO
@@ -87,6 +87,7 @@ disability	heart disease	associated with	LINKED-TO
 biomarker	cancer	associated with	LINKED-TO
 headaches	aspartame	associated with	LINKED-TO
 inflammation	depression	associated with	LINKED-TO
+meat molecule	inflammation	associated with	LINKED-TO
 beverage	infertility	associated with	LINKED-TO
 death	nut	associated with	LINKED-TO
 rosy glow	cardiovascular health	associated with	LINKED-TO
@@ -109,7 +110,6 @@ meat	weight gain	is associated with	LINKED-TO
 meats	cancers	were associated with	LINKED-TO
 animal foods	coronary heart disease	were associated with	LINKED-TO
 carbs	pancreatic cancer	was associated with	LINKED-TO
-refined carbs	pancreatic cancer	was associated with	LINKED-TO
 iron	diabetes risk	was associated with	LINKED-TO
 iron	diabetes	was associated with	LINKED-TO
 adolescence	breast cancer	was associated with	LINKED-TO

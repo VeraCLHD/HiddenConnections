@@ -19,7 +19,6 @@ anxiety	downer	, without the	PART-OF-I
 beef	saturated fat	, without the	PART-OF-I
 drug	side effects	, without the	PART-OF-I
 phytonutrients	fat	, without the	PART-OF-I
-drugs	drug	, without the	PART-OF-I
 plants	dna	have	PART-OF-I
 plant foods	fiber	have	PART-OF-I
 dates	phytonutrients	have	PART-OF-I
@@ -29,10 +28,8 @@ dates	fiber	have	PART-OF-I
 vegetables	antioxidants	have	PART-OF-I
 soft drinks	benzene	have	PART-OF-I
 plants	nicotine	have	PART-OF-I
-greens	myrosinase	have	PART-OF-I
 animal foods	phosphorus	have	PART-OF-I
 who	mgus	have	PART-OF-I
-kids	fatty streaks	have	PART-OF-I
 pregnancy	adverse effects	have	PART-OF-I
 sea vegetables	phytonutrients	have	PART-OF-I
 smoothies	amla	have	PART-OF-I
@@ -44,11 +41,8 @@ flaxseeds	lignans	are packed with	PART-OF-I
 nuts	nutrition	are packed with	PART-OF-I
 dried fruit	fiber	are packed with	PART-OF-I
 turkey	salmonella	has	PART-OF-I
-casomorphin	opioid	has	PART-OF-I
 protein	phosphorus	has	PART-OF-I
-diet	bumped	has	PART-OF-I
 spice	health benefits	has	PART-OF-I
-mom	vitamin d	has	PART-OF-I
 dementia	shot	has	PART-OF-I
 kiwifruit	folate	has	PART-OF-I
 date sugar	fiber	has	PART-OF-I
@@ -93,11 +87,8 @@ flaxseeds	lignans	are packed with	PART-OF-I
 nuts	nutrition	are packed with	PART-OF-I
 dried fruit	fiber	are packed with	PART-OF-I
 turkey	salmonella	has	PART-OF-I
-casomorphin	opioid	has	PART-OF-I
 protein	phosphorus	has	PART-OF-I
-diet	bumped	has	PART-OF-I
 spice	health benefits	has	PART-OF-I
-mom	vitamin d	has	PART-OF-I
 dementia	shot	has	PART-OF-I
 kiwifruit	folate	has	PART-OF-I
 date sugar	fiber	has	PART-OF-I
@@ -162,10 +153,8 @@ dates	fiber	have	PART-OF-I
 vegetables	antioxidants	have	PART-OF-I
 soft drinks	benzene	have	PART-OF-I
 plants	nicotine	have	PART-OF-I
-greens	myrosinase	have	PART-OF-I
 animal foods	phosphorus	have	PART-OF-I
 who	mgus	have	PART-OF-I
-kids	fatty streaks	have	PART-OF-I
 pregnancy	adverse effects	have	PART-OF-I
 sea vegetables	phytonutrients	have	PART-OF-I
 smoothies	amla	have	PART-OF-I

@@ -1,6 +1,5 @@
 
 fish oil	inflammation	decreases	EFFECT
-turmeric	proteinuria	decreases	EFFECT
 tomato juice	inflammation	decreases	EFFECT
 sodium bicarbonate	kidney	decreases	EFFECT
 garlic	inflammation	decreases	EFFECT
@@ -140,7 +139,6 @@ vegetables	antioxidant	boosts our	EFFECT
 strawberries	colon cancer	suppressed the growth of	EFFECT
 cranberry juice	liver cancer	suppressed the growth of	EFFECT
 fish oil	inflammation	decreases	EFFECT
-turmeric	proteinuria	decreases	EFFECT
 tomato juice	inflammation	decreases	EFFECT
 sodium bicarbonate	kidney	decreases	EFFECT
 garlic	inflammation	decreases	EFFECT

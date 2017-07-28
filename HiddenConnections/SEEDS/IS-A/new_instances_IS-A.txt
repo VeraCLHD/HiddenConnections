@@ -8,85 +8,87 @@ greens	turmeric
 cholesterol-lowering drugs	statins
 drugs	midazolam
 hormones	igf
-cheese	ham
 symptoms	asthma
 creatinine	cheese
 soyfoods	tofu
-good bacteria	vinegar
 dietary contaminants	antibiotic residues
-spices	mustard
+inflammatory bowel diseases	crohn
 diseases	stroke
 food restaurants	mcdonald
 carcinomas	breast cancer
+meal	fruit
 cancers	childhood leukemia
 persistent pollutants	ddt
+citrus-based fruits	oranges
+treatments	acupuncture
 meat	poultry
-hormones	nicotine
+vegetables	oranges
+gerd	heartburn
+whole grains	oats
 hormones	steroids
 diseases	alzheimer
-coffee	insomnia
-herb	tarragon
+fruits	tomatoes
+breast milk	pcbs
 bone health	bone mineral density
 illnesses	depression
+crystallizes	sugar water
 meat	pathogens
 vitamin supplements	vitamin e
 eating meat	fish
 vitamin supplements	vitamin c
+calcium	broccoli
 plants	potato chips
 sweetener	erythritol
-disease	tremor
-whole grains	gluten
+diseases	asthma
 autoimmune diseases	meat glue
-multidrug-resistant bacteria	mrsa
 supplements	pancreatic enzymes
 anti-inflammatory drugs	ibuprofen
 milk	skim milk
 neurodegenerative diseases	als
-animal protein	meat
 anti-inflammatory drugs	aspirin
-top killers	heart disease
-vegetables	arugula
-carbs	sun-dried
-chronic diseases	diabetes
-vegetables	onions
+oils	olive oil
+feelings	hunger
+inflammatory bowel diseases	methionine
 fresh fruits	blueberries
+plant kingdom	fruits
 sour fruit	lemons
 spices	curcumin
 modern medicine	surgery
+vegetables	salad
+persistent pollutants	hexachlorobenzene
 neurotransmitters	prozac
 meat	chicken
-spices	clove
+chronic disease	cancer
 fruits	apples
+contaminants	mercury
 fish	mercury
-market	pancake
 drug	lipitor
+autoimmune diseases	rheumatoid arthritis
 whole grains	rye
+graphs	bpa
+protein	beans
 western diseases	colon cancer
 plants	berries
 teas	hibiscus
 plant-based diet	ornish
+radiation	radiation exposure
 cancers	breast
 drinks	tea
 atopic disease	asthma
-medications	benadryl
+food cans	cans
 supplements	vitamin a
 nitrate-rich vegetables	beets
 leading killers	diabetes
-animal fat	chicken fat
 plant-based diets	greens
-seeds	sesame
-tissues	cancer
-spices	cloves
 seafood	mercury
-drugs	beta
+pops	dioxins
 fruits	strawberries
 industrial pollutants	pcbs found
+meal	citrus
 heterocyclic amines	phip
-inflammation	gum
-illnesses	teenagers
 plant proteins	soy
+minerals	iodine
 acids	lactic acid
-diabetes	vitamin d
 pregnancy	shorter cerebellums
 industrial pollutants	tuna
 drugs	zeranol
@@ -95,37 +97,51 @@ statin drugs	lipitor
 carcinogens	pesticides
 baggage	cholesterol
 vitamin supplements	multivitamins
-illnesses	heart disease
 plant fat	nuts
+drug	valium
+drinks	wine
+animal proteins	soy
 plant-based diet	seeds
 medications	aspirin
 acids	vitamin c
 methionine	meat
 drug	premarin
+exposure	farmworkers
 recipe	mayo
 beans	grapefruit
 legumes	chickpeas
 health	nitrate
 diseases	cancer
+inflammatory bowel disease	crohn
+illnesses	acne
 leukemia	b-cell
 preventing cancer	pancreatic cancer
 carotenoids	beta-carotene
-acid-forming	bread
+meats	poultry
+kale	breast
+taking supplements	potassium
+fish	anisakis
 nuts	peanuts
 arthritis	rheumatoid arthritis
 prebiotics	fiber
 killers	heart disease
 tissues	bone
 omega-3s	dha
+toxins	dioxins
+inflammatory diseases	crohn
 drug	ibuprofen
 meat	pesticides
-dried fruits	currants
-illnesses	cancer
-sea vegetables	nori
+eye diseases	uveitis
 neurodegenerative diseases	alzheimer
+drugs	heroin
+copd	emphysema
+vegetables	kale
 exotic fruits	noni
+kidney cancer	obesity
+animal proteins	neu5gc
 brain diseases	alzheimer
-plants	apples
+pollutants	pcbs
+amino acids	leucine
 pollutants	formaldehyde
 cancer	prostate cancer
 exercise	jogging

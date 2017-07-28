@@ -236,7 +236,6 @@ porcini	porcinus	INTERMEDIARY_CONCEPT
 funding effect	-	INTERMEDIARY_CONCEPT
 fibromyalgia-fibromyositis syndrome	-	DISEASE
 intestinal bacteria	-	INTERMEDIARY_CONCEPT
-fatter	fatter	INTERMEDIARY_CONCEPT
 pineapple	pineapple	FOOD
 legume	legume	FOOD
 cck-33	cck-33	INTERMEDIARY_CONCEPT
@@ -2434,7 +2433,6 @@ meat substitutes	-	INTERMEDIARY_CONCEPT
 colors	color	INTERMEDIARY_CONCEPT
 lard	lard	FOOD
 mentha piperita	-	FOOD
-beating	beat	INTERMEDIARY_CONCEPT
 saoott	saoott	INTERMEDIARY_CONCEPT
 tumor stem cells	-	INTERMEDIARY_CONCEPT
 long-term uv	-	INTERMEDIARY_CONCEPT
@@ -3610,7 +3608,6 @@ mucous colitis	-	DISEASE
 gladem	gladem	INTERMEDIARY_CONCEPT
 marsh fever	-	DISEASE
 menopause	menopause	INTERMEDIARY_CONCEPT
-health-promoting	health-promoting	INTERMEDIARY_CONCEPT
 foam cells	-	INTERMEDIARY_CONCEPT
 heart failure	-	DISEASE
 fortify milk	-	FOOD
@@ -3635,7 +3632,6 @@ boned	bone	INTERMEDIARY_CONCEPT
 pregnant mothers	-	INTERMEDIARY_CONCEPT
 national socialism	-	INTERMEDIARY_CONCEPT
 job	job	INTERMEDIARY_CONCEPT
-eaten	eat	INTERMEDIARY_CONCEPT
 autopsy	autopsy	INTERMEDIARY_CONCEPT
 safety limit	-	INTERMEDIARY_CONCEPT
 scriptural interpretations	-	INTERMEDIARY_CONCEPT
@@ -6012,7 +6008,6 @@ factory farming	-	INTERMEDIARY_CONCEPT
 undercooked meat	-	FOOD
 farms chicken	-	INTERMEDIARY_CONCEPT
 camelus	camelus	INTERMEDIARY_CONCEPT
-breast fed	-	INTERMEDIARY_CONCEPT
 betel	betel	FOOD
 barberry	barberry	FOOD
 orac	orac	INTERMEDIARY_CONCEPT
@@ -6675,7 +6670,6 @@ zyloric	zyloric	INTERMEDIARY_CONCEPT
 octopodas	octopoda	INTERMEDIARY_CONCEPT
 moms insisted	-	INTERMEDIARY_CONCEPT
 white blood cells	-	INTERMEDIARY_CONCEPT
-fatty	fatty	INTERMEDIARY_CONCEPT
 increasing incidence	-	INTERMEDIARY_CONCEPT
 cramping	cramp	INTERMEDIARY_CONCEPT
 federal trade	-	INTERMEDIARY_CONCEPT
@@ -7013,7 +7007,6 @@ acquired blindness	-	DISEASE
 button mushrooms	-	INTERMEDIARY_CONCEPT
 nerves	nerve	INTERMEDIARY_CONCEPT
 meals on wheels	-	INTERMEDIARY_CONCEPT
-fat soluble	-	INTERMEDIARY_CONCEPT
 hordein	hordein	INTERMEDIARY_CONCEPT
 tart	tart	INTERMEDIARY_CONCEPT
 cancer cases	-	INTERMEDIARY_CONCEPT
@@ -7727,7 +7720,6 @@ patience	patience	INTERMEDIARY_CONCEPT
 smartness	smartness	INTERMEDIARY_CONCEPT
 immediate memories	-	INTERMEDIARY_CONCEPT
 financial liability	-	INTERMEDIARY_CONCEPT
-kids	kid	INTERMEDIARY_CONCEPT
 paleolithic diet	-	INTERMEDIARY_CONCEPT
 peppermints	peppermint	FOOD
 age-related maculopathies	-	DISEASE
@@ -8752,7 +8744,6 @@ buckwheat	buckwheat	FOOD
 coconut-derived emulsion	-	INTERMEDIARY_CONCEPT
 normalities	normality	INTERMEDIARY_CONCEPT
 metabolism	metabolism	INTERMEDIARY_CONCEPT
-acidic	acidic	INTERMEDIARY_CONCEPT
 braeburn	braeburn	INTERMEDIARY_CONCEPT
 eco-atkin	eco-atkin	INTERMEDIARY_CONCEPT
 experimental parkinsonism	-	DISEASE
@@ -9409,7 +9400,6 @@ scam	scam	INTERMEDIARY_CONCEPT
 galactosemia 3	-	DISEASE
 galactosemia 2	-	DISEASE
 the german medical association	-	INTERMEDIARY_CONCEPT
-cute	cute	INTERMEDIARY_CONCEPT
 risk group	-	INTERMEDIARY_CONCEPT
 thyme	thyme	FOOD
 dolphin fish	-	INTERMEDIARY_CONCEPT
@@ -11261,8 +11251,6 @@ dandelion	dandelion	FOOD
 testosterone sulfate	-	INTERMEDIARY_CONCEPT
 retained surgical tool	-	DISEASE
 perioral tremors	-	DISEASE
-ssri’s	ssri	INTERMEDIARY_CONCEPT
-leaner	leaner	INTERMEDIARY_CONCEPT
 energy chews	-	INTERMEDIARY_CONCEPT
 barrier function	-	INTERMEDIARY_CONCEPT
 agricultural workers	-	INTERMEDIARY_CONCEPT
@@ -15436,7 +15424,6 @@ seats	seat	INTERMEDIARY_CONCEPT
 small-cell lymphoma	-	DISEASE
 intestinal microbiome	-	INTERMEDIARY_CONCEPT
 dieting	dieting	INTERMEDIARY_CONCEPT
-fine	fine	INTERMEDIARY_CONCEPT
 iritis	iritis	DISEASE
 norepinephrine l-tartrate (1:2)	-	INTERMEDIARY_CONCEPT
 national beef cattleman’s association	-	INTERMEDIARY_CONCEPT

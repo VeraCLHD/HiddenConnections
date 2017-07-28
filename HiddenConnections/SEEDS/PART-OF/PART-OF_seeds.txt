@@ -676,7 +676,6 @@ dump sentences\A-80_35_.txt	prevention	poultry	in	PART-OF	[IN]	2
 dump sentences\A-304_37_.txt	fish	fukushima	in	PART-OF	[IN]	2
 dump sentences\V-267_1_.txt	pollutants	pregnancy	in	PART-OF	[IN]	2
 dump sentences\V-1292_10_.txt	putrescine	turkey	in	PART-OF	[IN]	2
-dump sentences\V-644_23_.txt	cavities	kids	in	PART-OF	[IN]	2
 dump sentences\V-997_5_.txt	toxicity	breastfeeding	in	PART-OF	[IN]	2
 dump sentences\V-149_10_.txt	nicotine	ketchup	in	PART-OF	[IN]	2
 dump sentences\A-107_40_.txt	gluten	medical journals	in	PART-OF	[IN]	2
@@ -1034,7 +1033,6 @@ dump sentences\V-1300_14_.txt	eggs	baking	in	PART-OF	[IN]	2
 dump sentences\V-1135_0_.txt	protein	wheat	in	PART-OF	[IN]	2
 dump sentences\T-266_3_.txt	protein	soy	in	PART-OF	[IN]	2
 dump sentences\A-478_4_.txt	salicylic acid	fruits	in	PART-OF	[IN]	2
-dump sentences\V-476_5_.txt	symptoms	kids	in	PART-OF	[IN]	2
 dump sentences\T-1115_6_.txt	bpa	plastics	in	PART-OF	[IN]	2
 dump sentences\T-1117_6_.txt	bpa	plastics	in	PART-OF	[IN]	2
 dump sentences\A-303_31_.txt	radioactivity	seafood	in	PART-OF	[IN]	2
