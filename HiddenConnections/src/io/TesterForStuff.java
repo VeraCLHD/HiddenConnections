@@ -182,7 +182,7 @@ public class TesterForStuff {
 		double d = (double)1/2;
 		System.out.println(d);*/
 		
-		 //luceneSearch();
+		
 		
 		/*String sent = "Since the same hormonal changes associated with eating more plant-based diets seemed to improve premenstrual and menstrual symptoms such as breast pain (see my video Plant-Based Diets For Breast Pain), researchers decided to test whether flax seeds would help as well.";
 		//sent = sent.replaceAll("[,.!?;:]", "$0 ").replaceAll("\\s+", " ");
@@ -207,7 +207,108 @@ public class TesterForStuff {
 		
 		//luceneSearch();
 		 //System.out.println(candidateContainsOtherTerms("disease"));
+		// luceneSearchTwoTerms("estrogens", "diabetes");
+		 //luceneSearchAll("associated with", "girls", "animal protein");
+		 //luceneSearchPattern("without the", "diabetes");
+		/*rätsel estrogen in diabetes
+		luceneSearchAll("without the", "diabetes", "estrogen");
+		 luceneSearchAll("without the", "diabetes", "estrogens");
+		 luceneSearchAll("packed with", "diabetes", "estrogen");
+		 luceneSearchAll("packed with", "diabetes", "estrogens");
+		 luceneSearchAll(", without the", "diabetes", "estrogen");
+		 luceneSearchAll(", without the", "diabetes", "estrogens");
+		 luceneSearchAll("have", "diabetes", "estrogen");
+		 luceneSearchAll("have", "diabetes", "estrogens");
+		 luceneSearchAll("has", "diabetes", "estrogen");
+		 luceneSearchAll("has", "diabetes", "estrogens");
+		 luceneSearchAll("are packed with", "diabetes", "estrogen");
+		 luceneSearchAll("are packed with", "diabetes", "estrogens");
+		 luceneSearchAll("have higher levels of", "diabetes", "estrogen");
+		 luceneSearchAll("have higher levels of", "diabetes", "estrogens");
+		 luceneSearchAll("full of", "diabetes", "estrogen");
+		 luceneSearchAll("full of", "diabetes", "estrogens");
+		 luceneSearchAll("-containing", "diabetes", "estrogen");
+		 luceneSearchAll("-containing", "diabetes", "estrogens");
+		 luceneSearchAll("found in", "diabetes", "estrogen");
+		 luceneSearchAll("found in", "diabetes", "estrogens");
+		 luceneSearchAll("in", "diabetes", "estrogen");
+		 luceneSearchAll("in", "diabetes", "estrogens");*/
+		 
+		 luceneSearchTwoTerms( "choline", "death" );
 	
+	}
+	
+	private static void luceneSearchTwoTerms(String term1, String term2) {
+		LuceneSearcher ls = new LuceneSearcher();
+		  Set<String> set;
+		try {
+			set = ls.doSearch("\"" + term1 +"\"" + "AND" + "\"" + term2 +"\"", "IndexDirectory/");
+			for(String path: set){
+				  String str = Reader.readContentOfFile(path);
+				  Set<String> candidates = new HashSet<String>();
+					Matcher matcher = Pattern.compile(
+							"\\b" +
+							 Pattern.quote(term1) + "\\b"
+							 + "(.*?)" +
+							 "\\b"
+							 + Pattern.quote(term2) + "\\b").matcher(str);
+					
+					while(matcher.find()){
+						// the old candidate without the terms themselves
+						String matchWithoutTerms = matcher.group(1);
+						// match contains the strings of the terms themselves now
+
+						candidates.add(matchWithoutTerms.trim());
+						
+					}
+					System.out.println(path);
+					System.out.println(candidates);
+			  }
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (ParseException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+	
+	private static void luceneSearchPattern(String pattern, String term1) {
+		LuceneSearcher ls = new LuceneSearcher();
+		  Set<String> set;
+		try {
+			set = ls.doSearch("\"" + term1 +"\"" + "AND" + "\"" + pattern +"\"", "IndexDirectory/");
+			for(String path: set){
+				  String str = Reader.readContentOfFile(path);
+				 
+					System.out.println(path);
+			  }
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (ParseException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+	
+	private static void luceneSearchAll(String pattern, String term1, String term2) {
+		LuceneSearcher ls = new LuceneSearcher();
+		  Set<String> set;
+		try {
+			set = ls.doSearch("\"" + term1 +"\"" + "AND" + "\"" + pattern +"\"" + "AND" + "\"" + term2 +"\"", "IndexDirectory/");
+			for(String path: set){
+				  String str = Reader.readContentOfFile(path);
+				 
+					System.out.println(path);
+			  }
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (ParseException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 	}
 	
 	public static void tagTerms(){
@@ -305,23 +406,7 @@ public class TesterForStuff {
 
 	}
 
-	private static void luceneSearch() {
-		LuceneSearcher ls = new LuceneSearcher();
-		  Set<String> set;
-		try {
-			set = ls.doSearch("\"" + "alzheimer’s disease" +"\"", "IndexDirectory/");
-			for(String path: set){
-				  String str = Reader.readContentOfFile(path);
-				  System.out.println(path);
-			  }
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		} catch (ParseException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-	}
+	
 	
 	public static boolean candidateContainsOtherTerms(String candidate){
 		boolean result = false;
