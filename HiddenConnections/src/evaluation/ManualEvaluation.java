@@ -64,7 +64,7 @@ public class ManualEvaluation {
 				}
 				
 				
-				Writer.appendLineToFile(newLine, DISTANT_CONNECTIONS_FINAL_MANUAL);
+				Writer.appendLineToFile(newLine.trim(), DISTANT_CONNECTIONS_FINAL_MANUAL);
 			}
 		}
 	}

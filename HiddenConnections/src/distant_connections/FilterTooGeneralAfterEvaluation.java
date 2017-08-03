@@ -25,7 +25,7 @@ public class FilterTooGeneralAfterEvaluation {
 		}
 	}
 	
-	public void readAllConnectionsAndFilterTooGeneral(){
+	public void readAllConnectionsAndFilterTooGeneral(String pathToConnections, String pathToConnectionsFiltered, String pathToConnectionsExcluded){
 		Writer.overwriteFile("", pathToConnectionsFiltered);
 		Writer.overwriteFile("", pathToConnectionsExcluded);
 		List<String> lines = Reader.readLinesList(pathToConnections);
@@ -36,10 +36,10 @@ public class FilterTooGeneralAfterEvaluation {
 				String[] splitted = line.split("\t");
 
 					// loop for finding the terms
-					for(int i=0; i<splitted.length; i++){
+					for(int i=3; i<splitted.length; i++){
 						
 						if(i%2 !=0){
-							if(this.getGeneralTermsToExclude().contains(splitted[i])){
+							if(this.getGeneralTermsToExclude().contains(splitted[i].trim())){
 								// we don't need this instance
 								lineIsViable = false;
 								break;
@@ -48,10 +48,10 @@ public class FilterTooGeneralAfterEvaluation {
 					}
 					
 					if(lineIsViable == true){
-						Writer.appendLineToFile(line, pathToConnectionsFiltered);
+						Writer.appendLineToFile(line.trim(), pathToConnectionsFiltered);
 					} else{
 
-						Writer.appendLineToFile(line, pathToConnectionsExcluded);
+						Writer.appendLineToFile(line.trim(), pathToConnectionsExcluded);
 					}
 					
 				}
@@ -59,9 +59,6 @@ public class FilterTooGeneralAfterEvaluation {
 	}
 	
 	public static void main(String[] args) {
-		FilterTooGeneralAfterEvaluation filter = new FilterTooGeneralAfterEvaluation();
-		filter.readInformationContentFile();
-		filter.readAllConnectionsAndFilterTooGeneral();
 		
 
 	}

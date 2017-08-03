@@ -28,103 +28,116 @@ import overall.Pair;
 
 public class TesterForStuff {
 	public static final String pathToAllTerms = "terms/all_terms_and_variants_with10_filtered.txt";
-	Set<String> allTerms = new HashSet<String>();
+	public static Set<String> allTerms = new HashSet<String>();
+	
+	public static void readAllTerms(){
+		List<String> lines = Reader.readLinesList(Bootstrapper.pathToAllTerms);
+		for(String line: lines){
+			if(!line.isEmpty() && !line.equals(" ")){
+				String term = line.trim().toLowerCase();
+				TesterForStuff.allTerms.add(term);
+			}
+		}
+	}
 	
 	public void lookForPatternMatch(String sentenceString, String pattern) {
-		this.allTerms.add("toxin");
-		//this.allTerms.add("alzheimer's disease");
-		this.allTerms.add("alzheimer");
-		
-		Set<Pair<String>> candidates = new HashSet<Pair<String>>();
-		String temp1 = "";
-	    String temp2 = "";
-		final Matcher matcher = Pattern.compile("\\b" +
-				 Pattern.quote(pattern) + "\\b").matcher(sentenceString);
-		while(matcher.find()){
-		    String before = sentenceString.substring(0, matcher.start()).trim();
-		    String after = sentenceString.substring(matcher.end()).trim();
-		    
-		    List<String> term1_candidate = new ArrayList<String>();
-		    List<String> term2_candidate = new ArrayList<String>();
-		    List<String> term1_candidatePOS = new ArrayList<String>();
-		    List<String> term2_candidatePOS = new ArrayList<String>();
-		    
-		    if(!before.isEmpty()){
-		    	Sentence beforeSentence = new Sentence(before);
-		    	term1_candidate = beforeSentence.words();
-		    	term1_candidatePOS = beforeSentence.posTags();
-		    } else{
-		    	term1_candidate = Arrays.asList(before.split(" "));
-		    }
-		    
-		    if(!after.isEmpty()){
-		    	Sentence afterSentence = new Sentence(after);
-				 term2_candidate = afterSentence.words();
-				 term2_candidatePOS = afterSentence.posTags();
-		    } else{
-		    	term2_candidate = Arrays.asList(after.split(" "));
-		    }
+		if(sentenceString.contains("steroid") && sentenceString.contains("dairy")){
 
-		    //
-		    for(int i = term1_candidate.size()-1; i>= 0; i--){
-		    	String t1_candidate = String.join(" ", term1_candidate.subList(i, term1_candidate.size()));
-		    	String t1_candidateWP = t1_candidate.replaceAll("[^a-zA-Z]+$", "").trim();
-		    	if(this.allTerms.contains(t1_candidateWP)){
-		    		temp1 = t1_candidateWP;
-		    		continue;
-		    	}// in the sentence string, punctiation is directly in the word 
-		    	else{
-		    		if(!term1_candidatePOS.isEmpty() && term1_candidatePOS.size()> i){
-		    			if(term1_candidatePOS.get(i).matches("NN|NNS|NNP|NNPS")){
-		    				System.out.println(temp1 + " " +term1_candidatePOS.get(i) + " " + term1_candidate.get(i));
-		    				temp1 = "";
-		    			}
-		    		}
-		    		
-		    		break;
-		    	}
-		    }
-		    
-		    for(int i = 1; i<= term2_candidate.size(); i++){
-		    	String t2_candidate = String.join(" ", term2_candidate.subList(0, i));
-		    	String t2_candidateWP = t2_candidate.replaceAll("[^a-zA-Z]+$", "").trim();
-		    	if(this.allTerms.contains(t2_candidateWP)){
-		    		temp2 = t2_candidateWP;
-		    		continue;
-		    	}
-		    	else{
-		    		if(!term2_candidatePOS.isEmpty() && term2_candidatePOS.size()> i && i-1>0){
-		    			if(term2_candidatePOS.get(i-1).matches("NN|NNS|NNP|NNPS")){
-		    				System.out.println(temp2 + " " +term2_candidatePOS.get(i-1) + term2_candidate.get(i-1));
-		    				temp2 = "";
-		    			}
-		    		}
-		    		//if temp2.last word is an N, NNS usw. -> temp1 = ""	
-		    		break;
+			Set<Pair<String>> candidates = new HashSet<Pair<String>>();
+
+			final Matcher matcher = Pattern.compile("\\b" +
+					 Pattern.quote(pattern) + "\\b").matcher(sentenceString);
+			while(matcher.find()){
+				String temp1 = "";
+			    String temp2 = "";
+			    String before = sentenceString.substring(0, matcher.start()).trim();
+			    String after = sentenceString.substring(matcher.end()).trim();
+			   
+			    List<String> term1_candidate = new ArrayList<String>();
+			    List<String> term2_candidate = new ArrayList<String>();
+			    List<String> term1_candidatePOS = new ArrayList<String>();
+			    List<String> term2_candidatePOS = new ArrayList<String>();
+			    
+			    if(!before.isEmpty()){
+			    	Sentence beforeSentence = new Sentence(before);
+			    	term1_candidate = beforeSentence.words();
+			    	term1_candidatePOS = beforeSentence.posTags();
+			    } else{
+			    	term1_candidate = Arrays.asList(before.split(" "));
+			    }
+			    
+			    if(!after.isEmpty()){
+			    	Sentence afterSentence = new Sentence(after);
+					 term2_candidate = afterSentence.words();
+					 term2_candidatePOS = afterSentence.posTags();
+			    } else{
+			    	term2_candidate = Arrays.asList(after.split(" "));
+			    }
+
+			    //
+			    for(int i = term1_candidate.size()-1; i>= 0; i--){
+			    	//System.out.println("TEMP1 " + temp1);
+			    	String t1_candidate = String.join(" ", term1_candidate.subList(i, term1_candidate.size()));
+			    	String t1_candidateWP = t1_candidate.replaceAll("[^a-zA-Z]+$", "").trim();
+			    	if(this.allTerms.contains(t1_candidateWP)){
+			    		temp1 = t1_candidateWP;
+	
+			    		continue;
+			    	}// in the sentence string, punctiation is directly in the word 
+			    	else{
+			    		if(!term1_candidatePOS.isEmpty() && term1_candidatePOS.size()> i){
+			    			if(term1_candidatePOS.get(i).matches("NN|NNS|NNP|NNPS")){
+			    				temp1 = "";
+			    			}
+			    		}
+			    		
+			    		break;
+			    	}
+
+			    }
+			    
+			    for(int i = 1; i<= term2_candidate.size(); i++){
+			    	//System.out.println("TEMP2 " + temp2);
+			    	String t2_candidate = String.join(" ", term2_candidate.subList(0, i));
+			    	String t2_candidateWP = t2_candidate.replaceAll("[^a-zA-Z]+$", "").trim();
+			    	if(this.allTerms.contains(t2_candidateWP)){
+			    		temp2 = t2_candidateWP;
+			    		continue;
+			    	}
+			    	else{
+			    		if(!term2_candidatePOS.isEmpty() && term2_candidatePOS.size()> i && i-1>0){
+			    			if(term2_candidatePOS.get(i-1).matches("NN|NNS|NNP|NNPS")){
+			    				
+			    				temp2 = "";
+			    			}
+			    		}
+			    		//if temp2.last word is an N, NNS usw. -> temp1 = ""	
+			    		break;
+						}
+			    		
+			    	}
+			
+			    if(!temp1.isEmpty() && !temp2.isEmpty()){
+					if(!temp1.equals(temp2)){
+						Pair<String> pair = new Pair<String>(temp1, temp2);
+						candidates.add(pair);
+						System.out.println(temp1 + " " + temp2);
 					}
-		    		
-		    	}
-		
-		    if(!temp1.isEmpty() && !temp2.isEmpty()){
-				if(!temp1.equals(temp2)){
-					Pair<String> pair = new Pair<String>(temp1, temp2);
-					System.out.println(temp1 + " "+ temp2);
-					candidates.add(pair);	
+					
 				}
-				
-			}
-		    
-		   
 
-	}
+		}
+		}
+			
+		
+
 		
 		
 	}
 	public static void main(String[] args) {
-		String sentenceString = "A toxin associated with Alzheimer's disease, can be detoxified from our body with folate, vitamin B12, and vitamin B6.".toLowerCase();
-		String pattern = "associated with";
 		TesterForStuff ts = new TesterForStuff();
-		ts.lookForPatternMatch(sentenceString, pattern);
+		ts.readAllTerms();
+		ts.searchPatternLikeBootstrapper( "in");
 		/*Document doc;
 		try {
 			 Connection.Response loginForm = Jsoup.connect("http://scienceofdiet.com/login").userAgent("vera bachelorarbeit")
@@ -234,13 +247,13 @@ public class TesterForStuff {
 		 luceneSearchAll("in", "diabetes", "estrogen");
 		 luceneSearchAll("in", "diabetes", "estrogens");*/
 		 
-		 //luceneSearchTwoTerms( "choline", "death" );
-		Double ic = 1.97389719743579;
+		 luceneSearchTwoTerms("carotenoids", "urinary tract infections"  );
+		/*Double ic = 1.97389719743579;
 		if(ic >= 2.0){
 			System.out.println(">=");
 		} if(ic <= 2.0){
 			System.out.println("<");
-		}
+		}*/
 	
 	}
 	
@@ -316,6 +329,30 @@ public class TesterForStuff {
 			e.printStackTrace();
 		}
 	}
+	
+	public void searchPatternLikeBootstrapper(String pattern){
+		Set<String> set = new HashSet<String>();
+		LuceneSearcher ls = new LuceneSearcher();
+		try {
+			set = ls.doSearch("\"" + pattern +"\"", "IndexDirectory");
+		} catch (IOException e) {
+			e.printStackTrace();
+		} catch (ParseException e) {
+			System.err.println("Could not parse " + "\"" + pattern +"\"");
+		}
+
+		if(!set.isEmpty()){
+			for(String path: set){
+				String sentence = Reader.readContentOfFile(path).toLowerCase();
+				//Sentence sent = new Sentence(sentence);
+				this.lookForPatternMatch(sentence, pattern);
+				
+			}
+			
+		}	
+	}
+	
+	
 	
 	public static void tagTerms(){
 		Writer.overwriteFile("", "terms/cancidates_raus.txt");

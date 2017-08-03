@@ -397,7 +397,7 @@ public class PreparationForIndirectConnections {
 		InformationContent ic = new InformationContent();
 		ic.computeInformationContent();
 		//information content minimum is set here; if 0: all terms are considered
-		InformationContent.setMIN_INFORMATION_CONTENT(2.0);
+		InformationContent.setMIN_INFORMATION_CONTENT(2.06);
 		ic.writeIC();
 		System.out.println("DONE with Information Content");
 		// setzt voraus, dass information content file already there

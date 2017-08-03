@@ -1,0 +1,178 @@
+
+0	more to it 	1262347521	gluten	caused by	symptom	such as	nausea
+1	ok	1986836315	animal foods	such as	dairy	is a	animal products	cause	inflammation
+0	nonsense	1708862206	chicken	have	arachidonic acid	in	fish	have	allergy
+0	nonsense	696704131	milk	have	contaminant	in	fish	have	allergy
+1	ok	461479100	tea	has an effect on	antioxidant	such as	curcumin	in	pain
+1	ok	1947864985	avocado	have	toxin	in	animal products	cause	inflammation
+0	nonsense	475997625	bean	has an effect on	dioxin	in	fish	have	allergy
+1	ok	1461026593	anchovy	is a	fish	have	fat	in	heart attacks
+1	ok	1180026668	animal foods	such as	dairy	is a	animal products	associated with	weight gain
+1	ok	976958736	chicken	have	contaminant	in	animal products	cause	inflammation
+1	ok	1447195360	wheat	associated with	symptom	associated with	diabetes	caused by	obesity
+1	ok	1436642586	chicken	is a	animal products	have	bacterium	such as	dental plaque
+0	nonsense	310166157	chicken	have	contamination	in	fish	have	allergy
+1	ok	683398513	wheat	associated with	symptom	such as	asthma
+0	more to it 	1261090723	gluten	caused by	symptom	in	infant	have	infection
+1	ok	1477237114	apple	have	toxin	such as	arsenic	cause	skin cancer
+0	nonsense	1583521898	avocado	have	toxin	in	cigarette	in	atherosclerosis
+0	nonsense	916549983	apple	have	toxin	in	fish	have	allergy
+1	ok	1483754583	chicken	have	campylobacter	is a	bacterium	cause	infection
+1	ok	870708424	wheat	associated with	symptom	such as	nausea
+1	ok	1759123903	wheat	associated with	symptom	in	fibromyalgia
+0	nonsense	2048029013	processed foods	have	steroid	in	fish	have	allergy
+1	ok	2093325010	apple	have	toxin	in	animal products	cause	inflammation
+0	nonsense	978010728	egg	associated with	diabetes	associated with	symptom	such as	nausea
+0	more to it 	1919069067	gluten	caused by	symptom	such as	asthma
+1	ok	219370131	soy	have	calcium	is affected by	protein	has an effect on	colon cancer
+0	more to it 	645442819	food poisoning	cause	fish	have	fat	in	heart attacks
+0	nonsense	40789516	chicken	have	heterocyclic amines	caused by	fish	have	allergy
+0	nonsense	830685515	wheat	associated with	symptom	associated with	diabetes	have	aid
+0	nonsense	1881383513	cooked meat	have	heterocyclic amines	caused by	fish	have	allergy
+0	more to it 	289892924	gluten	caused by	symptom	associated with	diabetes	caused by	obesity
+0	nonsense	1691746713	tuna	have	mercury	is a	fish	have	allergy
+1	ok	614882041	wheat	associated with	symptom	such as	heartburn
+1	ok	1714693492	eating meat	such as	fish	have	dioxin	cause	inflammation
+0	nonsense	2034451455	chicken	have	contaminant	in	fish	have	allergy
+0	nonsense	1425659633	tuna	have	mercury	in	fish	have	allergy
+1	ok	633882721	color	in	fish	have	xenoestrogen	associated with	birth defects
+0	more to it 	606202825	chicken	cause	fish	have	xenoestrogen	associated with	birth defects
+0	nonsense	1163334517	seafood	have	radioactivity	in	fish	have	allergy
+0	?	741072346	nut	in	life	have	protein	has an effect on	colon cancer
+1	ok	1293368451	animal foods	have	phosphorus	in	protein	has an effect on	colon cancer
+0	correct	1180474205	organ	in	antioxidant	such as	curcumin	in	pain
+0	nonsense	1800113386	apple	have	toxin	in	cigarette	in	atherosclerosis
+0	more to it 	2034663948	green tea	is a	bacterium	in	animal products	associated with	weight gain
+0	more to it 	1511254850	food poisoning	cause	fish	have	allergy
+1	ok	479435997	milk	have	calcium	is affected by	protein	has an effect on	colon cancer
+1	ok	1679365686	wheat	associated with	symptom	associated with	diabetes	is a	chronic diseases
+0	more to it 	1133820107	gluten	caused by	symptom	associated with	diabetes	have	aid
+1	ok	1651433049	chicken	have	bacterium	such as	dental plaque
+1	ok	1805120421	brown rice	has an effect on	diabetes	associated with	symptom	such as	heartburn
+1	ok	1750997542	eating meat	such as	fish	have	xenoestrogen	associated with	birth defects
+1	ok	70150603	cranberry	have	antioxidant	such as	curcumin	in	pain
+0	more to it 	156759173	green tea	is a	bacterium	in	animal products	cause	inflammation
+1	ok	100808058	white bread	have	antioxidant	such as	curcumin	in	pain
+1	ok	2036307317	tuna	is a	fish	have	dioxin	cause	inflammation
+1	ok	642827702	sweet potatoes	have	protein	has an effect on	colon cancer
+1	ok	1848835989	tuna	have	toxin	in	animal products	cause	inflammation
+0	nonsense	866715369	chocolate	have	fat	in	fish	have	allergy
+1	ok	1421880376	egg	associated with	diabetes	associated with	symptom	in	fibromyalgia
+1	ok	2114048142	egg	associated with	diabetes	associated with	symptom	such as	asthma
+1	ok	720490734	chicken	have	campylobacter	is a	bacterium	such as	dental plaque
+0	nonsense	947630579	wheat	associated with	symptom	in	infant	have	campylobacter infections
+1	ok	1003474462	milk	have	contaminant	in	animal products	cause	inflammation
+1	ok	1588715429	cheese	have	calcium	is affected by	protein	has an effect on	colon cancer
+1	ok	529112991	animal foods	have	iron	associated with	diabetes	caused by	obesity
+0	more to it 	1120585574	gluten	caused by	symptom	associated with	diabetes	caused by	insulin resistance
+0	more to it 	2060114995	whole grains	have	mineral	such as	arsenic	cause	skin cancer
+0	more to it 	2092072233	green tea	is a	bacterium	cause	infection
+0	nonsense	1535597673	egg	have	heterocyclic amines	caused by	fish	have	allergy
+0	?	631335300	animal foods	such as	dairy	in	survival	in	colorectal cancer
+1	ok	462118227	egg	associated with	diabetes	associated with	symptom	such as	heartburn
+0	nonsense	1853654962	wheat	associated with	symptom	in	infant	have	infection
+1	ok	910599579	animal foods	have	iron	associated with	diabetes	caused by	insulin resistance
+0	nonsense	106018604	olive	have	fat	in	fish	have	allergy
+0	more to it 	1258198160	gluten	caused by	symptom	have	spike	in	inflammation
+0	nonsense	2061109551	cheese	have	steroid	in	fish	have	allergy
+1	ok	1205337836	anchovy	is a	fish	have	dioxin	cause	inflammation
+1	ok	1145489916	tuna	is a	fish	have	xenoestrogen	associated with	birth defects
+0	more to it 	1221027440	gluten	caused by	symptom	in	infant	have	campylobacter infections
+1	ok	90909964	brown rice	has an effect on	diabetes	associated with	symptom	such as	nausea
+0	more to it 	1092900335	gluten	caused by	symptom	associated with	diabetes	is a	chronic diseases
+1	ok	999309272	egg	associated with	diabetes	associated with	symptom	such as	high blood pressure
+0	nonsense	2029350549	poultry	have	contamination	in	fish	have	allergy
+1	ok	1501401654	bacon	is a	animal products	have	bacterium	such as	dental plaque
+1	ok	462620374	tuna	is a	fish	have	fat	in	heart attacks
+0	more to it 	1125862785	chicken	cause	fish	have	allergy
+0	nonsense	2084465614	nut	is a	fat	in	fish	have	allergy
+1	ok	351024336	pork	have	protein	has an effect on	colon cancer
+0	nonsense	474613601	wheat	associated with	symptom	have	spike	in	inflammation
+1	correct	212890	bacon	have	antioxidant	such as	curcumin	in	pain
+0	more to it 	1597773934	food poisoning	cause	fish	have	dioxin	cause	inflammation
+1	ok	1073257423	tea	have	antioxidant	such as	curcumin	in	pain
+1	ok	192628934	brown rice	has an effect on	diabetes	associated with	symptom	such as	asthma
+1	ok	1889579446	brown rice	has an effect on	diabetes	associated with	symptom	in	fibromyalgia
+1	ok	1731036862	fenugreek	in	antioxidant	such as	curcumin	in	pain
+1	ok	502481523	soy	have	protein	has an effect on	colon cancer
+0	nonsense	1656220816	milk	have	insulin	caused by	fish	have	allergy
+1	ok	387331132	brown rice	has an effect on	diabetes	associated with	symptom	such as	high blood pressure
+0	more to it 	1461524139	gluten	caused by	symptom	such as	high blood pressure
+1	ok	1784187846	soy milk	have	calcium	is affected by	protein	has an effect on	colon cancer
+1	ok	685746591	color	in	fish	have	allergy
+0	nonsense	517086983	seafood	have	pcb	in	fish	have	allergy
+1	ok	462915076	animal foods	have	iron	associated with	diabetes	is a	chronic diseases
+1	ok	1166432364	seafood	have	toxin	in	animal products	associated with	weight gain
+0	more to it 	1961838124	green tea	is a	bacterium	such as	dental plaque
+1	ok	32020493	wheat	associated with	symptom	associated with	diabetes	caused by	insulin resistance
+1	ok	82938376	chicken	have	bacterium	in	animal products	associated with	weight gain
+0	nonsense	1955981067	eating meat	such as	fish	have	allergy
+1	ok	325462842	wheat	have	protein	has an effect on	colon cancer
+1	ok	1471186830	chicken	is a	animal products	have	bacterium	cause	infection
+0	more to it 	172930294	food poisoning	cause	fish	have	xenoestrogen	associated with	birth defects
+1	ok	1374701422	cinnamon	have	antioxidant	such as	curcumin	in	pain
+1	ok	1123698900	mushroom	have	antioxidant	such as	curcumin	in	pain
+0	more to it 	862101484	dandelion	such as	antioxidant	such as	curcumin	in	pain
+1	ok	1963935316	tuna	have	toxin	in	animal products	associated with	weight gain
+0	nonsense	158268959	corn	have	mercury	in	fish	have	allergy
+1	ok	753305847	anchovy	is a	fish	have	xenoestrogen	associated with	birth defects
+1	ok	1480852040	milk	have	protein	has an effect on	colon cancer
+1	ok	1430485761	avocado	have	toxin	such as	arsenic	cause	skin cancer
+1	ok	997773147	color	in	fish	have	dioxin	cause	inflammation
+1	ok	94208985	kale	have	antioxidant	such as	curcumin	in	pain
+1	ok	678205857	walnut	have	antioxidant	such as	curcumin	in	pain
+0	more to it 	762946462	turmeric	is a	dna damage	in	bacterium	such as	dental plaque
+0	more to it 	2129608318	chicken	cause	fish	have	dioxin	cause	inflammation
+0	nonsense	532693269	grape	in	fat	in	fish	have	allergy
+0	nonsense	1772753338	tuna	is a	fish	have	allergy
+0	more to it 	1175386457	turmeric	is a	dna damage	in	bacterium	cause	infection
+0	nonsense	48639492	corn syrup	have	mercury	is a	fish	have	allergy
+0	nonsense	458550356	multivitamin	have	copper	in	fish	have	allergy
+0	more to it 	1001727953	animal foods	have	iron	in	muscle	in	death
+1	ok	1638037445	whipped cream	have	protein	has an effect on	colon cancer
+1	ok	731623487	animal foods	have	iron	associated with	diabetes	have	aid
+1	ok	1044985614	anchovy	is a	fish	have	allergy
+0	nonsense	652112164	corn syrup	have	mercury	in	fish	have	allergy
+0	more to it 	142634491	cruciferous vegetables	have	enzyme	is affected by	plant-based diet	is a	virus
+0	nonsense	1959910037	seafood	have	toxin	in	cigarette	in	atherosclerosis
+1	ok	1597849096	avocado	have	toxin	in	animal products	associated with	weight gain
+0	more to it 	1912733641	gluten	caused by	symptom	in	fibromyalgia
+1	ok	446956690	seafood	have	toxin	such as	arsenic	cause	skin cancer
+1	ok	12271868	kale	have	calcium	is affected by	protein	has an effect on	colon cancer
+1	ok	737275934	wheat	associated with	symptom	such as	high blood pressure
+1	ok	939899751	milk	is a	animal products	have	bacterium	such as	dental plaque
+1	ok	1034625048	miso	have	protein	has an effect on	colon cancer
+0	nonsense	2048308721	seafood	have	toxin	in	fish	have	allergy
+0	more to it 	1718382128	animal foods	have	iron	in	muscle	cause	inflammation
+0	nonsense	1352304397	seafood	such as	mercury	in	fish	have	allergy
+0	nonsense	1027919387	wheat	associated with	symptom	in	infant	have	constipation
+0	nonsense	525039025	nut	have	fat	in	fish	have	allergy
+0	nonsense	1242072813	avocado	have	toxin	in	fish	have	allergy
+1	ok	1573369379	color	in	fish	have	fat	in	heart attacks
+0	nonsense	757341302	dairy products	have	dioxin	in	fish	have	allergy
+0	nonsense	1486661416	seafood	such as	mercury	is a	fish	have	allergy
+1	ok	1329749080	tuna	have	toxin	such as	arsenic	cause	skin cancer
+0	nonsense	1747106730	corn	have	mercury	is a	fish	have	allergy
+0	nonsense	197473742	tuna	have	toxin	in	fish	have	allergy
+0	nonsense	555128466	chicken	have	steroid	in	fish	have	allergy
+1	ok	1281034942	chicken	have	bacterium	cause	infection
+1	ok	540314305	seafood	have	toxin	in	animal products	cause	inflammation
+1	ok	523748985	animal foods	have	iron	in	animal products	cause	inflammation
+0	nonsense	1088962623	poultry	have	fecal contamination	have	fish	have	allergy
+1	ok	1868502674	chicken	have	bacterium	in	animal products	cause	inflammation
+0	more to it 	2073422778	gluten	caused by	symptom	such as	heartburn
+1	ok	156357802	bacon	is a	animal products	have	bacterium	cause	infection
+1	ok	1436341012	milk	is a	animal products	have	bacterium	cause	infection
+1	ok	659652627	milk	have	contaminant	in	animal products	associated with	weight gain
+1	ok	239944927	eating meat	such as	fish	have	fat	in	heart attacks
+1	ok	355597304	grape	have	antioxidant	such as	curcumin	in	pain
+1	ok	293275424	chicken	have	contaminant	in	animal products	associated with	weight gain
+1	ok	1312624773	apple	have	toxin	in	animal products	associated with	weight gain
+0	more to it 	361311511	chicken	cause	fish	have	fat	in	heart attacks
+1	ok	283619829	animal foods	such as	dairy	have	dioxin	cause	inflammation
+0	more to it 	1887901792	nettle tea	is a	mineral	such as	arsenic	cause	skin cancer
+1	ok	754326590	animal foods	such as	protein	has an effect on	colon cancer
+0	nonsense	90193950	tuna	have	toxin	in	cigarette	in	atherosclerosis
+0	more to it 	1697783045	gluten	caused by	symptom	in	infant	have	constipation
+0	nonsense	1394854008	nut	has an effect on	fat	in	fish	have	allergy
+1	ok	1823631848	animal foods	have	iron	in	animal products	associated with	weight gain
