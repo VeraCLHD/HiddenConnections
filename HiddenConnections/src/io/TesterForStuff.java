@@ -234,7 +234,13 @@ public class TesterForStuff {
 		 luceneSearchAll("in", "diabetes", "estrogen");
 		 luceneSearchAll("in", "diabetes", "estrogens");*/
 		 
-		 luceneSearchTwoTerms( "choline", "death" );
+		 //luceneSearchTwoTerms( "choline", "death" );
+		Double ic = 1.97389719743579;
+		if(ic >= 2.0){
+			System.out.println(">=");
+		} if(ic <= 2.0){
+			System.out.println("<");
+		}
 	
 	}
 	
