@@ -1,550 +1,407 @@
 
 
-1512400939	beef	PART-OF-I	iron	PART-OF	muscle	CAUSE	inflammation
-1036607161	stevia	PART-OF-I	graph	IS-A	bpa	LINKED-TO	cardiovascular disease
-374689326	turmeric	PART-OF-I	yellow pigment	PART-OF	patient	PART-OF-I	kidney stones
-198888977	broccoli	PART-OF-I	active ingredient	PART-OF	vegetarian	PART-OF-I	breast cancer
-520214450	turmeric	PART-OF-I	active ingredient	PART-OF	vegetarian	PART-OF-I	chronic disease
-1720589828	egg	EFFECT	cholesterol	LINKED-TO	gestational diabetes
-1133479154	coconut oil	PART-OF-I	saturated fat	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
-38254104	beef	PART-OF-I	saturated fat	EFFECT	cholesterol	EFFECT	breast cancer
-867857160	carob	PART-OF-I	fiber	EFFECT	cholesterol	LINKED-TO	gestational diabetes
-1417258028	dairy products	PART-OF-I	dioxin	PART-OF	cigarette	PART-OF	atherosclerosis
-150128304	seafood	IS-A	mercury	CAUSE	brain	CAUSED-BY	atherosclerosis
-1507360129	milk	PART-OF	girl	LINKED-TO	animal protein	CAUSE	inflammation
-664153246	cranberry	PART-OF-I	cancer cells	PART-OF-I	cholesterol	LINKED-TO	nonalcoholic fatty liver
-965220381	carob	PART-OF-I	fiber	EFFECT	cholesterol	CAUSE	erectile dysfunction
-1911286370	poultry	PART-OF-I	salmonella	PART-OF	salmonellosis
-196385869	carob	PART-OF-I	fiber	EFFECT	cholesterol	PART-OF	atherosclerosis
-2203028	fruit juice	HYPERNYMY	fiber	EFFECT	cholesterol	LINKED-TO	gestational diabetes
-1055382524	chicken	HYPERNYMY	animal products	LINKED-TO	weight gain
-1276743873	turmeric	HYPERNYMY	dna damage	LINKED-TO	treatment	PART-OF	cardiovascular disease
-208419123	poultry	PART-OF-I	mortality	PART-OF	infant	PART-OF-I	infection
-1134917546	almond	EFFECT	cholesterol	CAUSE	blood	CAUSE	insulin resistance
-330230182	bacon	HYPERNYMY	animal products	CAUSE	inflammation
-39732789	egg	PART-OF-I	saturated fat	PART-OF-I	cholesterol	LINKED-TO	gestational diabetes
-1837675411	corn	PART-OF-I	mercury	CAUSE	brain	CAUSED-BY	atherosclerosis
-1957943351	fig	PART-OF-I	fiber	EFFECT	cholesterol	CAUSE	erectile dysfunction
-894297684	bean	PART-OF-I	cancer cells	PART-OF-I	cholesterol	LINKED-TO	nonalcoholic fatty liver
-1085265251	egg	LINKED-TO	diabetes	PART-OF	livestock	PART-OF-I	infection
-989950550	poultry	LINKED-TO	liver	EFFECT	estrogen	PART-OF	breast cancer
-1491742390	avocado	PART-OF-I	cholesterol	CAUSE	artery	LINKED-TO	cardiac disease
-496741456	pork	PART-OF-I	mrsa	PART-OF	pig	PART-OF-I	insulin sensitivity
-723828000	curry powder	EFFECT	cancer cells	PART-OF-I	cholesterol	LINKED-TO	nonalcoholic fatty liver
-1061799113	flax seeds	PART-OF-I	fiber	EFFECT	cholesterol	CAUSE	atherosclerosis
-552294171	chocolate	PART-OF-I	saturated fat	PART-OF-I	cholesterol	PART-OF	atherosclerosis
-1101068777	olive	PART-OF-I	fat	IS-A	brain	CAUSED-BY	atherosclerosis
-278584555	bacon	HYPERNYMY	animal products	IS-A	fish oil	EFFECT	inflammation
-395944245	bean	PART-OF-I	cancer cells	PART-OF-I	cholesterol	CAUSE	erectile dysfunction
-1463414497	seed	HYPERNYMY	plant-based diet	HYPERNYMY	virus
-363654781	avocado	PART-OF-I	cholesterol	LINKED-TO	gestational diabetes
-1272709218	beef	PART-OF-I	iron	PART-OF	animal products	CAUSE	inflammation
-210291675	flax seeds	PART-OF-I	phytoestrogen	PART-OF	breast cancer
-1447527559	raisin	CAUSE	blood sugar	EFFECT-I	saturated fat	CAUSE	dysfunction
-1379420494	dessert	IS-A	cake	PART-OF-I	cholesterol	EFFECT	breast cancer
-493067417	soft drinks	PART-OF-I	benzene	PART-OF	cigarette	PART-OF	atherosclerosis
-1003773636	poultry	LINKED-TO-I	mortality	PART-OF	infant	PART-OF-I	constipation
-470914534	egg	LINKED-TO	diabetes	PART-OF	china	PART-OF-I	obesity
-474811965	stevia	PART-OF-I	big spike	PART-OF	inflammation
-2033979742	milk	PART-OF-I	calcium	PART-OF	dairy	PART-OF	acne
-1664433416	sea vegetables	PART-OF-I	fiber	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
-1928609336	coconut oil	PART-OF-I	saturated fat	PART-OF-I	cholesterol	CAUSE	atherosclerosis
-1153090848	beef	EFFECT	cholesterol	EFFECT	breast cancer
-1090803690	milk	PART-OF-I	pesticide	PART-OF-I	arsenic	CAUSE	skin cancer
-410653579	poultry	LINKED-TO-I	mortality	PART-OF	poultry workers	LINKED-TO	wart
-98759432	dessert	IS-A	cake	PART-OF-I	cholesterol	LINKED-TO	nonalcoholic fatty liver
-1188148299	split peas	EFFECT	cholesterol	EFFECT-I	saturated fat	CAUSE	dysfunction
-1762011438	deli meats	PART-OF-I	salmonella	HYPERNYMY	pathogen	CAUSED-BY	norovirus
-1319391067	nutritional yeast	PART-OF-I	fiber	EFFECT	cholesterol	PART-OF	atherosclerosis
-1223165729	alfalfa	PART-OF-I	salmonella	HYPERNYMY	pathogen	CAUSED-BY	norovirus
-1529321702	milk	EFFECT	uric acid	PART-OF	gout
-1619115939	chocolate	PART-OF-I	saturated fat	EFFECT	cholesterol	CAUSE	atherosclerosis
-2080360877	seafood	PART-OF-I	pcb	LINKED-TO	fat	PART-OF	heart attacks
-2038270416	beef	PART-OF-I	saturated fat	PART-OF-I	cholesterol	EFFECT	breast cancer
-1896787495	oatmeal	PART-OF-I	fiber	EFFECT	cholesterol	PART-OF	atherosclerosis
-741994053	beef	PART-OF-I	steroid hormones	PART-OF	dairy	PART-OF	acne
-1369054133	egg	PART-OF-I	saturated fat	PART-OF-I	cholesterol	CAUSE	erectile dysfunction
-1111861392	dried fruit	PART-OF-I	fiber	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
-2109218914	beef	EFFECT	cholesterol	CAUSE	atherosclerosis
-1281019102	egg	PART-OF-I	saturated fat	PART-OF-I	cholesterol	EFFECT	breast cancer
-556809953	french fries	LINKED-TO-I	girl	PART-OF-I	endometrial cancer
-1577743023	dried fruit	PART-OF-I	fiber	EFFECT	cholesterol	CAUSE	erectile dysfunction
-1892332219	deli meat	PART-OF-I	salmonella	HYPERNYMY	pathogen	CAUSED-BY	norovirus
-528470890	almond	EFFECT	cholesterol	LINKED-TO	gestational diabetes
-831707572	marijuana	PART-OF-I	active ingredient	PART-OF	vegetarian	PART-OF-I	chronic disease
-2065470994	egg	PART-OF-I	saturated fat	PART-OF-I	cholesterol	CAUSE	atherosclerosis
-84870529	hop	PART-OF-I	phytoestrogen	PART-OF	breast cancer
-1859969916	strawberry	PART-OF	patient	PART-OF-I	kidney stones
-994852227	apple	PART-OF-I	age	PART-OF	cholesterol	LINKED-TO	nonalcoholic fatty liver
-889575282	lentil	PART-OF-I	carb	LINKED-TO	pancreatic cancer
-1286487912	prebiotic	IS-A	fiber	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
-1363770604	avocado	PART-OF-I	cholesterol	CAUSE	artery	PART-OF	allergy
-1778917798	nut	PART-OF-I	fat	PART-OF	animal products	CAUSE	inflammation
-25859823	split peas	EFFECT	cholesterol	LINKED-TO	gestational diabetes
-1638817689	walnut	EFFECT	cholesterol	CAUSE	artery	CAUSE	stroke
-1724984449	oatmeal	PART-OF-I	fiber	EFFECT	cholesterol	EFFECT	breast cancer
-189477957	apple	PART-OF-I	age	PART-OF	cholesterol	LINKED-TO	gestational diabetes
-973442490	flaxseed	PART-OF-I	lignan	PART-OF	vegetarian	PART-OF-I	chronic disease
-1921140249	nettle tea	PART-OF-I	iron	PART-OF	animal products	LINKED-TO	weight gain
-1514359937	nut	EFFECT	fat	PART-OF	heart attacks
-1725802669	beef	PART-OF-I	saturated fat	PART-OF-I	cholesterol	CAUSE	atherosclerosis
-1944915093	soy	PART-OF-I	calcium	PART-OF	dairy	PART-OF	acne
-529540114	almond	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
-515294225	walnut	EFFECT	cholesterol	PART-OF	atherosclerosis
-398859107	corn syrup	PART-OF-I	mercury	EFFECT	brain	CAUSED-BY	atherosclerosis
-713336638	flax seeds	PART-OF-I	lignan	PART-OF	vegetarian	PART-OF-I	chronic disease
-2072712481	whole grains	PART-OF-I	phytate	PART-OF	vegetarian	PART-OF-I	breast cancer
-1511600553	split peas	EFFECT	cholesterol	EFFECT	breast cancer
-1983334206	bean	PART-OF-I	folate	CAUSE	depression	CAUSED-BY	inflammation
-1919195240	apple juice	PART-OF-I	arsenic	CAUSE	skin cancer
-98702987	nut	PART-OF-I	fiber	EFFECT	cholesterol	CAUSE	atherosclerosis
-194826274	chicken	HYPERNYMY	animal products	IS-A	fish oil	EFFECT	inflammation
-2095998399	beef	EFFECT	cholesterol	CAUSE	artery	PART-OF	allergy
-855986822	tomato	EFFECT	platelet	CAUSE	blood clots
-300743477	chicken	PART-OF-I	iron	PART-OF	animal products	CAUSE	inflammation
-230919121	beef	EFFECT	cholesterol	PART-OF	saturated fat	CAUSE	dysfunction
-1383985456	curry powder	EFFECT	cancer cells	PART-OF	check	PART-OF-I	inflammation
-1459986909	walnut	EFFECT	cholesterol	CAUSE	blood	CAUSE	insulin resistance
-2529988	milk	PART-OF-I	steroid hormones	IS-A	estrogen	PART-OF	breast cancer
-1522866135	almond milk	EFFECT	cancer cells	PART-OF-I	cholesterol	PART-OF	atherosclerosis
-949029801	avocado	PART-OF-I	cholesterol	CAUSE	atherosclerosis
-694957791	beef	PART-OF-I	saturated fat	EFFECT	cholesterol	CAUSE	atherosclerosis
-851284276	beef	PART-OF-I	saturated fat	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
-340531033	coconut oil	PART-OF-I	saturated fat	EFFECT	cholesterol	LINKED-TO	gestational diabetes
-1853189485	bean	EFFECT	dioxin	PART-OF	cigarette	PART-OF	atherosclerosis
-1637901441	aspartame	CAUSE	adverse effects	PART-OF	pregnancy	PART-OF-I	vomit
-445024896	nut	PART-OF-I	fiber	EFFECT	cholesterol	PART-OF	atherosclerosis
-571037313	broccoli	PART-OF-I	enzyme	EFFECT-I	plant-based diet	HYPERNYMY	virus
-1473588158	chicken	PART-OF-I	heme iron	PART-OF	animal products	LINKED-TO	weight gain
-1950392547	fruit juice	HYPERNYMY	fiber	EFFECT	cholesterol	EFFECT	breast cancer
-2085672050	coconut oil	PART-OF-I	saturated fat	CAUSE	dysfunction
-822592748	milk	HYPERNYMY	animal products	IS-A	fish oil	EFFECT	inflammation
-1240774094	walnut	EFFECT	cholesterol	LINKED-TO	gestational diabetes
-896847963	bean	PART-OF-I	folate	CAUSE	depression	LINKED-TO-I	inflammation
-1225739960	chocolate	PART-OF-I	saturated fat	EFFECT	cholesterol	PART-OF	atherosclerosis
-233097405	egg	PART-OF-I	saturated fat	EFFECT	cholesterol	EFFECT	breast cancer
-164432695	whole foods	PART-OF-I	fiber	EFFECT	cholesterol	EFFECT	breast cancer
-461761090	poultry	PART-OF-I	mortality	PART-OF	infant	PART-OF-I	campylobacter infections
-962541132	fig	PART-OF-I	fiber	EFFECT	cholesterol	EFFECT	breast cancer
-1089826736	egg	EFFECT	cholesterol	CAUSE	artery	PART-OF	allergy
-280587314	dairy products	PART-OF-I	dioxin	CAUSE	inflammation
-2063997831	beef	PART-OF-I	saturated fat	PART-OF-I	cholesterol	LINKED-TO	nonalcoholic fatty liver
-779290830	curry powder	EFFECT	cancer cells	PART-OF-I	cholesterol	PART-OF	atherosclerosis
-798288027	beef	EFFECT	cholesterol	LINKED-TO	gestational diabetes
-1862276982	soy	PART-OF-I	estrogen	PART-OF	breast cancer
-454915792	almond milk	EFFECT	cancer cells	PART-OF-I	cholesterol	EFFECT	breast cancer
-172240473	avocado	PART-OF-I	cholesterol	CAUSE	artery	CAUSE	stroke
-467415832	oatmeal	PART-OF-I	fiber	EFFECT	cholesterol	LINKED-TO	gestational diabetes
-1531839855	coconut oil	PART-OF-I	saturated fat	PART-OF-I	cholesterol	PART-OF	atherosclerosis
-655100794	nut	EFFECT	fat	IS-A	brain	CAUSED-BY	atherosclerosis
-1089908408	beef	PART-OF-I	iron	PART-OF	muscle	PART-OF	death
-1730753768	bacon	HYPERNYMY	animal products	IS-A	dairy	PART-OF	acne
-1911103388	egg	PART-OF-I	cholesterol	CAUSE	artery	LINKED-TO	cardiac disease
-1570675074	almond milk	EFFECT	cancer cells	PART-OF-I	cholesterol	LINKED-TO	nonalcoholic fatty liver
-2045423517	coconut oil	PART-OF-I	saturated fat	PART-OF-I	cholesterol	LINKED-TO	gestational diabetes
-1465764250	dessert	IS-A	cake	PART-OF-I	cholesterol	PART-OF	atherosclerosis
-871141932	chocolate	PART-OF-I	saturated fat	PART-OF-I	cholesterol	EFFECT	breast cancer
-931856928	bt corn	HYPERNYMY	pesticide	PART-OF	animal products	LINKED-TO	weight gain
-1290807286	poultry	PART-OF-I	contamination	PART-OF	dairy	PART-OF	acne
-1775897952	chicken	PART-OF-I	neurotoxic chemicals	PART-OF	dairy	PART-OF	acne
-1315329620	bean	PART-OF-I	phytate	PART-OF	vegetarian	PART-OF-I	breast cancer
-2010898291	walnut	EFFECT	cholesterol	CAUSE	erectile dysfunction
-1317112001	cheese	PART-OF-I	pesticide	PART-OF	animal products	CAUSE	inflammation
-299164954	brown rice	EFFECT	diabetes	PART-OF	china	PART-OF-I	obesity
-425594420	nut	PART-OF-I	fat	PART-OF	animal products	LINKED-TO	weight gain
-1331073814	nut	PART-OF-I	phytoestrogen	PART-OF	breast cancer
-1735572139	milk	IS-A	pesticide	PART-OF	animal products	CAUSE	inflammation
-1767241505	egg	EFFECT	cholesterol	CAUSE	artery	CAUSE	stroke
-1762197832	beef	EFFECT	cholesterol	CAUSE	artery	CAUSE	stroke
-447009802	apple	PART-OF-I	arsenic	CAUSE	skin cancer
-1123288708	milk	PART-OF-I	manure	CAUSE	virus
-631473818	beef	PART-OF-I	saturated fat	CAUSE	dysfunction
-2121390293	cheese	PART-OF-I	steroid	IS-A	estrogen	PART-OF	breast cancer
-1731849859	split peas	EFFECT	cholesterol	PART-OF	saturated fat	CAUSE	dysfunction
-1406394390	broccoli	HYPERNYMY	calcium	PART-OF	dairy	PART-OF	acne
-1150577293	drinking water	PART-OF-I	benzene	PART-OF	cigarette	PART-OF	atherosclerosis
-1553657123	sea vegetables	PART-OF-I	fiber	EFFECT	cholesterol	LINKED-TO	gestational diabetes
-81658912	vitamin	PART-OF-I	mortality	PART-OF	infant	PART-OF-I	constipation
-1714243518	flaxseed	PART-OF-I	lignan	PART-OF	vegetarian	PART-OF-I	breast cancer
-1910226498	chocolate	PART-OF-I	calorie	PART-OF	saturated fat	CAUSE	dysfunction
-496469831	split peas	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
-1918025456	beer	PART-OF-I	phytoestrogen	PART-OF	breast cancer
-1824668079	blueberry	EFFECT	oxidative stress	PART-OF	carotenoid	PART-OF-I	urinary tract infections
-851847502	egg	EFFECT	cholesterol	PART-OF	atherosclerosis
-551685282	egg	PART-OF-I	cholesterol	CAUSE	artery	CAUSE	stroke
-1990749446	nut	PART-OF-I	nutrition	EFFECT-I	fat	PART-OF	heart attacks
-47913610	cassia cinnamon	PART-OF-I	liver	EFFECT	estrogen	PART-OF	breast cancer
-43832390	nut	PART-OF-I	fiber	EFFECT	cholesterol	CAUSE	erectile dysfunction
-1018035277	tea	EFFECT	blood pressure	PART-OF-I	spike	PART-OF	inflammation
-44012931	curry powder	PART-OF-I	yellow pigment	PART-OF	patient	PART-OF-I	kidney stones
-1670990227	soy	HYPERNYMY	animal proteins	IS-A	neu5gc	CAUSE	inflammation
-1275482457	almond	EFFECT	cholesterol	CAUSE	artery	LINKED-TO	cardiac disease
-2119307699	pork	PART-OF-I	mrsa	PART-OF	pig	PART-OF-I	hepatitis e
-896101221	cranberry	PART-OF-I	cancer cells	PART-OF-I	cholesterol	EFFECT	breast cancer
-586701834	nutritional yeast	PART-OF-I	fiber	EFFECT	cholesterol	CAUSE	erectile dysfunction
-460480195	oatmeal	PART-OF-I	fiber	EFFECT	cholesterol	CAUSE	erectile dysfunction
-1536522816	curry powder	EFFECT	cancer cells	PART-OF-I	cholesterol	CAUSE	erectile dysfunction
-800490788	chocolate	PART-OF-I	fat	IS-A	brain	CAUSED-BY	atherosclerosis
-640281536	egg	PART-OF-I	cholesterol	PART-OF	atherosclerosis
-145422949	beef	EFFECT	cholesterol	PART-OF	atherosclerosis
-174151984	chocolate	PART-OF-I	saturated fat	CAUSE	dysfunction
-1504812687	dessert	IS-A	cake	PART-OF-I	cholesterol	CAUSE	atherosclerosis
-2053580491	egg	PART-OF-I	cholesterol	LINKED-TO	gestational diabetes
-1577919047	brown rice	EFFECT	diabetes	PART-OF	livestock	PART-OF-I	infection
-503340200	cranberry	PART-OF-I	cancer cells	PART-OF-I	cholesterol	CAUSE	erectile dysfunction
-712882883	beer	PART-OF-I	agent	PART-OF	atherosclerosis
-1329720800	beef	IS-A	saturated fat	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
-303876707	bean	PART-OF-I	cancer cells	PART-OF-I	cholesterol	EFFECT	breast cancer
-1525046167	beef	IS-A	saturated fat	PART-OF-I	cholesterol	LINKED-TO	nonalcoholic fatty liver
-556757900	chicken	PART-OF-I	iron	PART-OF	animal products	LINKED-TO	weight gain
-823125300	chicken	PART-OF-I	iron	PART-OF	muscle	CAUSE	inflammation
-1966639034	beef	IS-A	saturated fat	PART-OF-I	cholesterol	PART-OF	atherosclerosis
-2059694894	split peas	EFFECT	cholesterol	CAUSE	artery	CAUSE	stroke
-1398059029	bean	PART-OF-I	cancer cells	PART-OF-I	cholesterol	CAUSE	atherosclerosis
-1986875985	cheese	PART-OF-I	steroid	PART-OF	dairy	PART-OF	acne
-20280525	avocado	PART-OF-I	cholesterol	EFFECT-I	saturated fat	CAUSE	dysfunction
-716512296	oatmeal	PART-OF-I	carb	LINKED-TO	pancreatic cancer
-838905074	milk	PART-OF-I	amino acids	IS-A	methionine	HYPERNYMY	inflammatory bowel diseases
-652508414	chicken	PART-OF-I	steroid	IS-A	estrogen	PART-OF	breast cancer
-1454906208	beef	PART-OF-I	saturated fat	PART-OF-I	cholesterol	CAUSE	erectile dysfunction
-343188943	egg	PART-OF-I	saturated fat	PART-OF-I	cholesterol	PART-OF	atherosclerosis
-1763607215	flax seeds	PART-OF-I	fiber	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
-242771030	skim milk	PART-OF-I	estrogen	PART-OF	breast cancer
-1981547703	coconut oil	PART-OF-I	saturated fat	PART-OF-I	cholesterol	LINKED-TO	nonalcoholic fatty liver
-1234005998	dried fruit	PART-OF-I	fiber	EFFECT	cholesterol	CAUSE	atherosclerosis
-198378385	tea	PART-OF-I	lignan	PART-OF	vegetarian	PART-OF-I	chronic disease
-97565718	fruit juice	HYPERNYMY	fiber	EFFECT	cholesterol	PART-OF	atherosclerosis
-1073961615	egg	PART-OF-I	saturated fat	EFFECT	cholesterol	CAUSE	atherosclerosis
-1105518407	sesame seeds	PART-OF-I	lignan	PART-OF	vegetarian	PART-OF-I	chronic disease
-1090436252	corn	PART-OF-I	mercury	EFFECT	brain	CAUSED-BY	atherosclerosis
-1382053987	nettle tea	PART-OF-I	iron	PART-OF	muscle	CAUSE	inflammation
-491057120	cheese	PART-OF-I	neurotoxic chemicals	PART-OF	dairy	PART-OF	acne
-779963390	sea vegetables	PART-OF-I	fiber	EFFECT	cholesterol	PART-OF	atherosclerosis
-646284373	dairy products	PART-OF-I	dioxin	PART-OF	dairy	PART-OF	acne
-141440050	beef	IS-A	saturated fat	PART-OF-I	cholesterol	CAUSE	erectile dysfunction
-1583758530	chocolate	PART-OF-I	saturated fat	EFFECT	cholesterol	CAUSE	erectile dysfunction
-362662583	whole grains	PART-OF-I	fiber	EFFECT	cholesterol	EFFECT	breast cancer
-470214810	nut	HYPERNYMY	fat	IS-A	brain	CAUSED-BY	atherosclerosis
-1728098359	almond	EFFECT	cholesterol	CAUSE	artery	CAUSE	stroke
-981583981	processed meats	PART-OF-I	preservative	PART-OF-I	dioxin	CAUSE	inflammation
-1419049263	grape	PART-OF	fat	IS-A	brain	CAUSED-BY	atherosclerosis
-159466782	vitamin	PART-OF-I	mortality	PART-OF	poultry workers	LINKED-TO	wart
-939569720	split peas	EFFECT	cholesterol	CAUSE	erectile dysfunction
-901412295	fig	PART-OF-I	fiber	EFFECT	cholesterol	LINKED-TO	gestational diabetes
-1970372473	whole foods	PART-OF-I	fiber	EFFECT	cholesterol	CAUSE	atherosclerosis
-2145037970	egg	PART-OF-I	cholesterol	CAUSE	erectile dysfunction
-1300217877	chocolate	PART-OF-I	saturated fat	PART-OF-I	cholesterol	LINKED-TO	gestational diabetes
-1417282892	nettle tea	PART-OF-I	iron	PART-OF	muscle	PART-OF	death
-574756682	poultry	LINKED-TO-I	mortality	PART-OF	infant	PART-OF-I	campylobacter infections
-1555470411	prebiotic	IS-A	fiber	EFFECT	cholesterol	LINKED-TO	gestational diabetes
-419389815	chicken	PART-OF-I	iron	LINKED-TO	diabetes	CAUSED-BY	insulin resistance
-1477039489	nettle tea	PART-OF-I	iron	LINKED-TO	diabetes	CAUSED-BY	insulin resistance
-1880100457	poultry	IS-A	salmonella	HYPERNYMY	pathogen	CAUSED-BY	norovirus
-921928577	grape	PART-OF	fat	PART-OF	animal products	LINKED-TO	weight gain
-1302516904	rice	PART-OF-I	arsenic	CAUSE	skin cancer
-1036365544	broccoli	PART-OF-I	active ingredient	PART-OF	vegetarian	PART-OF-I	chronic disease
-1648938279	fruit juice	HYPERNYMY	fiber	EFFECT	cholesterol	CAUSE	atherosclerosis
-1199456112	apple	PART-OF-I	age	PART-OF	cholesterol	CAUSE	atherosclerosis
-828817725	sesame seeds	PART-OF-I	lignan	PART-OF	vegetarian	PART-OF-I	breast cancer
-1146825786	raisin	CAUSE	blood sugar	PART-OF-I	spike	PART-OF	inflammation
-347412814	beef	PART-OF-I	iron	PART-OF	animal products	LINKED-TO	weight gain
-1440636809	barley	HYPERNYMY	grain	EFFECT	brain	CAUSED-BY	atherosclerosis
-783950115	chicken	PART-OF-I	contamination	PART-OF	dairy	PART-OF	acne
-1300747955	egg	PART-OF-I	salmonella	HYPERNYMY	pathogen	CAUSED-BY	norovirus
-1334834146	flax seeds	PART-OF-I	fiber	EFFECT	cholesterol	PART-OF	atherosclerosis
-1329712191	turmeric	HYPERNYMY	dna damage	CAUSED-BY	free radicals	CAUSE	dysfunction
-1452448503	bean	PART-OF-I	phytate	PART-OF	vegetarian	PART-OF-I	chronic disease
-626286709	fig	PART-OF-I	fiber	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
-24037954	chicken	PART-OF-I	iron	LINKED-TO	diabetes	CAUSED-BY	obesity
-1326261276	eating nuts	EFFECT	ldl	PART-OF	breast tumors
-2073475396	beef	PART-OF-I	steroid hormones	IS-A	estrogen	PART-OF	breast cancer
-2034520782	egg	EFFECT	cholesterol	EFFECT-I	saturated fat	CAUSE	dysfunction
-32978152	almond milk	EFFECT	cancer cells	PART-OF-I	cholesterol	LINKED-TO	gestational diabetes
-1629213998	egg	PART-OF-I	cholesterol	CAUSE	atherosclerosis
-945800115	poultry	IS-A	turkey	PART-OF-I	salmonella	PART-OF	salmonellosis
-390946029	tomato	PART-OF-I	depression	LINKED-TO-I	inflammation
-1257607997	coconut oil	PART-OF-I	saturated fat	EFFECT	cholesterol	PART-OF	atherosclerosis
-1884692907	beef	EFFECT	cholesterol	CAUSE	artery	LINKED-TO	cardiac disease
-1366796558	seafood	PART-OF-I	pcb	HYPERNYMY	xenoestrogen	LINKED-TO	birth defects
-1744368956	peppermint	EFFECT	muscle	PART-OF	death
-1331958076	poultry	LINKED-TO-I	mortality	PART-OF	poultry workers	PART-OF-I	reticuloendotheliosis viruses
-19815376	flax seeds	PART-OF-I	fiber	EFFECT	cholesterol	CAUSE	erectile dysfunction
-464096755	soy milk	PART-OF-I	calcium	PART-OF	dairy	PART-OF	acne
-1463217466	nut	HYPERNYMY	fat	PART-OF	heart attacks
-1072728062	processed foods	PART-OF-I	steroid	IS-A	estrogen	PART-OF	breast cancer
-1926466513	beef	IS-A	saturated fat	PART-OF-I	cholesterol	EFFECT	breast cancer
-879531829	beef	PART-OF-I	saturated fat	EFFECT	cholesterol	LINKED-TO	gestational diabetes
-1194624180	chicken	HYPERNYMY	animal products	PART-OF-I	fat	PART-OF	heart attacks
-1568121653	egg	PART-OF-I	saturated fat	EFFECT	cholesterol	LINKED-TO	gestational diabetes
-1495535658	avocado	PART-OF-I	cholesterol	LINKED-TO	nonalcoholic fatty liver
-148830923	beer	PART-OF-I	estrogen	PART-OF	breast cancer
-388623632	egg	LINKED-TO	diabetes	CAUSED-BY	insulin resistance
-564096297	fruit juice	HYPERNYMY	fiber	EFFECT	cholesterol	CAUSE	erectile dysfunction
-763750622	apple	PART-OF-I	age	EFFECT-I	dairy	PART-OF	acne
-386445079	brown rice	EFFECT	diabetes	PART-OF-I	treatment	PART-OF	cardiovascular disease
-1966764815	flax seeds	PART-OF-I	fiber	EFFECT	cholesterol	LINKED-TO	gestational diabetes
-1378514082	poultry	PART-OF-I	agent	PART-OF	atherosclerosis
-1133645324	fig	PART-OF-I	fiber	EFFECT	cholesterol	CAUSE	atherosclerosis
-1214340165	whole foods	PART-OF-I	fiber	EFFECT	cholesterol	LINKED-TO	gestational diabetes
-490629710	olive	PART-OF-I	fat	PART-OF	animal products	CAUSE	inflammation
-1635934937	egg	LINKED-TO	diabetes	CAUSED-BY	obesity
-681988341	flaxseed	PART-OF-I	phytoestrogen	PART-OF	breast cancer
-2003572774	bacon	HYPERNYMY	animal products	LINKED-TO	weight gain
-383243299	nut	PART-OF-I	fat	IS-A	brain	CAUSED-BY	atherosclerosis
-280112182	dessert	IS-A	cake	PART-OF-I	cholesterol	LINKED-TO	gestational diabetes
-415973437	milk	IS-A	pesticide	PART-OF-I	arsenic	CAUSE	skin cancer
-1248883840	cooked meat	PART-OF-I	estrogen	PART-OF	breast cancer
-853952742	soy	HYPERNYMY	animal proteins	IS-A	dairy	PART-OF	acne
-1839189779	egg	PART-OF-I	finding	EFFECT	plant-based diet	HYPERNYMY	virus
-769542045	chocolate	PART-OF-I	saturated fat	EFFECT	cholesterol	LINKED-TO	gestational diabetes
-37300908	chocolate	PART-OF-I	fat	PART-OF	animal products	CAUSE	inflammation
-1386932682	cranberry	PART-OF-I	cancer cells	PART-OF-I	cholesterol	PART-OF	atherosclerosis
-1765881997	chicken	PART-OF-I	salmonella	PART-OF	salmonellosis
-902654163	chicken	PART-OF-I	heme iron	PART-OF	muscle	PART-OF	death
-1399966209	chocolate	PART-OF-I	saturated fat	PART-OF-I	cholesterol	CAUSE	atherosclerosis
-1720550502	beef	PART-OF-I	saturated fat	PART-OF-I	cholesterol	PART-OF	atherosclerosis
-1195787918	almond milk	EFFECT	cancer cells	PART-OF	check	PART-OF-I	inflammation
-1377688782	milk	HYPERNYMY	animal products	LINKED-TO	weight gain
-1841035777	curry powder	PART-OF-I	yellow pigment	PART-OF	patient	PART-OF-I	acidosis
-418480738	olive	PART-OF-I	fat	PART-OF	heart attacks
-1849735273	cranberry	PART-OF-I	cancer cells	PART-OF	check	PART-OF-I	inflammation
-337417838	beef	IS-A	saturated fat	EFFECT	cholesterol	CAUSE	atherosclerosis
-2070622620	carob	PART-OF-I	fiber	EFFECT	cholesterol	EFFECT	breast cancer
-2081072422	apple	PART-OF-I	age	PART-OF	cholesterol	CAUSE	erectile dysfunction
-1302667655	marijuana	PART-OF-I	active ingredient	PART-OF	vegetarian	PART-OF-I	breast cancer
-943581143	vitamin	PART-OF-I	mortality	PART-OF	infant	PART-OF-I	infection
-1192989470	tuna	PART-OF-I	mercury	CAUSE	brain	CAUSED-BY	atherosclerosis
-971056534	carob	PART-OF-I	fiber	EFFECT	cholesterol	CAUSE	atherosclerosis
-1400079639	milk	HYPERNYMY	animal products	CAUSE	inflammation
-1405320327	breast milk	IS-A	pcb	HYPERNYMY	xenoestrogen	LINKED-TO	birth defects
-918183298	egg	EFFECT	cholesterol	PART-OF	saturated fat	CAUSE	dysfunction
-1293300457	seed	IS-A	grain	EFFECT	brain	CAUSED-BY	atherosclerosis
-1193996576	nettle tea	PART-OF-I	iron	PART-OF	animal products	CAUSE	inflammation
-734253548	cooked meat	PART-OF-I	carcinogen	PART-OF	cigarette	PART-OF	atherosclerosis
-1766551730	poultry	LINKED-TO-I	mortality	PART-OF	infant	PART-OF-I	infection
-795783624	tomato	PART-OF-I	depression	LINKED-TO-I	blood	CAUSE	insulin resistance
-869214185	beef	IS-A	saturated fat	PART-OF-I	cholesterol	CAUSE	atherosclerosis
-1719446430	avocado	PART-OF-I	cholesterol	CAUSE	erectile dysfunction
-1472534203	nut	HYPERNYMY	fat	PART-OF	animal products	CAUSE	inflammation
-518025537	bean	PART-OF-I	cancer cells	PART-OF-I	cholesterol	LINKED-TO	gestational diabetes
-1820101983	beef	IS-A	saturated fat	EFFECT	cholesterol	LINKED-TO	gestational diabetes
-1047012823	almond	EFFECT	cholesterol	CAUSE	artery	PART-OF	allergy
-1025447145	cooking meat	CAUSE	carcinogen	PART-OF	cigarette	PART-OF	atherosclerosis
-1951273071	processed foods	PART-OF-I	steroid	PART-OF	dairy	PART-OF	acne
-991707526	flax	PART-OF-I	phytoestrogen	PART-OF	breast cancer
-2035313647	tuna	PART-OF-I	mercury	EFFECT	brain	CAUSED-BY	atherosclerosis
-817052384	chicken	PART-OF-I	heme iron	PART-OF	muscle	CAUSE	inflammation
-883337861	bt corn	HYPERNYMY	pesticide	PART-OF	animal products	CAUSE	inflammation
-1790864160	junk food	PART-OF-I	trans fat	PART-OF-I	ldl	PART-OF	breast tumors
-942120899	almond	EFFECT	cholesterol	PART-OF	saturated fat	CAUSE	dysfunction
-1317036597	breast milk	IS-A	pesticide	PART-OF-I	arsenic	CAUSE	skin cancer
-169106294	egg	EFFECT	cholesterol	CAUSE	blood	CAUSE	insulin resistance
-1487570522	milk	PART-OF-I	pesticide	PART-OF	animal products	LINKED-TO	weight gain
-833801429	nettle tea	PART-OF-I	iron	LINKED-TO	diabetes	PART-OF-I	aid
-751460305	egg	PART-OF-I	choline	IS-A	death
-1260471248	dried fruit	PART-OF-I	fiber	EFFECT	cholesterol	PART-OF	atherosclerosis
-1238170576	walnut	EFFECT	cholesterol	EFFECT-I	saturated fat	CAUSE	dysfunction
-505310828	egg	PART-OF-I	saturated fat	PART-OF-I	cholesterol	LINKED-TO	nonalcoholic fatty liver
-1830991794	processed meat	PART-OF-I	preservative	PART-OF-I	dioxin	CAUSE	inflammation
-1318217652	beef	IS-A	saturated fat	EFFECT	cholesterol	CAUSE	erectile dysfunction
-350188278	avocado	PART-OF-I	cholesterol	PART-OF	atherosclerosis
-1318266401	chicken	HYPERNYMY	animal products	IS-A	dairy	PART-OF	acne
-1760909240	fruit juice	HYPERNYMY	fiber	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
-1369690929	milk	IS-A	pesticide	PART-OF	animal products	LINKED-TO	weight gain
-2038742913	oatmeal	PART-OF-I	fiber	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
-232883068	bean	EFFECT	dioxin	CAUSE	inflammation
-1845962442	beef	IS-A	saturated fat	PART-OF-I	cholesterol	LINKED-TO	gestational diabetes
-92284498	seafood	PART-OF-I	bmaa	PART-OF	brain	CAUSED-BY	atherosclerosis
-955925489	walnut	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
-2101088093	split peas	EFFECT	cholesterol	CAUSE	atherosclerosis
-592684338	egg	EFFECT	cholesterol	CAUSE	artery	LINKED-TO	cardiac disease
-695164834	curry powder	EFFECT	cancer cells	PART-OF-I	cholesterol	LINKED-TO	gestational diabetes
-840007756	stevia	PART-OF-I	active ingredient	PART-OF	vegetarian	PART-OF-I	breast cancer
-1666451850	strawberry	EFFECT	cancer growth	EFFECT-I	plant-based diet	HYPERNYMY	virus
-1345041666	vitamin	PART-OF-I	mortality	PART-OF	infant	PART-OF-I	campylobacter infections
-131577265	walnut	EFFECT	cholesterol	CAUSE	artery	PART-OF	allergy
-1897878952	french fries	HYPERNYMY	carb	LINKED-TO	pancreatic cancer
-927848455	miso	PART-OF-I	salt	LINKED-TO-I	stomach cancer
-2117550016	egg	PART-OF-I	cholesterol	EFFECT	breast cancer
-331355251	whole grains	PART-OF-I	fiber	EFFECT	cholesterol	LINKED-TO	gestational diabetes
-1736791123	egg	PART-OF-I	cholesterol	LINKED-TO	nonalcoholic fatty liver
-1313079424	avocado	PART-OF-I	cholesterol	PART-OF	saturated fat	CAUSE	dysfunction
-897930708	nutritional yeast	PART-OF-I	fiber	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
-105063598	whole foods	PART-OF-I	fiber	EFFECT	cholesterol	PART-OF	atherosclerosis
-1949878000	food poisoning	IS-A	salmonella	HYPERNYMY	pathogen	CAUSED-BY	norovirus
-1293035674	sea vegetables	PART-OF-I	fiber	EFFECT	cholesterol	CAUSE	atherosclerosis
-539988830	egg	EFFECT	cholesterol	CAUSE	atherosclerosis
-14204532	cheese	PART-OF-I	pesticide	PART-OF-I	arsenic	CAUSE	skin cancer
-666283621	whole foods	PART-OF-I	fiber	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
-1268060971	milk	PART-OF-I	galactose	LINKED-TO-I	death
-1289735981	chicken	PART-OF-I	carcinogen	PART-OF	cigarette	PART-OF	atherosclerosis
-274716620	split peas	EFFECT	cholesterol	CAUSE	artery	LINKED-TO	cardiac disease
-651152443	brown rice	EFFECT	diabetes	CAUSED-BY	insulin resistance
-1515569497	almond	EFFECT	cholesterol	EFFECT-I	saturated fat	CAUSE	dysfunction
-1897644237	beef	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
-158306928	soy	PART-OF-I	phytoestrogen	PART-OF	breast cancer
-233183926	chicken	PART-OF-I	steroid	PART-OF	dairy	PART-OF	acne
-1617486485	kale	PART-OF-I	calcium	PART-OF	dairy	PART-OF	acne
-576585945	egg	EFFECT	oxidation	PART-OF-I	spike	PART-OF	inflammation
-1874011541	almond milk	EFFECT	cancer cells	PART-OF-I	cholesterol	CAUSE	atherosclerosis
-333163517	beef	IS-A	saturated fat	EFFECT	cholesterol	EFFECT	breast cancer
-1592132383	turmeric	PART-OF-I	active ingredient	PART-OF	vegetarian	PART-OF-I	breast cancer
-131632764	egg	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
-337974626	seafood	IS-A	mercury	EFFECT	brain	CAUSED-BY	atherosclerosis
-224734421	tea	PART-OF-I	lignan	PART-OF	vegetarian	PART-OF-I	breast cancer
-471387066	chicken	HYPERNYMY	animal products	CAUSE	inflammation
-1613731910	nut	EFFECT	ldl	PART-OF	breast tumors
-2063827616	whole grains	PART-OF-I	fiber	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
-1417581826	junk food	PART-OF-I	preservative	PART-OF-I	dioxin	CAUSE	inflammation
-1116815777	coconut oil	PART-OF-I	saturated fat	EFFECT	cholesterol	CAUSE	erectile dysfunction
-890270279	bt corn	HYPERNYMY	pesticide	PART-OF-I	arsenic	CAUSE	skin cancer
-842431505	nut	PART-OF-I	fiber	EFFECT	cholesterol	EFFECT	breast cancer
-13431619	split peas	EFFECT	cholesterol	PART-OF	atherosclerosis
-1236332325	grape	PART-OF	fat	PART-OF	animal products	CAUSE	inflammation
-2016038660	dried fruit	PART-OF-I	fiber	EFFECT	cholesterol	EFFECT	breast cancer
-1067610161	dried fruit	PART-OF-I	fiber	EFFECT	cholesterol	LINKED-TO	gestational diabetes
-779224285	curry powder	EFFECT	cancer cells	PART-OF-I	cholesterol	EFFECT	breast cancer
-720082222	hop	PART-OF-I	estrogen	PART-OF	breast cancer
-862846883	nut	PART-OF-I	fat	PART-OF	heart attacks
-635650844	chicken	PART-OF-I	arsenic	CAUSE	skin cancer
-278290853	milk	PART-OF-I	insulin	CAUSED-BY	sucralose	CAUSE	insulin resistance
-546693900	almond	EFFECT	cholesterol	CAUSE	atherosclerosis
-165067970	coconut oil	PART-OF-I	saturated fat	EFFECT	cholesterol	CAUSE	atherosclerosis
-1760058430	almond	EFFECT	cholesterol	EFFECT	breast cancer
-1843103737	milk	PART-OF	girl	PART-OF-I	endometrial cancer
-431171522	french fries	LINKED-TO-I	girl	LINKED-TO	animal protein	CAUSE	inflammation
-1394943372	processed foods	PART-OF-I	health	CAUSED-BY	obesity
-314879647	aspartame	CAUSE	adverse effects	IS-A	erectile dysfunction
-1288626579	beef	PART-OF-I	iron	LINKED-TO	diabetes	PART-OF-I	aid
-654132263	brown rice	EFFECT	diabetes	CAUSED-BY	obesity
-1920786728	coconut oil	PART-OF-I	saturated fat	EFFECT	cholesterol	EFFECT	breast cancer
-2139930518	tomato	PART-OF-I	depression	CAUSED-BY	inflammation
-410410268	whole grains	PART-OF-I	fiber	EFFECT	cholesterol	CAUSE	erectile dysfunction
-520415918	bean	PART-OF-I	cancer cells	PART-OF	check	PART-OF-I	inflammation
-454966735	chicken	PART-OF-I	arachidonic acid	PART-OF	vegetarian	PART-OF-I	chronic disease
-1624526196	cheese	PART-OF-I	pesticide	PART-OF	animal products	LINKED-TO	weight gain
-1808050732	beef	PART-OF-I	saturated fat	PART-OF-I	cholesterol	LINKED-TO	gestational diabetes
-162784951	egg	EFFECT	ldl	PART-OF	breast tumors
-1490289836	coconut oil	PART-OF-I	saturated fat	PART-OF-I	cholesterol	EFFECT	breast cancer
-1466095111	stevia	PART-OF-I	active ingredient	PART-OF	vegetarian	PART-OF-I	chronic disease
-1999725967	split peas	EFFECT	cholesterol	CAUSE	artery	PART-OF	allergy
-1311173906	chocolate	PART-OF-I	fat	PART-OF	heart attacks
-1327212718	nutritional yeast	PART-OF-I	fiber	EFFECT	cholesterol	EFFECT	breast cancer
-1082606267	chocolate	PART-OF-I	saturated fat	PART-OF-I	cholesterol	LINKED-TO	nonalcoholic fatty liver
-1850761014	beef	PART-OF-I	iron	LINKED-TO	diabetes	CAUSED-BY	insulin resistance
-2065539492	avocado	PART-OF-I	cholesterol	EFFECT	breast cancer
-347780667	fig	PART-OF-I	fiber	EFFECT	cholesterol	PART-OF	atherosclerosis
-2029674608	chocolate	PART-OF-I	fat	PART-OF	animal products	LINKED-TO	weight gain
-116488574	walnut	EFFECT	cholesterol	PART-OF	saturated fat	CAUSE	dysfunction
-708567463	egg	PART-OF-I	saturated fat	EFFECT	cholesterol	CAUSE	erectile dysfunction
-1451867393	prebiotic	IS-A	fiber	EFFECT	cholesterol	EFFECT	breast cancer
-1832046151	walnut	EFFECT	cholesterol	CAUSE	artery	LINKED-TO	cardiac disease
-1990244015	egg	PART-OF-I	cholesterol	PART-OF	saturated fat	CAUSE	dysfunction
-1898487613	bacon	HYPERNYMY	animal products	PART-OF-I	fat	PART-OF	heart attacks
-373033450	cheese	PART-OF-I	calcium	PART-OF	dairy	PART-OF	acne
-122861417	apple	PART-OF-I	age	PART-OF	cholesterol	PART-OF	atherosclerosis
-1773492501	egg	PART-OF-I	cholesterol	EFFECT-I	saturated fat	CAUSE	dysfunction
-1573901976	milk	PART-OF-I	amino acids	PART-OF	animal protein	CAUSE	inflammation
-1354350127	dessert	IS-A	cake	PART-OF-I	cholesterol	CAUSE	erectile dysfunction
-1581562065	chocolate	PART-OF-I	saturated fat	PART-OF-I	cholesterol	CAUSE	erectile dysfunction
-2122553119	curry powder	EFFECT	cancer cells	PART-OF-I	cholesterol	CAUSE	atherosclerosis
-1652324109	poultry	PART-OF-I	salmonella	HYPERNYMY	pathogen	CAUSED-BY	norovirus
-707058423	egg	EFFECT	cholesterol	CAUSE	erectile dysfunction
-364613770	poultry	PART-OF-I	mortality	PART-OF	poultry workers	PART-OF-I	reticuloendotheliosis viruses
-143388462	avocado	PART-OF-I	cholesterol	CAUSE	blood	CAUSE	insulin resistance
-1382570149	egg	LINKED-TO	diabetes	PART-OF-I	aid
-1241075235	flax seeds	PART-OF-I	fiber	EFFECT	cholesterol	EFFECT	breast cancer
-355512732	celery	PART-OF-I	nitrate	HYPERNYMY	health	CAUSED-BY	obesity
-1934821013	whole grains	PART-OF-I	fiber	EFFECT	cholesterol	PART-OF	atherosclerosis
-1047480613	corn syrup	PART-OF-I	mercury	CAUSE	brain	CAUSED-BY	atherosclerosis
-105810594	chocolate	PART-OF-I	saturated fat	EFFECT	cholesterol	EFFECT	breast cancer
-2108087794	nut	EFFECT	fat	PART-OF	animal products	CAUSE	inflammation
-1936558024	pork	PART-OF-I	parasite	IS-A	brain	CAUSED-BY	atherosclerosis
-59592735	nutritional yeast	PART-OF-I	fiber	EFFECT	cholesterol	LINKED-TO	gestational diabetes
-786764569	tomato	PART-OF-I	depression	HYPERNYMY	illness	IS-A	acne
-573181259	beef	IS-A	saturated fat	EFFECT	cholesterol	PART-OF	atherosclerosis
-1189906239	milk	HYPERNYMY	animal products	PART-OF-I	fat	PART-OF	heart attacks
-588246506	coconut oil	PART-OF-I	saturated fat	PART-OF-I	cholesterol	CAUSE	erectile dysfunction
-76143082	almond milk	EFFECT	cancer cells	PART-OF-I	cholesterol	CAUSE	erectile dysfunction
-1482475925	prebiotic	IS-A	fiber	EFFECT	cholesterol	CAUSE	atherosclerosis
-1713751298	sea vegetables	PART-OF-I	fiber	EFFECT	cholesterol	EFFECT	breast cancer
-1441829043	deli meats	PART-OF-I	salmonella	PART-OF	salmonellosis
-1114045444	strawberry	PART-OF	patient	PART-OF-I	acidosis
-2029592343	peppermint	EFFECT	muscle	CAUSE	inflammation
-713752701	lavender	PART-OF-I	finding	EFFECT	plant-based diet	HYPERNYMY	virus
-1875623008	deli meat	PART-OF-I	salmonella	PART-OF	salmonellosis
-1993612492	egg	PART-OF-I	saturated fat	EFFECT	cholesterol	PART-OF	atherosclerosis
-1643895730	milk	CAUSE	uric acid	PART-OF	gout
-1293897405	brown rice	EFFECT	diabetes	PART-OF-I	aid
-944751513	drinking water	PART-OF-I	estrogen	PART-OF	breast cancer
-31134520	milk	PART-OF-I	insulin	PART-OF-I	spike	PART-OF	inflammation
-1758070975	cranberry	PART-OF-I	cancer cells	PART-OF-I	cholesterol	LINKED-TO	gestational diabetes
-1160462343	nutritional yeast	PART-OF-I	fiber	EFFECT	cholesterol	CAUSE	atherosclerosis
-1690980247	nut	PART-OF-I	fiber	EFFECT	cholesterol	LINKED-TO	gestational diabetes
-2010690424	egg	PART-OF-I	salmonella	PART-OF	salmonellosis
-2139397019	split peas	EFFECT	cholesterol	CAUSE	blood	CAUSE	insulin resistance
-2019408688	poultry	PART-OF-I	mortality	PART-OF	infant	PART-OF-I	constipation
-129900214	whole foods	PART-OF-I	fiber	EFFECT	cholesterol	CAUSE	erectile dysfunction
-4747719	turmeric	HYPERNYMY	dna damage	EFFECT-I	free radicals	CAUSE	dysfunction
-1401214573	beef	PART-OF-I	iron	LINKED-TO	diabetes	CAUSED-BY	obesity
-1309683514	prebiotic	IS-A	fiber	EFFECT	cholesterol	PART-OF	atherosclerosis
-1626693870	chicken	PART-OF-I	heme iron	PART-OF	animal products	CAUSE	inflammation
-217841361	beef	EFFECT	cholesterol	CAUSE	blood	CAUSE	insulin resistance
-225792836	chicken	PART-OF-I	preservative	PART-OF-I	dioxin	CAUSE	inflammation
-1030570201	egg	PART-OF-I	cholesterol	CAUSE	blood	CAUSE	insulin resistance
-510997292	nut	PART-OF-I	fiber	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
-212674264	alfalfa	PART-OF-I	salmonella	PART-OF	salmonellosis
-388507543	cranberry	PART-OF-I	cancer cells	PART-OF-I	cholesterol	CAUSE	atherosclerosis
-748597059	grape	PART-OF	fat	PART-OF	heart attacks
-1525527408	carob	PART-OF-I	fiber	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
-796259334	grapefruit	EFFECT	enzyme	EFFECT-I	plant-based diet	HYPERNYMY	virus
-1292346300	milk	HYPERNYMY	animal products	IS-A	dairy	PART-OF	acne
-1023572766	gluten	PART-OF	grain	EFFECT	brain	CAUSED-BY	atherosclerosis
-1408554732	walnut	EFFECT	cholesterol	EFFECT	breast cancer
-254053767	chicken	PART-OF-I	iron	LINKED-TO	diabetes	PART-OF-I	aid
-1475689448	bean	PART-OF-I	cancer cells	PART-OF-I	cholesterol	PART-OF	atherosclerosis
-1034296453	apple	PART-OF-I	age	PART-OF	cholesterol	EFFECT	breast cancer
-1507068752	milk	PART-OF-I	pesticide	PART-OF	animal products	CAUSE	inflammation
-2055384803	bean	EFFECT	dioxin	PART-OF	dairy	PART-OF	acne
-1911524191	flax seeds	PART-OF-I	lignan	PART-OF	vegetarian	PART-OF-I	breast cancer
-1146379474	alcoholic beverages	PART-OF-I	agent	PART-OF	atherosclerosis
-463348817	egg	LINKED-TO	diabetes	PART-OF-I	treatment	PART-OF	cardiovascular disease
-448067936	almond	EFFECT	cholesterol	CAUSE	erectile dysfunction
-1478077167	beef	PART-OF-I	saturated fat	EFFECT	cholesterol	PART-OF	atherosclerosis
-154188394	chocolate	PART-OF-I	saturated fat	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
-1614308819	oatmeal	PART-OF-I	fiber	EFFECT	cholesterol	CAUSE	atherosclerosis
-951068646	breast milk	IS-A	pcb	LINKED-TO	fat	PART-OF	heart attacks
-836998823	whole grains	PART-OF-I	fiber	EFFECT	cholesterol	CAUSE	atherosclerosis
-552215482	chicken	PART-OF-I	arachidonic acid	PART-OF	vegetarian	PART-OF-I	breast cancer
-1307145474	prebiotic	IS-A	fiber	EFFECT	cholesterol	CAUSE	erectile dysfunction
-1385875559	egg	PART-OF-I	cholesterol	CAUSE	artery	PART-OF	allergy
-1358312405	breast milk	IS-A	pesticide	PART-OF	animal products	CAUSE	inflammation
-676681110	beef	PART-OF-I	saturated fat	EFFECT	cholesterol	CAUSE	erectile dysfunction
-317874386	egg	PART-OF-I	carotenoid	PART-OF-I	urinary tract infections
-1708752901	egg	EFFECT	cholesterol	EFFECT	breast cancer
-1750761235	breast milk	IS-A	pesticide	PART-OF	animal products	LINKED-TO	weight gain
-1936840298	olive	PART-OF-I	fat	PART-OF	animal products	LINKED-TO	weight gain
-532628812	beef	IS-A	saturated fat	CAUSE	dysfunction
-1001013379	carrot	PART-OF-I	beta-carotene	HYPERNYMY	carotenoid	PART-OF-I	urinary tract infections
-1957365756	food poisoning	IS-A	salmonella	PART-OF	salmonellosis
-570713152	chicken	PART-OF-I	iron	PART-OF	muscle	PART-OF	death
-352395837	whole grains	PART-OF-I	phytate	PART-OF	vegetarian	PART-OF-I	chronic disease
-178395813	walnut	EFFECT	cholesterol	CAUSE	atherosclerosis
-1411335450	egg	PART-OF-I	saturated fat	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
-683107119	dried fruit	PART-OF-I	preservative	PART-OF-I	dioxin	CAUSE	inflammation
-363067041	milk	PART-OF-I	steroid hormones	PART-OF	dairy	PART-OF	acne
-629095087	almond	EFFECT	cholesterol	PART-OF	atherosclerosis
-1024042181	turmeric	PART-OF-I	yellow pigment	PART-OF	patient	PART-OF-I	acidosis
-1780615706	vitamin	PART-OF-I	mortality	PART-OF	poultry workers	PART-OF-I	reticuloendotheliosis viruses
-1586963178	raisin	CAUSE	blood sugar	PART-OF-I	big spike	PART-OF	inflammation
-100343273	egg	PART-OF-I	saturated fat	CAUSE	dysfunction
-1682039157	beef	EFFECT	cholesterol	EFFECT-I	saturated fat	CAUSE	dysfunction
-650302778	nut	HYPERNYMY	fat	PART-OF	animal products	LINKED-TO	weight gain
-294579234	sea vegetables	PART-OF-I	fiber	EFFECT	cholesterol	CAUSE	erectile dysfunction
-1405971123	beef	EFFECT	cholesterol	CAUSE	erectile dysfunction
-1194402629	nut	EFFECT	fat	PART-OF	animal products	LINKED-TO	weight gain
-2115669224	chicken	PART-OF-I	salmonella	HYPERNYMY	pathogen	CAUSED-BY	norovirus
-947389531	poultry	PART-OF-I	mortality	PART-OF	poultry workers	LINKED-TO	wart
-744991473	nettle tea	PART-OF-I	iron	LINKED-TO	diabetes	CAUSED-BY	obesity
-829616533	poultry	IS-A	salmonella	PART-OF	salmonellosis
-42335893	turmeric	PART-OF-I	curcumin	PART-OF	pain
+369593573	beef	PART-OF-I	iron	PART-OF	muscle	CAUSE	inflammation
+1698172233	egg	EFFECT	cholesterol	LINKED-TO	gestational diabetes
+930048023	coconut oil	PART-OF-I	saturated fat	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
+413447390	beef	PART-OF-I	saturated fat	EFFECT	cholesterol	EFFECT	breast cancer
+1038818949	carob	PART-OF-I	fiber	EFFECT	cholesterol	LINKED-TO	gestational diabetes
+107212468	dairy products	PART-OF-I	dioxin	PART-OF	cigarette	PART-OF	atherosclerosis
+1521138214	seafood	IS-A	mercury	CAUSE	brain	CAUSED-BY	atherosclerosis
+1239781585	carob	PART-OF-I	fiber	EFFECT	cholesterol	CAUSE	erectile dysfunction
+759689022	broccoli	HYPERNYMY	calcium	EFFECT-I	protein	EFFECT	colon cancer
+569376075	carob	PART-OF-I	fiber	EFFECT	cholesterol	PART-OF	atherosclerosis
+1547177612	fruit juice	HYPERNYMY	fiber	EFFECT	cholesterol	LINKED-TO	gestational diabetes
+333162098	chicken	HYPERNYMY	animal products	LINKED-TO	weight gain
+598660169	turmeric	HYPERNYMY	dna damage	LINKED-TO	treatment	PART-OF	cardiovascular disease
+122623374	poultry	PART-OF-I	mortality	PART-OF	infant	PART-OF-I	infection
+221882635	almond	EFFECT	cholesterol	CAUSE	blood	CAUSE	insulin resistance
+1159213295	bacon	HYPERNYMY	animal products	CAUSE	inflammation
+340851760	egg	PART-OF-I	saturated fat	PART-OF-I	cholesterol	LINKED-TO	gestational diabetes
+2111552428	corn	PART-OF-I	mercury	CAUSE	brain	CAUSED-BY	atherosclerosis
+2120478805	fig	PART-OF-I	fiber	EFFECT	cholesterol	CAUSE	erectile dysfunction
+1046861096	poultry	LINKED-TO	liver	EFFECT	estrogen	PART-OF	breast cancer
+537610845	avocado	PART-OF-I	cholesterol	CAUSE	artery	LINKED-TO	cardiac disease
+1365166506	curry powder	EFFECT	cancer cells	PART-OF-I	cholesterol	LINKED-TO	nonalcoholic fatty liver
+1045799071	flax seeds	PART-OF-I	fiber	EFFECT	cholesterol	CAUSE	atherosclerosis
+470029529	chocolate	PART-OF-I	saturated fat	PART-OF-I	cholesterol	PART-OF	atherosclerosis
+179282365	bacon	HYPERNYMY	animal products	IS-A	fish oil	EFFECT	inflammation
+1567842643	seed	HYPERNYMY	plant-based diet	HYPERNYMY	virus
+1215167827	avocado	PART-OF-I	cholesterol	LINKED-TO	gestational diabetes
+620261389	beef	PART-OF-I	iron	PART-OF	animal products	CAUSE	inflammation
+1462211486	dessert	IS-A	cake	PART-OF-I	cholesterol	EFFECT	breast cancer
+1619268536	soft drinks	PART-OF-I	benzene	PART-OF	cigarette	PART-OF	atherosclerosis
+557977036	poultry	LINKED-TO-I	mortality	PART-OF	infant	PART-OF-I	constipation
+435785513	sea vegetables	PART-OF-I	fiber	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
+1697939506	coconut oil	PART-OF-I	saturated fat	PART-OF-I	cholesterol	CAUSE	atherosclerosis
+1417364564	beef	EFFECT	cholesterol	EFFECT	breast cancer
+884419072	milk	PART-OF-I	pesticide	PART-OF-I	arsenic	CAUSE	skin cancer
+565729403	poultry	LINKED-TO-I	mortality	PART-OF	poultry workers	LINKED-TO	wart
+1253334103	dessert	IS-A	cake	PART-OF-I	cholesterol	LINKED-TO	nonalcoholic fatty liver
+417724441	nutritional yeast	PART-OF-I	fiber	EFFECT	cholesterol	PART-OF	atherosclerosis
+47931390	alfalfa	PART-OF-I	salmonella	HYPERNYMY	pathogen	CAUSED-BY	norovirus
+610065737	chocolate	PART-OF-I	saturated fat	EFFECT	cholesterol	CAUSE	atherosclerosis
+1772008344	beef	PART-OF-I	saturated fat	PART-OF-I	cholesterol	EFFECT	breast cancer
+230670112	oatmeal	PART-OF-I	fiber	EFFECT	cholesterol	PART-OF	atherosclerosis
+1061319403	egg	PART-OF-I	saturated fat	PART-OF-I	cholesterol	CAUSE	erectile dysfunction
+1733362340	dried fruit	PART-OF-I	fiber	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
+255833265	beef	EFFECT	cholesterol	CAUSE	atherosclerosis
+1542418984	egg	PART-OF-I	saturated fat	PART-OF-I	cholesterol	EFFECT	breast cancer
+1984634088	dried fruit	PART-OF-I	fiber	EFFECT	cholesterol	CAUSE	erectile dysfunction
+1690031811	almond	EFFECT	cholesterol	LINKED-TO	gestational diabetes
+1279159045	egg	PART-OF-I	saturated fat	PART-OF-I	cholesterol	CAUSE	atherosclerosis
+1519578385	soy	PART-OF-I	calcium	EFFECT-I	protein	EFFECT	colon cancer
+2100307652	strawberry	PART-OF	patient	PART-OF-I	kidney stones
+2112485644	apple	PART-OF-I	age	PART-OF	cholesterol	LINKED-TO	nonalcoholic fatty liver
+247489552	lentil	PART-OF-I	carb	LINKED-TO	pancreatic cancer
+758682006	prebiotic	IS-A	fiber	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
+18342406	split peas	EFFECT	cholesterol	LINKED-TO	gestational diabetes
+471525620	walnut	EFFECT	cholesterol	CAUSE	artery	CAUSE	stroke
+1463101729	oatmeal	PART-OF-I	fiber	EFFECT	cholesterol	EFFECT	breast cancer
+1563721367	apple	PART-OF-I	age	PART-OF	cholesterol	LINKED-TO	gestational diabetes
+1386105182	flaxseed	PART-OF-I	lignan	PART-OF	vegetarian	PART-OF-I	chronic disease
+1254890471	nettle tea	PART-OF-I	iron	PART-OF	animal products	LINKED-TO	weight gain
+220386547	beef	PART-OF-I	saturated fat	PART-OF-I	cholesterol	CAUSE	atherosclerosis
+1492059870	almond	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
+1057216064	walnut	EFFECT	cholesterol	PART-OF	atherosclerosis
+1996366326	corn syrup	PART-OF-I	mercury	EFFECT	brain	CAUSED-BY	atherosclerosis
+1656963018	whole grains	PART-OF-I	phytate	PART-OF	vegetarian	PART-OF-I	breast cancer
+2119845604	split peas	EFFECT	cholesterol	EFFECT	breast cancer
+1979034910	bean	PART-OF-I	folate	CAUSE	depression	CAUSED-BY	inflammation
+1084535004	apple juice	PART-OF-I	arsenic	CAUSE	skin cancer
+416457351	nut	PART-OF-I	fiber	EFFECT	cholesterol	CAUSE	atherosclerosis
+1603370040	chicken	HYPERNYMY	animal products	IS-A	fish oil	EFFECT	inflammation
+178387011	tomato	EFFECT	platelet	CAUSE	blood clots
+73084184	chicken	PART-OF-I	iron	PART-OF	animal products	CAUSE	inflammation
+2146967797	curry powder	EFFECT	cancer cells	PART-OF	check	PART-OF-I	inflammation
+887027777	walnut	EFFECT	cholesterol	CAUSE	blood	CAUSE	insulin resistance
+950511898	milk	PART-OF-I	steroid hormones	IS-A	estrogen	PART-OF	breast cancer
+529878108	almond milk	EFFECT	cancer cells	PART-OF-I	cholesterol	PART-OF	atherosclerosis
+2043212891	avocado	PART-OF-I	cholesterol	CAUSE	atherosclerosis
+1734599114	beef	PART-OF-I	saturated fat	EFFECT	cholesterol	CAUSE	atherosclerosis
+1911470323	beef	PART-OF-I	saturated fat	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
+1412483586	coconut oil	PART-OF-I	saturated fat	EFFECT	cholesterol	LINKED-TO	gestational diabetes
+2103544005	bean	EFFECT	dioxin	PART-OF	cigarette	PART-OF	atherosclerosis
+1296850175	aspartame	CAUSE	adverse effects	PART-OF	pregnancy	PART-OF-I	vomit
+1622009154	nut	PART-OF-I	fiber	EFFECT	cholesterol	PART-OF	atherosclerosis
+415659236	broccoli	PART-OF-I	enzyme	EFFECT-I	plant-based diet	HYPERNYMY	virus
+786130351	chicken	PART-OF-I	heme iron	PART-OF	animal products	LINKED-TO	weight gain
+155420561	fruit juice	HYPERNYMY	fiber	EFFECT	cholesterol	EFFECT	breast cancer
+1428942569	milk	PART-OF-I	calcium	EFFECT-I	protein	EFFECT	colon cancer
+293156254	milk	HYPERNYMY	animal products	IS-A	fish oil	EFFECT	inflammation
+1646681433	walnut	EFFECT	cholesterol	LINKED-TO	gestational diabetes
+196335292	bean	PART-OF-I	folate	CAUSE	depression	LINKED-TO-I	inflammation
+1726448539	chocolate	PART-OF-I	saturated fat	EFFECT	cholesterol	PART-OF	atherosclerosis
+964849453	egg	PART-OF-I	saturated fat	EFFECT	cholesterol	EFFECT	breast cancer
+108108990	whole foods	PART-OF-I	fiber	EFFECT	cholesterol	EFFECT	breast cancer
+455490932	poultry	PART-OF-I	mortality	PART-OF	infant	PART-OF-I	campylobacter infections
+1315318824	fig	PART-OF-I	fiber	EFFECT	cholesterol	EFFECT	breast cancer
+56192532	dairy products	PART-OF-I	dioxin	CAUSE	inflammation
+1481856315	beef	PART-OF-I	saturated fat	PART-OF-I	cholesterol	LINKED-TO	nonalcoholic fatty liver
+118332094	curry powder	EFFECT	cancer cells	PART-OF-I	cholesterol	PART-OF	atherosclerosis
+548674587	beef	EFFECT	cholesterol	LINKED-TO	gestational diabetes
+191045100	soy	PART-OF-I	estrogen	PART-OF	breast cancer
+1431800622	almond milk	EFFECT	cancer cells	PART-OF-I	cholesterol	EFFECT	breast cancer
+1371994989	avocado	PART-OF-I	cholesterol	CAUSE	artery	CAUSE	stroke
+457632708	oatmeal	PART-OF-I	fiber	EFFECT	cholesterol	LINKED-TO	gestational diabetes
+1835264547	coconut oil	PART-OF-I	saturated fat	PART-OF-I	cholesterol	PART-OF	atherosclerosis
+201181550	beef	PART-OF-I	iron	PART-OF	muscle	PART-OF	death
+354590140	egg	PART-OF-I	cholesterol	CAUSE	artery	LINKED-TO	cardiac disease
+513268038	almond milk	EFFECT	cancer cells	PART-OF-I	cholesterol	LINKED-TO	nonalcoholic fatty liver
+353049414	coconut oil	PART-OF-I	saturated fat	PART-OF-I	cholesterol	LINKED-TO	gestational diabetes
+1742143609	dessert	IS-A	cake	PART-OF-I	cholesterol	PART-OF	atherosclerosis
+1597179777	chocolate	PART-OF-I	saturated fat	PART-OF-I	cholesterol	EFFECT	breast cancer
+1701993735	bt corn	HYPERNYMY	pesticide	PART-OF	animal products	LINKED-TO	weight gain
+1523591593	bean	PART-OF-I	phytate	PART-OF	vegetarian	PART-OF-I	breast cancer
+1843172968	walnut	EFFECT	cholesterol	CAUSE	erectile dysfunction
+1235518288	milk	IS-A	pesticide	PART-OF	animal products	CAUSE	inflammation
+1166119356	egg	EFFECT	cholesterol	CAUSE	artery	CAUSE	stroke
+43808224	beef	EFFECT	cholesterol	CAUSE	artery	CAUSE	stroke
+2110580569	apple	PART-OF-I	arsenic	CAUSE	skin cancer
+310074520	drinking water	PART-OF-I	benzene	PART-OF	cigarette	PART-OF	atherosclerosis
+1607113399	sweet potatoes	PART-OF-I	protein	EFFECT	colon cancer
+2087954203	sea vegetables	PART-OF-I	fiber	EFFECT	cholesterol	LINKED-TO	gestational diabetes
+1370567563	vitamin	PART-OF-I	mortality	PART-OF	infant	PART-OF-I	constipation
+1565912724	flaxseed	PART-OF-I	lignan	PART-OF	vegetarian	PART-OF-I	breast cancer
+503723086	split peas	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
+1463131150	egg	EFFECT	cholesterol	PART-OF	atherosclerosis
+1014232607	egg	PART-OF-I	cholesterol	CAUSE	artery	CAUSE	stroke
+1123458882	nut	PART-OF-I	fiber	EFFECT	cholesterol	CAUSE	erectile dysfunction
+27269654	tea	EFFECT	blood pressure	PART-OF-I	spike	PART-OF	inflammation
+1855480419	soy	HYPERNYMY	animal proteins	IS-A	neu5gc	CAUSE	inflammation
+1735795853	almond	EFFECT	cholesterol	CAUSE	artery	LINKED-TO	cardiac disease
+189591146	nutritional yeast	PART-OF-I	fiber	EFFECT	cholesterol	CAUSE	erectile dysfunction
+891908149	oatmeal	PART-OF-I	fiber	EFFECT	cholesterol	CAUSE	erectile dysfunction
+216389158	curry powder	EFFECT	cancer cells	PART-OF-I	cholesterol	CAUSE	erectile dysfunction
+1574929204	egg	PART-OF-I	cholesterol	PART-OF	atherosclerosis
+316026275	beef	EFFECT	cholesterol	PART-OF	atherosclerosis
+502705062	cheese	PART-OF-I	calcium	EFFECT-I	protein	EFFECT	colon cancer
+373731371	dessert	IS-A	cake	PART-OF-I	cholesterol	CAUSE	atherosclerosis
+1813127372	egg	PART-OF-I	cholesterol	LINKED-TO	gestational diabetes
+300877482	beer	PART-OF-I	agent	PART-OF	atherosclerosis
+1657034288	beef	IS-A	saturated fat	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
+2026882218	beef	IS-A	saturated fat	PART-OF-I	cholesterol	LINKED-TO	nonalcoholic fatty liver
+441607342	chicken	PART-OF-I	iron	PART-OF	animal products	LINKED-TO	weight gain
+440484743	chicken	PART-OF-I	iron	PART-OF	muscle	CAUSE	inflammation
+2010767872	beef	IS-A	saturated fat	PART-OF-I	cholesterol	PART-OF	atherosclerosis
+146648211	split peas	EFFECT	cholesterol	CAUSE	artery	CAUSE	stroke
+213386520	oatmeal	PART-OF-I	carb	LINKED-TO	pancreatic cancer
+1498395054	beef	PART-OF-I	saturated fat	PART-OF-I	cholesterol	CAUSE	erectile dysfunction
+38688983	egg	PART-OF-I	saturated fat	PART-OF-I	cholesterol	PART-OF	atherosclerosis
+2090140617	flax seeds	PART-OF-I	fiber	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
+17413324	skim milk	PART-OF-I	estrogen	PART-OF	breast cancer
+858520509	coconut oil	PART-OF-I	saturated fat	PART-OF-I	cholesterol	LINKED-TO	nonalcoholic fatty liver
+1294298291	dried fruit	PART-OF-I	fiber	EFFECT	cholesterol	CAUSE	atherosclerosis
+575135705	fruit juice	HYPERNYMY	fiber	EFFECT	cholesterol	PART-OF	atherosclerosis
+2135667089	egg	PART-OF-I	saturated fat	EFFECT	cholesterol	CAUSE	atherosclerosis
+869852811	sesame seeds	PART-OF-I	lignan	PART-OF	vegetarian	PART-OF-I	chronic disease
+1304615442	corn	PART-OF-I	mercury	EFFECT	brain	CAUSED-BY	atherosclerosis
+1191916040	nettle tea	PART-OF-I	iron	PART-OF	muscle	CAUSE	inflammation
+1362622610	sea vegetables	PART-OF-I	fiber	EFFECT	cholesterol	PART-OF	atherosclerosis
+1781855171	beef	IS-A	saturated fat	PART-OF-I	cholesterol	CAUSE	erectile dysfunction
+533320897	chocolate	PART-OF-I	saturated fat	EFFECT	cholesterol	CAUSE	erectile dysfunction
+531463800	whole grains	PART-OF-I	fiber	EFFECT	cholesterol	EFFECT	breast cancer
+515408652	almond	EFFECT	cholesterol	CAUSE	artery	CAUSE	stroke
+1162742449	processed meats	PART-OF-I	preservative	PART-OF-I	dioxin	CAUSE	inflammation
+235531193	vitamin	PART-OF-I	mortality	PART-OF	poultry workers	LINKED-TO	wart
+604027430	split peas	EFFECT	cholesterol	CAUSE	erectile dysfunction
+1652255252	fig	PART-OF-I	fiber	EFFECT	cholesterol	LINKED-TO	gestational diabetes
+1505555060	whole foods	PART-OF-I	fiber	EFFECT	cholesterol	CAUSE	atherosclerosis
+1615213361	egg	PART-OF-I	cholesterol	CAUSE	erectile dysfunction
+995395111	chocolate	PART-OF-I	saturated fat	PART-OF-I	cholesterol	LINKED-TO	gestational diabetes
+121105529	nettle tea	PART-OF-I	iron	PART-OF	muscle	PART-OF	death
+1346971511	poultry	LINKED-TO-I	mortality	PART-OF	infant	PART-OF-I	campylobacter infections
+2068768037	prebiotic	IS-A	fiber	EFFECT	cholesterol	LINKED-TO	gestational diabetes
+60068363	chicken	PART-OF-I	iron	LINKED-TO	diabetes	CAUSED-BY	insulin resistance
+489894676	nettle tea	PART-OF-I	iron	LINKED-TO	diabetes	CAUSED-BY	insulin resistance
+967313431	poultry	IS-A	salmonella	HYPERNYMY	pathogen	CAUSED-BY	norovirus
+999925440	fruit juice	HYPERNYMY	fiber	EFFECT	cholesterol	CAUSE	atherosclerosis
+777585050	apple	PART-OF-I	age	PART-OF	cholesterol	CAUSE	atherosclerosis
+1209768062	sesame seeds	PART-OF-I	lignan	PART-OF	vegetarian	PART-OF-I	breast cancer
+484007362	raisin	CAUSE	blood sugar	PART-OF-I	spike	PART-OF	inflammation
+1498264434	beef	PART-OF-I	iron	PART-OF	animal products	LINKED-TO	weight gain
+1717641200	barley	HYPERNYMY	grain	EFFECT	brain	CAUSED-BY	atherosclerosis
+2013098422	egg	PART-OF-I	salmonella	HYPERNYMY	pathogen	CAUSED-BY	norovirus
+268198961	flax seeds	PART-OF-I	fiber	EFFECT	cholesterol	PART-OF	atherosclerosis
+14874949	turmeric	HYPERNYMY	dna damage	CAUSED-BY	free radicals	CAUSE	dysfunction
+1309874456	bean	PART-OF-I	phytate	PART-OF	vegetarian	PART-OF-I	chronic disease
+1280198301	fig	PART-OF-I	fiber	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
+309660922	chicken	PART-OF-I	iron	LINKED-TO	diabetes	CAUSED-BY	obesity
+1549425216	eating nuts	EFFECT	ldl	PART-OF	breast tumors
+103663592	beef	PART-OF-I	steroid hormones	IS-A	estrogen	PART-OF	breast cancer
+51194090	almond milk	EFFECT	cancer cells	PART-OF-I	cholesterol	LINKED-TO	gestational diabetes
+1938865963	egg	PART-OF-I	cholesterol	CAUSE	atherosclerosis
+288842813	coconut oil	PART-OF-I	saturated fat	EFFECT	cholesterol	PART-OF	atherosclerosis
+1876271517	beef	EFFECT	cholesterol	CAUSE	artery	LINKED-TO	cardiac disease
+1268347621	seafood	PART-OF-I	pcb	HYPERNYMY	xenoestrogen	LINKED-TO	birth defects
+1605422687	peppermint	EFFECT	muscle	PART-OF	death
+584195555	poultry	LINKED-TO-I	mortality	PART-OF	poultry workers	PART-OF-I	reticuloendotheliosis viruses
+1037545459	flax seeds	PART-OF-I	fiber	EFFECT	cholesterol	CAUSE	erectile dysfunction
+1628470250	processed foods	PART-OF-I	steroid	IS-A	estrogen	PART-OF	breast cancer
+1559752781	beef	IS-A	saturated fat	PART-OF-I	cholesterol	EFFECT	breast cancer
+696505218	beef	PART-OF-I	saturated fat	EFFECT	cholesterol	LINKED-TO	gestational diabetes
+2006353966	egg	PART-OF-I	saturated fat	EFFECT	cholesterol	LINKED-TO	gestational diabetes
+1614929675	avocado	PART-OF-I	cholesterol	LINKED-TO	nonalcoholic fatty liver
+1477410190	beer	PART-OF-I	estrogen	PART-OF	breast cancer
+328463920	egg	LINKED-TO	diabetes	CAUSED-BY	insulin resistance
+1481225160	fruit juice	HYPERNYMY	fiber	EFFECT	cholesterol	CAUSE	erectile dysfunction
+2111138560	pork	PART-OF-I	protein	EFFECT	colon cancer
+1936317458	brown rice	EFFECT	diabetes	PART-OF-I	treatment	PART-OF	cardiovascular disease
+470417854	flax seeds	PART-OF-I	fiber	EFFECT	cholesterol	LINKED-TO	gestational diabetes
+1574816265	poultry	PART-OF-I	agent	PART-OF	atherosclerosis
+138593799	fig	PART-OF-I	fiber	EFFECT	cholesterol	CAUSE	atherosclerosis
+1545203607	bean	HYPERNYMY	protein	EFFECT	colon cancer
+392186366	whole foods	PART-OF-I	fiber	EFFECT	cholesterol	LINKED-TO	gestational diabetes
+1774962608	egg	LINKED-TO	diabetes	CAUSED-BY	obesity
+1160643054	bacon	HYPERNYMY	animal products	LINKED-TO	weight gain
+603125243	dessert	IS-A	cake	PART-OF-I	cholesterol	LINKED-TO	gestational diabetes
+1659953110	milk	IS-A	pesticide	PART-OF-I	arsenic	CAUSE	skin cancer
+806978439	cooked meat	PART-OF-I	estrogen	PART-OF	breast cancer
+1933434959	egg	PART-OF-I	finding	EFFECT	plant-based diet	HYPERNYMY	virus
+96731866	chocolate	PART-OF-I	saturated fat	EFFECT	cholesterol	LINKED-TO	gestational diabetes
+1602336389	chicken	PART-OF-I	heme iron	PART-OF	muscle	PART-OF	death
+200157372	chocolate	PART-OF-I	saturated fat	PART-OF-I	cholesterol	CAUSE	atherosclerosis
+1547151087	beef	PART-OF-I	saturated fat	PART-OF-I	cholesterol	PART-OF	atherosclerosis
+774601037	almond milk	EFFECT	cancer cells	PART-OF	check	PART-OF-I	inflammation
+1863381432	milk	HYPERNYMY	animal products	LINKED-TO	weight gain
+450538699	beef	IS-A	saturated fat	EFFECT	cholesterol	CAUSE	atherosclerosis
+1430177427	carob	PART-OF-I	fiber	EFFECT	cholesterol	EFFECT	breast cancer
+659854677	soy	PART-OF-I	protein	EFFECT	colon cancer
+1621098533	apple	PART-OF-I	age	PART-OF	cholesterol	CAUSE	erectile dysfunction
+2116872715	vitamin	PART-OF-I	mortality	PART-OF	infant	PART-OF-I	infection
+256050328	tuna	PART-OF-I	mercury	CAUSE	brain	CAUSED-BY	atherosclerosis
+1841112816	carob	PART-OF-I	fiber	EFFECT	cholesterol	CAUSE	atherosclerosis
+559312422	milk	HYPERNYMY	animal products	CAUSE	inflammation
+47626600	breast milk	IS-A	pcb	HYPERNYMY	xenoestrogen	LINKED-TO	birth defects
+626493269	seed	IS-A	grain	EFFECT	brain	CAUSED-BY	atherosclerosis
+10814123	nettle tea	PART-OF-I	iron	PART-OF	animal products	CAUSE	inflammation
+511378005	cooked meat	PART-OF-I	carcinogen	PART-OF	cigarette	PART-OF	atherosclerosis
+354292809	poultry	LINKED-TO-I	mortality	PART-OF	infant	PART-OF-I	infection
+773229100	soy milk	PART-OF-I	calcium	EFFECT-I	protein	EFFECT	colon cancer
+1506514277	beef	IS-A	saturated fat	PART-OF-I	cholesterol	CAUSE	atherosclerosis
+1467495973	avocado	PART-OF-I	cholesterol	CAUSE	erectile dysfunction
+1506551704	beef	IS-A	saturated fat	EFFECT	cholesterol	LINKED-TO	gestational diabetes
+204676315	cooking meat	CAUSE	carcinogen	PART-OF	cigarette	PART-OF	atherosclerosis
+2083537423	tuna	PART-OF-I	mercury	EFFECT	brain	CAUSED-BY	atherosclerosis
+453348827	chicken	PART-OF-I	heme iron	PART-OF	muscle	CAUSE	inflammation
+161093924	bt corn	HYPERNYMY	pesticide	PART-OF	animal products	CAUSE	inflammation
+592853476	junk food	PART-OF-I	trans fat	PART-OF-I	ldl	PART-OF	breast tumors
+2091794210	breast milk	IS-A	pesticide	PART-OF-I	arsenic	CAUSE	skin cancer
+748512387	egg	EFFECT	cholesterol	CAUSE	blood	CAUSE	insulin resistance
+1782195422	milk	PART-OF-I	pesticide	PART-OF	animal products	LINKED-TO	weight gain
+2104241218	nettle tea	PART-OF-I	iron	LINKED-TO	diabetes	PART-OF-I	aid
+462524320	egg	PART-OF-I	choline	IS-A	death
+668960587	dried fruit	PART-OF-I	fiber	EFFECT	cholesterol	PART-OF	atherosclerosis
+1117607014	egg	PART-OF-I	saturated fat	PART-OF-I	cholesterol	LINKED-TO	nonalcoholic fatty liver
+302249409	processed meat	PART-OF-I	preservative	PART-OF-I	dioxin	CAUSE	inflammation
+1715364475	beef	IS-A	saturated fat	EFFECT	cholesterol	CAUSE	erectile dysfunction
+319720695	avocado	PART-OF-I	cholesterol	PART-OF	atherosclerosis
+2088528783	fruit juice	HYPERNYMY	fiber	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
+1175281719	milk	IS-A	pesticide	PART-OF	animal products	LINKED-TO	weight gain
+867493480	oatmeal	PART-OF-I	fiber	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
+1619671294	bean	EFFECT	dioxin	CAUSE	inflammation
+371447341	beef	IS-A	saturated fat	PART-OF-I	cholesterol	LINKED-TO	gestational diabetes
+171001865	seafood	PART-OF-I	bmaa	PART-OF	brain	CAUSED-BY	atherosclerosis
+1788971472	walnut	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
+1876407210	split peas	EFFECT	cholesterol	CAUSE	atherosclerosis
+721595615	wheat	PART-OF-I	protein	EFFECT	colon cancer
+1243999438	egg	EFFECT	cholesterol	CAUSE	artery	LINKED-TO	cardiac disease
+870182021	curry powder	EFFECT	cancer cells	PART-OF-I	cholesterol	LINKED-TO	gestational diabetes
+1853265192	strawberry	EFFECT	cancer growth	EFFECT-I	plant-based diet	HYPERNYMY	virus
+637980972	vitamin	PART-OF-I	mortality	PART-OF	infant	PART-OF-I	campylobacter infections
+1330879438	french fries	HYPERNYMY	carb	LINKED-TO	pancreatic cancer
+1742684667	miso	PART-OF-I	salt	LINKED-TO-I	stomach cancer
+674041682	egg	PART-OF-I	cholesterol	EFFECT	breast cancer
+778183372	whole grains	PART-OF-I	fiber	EFFECT	cholesterol	LINKED-TO	gestational diabetes
+2105384407	egg	PART-OF-I	cholesterol	LINKED-TO	nonalcoholic fatty liver
+248261362	nutritional yeast	PART-OF-I	fiber	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
+260461190	whole foods	PART-OF-I	fiber	EFFECT	cholesterol	PART-OF	atherosclerosis
+2052744537	food poisoning	IS-A	salmonella	HYPERNYMY	pathogen	CAUSED-BY	norovirus
+1961550458	sea vegetables	PART-OF-I	fiber	EFFECT	cholesterol	CAUSE	atherosclerosis
+578303895	egg	EFFECT	cholesterol	CAUSE	atherosclerosis
+1315524617	whole foods	PART-OF-I	fiber	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
+55799197	milk	PART-OF-I	galactose	LINKED-TO-I	death
+171273536	chicken	PART-OF-I	carcinogen	PART-OF	cigarette	PART-OF	atherosclerosis
+1095292040	split peas	EFFECT	cholesterol	CAUSE	artery	LINKED-TO	cardiac disease
+1880237805	brown rice	EFFECT	diabetes	CAUSED-BY	insulin resistance
+1697304203	beef	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
+276324884	milk	PART-OF-I	protein	EFFECT	colon cancer
+1212060995	egg	EFFECT	oxidation	PART-OF-I	spike	PART-OF	inflammation
+1564482797	almond milk	EFFECT	cancer cells	PART-OF-I	cholesterol	CAUSE	atherosclerosis
+1447805411	beef	IS-A	saturated fat	EFFECT	cholesterol	EFFECT	breast cancer
+1952869238	egg	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
+1735775951	seafood	IS-A	mercury	EFFECT	brain	CAUSED-BY	atherosclerosis
+1335458147	chicken	HYPERNYMY	animal products	CAUSE	inflammation
+1000400152	nut	EFFECT	ldl	PART-OF	breast tumors
+387654184	whole grains	PART-OF-I	fiber	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
+2027287288	junk food	PART-OF-I	preservative	PART-OF-I	dioxin	CAUSE	inflammation
+86856042	coconut oil	PART-OF-I	saturated fat	EFFECT	cholesterol	CAUSE	erectile dysfunction
+783171495	bt corn	HYPERNYMY	pesticide	PART-OF-I	arsenic	CAUSE	skin cancer
+111008609	nut	PART-OF-I	fiber	EFFECT	cholesterol	EFFECT	breast cancer
+1427232907	split peas	EFFECT	cholesterol	PART-OF	atherosclerosis
+1939956656	dried fruit	PART-OF-I	fiber	EFFECT	cholesterol	EFFECT	breast cancer
+1501074467	dried fruit	PART-OF-I	fiber	EFFECT	cholesterol	LINKED-TO	gestational diabetes
+1734264571	curry powder	EFFECT	cancer cells	PART-OF-I	cholesterol	EFFECT	breast cancer
+824380439	hop	PART-OF-I	estrogen	PART-OF	breast cancer
+95073175	chicken	PART-OF-I	arsenic	CAUSE	skin cancer
+2016908932	milk	PART-OF-I	insulin	CAUSED-BY	sucralose	CAUSE	insulin resistance
+1944720935	almond	EFFECT	cholesterol	CAUSE	atherosclerosis
+864384441	coconut oil	PART-OF-I	saturated fat	EFFECT	cholesterol	CAUSE	atherosclerosis
+560502863	almond	EFFECT	cholesterol	EFFECT	breast cancer
+1597373132	french fries	LINKED-TO-I	girl	LINKED-TO	animal protein	CAUSE	inflammation
+55108780	processed foods	PART-OF-I	health	CAUSED-BY	obesity
+549724214	aspartame	CAUSE	adverse effects	IS-A	erectile dysfunction
+1797522786	beef	PART-OF-I	iron	LINKED-TO	diabetes	PART-OF-I	aid
+1198333501	brown rice	EFFECT	diabetes	CAUSED-BY	obesity
+414780930	coconut oil	PART-OF-I	saturated fat	EFFECT	cholesterol	EFFECT	breast cancer
+1085334657	whole grains	PART-OF-I	fiber	EFFECT	cholesterol	CAUSE	erectile dysfunction
+1564576624	chicken	PART-OF-I	arachidonic acid	PART-OF	vegetarian	PART-OF-I	chronic disease
+1940762309	beef	PART-OF-I	saturated fat	PART-OF-I	cholesterol	LINKED-TO	gestational diabetes
+1268121062	egg	EFFECT	ldl	PART-OF	breast tumors
+789584843	coconut oil	PART-OF-I	saturated fat	PART-OF-I	cholesterol	EFFECT	breast cancer
+1601743563	nutritional yeast	PART-OF-I	fiber	EFFECT	cholesterol	EFFECT	breast cancer
+2074152236	chocolate	PART-OF-I	saturated fat	PART-OF-I	cholesterol	LINKED-TO	nonalcoholic fatty liver
+1317910239	beef	PART-OF-I	iron	LINKED-TO	diabetes	CAUSED-BY	insulin resistance
+1872921385	avocado	PART-OF-I	cholesterol	EFFECT	breast cancer
+842518087	fig	PART-OF-I	fiber	EFFECT	cholesterol	PART-OF	atherosclerosis
+1541496860	egg	PART-OF-I	saturated fat	EFFECT	cholesterol	CAUSE	erectile dysfunction
+565903963	prebiotic	IS-A	fiber	EFFECT	cholesterol	EFFECT	breast cancer
+1671495732	walnut	EFFECT	cholesterol	CAUSE	artery	LINKED-TO	cardiac disease
+1358322482	apple	PART-OF-I	age	PART-OF	cholesterol	PART-OF	atherosclerosis
+1609901975	milk	PART-OF-I	amino acids	PART-OF	animal protein	CAUSE	inflammation
+1832380502	dessert	IS-A	cake	PART-OF-I	cholesterol	CAUSE	erectile dysfunction
+1683796610	chocolate	PART-OF-I	saturated fat	PART-OF-I	cholesterol	CAUSE	erectile dysfunction
+16733027	curry powder	EFFECT	cancer cells	PART-OF-I	cholesterol	CAUSE	atherosclerosis
+283438884	whipped cream	PART-OF-I	protein	EFFECT	colon cancer
+1150442933	poultry	PART-OF-I	salmonella	HYPERNYMY	pathogen	CAUSED-BY	norovirus
+1765810675	egg	EFFECT	cholesterol	CAUSE	erectile dysfunction
+779393071	poultry	PART-OF-I	mortality	PART-OF	poultry workers	PART-OF-I	reticuloendotheliosis viruses
+811203951	avocado	PART-OF-I	cholesterol	CAUSE	blood	CAUSE	insulin resistance
+748608421	egg	LINKED-TO	diabetes	PART-OF-I	aid
+975538393	flax seeds	PART-OF-I	fiber	EFFECT	cholesterol	EFFECT	breast cancer
+746960754	celery	PART-OF-I	nitrate	HYPERNYMY	health	CAUSED-BY	obesity
+1989959071	whole grains	PART-OF-I	fiber	EFFECT	cholesterol	PART-OF	atherosclerosis
+1390419	corn syrup	PART-OF-I	mercury	CAUSE	brain	CAUSED-BY	atherosclerosis
+1347546472	chocolate	PART-OF-I	saturated fat	EFFECT	cholesterol	EFFECT	breast cancer
+868991917	pork	PART-OF-I	parasite	IS-A	brain	CAUSED-BY	atherosclerosis
+1805528698	nutritional yeast	PART-OF-I	fiber	EFFECT	cholesterol	LINKED-TO	gestational diabetes
+1961253365	beef	IS-A	saturated fat	EFFECT	cholesterol	PART-OF	atherosclerosis
+210020507	coconut oil	PART-OF-I	saturated fat	PART-OF-I	cholesterol	CAUSE	erectile dysfunction
+505613199	kale	PART-OF-I	calcium	EFFECT-I	protein	EFFECT	colon cancer
+134311200	almond milk	EFFECT	cancer cells	PART-OF-I	cholesterol	CAUSE	erectile dysfunction
+625337587	prebiotic	IS-A	fiber	EFFECT	cholesterol	CAUSE	atherosclerosis
+635598302	sea vegetables	PART-OF-I	fiber	EFFECT	cholesterol	EFFECT	breast cancer
+245315320	strawberry	PART-OF	patient	PART-OF-I	acidosis
+907185809	peppermint	EFFECT	muscle	CAUSE	inflammation
+791410940	lavender	PART-OF-I	finding	EFFECT	plant-based diet	HYPERNYMY	virus
+1524136785	egg	PART-OF-I	saturated fat	EFFECT	cholesterol	PART-OF	atherosclerosis
+1529301319	miso	PART-OF-I	protein	EFFECT	colon cancer
+210939353	brown rice	EFFECT	diabetes	PART-OF-I	aid
+1470969066	drinking water	PART-OF-I	estrogen	PART-OF	breast cancer
+535292902	milk	PART-OF-I	insulin	PART-OF-I	spike	PART-OF	inflammation
+1091974016	nutritional yeast	PART-OF-I	fiber	EFFECT	cholesterol	CAUSE	atherosclerosis
+1717119989	nut	PART-OF-I	fiber	EFFECT	cholesterol	LINKED-TO	gestational diabetes
+1409703278	split peas	EFFECT	cholesterol	CAUSE	blood	CAUSE	insulin resistance
+2079420605	poultry	PART-OF-I	mortality	PART-OF	infant	PART-OF-I	constipation
+1368247193	whole foods	PART-OF-I	fiber	EFFECT	cholesterol	CAUSE	erectile dysfunction
+1077904628	turmeric	HYPERNYMY	dna damage	EFFECT-I	free radicals	CAUSE	dysfunction
+1200677013	beef	PART-OF-I	iron	LINKED-TO	diabetes	CAUSED-BY	obesity
+1303507728	prebiotic	IS-A	fiber	EFFECT	cholesterol	PART-OF	atherosclerosis
+1545689827	chicken	PART-OF-I	heme iron	PART-OF	animal products	CAUSE	inflammation
+881762314	beef	EFFECT	cholesterol	CAUSE	blood	CAUSE	insulin resistance
+993716800	chicken	PART-OF-I	preservative	PART-OF-I	dioxin	CAUSE	inflammation
+458825188	egg	PART-OF-I	cholesterol	CAUSE	blood	CAUSE	insulin resistance
+936812490	nut	PART-OF-I	fiber	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
+1265252400	carob	PART-OF-I	fiber	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
+868924678	grapefruit	EFFECT	enzyme	EFFECT-I	plant-based diet	HYPERNYMY	virus
+1479889438	gluten	PART-OF	grain	EFFECT	brain	CAUSED-BY	atherosclerosis
+892308888	walnut	EFFECT	cholesterol	EFFECT	breast cancer
+222190039	chicken	PART-OF-I	iron	LINKED-TO	diabetes	PART-OF-I	aid
+1401917807	apple	PART-OF-I	age	PART-OF	cholesterol	EFFECT	breast cancer
+1868877878	milk	PART-OF-I	pesticide	PART-OF	animal products	CAUSE	inflammation
+106433628	alcoholic beverages	PART-OF-I	agent	PART-OF	atherosclerosis
+1546578037	egg	LINKED-TO	diabetes	PART-OF-I	treatment	PART-OF	cardiovascular disease
+427889111	almond	EFFECT	cholesterol	CAUSE	erectile dysfunction
+990237959	beef	PART-OF-I	saturated fat	EFFECT	cholesterol	PART-OF	atherosclerosis
+203885225	chocolate	PART-OF-I	saturated fat	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
+646601081	oatmeal	PART-OF-I	fiber	EFFECT	cholesterol	CAUSE	atherosclerosis
+2103449396	whole grains	PART-OF-I	fiber	EFFECT	cholesterol	CAUSE	atherosclerosis
+1819872798	chicken	PART-OF-I	arachidonic acid	PART-OF	vegetarian	PART-OF-I	breast cancer
+1027253032	prebiotic	IS-A	fiber	EFFECT	cholesterol	CAUSE	erectile dysfunction
+1235168067	breast milk	IS-A	pesticide	PART-OF	animal products	CAUSE	inflammation
+948182000	beef	PART-OF-I	saturated fat	EFFECT	cholesterol	CAUSE	erectile dysfunction
+65051431	egg	EFFECT	cholesterol	EFFECT	breast cancer
+183613799	breast milk	IS-A	pesticide	PART-OF	animal products	LINKED-TO	weight gain
+1906950299	chicken	PART-OF-I	iron	PART-OF	muscle	PART-OF	death
+1552751131	whole grains	PART-OF-I	phytate	PART-OF	vegetarian	PART-OF-I	chronic disease
+1254448625	walnut	EFFECT	cholesterol	CAUSE	atherosclerosis
+364816419	egg	PART-OF-I	saturated fat	EFFECT	cholesterol	LINKED-TO	nonalcoholic fatty liver
+1098916310	dried fruit	PART-OF-I	preservative	PART-OF-I	dioxin	CAUSE	inflammation
+791301829	almond	EFFECT	cholesterol	PART-OF	atherosclerosis
+1425344862	vitamin	PART-OF-I	mortality	PART-OF	poultry workers	PART-OF-I	reticuloendotheliosis viruses
+899672669	raisin	CAUSE	blood sugar	PART-OF-I	big spike	PART-OF	inflammation
+487871624	sea vegetables	PART-OF-I	fiber	EFFECT	cholesterol	CAUSE	erectile dysfunction
+870574025	beef	EFFECT	cholesterol	CAUSE	erectile dysfunction
+1587998830	chicken	PART-OF-I	salmonella	HYPERNYMY	pathogen	CAUSED-BY	norovirus
+1337098108	poultry	PART-OF-I	mortality	PART-OF	poultry workers	LINKED-TO	wart
+924162319	nettle tea	PART-OF-I	iron	LINKED-TO	diabetes	CAUSED-BY	obesity
+346562739	turmeric	PART-OF-I	curcumin	PART-OF	pain

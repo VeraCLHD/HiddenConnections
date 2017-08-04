@@ -6,75 +6,38 @@ bump	potassium
 boost	calcium absorption
 popcorn lung	workers
 spike	insulin
-diseases	foie gras
 viruses	chicken meat
-amyloid beta	alzheimer
 vegetables	meat
-ingredient	salads
 kombu	soymilk
-bacterial endotoxins	inflammation
-milk	girls
-blue-green algae	seafood
-yellow pigment	patients
-diabetes	livestock
 green leafies	water
-graph	remission
-ulcers	cranberries
 depression	folks
 flax seed	muffin
-teats	cows
-asian diets	plant foods
-steroids	cheese
 fruit	childhood
-sodium	fruits
-drug	turmeric
-lignans	tea
-eating eggs	egg consumption
 yellow pigment	turmeric
 dna mutations	bacteria
 phytate	vegetarian diets
 active ingredient	marijuana
-cholesterol	meat
 flaxseed	muffin
-carcinogens	plant foods
-nitrosamine production	fruits
-alcohol	saliva
-ham	meat science
 dairy intake	parkinson
 phytonutrients	cacao
 domoic acid	seafood
 spike	broccoli phytonutrients
-pork tapeworms	diet soda
-high fructose	soda
 uc	remission
-dairy	acne
 spike	blood pressure
-eczema	adolescents
 carcinogens	retail
 workers	poultry slaughtering
-brown fat	patients
-spices	antioxidants
-play	cancer rates
-sitting	raw broccoli
 reductionism	nutrition research
 uv rays	sunlight
 industrial contaminants	fish
-dioxins	meat
 selling sickness	hospitals
 loss	muscle strength
-fenugreek	antioxidants
-workers	soy
-arsenic	rice
 boost	feelings
 survival	cancer patients
 casomorphin	cow
-phytonutrients	beet juice
 play	disease
-urinary tract infections	carotenoids
 cancer-causing herpesvirus	poultry
 trans fat	junk food
 copper	supplements
-death	youth
 cancer-causing viruses	poultry products
 autopsies	uganda
 salmonella contamination	poultry products
@@ -86,13 +49,10 @@ arachidonic acid	meat
 8-pn	beer
 chronic constipation	infants
 benzene	drinking water
-omega-3s	fish
 bump	breathing
 acrylamide	drinking water
 dioxins	dairy products
 allergies	adulthood
-doses	peoria
-steroids	fish
 inflammation	check
 carotenoids	eggs
 acidosis	patients
@@ -105,119 +65,71 @@ spike	antioxidant activity
 cognitive dysfunction	alzheimer
 coloring	fish
 rickets	childhood
-neurotoxic chemicals	dairy
 meat carcinogens	chicken
-fat	nuts
-plaque	artery
 big spike	blood sugar
 spike	blood
 no fiber	junk food
 bmaa	seafood
 fiber	plant foods
-dairy	survival
-asian diets	meat
 estrogens	hops
-infection	prevalence
 toxins	cigarette smoke
 arsenic	pesticides
-allergies	chicken
 uv rays	sun
-nuts	life
 casein	cow
-bump	fukushima
 stuff	legumes
 boost	defenses
 saturated fat	coconut oil
-graph	stevia
 raisins	raisin bran
-womb	breast milk
-vomiting	nausea
 tofu	indonesia
 arsenic	drugs
 placebo	boosting
 hormones	dairy products
-drugs	plants
 red pigment	tomatoes
-drinking	life
-pollutants	seafood
 carcinogenic nitrosamines	bacon
-carbohydrates	mood
 early-onset puberty	girls
 play	aging
-skin cancer	childhood
 active ingredient	stevia
-protein	plant foods
 bovine casomorphin	milk
-aspirin	plants
-salmonella	salmonellosis
 gluten	grains
 bump	cancer risk
 contaminants	chicken products
-aluminum	supplements
-early onset puberty	meat
 vegetables	ability
-cancers	meat
 nitrates	plants
 pyrogallol	mushrooms
 ingredient	curry powder
 epidemic	diabetes
 protein	cow
 white blood cells	autoimmune
-infectious diseases	chickens
 disease	primates
-liver	cassia cinnamon
-penicillin	peoria
 boy	israel
-cause inflammation	chicken
 acid	vegetables
 ingredient	chai tea
-numbness	bowel habits
 cigarettes	hospitals
 acne	milk drinkers
-polonium	raw
-chemical pollutants	life
-phytoestrogen	drugs
 meat	meal
 proteins	milk
-igf	childhood
 dioxin	preservatives
 carcinogens	cigarette smoke
 arsenic	chemicals
 arterial stiffness	adulthood
 active ingredient	broccoli
 dha	fish flesh
-disease	chicken
 insulin sensitivity	cells
 preventing relapse	crohn
-disease	prevalence
-sulfur	plant proteins
-diabetes epidemic	china
 fiber	fruits
 swap	soy protein
-inflammation	antioxidants
 use antibiotics	agriculture
 alcohol	mouthwash
 carotenoids	fruits
 turmeric	curry powder
 carnitine	tmao production
-depression	tomatoes
-salmonella	deli meats
-human cells	avocados
-mood	carbohydrate
-death	sugar
 broccoli	garlic sauce
 bread	uganda
-play	childhood
 bph	check
-uric acid	gout
 irritation	dermatology
 triggering inflammation	arthritis
 chain omega-3s	plant foods
-pesticides	cheese
-industrial contaminants	fat
 relapses	crohn
-phosphorus	kidney function
-detoxifying enzymes	broccoli
 thyroid	sausages
 runny nose	adolescents
 choice	potato consumption
@@ -229,23 +141,17 @@ angina	patients
 cells	cancer
 aluminum	antiperspirants
 bullet fragments	venison
-oxidative stress	carotenoids
 aluminum	drugs
 carrot	hummus
 flavonoid phytonutrients	nuts
 campylobacter	chicken
-fungal toxins	apple juice
 bovine leukemia	milk
 doses	pill form
-steroids	chicken
 estrogens	drinking water
-improved survival	breast cancer
-chemical pollutants	girls
 omega-3s	flax seeds
 smoking	moderation
 toxins	meat
 spike	blood sugar
-chemicals	fish
 relaxant phytonutrient	green tea
 acid	vinegar
 dementia	alzheimer
@@ -254,71 +160,39 @@ adventists	caloric restriction
 sitting	silence
 diseases	vegetarians
 restaurants	hospitals
-beta-carotene	pill form
 artificial sweeteners	sweet
 grapes	fat burning
-mood	fat
 meat	childhood
-pollutant	life
-pigs	meat
-cancer cells	beans
 spike	oxidant stress
-steroids	supplements
-plant-based diets	diabetes rates
-copper	fish
-prevent prediabetes	childhood
-diets	health
 cancer cells	check
-detoxifying enzymes	plants
 sulfur	amino acids
-cancer cells	cranberries
 disease	workers
 gluten	bread
-diets	berries
-carnitine	eggs
 amla	smoothies
-active ingredient	vegetarians
-conventional diet	leucine
 fiber	carob
 breast cancer	vegetarian women
 spike	oxidation
 reticuloendotheliosis viruses	poultry workers
-metastasis	strawberries
 seeds	flax
-pollutants	walnuts
 turmeric curcumin	pain
 yersinia enterocolitica	pork
 protein	milk
 carnitine	energy drinks
-fish	adolescents
-active ingredient	fruits
 molecules	plants
-mrsa	pork
 iq	childhood
 immunity	athletes
-phytonutrients	junk foods
 fiber	flax seeds
-toxicity	teens
 remission	patients
-phytoestrogens	breast cancer
-dairy intake	life
 campylobacter infections	infants
 tor	broccoli
-colon cancer	fruits
-disease	alzheimer
-sodium	cranberry juice
 hospitals	uganda
 strawberries	patients
-manure	milk
 phthalates	chicken
-bone cells	plant foods
 fish	chinese restaurants
 radiation	cancer risk
 phosphorus	meat
 dietary nitrate	beets
 active ingredient	roundup
-genitals	beef
-arteries	allergies
 hospital	boston
 colors	fruits
 spike	symptoms
@@ -326,21 +200,16 @@ arsenic	drug
 boost	ampk
 hesperitin	citrus
 inflammation	carcinoma
-bad cholesterol	fatty streaks
 ages	apples
-standard diet	leucine
 tumors	primates
 symptoms	patients
 kidney stones	patients
 active ingredient	turmeric
 antibodies	crohn
-stickiness	urine
 proteins	cow
 big spike	inflammation
 glycotoxins	cigarette smoke
 igf	vegans
-salmonella	deli meat
-hydrogen sulfide	plant foods
 vinegar	diabetics
 insulin	diabetics
 toxins	raw mushrooms
@@ -348,23 +217,15 @@ attacks	gout sufferers
 e. coli	chicken meat
 boost	testosterone
 hormones	cow
-painkiller	aspirin
 diet	disease
-protein	life
 phytonutrients	raw broccoli
-phytoestrogens	nuts
 vodka	orange juice
-eaten	beta carotene
 causes obesity	chickens
 yellow pigment	curry powder
 allergies	childhood
-meat carcinogens	fish
-hormones	acne
 aid	diabetes control
-fatty streaks	childhood
 cancer-causing viruses	poultry
 fiber	nuts
-big spike	stevia
 disease	livestock
 bioaccumulate	fish
 patients	remission
@@ -373,10 +234,6 @@ teats	iodine
 phytonutrients	green tea
 active ingredient	aspirin
 salmonella contamination	poultry
-infertility	meat
-chlorophyll	sunlight
-ground flax	diabetics
-glycotoxins	inflammation
 spike	inflammation
 caffeine	coffee
 milk proteins	breast milk
@@ -384,7 +241,6 @@ seaweed	pills
 spice turmeric	curry powder
 iq	babies
 mercury	preservative
-radiation exposure	seafood
 fructose	hfcs
 dha	fish oil
 antioxidant intake	asthma
@@ -398,26 +254,17 @@ phytoestrogen	hops
 brain	folks
 bump	tmao levels
 vinegar	pill form
-infections	chicken
-lignans	flax seeds
 stuff	plants
 dairy intake	adolescence
-iron	plant foods
 excess calories	chocolate
 symptoms	infants
 dietary fiber	plants
 carnitine	supplements
-endometrial cancer	girls
 spike	aluminum excretion
-bacteria	remission
 heart muscle	death
 ginger	amyloid
-mortality	cancer
 safety	chicken
 chicken	phosphate additives
-death	hens
-anthocyanin phytonutrients	sweet
-anthocyanin phytonutrients	tart
 mercury	vaccines
 cancer	poultry
 blood sugar	diabetics

@@ -8,7 +8,6 @@ fruits	apples	, including	IS-A
 inflammatory diseases	crohn	, including	IS-A
 pregnancy	shorter cerebellums	, including	IS-A
 diseases	heart disease	, including	IS-A
-leukemia	b-cell	, including	IS-A
 preventing cancer	pancreatic cancer	, including	IS-A
 poultry	turkey	, including	IS-A
 plant kingdom	fruits	, including	IS-A
@@ -111,7 +110,6 @@ olive oil	fruit juice	like	IS-A
 leafy vegetables	spinach	like	IS-A
 lemonoids	lemonin	like	IS-A
 diseases	stroke	like	IS-A
-kale	breast	like	IS-A
 food restaurants	mcdonald	like	IS-A
 pathogens	salmonella	like	IS-A
 abnormalities	microcephaly	like	IS-A
@@ -142,7 +140,6 @@ drugs	tylenol	like	IS-A
 periodontal diseases	gingivitis	like	IS-A
 soy foods	tofu	like	IS-A
 feelings	hunger	like	IS-A
-inflammatory bowel diseases	methionine	like	IS-A
 acids	lactic acid	like	IS-A
 pollutants	ddt	like	IS-A
 drug	ibuprofen	like	IS-A
@@ -155,7 +152,6 @@ drugs	penicillin	like	IS-A
 sour fruit	lemons	like	IS-A
 processed meats	bacon	like	IS-A
 drugs	zeranol	like	IS-A
-herbs	ginger	like	IS-A
 statin drugs	lipitor	like	IS-A
 fats	palmitic acid	like	IS-A
 hormones	adrenaline	like	IS-A
@@ -165,7 +161,6 @@ desserts	cake	like	IS-A
 nausea	ginger	like	IS-A
 antioxidants	vitamin c	like	IS-A
 persistent pollutants	hexachlorobenzene	like	IS-A
-neurotransmitters	prozac	like	IS-A
 symptoms	nausea	like	IS-A
 nuts	cashews	like	IS-A
 drugs	fosamax	like	IS-A
@@ -214,7 +209,6 @@ phytonutrients	zeaxanthin	like	IS-A
 fruit	apples	like	IS-A
 neurotransmitters	serotonin	like	IS-A
 carotenoids	lutein	like	IS-A
-graphs	bpa	like	IS-A
 carbohydrates	rice	like	IS-A
 cruciferous vegetables	brussels sprouts	like	IS-A
 short-chain fatty acids	butyrate	like	IS-A
@@ -324,7 +318,6 @@ industrial pollutants	mercury	such as	IS-A
 diseases	heart disease	such as	IS-A
 heavy metals	cadmium	such as	IS-A
 symptoms	bloating	such as	IS-A
-greens	turmeric	such as	IS-A
 spices	cinnamon	such as	IS-A
 industrial toxins	dioxins	such as	IS-A
 adverse effects	erectile dysfunction	such as	IS-A
@@ -341,7 +334,6 @@ contaminants	antibiotic residues	such as	IS-A
 drugs	aspirin	such as	IS-A
 fat	nuts	such as	IS-A
 supplements	vitamin c	such as	IS-A
-beans	grapefruit	such as	IS-A
 vegetables	greens	such as	IS-A
 supplements	iron supplements	such as	IS-A
 nitrate-rich vegetables	beets	such as	IS-A
@@ -396,7 +388,6 @@ industrial carcinogens	dioxins	such as	IS-A
 plant foods	beans	such as	IS-A
 fresh fruits	blueberries	such as	IS-A
 radiation	dental x-rays	such as	IS-A
-industrial pollutants	tuna	such as	IS-A
 cancers	skin cancer	such as	IS-A
 side effects	weight gain	such as	IS-A
 greens	spinach	such as	IS-A
@@ -416,7 +407,6 @@ persistent organic pollutants	pcb	such as	IS-A
 animal products	bacon	such as	IS-A
 toxins	pcb	such as	IS-A
 fruits	tomatoes	such as	IS-A
-vitamin supplements	multivitamins	such as	IS-A
 plant foods	nuts	such as	IS-A
 legumes	soy	such as	IS-A
 energy	raisins	such as	IS-A
@@ -490,7 +480,6 @@ industrial pollutants	mercury	such as	IS-A
 diseases	heart disease	such as	IS-A
 heavy metals	cadmium	such as	IS-A
 symptoms	bloating	such as	IS-A
-greens	turmeric	such as	IS-A
 spices	cinnamon	such as	IS-A
 industrial toxins	dioxins	such as	IS-A
 adverse effects	erectile dysfunction	such as	IS-A
@@ -507,7 +496,6 @@ contaminants	antibiotic residues	such as	IS-A
 drugs	aspirin	such as	IS-A
 fat	nuts	such as	IS-A
 supplements	vitamin c	such as	IS-A
-beans	grapefruit	such as	IS-A
 vegetables	greens	such as	IS-A
 supplements	iron supplements	such as	IS-A
 nitrate-rich vegetables	beets	such as	IS-A
@@ -562,7 +550,6 @@ industrial carcinogens	dioxins	such as	IS-A
 plant foods	beans	such as	IS-A
 fresh fruits	blueberries	such as	IS-A
 radiation	dental x-rays	such as	IS-A
-industrial pollutants	tuna	such as	IS-A
 cancers	skin cancer	such as	IS-A
 side effects	weight gain	such as	IS-A
 greens	spinach	such as	IS-A
@@ -582,7 +569,6 @@ persistent organic pollutants	pcb	such as	IS-A
 animal products	bacon	such as	IS-A
 toxins	pcb	such as	IS-A
 fruits	tomatoes	such as	IS-A
-vitamin supplements	multivitamins	such as	IS-A
 plant foods	nuts	such as	IS-A
 legumes	soy	such as	IS-A
 energy	raisins	such as	IS-A
@@ -695,7 +681,6 @@ olive oil	fruit juice	like	IS-A
 leafy vegetables	spinach	like	IS-A
 lemonoids	lemonin	like	IS-A
 diseases	stroke	like	IS-A
-kale	breast	like	IS-A
 food restaurants	mcdonald	like	IS-A
 pathogens	salmonella	like	IS-A
 abnormalities	microcephaly	like	IS-A
@@ -726,7 +711,6 @@ drugs	tylenol	like	IS-A
 periodontal diseases	gingivitis	like	IS-A
 soy foods	tofu	like	IS-A
 feelings	hunger	like	IS-A
-inflammatory bowel diseases	methionine	like	IS-A
 acids	lactic acid	like	IS-A
 pollutants	ddt	like	IS-A
 drug	ibuprofen	like	IS-A
@@ -739,7 +723,6 @@ drugs	penicillin	like	IS-A
 sour fruit	lemons	like	IS-A
 processed meats	bacon	like	IS-A
 drugs	zeranol	like	IS-A
-herbs	ginger	like	IS-A
 statin drugs	lipitor	like	IS-A
 fats	palmitic acid	like	IS-A
 hormones	adrenaline	like	IS-A
@@ -749,7 +732,6 @@ desserts	cake	like	IS-A
 nausea	ginger	like	IS-A
 antioxidants	vitamin c	like	IS-A
 persistent pollutants	hexachlorobenzene	like	IS-A
-neurotransmitters	prozac	like	IS-A
 symptoms	nausea	like	IS-A
 nuts	cashews	like	IS-A
 drugs	fosamax	like	IS-A
@@ -798,7 +780,6 @@ phytonutrients	zeaxanthin	like	IS-A
 fruit	apples	like	IS-A
 neurotransmitters	serotonin	like	IS-A
 carotenoids	lutein	like	IS-A
-graphs	bpa	like	IS-A
 carbohydrates	rice	like	IS-A
 cruciferous vegetables	brussels sprouts	like	IS-A
 short-chain fatty acids	butyrate	like	IS-A

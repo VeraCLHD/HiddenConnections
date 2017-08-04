@@ -22,6 +22,7 @@ import io.Reader;
 import io.Writer;
 import overall.Pair;
 import terms_processing.StanfordLemmatizer;
+import terms_processing.TermAssembler;
 import terms_processing.TermClusterer;
 import bootstrapping.Bootstrapper;
 
@@ -397,7 +398,7 @@ public class PreparationForIndirectConnections {
 		InformationContent ic = new InformationContent();
 		ic.computeInformationContent();
 		//information content minimum is set here; if 0: all terms are considered
-		InformationContent.setMIN_INFORMATION_CONTENT(2.06);
+		InformationContent.setMIN_INFORMATION_CONTENT(2.05);
 		ic.writeIC();
 		System.out.println("DONE with Information Content");
 		// setzt voraus, dass information content file already there
@@ -411,6 +412,7 @@ public class PreparationForIndirectConnections {
 		System.out.println("DONE filtering too general");
 		// write big file as input for graph
 		prep.rewriteInstances();
+		TermAssembler.assembleFinalVariants();
 	}
 	
 	

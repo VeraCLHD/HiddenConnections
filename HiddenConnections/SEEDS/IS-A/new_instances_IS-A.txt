@@ -4,7 +4,6 @@ diseases	parkinson
 menstrual symptoms	cramping
 diseases	heart disease
 herbal teas	hibiscus tea
-greens	turmeric
 cholesterol-lowering drugs	statins
 drugs	midazolam
 hormones	igf
@@ -48,7 +47,6 @@ neurodegenerative diseases	als
 anti-inflammatory drugs	aspirin
 oils	olive oil
 feelings	hunger
-inflammatory bowel diseases	methionine
 fresh fruits	blueberries
 plant kingdom	fruits
 sour fruit	lemons
@@ -56,7 +54,6 @@ spices	curcumin
 modern medicine	surgery
 vegetables	salad
 persistent pollutants	hexachlorobenzene
-neurotransmitters	prozac
 meat	chicken
 chronic disease	cancer
 fruits	apples
@@ -65,7 +62,6 @@ fish	mercury
 drug	lipitor
 autoimmune diseases	rheumatoid arthritis
 whole grains	rye
-graphs	bpa
 protein	beans
 western diseases	colon cancer
 plants	berries
@@ -90,13 +86,10 @@ plant proteins	soy
 minerals	iodine
 acids	lactic acid
 pregnancy	shorter cerebellums
-industrial pollutants	tuna
 drugs	zeranol
-herbs	ginger
 statin drugs	lipitor
 carcinogens	pesticides
 baggage	cholesterol
-vitamin supplements	multivitamins
 plant fat	nuts
 drug	valium
 drinks	wine
@@ -108,17 +101,14 @@ methionine	meat
 drug	premarin
 exposure	farmworkers
 recipe	mayo
-beans	grapefruit
 legumes	chickpeas
 health	nitrate
 diseases	cancer
 inflammatory bowel disease	crohn
 illnesses	acne
-leukemia	b-cell
 preventing cancer	pancreatic cancer
 carotenoids	beta-carotene
 meats	poultry
-kale	breast
 taking supplements	potassium
 fish	anisakis
 nuts	peanuts

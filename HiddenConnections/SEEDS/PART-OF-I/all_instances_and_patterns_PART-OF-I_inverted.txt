@@ -21,7 +21,6 @@ side effects	drug	, without the	PART-OF
 fat	phytonutrients	, without the	PART-OF
 dna	plants	have	PART-OF
 fiber	plant foods	have	PART-OF
-phytonutrients	dates	have	PART-OF
 health	processed foods	have	PART-OF
 antioxidants	grapes	have	PART-OF
 fiber	dates	have	PART-OF
@@ -29,7 +28,6 @@ antioxidants	vegetables	have	PART-OF
 benzene	soft drinks	have	PART-OF
 nicotine	plants	have	PART-OF
 phosphorus	animal foods	have	PART-OF
-mgus	who	have	PART-OF
 adverse effects	pregnancy	have	PART-OF
 phytonutrients	sea vegetables	have	PART-OF
 amla	smoothies	have	PART-OF
@@ -57,7 +55,6 @@ plant foods	diet	full of	PART-OF
 sugar pills	babies	full of	PART-OF
 fiber	figs	are so packed with	PART-OF
 nutrition	greens	are so packed with	PART-OF
-ddt	china	are food sources of	PART-OF
 fat	nuts	are a preferable source of	PART-OF
 oxalates	beets	do have a lot of	PART-OF
 cancer	farmers	have higher rates of	PART-OF
@@ -146,7 +143,6 @@ flower	broccoli florets	are just clusters of	PART-OF
 arginine	seeds	are a source of	PART-OF
 dna	plants	have	PART-OF
 fiber	plant foods	have	PART-OF
-phytonutrients	dates	have	PART-OF
 health	processed foods	have	PART-OF
 antioxidants	grapes	have	PART-OF
 fiber	dates	have	PART-OF
@@ -154,7 +150,6 @@ antioxidants	vegetables	have	PART-OF
 benzene	soft drinks	have	PART-OF
 nicotine	plants	have	PART-OF
 phosphorus	animal foods	have	PART-OF
-mgus	who	have	PART-OF
 adverse effects	pregnancy	have	PART-OF
 phytonutrients	sea vegetables	have	PART-OF
 amla	smoothies	have	PART-OF

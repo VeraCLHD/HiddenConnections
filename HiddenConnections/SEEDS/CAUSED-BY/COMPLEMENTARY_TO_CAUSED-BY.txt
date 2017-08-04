@@ -2387,7 +2387,6 @@ dump sentences\T-1208_38_.txt	blood	chili peppers	,	LIST	[,]	2
 dump sentences\A-120_0_.txt	diabetes	insulin	before	PREP	[IN]	2
 dump sentences\V-404_10_.txt	kale	blueberries	or	AND-CONJ	[CC]	2
 dump sentences\V-864_20_.txt	fats	carbohydrates	,	LIST	[,]	2
-dump sentences\A-95_25_.txt	china	taiwan	or	AND-CONJ	[CC]	2
 dump sentences\T-1602_4_.txt	brown rice	diabetes	reduced	EFFECT	[VBD]	2
 dump sentences\V-777_3_.txt	standard american diet	blood	is so toxic to the	EFFECT	[VBZ, RB, JJ, TO, DT]	2
 dump sentences\A-30_23_.txt	steroid	hydrocortisone	,	LIST	[,]	2
@@ -5478,9 +5477,7 @@ dump sentences\A-422_0_.txt	rice bran oil	sesame oil	, toasted	LIST	[,, VBN]	1
 dump sentences\T-266_13_.txt	obesity	chickens	in	PART-OF	[IN]	2
 dump sentences\T-1288_2_.txt	cod liver oil	noni	,	LIST	[,]	1
 dump sentences\V-420_5_.txt	vegetables	broccoli	, the	LIST	[,, DT]	1
-dump sentences\A-14_3_.txt	obesity	china	in	PART-OF	[IN]	2
 dump sentences\T-725_3_.txt	syndrome	chocolate	, but	LIST	[,, CC]	1
-dump sentences\V-317_3_.txt	obesity	china	in	PART-OF	[IN]	2
 dump sentences\V-30_15_.txt	insulin	triglycerides	,	LIST	[,]	1
 dump sentences\A-289_4_.txt	hormones	pills	in	PART-OF	[IN]	2
 dump sentences\V-571_7_.txt	hormones	pills	in	PART-OF	[IN]	2
@@ -5783,7 +5780,6 @@ dump sentences\A-160_27_.txt	pollutants	diabetes	in	PART-OF	[IN]	2
 dump sentences\V-1223_7_.txt	cigarettes	tuna	,	LIST	[,]	1
 dump sentences\T-154_1_.txt	seaweed	soy	, or the	AND-CONJ	[,, CC, DT]	1
 dump sentences\V-111_13_.txt	disease	protein	, a	LIST	[,, DT]	1
-dump sentences\T-443_3_.txt	diabetes	china	in	PART-OF	[IN]	2
 dump sentences\V-79_19_.txt	plants	placebo	, or	AND-CONJ	[,, CC]	1
 dump sentences\T-704_7_.txt	aid	diabetes	in	PART-OF	[IN]	2
 dump sentences\A-474_21_.txt	brains	eyes	,	LIST	[,]	1
@@ -5999,7 +5995,6 @@ dump sentences\A-63_4_.txt	cancer	allergies	,	LIST	[,]	1
 dump sentences\A-141_14_.txt	plant	animal foods	vs.	CC	[CC]	1
 dump sentences\V-165_10_.txt	herbs	cardiovascular disease	in	PART-OF	[IN]	2
 dump sentences\V-867_2_.txt	broccoli	who	, those	LIST	[,, DT]	1
-dump sentences\V-732_22_.txt	prostate enlargement	china	in	PART-OF	[IN]	2
 dump sentences\T-1423_1_.txt	disease	fibrosis	,	LIST	[,]	1
 dump sentences\V-308_27_.txt	stomach	fat	, or	AND-CONJ	[,, CC]	1
 dump sentences\V-211_3_.txt	peppermint	muscles	does is relax the	EFFECT	[VBZ, VBZ, VB, DT]	1
@@ -6064,7 +6059,6 @@ dump sentences\T-1747_6_.txt	therapies	statins	such as	IS-A	[JJ, IN]	1
 dump sentences\V-89_11_.txt	sausage	ice cream	, or	AND-CONJ	[,, CC]	1
 dump sentences\A-290_17_.txt	substance p	neurotransmitter	, a	LIST	[,, DT]	1
 dump sentences\T-1464_1_.txt	cognition	dysmenorrhea	,	LIST	[,]	1
-dump sentences\V-702_1_.txt	united states	china	,	LIST	[,]	1
 dump sentences\V-10_10_.txt	leukemias	nih-aarp study	, the	LIST	[,, DT]	1
 dump sentences\V-490_1_.txt	food poisoning	salmonella	, like	LIST	[,, IN]	1
 dump sentences\V-19_6_.txt	oregano	mint	or	AND-CONJ	[CC]	1
@@ -10970,7 +10964,6 @@ dump sentences\T-1814_9_.txt	tea	bergamottin	is a source of	PART-OF	[VBZ, DT, NN
 dump sentences\V-1167_16_.txt	salsa	lycopene	is packed with	PART-OF	[VBZ, VBN, IN]	1
 dump sentences\V-409_36_.txt	greens	enzyme	have that	PART-OF	[VBP, IN]	1
 dump sentences\T-1192_5_.txt	mushrooms	antioxidant	are the best source of the	PART-OF	[VBP, DT, JJS, NN, IN, DT]	1
-dump sentences\T-563_2_.txt	china	ddt	are food sources of	PART-OF	[VBP, JJ, NN, NNS, IN]	1
 dump sentences\V-1301_21_.txt	plant foods	fiber	are good sources of	PART-OF	[VBP, JJ, NNS, IN]	1
 dump sentences\V-1005_10_.txt	omega-3 fatty acids	cholesterol	are still loaded with	PART-OF	[VBP, RB, VBN, IN]	1
 dump sentences\A-339_3_.txt	vegetarians	lignans	have about twice the level of	PART-OF	[VBP, IN, RB, DT, NN, IN]	1

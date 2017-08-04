@@ -127,7 +127,7 @@ public class TermAssembler {
 		public static Map<String, Set<String>> getMeshVariants() {
 			return meshVariants;
 		}
-		private static void assembleFinalVariants() {
+		public static void assembleFinalVariants() {
 			TermAssembler ta = new TermAssembler();
 			ta.readClusteredTerms();
 			ta.readMesh();
@@ -137,7 +137,7 @@ public class TermAssembler {
 		
 	public static void main(String[] args) {
 		
-		assembleFinalVariants();
+		
 		
 	}
 

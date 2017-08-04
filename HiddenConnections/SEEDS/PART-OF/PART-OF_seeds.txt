@@ -749,8 +749,6 @@ dump sentences\V-437_22_.txt	phytonutrients	cherries	in	PART-OF	[IN]	2
 dump sentences\V-437_22_.txt	anthocyanin phytonutrients	cherries	in	PART-OF	[IN]	2
 dump sentences\T-1930_3_.txt	obesity	chickens	in	PART-OF	[IN]	2
 dump sentences\T-266_13_.txt	obesity	chickens	in	PART-OF	[IN]	2
-dump sentences\A-14_3_.txt	obesity	china	in	PART-OF	[IN]	2
-dump sentences\V-317_3_.txt	obesity	china	in	PART-OF	[IN]	2
 dump sentences\A-289_4_.txt	hormones	pills	in	PART-OF	[IN]	2
 dump sentences\V-571_7_.txt	hormones	pills	in	PART-OF	[IN]	2
 dump sentences\A-481_15_.txt	folic acid	pills	in	PART-OF	[IN]	2
@@ -832,7 +830,6 @@ dump sentences\V-62_14_.txt	pepsi	dyspepsia	in	PART-OF	[IN]	2
 dump sentences\A-109_6_.txt	constipation	young children	in	PART-OF	[IN]	2
 dump sentences\V-408_6_.txt	constipation	young children	in	PART-OF	[IN]	2
 dump sentences\A-160_27_.txt	pollutants	diabetes	in	PART-OF	[IN]	2
-dump sentences\T-443_3_.txt	diabetes	china	in	PART-OF	[IN]	2
 dump sentences\T-704_7_.txt	aid	diabetes	in	PART-OF	[IN]	2
 dump sentences\T-573_1_.txt	pollutants	fish oil	in	PART-OF	[IN]	2
 dump sentences\A-443_3_.txt	bioactive molecules	milk	in	PART-OF	[IN]	2
@@ -897,7 +894,6 @@ dump sentences\V-46_17_.txt	salicylic acid	cumin	in	PART-OF	[IN]	2
 dump sentences\V-1144_0_.txt	industrial toxins	fish	in	PART-OF	[IN]	2
 dump sentences\T-573_3_.txt	industrial toxins	fish	in	PART-OF	[IN]	2
 dump sentences\V-165_10_.txt	herbs	cardiovascular disease	in	PART-OF	[IN]	2
-dump sentences\V-732_22_.txt	prostate enlargement	china	in	PART-OF	[IN]	2
 dump sentences\V-125_10_.txt	pcbs	seafood	in	PART-OF	[IN]	2
 dump sentences\A-235_18_.txt	pcbs	salmon	in	PART-OF	[IN]	2
 dump sentences\V-521_15_.txt	pcbs	salmon	in	PART-OF	[IN]	2

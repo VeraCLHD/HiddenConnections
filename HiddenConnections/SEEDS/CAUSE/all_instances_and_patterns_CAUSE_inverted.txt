@@ -11,7 +11,6 @@ smoking	lung cancer	causes	CAUSED-BY
 dna	liquid smoke	causes	CAUSED-BY
 insulin resistance	blood	causes	CAUSED-BY
 inflammation	animal foods	causes	CAUSED-BY
-dysfunction	saturated fat	causes	CAUSED-BY
 insulin resistance	sucralose	causes	CAUSED-BY
 insulin	sucralose	causes	CAUSED-BY
 cancer	cigarette smoking	causes	CAUSED-BY
@@ -19,34 +18,32 @@ dna mutations	liquid smoke	causes	CAUSED-BY
 guidelines	who	creates	CAUSED-BY
 free radicals	exercise	creates	CAUSED-BY
 heterocyclic amines	fish	creates	CAUSED-BY
+infections	bacteria	cause	CAUSED-BY
 acne	milk	cause	CAUSED-BY
+dysfunction	free radicals	cause	CAUSED-BY
 dna mutations	carcinogens	cause	CAUSED-BY
+cancer	cell phones	cause	CAUSED-BY
+inflammation	animal products	cause	CAUSED-BY
 brain tumors	dental x-rays	cause	CAUSED-BY
 cancer	betel nuts	cause	CAUSED-BY
 plaque	bacteria	cause	CAUSED-BY
-dna mutations	hormones	cause	CAUSED-BY
 inflammation	meat	cause	CAUSED-BY
 lung inflammation	air pollution	cause	CAUSED-BY
 dna	carcinogens	cause	CAUSED-BY
-infections	bacteria	cause	CAUSED-BY
-dysfunction	free radicals	cause	CAUSED-BY
-cancer	cell phones	cause	CAUSED-BY
-inflammation	animal products	cause	CAUSED-BY
 depressive symptoms	inflammation	to trigger	CAUSED-BY
 strokes	arteries	to trigger	CAUSED-BY
+infections	bacteria	cause	CAUSED-BY
 acne	milk	cause	CAUSED-BY
+dysfunction	free radicals	cause	CAUSED-BY
 dna mutations	carcinogens	cause	CAUSED-BY
+cancer	cell phones	cause	CAUSED-BY
+inflammation	animal products	cause	CAUSED-BY
 brain tumors	dental x-rays	cause	CAUSED-BY
 cancer	betel nuts	cause	CAUSED-BY
 plaque	bacteria	cause	CAUSED-BY
-dna mutations	hormones	cause	CAUSED-BY
 inflammation	meat	cause	CAUSED-BY
 lung inflammation	air pollution	cause	CAUSED-BY
 dna	carcinogens	cause	CAUSED-BY
-infections	bacteria	cause	CAUSED-BY
-dysfunction	free radicals	cause	CAUSED-BY
-cancer	cell phones	cause	CAUSED-BY
-inflammation	animal products	cause	CAUSED-BY
 blood sugar	raisins	caused less of a	CAUSED-BY
 nitrites	celery	to create	CAUSED-BY
 insulin	fish	causes triple the	CAUSED-BY
@@ -58,7 +55,6 @@ smoking	lung cancer	causes	CAUSED-BY
 dna	liquid smoke	causes	CAUSED-BY
 insulin resistance	blood	causes	CAUSED-BY
 inflammation	animal foods	causes	CAUSED-BY
-dysfunction	saturated fat	causes	CAUSED-BY
 insulin resistance	sucralose	causes	CAUSED-BY
 insulin	sucralose	causes	CAUSED-BY
 cancer	cigarette smoking	causes	CAUSED-BY

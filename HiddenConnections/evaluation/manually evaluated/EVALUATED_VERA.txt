@@ -1,279 +1,222 @@
+0	more to it 	N541907097	almond	has an effect on	cholesterol	cause	artery	in	allergy
+0	?	N778345406	bacon	is a	animal products	such as	dairy	in	acne
+0	nonsense	N1844707782	vitamin	have	mortality	in	poultry workers	have	reticuloendotheliosis viruses
+0	?	N412414053	chicken	have	steroid	in	dairy	in	acne
+0	more to it 	N859559217	egg	have	cholesterol	cause	artery	in	allergy
+0	?	N1775354211	milk	have	steroid hormones	in	dairy	in	acne
+0	?	N2131589515	milk	is a	animal products	such as	dairy	in	acne
+0	more to it 	N2101605851	breast milk	such as	pcb	associated with	fat	in	heart attacks
+0	?	N443262754	cheese	have	steroid	in	dairy	in	acne
+1	ok	N178719330	coconut oil	have	saturated fat	have	cholesterol	associated with	gestational diabetes
+0	?	N682189152	milk	have	amino acids	such as	methionine	is a	inflammatory bowel diseases
+0	more to it 	N2039066664	walnut	has an effect on	cholesterol	cause	artery	in	allergy
+0	more to it 	N1355019149	avocado	have	cholesterol	cause	artery	in	allergy
+0	?	N1366160893	dairy products	have	dioxin	in	dairy	in	acne
+0	?	N1963520037	apple	have	age	is affected by	dairy	in	acne
+1	ok	N1243667499	coconut oil	have	saturated fat	has an effect on	cholesterol	cause	atherosclerosis
+0	?	N280560903	cranberry	have	cancer cells	in	check	have	inflammation
+0	?	N105985294	beef	have	steroid hormones	in	dairy	in	acne
+0	?	N251049542	bean	have	cancer cells	in	check	have	inflammation
+1	ok	N1456797636	coconut oil	have	saturated fat	have	cholesterol	in	atherosclerosis
+0	?	N621920413	bean	have	cancer cells	have	cholesterol	associated with	gestational diabetes
+1	ok	N341252857	coconut oil	have	saturated fat	have	cholesterol	has an effect on	breast cancer
+0	toFill	N1462391758	bean	have	cancer cells	have	cholesterol	associated with	nonalcoholic fatty liver
+0	?	N82005593	soy	have	calcium	in	dairy	in	acne
+0	toFill	N1444112057	curry powder	have	yellow pigment	in	patient	have	kidney stones
+0	toFill	N982041564	cheese	have	pesticide	have	arsenic	cause	skin cancer
+0	toFill	N655797676	bean	have	cancer cells	have	cholesterol	has an effect on	breast cancer
+0	?	N1097305730	soy	is a	animal proteins	such as	dairy	in	acne
+0	toFill	N409167123	stevia	have	graph	such as	bpa	associated with	cardiovascular disease
+0	toFill	N1919520345	cheese	have	pesticide	in	animal products	cause	inflammation
+0	?	N1414582037	poultry	have	contamination	in	dairy	in	acne
+1	ok	N761128454	coconut oil	have	saturated fat	has an effect on	cholesterol	associated with	gestational diabetes
+0	toFill	N1470494251	cheese	have	pesticide	in	animal products	associated with	weight gain
+0	?	N122942173	bean	has an effect on	dioxin	in	dairy	in	acne
+0	toFill	N1221130131	tea	have	lignan	in	vegetarian	have	chronic disease
+0	more to it 	N1091570774	beef	has an effect on	cholesterol	cause	artery	in	allergy
+1	ok	N1929542428	coconut oil	have	saturated fat	has an effect on	cholesterol	cause	erectile dysfunction
+0	toFill	N156267927	curry powder	have	yellow pigment	in	patient	have	acidosis
+0	?	N582875014	cheese	have	neurotoxic chemicals	in	dairy	in	acne
+0	toFill	N1094117159	almond milk	has an effect on	cancer cells	in	check	have	inflammation
+0	?	N1011313301	chicken	have	neurotoxic chemicals	in	dairy	in	acne
+0	toFill	N1992309884	tea	have	lignan	in	vegetarian	have	breast cancer
+0	?	N1135176834	milk	have	calcium	in	dairy	in	acne
+0	toFill	N939417105	turmeric	have	yellow pigment	in	patient	have	kidney stones
+0	toFill	N1920193183	bean	have	cancer cells	have	cholesterol	in	atherosclerosis
+0	toFill	N1287807249	junk food	have	trans fat	have	ldl	in	breast tumors
+0	more to it 	N275884524	egg	has an effect on	cholesterol	cause	artery	in	allergy
+0	toFill	N1291453151	bean	have	cancer cells	have	cholesterol	cause	atherosclerosis
+0	?	N949794073	cheese	have	calcium	in	dairy	in	acne
+0	?	N51562387	kale	have	calcium	in	dairy	in	acne
+0	toFill	N1612045551	turmeric	have	yellow pigment	in	patient	have	acidosis
+0	toFill	N1141756362	carrot	have	beta-carotene	is a	carotenoid	have	urinary tract infections
+1	ok	N965893540	deli meat	have	salmonella	is a	pathogen	caused by	norovirus
+1	ok	N166208001	coconut oil	have	saturated fat	have	cholesterol	associated with	nonalcoholic fatty liver
+0	toFill	N482107194	poultry	associated with	mortality	in	poultry workers	have	reticuloendotheliosis viruses
+0	toFill	N1028498630	bean	have	cancer cells	have	cholesterol	cause	erectile dysfunction
+1	ok	N1648514837	deli meats	have	salmonella	is a	pathogen	caused by	norovirus
+0	toFill	N991325690	soy	is a	animal proteins	such as	neu5gc	cause	inflammation
+0	?	N1317814040	broccoli	is a	calcium	in	dairy	in	acne
+0	?	N645682524	soy milk	have	calcium	in	dairy	in	acne
+1	ok	N97819470	coconut oil	have	saturated fat	has an effect on	cholesterol	in	atherosclerosis
+1	ok	N2147412584	coconut oil	have	saturated fat	has an effect on	cholesterol	associated with	nonalcoholic fatty liver
+0	toFill	N1227326184	curry powder	has an effect on	cancer cells	in	check	have	inflammation
+0	more to it 	N1637332080	poultry	such as	salmonella	is a	pathogen	caused by	norovirus
+0	?	N485211681	chicken	is a	animal products	such as	dairy	in	acne
+0	toFill	N423216025	blueberry	has an effect on	oxidative stress	in	carotenoid	have	urinary tract infections
+0	toFill	N2036142607	cassia cinnamon	have	liver	has an effect on	estrogen	in	breast cancer
+1	ok	N298767389	coconut oil	have	saturated fat	have	cholesterol	cause	atherosclerosis
+0	more to it 	N346011944	breast milk	such as	pcb	is a	xenoestrogen	associated with	birth defects
+1	ok	N769572153	coconut oil	have	saturated fat	have	cholesterol	cause	erectile dysfunction
+0	?	N1894935163	chicken	have	contamination	in	dairy	in	acne
+0	toFill	N1616404249	raisin	cause	blood sugar	have	big spike	in	inflammation
+0	?	N1704980390	processed foods	have	steroid	in	dairy	in	acne
+0	more to it 	N895504226	tomato	have	depression	is a	illness	such as	acne
+1	ok	N1902943532	coconut oil	have	saturated fat	has an effect on	cholesterol	has an effect on	breast cancer
+0	more to it 	N992734905	split peas	has an effect on	cholesterol	cause	artery	in	allergy
+0	toFill	N799847047	poultry	have	mortality	in	poultry workers	have	reticuloendotheliosis viruses
 0	more to it 	186687965	beef	have	iron	in	muscle	cause	inflammation
 1	ok	124208692	broccoli	have	active ingredient	in	vegetarian	have	breast cancer
 1	ok	2125933042	turmeric	have	active ingredient	in	vegetarian	have	chronic disease
-1	ok	361898839	egg	has an effect on	cholesterol	associated with	gestational diabetes		
-0	more to it 	1262347521	gluten	caused by	symptom	such as	nausea		
 1	ok	1470092242	beef	have	saturated fat	has an effect on	cholesterol	has an effect on	breast cancer
 1	ok	1304517909	carob	have	fiber	has an effect on	cholesterol	associated with	gestational diabetes
 0	nonsense	1121694635	dairy products	have	dioxin	in	cigarette	in	atherosclerosis
-1	ok	1986836315	animal foods	such as	dairy	is a	animal products	cause	inflammation
 0	more to it 	59599556	seafood	such as	mercury	cause	brain	caused by	atherosclerosis
 0	more to it 	1645672137	milk	in	girl	associated with	animal protein	cause	inflammation
 0	?	138235900	cranberry	have	cancer cells	have	cholesterol	associated with	nonalcoholic fatty liver
 1	ok	1961163732	carob	have	fiber	has an effect on	cholesterol	cause	erectile dysfunction
-1	ok	788506401	poultry	have	salmonella	in	salmonellosis		
-0	nonsense	1708862206	chicken	have	arachidonic acid	in	fish	have	allergy
-0	nonsense	696704131	milk	have	contaminant	in	fish	have	allergy
 1	ok	1142445357	carob	have	fiber	has an effect on	cholesterol	in	atherosclerosis
 1	ok	376648665	fruit juice	is a	fiber	has an effect on	cholesterol	associated with	gestational diabetes
-1	ok	460407941	chicken	is a	animal products	associated with	weight gain		
 0	more to it 	2073032888	turmeric	is a	dna damage	associated with	treatment	in	cardiovascular disease
 1	ok	1140119152	poultry	have	mortality	in	infant	have	infection
-1	ok	461479100	tea	has an effect on	antioxidant	such as	curcumin	in	pain
 0	more to it 	1126290059	almond	has an effect on	cholesterol	cause	blood	cause	insulin resistance
-1	ok	1947864985	avocado	have	toxin	in	animal products	cause	inflammation
-1	ok	2117586205	bacon	is a	animal products	cause	inflammation		
 1	ok	2087315967	egg	have	saturated fat	have	cholesterol	associated with	gestational diabetes
-0	nonsense	475997625	bean	has an effect on	dioxin	in	fish	have	allergy
-1	ok	1461026593	anchovy	is a	fish	have	fat	in	heart attacks
 0	more to it 	997880479	corn	have	mercury	cause	brain	caused by	atherosclerosis
-0	?	950216365	soy	have	estrogen	have	diabetes	have	aid
-1	ok	1180026668	animal foods	such as	dairy	is a	animal products	associated with	weight gain
 1	ok	845515069	fig	have	fiber	has an effect on	cholesterol	cause	erectile dysfunction
 0	?	1703604263	egg	associated with	diabetes	in	livestock	have	infection
-1	ok	976958736	chicken	have	contaminant	in	animal products	cause	inflammation
 0	more to it 	225437236	poultry	associated with	liver	has an effect on	estrogen	in	breast cancer
 0	more to it 	221964400	avocado	have	cholesterol	cause	artery	associated with	cardiac disease
 0	more to it 	1876967448	pork	have	mrsa	in	pig	have	insulin sensitivity
 1	ok	1574149709	curry powder	has an effect on	cancer cells	have	cholesterol	associated with	nonalcoholic fatty liver
 1	ok	727814271	flax seeds	have	fiber	has an effect on	cholesterol	cause	atherosclerosis
-0	?	1484536607	skim milk	have	estrogen	have	diabetes	is a	chronic diseases
 1	ok	468276510	chocolate	have	saturated fat	have	cholesterol	in	atherosclerosis
 0	more to it 	1647439363	olive	have	fat	such as	brain	caused by	atherosclerosis
 1	ok	1877092570	bacon	is a	animal products	such as	fish oil	has an effect on	inflammation
-0	more to it 	1092593408	seed	is a	plant-based diet	is a	virus		
-1	ok	695733995	avocado	have	cholesterol	associated with	gestational diabetes		
 1	ok	292585417	beef	have	iron	in	animal products	cause	inflammation
-1	ok	1447195360	wheat	associated with	symptom	associated with	diabetes	caused by	obesity
-1	ok	1819494953	flax seeds	have	phytoestrogen	in	breast cancer		
 1	ok	792458294	raisin	cause	blood sugar	is affected by	saturated fat	cause	dysfunction
 1	ok	316653310	dessert	such as	cake	have	cholesterol	has an effect on	breast cancer
 0	nonsense	1734116776	soft drinks	have	benzene	in	cigarette	in	atherosclerosis
 1	ok	854120745	poultry	associated with	mortality	in	infant	have	constipation
-1	ok	491376970	brown rice	has an effect on	diabetes	in	childhood	have	allergy
-1	ok	1436642586	chicken	is a	animal products	have	bacterium	such as	dental plaque
-0	nonsense	310166157	chicken	have	contamination	in	fish	have	allergy
 0	geographic	1677953681	egg	associated with	diabetes	in	china	have	obesity
-1	ok	683398513	wheat	associated with	symptom	such as	asthma		
 1	ok	376887309	sea vegetables	have	fiber	has an effect on	cholesterol	associated with	nonalcoholic fatty liver
-0	more to it 	1261090723	gluten	caused by	symptom	in	infant	have	infection
-1	ok	1477237114	apple	have	toxin	such as	arsenic	cause	skin cancer
-0	nonsense	1583521898	avocado	have	toxin	in	cigarette	in	atherosclerosis
-1	ok	1365819361	brown rice	has an effect on	diabetes	is a	chronic diseases		
-1	ok	507623228	beef	has an effect on	cholesterol	has an effect on	breast cancer		
 1	ok	1836709809	milk	have	pesticide	have	arsenic	cause	skin cancer
 1	ok	716010547	poultry	associated with	mortality	in	poultry workers	associated with	wart
 1	ok	879185920	dessert	such as	cake	have	cholesterol	associated with	nonalcoholic fatty liver
 1	ok	1125380637	split peas	has an effect on	cholesterol	is affected by	saturated fat	cause	dysfunction
-0	nonsense	916549983	apple	have	toxin	in	fish	have	allergy
 1	ok	946119369	nutritional yeast	have	fiber	has an effect on	cholesterol	in	atherosclerosis
-1	ok	1483754583	chicken	have	campylobacter	is a	bacterium	cause	infection
 1	ok	404778993	alfalfa	have	salmonella	is a	pathogen	caused by	norovirus
 1	ok	1704357824	chocolate	have	saturated fat	has an effect on	cholesterol	cause	atherosclerosis
-1	ok	870708424	wheat	associated with	symptom	such as	nausea		
 1	ok	1969184312	seafood	have	pcb	associated with	fat	in	heart attacks
-1	ok	1759123903	wheat	associated with	symptom	in	fibromyalgia		
 1	ok	811921041	beef	have	saturated fat	have	cholesterol	has an effect on	breast cancer
 1	ok	2064146948	oatmeal	have	fiber	has an effect on	cholesterol	in	atherosclerosis
 1	ok	468957749	egg	have	saturated fat	have	cholesterol	cause	erectile dysfunction
 1	ok	1218546804	dried fruit	have	fiber	has an effect on	cholesterol	associated with	nonalcoholic fatty liver
-1	ok	63751024	beef	has an effect on	cholesterol	cause	atherosclerosis		
-0	nonsense	2048029013	processed foods	have	steroid	in	fish	have	allergy
 1	ok	381030616	egg	have	saturated fat	have	cholesterol	has an effect on	breast cancer
-1	ok	2093325010	apple	have	toxin	in	animal products	cause	inflammation
 1	ok	1256445032	dried fruit	have	fiber	has an effect on	cholesterol	cause	erectile dysfunction
-0	nonsense	978010728	egg	associated with	diabetes	associated with	symptom	such as	nausea
-1	ok	2068896843	almond	has an effect on	cholesterol	associated with	gestational diabetes		
 0	?	1432701758	marijuana	have	active ingredient	in	vegetarian	have	chronic disease
-0	more to it 	1919069067	gluten	caused by	symptom	such as	asthma		
 1	ok	2073363970	egg	have	saturated fat	have	cholesterol	cause	atherosclerosis
-0	?	616169742	hop	have	phytoestrogen	in	breast cancer		
-1	ok	219370131	soy	have	calcium	is affected by	protein	has an effect on	colon cancer
-0	more to it 	645442819	food poisoning	cause	fish	have	fat	in	heart attacks
-0	nonsense	91355349	strawberry	in	patient	have	kidney stones		
 1	ok	1607785296	apple	have	age	in	cholesterol	associated with	nonalcoholic fatty liver
-1	ok	1985189937	lentil	have	carb	associated with	pancreatic cancer		
 1	ok	644163816	prebiotic	such as	fiber	has an effect on	cholesterol	associated with	nonalcoholic fatty liver
-0	nonsense	40789516	chicken	have	heterocyclic amines	caused by	fish	have	allergy
-0	nonsense	830685515	wheat	associated with	symptom	associated with	diabetes	have	aid
 1	ok	103065634	nut	have	fat	in	animal products	cause	inflammation
-1	ok	1046855191	split peas	has an effect on	cholesterol	associated with	gestational diabetes		
 0	more to it 	1642548093	walnut	has an effect on	cholesterol	cause	artery	cause	stroke
-0	nonsense	1881383513	cooked meat	have	heterocyclic amines	caused by	fish	have	allergy
-0	more to it 	289892924	gluten	caused by	symptom	associated with	diabetes	caused by	obesity
-0	nonsense	1691746713	tuna	have	mercury	is a	fish	have	allergy
 1	ok	1285480236	oatmeal	have	fiber	has an effect on	cholesterol	has an effect on	breast cancer
-1	ok	614882041	wheat	associated with	symptom	such as	heartburn		
 1	ok	477889041	apple	have	age	in	cholesterol	associated with	gestational diabetes
 1	ok	1539080623	flaxseed	have	lignan	in	vegetarian	have	chronic disease
 1	ok	2058098225	nettle tea	have	iron	in	animal products	associated with	weight gain
-1	ok	1714693492	eating meat	such as	fish	have	dioxin	cause	inflammation
-1	ok	866002128	nut	has an effect on	fat	in	heart attacks		
 1	ok	1053989093	beef	have	saturated fat	have	cholesterol	cause	atherosclerosis
-1	ok	1619930637	beef	have	iron	associated with	diabetes	is a	chronic diseases
-1	ok	1990140209	almond	has an effect on	cholesterol	associated with	nonalcoholic fatty liver		
-1	ok	2081327115	walnut	has an effect on	cholesterol	in	atherosclerosis		
 0	more to it 	545226774	corn syrup	have	mercury	has an effect on	brain	caused by	atherosclerosis
 1	ok	1832837000	flax seeds	have	lignan	in	vegetarian	have	chronic disease
 1	ok	2022840747	whole grains	have	phytate	in	vegetarian	have	breast cancer
-1	ok	1062333631	split peas	has an effect on	cholesterol	has an effect on	breast cancer		
 0	more to it 	1412857961	bean	have	folate	cause	depression	caused by	inflammation
-1	ok	875929519	apple juice	have	arsenic	cause	skin cancer		
 1	ok	340032431	nut	have	fiber	has an effect on	cholesterol	cause	atherosclerosis
-0	nonsense	2034451455	chicken	have	contaminant	in	fish	have	allergy
-0	nonsense	1425659633	tuna	have	mercury	in	fish	have	allergy
-1	ok	633882721	color	in	fish	have	xenoestrogen	associated with	birth defects
 1	ok	1812193559	chicken	is a	animal products	such as	fish oil	has an effect on	inflammation
-1	ok	697384861	tomato	has an effect on	platelet	cause	blood clots		
 1	ok	470111892	chicken	have	iron	in	animal products	cause	inflammation
-0	more to it 	606202825	chicken	cause	fish	have	xenoestrogen	associated with	birth defects
-0	nonsense	1163334517	seafood	have	radioactivity	in	fish	have	allergy
 1	ok	514740385	beef	has an effect on	cholesterol	in	saturated fat	cause	dysfunction
-0	?	741072346	nut	in	life	have	protein	has an effect on	colon cancer
-1	ok	1293368451	animal foods	have	phosphorus	in	protein	has an effect on	colon cancer
 0	more to it 	1489232637	walnut	has an effect on	cholesterol	cause	blood	cause	insulin resistance
-0	correct	1180474205	organ	in	antioxidant	such as	curcumin	in	pain
 1	ok	2100871985	milk	have	steroid hormones	such as	estrogen	in	breast cancer
 1	ok	984846198	almond milk	has an effect on	cancer cells	have	cholesterol	in	atherosclerosis
-1	ok	1431675306	avocado	have	cholesterol	cause	atherosclerosis		
-0	nonsense	1800113386	apple	have	toxin	in	cigarette	in	atherosclerosis
 1	ok	1090018519	beef	have	saturated fat	has an effect on	cholesterol	cause	atherosclerosis
 1	ok	1719612548	beef	have	saturated fat	has an effect on	cholesterol	associated with	nonalcoholic fatty liver
-0	?	2089114486	drinking water	have	estrogen	have	diabetes	caused by	insulin resistance
 0	nonsense	457303093	bean	has an effect on	dioxin	in	cigarette	in	atherosclerosis
-0	more to it 	22892635	mushroom	have	vitamin d	is a	diabetes	caused by	insulin resistance
 1	ok	1824809891	aspartame	cause	adverse effects	in	pregnancy	have	vomit
 1	ok	521801262	nut	have	fiber	has an effect on	cholesterol	in	atherosclerosis
 0	more to it 	853283462	broccoli	have	enzyme	is affected by	plant-based diet	is a	virus
 1	ok	406900294	chicken	have	heme iron	in	animal products	associated with	weight gain
-0	more to it 	2034663948	green tea	is a	bacterium	in	animal products	associated with	weight gain
 1	ok	664850914	fruit juice	is a	fiber	has an effect on	cholesterol	has an effect on	breast cancer
-0	more to it 	1511254850	food poisoning	cause	fish	have	allergy		
-1	ok	479435997	milk	have	calcium	is affected by	protein	has an effect on	colon cancer
 1	ok	305201770	milk	is a	animal products	such as	fish oil	has an effect on	inflammation
-1	ok	1340227433	walnut	has an effect on	cholesterol	associated with	gestational diabetes		
 0	more to it 	1475278694	bean	have	folate	cause	depression	associated with	inflammation
 1	ok	1744395124	chocolate	have	saturated fat	has an effect on	cholesterol	in	atherosclerosis
-1	ok	1679365686	wheat	associated with	symptom	associated with	diabetes	is a	chronic diseases
 1	ok	412974398	egg	have	saturated fat	has an effect on	cholesterol	has an effect on	breast cancer
 1	ok	1153034881	whole foods	have	fiber	has an effect on	cholesterol	has an effect on	breast cancer
-0	?	2120335358	cooked meat	have	estrogen	have	diabetes	caused by	insulin resistance
 0	x shouldn't be allowed as intermediary	1894030243	poultry	have	mortality	in	infant	have	campylobacter infections
 1	ok	1568234640	fig	have	fiber	has an effect on	cholesterol	has an effect on	breast cancer
-1	ok	155262859	dairy products	have	dioxin	cause	inflammation		
 1	ok	253383126	beef	have	saturated fat	have	cholesterol	associated with	nonalcoholic fatty liver
-0	more to it 	1133820107	gluten	caused by	symptom	associated with	diabetes	have	aid
 1	ok	1840195088	curry powder	has an effect on	cancer cells	have	cholesterol	in	atherosclerosis
-1	ok	867697456	beef	has an effect on	cholesterol	associated with	gestational diabetes		
-1	ok	125810779	soy	have	estrogen	in	breast cancer		
 1	ok	532085202	almond milk	has an effect on	cancer cells	have	cholesterol	has an effect on	breast cancer
-0	?	243126114	hop	have	estrogen	have	diabetes	is a	chronic diseases
 0	more to it 	892790982	avocado	have	cholesterol	cause	artery	cause	stroke
 1	ok	639401681	oatmeal	have	fiber	has an effect on	cholesterol	associated with	gestational diabetes
 0	more to it 	738235719	nut	has an effect on	fat	such as	brain	caused by	atherosclerosis
-1	ok	1651433049	chicken	have	bacterium	such as	dental plaque		
 0	more to it 	203436669	beef	have	iron	in	muscle	in	death
-1	ok	1805120421	brown rice	has an effect on	diabetes	associated with	symptom	such as	heartburn
 0	more to it 	2139151606	egg	have	cholesterol	cause	artery	associated with	cardiac disease
 1	ok	1734352414	almond milk	has an effect on	cancer cells	have	cholesterol	associated with	nonalcoholic fatty liver
 1	ok	1915217169	dessert	such as	cake	have	cholesterol	in	atherosclerosis
 1	ok	1901262192	chocolate	have	saturated fat	have	cholesterol	has an effect on	breast cancer
-0	?	1243562967	egg	associated with	diabetes	in	estrogen	in	breast cancer
 1	ok	1397816920	bt corn	is a	pesticide	in	animal products	associated with	weight gain
-1	ok	1750997542	eating meat	such as	fish	have	xenoestrogen	associated with	birth defects
 1	ok	756184688	bean	have	phytate	in	vegetarian	have	breast cancer
-1	ok	420220912	walnut	has an effect on	cholesterol	cause	erectile dysfunction		
-1	ok	70150603	cranberry	have	antioxidant	such as	curcumin	in	pain
 0	geographic	707745022	brown rice	has an effect on	diabetes	in	china	have	obesity
 1	ok	747344042	nut	have	fat	in	animal products	associated with	weight gain
 0	more to it 	25786605	milk	such as	pesticide	in	animal products	cause	inflammation
 0	more to it 	91735184	egg	has an effect on	cholesterol	cause	artery	cause	stroke
-0	more to it 	156759173	green tea	is a	bacterium	in	animal products	cause	inflammation
 0	more to it 	1226369208	beef	has an effect on	cholesterol	cause	artery	cause	stroke
-1	ok	1909791518	apple	have	arsenic	cause	skin cancer		
-1	ok	100808058	white bread	have	antioxidant	such as	curcumin	in	pain
-1	ok	945115640	milk	have	manure	cause	virus		
-1	ok	2036307317	tuna	is a	fish	have	dioxin	cause	inflammation
-1	ok	1246758201	beef	have	saturated fat	cause	dysfunction		
 1	ok	404514373	cheese	have	steroid	such as	estrogen	in	breast cancer
 1	ok	1327471410	split peas	has an effect on	cholesterol	in	saturated fat	cause	dysfunction
 0	nonsense	2125490618	drinking water	have	benzene	in	cigarette	in	atherosclerosis
-1	ok	642827702	sweet potatoes	have	protein	has an effect on	colon cancer		
 1	ok	403622093	sea vegetables	have	fiber	has an effect on	cholesterol	associated with	gestational diabetes
 0	nonsense	1220497700	vitamin	have	mortality	in	infant	have	constipation
 1	ok	1351186647	flaxseed	have	lignan	in	vegetarian	have	breast cancer
 1	ok	1237330927	chocolate	have	calorie	in	saturated fat	cause	dysfunction
-1	ok	690060437	split peas	has an effect on	cholesterol	associated with	nonalcoholic fatty liver		
-1	ok	1848835989	tuna	have	toxin	in	animal products	cause	inflammation
-0	?	944160073	beer	have	phytoestrogen	in	breast cancer		
-0	nonsense	866715369	chocolate	have	fat	in	fish	have	allergy
-1	ok	482242972	egg	has an effect on	cholesterol	in	atherosclerosis		
 0	more to it 	2101699969	egg	have	cholesterol	cause	artery	cause	stroke
 1	ok	913449046	nut	have	nutrition	is affected by	fat	in	heart attacks
 1	ok	1368874026	nut	have	fiber	has an effect on	cholesterol	cause	erectile dysfunction
-1	ok	1421880376	egg	associated with	diabetes	associated with	symptom	in	fibromyalgia
 0	nonsense	447809628	tea	has an effect on	blood pressure	have	spike	in	inflammation
 0	more to it 	1681481871	almond	has an effect on	cholesterol	cause	artery	associated with	cardiac disease
 1	ok	1600226384	pork	have	mrsa	in	pig	have	hepatitis e
-1	ok	2114048142	egg	associated with	diabetes	associated with	symptom	such as	asthma
 0	?	1680997569	cranberry	have	cancer cells	have	cholesterol	has an effect on	breast cancer
 1	ok	125939322	nutritional yeast	have	fiber	has an effect on	cholesterol	cause	erectile dysfunction
-1	ok	1483825160	alfalfa sprout	have	salmonella	in	salmonellosis		
-1	ok	720490734	chicken	have	campylobacter	is a	bacterium	such as	dental plaque
-0	more to it 	1557920155	mushroom	is a	vitamin d	is a	diabetes	is a	chronic diseases
 1	ok	628893056	oatmeal	have	fiber	has an effect on	cholesterol	cause	erectile dysfunction
 1	ok	1023964435	curry powder	has an effect on	cancer cells	have	cholesterol	cause	erectile dysfunction
 0	more to it 	37881907	chocolate	have	fat	such as	brain	caused by	atherosclerosis
-1	ok	115207020	egg	have	cholesterol	in	atherosclerosis		
-0	?	865068049	beer	have	estrogen	have	diabetes	caused by	obesity
-1	ok	2072805277	beef	has an effect on	cholesterol	in	atherosclerosis		
-1	ok	893537132	nettle tea	have	iron	associated with	diabetes	is a	chronic diseases
-0	nonsense	947630579	wheat	associated with	symptom	in	infant	have	campylobacter infections
-1	ok	1003474462	milk	have	contaminant	in	animal products	cause	inflammation
-1	ok	1588715429	cheese	have	calcium	is affected by	protein	has an effect on	colon cancer
-1	ok	529112991	animal foods	have	iron	associated with	diabetes	caused by	obesity
-1	ok	919877793	chocolate	have	saturated fat	cause	dysfunction		
 1	ok	604711952	dessert	such as	cake	have	cholesterol	cause	atherosclerosis
-1	ok	1723472713	egg	have	cholesterol	associated with	gestational diabetes		
 0	?	584389075	brown rice	has an effect on	diabetes	in	livestock	have	infection
 0	?	1911354178	cranberry	have	cancer cells	have	cholesterol	cause	erectile dysfunction
-0	more to it 	1120585574	gluten	caused by	symptom	associated with	diabetes	caused by	insulin resistance
-1	ok	1629966239	beer	have	agent	in	atherosclerosis		
 0	more to it 	1854707733	beef	such as	saturated fat	has an effect on	cholesterol	associated with	nonalcoholic fatty liver
-0	?	1101580380	soy	have	estrogen	have	diabetes	caused by	obesity
-0	more to it 	2060114995	whole grains	have	mineral	such as	arsenic	cause	skin cancer
 0	more to it 	2075089592	beef	such as	saturated fat	have	cholesterol	associated with	nonalcoholic fatty liver
 1	ok	219957373	chicken	have	iron	in	animal products	associated with	weight gain
 0	more to it 	1109636844	chicken	have	iron	in	muscle	cause	inflammation
-0	more to it 	2092072233	green tea	is a	bacterium	cause	infection		
-0	nonsense	1535597673	egg	have	heterocyclic amines	caused by	fish	have	allergy
 0	more to it 	112974737	beef	such as	saturated fat	have	cholesterol	in	atherosclerosis
-0	?	631335300	animal foods	such as	dairy	in	survival	in	colorectal cancer
 0	more to it 	68571521	split peas	has an effect on	cholesterol	cause	artery	cause	stroke
-0	?	1351539584	soy	have	estrogen	have	diabetes	is a	chronic diseases
 1	ok	1532805318	avocado	have	cholesterol	is affected by	saturated fat	cause	dysfunction
-1	ok	202539200	oatmeal	have	carb	associated with	pancreatic cancer		
-1	ok	462118227	egg	associated with	diabetes	associated with	symptom	such as	heartburn
-0	nonsense	1853654962	wheat	associated with	symptom	in	infant	have	infection
 1	ok	146245913	chicken	have	steroid	such as	estrogen	in	breast cancer
 1	ok	103941373	beef	have	saturated fat	have	cholesterol	cause	erectile dysfunction
 1	ok	2107778311	egg	have	saturated fat	have	cholesterol	in	atherosclerosis
 1	ok	1161027075	flax seeds	have	fiber	has an effect on	cholesterol	associated with	nonalcoholic fatty liver
-1	ok	243373945	skim milk	have	estrogen	in	breast cancer		
-0	more to it 	1648693651	mushroom	is a	vitamin d	is a	diabetes	caused by	insulin resistance
 1	ok	298997762	dried fruit	have	fiber	has an effect on	cholesterol	cause	atherosclerosis
 1	ok	871015371	fruit juice	is a	fiber	has an effect on	cholesterol	in	atherosclerosis
 1	ok	490532880	egg	have	saturated fat	has an effect on	cholesterol	cause	atherosclerosis
 1	ok	456798471	sesame seeds	have	lignan	in	vegetarian	have	chronic disease
 0	more to it 	13930888	corn	have	mercury	has an effect on	brain	caused by	atherosclerosis
-1	ok	910599579	animal foods	have	iron	associated with	diabetes	caused by	insulin resistance
 0	more to it 	545577858	nettle tea	have	iron	in	muscle	cause	inflammation
-0	nonsense	106018604	olive	have	fat	in	fish	have	allergy
-0	more to it 	1258198160	gluten	caused by	symptom	have	spike	in	inflammation
-0	nonsense	2061109551	cheese	have	steroid	in	fish	have	allergy
-1	ok	1205337836	anchovy	is a	fish	have	dioxin	cause	inflammation
 1	ok	1404922041	sea vegetables	have	fiber	has an effect on	cholesterol	in	atherosclerosis
-1	ok	1145489916	tuna	is a	fish	have	xenoestrogen	associated with	birth defects
 0	more to it 	1406087351	beef	such as	saturated fat	have	cholesterol	cause	erectile dysfunction
 1	ok	74609817	chocolate	have	saturated fat	has an effect on	cholesterol	cause	erectile dysfunction
 1	ok	1519239996	whole grains	have	fiber	has an effect on	cholesterol	has an effect on	breast cancer
@@ -282,24 +225,17 @@
 1	ok	520320362	processed meats	have	preservative	have	dioxin	cause	inflammation
 0	more to it 	796592713	grape	in	fat	such as	brain	caused by	atherosclerosis
 0	nonsense	1751776781	vitamin	have	mortality	in	poultry workers	associated with	wart
-1	ok	1364065532	split peas	has an effect on	cholesterol	cause	erectile dysfunction		
 1	ok	581273565	fig	have	fiber	has an effect on	cholesterol	associated with	gestational diabetes
 1	ok	643126576	whole foods	have	fiber	has an effect on	cholesterol	cause	atherosclerosis
-1	ok	937052240	egg	have	cholesterol	cause	erectile dysfunction		
 1	ok	1020317274	chocolate	have	saturated fat	have	cholesterol	associated with	gestational diabetes
-0	more to it 	1221027440	gluten	caused by	symptom	in	infant	have	campylobacter infections
 0	more to it 	1290650991	nettle tea	have	iron	in	muscle	in	death
 0	x shouldn't be allowed as intermediary	1528522905	poultry	associated with	mortality	in	infant	have	campylobacter infections
 1	ok	730384251	prebiotic	such as	fiber	has an effect on	cholesterol	associated with	gestational diabetes
 1	ok	1229061226	chicken	have	iron	associated with	diabetes	caused by	insulin resistance
 1	ok	1089710348	nettle tea	have	iron	associated with	diabetes	caused by	insulin resistance
-1	ok	90909964	brown rice	has an effect on	diabetes	associated with	symptom	such as	nausea
 1	ok	1697262558	grape	in	fat	in	animal products	associated with	weight gain
-0	?	1984021926	hop	have	estrogen	have	diabetes	caused by	obesity
-1	ok	2000456754	rice	have	arsenic	cause	skin cancer		
 0	?	701525255	broccoli	have	active ingredient	in	vegetarian	have	chronic disease
 1	ok	1945914464	fruit juice	is a	fiber	has an effect on	cholesterol	cause	atherosclerosis
-0	more to it 	1092900335	gluten	caused by	symptom	associated with	diabetes	is a	chronic diseases
 1	ok	1947296437	apple	have	age	in	cholesterol	cause	atherosclerosis
 1	ok	1747149222	sesame seeds	have	lignan	in	vegetarian	have	breast cancer
 0	nonsense	1222025654	raisin	cause	blood sugar	have	spike	in	inflammation
@@ -307,224 +243,111 @@
 0	more to it 	133340506	barley	is a	grain	has an effect on	brain	caused by	atherosclerosis
 1	ok	1404517338	egg	have	salmonella	is a	pathogen	caused by	norovirus
 1	ok	908526613	flax seeds	have	fiber	has an effect on	cholesterol	in	atherosclerosis
-1	ok	999309272	egg	associated with	diabetes	associated with	symptom	such as	high blood pressure
-0	nonsense	2029350549	poultry	have	contamination	in	fish	have	allergy
 0	more to it 	996416860	turmeric	is a	dna damage	caused by	free radicals	cause	dysfunction
 1	ok	311388535	bean	have	phytate	in	vegetarian	have	chronic disease
 1	ok	76588143	fig	have	fiber	has an effect on	cholesterol	associated with	nonalcoholic fatty liver
 1	ok	1640563320	chicken	have	iron	associated with	diabetes	caused by	obesity
-1	ok	149914121	eating nuts	has an effect on	ldl	in	breast tumors		
 1	ok	925379822	beef	have	steroid hormones	such as	estrogen	in	breast cancer
 1	ok	2084874089	egg	has an effect on	cholesterol	is affected by	saturated fat	cause	dysfunction
 1	ok	1180886838	almond milk	has an effect on	cancer cells	have	cholesterol	associated with	gestational diabetes
-1	ok	1501401654	bacon	is a	animal products	have	bacterium	such as	dental plaque
-1	ok	376904039	egg	have	cholesterol	cause	atherosclerosis		
 1	ok	1419937499	poultry	such as	turkey	have	salmonella	in	salmonellosis
-?	ok	694847274	tomato	have	depression	associated with	inflammation		
-1	ok	462620374	tuna	is a	fish	have	fat	in	heart attacks
-0	more to it 	1125862785	chicken	cause	fish	have	allergy		
-0	?	1714572120	beer	have	estrogen	have	diabetes	caused by	insulin resistance
 0	more to it 	267566428	beef	has an effect on	cholesterol	cause	artery	associated with	cardiac disease
 1	ok	1293192205	seafood	have	pcb	is a	xenoestrogen	associated with	birth defects
-1	ok	426865748	chicken	have	iron	associated with	diabetes	is a	chronic diseases
-0	more to it 	61930670	milk	such as	galactose	associated with	death		
-0	more to it 	1176694847	peppermint	has an effect on	muscle	in	death		
 1	ok	2008456290	flax seeds	have	fiber	has an effect on	cholesterol	cause	erectile dysfunction
-1	ok	1484332419	nut	is a	fat	in	heart attacks		
 1	ok	513124312	processed foods	have	steroid	such as	estrogen	in	breast cancer
 0	more to it 	2146721333	beef	such as	saturated fat	have	cholesterol	has an effect on	breast cancer
 1	ok	1589678822	beef	have	saturated fat	has an effect on	cholesterol	associated with	gestational diabetes
 1	ok	619418145	chicken	is a	animal products	have	fat	in	heart attacks
 1	ok	1481814485	egg	have	saturated fat	has an effect on	cholesterol	associated with	gestational diabetes
-1	ok	1510422378	avocado	have	cholesterol	associated with	nonalcoholic fatty liver		
-1	ok	888577660	beer	have	estrogen	in	breast cancer		
-1	ok	1255467106	egg	associated with	diabetes	caused by	insulin resistance		
 1	ok	1581353102	fruit juice	is a	fiber	has an effect on	cholesterol	cause	erectile dysfunction
-0	nonsense	2084465614	nut	is a	fat	in	fish	have	allergy
-1	ok	351024336	pork	have	protein	has an effect on	colon cancer		
-0	more to it 	1898355362	drinking water	have	estrogen	have	diabetes	have	aid
 0	nonsense	2020996697	brown rice	has an effect on	diabetes	have	treatment	in	cardiovascular disease
-0	nonsense	474613601	wheat	associated with	symptom	have	spike	in	inflammation
 1	ok	271277926	flax seeds	have	fiber	has an effect on	cholesterol	associated with	gestational diabetes
-1	ok	685993040	poultry	have	agent	in	atherosclerosis		
 1	ok	386747325	fig	have	fiber	has an effect on	cholesterol	cause	atherosclerosis
 1	ok	1163067617	whole foods	have	fiber	has an effect on	cholesterol	associated with	gestational diabetes
 1	ok	1099887119	olive	have	fat	in	animal products	cause	inflammation
-1	ok	953720047	egg	associated with	diabetes	caused by	obesity		
-0	?	1925259584	flaxseed	have	phytoestrogen	in	breast cancer		
-1	ok	330965299	bacon	is a	animal products	associated with	weight gain		
 0	more to it 	905226897	nut	have	fat	such as	brain	caused by	atherosclerosis
 1	ok	108627523	dessert	such as	cake	have	cholesterol	associated with	gestational diabetes
 0	more to it 	1622127899	milk	such as	pesticide	have	arsenic	cause	skin cancer
-1	ok	1616814480	cooked meat	have	estrogen	in	breast cancer		
-1	correct	212890	bacon	have	antioxidant	such as	curcumin	in	pain
 0	more to it 	1698083742	egg	have	finding	has an effect on	plant-based diet	is a	virus
 1	ok	951897989	chocolate	have	saturated fat	has an effect on	cholesterol	associated with	gestational diabetes
 1	ok	1895884288	chocolate	have	fat	in	animal products	cause	inflammation
-0	more to it 	1359676489	mushroom	have	vitamin d	is a	diabetes	have	aid
-1	ok	1551788093	egg	associated with	diabetes	is a	chronic diseases		
 0	?	1435218575	cranberry	have	cancer cells	have	cholesterol	in	atherosclerosis
-1	ok	1933504292	chicken	have	salmonella	in	salmonellosis		
 0	more to it 	1399457027	chicken	have	heme iron	in	muscle	in	death
-0	more to it 	1597773934	food poisoning	cause	fish	have	dioxin	cause	inflammation
 1	ok	1559734786	chocolate	have	saturated fat	have	cholesterol	cause	atherosclerosis
-0	?	479149965	cooked meat	have	estrogen	have	diabetes	is a	chronic diseases
-0	?	1377760587	cooked meat	have	estrogen	have	diabetes	caused by	obesity
 1	ok	1976522961	beef	have	saturated fat	have	cholesterol	in	atherosclerosis
-1	ok	2114222552	milk	is a	animal products	associated with	weight gain		
-1	ok	1728402663	olive	have	fat	in	heart attacks		
-1	ok	1073257423	tea	have	antioxidant	such as	curcumin	in	pain
-1	ok	192628934	brown rice	has an effect on	diabetes	associated with	symptom	such as	asthma
-1	ok	1540872695	buttermilk	in	retail	have	strain		
 0	more to it 	1359948623	beef	such as	saturated fat	has an effect on	cholesterol	cause	atherosclerosis
 1	ok	1721032172	carob	have	fiber	has an effect on	cholesterol	has an effect on	breast cancer
-1	ok	1889579446	brown rice	has an effect on	diabetes	associated with	symptom	in	fibromyalgia
-1	ok	1731036862	fenugreek	in	antioxidant	such as	curcumin	in	pain
-1	ok	502481523	soy	have	protein	has an effect on	colon cancer		
 1	ok	552938239	apple	have	age	in	cholesterol	cause	erectile dysfunction
-0	nonsense	1656220816	milk	have	insulin	caused by	fish	have	allergy
 0	?	660310740	marijuana	have	active ingredient	in	vegetarian	have	breast cancer
-1	ok	387331132	brown rice	has an effect on	diabetes	associated with	symptom	such as	high blood pressure
 0	nonsense	2129728952	vitamin	have	mortality	in	infant	have	infection
 0	more to it 	1270036747	tuna	have	mercury	cause	brain	caused by	atherosclerosis
 1	ok	1663303181	carob	have	fiber	has an effect on	cholesterol	cause	atherosclerosis
-1	ok	2001172004	milk	is a	animal products	cause	inflammation		
-0	more to it 	1461524139	gluten	caused by	symptom	such as	high blood pressure		
 1	ok	270402708	egg	has an effect on	cholesterol	in	saturated fat	cause	dysfunction
 0	more to it 	631962985	seed	such as	grain	has an effect on	brain	caused by	atherosclerosis
 1	ok	946363152	nettle tea	have	iron	in	animal products	cause	inflammation
 0	nonsense	2037481892	cooked meat	have	carcinogen	in	cigarette	in	atherosclerosis
 0	x shouldn't be allowed as intermediary	649411603	poultry	associated with	mortality	in	infant	have	infection
 0	more to it 	354518415	tomato	have	depression	associated with	blood	cause	insulin resistance
-1	ok	1784187846	soy milk	have	calcium	is affected by	protein	has an effect on	colon cancer
 0	more to it 	1701056415	beef	such as	saturated fat	have	cholesterol	cause	atherosclerosis
-1	ok	1613964590	avocado	have	cholesterol	cause	erectile dysfunction		
 1	ok	603562422	nut	is a	fat	in	animal products	cause	inflammation
-0	more to it 	1466406587	hop	have	estrogen	have	diabetes	have	aid
 0	more to it 	821363197	beef	such as	saturated fat	has an effect on	cholesterol	associated with	gestational diabetes
-1	ok	685746591	color	in	fish	have	allergy		
 0	nonsense	572368862	cooking meat	cause	carcinogen	in	cigarette	in	atherosclerosis
-0	nonsense	517086983	seafood	have	pcb	in	fish	have	allergy
-0	?	611662072	drinking water	have	estrogen	have	diabetes	is a	chronic diseases
-1	ok	462915076	animal foods	have	iron	associated with	diabetes	is a	chronic diseases
-0	?	834515833	flax	have	phytoestrogen	in	breast cancer		
-1	ok	1166432364	seafood	have	toxin	in	animal products	associated with	weight gain
 0	more to it 	401660970	tuna	have	mercury	has an effect on	brain	caused by	atherosclerosis
 0	more to it 	1713621456	chicken	have	heme iron	in	muscle	cause	inflammation
 1	ok	780914175	bt corn	is a	pesticide	in	animal products	cause	inflammation
-0	more to it 	1961838124	green tea	is a	bacterium	such as	dental plaque		
-0	?	1816364199	hop	have	estrogen	have	diabetes	caused by	insulin resistance
 1	ok	191471134	almond	has an effect on	cholesterol	in	saturated fat	cause	dysfunction
 0	more to it 	1611310187	breast milk	such as	pesticide	have	arsenic	cause	skin cancer
 0	more to it 	1305486152	egg	has an effect on	cholesterol	cause	blood	cause	insulin resistance
 1	ok	301623122	milk	have	pesticide	in	animal products	associated with	weight gain
-1	ok	32020493	wheat	associated with	symptom	associated with	diabetes	caused by	insulin resistance
 1	ok	438307935	nettle tea	have	iron	associated with	diabetes	have	aid
-0	more to it 	980819121	egg	have	choline	such as	death		
-1	ok	82938376	chicken	have	bacterium	in	animal products	associated with	weight gain
 1	ok	1644182065	dried fruit	have	fiber	has an effect on	cholesterol	in	atherosclerosis
 1	ok	1677793043	walnut	has an effect on	cholesterol	is affected by	saturated fat	cause	dysfunction
-0	nonsense	1955981067	eating meat	such as	fish	have	allergy		
 1	ok	1556756077	egg	have	saturated fat	have	cholesterol	associated with	nonalcoholic fatty liver
 1	ok	843979832	processed meat	have	preservative	have	dioxin	cause	inflammation
 0	more to it 	492758428	beef	such as	saturated fat	has an effect on	cholesterol	cause	erectile dysfunction
-1	ok	1941682824	avocado	have	cholesterol	in	atherosclerosis		
 1	ok	1819687943	fruit juice	is a	fiber	has an effect on	cholesterol	associated with	nonalcoholic fatty liver
 0	more to it 	1462197347	milk	such as	pesticide	in	animal products	associated with	weight gain
 1	ok	115125895	oatmeal	have	fiber	has an effect on	cholesterol	associated with	nonalcoholic fatty liver
-1	ok	373430940	bean	has an effect on	dioxin	cause	inflammation		
 0	more to it 	817292171	beef	such as	saturated fat	have	cholesterol	associated with	gestational diabetes
 0	more to it 	111836934	seafood	have	bmaa	in	brain	caused by	atherosclerosis
-1	ok	383926575	walnut	has an effect on	cholesterol	associated with	nonalcoholic fatty liver		
-1	ok	1376169310	split peas	has an effect on	cholesterol	cause	atherosclerosis		
-1	ok	325462842	wheat	have	protein	has an effect on	colon cancer		
 0	more to it 	666986171	egg	has an effect on	cholesterol	cause	artery	associated with	cardiac disease
 1	ok	229080442	curry powder	has an effect on	cancer cells	have	cholesterol	associated with	gestational diabetes
 0	?	167653837	stevia	have	active ingredient	in	vegetarian	have	breast cancer
 0	more to it 	192210707	strawberry	has an effect on	cancer growth	is affected by	plant-based diet	is a	virus
 0	nonsense	1888547216	vitamin	have	mortality	in	infant	have	campylobacter infections
-0	?	863985824	beer	have	estrogen	have	diabetes	is a	chronic diseases
-1	ok	1908838402	french fries	is a	carb	associated with	pancreatic cancer		
-1	ok	1036032414	miso	have	salt	associated with	stomach cancer		
-1	ok	1218896585	egg	have	cholesterol	has an effect on	breast cancer		
-1	ok	1471186830	chicken	is a	animal products	have	bacterium	cause	infection
-0	more to it 	172930294	food poisoning	cause	fish	have	xenoestrogen	associated with	birth defects
 1	ok	506398392	whole grains	have	fiber	has an effect on	cholesterol	associated with	gestational diabetes
-1	ok	922939265	egg	have	cholesterol	associated with	nonalcoholic fatty liver		
 1	ok	488431539	avocado	have	cholesterol	in	saturated fat	cause	dysfunction
-1	ok	1374701422	cinnamon	have	antioxidant	such as	curcumin	in	pain
 1	ok	1050351262	nutritional yeast	have	fiber	has an effect on	cholesterol	associated with	nonalcoholic fatty liver
 1	ok	1212217877	whole foods	have	fiber	has an effect on	cholesterol	in	atherosclerosis
 1	ok	2029288367	food poisoning	such as	salmonella	is a	pathogen	caused by	norovirus
 1	ok	1095863562	sea vegetables	have	fiber	has an effect on	cholesterol	cause	atherosclerosis
-1	ok	1123698900	mushroom	have	antioxidant	such as	curcumin	in	pain
-0	more to it 	862101484	dandelion	such as	antioxidant	such as	curcumin	in	pain
-1	ok	2139171340	egg	has an effect on	cholesterol	cause	atherosclerosis		
 1	ok	589259811	whole foods	have	fiber	has an effect on	cholesterol	associated with	nonalcoholic fatty liver
-1	ok	351168576	milk	have	galactose	associated with	death		
 0	nonsense	1319681369	chicken	have	carcinogen	in	cigarette	in	atherosclerosis
 0	more to it 	2081596100	split peas	has an effect on	cholesterol	cause	artery	associated with	cardiac disease
-1	ok	1963935316	tuna	have	toxin	in	animal products	associated with	weight gain
-0	nonsense	158268959	corn	have	mercury	in	fish	have	allergy
-1	ok	753305847	anchovy	is a	fish	have	xenoestrogen	associated with	birth defects
-1	ok	1466679984	brown rice	has an effect on	diabetes	caused by	insulin resistance		
 1	ok	1612638028	almond	has an effect on	cholesterol	is affected by	saturated fat	cause	dysfunction
-1	ok	1292304006	beef	has an effect on	cholesterol	associated with	nonalcoholic fatty liver		
-1	ok	1480852040	milk	have	protein	has an effect on	colon cancer		
-0	?	1176506418	soy	have	phytoestrogen	in	breast cancer		
-1	ok	1430485761	avocado	have	toxin	such as	arsenic	cause	skin cancer
-1	ok	997773147	color	in	fish	have	dioxin	cause	inflammation
 0	nonsense	3039054	egg	has an effect on	oxidation	have	spike	in	inflammation
 1	ok	891752497	almond milk	has an effect on	cancer cells	have	cholesterol	cause	atherosclerosis
 0	more to it 	189893115	beef	such as	saturated fat	has an effect on	cholesterol	has an effect on	breast cancer
 0	?	623869918	turmeric	have	active ingredient	in	vegetarian	have	breast cancer
-1	ok	94208985	kale	have	antioxidant	such as	curcumin	in	pain
-1	ok	1317600047	egg	has an effect on	cholesterol	associated with	nonalcoholic fatty liver		
 0	more to it 	1390170672	seafood	such as	mercury	has an effect on	brain	caused by	atherosclerosis
-1	ok	1387561990	chicken	is a	animal products	cause	inflammation		
-1	ok	678205857	walnut	have	antioxidant	such as	curcumin	in	pain
-1	ok	681925621	nut	has an effect on	ldl	in	breast tumors		
 1	ok	536313937	whole grains	have	fiber	has an effect on	cholesterol	associated with	nonalcoholic fatty liver
 1	ok	1542554193	junk food	have	preservative	have	dioxin	cause	inflammation
 1	ok	723056602	bt corn	is a	pesticide	have	arsenic	cause	skin cancer
-0	more to it 	762946462	turmeric	is a	dna damage	in	bacterium	such as	dental plaque
 1	ok	1653565196	nut	have	fiber	has an effect on	cholesterol	has an effect on	breast cancer
-0	more to it 	2129608318	chicken	cause	fish	have	dioxin	cause	inflammation
-1	ok	339985517	split peas	has an effect on	cholesterol	in	atherosclerosis		
 1	ok	1411657155	grape	in	fat	in	animal products	cause	inflammation
-0	more to it 	2060637374	cooked meat	have	estrogen	have	diabetes	have	aid
 1	ok	1632544877	dried fruit	have	fiber	has an effect on	cholesterol	has an effect on	breast cancer
 1	ok	752345895	dried fruit	have	fiber	has an effect on	cholesterol	associated with	gestational diabetes
 1	ok	996080842	curry powder	has an effect on	cancer cells	have	cholesterol	has an effect on	breast cancer
-1	ok	1796154696	hop	have	estrogen	in	breast cancer		
-1	ok	124865297	nut	have	fat	in	heart attacks		
-0	nonsense	532693269	grape	in	fat	in	fish	have	allergy
-1	ok	302612140	chicken	have	arsenic	cause	skin cancer		
 1	ok	1037912274	milk	have	insulin	caused by	sucralose	cause	insulin resistance
-1	ok	230621173	almond	has an effect on	cholesterol	cause	atherosclerosis		
-1	ok	348228239	almond	has an effect on	cholesterol	has an effect on	breast cancer		
 0	nonsense	418546347	french fries	associated with	girl	associated with	animal protein	cause	inflammation
-0	more to it 	1493917832	processed foods	have	health	caused by	obesity		
-1	ok	13165377	aspartame	cause	adverse effects	such as	erectile dysfunction		
 0	more to it 	53163647	beef	have	iron	associated with	diabetes	have	aid
-1	ok	1898123898	brown rice	has an effect on	diabetes	caused by	obesity		
-0	nonsense	1772753338	tuna	is a	fish	have	allergy		
-0	more to it 	155136296	tomato	have	depression	caused by	inflammation		
 1	ok	1594554246	whole grains	have	fiber	has an effect on	cholesterol	cause	erectile dysfunction
-0	more to it 	1175386457	turmeric	is a	dna damage	in	bacterium	cause	infection
 0	?	749377698	chicken	have	arachidonic acid	in	vegetarian	have	chronic disease
-0	?	1035960195	soy	have	estrogen	have	diabetes	caused by	insulin resistance
-0	more to it 	99372538	mushroom	have	vitamin d	is a	diabetes	caused by	obesity
 1	ok	1940172590	beef	have	saturated fat	have	cholesterol	associated with	gestational diabetes
-1	ok	130262176	egg	has an effect on	ldl	in	breast tumors		
 0	?	1619697980	stevia	have	active ingredient	in	vegetarian	have	chronic disease
-0	nonsense	48639492	corn syrup	have	mercury	is a	fish	have	allergy
-1	ok	1276027772	chocolate	have	fat	in	heart attacks		
-1	ok	1355338743	alfalfa sprout	have	salmonella	is a	pathogen	caused by	norovirus
 1	ok	1627360720	nutritional yeast	have	fiber	has an effect on	cholesterol	has an effect on	breast cancer
 1	ok	1962757030	chocolate	have	saturated fat	have	cholesterol	associated with	nonalcoholic fatty liver
 1	ok	1428896679	beef	have	iron	associated with	diabetes	caused by	insulin resistance
-1	ok	1622363986	avocado	have	cholesterol	has an effect on	breast cancer		
 1	ok	1301298719	fig	have	fiber	has an effect on	cholesterol	in	atherosclerosis
 1	ok	913254788	chocolate	have	fat	in	animal products	associated with	weight gain
 1	ok	1286846892	walnut	has an effect on	cholesterol	in	saturated fat	cause	dysfunction
@@ -532,154 +355,194 @@
 1	ok	367395519	prebiotic	such as	fiber	has an effect on	cholesterol	has an effect on	breast cancer
 0	more to it 	1742291756	walnut	has an effect on	cholesterol	cause	artery	associated with	cardiac disease
 1	ok	917638769	egg	have	cholesterol	in	saturated fat	cause	dysfunction
-0	nonsense	458550356	multivitamin	have	copper	in	fish	have	allergy
 1	ok	2120611378	bacon	is a	animal products	have	fat	in	heart attacks
-0	more to it 	1001727953	animal foods	have	iron	in	muscle	in	death
-0	more to it 	962346387	mushroom	is a	vitamin d	is a	diabetes	caused by	obesity
 1	ok	1364112477	apple	have	age	in	cholesterol	in	atherosclerosis
 1	ok	1507963971	egg	have	cholesterol	is affected by	saturated fat	cause	dysfunction
 1	ok	1821110813	milk	have	amino acids	in	animal protein	cause	inflammation
 1	ok	758810431	dessert	such as	cake	have	cholesterol	cause	erectile dysfunction
 1	ok	2013559865	chocolate	have	saturated fat	have	cholesterol	cause	erectile dysfunction
 1	ok	1700306440	curry powder	has an effect on	cancer cells	have	cholesterol	cause	atherosclerosis
-1	ok	1638037445	whipped cream	have	protein	has an effect on	colon cancer		
-0	more to it 	1083845286	mushroom	have	vitamin d	is a	diabetes	is a	chronic diseases
 1	ok	45502019	poultry	have	salmonella	is a	pathogen	caused by	norovirus
-1	ok	731623487	animal foods	have	iron	associated with	diabetes	have	aid
-1	ok	1540096676	egg	has an effect on	cholesterol	cause	erectile dysfunction		
-1	ok	1044985614	anchovy	is a	fish	have	allergy		
 0	more to it 	350586517	avocado	have	cholesterol	cause	blood	cause	insulin resistance
-0	nonsense	652112164	corn syrup	have	mercury	in	fish	have	allergy
-0	more to it 	142634491	cruciferous vegetables	have	enzyme	is affected by	plant-based diet	is a	virus
-0	nonsense	1959910037	seafood	have	toxin	in	cigarette	in	atherosclerosis
-0	more to it 	122349851	egg	associated with	diabetes	have	aid		
 1	ok	2128588942	flax seeds	have	fiber	has an effect on	cholesterol	has an effect on	breast cancer
 0	more to it 	1238135840	celery	have	nitrate	is a	health	caused by	obesity
 1	ok	1750061595	whole grains	have	fiber	has an effect on	cholesterol	in	atherosclerosis
 0	more to it 	1180640505	corn syrup	have	mercury	cause	brain	caused by	atherosclerosis
-1	ok	1597849096	avocado	have	toxin	in	animal products	associated with	weight gain
-0	more to it 	1912733641	gluten	caused by	symptom	in	fibromyalgia		
 1	ok	1420199490	chocolate	have	saturated fat	has an effect on	cholesterol	has an effect on	breast cancer
 1	ok	692823282	nut	has an effect on	fat	in	animal products	cause	inflammation
 0	more to it 	1348781358	pork	have	parasite	such as	brain	caused by	atherosclerosis
 1	ok	1062063243	nutritional yeast	have	fiber	has an effect on	cholesterol	associated with	gestational diabetes
 0	more to it 	453146658	beef	such as	saturated fat	has an effect on	cholesterol	in	atherosclerosis
-1	ok	446956690	seafood	have	toxin	such as	arsenic	cause	skin cancer
 1	ok	469834567	milk	is a	animal products	have	fat	in	heart attacks
-1	ok	12271868	kale	have	calcium	is affected by	protein	has an effect on	colon cancer
 1	ok	679320664	almond milk	has an effect on	cancer cells	have	cholesterol	cause	erectile dysfunction
 1	ok	1210638743	prebiotic	such as	fiber	has an effect on	cholesterol	cause	atherosclerosis
 1	ok	1435407724	sea vegetables	have	fiber	has an effect on	cholesterol	has an effect on	breast cancer
-0	nonsense	1557622369	strawberry	in	patient	have	acidosis		
-0	more to it 	2128943492	mushroom	is a	vitamin d	is a	diabetes	have	aid
-0	more to it 	1768919760	peppermint	has an effect on	muscle	cause	inflammation		
 0	more to it 	1411709825	lavender	have	finding	has an effect on	plant-based diet	is a	virus
-1	ok	737275934	wheat	associated with	symptom	such as	high blood pressure		
-1	ok	939899751	milk	is a	animal products	have	bacterium	such as	dental plaque
 1	ok	1121418403	egg	have	saturated fat	has an effect on	cholesterol	in	atherosclerosis
-1	ok	1034625048	miso	have	protein	has an effect on	colon cancer		
-0	nonsense	2048308721	seafood	have	toxin	in	fish	have	allergy
-0	nonsense	1802268899	brown rice	has an effect on	diabetes	have	aid		
-1	ok	921752409	drinking water	have	estrogen	in	breast cancer		
 0	nonsense	117484804	milk	have	insulin	have	spike	in	inflammation
 0	?	96470118	cranberry	have	cancer cells	have	cholesterol	associated with	gestational diabetes
-0	nonsense	33800147	strawberry	in	patient	in	tumor		
 1	ok	242658665	nutritional yeast	have	fiber	has an effect on	cholesterol	cause	atherosclerosis
 1	ok	1628828986	nut	have	fiber	has an effect on	cholesterol	associated with	gestational diabetes
-1	ok	1263942633	egg	have	salmonella	in	salmonellosis		
-0	more to it 	1718382128	animal foods	have	iron	in	muscle	cause	inflammation
 0	more to it 	169287857	split peas	has an effect on	cholesterol	cause	blood	cause	insulin resistance
-0	?	356404001	skim milk	have	estrogen	have	diabetes	caused by	obesity
 0	x shouldn't be allowed as intermediary	1082785276	poultry	have	mortality	in	infant	have	constipation
-0	nonsense	1352304397	seafood	such as	mercury	in	fish	have	allergy
-0	nonsense	1027919387	wheat	associated with	symptom	in	infant	have	constipation
 1	ok	2091483673	whole foods	have	fiber	has an effect on	cholesterol	cause	erectile dysfunction
-0	nonsense	525039025	nut	have	fat	in	fish	have	allergy
-0	nonsense	1242072813	avocado	have	toxin	in	fish	have	allergy
-1	ok	1573369379	color	in	fish	have	fat	in	heart attacks
 0	more to it 	2047048257	turmeric	is a	dna damage	is affected by	free radicals	cause	dysfunction
-0	nonsense	757341302	dairy products	have	dioxin	in	fish	have	allergy
 1	ok	1196031703	beef	have	iron	associated with	diabetes	caused by	obesity
-1	ok	1410901980	poultry	have	arsenic	cause	skin cancer		
 1	ok	1405591261	prebiotic	such as	fiber	has an effect on	cholesterol	in	atherosclerosis
 1	ok	432045367	chicken	have	heme iron	in	animal products	cause	inflammation
-0	nonsense	1486661416	seafood	such as	mercury	is a	fish	have	allergy
-1	ok	1329749080	tuna	have	toxin	such as	arsenic	cause	skin cancer
-0	nonsense	1747106730	corn	have	mercury	is a	fish	have	allergy
 0	more to it 	662020943	beef	has an effect on	cholesterol	cause	blood	cause	insulin resistance
 1	ok	1007538033	chicken	have	preservative	have	dioxin	cause	inflammation
-0	nonsense	1886514094	egg	associated with	diabetes	in	childhood	have	allergy
 0	more to it 	1425333525	egg	have	cholesterol	cause	blood	cause	insulin resistance
 1	ok	1457228394	nut	have	fiber	has an effect on	cholesterol	associated with	nonalcoholic fatty liver
-0	nonsense	197473742	tuna	have	toxin	in	fish	have	allergy
-1	ok	1494267105	alfalfa	have	salmonella	in	salmonellosis		
 0	?	1810845210	cranberry	have	cancer cells	have	cholesterol	cause	atherosclerosis
-1	ok	1905639503	grape	in	fat	in	heart attacks		
 1	ok	228443565	carob	have	fiber	has an effect on	cholesterol	associated with	nonalcoholic fatty liver
 0	more to it 	1881387821	grapefruit	has an effect on	enzyme	is affected by	plant-based diet	is a	virus
 0	more to it 	152861579	gluten	in	grain	has an effect on	brain	caused by	atherosclerosis
-1	ok	1953168051	walnut	has an effect on	cholesterol	has an effect on	breast cancer		
 1	ok	2019773442	chicken	have	iron	associated with	diabetes	have	aid
-0	?	661044802	brown rice	has an effect on	diabetes	in	estrogen	in	breast cancer
 1	ok	1178137202	apple	have	age	in	cholesterol	has an effect on	breast cancer
-0	nonsense	555128466	chicken	have	steroid	in	fish	have	allergy
 1	ok	1437696473	milk	have	pesticide	in	animal products	cause	inflammation
-1	ok	1281034942	chicken	have	bacterium	cause	infection		
-1	ok	540314305	seafood	have	toxin	in	animal products	cause	inflammation
 1	ok	237887860	flax seeds	have	lignan	in	vegetarian	have	breast cancer
-1	ok	754985336	alcoholic beverages	have	agent	in	atherosclerosis		
-1	ok	523748985	animal foods	have	iron	in	animal products	cause	inflammation
 0	nonsense	504428469	egg	associated with	diabetes	have	treatment	in	cardiovascular disease
-0	nonsense	1088962623	poultry	have	fecal contamination	have	fish	have	allergy
-1	ok	1868502674	chicken	have	bacterium	in	animal products	cause	inflammation
-0	more to it 	890941036	beer	have	estrogen	have	diabetes	have	aid
-1	ok	429505562	almond	has an effect on	cholesterol	cause	erectile dysfunction		
 1	ok	276596841	beef	have	saturated fat	has an effect on	cholesterol	in	atherosclerosis
-0	more to it 	2073422778	gluten	caused by	symptom	such as	heartburn		
 1	ok	391357536	chocolate	have	saturated fat	has an effect on	cholesterol	associated with	nonalcoholic fatty liver
 1	ok	374984412	oatmeal	have	fiber	has an effect on	cholesterol	cause	atherosclerosis
 1	ok	122051584	whole grains	have	fiber	has an effect on	cholesterol	cause	atherosclerosis
-1	ok	156357802	bacon	is a	animal products	have	bacterium	cause	infection
 0	?	840406151	chicken	have	arachidonic acid	in	vegetarian	have	breast cancer
 1	ok	292333839	prebiotic	such as	fiber	has an effect on	cholesterol	cause	erectile dysfunction
-1	ok	1436341012	milk	is a	animal products	have	bacterium	cause	infection
 0	more to it 	1345945532	breast milk	such as	pesticide	in	animal products	cause	inflammation
 1	ok	981295764	beef	have	saturated fat	has an effect on	cholesterol	cause	erectile dysfunction
-1	ok	659652627	milk	have	contaminant	in	animal products	associated with	weight gain
-1	ok	1820303696	egg	has an effect on	cholesterol	has an effect on	breast cancer		
-0	more to it 	2056774076	skim milk	have	estrogen	have	diabetes	have	aid
 0	more to it 	1861929298	breast milk	such as	pesticide	in	animal products	associated with	weight gain
 1	ok	1600144560	olive	have	fat	in	animal products	associated with	weight gain
-1	ok	239944927	eating meat	such as	fish	have	fat	in	heart attacks
-0	more to it 	1754429231	beef	such as	saturated fat	cause	dysfunction		
-1	ok	355597304	grape	have	antioxidant	such as	curcumin	in	pain
-1	ok	293275424	chicken	have	contaminant	in	animal products	associated with	weight gain
-1	ok	1312624773	apple	have	toxin	in	animal products	associated with	weight gain
-0	more to it 	361311511	chicken	cause	fish	have	fat	in	heart attacks
-1	ok	1753190907	flaxseed	have	chain omega-3s	in	fish oil	has an effect on	inflammation
-1	ok	662914160	food poisoning	such as	salmonella	in	salmonellosis		
 1	ok	1535702571	chicken	have	iron	in	muscle	in	death
 1	ok	757090925	whole grains	have	phytate	in	vegetarian	have	chronic disease
-1	ok	795265226	walnut	has an effect on	cholesterol	cause	atherosclerosis		
-1	ok	283619829	animal foods	such as	dairy	have	dioxin	cause	inflammation
-0	more to it 	1887901792	nettle tea	is a	mineral	such as	arsenic	cause	skin cancer
-1	ok	754326590	animal foods	such as	protein	has an effect on	colon cancer		
 1	ok	57144675	egg	have	saturated fat	has an effect on	cholesterol	associated with	nonalcoholic fatty liver
 1	ok	757596359	dried fruit	have	preservative	have	dioxin	cause	inflammation
-0	nonsense	90193950	tuna	have	toxin	in	cigarette	in	atherosclerosis
-1	ok	1014695881	almond	has an effect on	cholesterol	in	atherosclerosis		
-0	more to it 	1697783045	gluten	caused by	symptom	in	infant	have	constipation
-0	nonsense	1394854008	nut	has an effect on	fat	in	fish	have	allergy
-1	ok	1194659341	egg	have	saturated fat	cause	dysfunction		
 1	ok	2098332726	beef	has an effect on	cholesterol	is affected by	saturated fat	cause	dysfunction
 1	ok	499413406	nut	is a	fat	in	animal products	associated with	weight gain
 1	ok	1475945377	sea vegetables	have	fiber	has an effect on	cholesterol	cause	erectile dysfunction
-0	?	1510563586	drinking water	have	estrogen	have	diabetes	caused by	obesity
-1	ok	1823631848	animal foods	have	iron	in	animal products	associated with	weight gain
-1	ok	1871845485	beef	has an effect on	cholesterol	cause	erectile dysfunction		
 1	ok	268867697	nut	has an effect on	fat	in	animal products	associated with	weight gain
 1	ok	1550473034	chicken	have	salmonella	is a	pathogen	caused by	norovirus
 0	x shouldn't be allowed as intermediary	1036289109	poultry	have	mortality	in	poultry workers	associated with	wart
-0	?	1369119024	skim milk	have	estrogen	have	diabetes	caused by	insulin resistance
 1	ok	1509548663	nettle tea	have	iron	associated with	diabetes	caused by	obesity
-1	ok	1307740469	turmeric	have	curcumin	in	pain		
+1	ok	N1700737757	coconut oil	have	saturated fat	cause	dysfunction
+0	nonsense	N1355216783	stevia	have	big spike	in	inflammation
+1	ok	N950505036	nut	have	phytoestrogen	in	breast cancer
+1	ok	N1424679019	deli meat	have	salmonella	in	salmonellosis
+0	?	N614099550	egg	have	carotenoid	have	urinary tract infections
+0	toFill	N1690555978	french fries	associated with	girl	have	endometrial cancer
+1	toFill	N520354055	deli meats	have	salmonella	in	salmonellosis
+0	toFill	N1939746425	milk	in	girl	have	endometrial cancer
+0	more to it 	N917242324	poultry	such as	salmonella	in	salmonellosis
+0	toFill	N1067017830	milk	cause	uric acid	in	gout
+0	toFill	N625082802	milk	has an effect on	uric acid	in	gout
+1	ok	361898839	egg	has an effect on	cholesterol	associated with	gestational diabetes
+1	ok	788506401	poultry	have	salmonella	in	salmonellosis
+1	ok	460407941	chicken	is a	animal products	associated with	weight gain
+1	ok	2117586205	bacon	is a	animal products	cause	inflammation
+0	more to it 	1092593408	seed	is a	plant-based diet	is a	virus
+1	ok	695733995	avocado	have	cholesterol	associated with	gestational diabetes
+1	ok	1819494953	flax seeds	have	phytoestrogen	in	breast cancer
+1	ok	507623228	beef	has an effect on	cholesterol	has an effect on	breast cancer
+1	ok	63751024	beef	has an effect on	cholesterol	cause	atherosclerosis
+1	ok	2068896843	almond	has an effect on	cholesterol	associated with	gestational diabetes
+0	?	616169742	hop	have	phytoestrogen	in	breast cancer
+0	nonsense	91355349	strawberry	in	patient	have	kidney stones
+1	ok	1985189937	lentil	have	carb	associated with	pancreatic cancer
+1	ok	1046855191	split peas	has an effect on	cholesterol	associated with	gestational diabetes
+1	ok	866002128	nut	has an effect on	fat	in	heart attacks
+1	ok	1990140209	almond	has an effect on	cholesterol	associated with	nonalcoholic fatty liver
+1	ok	2081327115	walnut	has an effect on	cholesterol	in	atherosclerosis
+1	ok	1062333631	split peas	has an effect on	cholesterol	has an effect on	breast cancer
+1	ok	875929519	apple juice	have	arsenic	cause	skin cancer
+0	more to it 	697384861	tomato	has an effect on	platelet	cause	blood clots
+1	ok	1431675306	avocado	have	cholesterol	cause	atherosclerosis
+1	ok	1340227433	walnut	has an effect on	cholesterol	associated with	gestational diabetes
+1	ok	155262859	dairy products	have	dioxin	cause	inflammation
+1	ok	867697456	beef	has an effect on	cholesterol	associated with	gestational diabetes
+1	ok	125810779	soy	have	estrogen	in	breast cancer
+1	ok	420220912	walnut	has an effect on	cholesterol	cause	erectile dysfunction
+1	ok	1909791518	apple	have	arsenic	cause	skin cancer
+1	ok	945115640	milk	have	manure	cause	virus
+1	ok	1246758201	beef	have	saturated fat	cause	dysfunction
+1	ok	690060437	split peas	has an effect on	cholesterol	associated with	nonalcoholic fatty liver
+0	?	944160073	beer	have	phytoestrogen	in	breast cancer
+1	ok	482242972	egg	has an effect on	cholesterol	in	atherosclerosis
+1	ok	115207020	egg	have	cholesterol	in	atherosclerosis
+1	ok	2072805277	beef	has an effect on	cholesterol	in	atherosclerosis
+1	ok	919877793	chocolate	have	saturated fat	cause	dysfunction
+1	ok	1723472713	egg	have	cholesterol	associated with	gestational diabetes
+1	ok	1629966239	beer	have	agent	in	atherosclerosis
+1	ok	202539200	oatmeal	have	carb	associated with	pancreatic cancer
+1	ok	243373945	skim milk	have	estrogen	in	breast cancer
+1	ok	1364065532	split peas	has an effect on	cholesterol	cause	erectile dysfunction
+1	ok	937052240	egg	have	cholesterol	cause	erectile dysfunction
+1	ok	2000456754	rice	have	arsenic	cause	skin cancer
+1	ok	149914121	eating nuts	has an effect on	ldl	in	breast tumors
+1	ok	376904039	egg	have	cholesterol	cause	atherosclerosis
+0	more to it 	694847274	tomato	have	depression	associated with	inflammation
+0	more to it 	1176694847	peppermint	has an effect on	muscle	in	death
+1	ok	1484332419	nut	is a	fat	in	heart attacks
+1	ok	1510422378	avocado	have	cholesterol	associated with	nonalcoholic fatty liver
+1	ok	888577660	beer	have	estrogen	in	breast cancer
+1	ok	1255467106	egg	associated with	diabetes	caused by	insulin resistance
+1	ok	685993040	poultry	have	agent	in	atherosclerosis
+1	ok	953720047	egg	associated with	diabetes	caused by	obesity
+0	?	1925259584	flaxseed	have	phytoestrogen	in	breast cancer
+1	ok	330965299	bacon	is a	animal products	associated with	weight gain
+1	ok	1616814480	cooked meat	have	estrogen	in	breast cancer
+1	ok	1933504292	chicken	have	salmonella	in	salmonellosis
+1	ok	2114222552	milk	is a	animal products	associated with	weight gain
+1	ok	1728402663	olive	have	fat	in	heart attacks
+1	ok	2001172004	milk	is a	animal products	cause	inflammation
+1	ok	1613964590	avocado	have	cholesterol	cause	erectile dysfunction
+0	?	834515833	flax	have	phytoestrogen	in	breast cancer
+0	more to it 	980819121	egg	have	choline	such as	death
+1	ok	1941682824	avocado	have	cholesterol	in	atherosclerosis
+1	ok	373430940	bean	has an effect on	dioxin	cause	inflammation
+1	ok	383926575	walnut	has an effect on	cholesterol	associated with	nonalcoholic fatty liver
+1	ok	1376169310	split peas	has an effect on	cholesterol	cause	atherosclerosis
+1	ok	1908838402	french fries	is a	carb	associated with	pancreatic cancer
+1	ok	1036032414	miso	have	salt	associated with	stomach cancer
+1	ok	1218896585	egg	have	cholesterol	has an effect on	breast cancer
+1	ok	922939265	egg	have	cholesterol	associated with	nonalcoholic fatty liver
+1	ok	2139171340	egg	has an effect on	cholesterol	cause	atherosclerosis
+1	ok	351168576	milk	have	galactose	associated with	death
+1	ok	1466679984	brown rice	has an effect on	diabetes	caused by	insulin resistance
+1	ok	1292304006	beef	has an effect on	cholesterol	associated with	nonalcoholic fatty liver
+0	?	1176506418	soy	have	phytoestrogen	in	breast cancer
+1	ok	1317600047	egg	has an effect on	cholesterol	associated with	nonalcoholic fatty liver
+1	ok	1387561990	chicken	is a	animal products	cause	inflammation
+1	ok	681925621	nut	has an effect on	ldl	in	breast tumors
+1	ok	339985517	split peas	has an effect on	cholesterol	in	atherosclerosis
+1	ok	1796154696	hop	have	estrogen	in	breast cancer
+1	ok	124865297	nut	have	fat	in	heart attacks
+1	ok	302612140	chicken	have	arsenic	cause	skin cancer
+1	ok	230621173	almond	has an effect on	cholesterol	cause	atherosclerosis
+1	ok	348228239	almond	has an effect on	cholesterol	has an effect on	breast cancer
+0	more to it 	1493917832	processed foods	have	health	caused by	obesity
+1	ok	13165377	aspartame	cause	adverse effects	such as	erectile dysfunction
+1	ok	1898123898	brown rice	has an effect on	diabetes	caused by	obesity
+0	more to it 	155136296	tomato	have	depression	caused by	inflammation
+1	ok	130262176	egg	has an effect on	ldl	in	breast tumors
+1	ok	1276027772	chocolate	have	fat	in	heart attacks
+1	ok	1622363986	avocado	have	cholesterol	has an effect on	breast cancer
+1	ok	1540096676	egg	has an effect on	cholesterol	cause	erectile dysfunction
+0	more to it 	122349851	egg	associated with	diabetes	have	aid
+0	nonsense	1557622369	strawberry	in	patient	have	acidosis
+0	more to it 	1768919760	peppermint	has an effect on	muscle	cause	inflammation
+0	nonsense	1802268899	brown rice	has an effect on	diabetes	have	aid
+1	ok	921752409	drinking water	have	estrogen	in	breast cancer
+1	ok	1263942633	egg	have	salmonella	in	salmonellosis
+1	ok	1494267105	alfalfa	have	salmonella	in	salmonellosis
+1	ok	1905639503	grape	in	fat	in	heart attacks
+1	ok	1953168051	walnut	has an effect on	cholesterol	has an effect on	breast cancer
+1	ok	754985336	alcoholic beverages	have	agent	in	atherosclerosis
+1	ok	429505562	almond	has an effect on	cholesterol	cause	erectile dysfunction
+1	ok	1820303696	egg	has an effect on	cholesterol	has an effect on	breast cancer
+0	more to it 	1754429231	beef	such as	saturated fat	cause	dysfunction
+1	ok	662914160	food poisoning	such as	salmonella	in	salmonellosis
+1	ok	795265226	walnut	has an effect on	cholesterol	cause	atherosclerosis
+1	ok	1014695881	almond	has an effect on	cholesterol	in	atherosclerosis
+1	ok	1194659341	egg	have	saturated fat	cause	dysfunction
+1	ok	1871845485	beef	has an effect on	cholesterol	cause	erectile dysfunction
+1	ok	1307740469	turmeric	have	curcumin	in	pain

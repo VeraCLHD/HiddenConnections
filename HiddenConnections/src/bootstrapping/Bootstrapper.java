@@ -365,11 +365,12 @@ public class Bootstrapper {
 	 */
 	public void lookForPatternMatch(String sentenceString, String pattern) {
 		Set<Pair<String>> candidates = new HashSet<Pair<String>>();
-		String temp1 = "";
-	    String temp2 = "";
+
 		final Matcher matcher = Pattern.compile("\\b" +
 				 Pattern.quote(pattern) + "\\b").matcher(sentenceString);
 		while(matcher.find()){
+			String temp1 = "";
+		    String temp2 = "";
 		    String before = sentenceString.substring(0, matcher.start()).trim();
 		    String after = sentenceString.substring(matcher.end()).trim();
 		    

@@ -7,11 +7,8 @@ stars	berries	are the	IS-A
 carcinogens	nitrosamines	are the	IS-A
 prebiotic	fiber	acts as a	IS-A
 pro-oxidant	high fructose corn syrup	acts as a	IS-A
-poultry	campylobacter	are	IS-A
 chemicals	xenoestrogens	are	IS-A
-bioequivalent	omega	are	IS-A
 chemical	phthalates	are	IS-A
-exposures	drugs	are	IS-A
 insulin	who	are	IS-A
 roots	carrots	are	IS-A
 iodine	vegetarians	are	IS-A
@@ -20,8 +17,7 @@ diseases	liver cancer	are	IS-A
 outpouchings	diverticula	are	IS-A
 killer	strokes	are	IS-A
 chemical	organochlorines	are	IS-A
-suffering	odds	are	IS-A
-potato chips	vegetables	are	IS-A
+fat	greens	are	IS-A
 phytonutrient-rich	candy	are	IS-A
 water	tomatoes	are	IS-A
 estrogen receptor	breast tumors	are	IS-A
@@ -30,11 +26,12 @@ flax seeds	omega	are	IS-A
 flax seeds	breast cancer survival	are	IS-A
 fruits	pesticides	are	IS-A
 fruit	snacks	are	IS-A
-supplement	supplements	are	IS-A
+fat	phytonutrients	are	IS-A
+fat	salad	are	IS-A
 ballooning bulges	abdominal aortic aneurysms	are	IS-A
 preservatives	nitrites	are	IS-A
 fruit	beans	are	IS-A
-chemicals	birds	are	IS-A
+fat	smoke	are	IS-A
 seeds	grains	are	IS-A
 poultry	salmonella	are	IS-A
 low-calorie diets	plant-based diets	are	IS-A
@@ -75,48 +72,35 @@ product	vinegar	is a	IS-A
 stress	exercise	is a	IS-A
 trigger	milk	is a	IS-A
 poison	fluoride	is a	IS-A
-gmo	gmo soy	is	IS-A
-meat consumption	neurotoxin	is	IS-A
+pork	ham	is	IS-A
+butyrate	colon	is	IS-A
 nitrate	beet juice	is	IS-A
 vegetarian	daily diet	is	IS-A
 beef	saturated fat	is	IS-A
 sodium bicarbonate	baking soda	is	IS-A
+cataracts	vision loss	is	IS-A
 cancer	lymphoma	is	IS-A
+vegetables	diet	is	IS-A
+pain	colic	is	IS-A
 dairy products	american diet	is	IS-A
+acid producing	diet	is	IS-A
 heart disease	diseases	is	IS-A
 parkinson	leading killer	is	IS-A
 bmaa	neurotoxins	is	IS-A
 fat	brain	is	IS-A
 fish oil	supplements	is	IS-A
+bell peppers	vegetable	is	IS-A
+choline	death	is	IS-A
+igf	signal	is	IS-A
 pizza	teens	is	IS-A
+apple juice	flight	is	IS-A
+hibiscus	herbal tea	is	IS-A
+back pain	sciatica	is	IS-A
 aspirin	drug	is	IS-A
 breastmilk	infants	is	IS-A
 butyrate	signal	is	IS-A
 mineral	nettle tea	is	IS-A
 tea	drink	is	IS-A
-matcha	tea	is	IS-A
-sodium intake	mediterranean diet	is	IS-A
-skim milk	milk	is	IS-A
-pritikin	who	is	IS-A
-vitamin d	mushrooms	is	IS-A
-boiling	antioxidants	is	IS-A
-fiber	fruit juice	is	IS-A
-beans	tea	is	IS-A
-pork	ham	is	IS-A
-butyrate	colon	is	IS-A
-diet	nutrition	is	IS-A
-cataracts	vision loss	is	IS-A
-vegetables	diet	is	IS-A
-pain	colic	is	IS-A
-fish consumption	salmon	is	IS-A
-acid producing	diet	is	IS-A
-bell peppers	vegetable	is	IS-A
-choline	death	is	IS-A
-igf	signal	is	IS-A
-apple juice	flight	is	IS-A
-hibiscus	herbal tea	is	IS-A
-back pain	sciatica	is	IS-A
-protein	plant protein	is	IS-A
 fish consumption	pcbs	is	IS-A
 bacteria	dental plaque	is	IS-A
 fructose	table sugar	is	IS-A
@@ -124,8 +108,14 @@ beans	coffee	is	IS-A
 bell peppers	raw	is	IS-A
 potassium	fiber	is	IS-A
 exercise	disease	is	IS-A
+sodium intake	mediterranean diet	is	IS-A
 rose hips	osteoarthritis	is	IS-A
+skim milk	milk	is	IS-A
+pritikin	who	is	IS-A
+vitamin d	mushrooms	is	IS-A
 lying	label	is	IS-A
+boiling	antioxidants	is	IS-A
+fiber	fruit juice	is	IS-A
 medicine	exercise	is	IS-A
 turmeric	culture	is	IS-A
 diet	disability	is	IS-A
@@ -136,7 +126,6 @@ plant	turmeric	is just a	IS-A
 sign	tea drinking	is just a	IS-A
 virus	plant-based diet	is just a	IS-A
 vegetables	garlic	stood out for the	IS-A
-vegetables	raisins	stood out for the	IS-A
 dried fruit	raisins	stood out for the	IS-A
 fruits	rose hips	are the	IS-A
 pigments	anthocyanins	are the	IS-A
@@ -146,48 +135,35 @@ stars	berries	are the	IS-A
 carcinogens	nitrosamines	are the	IS-A
 chemical	phthalates	are [	IS-A
 blue-green algae	spirulina	is a type of	IS-A
-gmo	gmo soy	is	IS-A
-meat consumption	neurotoxin	is	IS-A
+pork	ham	is	IS-A
+butyrate	colon	is	IS-A
 nitrate	beet juice	is	IS-A
 vegetarian	daily diet	is	IS-A
 beef	saturated fat	is	IS-A
 sodium bicarbonate	baking soda	is	IS-A
+cataracts	vision loss	is	IS-A
 cancer	lymphoma	is	IS-A
+vegetables	diet	is	IS-A
+pain	colic	is	IS-A
 dairy products	american diet	is	IS-A
+acid producing	diet	is	IS-A
 heart disease	diseases	is	IS-A
 parkinson	leading killer	is	IS-A
 bmaa	neurotoxins	is	IS-A
 fat	brain	is	IS-A
 fish oil	supplements	is	IS-A
+bell peppers	vegetable	is	IS-A
+choline	death	is	IS-A
+igf	signal	is	IS-A
 pizza	teens	is	IS-A
+apple juice	flight	is	IS-A
+hibiscus	herbal tea	is	IS-A
+back pain	sciatica	is	IS-A
 aspirin	drug	is	IS-A
 breastmilk	infants	is	IS-A
 butyrate	signal	is	IS-A
 mineral	nettle tea	is	IS-A
 tea	drink	is	IS-A
-matcha	tea	is	IS-A
-sodium intake	mediterranean diet	is	IS-A
-skim milk	milk	is	IS-A
-pritikin	who	is	IS-A
-vitamin d	mushrooms	is	IS-A
-boiling	antioxidants	is	IS-A
-fiber	fruit juice	is	IS-A
-beans	tea	is	IS-A
-pork	ham	is	IS-A
-butyrate	colon	is	IS-A
-diet	nutrition	is	IS-A
-cataracts	vision loss	is	IS-A
-vegetables	diet	is	IS-A
-pain	colic	is	IS-A
-fish consumption	salmon	is	IS-A
-acid producing	diet	is	IS-A
-bell peppers	vegetable	is	IS-A
-choline	death	is	IS-A
-igf	signal	is	IS-A
-apple juice	flight	is	IS-A
-hibiscus	herbal tea	is	IS-A
-back pain	sciatica	is	IS-A
-protein	plant protein	is	IS-A
 fish consumption	pcbs	is	IS-A
 bacteria	dental plaque	is	IS-A
 fructose	table sugar	is	IS-A
@@ -195,8 +171,14 @@ beans	coffee	is	IS-A
 bell peppers	raw	is	IS-A
 potassium	fiber	is	IS-A
 exercise	disease	is	IS-A
+sodium intake	mediterranean diet	is	IS-A
 rose hips	osteoarthritis	is	IS-A
+skim milk	milk	is	IS-A
+pritikin	who	is	IS-A
+vitamin d	mushrooms	is	IS-A
 lying	label	is	IS-A
+boiling	antioxidants	is	IS-A
+fiber	fruit juice	is	IS-A
 medicine	exercise	is	IS-A
 turmeric	culture	is	IS-A
 diet	disability	is	IS-A
@@ -210,11 +192,8 @@ virus	plant-based diet	is just a	IS-A
 chemical	sulforaphane	is like a	IS-A
 prebiotic	fiber	acts as a	IS-A
 pro-oxidant	high fructose corn syrup	acts as a	IS-A
-poultry	campylobacter	are	IS-A
 chemicals	xenoestrogens	are	IS-A
-bioequivalent	omega	are	IS-A
 chemical	phthalates	are	IS-A
-exposures	drugs	are	IS-A
 insulin	who	are	IS-A
 roots	carrots	are	IS-A
 iodine	vegetarians	are	IS-A
@@ -223,8 +202,7 @@ diseases	liver cancer	are	IS-A
 outpouchings	diverticula	are	IS-A
 killer	strokes	are	IS-A
 chemical	organochlorines	are	IS-A
-suffering	odds	are	IS-A
-potato chips	vegetables	are	IS-A
+fat	greens	are	IS-A
 phytonutrient-rich	candy	are	IS-A
 water	tomatoes	are	IS-A
 estrogen receptor	breast tumors	are	IS-A
@@ -233,11 +211,12 @@ flax seeds	omega	are	IS-A
 flax seeds	breast cancer survival	are	IS-A
 fruits	pesticides	are	IS-A
 fruit	snacks	are	IS-A
-supplement	supplements	are	IS-A
+fat	phytonutrients	are	IS-A
+fat	salad	are	IS-A
 ballooning bulges	abdominal aortic aneurysms	are	IS-A
 preservatives	nitrites	are	IS-A
 fruit	beans	are	IS-A
-chemicals	birds	are	IS-A
+fat	smoke	are	IS-A
 seeds	grains	are	IS-A
 poultry	salmonella	are	IS-A
 low-calorie diets	plant-based diets	are	IS-A
@@ -281,7 +260,6 @@ trigger	milk	is a	IS-A
 poison	fluoride	is a	IS-A
 vegetable	mushrooms	were the	IS-A
 vegetables	garlic	stood out for the	IS-A
-vegetables	raisins	stood out for the	IS-A
 dried fruit	raisins	stood out for the	IS-A
 antioxidant	flavonoids	are a group of	IS-A
 contaminants	insects	are just	IS-A

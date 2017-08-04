@@ -4717,7 +4717,6 @@ infectious virus	infectious virus,	DISEASE
 carotenoids contribute	carotenoids contribute,	INTERMEDIARY_CONCEPT
 extreme reduction	extreme reduction,	INTERMEDIARY_CONCEPT
 phytosteroid	phytosteroid,	INTERMEDIARY_CONCEPT
-rural china	rural china,	INTERMEDIARY_CONCEPT
 mph	mph,	INTERMEDIARY_CONCEPT
 pyrose	pyrose,	DISEASE
 telomerase catalytic subunit	telomerase,telomerase catalytic subunit,telomerase reverse transcriptase,telomerase reverse transcriptase catalytic subunit,	INTERMEDIARY_CONCEPT
@@ -13522,7 +13521,6 @@ pnu-imune vaccine	pnuimune vaccine,pnu-imune vaccine,pnu imune vaccine,pneumococ
 classic galactosemia	galactose-1-phosphate uridyltransferase deficiencies,galactokinase deficiency disease,galactosemia 2s,galk deficiencies,udp-galactose-4-epimerase deficiencies,udpglucose hexose-1-phosphate uridylyltransferase deficiency,galactokinase deficiencies,galactosemia,epimerase deficiency galactosemia,gale deficiencies,galactosemia 3,galactosemia 2,utp hexose 1 phosphate uridylyltransferase deficiency disease,galactose-1-phosphate uridylyltransferase deficiency,galactose-1-phosphate uridylyltransferase deficiencies,udp-galactose-4-epimerase deficiency disease,udp-galactose-4-epimerase deficiency diseases,galactokinase deficiency,utp hexose-1-phosphate uridylyltransferase deficiency,galactose epimerase deficiency,galactosemia iiis,hereditary galactokinase deficiencies,hereditary galactokinase deficiency,galk deficiency,udpglucose 4 epimerase deficiency disease,galactose 1 phosphate uridyl transferase deficiency disease,epimerase deficiency galactosemias,galactose-1-phosphate uridyltransferase deficiency,galactosemia 3s,udp galactose 4 epimerase deficiency,classic galactosemia,classic galactosemias,galactosemias,galactokinase deficiency diseases,galactosemia iii,galactose-1-phosphate uridyl-transferase deficiency disease,udpglucose hexose 1 phosphate uridylyltransferase deficiency,utp-hexose-1-phosphate uridylyltransferase deficiency disease,galt deficiency,galactose epimerase deficiencies,udp galactose 4 epimerase deficiency disease,utp hexose 1 phosphate uridylyltransferase deficiency,gale deficiency,udpglucose 4-epimerase deficiency disease,galactose 1 phosphate uridyltransferase deficiency,galactose 1 phosphate uridylyltransferase deficiency,udp-galactose-4-epimerase deficiency,galt deficiencies,	DISEASE
 cymbopogon	citronella,lemongrass,lemongrasses,citronellas,andropogon nardus,cymbopogon,cymbopogon nardus,cymbopogons,lemon grass,lemon grasses,	FOOD
 dna protection	dna protection,	INTERMEDIARY_CONCEPT
-china	china,mainland china,inner mongolia,manchuria,people's republic of china,sinkiang,	INTERMEDIARY_CONCEPT
 i 2190a	rapamune,i 2190a,ay 22989,i2190a,sirolimus,i-2190a,ay 22 989,ay 22-989,rapamycin,	INTERMEDIARY_CONCEPT
 coffee	coffee,	FOOD
 measuring fasting	measuring fasting,	INTERMEDIARY_CONCEPT

@@ -82,7 +82,6 @@ dump sentences\T-1814_9_.txt	tea	bergamottin	is a source of	PART-OF	[VBZ, DT, NN
 dump sentences\V-1167_16_.txt	salsa	lycopene	is packed with	PART-OF	[VBZ, VBN, IN]	1
 dump sentences\V-409_36_.txt	greens	enzyme	have that	PART-OF	[VBP, IN]	1
 dump sentences\T-1192_5_.txt	mushrooms	antioxidant	are the best source of the	PART-OF	[VBP, DT, JJS, NN, IN, DT]	1
-dump sentences\T-563_2_.txt	china	ddt	are food sources of	PART-OF	[VBP, JJ, NN, NNS, IN]	1
 dump sentences\V-1301_21_.txt	plant foods	fiber	are good sources of	PART-OF	[VBP, JJ, NNS, IN]	1
 dump sentences\V-1005_10_.txt	omega-3 fatty acids	cholesterol	are still loaded with	PART-OF	[VBP, RB, VBN, IN]	1
 dump sentences\A-339_3_.txt	vegetarians	lignans	have about twice the level of	PART-OF	[VBP, IN, RB, DT, NN, IN]	1

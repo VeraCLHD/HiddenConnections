@@ -5182,7 +5182,6 @@ vegetive	vegetive	INTERMEDIARY_CONCEPT
 infectious virus	-	DISEASE
 carotenoids contribute	-	INTERMEDIARY_CONCEPT
 extreme reduction	-	INTERMEDIARY_CONCEPT
-rural china	-	INTERMEDIARY_CONCEPT
 mph	mph	INTERMEDIARY_CONCEPT
 radioactivities	radioactivity	INTERMEDIARY_CONCEPT
 telomerase catalytic subunit	-	INTERMEDIARY_CONCEPT
@@ -14839,7 +14838,6 @@ classic galactosemia	-	DISEASE
 cymbopogon	cymbopogon	FOOD
 dna protection	-	INTERMEDIARY_CONCEPT
 avocados	avocado	FOOD
-china	china	INTERMEDIARY_CONCEPT
 i 2190a	-	INTERMEDIARY_CONCEPT
 coffee	coffee	FOOD
 measuring fasting	-	INTERMEDIARY_CONCEPT

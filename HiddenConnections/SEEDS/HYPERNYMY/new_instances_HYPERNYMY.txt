@@ -1,63 +1,44 @@
 
-neurotoxin	meat consumption
 heart disease	choice
 beet juice	nitrate
 daily diet	vegetarian
 saturated fat	beef
-smoke	fat soluble
 diverticulosis	disease
 baking soda	sodium bicarbonate
 vegetarians	iodine
-tea	fine
 american diet	dairy products
 balsamic vinegar	product
 diseases	heart disease
 leading killer	parkinson
 brain	fat
-who	leaner
 drug	aspirin
 infants	breastmilk
 tomatoes	water
 rose hips	fruits
 omega	flax seeds
 drink	tea
-bone	eaten
-herbal teas	fine
-tea	matcha
 abdominal aortic aneurysms	ballooning bulges
 milk	skim milk
+smoke	fat
 antioxidants	boiling
 fluoride	poison
-birds	chemicals
 salmonella	poultry
 gluten sensitivity	disease
 ham	pork
 colon	butyrate
-greens	fat soluble
-nutrition	diet
 who	insulin
 symptoms	heartburn
-salad	fat soluble
-kids	muscles
-odds	suffering
-salmon	fish consumption
 diet	acid producing
 cortisol	stress hormone
 vegetable	bell peppers
 death	choline
 signal	igf
-fruit	fine
-dietary guidelines	fine
 casein	milk protein
 maspin	tumor suppressor gene
 flight	apple juice
-fruits	eaten
-citrus fruits	acidic
-plant protein	protein
 pcbs	fish consumption
 breast cancer survival	flax seeds
 table sugar	fructose
-supplements	supplement
 fiber	potassium
 disease	exercise
 nitrites	preservatives
@@ -65,21 +46,16 @@ label	lying
 odds	label
 disability	diet
 plant-based diets	beta
-gmo soy	gmo
-infants	fatter
-campylobacter	poultry
-greens	health-promoting
 strokes	killer
 neurotoxins	bmaa
 lutein	carotenoid phytonutrient
-heart	beating
-vegetables	potato chips
 teens	pizza
 signal	butyrate
 breast tumors	estrogen receptor
 nettle tea	mineral
 pesticides	fruits
-chickens	fatty
+phytonutrients	fat
+salad	fat
 mediterranean diet	sodium intake
 who	pritikin
 atherosclerosis	disease
@@ -88,30 +64,23 @@ mushrooms	vitamin d
 milk	trigger
 fruit juice	fiber
 grains	seeds
-tea	beans
 anthocyanins	pigments
-omega	bioequivalent
-drugs	exposures
 vision loss	cataracts
 mediterranean diet	diet high
 diet	vegetables
 liver cancer	diseases
 diverticula	outpouchings
 animal protein	proxy
-urine	acidic
 tea drinking	sign
-floppy ears	cute
 herbal tea	hibiscus
+greens	fat
 candy	phytonutrient-rich
-babies	breast fed
 snacks	fruit
-gluten	fine
 coffee	beans
 raw	bell peppers
 breastfed infants	diet
 osteoarthritis	rose hips
 exercise	stress
-phytonutrients	fat soluble
 exercise	medicine
 berries	stars
 culture	turmeric

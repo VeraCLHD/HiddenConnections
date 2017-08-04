@@ -11,7 +11,6 @@ lung cancer	smoking	causes	CAUSE
 liquid smoke	dna	causes	CAUSE
 blood	insulin resistance	causes	CAUSE
 animal foods	inflammation	causes	CAUSE
-saturated fat	dysfunction	causes	CAUSE
 sucralose	insulin resistance	causes	CAUSE
 sucralose	insulin	causes	CAUSE
 cigarette smoking	cancer	causes	CAUSE
@@ -19,34 +18,32 @@ liquid smoke	dna mutations	causes	CAUSE
 who	guidelines	creates	CAUSE
 exercise	free radicals	creates	CAUSE
 fish	heterocyclic amines	creates	CAUSE
+bacteria	infections	cause	CAUSE
 milk	acne	cause	CAUSE
+free radicals	dysfunction	cause	CAUSE
 carcinogens	dna mutations	cause	CAUSE
+cell phones	cancer	cause	CAUSE
+animal products	inflammation	cause	CAUSE
 dental x-rays	brain tumors	cause	CAUSE
 betel nuts	cancer	cause	CAUSE
 bacteria	plaque	cause	CAUSE
-hormones	dna mutations	cause	CAUSE
 meat	inflammation	cause	CAUSE
 air pollution	lung inflammation	cause	CAUSE
 carcinogens	dna	cause	CAUSE
-bacteria	infections	cause	CAUSE
-free radicals	dysfunction	cause	CAUSE
-cell phones	cancer	cause	CAUSE
-animal products	inflammation	cause	CAUSE
 inflammation	depressive symptoms	to trigger	CAUSE
 arteries	strokes	to trigger	CAUSE
+bacteria	infections	cause	CAUSE
 milk	acne	cause	CAUSE
+free radicals	dysfunction	cause	CAUSE
 carcinogens	dna mutations	cause	CAUSE
+cell phones	cancer	cause	CAUSE
+animal products	inflammation	cause	CAUSE
 dental x-rays	brain tumors	cause	CAUSE
 betel nuts	cancer	cause	CAUSE
 bacteria	plaque	cause	CAUSE
-hormones	dna mutations	cause	CAUSE
 meat	inflammation	cause	CAUSE
 air pollution	lung inflammation	cause	CAUSE
 carcinogens	dna	cause	CAUSE
-bacteria	infections	cause	CAUSE
-free radicals	dysfunction	cause	CAUSE
-cell phones	cancer	cause	CAUSE
-animal products	inflammation	cause	CAUSE
 raisins	blood sugar	caused less of a	CAUSE
 celery	nitrites	to create	CAUSE
 fish	insulin	causes triple the	CAUSE
@@ -58,7 +55,6 @@ lung cancer	smoking	causes	CAUSE
 liquid smoke	dna	causes	CAUSE
 blood	insulin resistance	causes	CAUSE
 animal foods	inflammation	causes	CAUSE
-saturated fat	dysfunction	causes	CAUSE
 sucralose	insulin resistance	causes	CAUSE
 sucralose	insulin	causes	CAUSE
 cigarette smoking	cancer	causes	CAUSE

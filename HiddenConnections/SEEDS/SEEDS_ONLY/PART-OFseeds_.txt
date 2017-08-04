@@ -21,8 +21,6 @@ protein	whipped cream
 fiber	meat
 acne	milk
 calcium	soy milk
-symptoms	kids
-obesity	china
 penis size	infant
 phytonutrients	soy
 antibodies	meat
@@ -70,7 +68,6 @@ phytate	vegetarian
 arsenic	chicken
 estrogen	meat
 phytonutrients	soy foods
-diabetes	china
 medium-chain fatty acids	coconut
 pigment	turmeric
 bacteria	animal products
@@ -197,7 +194,6 @@ polychlorinated naphthalenes	fat
 arachidonic acid	plants
 pesticides	animal products
 intestinal infections	baby
-cavities	kids
 carcinogens	animal fat
 sodium	dietary guidelines
 industrial pollutants	fish
@@ -505,7 +501,6 @@ hormones	meat
 trans fat	meat
 industrial carcinogens	animal fat
 insulin	milk
-prostate enlargement	china
 protein	sweet potatoes
 toxicity	breastfeeding
 phytonutrients	fruit

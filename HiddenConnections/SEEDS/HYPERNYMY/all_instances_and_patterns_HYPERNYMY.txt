@@ -7,11 +7,8 @@ berries	stars	are the	HYPERNYMY
 nitrosamines	carcinogens	are the	HYPERNYMY
 fiber	prebiotic	acts as a	HYPERNYMY
 high fructose corn syrup	pro-oxidant	acts as a	HYPERNYMY
-campylobacter	poultry	are	HYPERNYMY
 xenoestrogens	chemicals	are	HYPERNYMY
-omega	bioequivalent	are	HYPERNYMY
 phthalates	chemical	are	HYPERNYMY
-drugs	exposures	are	HYPERNYMY
 who	insulin	are	HYPERNYMY
 carrots	roots	are	HYPERNYMY
 vegetarians	iodine	are	HYPERNYMY
@@ -20,8 +17,7 @@ liver cancer	diseases	are	HYPERNYMY
 diverticula	outpouchings	are	HYPERNYMY
 strokes	killer	are	HYPERNYMY
 organochlorines	chemical	are	HYPERNYMY
-odds	suffering	are	HYPERNYMY
-vegetables	potato chips	are	HYPERNYMY
+greens	fat	are	HYPERNYMY
 candy	phytonutrient-rich	are	HYPERNYMY
 tomatoes	water	are	HYPERNYMY
 breast tumors	estrogen receptor	are	HYPERNYMY
@@ -30,11 +26,12 @@ omega	flax seeds	are	HYPERNYMY
 breast cancer survival	flax seeds	are	HYPERNYMY
 pesticides	fruits	are	HYPERNYMY
 snacks	fruit	are	HYPERNYMY
-supplements	supplement	are	HYPERNYMY
+phytonutrients	fat	are	HYPERNYMY
+salad	fat	are	HYPERNYMY
 abdominal aortic aneurysms	ballooning bulges	are	HYPERNYMY
 nitrites	preservatives	are	HYPERNYMY
 beans	fruit	are	HYPERNYMY
-birds	chemicals	are	HYPERNYMY
+smoke	fat	are	HYPERNYMY
 grains	seeds	are	HYPERNYMY
 salmonella	poultry	are	HYPERNYMY
 plant-based diets	low-calorie diets	are	HYPERNYMY
@@ -75,48 +72,35 @@ vinegar	product	is a	HYPERNYMY
 exercise	stress	is a	HYPERNYMY
 milk	trigger	is a	HYPERNYMY
 fluoride	poison	is a	HYPERNYMY
-gmo soy	gmo	is	HYPERNYMY
-neurotoxin	meat consumption	is	HYPERNYMY
+ham	pork	is	HYPERNYMY
+colon	butyrate	is	HYPERNYMY
 beet juice	nitrate	is	HYPERNYMY
 daily diet	vegetarian	is	HYPERNYMY
 saturated fat	beef	is	HYPERNYMY
 baking soda	sodium bicarbonate	is	HYPERNYMY
+vision loss	cataracts	is	HYPERNYMY
 lymphoma	cancer	is	HYPERNYMY
+diet	vegetables	is	HYPERNYMY
+colic	pain	is	HYPERNYMY
 american diet	dairy products	is	HYPERNYMY
+diet	acid producing	is	HYPERNYMY
 diseases	heart disease	is	HYPERNYMY
 leading killer	parkinson	is	HYPERNYMY
 neurotoxins	bmaa	is	HYPERNYMY
 brain	fat	is	HYPERNYMY
 supplements	fish oil	is	HYPERNYMY
+vegetable	bell peppers	is	HYPERNYMY
+death	choline	is	HYPERNYMY
+signal	igf	is	HYPERNYMY
 teens	pizza	is	HYPERNYMY
+flight	apple juice	is	HYPERNYMY
+herbal tea	hibiscus	is	HYPERNYMY
+sciatica	back pain	is	HYPERNYMY
 drug	aspirin	is	HYPERNYMY
 infants	breastmilk	is	HYPERNYMY
 signal	butyrate	is	HYPERNYMY
 nettle tea	mineral	is	HYPERNYMY
 drink	tea	is	HYPERNYMY
-tea	matcha	is	HYPERNYMY
-mediterranean diet	sodium intake	is	HYPERNYMY
-milk	skim milk	is	HYPERNYMY
-who	pritikin	is	HYPERNYMY
-mushrooms	vitamin d	is	HYPERNYMY
-antioxidants	boiling	is	HYPERNYMY
-fruit juice	fiber	is	HYPERNYMY
-tea	beans	is	HYPERNYMY
-ham	pork	is	HYPERNYMY
-colon	butyrate	is	HYPERNYMY
-nutrition	diet	is	HYPERNYMY
-vision loss	cataracts	is	HYPERNYMY
-diet	vegetables	is	HYPERNYMY
-colic	pain	is	HYPERNYMY
-salmon	fish consumption	is	HYPERNYMY
-diet	acid producing	is	HYPERNYMY
-vegetable	bell peppers	is	HYPERNYMY
-death	choline	is	HYPERNYMY
-signal	igf	is	HYPERNYMY
-flight	apple juice	is	HYPERNYMY
-herbal tea	hibiscus	is	HYPERNYMY
-sciatica	back pain	is	HYPERNYMY
-plant protein	protein	is	HYPERNYMY
 pcbs	fish consumption	is	HYPERNYMY
 dental plaque	bacteria	is	HYPERNYMY
 table sugar	fructose	is	HYPERNYMY
@@ -124,8 +108,14 @@ coffee	beans	is	HYPERNYMY
 raw	bell peppers	is	HYPERNYMY
 fiber	potassium	is	HYPERNYMY
 disease	exercise	is	HYPERNYMY
+mediterranean diet	sodium intake	is	HYPERNYMY
 osteoarthritis	rose hips	is	HYPERNYMY
+milk	skim milk	is	HYPERNYMY
+who	pritikin	is	HYPERNYMY
+mushrooms	vitamin d	is	HYPERNYMY
 label	lying	is	HYPERNYMY
+antioxidants	boiling	is	HYPERNYMY
+fruit juice	fiber	is	HYPERNYMY
 exercise	medicine	is	HYPERNYMY
 culture	turmeric	is	HYPERNYMY
 disability	diet	is	HYPERNYMY
@@ -136,7 +126,6 @@ turmeric	plant	is just a	HYPERNYMY
 tea drinking	sign	is just a	HYPERNYMY
 plant-based diet	virus	is just a	HYPERNYMY
 garlic	vegetables	stood out for the	HYPERNYMY
-raisins	vegetables	stood out for the	HYPERNYMY
 raisins	dried fruit	stood out for the	HYPERNYMY
 rose hips	fruits	are the	HYPERNYMY
 anthocyanins	pigments	are the	HYPERNYMY
@@ -146,48 +135,35 @@ berries	stars	are the	HYPERNYMY
 nitrosamines	carcinogens	are the	HYPERNYMY
 phthalates	chemical	are [	HYPERNYMY
 spirulina	blue-green algae	is a type of	HYPERNYMY
-gmo soy	gmo	is	HYPERNYMY
-neurotoxin	meat consumption	is	HYPERNYMY
+ham	pork	is	HYPERNYMY
+colon	butyrate	is	HYPERNYMY
 beet juice	nitrate	is	HYPERNYMY
 daily diet	vegetarian	is	HYPERNYMY
 saturated fat	beef	is	HYPERNYMY
 baking soda	sodium bicarbonate	is	HYPERNYMY
+vision loss	cataracts	is	HYPERNYMY
 lymphoma	cancer	is	HYPERNYMY
+diet	vegetables	is	HYPERNYMY
+colic	pain	is	HYPERNYMY
 american diet	dairy products	is	HYPERNYMY
+diet	acid producing	is	HYPERNYMY
 diseases	heart disease	is	HYPERNYMY
 leading killer	parkinson	is	HYPERNYMY
 neurotoxins	bmaa	is	HYPERNYMY
 brain	fat	is	HYPERNYMY
 supplements	fish oil	is	HYPERNYMY
+vegetable	bell peppers	is	HYPERNYMY
+death	choline	is	HYPERNYMY
+signal	igf	is	HYPERNYMY
 teens	pizza	is	HYPERNYMY
+flight	apple juice	is	HYPERNYMY
+herbal tea	hibiscus	is	HYPERNYMY
+sciatica	back pain	is	HYPERNYMY
 drug	aspirin	is	HYPERNYMY
 infants	breastmilk	is	HYPERNYMY
 signal	butyrate	is	HYPERNYMY
 nettle tea	mineral	is	HYPERNYMY
 drink	tea	is	HYPERNYMY
-tea	matcha	is	HYPERNYMY
-mediterranean diet	sodium intake	is	HYPERNYMY
-milk	skim milk	is	HYPERNYMY
-who	pritikin	is	HYPERNYMY
-mushrooms	vitamin d	is	HYPERNYMY
-antioxidants	boiling	is	HYPERNYMY
-fruit juice	fiber	is	HYPERNYMY
-tea	beans	is	HYPERNYMY
-ham	pork	is	HYPERNYMY
-colon	butyrate	is	HYPERNYMY
-nutrition	diet	is	HYPERNYMY
-vision loss	cataracts	is	HYPERNYMY
-diet	vegetables	is	HYPERNYMY
-colic	pain	is	HYPERNYMY
-salmon	fish consumption	is	HYPERNYMY
-diet	acid producing	is	HYPERNYMY
-vegetable	bell peppers	is	HYPERNYMY
-death	choline	is	HYPERNYMY
-signal	igf	is	HYPERNYMY
-flight	apple juice	is	HYPERNYMY
-herbal tea	hibiscus	is	HYPERNYMY
-sciatica	back pain	is	HYPERNYMY
-plant protein	protein	is	HYPERNYMY
 pcbs	fish consumption	is	HYPERNYMY
 dental plaque	bacteria	is	HYPERNYMY
 table sugar	fructose	is	HYPERNYMY
@@ -195,8 +171,14 @@ coffee	beans	is	HYPERNYMY
 raw	bell peppers	is	HYPERNYMY
 fiber	potassium	is	HYPERNYMY
 disease	exercise	is	HYPERNYMY
+mediterranean diet	sodium intake	is	HYPERNYMY
 osteoarthritis	rose hips	is	HYPERNYMY
+milk	skim milk	is	HYPERNYMY
+who	pritikin	is	HYPERNYMY
+mushrooms	vitamin d	is	HYPERNYMY
 label	lying	is	HYPERNYMY
+antioxidants	boiling	is	HYPERNYMY
+fruit juice	fiber	is	HYPERNYMY
 exercise	medicine	is	HYPERNYMY
 culture	turmeric	is	HYPERNYMY
 disability	diet	is	HYPERNYMY
@@ -210,11 +192,8 @@ plant-based diet	virus	is just a	HYPERNYMY
 sulforaphane	chemical	is like a	HYPERNYMY
 fiber	prebiotic	acts as a	HYPERNYMY
 high fructose corn syrup	pro-oxidant	acts as a	HYPERNYMY
-campylobacter	poultry	are	HYPERNYMY
 xenoestrogens	chemicals	are	HYPERNYMY
-omega	bioequivalent	are	HYPERNYMY
 phthalates	chemical	are	HYPERNYMY
-drugs	exposures	are	HYPERNYMY
 who	insulin	are	HYPERNYMY
 carrots	roots	are	HYPERNYMY
 vegetarians	iodine	are	HYPERNYMY
@@ -223,8 +202,7 @@ liver cancer	diseases	are	HYPERNYMY
 diverticula	outpouchings	are	HYPERNYMY
 strokes	killer	are	HYPERNYMY
 organochlorines	chemical	are	HYPERNYMY
-odds	suffering	are	HYPERNYMY
-vegetables	potato chips	are	HYPERNYMY
+greens	fat	are	HYPERNYMY
 candy	phytonutrient-rich	are	HYPERNYMY
 tomatoes	water	are	HYPERNYMY
 breast tumors	estrogen receptor	are	HYPERNYMY
@@ -233,11 +211,12 @@ omega	flax seeds	are	HYPERNYMY
 breast cancer survival	flax seeds	are	HYPERNYMY
 pesticides	fruits	are	HYPERNYMY
 snacks	fruit	are	HYPERNYMY
-supplements	supplement	are	HYPERNYMY
+phytonutrients	fat	are	HYPERNYMY
+salad	fat	are	HYPERNYMY
 abdominal aortic aneurysms	ballooning bulges	are	HYPERNYMY
 nitrites	preservatives	are	HYPERNYMY
 beans	fruit	are	HYPERNYMY
-birds	chemicals	are	HYPERNYMY
+smoke	fat	are	HYPERNYMY
 grains	seeds	are	HYPERNYMY
 salmonella	poultry	are	HYPERNYMY
 plant-based diets	low-calorie diets	are	HYPERNYMY
@@ -281,7 +260,6 @@ milk	trigger	is a	HYPERNYMY
 fluoride	poison	is a	HYPERNYMY
 mushrooms	vegetable	were the	HYPERNYMY
 garlic	vegetables	stood out for the	HYPERNYMY
-raisins	vegetables	stood out for the	HYPERNYMY
 raisins	dried fruit	stood out for the	HYPERNYMY
 flavonoids	antioxidant	are a group of	HYPERNYMY
 insects	contaminants	are just	HYPERNYMY

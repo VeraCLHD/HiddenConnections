@@ -17,7 +17,7 @@ import overall.Pair;
 
 public class AutomaticEvaluation {
 	private static final String EVALUATION_ALL_EVALS_TXT = "evaluation/allEvals.txt";
-	private static final String DISTANT_CONNECTIONS_FINAL_TXT = "distant connections/FINAL.txt";
+	private static final String DISTANT_CONNECTIONS_FINAL_TXT = "evaluation/FINAL_MANUAL.txt";
 	public static final String FINAL_VARIANTS = "terms/finalVariants.txt";
 	public Map<String, Set<String>> variations = new HashMap<String, Set<String>>();
 	public LuceneSearcher ls = new LuceneSearcher();

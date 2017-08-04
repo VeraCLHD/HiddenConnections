@@ -8,7 +8,6 @@ fruits	apples	, including	IS-A
 inflammatory diseases	crohn	, including	IS-A
 pregnancy	shorter cerebellums	, including	IS-A
 diseases	heart disease	, including	IS-A
-leukemia	b-cell	, including	IS-A
 preventing cancer	pancreatic cancer	, including	IS-A
 poultry	turkey	, including	IS-A
 plant kingdom	fruits	, including	IS-A
@@ -111,7 +110,6 @@ olive oil	fruit juice	like	IS-A
 leafy vegetables	spinach	like	IS-A
 lemonoids	lemonin	like	IS-A
 diseases	stroke	like	IS-A
-kale	breast	like	IS-A
 food restaurants	mcdonald	like	IS-A
 pathogens	salmonella	like	IS-A
 abnormalities	microcephaly	like	IS-A
@@ -142,7 +140,6 @@ drugs	tylenol	like	IS-A
 periodontal diseases	gingivitis	like	IS-A
 soy foods	tofu	like	IS-A
 feelings	hunger	like	IS-A
-inflammatory bowel diseases	methionine	like	IS-A
 acids	lactic acid	like	IS-A
 pollutants	ddt	like	IS-A
 drug	ibuprofen	like	IS-A
@@ -155,7 +152,6 @@ drugs	penicillin	like	IS-A
 sour fruit	lemons	like	IS-A
 processed meats	bacon	like	IS-A
 drugs	zeranol	like	IS-A
-herbs	ginger	like	IS-A
 statin drugs	lipitor	like	IS-A
 fats	palmitic acid	like	IS-A
 hormones	adrenaline	like	IS-A
@@ -165,7 +161,6 @@ desserts	cake	like	IS-A
 nausea	ginger	like	IS-A
 antioxidants	vitamin c	like	IS-A
 persistent pollutants	hexachlorobenzene	like	IS-A
-neurotransmitters	prozac	like	IS-A
 symptoms	nausea	like	IS-A
 nuts	cashews	like	IS-A
 drugs	fosamax	like	IS-A
@@ -214,7 +209,6 @@ phytonutrients	zeaxanthin	like	IS-A
 fruit	apples	like	IS-A
 neurotransmitters	serotonin	like	IS-A
 carotenoids	lutein	like	IS-A
-graphs	bpa	like	IS-A
 carbohydrates	rice	like	IS-A
 cruciferous vegetables	brussels sprouts	like	IS-A
 short-chain fatty acids	butyrate	like	IS-A
@@ -324,7 +318,6 @@ industrial pollutants	mercury	such as	IS-A
 diseases	heart disease	such as	IS-A
 heavy metals	cadmium	such as	IS-A
 symptoms	bloating	such as	IS-A
-greens	turmeric	such as	IS-A
 spices	cinnamon	such as	IS-A
 industrial toxins	dioxins	such as	IS-A
 adverse effects	erectile dysfunction	such as	IS-A
@@ -341,7 +334,6 @@ contaminants	antibiotic residues	such as	IS-A
 drugs	aspirin	such as	IS-A
 fat	nuts	such as	IS-A
 supplements	vitamin c	such as	IS-A
-beans	grapefruit	such as	IS-A
 vegetables	greens	such as	IS-A
 supplements	iron supplements	such as	IS-A
 nitrate-rich vegetables	beets	such as	IS-A
@@ -396,7 +388,6 @@ industrial carcinogens	dioxins	such as	IS-A
 plant foods	beans	such as	IS-A
 fresh fruits	blueberries	such as	IS-A
 radiation	dental x-rays	such as	IS-A
-industrial pollutants	tuna	such as	IS-A
 cancers	skin cancer	such as	IS-A
 side effects	weight gain	such as	IS-A
 greens	spinach	such as	IS-A
@@ -416,7 +407,6 @@ persistent organic pollutants	pcb	such as	IS-A
 animal products	bacon	such as	IS-A
 toxins	pcb	such as	IS-A
 fruits	tomatoes	such as	IS-A
-vitamin supplements	multivitamins	such as	IS-A
 plant foods	nuts	such as	IS-A
 legumes	soy	such as	IS-A
 energy	raisins	such as	IS-A
@@ -490,7 +480,6 @@ industrial pollutants	mercury	such as	IS-A
 diseases	heart disease	such as	IS-A
 heavy metals	cadmium	such as	IS-A
 symptoms	bloating	such as	IS-A
-greens	turmeric	such as	IS-A
 spices	cinnamon	such as	IS-A
 industrial toxins	dioxins	such as	IS-A
 adverse effects	erectile dysfunction	such as	IS-A
@@ -507,7 +496,6 @@ contaminants	antibiotic residues	such as	IS-A
 drugs	aspirin	such as	IS-A
 fat	nuts	such as	IS-A
 supplements	vitamin c	such as	IS-A
-beans	grapefruit	such as	IS-A
 vegetables	greens	such as	IS-A
 supplements	iron supplements	such as	IS-A
 nitrate-rich vegetables	beets	such as	IS-A
@@ -562,7 +550,6 @@ industrial carcinogens	dioxins	such as	IS-A
 plant foods	beans	such as	IS-A
 fresh fruits	blueberries	such as	IS-A
 radiation	dental x-rays	such as	IS-A
-industrial pollutants	tuna	such as	IS-A
 cancers	skin cancer	such as	IS-A
 side effects	weight gain	such as	IS-A
 greens	spinach	such as	IS-A
@@ -582,7 +569,6 @@ persistent organic pollutants	pcb	such as	IS-A
 animal products	bacon	such as	IS-A
 toxins	pcb	such as	IS-A
 fruits	tomatoes	such as	IS-A
-vitamin supplements	multivitamins	such as	IS-A
 plant foods	nuts	such as	IS-A
 legumes	soy	such as	IS-A
 energy	raisins	such as	IS-A
@@ -695,7 +681,6 @@ olive oil	fruit juice	like	IS-A
 leafy vegetables	spinach	like	IS-A
 lemonoids	lemonin	like	IS-A
 diseases	stroke	like	IS-A
-kale	breast	like	IS-A
 food restaurants	mcdonald	like	IS-A
 pathogens	salmonella	like	IS-A
 abnormalities	microcephaly	like	IS-A
@@ -726,7 +711,6 @@ drugs	tylenol	like	IS-A
 periodontal diseases	gingivitis	like	IS-A
 soy foods	tofu	like	IS-A
 feelings	hunger	like	IS-A
-inflammatory bowel diseases	methionine	like	IS-A
 acids	lactic acid	like	IS-A
 pollutants	ddt	like	IS-A
 drug	ibuprofen	like	IS-A
@@ -739,7 +723,6 @@ drugs	penicillin	like	IS-A
 sour fruit	lemons	like	IS-A
 processed meats	bacon	like	IS-A
 drugs	zeranol	like	IS-A
-herbs	ginger	like	IS-A
 statin drugs	lipitor	like	IS-A
 fats	palmitic acid	like	IS-A
 hormones	adrenaline	like	IS-A
@@ -749,7 +732,6 @@ desserts	cake	like	IS-A
 nausea	ginger	like	IS-A
 antioxidants	vitamin c	like	IS-A
 persistent pollutants	hexachlorobenzene	like	IS-A
-neurotransmitters	prozac	like	IS-A
 symptoms	nausea	like	IS-A
 nuts	cashews	like	IS-A
 drugs	fosamax	like	IS-A
@@ -798,7 +780,6 @@ phytonutrients	zeaxanthin	like	IS-A
 fruit	apples	like	IS-A
 neurotransmitters	serotonin	like	IS-A
 carotenoids	lutein	like	IS-A
-graphs	bpa	like	IS-A
 carbohydrates	rice	like	IS-A
 cruciferous vegetables	brussels sprouts	like	IS-A
 short-chain fatty acids	butyrate	like	IS-A
@@ -836,11 +817,8 @@ stars	berries	are the	IS-A
 carcinogens	nitrosamines	are the	IS-A
 prebiotic	fiber	acts as a	IS-A
 pro-oxidant	high fructose corn syrup	acts as a	IS-A
-poultry	campylobacter	are	IS-A
 chemicals	xenoestrogens	are	IS-A
-bioequivalent	omega	are	IS-A
 chemical	phthalates	are	IS-A
-exposures	drugs	are	IS-A
 insulin	who	are	IS-A
 roots	carrots	are	IS-A
 iodine	vegetarians	are	IS-A
@@ -849,8 +827,7 @@ diseases	liver cancer	are	IS-A
 outpouchings	diverticula	are	IS-A
 killer	strokes	are	IS-A
 chemical	organochlorines	are	IS-A
-suffering	odds	are	IS-A
-potato chips	vegetables	are	IS-A
+fat	greens	are	IS-A
 phytonutrient-rich	candy	are	IS-A
 water	tomatoes	are	IS-A
 estrogen receptor	breast tumors	are	IS-A
@@ -859,11 +836,12 @@ flax seeds	omega	are	IS-A
 flax seeds	breast cancer survival	are	IS-A
 fruits	pesticides	are	IS-A
 fruit	snacks	are	IS-A
-supplement	supplements	are	IS-A
+fat	phytonutrients	are	IS-A
+fat	salad	are	IS-A
 ballooning bulges	abdominal aortic aneurysms	are	IS-A
 preservatives	nitrites	are	IS-A
 fruit	beans	are	IS-A
-chemicals	birds	are	IS-A
+fat	smoke	are	IS-A
 seeds	grains	are	IS-A
 poultry	salmonella	are	IS-A
 low-calorie diets	plant-based diets	are	IS-A
@@ -904,48 +882,35 @@ product	vinegar	is a	IS-A
 stress	exercise	is a	IS-A
 trigger	milk	is a	IS-A
 poison	fluoride	is a	IS-A
-gmo	gmo soy	is	IS-A
-meat consumption	neurotoxin	is	IS-A
+pork	ham	is	IS-A
+butyrate	colon	is	IS-A
 nitrate	beet juice	is	IS-A
 vegetarian	daily diet	is	IS-A
 beef	saturated fat	is	IS-A
 sodium bicarbonate	baking soda	is	IS-A
+cataracts	vision loss	is	IS-A
 cancer	lymphoma	is	IS-A
+vegetables	diet	is	IS-A
+pain	colic	is	IS-A
 dairy products	american diet	is	IS-A
+acid producing	diet	is	IS-A
 heart disease	diseases	is	IS-A
 parkinson	leading killer	is	IS-A
 bmaa	neurotoxins	is	IS-A
 fat	brain	is	IS-A
 fish oil	supplements	is	IS-A
+bell peppers	vegetable	is	IS-A
+choline	death	is	IS-A
+igf	signal	is	IS-A
 pizza	teens	is	IS-A
+apple juice	flight	is	IS-A
+hibiscus	herbal tea	is	IS-A
+back pain	sciatica	is	IS-A
 aspirin	drug	is	IS-A
 breastmilk	infants	is	IS-A
 butyrate	signal	is	IS-A
 mineral	nettle tea	is	IS-A
 tea	drink	is	IS-A
-matcha	tea	is	IS-A
-sodium intake	mediterranean diet	is	IS-A
-skim milk	milk	is	IS-A
-pritikin	who	is	IS-A
-vitamin d	mushrooms	is	IS-A
-boiling	antioxidants	is	IS-A
-fiber	fruit juice	is	IS-A
-beans	tea	is	IS-A
-pork	ham	is	IS-A
-butyrate	colon	is	IS-A
-diet	nutrition	is	IS-A
-cataracts	vision loss	is	IS-A
-vegetables	diet	is	IS-A
-pain	colic	is	IS-A
-fish consumption	salmon	is	IS-A
-acid producing	diet	is	IS-A
-bell peppers	vegetable	is	IS-A
-choline	death	is	IS-A
-igf	signal	is	IS-A
-apple juice	flight	is	IS-A
-hibiscus	herbal tea	is	IS-A
-back pain	sciatica	is	IS-A
-protein	plant protein	is	IS-A
 fish consumption	pcbs	is	IS-A
 bacteria	dental plaque	is	IS-A
 fructose	table sugar	is	IS-A
@@ -953,8 +918,14 @@ beans	coffee	is	IS-A
 bell peppers	raw	is	IS-A
 potassium	fiber	is	IS-A
 exercise	disease	is	IS-A
+sodium intake	mediterranean diet	is	IS-A
 rose hips	osteoarthritis	is	IS-A
+skim milk	milk	is	IS-A
+pritikin	who	is	IS-A
+vitamin d	mushrooms	is	IS-A
 lying	label	is	IS-A
+boiling	antioxidants	is	IS-A
+fiber	fruit juice	is	IS-A
 medicine	exercise	is	IS-A
 turmeric	culture	is	IS-A
 diet	disability	is	IS-A
@@ -965,7 +936,6 @@ plant	turmeric	is just a	IS-A
 sign	tea drinking	is just a	IS-A
 virus	plant-based diet	is just a	IS-A
 vegetables	garlic	stood out for the	IS-A
-vegetables	raisins	stood out for the	IS-A
 dried fruit	raisins	stood out for the	IS-A
 fruits	rose hips	are the	IS-A
 pigments	anthocyanins	are the	IS-A
@@ -975,48 +945,35 @@ stars	berries	are the	IS-A
 carcinogens	nitrosamines	are the	IS-A
 chemical	phthalates	are [	IS-A
 blue-green algae	spirulina	is a type of	IS-A
-gmo	gmo soy	is	IS-A
-meat consumption	neurotoxin	is	IS-A
+pork	ham	is	IS-A
+butyrate	colon	is	IS-A
 nitrate	beet juice	is	IS-A
 vegetarian	daily diet	is	IS-A
 beef	saturated fat	is	IS-A
 sodium bicarbonate	baking soda	is	IS-A
+cataracts	vision loss	is	IS-A
 cancer	lymphoma	is	IS-A
+vegetables	diet	is	IS-A
+pain	colic	is	IS-A
 dairy products	american diet	is	IS-A
+acid producing	diet	is	IS-A
 heart disease	diseases	is	IS-A
 parkinson	leading killer	is	IS-A
 bmaa	neurotoxins	is	IS-A
 fat	brain	is	IS-A
 fish oil	supplements	is	IS-A
+bell peppers	vegetable	is	IS-A
+choline	death	is	IS-A
+igf	signal	is	IS-A
 pizza	teens	is	IS-A
+apple juice	flight	is	IS-A
+hibiscus	herbal tea	is	IS-A
+back pain	sciatica	is	IS-A
 aspirin	drug	is	IS-A
 breastmilk	infants	is	IS-A
 butyrate	signal	is	IS-A
 mineral	nettle tea	is	IS-A
 tea	drink	is	IS-A
-matcha	tea	is	IS-A
-sodium intake	mediterranean diet	is	IS-A
-skim milk	milk	is	IS-A
-pritikin	who	is	IS-A
-vitamin d	mushrooms	is	IS-A
-boiling	antioxidants	is	IS-A
-fiber	fruit juice	is	IS-A
-beans	tea	is	IS-A
-pork	ham	is	IS-A
-butyrate	colon	is	IS-A
-diet	nutrition	is	IS-A
-cataracts	vision loss	is	IS-A
-vegetables	diet	is	IS-A
-pain	colic	is	IS-A
-fish consumption	salmon	is	IS-A
-acid producing	diet	is	IS-A
-bell peppers	vegetable	is	IS-A
-choline	death	is	IS-A
-igf	signal	is	IS-A
-apple juice	flight	is	IS-A
-hibiscus	herbal tea	is	IS-A
-back pain	sciatica	is	IS-A
-protein	plant protein	is	IS-A
 fish consumption	pcbs	is	IS-A
 bacteria	dental plaque	is	IS-A
 fructose	table sugar	is	IS-A
@@ -1024,8 +981,14 @@ beans	coffee	is	IS-A
 bell peppers	raw	is	IS-A
 potassium	fiber	is	IS-A
 exercise	disease	is	IS-A
+sodium intake	mediterranean diet	is	IS-A
 rose hips	osteoarthritis	is	IS-A
+skim milk	milk	is	IS-A
+pritikin	who	is	IS-A
+vitamin d	mushrooms	is	IS-A
 lying	label	is	IS-A
+boiling	antioxidants	is	IS-A
+fiber	fruit juice	is	IS-A
 medicine	exercise	is	IS-A
 turmeric	culture	is	IS-A
 diet	disability	is	IS-A
@@ -1039,11 +1002,8 @@ virus	plant-based diet	is just a	IS-A
 chemical	sulforaphane	is like a	IS-A
 prebiotic	fiber	acts as a	IS-A
 pro-oxidant	high fructose corn syrup	acts as a	IS-A
-poultry	campylobacter	are	IS-A
 chemicals	xenoestrogens	are	IS-A
-bioequivalent	omega	are	IS-A
 chemical	phthalates	are	IS-A
-exposures	drugs	are	IS-A
 insulin	who	are	IS-A
 roots	carrots	are	IS-A
 iodine	vegetarians	are	IS-A
@@ -1052,8 +1012,7 @@ diseases	liver cancer	are	IS-A
 outpouchings	diverticula	are	IS-A
 killer	strokes	are	IS-A
 chemical	organochlorines	are	IS-A
-suffering	odds	are	IS-A
-potato chips	vegetables	are	IS-A
+fat	greens	are	IS-A
 phytonutrient-rich	candy	are	IS-A
 water	tomatoes	are	IS-A
 estrogen receptor	breast tumors	are	IS-A
@@ -1062,11 +1021,12 @@ flax seeds	omega	are	IS-A
 flax seeds	breast cancer survival	are	IS-A
 fruits	pesticides	are	IS-A
 fruit	snacks	are	IS-A
-supplement	supplements	are	IS-A
+fat	phytonutrients	are	IS-A
+fat	salad	are	IS-A
 ballooning bulges	abdominal aortic aneurysms	are	IS-A
 preservatives	nitrites	are	IS-A
 fruit	beans	are	IS-A
-chemicals	birds	are	IS-A
+fat	smoke	are	IS-A
 seeds	grains	are	IS-A
 poultry	salmonella	are	IS-A
 low-calorie diets	plant-based diets	are	IS-A
@@ -1110,7 +1070,6 @@ trigger	milk	is a	IS-A
 poison	fluoride	is a	IS-A
 vegetable	mushrooms	were the	IS-A
 vegetables	garlic	stood out for the	IS-A
-vegetables	raisins	stood out for the	IS-A
 dried fruit	raisins	stood out for the	IS-A
 antioxidant	flavonoids	are a group of	IS-A
 contaminants	insects	are just	IS-A
@@ -1125,7 +1084,6 @@ apples	fruits	, including	HYPERNYMY
 crohn	inflammatory diseases	, including	HYPERNYMY
 shorter cerebellums	pregnancy	, including	HYPERNYMY
 heart disease	diseases	, including	HYPERNYMY
-b-cell	leukemia	, including	HYPERNYMY
 pancreatic cancer	preventing cancer	, including	HYPERNYMY
 turkey	poultry	, including	HYPERNYMY
 fruits	plant kingdom	, including	HYPERNYMY
@@ -1228,7 +1186,6 @@ fruit juice	olive oil	like	HYPERNYMY
 spinach	leafy vegetables	like	HYPERNYMY
 lemonin	lemonoids	like	HYPERNYMY
 stroke	diseases	like	HYPERNYMY
-breast	kale	like	HYPERNYMY
 mcdonald	food restaurants	like	HYPERNYMY
 salmonella	pathogens	like	HYPERNYMY
 microcephaly	abnormalities	like	HYPERNYMY
@@ -1259,7 +1216,6 @@ tylenol	drugs	like	HYPERNYMY
 gingivitis	periodontal diseases	like	HYPERNYMY
 tofu	soy foods	like	HYPERNYMY
 hunger	feelings	like	HYPERNYMY
-methionine	inflammatory bowel diseases	like	HYPERNYMY
 lactic acid	acids	like	HYPERNYMY
 ddt	pollutants	like	HYPERNYMY
 ibuprofen	drug	like	HYPERNYMY
@@ -1272,7 +1228,6 @@ penicillin	drugs	like	HYPERNYMY
 lemons	sour fruit	like	HYPERNYMY
 bacon	processed meats	like	HYPERNYMY
 zeranol	drugs	like	HYPERNYMY
-ginger	herbs	like	HYPERNYMY
 lipitor	statin drugs	like	HYPERNYMY
 palmitic acid	fats	like	HYPERNYMY
 adrenaline	hormones	like	HYPERNYMY
@@ -1282,7 +1237,6 @@ cake	desserts	like	HYPERNYMY
 ginger	nausea	like	HYPERNYMY
 vitamin c	antioxidants	like	HYPERNYMY
 hexachlorobenzene	persistent pollutants	like	HYPERNYMY
-prozac	neurotransmitters	like	HYPERNYMY
 nausea	symptoms	like	HYPERNYMY
 cashews	nuts	like	HYPERNYMY
 fosamax	drugs	like	HYPERNYMY
@@ -1331,7 +1285,6 @@ zeaxanthin	phytonutrients	like	HYPERNYMY
 apples	fruit	like	HYPERNYMY
 serotonin	neurotransmitters	like	HYPERNYMY
 lutein	carotenoids	like	HYPERNYMY
-bpa	graphs	like	HYPERNYMY
 rice	carbohydrates	like	HYPERNYMY
 brussels sprouts	cruciferous vegetables	like	HYPERNYMY
 butyrate	short-chain fatty acids	like	HYPERNYMY
@@ -1441,7 +1394,6 @@ mercury	industrial pollutants	such as	HYPERNYMY
 heart disease	diseases	such as	HYPERNYMY
 cadmium	heavy metals	such as	HYPERNYMY
 bloating	symptoms	such as	HYPERNYMY
-turmeric	greens	such as	HYPERNYMY
 cinnamon	spices	such as	HYPERNYMY
 dioxins	industrial toxins	such as	HYPERNYMY
 erectile dysfunction	adverse effects	such as	HYPERNYMY
@@ -1458,7 +1410,6 @@ antibiotic residues	contaminants	such as	HYPERNYMY
 aspirin	drugs	such as	HYPERNYMY
 nuts	fat	such as	HYPERNYMY
 vitamin c	supplements	such as	HYPERNYMY
-grapefruit	beans	such as	HYPERNYMY
 greens	vegetables	such as	HYPERNYMY
 iron supplements	supplements	such as	HYPERNYMY
 beets	nitrate-rich vegetables	such as	HYPERNYMY
@@ -1513,7 +1464,6 @@ dioxins	industrial carcinogens	such as	HYPERNYMY
 beans	plant foods	such as	HYPERNYMY
 blueberries	fresh fruits	such as	HYPERNYMY
 dental x-rays	radiation	such as	HYPERNYMY
-tuna	industrial pollutants	such as	HYPERNYMY
 skin cancer	cancers	such as	HYPERNYMY
 weight gain	side effects	such as	HYPERNYMY
 spinach	greens	such as	HYPERNYMY
@@ -1533,7 +1483,6 @@ pcb	persistent organic pollutants	such as	HYPERNYMY
 bacon	animal products	such as	HYPERNYMY
 pcb	toxins	such as	HYPERNYMY
 tomatoes	fruits	such as	HYPERNYMY
-multivitamins	vitamin supplements	such as	HYPERNYMY
 nuts	plant foods	such as	HYPERNYMY
 soy	legumes	such as	HYPERNYMY
 raisins	energy	such as	HYPERNYMY
@@ -1607,7 +1556,6 @@ mercury	industrial pollutants	such as	HYPERNYMY
 heart disease	diseases	such as	HYPERNYMY
 cadmium	heavy metals	such as	HYPERNYMY
 bloating	symptoms	such as	HYPERNYMY
-turmeric	greens	such as	HYPERNYMY
 cinnamon	spices	such as	HYPERNYMY
 dioxins	industrial toxins	such as	HYPERNYMY
 erectile dysfunction	adverse effects	such as	HYPERNYMY
@@ -1624,7 +1572,6 @@ antibiotic residues	contaminants	such as	HYPERNYMY
 aspirin	drugs	such as	HYPERNYMY
 nuts	fat	such as	HYPERNYMY
 vitamin c	supplements	such as	HYPERNYMY
-grapefruit	beans	such as	HYPERNYMY
 greens	vegetables	such as	HYPERNYMY
 iron supplements	supplements	such as	HYPERNYMY
 beets	nitrate-rich vegetables	such as	HYPERNYMY
@@ -1679,7 +1626,6 @@ dioxins	industrial carcinogens	such as	HYPERNYMY
 beans	plant foods	such as	HYPERNYMY
 blueberries	fresh fruits	such as	HYPERNYMY
 dental x-rays	radiation	such as	HYPERNYMY
-tuna	industrial pollutants	such as	HYPERNYMY
 skin cancer	cancers	such as	HYPERNYMY
 weight gain	side effects	such as	HYPERNYMY
 spinach	greens	such as	HYPERNYMY
@@ -1699,7 +1645,6 @@ pcb	persistent organic pollutants	such as	HYPERNYMY
 bacon	animal products	such as	HYPERNYMY
 pcb	toxins	such as	HYPERNYMY
 tomatoes	fruits	such as	HYPERNYMY
-multivitamins	vitamin supplements	such as	HYPERNYMY
 nuts	plant foods	such as	HYPERNYMY
 soy	legumes	such as	HYPERNYMY
 raisins	energy	such as	HYPERNYMY
@@ -1812,7 +1757,6 @@ fruit juice	olive oil	like	HYPERNYMY
 spinach	leafy vegetables	like	HYPERNYMY
 lemonin	lemonoids	like	HYPERNYMY
 stroke	diseases	like	HYPERNYMY
-breast	kale	like	HYPERNYMY
 mcdonald	food restaurants	like	HYPERNYMY
 salmonella	pathogens	like	HYPERNYMY
 microcephaly	abnormalities	like	HYPERNYMY
@@ -1843,7 +1787,6 @@ tylenol	drugs	like	HYPERNYMY
 gingivitis	periodontal diseases	like	HYPERNYMY
 tofu	soy foods	like	HYPERNYMY
 hunger	feelings	like	HYPERNYMY
-methionine	inflammatory bowel diseases	like	HYPERNYMY
 lactic acid	acids	like	HYPERNYMY
 ddt	pollutants	like	HYPERNYMY
 ibuprofen	drug	like	HYPERNYMY
@@ -1856,7 +1799,6 @@ penicillin	drugs	like	HYPERNYMY
 lemons	sour fruit	like	HYPERNYMY
 bacon	processed meats	like	HYPERNYMY
 zeranol	drugs	like	HYPERNYMY
-ginger	herbs	like	HYPERNYMY
 lipitor	statin drugs	like	HYPERNYMY
 palmitic acid	fats	like	HYPERNYMY
 adrenaline	hormones	like	HYPERNYMY
@@ -1866,7 +1808,6 @@ cake	desserts	like	HYPERNYMY
 ginger	nausea	like	HYPERNYMY
 vitamin c	antioxidants	like	HYPERNYMY
 hexachlorobenzene	persistent pollutants	like	HYPERNYMY
-prozac	neurotransmitters	like	HYPERNYMY
 nausea	symptoms	like	HYPERNYMY
 cashews	nuts	like	HYPERNYMY
 fosamax	drugs	like	HYPERNYMY
@@ -1915,7 +1856,6 @@ zeaxanthin	phytonutrients	like	HYPERNYMY
 apples	fruit	like	HYPERNYMY
 serotonin	neurotransmitters	like	HYPERNYMY
 lutein	carotenoids	like	HYPERNYMY
-bpa	graphs	like	HYPERNYMY
 rice	carbohydrates	like	HYPERNYMY
 brussels sprouts	cruciferous vegetables	like	HYPERNYMY
 butyrate	short-chain fatty acids	like	HYPERNYMY
@@ -1953,11 +1893,8 @@ berries	stars	are the	HYPERNYMY
 nitrosamines	carcinogens	are the	HYPERNYMY
 fiber	prebiotic	acts as a	HYPERNYMY
 high fructose corn syrup	pro-oxidant	acts as a	HYPERNYMY
-campylobacter	poultry	are	HYPERNYMY
 xenoestrogens	chemicals	are	HYPERNYMY
-omega	bioequivalent	are	HYPERNYMY
 phthalates	chemical	are	HYPERNYMY
-drugs	exposures	are	HYPERNYMY
 who	insulin	are	HYPERNYMY
 carrots	roots	are	HYPERNYMY
 vegetarians	iodine	are	HYPERNYMY
@@ -1966,8 +1903,7 @@ liver cancer	diseases	are	HYPERNYMY
 diverticula	outpouchings	are	HYPERNYMY
 strokes	killer	are	HYPERNYMY
 organochlorines	chemical	are	HYPERNYMY
-odds	suffering	are	HYPERNYMY
-vegetables	potato chips	are	HYPERNYMY
+greens	fat	are	HYPERNYMY
 candy	phytonutrient-rich	are	HYPERNYMY
 tomatoes	water	are	HYPERNYMY
 breast tumors	estrogen receptor	are	HYPERNYMY
@@ -1976,11 +1912,12 @@ omega	flax seeds	are	HYPERNYMY
 breast cancer survival	flax seeds	are	HYPERNYMY
 pesticides	fruits	are	HYPERNYMY
 snacks	fruit	are	HYPERNYMY
-supplements	supplement	are	HYPERNYMY
+phytonutrients	fat	are	HYPERNYMY
+salad	fat	are	HYPERNYMY
 abdominal aortic aneurysms	ballooning bulges	are	HYPERNYMY
 nitrites	preservatives	are	HYPERNYMY
 beans	fruit	are	HYPERNYMY
-birds	chemicals	are	HYPERNYMY
+smoke	fat	are	HYPERNYMY
 grains	seeds	are	HYPERNYMY
 salmonella	poultry	are	HYPERNYMY
 plant-based diets	low-calorie diets	are	HYPERNYMY
@@ -2021,48 +1958,35 @@ vinegar	product	is a	HYPERNYMY
 exercise	stress	is a	HYPERNYMY
 milk	trigger	is a	HYPERNYMY
 fluoride	poison	is a	HYPERNYMY
-gmo soy	gmo	is	HYPERNYMY
-neurotoxin	meat consumption	is	HYPERNYMY
+ham	pork	is	HYPERNYMY
+colon	butyrate	is	HYPERNYMY
 beet juice	nitrate	is	HYPERNYMY
 daily diet	vegetarian	is	HYPERNYMY
 saturated fat	beef	is	HYPERNYMY
 baking soda	sodium bicarbonate	is	HYPERNYMY
+vision loss	cataracts	is	HYPERNYMY
 lymphoma	cancer	is	HYPERNYMY
+diet	vegetables	is	HYPERNYMY
+colic	pain	is	HYPERNYMY
 american diet	dairy products	is	HYPERNYMY
+diet	acid producing	is	HYPERNYMY
 diseases	heart disease	is	HYPERNYMY
 leading killer	parkinson	is	HYPERNYMY
 neurotoxins	bmaa	is	HYPERNYMY
 brain	fat	is	HYPERNYMY
 supplements	fish oil	is	HYPERNYMY
+vegetable	bell peppers	is	HYPERNYMY
+death	choline	is	HYPERNYMY
+signal	igf	is	HYPERNYMY
 teens	pizza	is	HYPERNYMY
+flight	apple juice	is	HYPERNYMY
+herbal tea	hibiscus	is	HYPERNYMY
+sciatica	back pain	is	HYPERNYMY
 drug	aspirin	is	HYPERNYMY
 infants	breastmilk	is	HYPERNYMY
 signal	butyrate	is	HYPERNYMY
 nettle tea	mineral	is	HYPERNYMY
 drink	tea	is	HYPERNYMY
-tea	matcha	is	HYPERNYMY
-mediterranean diet	sodium intake	is	HYPERNYMY
-milk	skim milk	is	HYPERNYMY
-who	pritikin	is	HYPERNYMY
-mushrooms	vitamin d	is	HYPERNYMY
-antioxidants	boiling	is	HYPERNYMY
-fruit juice	fiber	is	HYPERNYMY
-tea	beans	is	HYPERNYMY
-ham	pork	is	HYPERNYMY
-colon	butyrate	is	HYPERNYMY
-nutrition	diet	is	HYPERNYMY
-vision loss	cataracts	is	HYPERNYMY
-diet	vegetables	is	HYPERNYMY
-colic	pain	is	HYPERNYMY
-salmon	fish consumption	is	HYPERNYMY
-diet	acid producing	is	HYPERNYMY
-vegetable	bell peppers	is	HYPERNYMY
-death	choline	is	HYPERNYMY
-signal	igf	is	HYPERNYMY
-flight	apple juice	is	HYPERNYMY
-herbal tea	hibiscus	is	HYPERNYMY
-sciatica	back pain	is	HYPERNYMY
-plant protein	protein	is	HYPERNYMY
 pcbs	fish consumption	is	HYPERNYMY
 dental plaque	bacteria	is	HYPERNYMY
 table sugar	fructose	is	HYPERNYMY
@@ -2070,8 +1994,14 @@ coffee	beans	is	HYPERNYMY
 raw	bell peppers	is	HYPERNYMY
 fiber	potassium	is	HYPERNYMY
 disease	exercise	is	HYPERNYMY
+mediterranean diet	sodium intake	is	HYPERNYMY
 osteoarthritis	rose hips	is	HYPERNYMY
+milk	skim milk	is	HYPERNYMY
+who	pritikin	is	HYPERNYMY
+mushrooms	vitamin d	is	HYPERNYMY
 label	lying	is	HYPERNYMY
+antioxidants	boiling	is	HYPERNYMY
+fruit juice	fiber	is	HYPERNYMY
 exercise	medicine	is	HYPERNYMY
 culture	turmeric	is	HYPERNYMY
 disability	diet	is	HYPERNYMY
@@ -2082,7 +2012,6 @@ turmeric	plant	is just a	HYPERNYMY
 tea drinking	sign	is just a	HYPERNYMY
 plant-based diet	virus	is just a	HYPERNYMY
 garlic	vegetables	stood out for the	HYPERNYMY
-raisins	vegetables	stood out for the	HYPERNYMY
 raisins	dried fruit	stood out for the	HYPERNYMY
 rose hips	fruits	are the	HYPERNYMY
 anthocyanins	pigments	are the	HYPERNYMY
@@ -2092,48 +2021,35 @@ berries	stars	are the	HYPERNYMY
 nitrosamines	carcinogens	are the	HYPERNYMY
 phthalates	chemical	are [	HYPERNYMY
 spirulina	blue-green algae	is a type of	HYPERNYMY
-gmo soy	gmo	is	HYPERNYMY
-neurotoxin	meat consumption	is	HYPERNYMY
+ham	pork	is	HYPERNYMY
+colon	butyrate	is	HYPERNYMY
 beet juice	nitrate	is	HYPERNYMY
 daily diet	vegetarian	is	HYPERNYMY
 saturated fat	beef	is	HYPERNYMY
 baking soda	sodium bicarbonate	is	HYPERNYMY
+vision loss	cataracts	is	HYPERNYMY
 lymphoma	cancer	is	HYPERNYMY
+diet	vegetables	is	HYPERNYMY
+colic	pain	is	HYPERNYMY
 american diet	dairy products	is	HYPERNYMY
+diet	acid producing	is	HYPERNYMY
 diseases	heart disease	is	HYPERNYMY
 leading killer	parkinson	is	HYPERNYMY
 neurotoxins	bmaa	is	HYPERNYMY
 brain	fat	is	HYPERNYMY
 supplements	fish oil	is	HYPERNYMY
+vegetable	bell peppers	is	HYPERNYMY
+death	choline	is	HYPERNYMY
+signal	igf	is	HYPERNYMY
 teens	pizza	is	HYPERNYMY
+flight	apple juice	is	HYPERNYMY
+herbal tea	hibiscus	is	HYPERNYMY
+sciatica	back pain	is	HYPERNYMY
 drug	aspirin	is	HYPERNYMY
 infants	breastmilk	is	HYPERNYMY
 signal	butyrate	is	HYPERNYMY
 nettle tea	mineral	is	HYPERNYMY
 drink	tea	is	HYPERNYMY
-tea	matcha	is	HYPERNYMY
-mediterranean diet	sodium intake	is	HYPERNYMY
-milk	skim milk	is	HYPERNYMY
-who	pritikin	is	HYPERNYMY
-mushrooms	vitamin d	is	HYPERNYMY
-antioxidants	boiling	is	HYPERNYMY
-fruit juice	fiber	is	HYPERNYMY
-tea	beans	is	HYPERNYMY
-ham	pork	is	HYPERNYMY
-colon	butyrate	is	HYPERNYMY
-nutrition	diet	is	HYPERNYMY
-vision loss	cataracts	is	HYPERNYMY
-diet	vegetables	is	HYPERNYMY
-colic	pain	is	HYPERNYMY
-salmon	fish consumption	is	HYPERNYMY
-diet	acid producing	is	HYPERNYMY
-vegetable	bell peppers	is	HYPERNYMY
-death	choline	is	HYPERNYMY
-signal	igf	is	HYPERNYMY
-flight	apple juice	is	HYPERNYMY
-herbal tea	hibiscus	is	HYPERNYMY
-sciatica	back pain	is	HYPERNYMY
-plant protein	protein	is	HYPERNYMY
 pcbs	fish consumption	is	HYPERNYMY
 dental plaque	bacteria	is	HYPERNYMY
 table sugar	fructose	is	HYPERNYMY
@@ -2141,8 +2057,14 @@ coffee	beans	is	HYPERNYMY
 raw	bell peppers	is	HYPERNYMY
 fiber	potassium	is	HYPERNYMY
 disease	exercise	is	HYPERNYMY
+mediterranean diet	sodium intake	is	HYPERNYMY
 osteoarthritis	rose hips	is	HYPERNYMY
+milk	skim milk	is	HYPERNYMY
+who	pritikin	is	HYPERNYMY
+mushrooms	vitamin d	is	HYPERNYMY
 label	lying	is	HYPERNYMY
+antioxidants	boiling	is	HYPERNYMY
+fruit juice	fiber	is	HYPERNYMY
 exercise	medicine	is	HYPERNYMY
 culture	turmeric	is	HYPERNYMY
 disability	diet	is	HYPERNYMY
@@ -2156,11 +2078,8 @@ plant-based diet	virus	is just a	HYPERNYMY
 sulforaphane	chemical	is like a	HYPERNYMY
 fiber	prebiotic	acts as a	HYPERNYMY
 high fructose corn syrup	pro-oxidant	acts as a	HYPERNYMY
-campylobacter	poultry	are	HYPERNYMY
 xenoestrogens	chemicals	are	HYPERNYMY
-omega	bioequivalent	are	HYPERNYMY
 phthalates	chemical	are	HYPERNYMY
-drugs	exposures	are	HYPERNYMY
 who	insulin	are	HYPERNYMY
 carrots	roots	are	HYPERNYMY
 vegetarians	iodine	are	HYPERNYMY
@@ -2169,8 +2088,7 @@ liver cancer	diseases	are	HYPERNYMY
 diverticula	outpouchings	are	HYPERNYMY
 strokes	killer	are	HYPERNYMY
 organochlorines	chemical	are	HYPERNYMY
-odds	suffering	are	HYPERNYMY
-vegetables	potato chips	are	HYPERNYMY
+greens	fat	are	HYPERNYMY
 candy	phytonutrient-rich	are	HYPERNYMY
 tomatoes	water	are	HYPERNYMY
 breast tumors	estrogen receptor	are	HYPERNYMY
@@ -2179,11 +2097,12 @@ omega	flax seeds	are	HYPERNYMY
 breast cancer survival	flax seeds	are	HYPERNYMY
 pesticides	fruits	are	HYPERNYMY
 snacks	fruit	are	HYPERNYMY
-supplements	supplement	are	HYPERNYMY
+phytonutrients	fat	are	HYPERNYMY
+salad	fat	are	HYPERNYMY
 abdominal aortic aneurysms	ballooning bulges	are	HYPERNYMY
 nitrites	preservatives	are	HYPERNYMY
 beans	fruit	are	HYPERNYMY
-birds	chemicals	are	HYPERNYMY
+smoke	fat	are	HYPERNYMY
 grains	seeds	are	HYPERNYMY
 salmonella	poultry	are	HYPERNYMY
 plant-based diets	low-calorie diets	are	HYPERNYMY
@@ -2227,7 +2146,6 @@ milk	trigger	is a	HYPERNYMY
 fluoride	poison	is a	HYPERNYMY
 mushrooms	vegetable	were the	HYPERNYMY
 garlic	vegetables	stood out for the	HYPERNYMY
-raisins	vegetables	stood out for the	HYPERNYMY
 raisins	dried fruit	stood out for the	HYPERNYMY
 flavonoids	antioxidant	are a group of	HYPERNYMY
 insects	contaminants	are just	HYPERNYMY

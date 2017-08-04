@@ -2360,7 +2360,6 @@ dump sentences\T-1208_38_.txt	blood	chili peppers	,	LIST	[,]	2
 dump sentences\A-120_0_.txt	diabetes	insulin	before	PREP	[IN]	2
 dump sentences\V-404_10_.txt	kale	blueberries	or	AND-CONJ	[CC]	2
 dump sentences\V-864_20_.txt	fats	carbohydrates	,	LIST	[,]	2
-dump sentences\A-95_25_.txt	china	taiwan	or	AND-CONJ	[CC]	2
 dump sentences\T-1602_4_.txt	brown rice	diabetes	reduced	DECREASE	[VBD]	2
 dump sentences\V-777_3_.txt	standard american diet	blood	is so toxic to the	INFLUENCE	[VBZ, RB, JJ, TO, DT]	2
 dump sentences\A-30_23_.txt	steroid	hydrocortisone	,	LIST	[,]	2
@@ -4848,7 +4847,6 @@ dump sentences\V-21_27_.txt	contamination	pasteurization	,	LIST	[,]	1
 dump sentences\V-718_8_.txt	meat	domesticated animal	,	LIST	[,]	1
 dump sentences\V-405_9_.txt	bacteria	gluten	, or the	AND-CONJ	[,, CC, DT]	1
 dump sentences\V-248_21_.txt	polyps	diverticulosis	,	LIST	[,]	1
-dump sentences\T-563_2_.txt	china	ddt	are food sources of	PART-OF	[VBP, JJ, NN, NNS, IN]	1
 dump sentences\T-770_5_.txt	formaldehyde	arsenic	,	LIST	[,]	1
 dump sentences\V-89_21_.txt	candy	soda	,	LIST	[,]	1
 dump sentences\V-1075_5_.txt	hepatitis e	zoonotic disease	is a	HYPERNYMY	[VBZ, DT]	1
@@ -5745,12 +5743,10 @@ dump sentences\V-225_9_.txt	cold	cancer	or	AND-CONJ	[CC]	1
 dump sentences\T-2006_4_.txt	eggs	epilepsy	,	LIST	[,]	1
 dump sentences\V-144_8_.txt	thyme	celery	,	LIST	[,]	1
 dump sentences\T-266_13_.txt	obesity	chickens	in	PART-OF	[IN]	2
-dump sentences\A-14_3_.txt	obesity	china	in	PART-OF	[IN]	2
 dump sentences\V-644_17_.txt	gingivitis	cavities	,	LIST	[,]	1
 dump sentences\V-781_7_.txt	mutations	carcinogen	caused by the	CAUSE	[VBN, IN, DT]	1
 dump sentences\V-779_5_.txt	mustard oil	ginger	,	LIST	[,]	1
 dump sentences\T-358_5_.txt	fruits	legumes	,	LIST	[,]	1
-dump sentences\V-317_3_.txt	obesity	china	in	PART-OF	[IN]	2
 dump sentences\A-473_7_.txt	jalapeno	kale	v.	CC	[CC]	1
 dump sentences\T-1843_0_.txt	depression	heart disease	,	LIST	[,]	1
 dump sentences\A-481_6_.txt	vegetables	breast cancer	vs. 	CC	[CC]	1
@@ -6002,7 +5998,6 @@ dump sentences\V-1298_4_.txt	neurotoxins	bmaa	, like	LIST	[,, IN]	1
 dump sentences\V-89_11_.txt	sausage	ice cream	, or	AND-CONJ	[,, CC]	1
 dump sentences\A-290_17_.txt	substance p	neurotransmitter	, a	LIST	[,, DT]	1
 dump sentences\T-1464_1_.txt	cognition	dysmenorrhea	,	LIST	[,]	1
-dump sentences\V-702_1_.txt	united states	china	,	LIST	[,]	1
 dump sentences\V-10_10_.txt	leukemias	nih-aarp study	, the	LIST	[,, DT]	1
 dump sentences\V-490_1_.txt	food poisoning	salmonella	, like	LIST	[,, IN]	1
 dump sentences\V-19_6_.txt	oregano	mint	or	AND-CONJ	[CC]	1
@@ -6044,7 +6039,6 @@ dump sentences\V-408_6_.txt	constipation	young children	in	PART-OF	[IN]	2
 dump sentences\A-57_29_.txt	olive oil	vinegar	,	LIST	[,]	1
 dump sentences\A-53_8_.txt	exercise	meat	, the	LIST	[,, DT]	1
 dump sentences\A-160_27_.txt	pollutants	diabetes	in	PART-OF	[IN]	2
-dump sentences\T-443_3_.txt	diabetes	china	in	PART-OF	[IN]	2
 dump sentences\T-1175_20_.txt	drug residues	e. coli	,	LIST	[,]	1
 dump sentences\V-641_24_.txt	vitamin d2	vitamin	, the	LIST	[,, DT]	1
 dump sentences\T-1730_0_.txt	spirulina	blue-green algae	is a type of	HYPERNYMY	[VBZ, DT, NN, IN]	1
@@ -10784,7 +10778,6 @@ dump sentences\V-46_17_.txt	salicylic acid	cumin	in	PART-OF	[IN]	2
 dump sentences\V-1144_0_.txt	industrial toxins	fish	in	PART-OF	[IN]	2
 dump sentences\T-573_3_.txt	industrial toxins	fish	in	PART-OF	[IN]	2
 dump sentences\V-165_10_.txt	herbs	cardiovascular disease	in	PART-OF	[IN]	2
-dump sentences\V-732_22_.txt	prostate enlargement	china	in	PART-OF	[IN]	2
 dump sentences\V-125_10_.txt	pcbs	seafood	in	PART-OF	[IN]	2
 dump sentences\A-235_18_.txt	pcbs	salmon	in	PART-OF	[IN]	2
 dump sentences\V-521_15_.txt	pcbs	salmon	in	PART-OF	[IN]	2

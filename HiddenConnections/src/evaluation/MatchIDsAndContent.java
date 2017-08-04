@@ -14,8 +14,7 @@ import io.Writer;
  * The problem is that the evaluated data contained some too general instances. On the other hand, it was build with a non-final distant connections/FINAL.txt
  * Everything must be done again but to avoid manual evaluation to be repeated, the manually evaluated must be matched with the new to keep the ids and to add the not evaluated instances.
  * If something in the data changes, run the normal process again:
- * 1. PreparationForIndirectConnections
- * 2. TermAssembler, if terms changed
+ * 1. PreparationForIndirectConnections (term assembler is run by default)
  * 3. Knoten
  * 4. Automatic Evaluation
  * 5. Manual Evaluation
@@ -40,7 +39,7 @@ public class MatchIDsAndContent {
 		for(String line: lines){
 			if(!line.isEmpty() && !line.equals(" ")){
 				String[] splitted = line.split("\t");
-				if(index ==3){
+				if(index ==3 && !String.valueOf(splitted[2]).startsWith("N")){
 					randomInts.add(Integer.parseInt(splitted[2]));
 				}
 				

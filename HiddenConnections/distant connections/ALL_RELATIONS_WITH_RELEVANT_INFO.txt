@@ -6,7 +6,6 @@ coconut oil	coconut oil	FOOD	medium-chain fatty acids	medium-chain fatty acids	I
 cholesterol	cholesterol	INTERMEDIARY_CONCEPT	saturated fat	saturated fat	INTERMEDIARY_CONCEPT	were they able to boost their	EFFECT-I
 inflammation	inflammation	DISEASE	massage	massage	INTERMEDIARY_CONCEPT	could decrease	EFFECT-I
 fertility	fertility	INTERMEDIARY_CONCEPT	saturated fat	saturated fat	INTERMEDIARY_CONCEPT	associated with	LINKED-TO
-polychlorinated naphthalenes	polychlorinated naphthalenes	INTERMEDIARY_CONCEPT	fat	fat	INTERMEDIARY_CONCEPT	in	PART-OF
 fruit juices	fruit juices	FOOD	noni	nonus	FOOD	such as	IS-A
 potato consumption	potato consumption	INTERMEDIARY_CONCEPT	choice	choice	INTERMEDIARY_CONCEPT	in	PART-OF-I
 odds	odds	INTERMEDIARY_CONCEPT	label	label	INTERMEDIARY_CONCEPT	are the	HYPERNYMY
@@ -33,14 +32,9 @@ mercury	mercury	INTERMEDIARY_CONCEPT	brains	brain	INTERMEDIARY_CONCEPT	due to th
 flax seeds	flax seeds	FOOD	omega-3s	omega-3	INTERMEDIARY_CONCEPT	in	PART-OF-I
 turmeric curcumin	turmeric curcumin	INTERMEDIARY_CONCEPT	pain	pain	INTERMEDIARY_CONCEPT	in	PART-OF
 oranges	orange	FOOD	citrus-based fruits	citrus-based fruits	FOOD	such as	HYPERNYMY
-ulcers	ulcer	DISEASE	cranberries	cranberry	FOOD	in	PART-OF
-prevent prediabetes	prevent prediabetes	INTERMEDIARY_CONCEPT	childhood	childhood	INTERMEDIARY_CONCEPT	in	PART-OF
-pork tapeworms	pork tapeworms	INTERMEDIARY_CONCEPT	diet soda	diet soda	INTERMEDIARY_CONCEPT	in	PART-OF
-play	play	INTERMEDIARY_CONCEPT	childhood	childhood	INTERMEDIARY_CONCEPT	in	PART-OF
 roots	root	FOOD	carrots	carrot	FOOD	are	IS-A
 chemotherapy	chemotherapy	INTERMEDIARY_CONCEPT	irritation	irritation	INTERMEDIARY_CONCEPT	associated with	LINKED-TO-I
 inflammation	inflammation	DISEASE	garlic	garlic	FOOD	decreases	EFFECT-I
-rice	rice	FOOD	arsenic	arsenic	INTERMEDIARY_CONCEPT	in	PART-OF-I
 eggs	egg	FOOD	ldl	ldl	INTERMEDIARY_CONCEPT	raise	EFFECT
 nausea	nausea	DISEASE	peppermint	peppermint	FOOD	cut	EFFECT-I
 phytates	phytate	INTERMEDIARY_CONCEPT	cancer cells	cancer cells	INTERMEDIARY_CONCEPT	help block the ability of	EFFECT
@@ -51,10 +45,8 @@ stomach cancer	stomach cancer	DISEASE	salt intake	salt intake	INTERMEDIARY_CONCE
 whole grains	whole grains	FOOD	oats	oats	FOOD	—like	IS-A
 beverages	beverage	FOOD	fruit juice	fruit juice	FOOD	such as	IS-A
 saturated fat	saturated fat	INTERMEDIARY_CONCEPT	animal fat	animal fat	INTERMEDIARY_CONCEPT	in	PART-OF
-fat	fat	INTERMEDIARY_CONCEPT	polychlorinated naphthalenes	polychlorinated naphthalenes	INTERMEDIARY_CONCEPT	in	PART-OF-I
 diabetics	diabetic	INTERMEDIARY_CONCEPT	insulin	insulin	INTERMEDIARY_CONCEPT	in	PART-OF-I
 ingredient	ingredient	INTERMEDIARY_CONCEPT	curry powder	curry powder	FOOD	in	PART-OF
-kale	kale	FOOD	breast	breast	INTERMEDIARY_CONCEPT	like	IS-A
 carbohydrates	carbohydrate	INTERMEDIARY_CONCEPT	orange juice	orange juice	FOOD	in	PART-OF
 energy	energy	INTERMEDIARY_CONCEPT	raisins	raisin	FOOD	such as	IS-A
 turkey	turkey	INTERMEDIARY_CONCEPT	poultry	poultry	FOOD	, including	HYPERNYMY
@@ -64,7 +56,6 @@ poultry workers	poultry workers	INTERMEDIARY_CONCEPT	mortality	mortality	INTERME
 infectious virus	infectious virus	DISEASE	retail meat	retail meat	FOOD	in	PART-OF
 beet juice	beet juice	INTERMEDIARY_CONCEPT	vitamin c	vitamin c	INTERMEDIARY_CONCEPT	in	PART-OF-I
 peppermint	peppermint	FOOD	muscles	muscle	INTERMEDIARY_CONCEPT	does is relax the	EFFECT
-saliva	saliva	INTERMEDIARY_CONCEPT	alcohol	alcohol	FOOD	in	PART-OF-I
 milk	milk	FOOD	leukemia	leukemia	DISEASE	in	PART-OF-I
 muffin	muffin	FOOD	flaxseed	flaxseed	FOOD	-containing	PART-OF-I
 estrogens	estrogen	INTERMEDIARY_CONCEPT	cooked meat	cooked meat	FOOD	in	PART-OF
@@ -73,7 +64,6 @@ exposure	exposure	INTERMEDIARY_CONCEPT	farmworkers	farmworker	INTERMEDIARY_CONCE
 phytoestrogens	phytoestrogen	INTERMEDIARY_CONCEPT	soy	soy	FOOD	, found in	PART-OF
 cramping	cramp	DISEASE	menstrual symptoms	menstrual symptoms	INTERMEDIARY_CONCEPT	, including	HYPERNYMY
 dioxin	dioxin	INTERMEDIARY_CONCEPT	inflammation	inflammation	DISEASE	triggered by	CAUSE
-chicken	chicken	FOOD	infections	infection	DISEASE	in	PART-OF-I
 zeranol	zeranol	INTERMEDIARY_CONCEPT	blood	blood	INTERMEDIARY_CONCEPT	-containing	PART-OF
 garlic sauce	garlic sauce	FOOD	broccoli	broccoli	FOOD	in	PART-OF-I
 poultry exposure	poultry exposure	INTERMEDIARY_CONCEPT	cancer mortality	cancer mortality	INTERMEDIARY_CONCEPT	associated with	LINKED-TO-I
@@ -95,12 +85,11 @@ emphysema	emphysema	DISEASE	smoking	smoking	INTERMEDIARY_CONCEPT	in	PART-OF
 sex hormones	sex hormones	INTERMEDIARY_CONCEPT	eggs	egg	FOOD	in	PART-OF
 chicken	chicken	FOOD	animal products	animal products	INTERMEDIARY_CONCEPT	such as	HYPERNYMY
 fiber	fiber	INTERMEDIARY_CONCEPT	dates	date	INTERMEDIARY_CONCEPT	have	PART-OF
-milk	milk	FOOD	manure	manure	INTERMEDIARY_CONCEPT	in	PART-OF-I
 cluster headache	cluster headache	DISEASE	capsaicin	capsaicin	INTERMEDIARY_CONCEPT	in	PART-OF-I
 choice	choice	INTERMEDIARY_CONCEPT	heart disease	heart disease	DISEASE	is a	IS-A
 acetaldehyde	acetaldehyde	INTERMEDIARY_CONCEPT	saliva	saliva	INTERMEDIARY_CONCEPT	in	PART-OF
+protein	protein	INTERMEDIARY_CONCEPT	soy	soy	FOOD	in	PART-OF
 drinks	drink	FOOD	wine	wine	FOOD	such as	IS-A
-chlorophyll	chlorophyll	INTERMEDIARY_CONCEPT	sunlight	sunlight	INTERMEDIARY_CONCEPT	in	PART-OF
 gallbladder	gallbladder	INTERMEDIARY_CONCEPT	gallstones	gallstone	DISEASE	packed with	PART-OF-I
 operations	operation	INTERMEDIARY_CONCEPT	mrsa	mrsa	INTERMEDIARY_CONCEPT	was each associated with	LINKED-TO
 processed meats	processed meats	FOOD	botulism	botulism	DISEASE	help reduce	EFFECT
@@ -114,14 +103,12 @@ curry powder	curry powder	FOOD	turmeric	turmeric	FOOD	, found in	PART-OF-I
 cancer cells	cancer cells	INTERMEDIARY_CONCEPT	almond milk	almond milk	FOOD	suppressed the growth of these	EFFECT-I
 estrogen receptor	estrogen receptor	INTERMEDIARY_CONCEPT	breast tumors	breast tumors	DISEASE	are	IS-A
 premature puberty	premature puberty	INTERMEDIARY_CONCEPT	girls	girl	INTERMEDIARY_CONCEPT	in	PART-OF
-liver	liver	INTERMEDIARY_CONCEPT	cassia cinnamon	cassia cinnamon	FOOD	in	PART-OF
 cooked meat	cooked meat	FOOD	carcinogens	carcinogen	INTERMEDIARY_CONCEPT	in	PART-OF-I
 industrial carcinogens	industrial carcinogens	INTERMEDIARY_CONCEPT	dioxins	dioxin	INTERMEDIARY_CONCEPT	such as	IS-A
 calories	calorie	INTERMEDIARY_CONCEPT	saturated fat	saturated fat	INTERMEDIARY_CONCEPT	in	PART-OF
 muscle	muscle	INTERMEDIARY_CONCEPT	heme iron	heme iron	INTERMEDIARY_CONCEPT	in	PART-OF-I
 arthritis	arthritis	DISEASE	rheumatoid arthritis	rheumatoid arthritis	DISEASE	, such as	IS-A
 dairy intake	dairy intake	INTERMEDIARY_CONCEPT	parkinson	parkinson	INTERMEDIARY_CONCEPT	in	PART-OF
-chicken	chicken	FOOD	steroids	steroid	INTERMEDIARY_CONCEPT	in	PART-OF-I
 milk	milk	FOOD	casein	casein	INTERMEDIARY_CONCEPT	in	PART-OF-I
 inflammatory bowel diseases	inflammatory bowel diseases	DISEASE	ulcerative colitis	ulcerative colitis	DISEASE	such as	IS-A
 breast cancer	breast cancer	DISEASE	seeds	seed	FOOD	in	PART-OF-I
@@ -130,13 +117,11 @@ black pepper	black pepper	FOOD	turmeric	turmeric	FOOD	boosts the level of the	EF
 carotenoid	carotenoid	INTERMEDIARY_CONCEPT	lutein	lutein	INTERMEDIARY_CONCEPT	is a	IS-A
 oxidation	oxidation	INTERMEDIARY_CONCEPT	spike	spike	INTERMEDIARY_CONCEPT	in	PART-OF-I
 dairy	dairy	INTERMEDIARY_CONCEPT	neurotoxins	neurotoxin	INTERMEDIARY_CONCEPT	in	PART-OF-I
-meat consumption	meat consumption	INTERMEDIARY_CONCEPT	neurotoxin	neurotoxin	INTERMEDIARY_CONCEPT	is	IS-A
 check	check	INTERMEDIARY_CONCEPT	bph	bph	INTERMEDIARY_CONCEPT	in	PART-OF-I
 umbilical cord blood	umbilical cord blood	INTERMEDIARY_CONCEPT	ddt	ddt	INTERMEDIARY_CONCEPT	in	PART-OF-I
 cholesterol	cholesterol	INTERMEDIARY_CONCEPT	nonalcoholic fatty liver	nonalcoholic fatty liver	DISEASE	are associated with	LINKED-TO
 insulin	insulin	INTERMEDIARY_CONCEPT	sucralose	sucralose	INTERMEDIARY_CONCEPT	causes	CAUSED-BY
 rectal flora	rectal flora	INTERMEDIARY_CONCEPT	urinary tract infections	urinary tract infections	DISEASE	serve as a reservoir for	PART-OF-I
-salmonella	salmonella	INTERMEDIARY_CONCEPT	deli meat	deli meat	FOOD	in	PART-OF
 oxidative stress	oxidative stress	INTERMEDIARY_CONCEPT	pesticide	pesticide	INTERMEDIARY_CONCEPT	caused by the	CAUSED-BY
 infants	infant	INTERMEDIARY_CONCEPT	breastmilk	breastmilk	INTERMEDIARY_CONCEPT	is	HYPERNYMY
 mutations	mutation	INTERMEDIARY_CONCEPT	smoking	smoking	INTERMEDIARY_CONCEPT	caused by	CAUSED-BY
@@ -152,45 +137,36 @@ chicken	chicken	FOOD	animal products	animal products	INTERMEDIARY_CONCEPT	like	H
 dental x-rays	dental x-rays	INTERMEDIARY_CONCEPT	brain tumors	brain tumors	DISEASE	are associated with	LINKED-TO
 glycotoxins	glycotoxin	INTERMEDIARY_CONCEPT	cigarette smoke	cigarette smoke	INTERMEDIARY_CONCEPT	in	PART-OF
 xenoestrogens	xenoestrogen	INTERMEDIARY_CONCEPT	pcbs	pcb	INTERMEDIARY_CONCEPT	like	IS-A
+pork	pork	FOOD	protein	protein	INTERMEDIARY_CONCEPT	in	PART-OF-I
 bpa	bpa	INTERMEDIARY_CONCEPT	cardiovascular disease	cardiovascular disease	DISEASE	is associated with	LINKED-TO
 carcinogens	carcinogen	INTERMEDIARY_CONCEPT	cigarette	cigarette	INTERMEDIARY_CONCEPT	in	PART-OF
 culture	culture	INTERMEDIARY_CONCEPT	turmeric	turmeric	FOOD	is	HYPERNYMY
 cinnamon	cinnamon	FOOD	oxalates	oxalate	INTERMEDIARY_CONCEPT	in	PART-OF-I
 animal fat	animal fat	INTERMEDIARY_CONCEPT	industrial carcinogens	industrial carcinogens	INTERMEDIARY_CONCEPT	in	PART-OF-I
 cancer risk	cancer risk	INTERMEDIARY_CONCEPT	radiation	radiation	INTERMEDIARY_CONCEPT	in	PART-OF-I
-kidney function	kidney function	INTERMEDIARY_CONCEPT	phosphorus	phosphorus	INTERMEDIARY_CONCEPT	in	PART-OF-I
-china	china	INTERMEDIARY_CONCEPT	prostate enlargement	prostate enlargement	INTERMEDIARY_CONCEPT	in	PART-OF-I
 cigarette smoking	cigarette smoking	INTERMEDIARY_CONCEPT	lung cancer	lung cancer	DISEASE	causes	CAUSE
-salmon	salmon	INTERMEDIARY_CONCEPT	fish consumption	fish consumption	INTERMEDIARY_CONCEPT	is	HYPERNYMY
 preservatives	preservative	INTERMEDIARY_CONCEPT	chicken	chicken	FOOD	in	PART-OF
 soyfoods	soyfood	INTERMEDIARY_CONCEPT	tofu	tofu	FOOD	like	IS-A
-breast	breast	INTERMEDIARY_CONCEPT	kale	kale	FOOD	like	HYPERNYMY
 diabetes risk	diabetes risk	INTERMEDIARY_CONCEPT	brown rice	brown rice	FOOD	reduced	EFFECT-I
 turmeric	turmeric	FOOD	active ingredient	active ingredient	INTERMEDIARY_CONCEPT	in	PART-OF-I
-pcbs	pcb	INTERMEDIARY_CONCEPT	fats	fat	INTERMEDIARY_CONCEPT	are associated with the	LINKED-TO
+sweet potatoes	sweet potatoes	FOOD	protein	protein	INTERMEDIARY_CONCEPT	in	PART-OF-I
 erectile dysfunction	erectile dysfunction	DISEASE	cholesterol	cholesterol	INTERMEDIARY_CONCEPT	is because it predicts	CAUSED-BY
-gmo soy	gmo soy	INTERMEDIARY_CONCEPT	gmo	gmo	INTERMEDIARY_CONCEPT	is	HYPERNYMY
 aging	age	INTERMEDIARY_CONCEPT	amino acids	amino acids	INTERMEDIARY_CONCEPT	associated with	LINKED-TO-I
 pepsi	pepsi	FOOD	dyspepsia	dyspepsia	DISEASE	in	PART-OF
 wheatgrass juice	wheatgrass juice	INTERMEDIARY_CONCEPT	patients	patient	INTERMEDIARY_CONCEPT	in	PART-OF
 premature puberty	premature puberty	INTERMEDIARY_CONCEPT	chemical pollutants	chemical pollutants	INTERMEDIARY_CONCEPT	due to	CAUSED-BY
 drinks	drink	FOOD	tea	tea	FOOD	, such as	IS-A
-prostate enlargement	prostate enlargement	INTERMEDIARY_CONCEPT	china	china	INTERMEDIARY_CONCEPT	in	PART-OF
 lentils	lentil	FOOD	antioxidant content	antioxidant content	INTERMEDIARY_CONCEPT	have twice the	PART-OF-I
 poultry	poultry	FOOD	salmonella	salmonella	INTERMEDIARY_CONCEPT	in	PART-OF-I
 pcbs	pcb	INTERMEDIARY_CONCEPT	xenoestrogens	xenoestrogen	INTERMEDIARY_CONCEPT	like	HYPERNYMY
-radiation exposure	radiation exposure	INTERMEDIARY_CONCEPT	seafood	seafood	FOOD	in	PART-OF
 sesame seeds	sesame seeds	FOOD	lignans	lignan	INTERMEDIARY_CONCEPT	in	PART-OF-I
 cooked meat	cooked meat	FOOD	phip	phip	INTERMEDIARY_CONCEPT	like	IS-A
 pesticides	pesticide	INTERMEDIARY_CONCEPT	milk	milk	FOOD	, such as pcbs and	HYPERNYMY
-salmonella	salmonella	INTERMEDIARY_CONCEPT	deli meats	deli meats	FOOD	in	PART-OF
 viruses	virus	DISEASE	manure	manure	INTERMEDIARY_CONCEPT	due to	CAUSED-BY
 early onset puberty	early onset puberty	INTERMEDIARY_CONCEPT	girls	girl	INTERMEDIARY_CONCEPT	in	PART-OF
 seafood	seafood	FOOD	radioactivity	radioactivity	INTERMEDIARY_CONCEPT	in	PART-OF-I
-infection	infection	DISEASE	prevalence	prevalence	INTERMEDIARY_CONCEPT	in	PART-OF
 milk	milk	FOOD	bioactive molecules	bioactive molecules	INTERMEDIARY_CONCEPT	in	PART-OF-I
 uganda	uganda	INTERMEDIARY_CONCEPT	hospitals	hospital	INTERMEDIARY_CONCEPT	in	PART-OF-I
-teens	teens	INTERMEDIARY_CONCEPT	toxicity	toxicity	INTERMEDIARY_CONCEPT	in	PART-OF-I
 hesperitin	hesperitin	INTERMEDIARY_CONCEPT	citrus	citrus	FOOD	in	PART-OF
 inflammation	inflammation	DISEASE	herbs	herb	FOOD	has the power to reduce	EFFECT-I
 athletes	athlete	INTERMEDIARY_CONCEPT	dna damage	dna damage	INTERMEDIARY_CONCEPT	in	PART-OF-I
@@ -209,11 +185,9 @@ dietary guidelines	dietary guidelines	INTERMEDIARY_CONCEPT	greece	greece	INTERME
 dna mutations	dna mutations	INTERMEDIARY_CONCEPT	liquid smoke	liquid smoke	INTERMEDIARY_CONCEPT	causes	CAUSED-BY
 tomatoes	tomato	FOOD	water	water	INTERMEDIARY_CONCEPT	are	HYPERNYMY
 production	production	INTERMEDIARY_CONCEPT	ulcerative colitis	ulcerative colitis	DISEASE	is associated with	LINKED-TO
-vomiting	vomit	INTERMEDIARY_CONCEPT	nausea	nausea	DISEASE	in	PART-OF
 nettle tea	nettle tea	FOOD	iron	iron	INTERMEDIARY_CONCEPT	does have the	PART-OF-I
 preservative	preservative	INTERMEDIARY_CONCEPT	dried fruit	dried fruit	FOOD	in	PART-OF
 fecal bacteria	fecal bacteria	INTERMEDIARY_CONCEPT	chicken	chicken	FOOD	in	PART-OF-I
-breast milk	breast milk	FOOD	womb	womb	INTERMEDIARY_CONCEPT	in	PART-OF-I
 salmonella	salmonella	INTERMEDIARY_CONCEPT	eggs	egg	FOOD	in	PART-OF
 superbugs	superbug	INTERMEDIARY_CONCEPT	mrsa	mrsa	INTERMEDIARY_CONCEPT	(like	IS-A
 depression	depression	INTERMEDIARY_CONCEPT	folate	folate	INTERMEDIARY_CONCEPT	led to	CAUSED-BY
@@ -223,13 +197,10 @@ aspartame	aspartame	FOOD	headaches	headache	DISEASE	associated with	LINKED-TO-I
 endorphins	endorphin	INTERMEDIARY_CONCEPT	skin	skin	INTERMEDIARY_CONCEPT	released by your	PART-OF
 candy	candy	FOOD	phytonutrient-rich	phytonutrient-rich	INTERMEDIARY_CONCEPT	are	HYPERNYMY
 artificial sweeteners	artificial sweeteners	FOOD	splenda	splenda	INTERMEDIARY_CONCEPT	like	IS-A
-peoria	peoria	INTERMEDIARY_CONCEPT	penicillin	penicillin	INTERMEDIARY_CONCEPT	in	PART-OF-I
 dairy	dairy	INTERMEDIARY_CONCEPT	aging	age	INTERMEDIARY_CONCEPT	accelerates the	EFFECT
 lipitor	lipitor	INTERMEDIARY_CONCEPT	statins	statin	INTERMEDIARY_CONCEPT	like	HYPERNYMY
-deli meats	deli meats	FOOD	salmonella	salmonella	INTERMEDIARY_CONCEPT	in	PART-OF-I
 french fries	french fries	FOOD	acrylamide	acrylamide	INTERMEDIARY_CONCEPT	in	PART-OF-I
 product	product	INTERMEDIARY_CONCEPT	vinegar	vinegar	FOOD	is a	IS-A
-mood	mood	INTERMEDIARY_CONCEPT	carbohydrates	carbohydrate	INTERMEDIARY_CONCEPT	in	PART-OF-I
 rice	rice	FOOD	carbohydrates	carbohydrate	INTERMEDIARY_CONCEPT	like	HYPERNYMY
 breast cancer survival	breast cancer survival	INTERMEDIARY_CONCEPT	flax seeds	flax seeds	FOOD	are	HYPERNYMY
 phytochemicals	phytochemical	INTERMEDIARY_CONCEPT	grapefruit	grapefruit	FOOD	in	PART-OF
@@ -240,7 +211,6 @@ fruit juice	fruit juice	FOOD	olive oil	olive oil	FOOD	like	HYPERNYMY
 signal	signal	INTERMEDIARY_CONCEPT	butyrate	butyrate	INTERMEDIARY_CONCEPT	is	HYPERNYMY
 carcinogens	carcinogen	INTERMEDIARY_CONCEPT	chicken	chicken	FOOD	in	PART-OF
 eggs	egg	FOOD	baking	bake	INTERMEDIARY_CONCEPT	in	PART-OF
-anthocyanin phytonutrients	anthocyanin phytonutrients	INTERMEDIARY_CONCEPT	sweet	sweet	INTERMEDIARY_CONCEPT	in	PART-OF
 titanium dioxide	titanium dioxide	INTERMEDIARY_CONCEPT	microparticles	microparticle	INTERMEDIARY_CONCEPT	such as	HYPERNYMY
 beef	beef	FOOD	saturated fat	saturated fat	INTERMEDIARY_CONCEPT	, without the	PART-OF-I
 cancer growth	cancer growth	INTERMEDIARY_CONCEPT	exercise	exercise	INTERMEDIARY_CONCEPT	was because of the	CAUSED-BY
@@ -258,9 +228,7 @@ ulcerative colitis	ulcerative colitis	DISEASE	inflammatory bowel diseases	inflam
 nausea	nausea	DISEASE	ginger	ginger	FOOD	like	IS-A
 nutrition research	nutrition research	INTERMEDIARY_CONCEPT	reductionism	reductionism	INTERMEDIARY_CONCEPT	in	PART-OF-I
 rheumatoid arthritis	rheumatoid arthritis	DISEASE	death	death	DISEASE	in	PART-OF-I
-toxicity	toxicity	INTERMEDIARY_CONCEPT	teens	teens	INTERMEDIARY_CONCEPT	in	PART-OF
 atherosclerosis	atherosclerosis	DISEASE	chronic inflammation	chronic inflammation	INTERMEDIARY_CONCEPT	in	PART-OF-I
-nuts	nut	FOOD	fat	fat	INTERMEDIARY_CONCEPT	are a preferable source of	PART-OF-I
 yellow pigment	yellow pigment	INTERMEDIARY_CONCEPT	turmeric	turmeric	FOOD	in	PART-OF
 acne	acne	DISEASE	illnesses	illness	INTERMEDIARY_CONCEPT	, such as	HYPERNYMY
 agent	agent	INTERMEDIARY_CONCEPT	poultry	poultry	FOOD	in	PART-OF
@@ -275,14 +243,11 @@ blood sugar	blood sugar	INTERMEDIARY_CONCEPT	raisins	raisin	FOOD	caused less of 
 beverages	beverage	FOOD	hibiscus tea	hibiscus tea	FOOD	such as	IS-A
 calcium	calcium	INTERMEDIARY_CONCEPT	dairy	dairy	INTERMEDIARY_CONCEPT	in	PART-OF
 milk	milk	FOOD	galactose	galactose	INTERMEDIARY_CONCEPT	in	PART-OF-I
-deli meat	deli meat	FOOD	salmonella	salmonella	INTERMEDIARY_CONCEPT	in	PART-OF-I
 cooking	cooking	INTERMEDIARY_CONCEPT	carcinogens	carcinogen	INTERMEDIARY_CONCEPT	caused by	CAUSE
 cooked meat	cooked meat	FOOD	muscle tremors	muscle tremors	DISEASE	due to the levels of	CAUSE
 gallstones	gallstone	DISEASE	gallbladder	gallbladder	INTERMEDIARY_CONCEPT	packed with	PART-OF
 recipe	recipe	INTERMEDIARY_CONCEPT	mayo	mayo	FOOD	like	IS-A
 antiperspirants	antiperspirant	INTERMEDIARY_CONCEPT	aluminum	aluminum	INTERMEDIARY_CONCEPT	-containing	PART-OF-I
-leucine	leucine	INTERMEDIARY_CONCEPT	conventional diet	conventional diet	INTERMEDIARY_CONCEPT	in	PART-OF-I
-breast cancer	breast cancer	DISEASE	improved survival	improved survival	INTERMEDIARY_CONCEPT	in	PART-OF-I
 pesticides	pesticide	INTERMEDIARY_CONCEPT	arsenic	arsenic	INTERMEDIARY_CONCEPT	-containing	PART-OF-I
 nitrites	nitrite	INTERMEDIARY_CONCEPT	processed meats	processed meats	FOOD	in	PART-OF
 estrogenic compounds	estrogenic compounds	INTERMEDIARY_CONCEPT	water	water	INTERMEDIARY_CONCEPT	in	PART-OF
@@ -295,12 +260,9 @@ tumors	tumor	DISEASE	primates	primate	INTERMEDIARY_CONCEPT	in	PART-OF
 bpa	bpa	INTERMEDIARY_CONCEPT	plastics	plastic	INTERMEDIARY_CONCEPT	in	PART-OF
 desserts	dessert	FOOD	cake	cake	INTERMEDIARY_CONCEPT	like	IS-A
 parasites	parasite	INTERMEDIARY_CONCEPT	brain	brain	INTERMEDIARY_CONCEPT	such as	IS-A
-teats	teat	INTERMEDIARY_CONCEPT	cows	cow	INTERMEDIARY_CONCEPT	in	PART-OF
 vinegar	vinegar	FOOD	appetite	appetite	INTERMEDIARY_CONCEPT	helps with both	EFFECT
 inflammatory bowel diseases	inflammatory bowel diseases	DISEASE	crohn	crohn	INTERMEDIARY_CONCEPT	such as	IS-A
-ham	ham	INTERMEDIARY_CONCEPT	meat science	meat science	INTERMEDIARY_CONCEPT	in	PART-OF
 placebo	placebo	INTERMEDIARY_CONCEPT	boosting	boost	INTERMEDIARY_CONCEPT	in	PART-OF
-soy	soy	FOOD	workers	worker	INTERMEDIARY_CONCEPT	in	PART-OF-I
 heartburn	heartburn	DISEASE	gerd	gerd	DISEASE	, such as	HYPERNYMY
 curry powder	curry powder	FOOD	cancer cells	cancer cells	INTERMEDIARY_CONCEPT	kills	EFFECT
 muscle tissues	muscle tissues	INTERMEDIARY_CONCEPT	poultry	poultry	FOOD	in	PART-OF
@@ -311,14 +273,12 @@ modern medicine	modern medicine	INTERMEDIARY_CONCEPT	surgery	surgery	INTERMEDIAR
 active ingredient	active ingredient	INTERMEDIARY_CONCEPT	stevia	stevia	FOOD	in	PART-OF
 vegetarian	vegetarian	INTERMEDIARY_CONCEPT	arachidonic acid	arachidonic acid	INTERMEDIARY_CONCEPT	in	PART-OF-I
 nitric oxide	nitric oxide	INTERMEDIARY_CONCEPT	viagra	viagra	INTERMEDIARY_CONCEPT	works: it boosts	EFFECT-I
-steroids	steroid	INTERMEDIARY_CONCEPT	chicken	chicken	FOOD	in	PART-OF
 breastmilk	breastmilk	INTERMEDIARY_CONCEPT	infants	infant	INTERMEDIARY_CONCEPT	is	IS-A
 noroviruses	norovirus	DISEASE	fecal pathogens	fecal pathogens	INTERMEDIARY_CONCEPT	due to	CAUSE
 agent	agent	INTERMEDIARY_CONCEPT	atherosclerosis	atherosclerosis	DISEASE	in	PART-OF
 athletes	athlete	INTERMEDIARY_CONCEPT	immune function	immune function	INTERMEDIARY_CONCEPT	in	PART-OF-I
 chickens	chicken	FOOD	toxin genes	toxin genes	INTERMEDIARY_CONCEPT	could spread	PART-OF-I
 pro-oxidant	pro-oxidant	INTERMEDIARY_CONCEPT	high fructose corn syrup	high fructose corn syrup	FOOD	acts as a	IS-A
-breast cancer	breast cancer	DISEASE	phytoestrogens	phytoestrogen	INTERMEDIARY_CONCEPT	in	PART-OF-I
 dairy	dairy	INTERMEDIARY_CONCEPT	contamination	contamination	INTERMEDIARY_CONCEPT	in	PART-OF-I
 spike	spike	INTERMEDIARY_CONCEPT	aluminum excretion	aluminum excretion	INTERMEDIARY_CONCEPT	in	PART-OF
 seeds	seed	FOOD	arginine	arginine	INTERMEDIARY_CONCEPT	are a source of	PART-OF-I
@@ -331,6 +291,7 @@ pcbs	pcb	INTERMEDIARY_CONCEPT	salmon	salmon	INTERMEDIARY_CONCEPT	in	PART-OF
 product	product	INTERMEDIARY_CONCEPT	balsamic vinegar	balsamic vinegar	INTERMEDIARY_CONCEPT	is a	IS-A
 xylitol	xylitol	INTERMEDIARY_CONCEPT	sugar	sugar	FOOD	in	PART-OF
 zinc	zinc	INTERMEDIARY_CONCEPT	rice	rice	FOOD	in	PART-OF
+protein	protein	INTERMEDIARY_CONCEPT	calcium	calcium	INTERMEDIARY_CONCEPT	boosts	EFFECT
 endotoxins	endotoxin	INTERMEDIARY_CONCEPT	raw	raw	INTERMEDIARY_CONCEPT	in	PART-OF
 loss	loss	INTERMEDIARY_CONCEPT	muscle strength	muscle strength	INTERMEDIARY_CONCEPT	in	PART-OF
 food additives	food additives	FOOD	polysorbate 80	polysorbate 80	INTERMEDIARY_CONCEPT	like	IS-A
@@ -344,13 +305,11 @@ crohn's disease	crohn's disease	DISEASE	antibodies	antibody	INTERMEDIARY_CONCEPT
 food cans	food cans	INTERMEDIARY_CONCEPT	cans	can	INTERMEDIARY_CONCEPT	—like	IS-A
 exercise	exercise	INTERMEDIARY_CONCEPT	medicine	medicine	INTERMEDIARY_CONCEPT	is	HYPERNYMY
 health	health	INTERMEDIARY_CONCEPT	obesity	obesity	DISEASE	caused by	CAUSED-BY
-ground flax	ground flax	FOOD	diabetics	diabetic	INTERMEDIARY_CONCEPT	in	PART-OF
 stomach cancer	stomach cancer	DISEASE	salt	salt	INTERMEDIARY_CONCEPT	associated with	LINKED-TO
 reticuloendotheliosis viruses	reticuloendotheliosis viruses	DISEASE	poultry workers	poultry workers	INTERMEDIARY_CONCEPT	in	PART-OF
 multivitamins	multivitamin	FOOD	copper	copper	INTERMEDIARY_CONCEPT	in	PART-OF-I
 baking soda	baking soda	INTERMEDIARY_CONCEPT	sodium bicarbonate	sodium bicarbonate	INTERMEDIARY_CONCEPT	is	HYPERNYMY
 soy foods	soy foods	FOOD	tofu	tofu	FOOD	like	IS-A
-obesity	obesity	DISEASE	china	china	INTERMEDIARY_CONCEPT	in	PART-OF
 flax	flax	FOOD	phytoestrogens	phytoestrogen	INTERMEDIARY_CONCEPT	in	PART-OF-I
 boost	boost	INTERMEDIARY_CONCEPT	defenses	defens	INTERMEDIARY_CONCEPT	in	PART-OF
 lipitor	lipitor	INTERMEDIARY_CONCEPT	statin drugs	statin drugs	INTERMEDIARY_CONCEPT	like	HYPERNYMY
@@ -369,7 +328,6 @@ hesperidin	hesperidin	INTERMEDIARY_CONCEPT	citrus	citrus	FOOD	in	PART-OF
 safety	safety	INTERMEDIARY_CONCEPT	chicken	chicken	FOOD	in	PART-OF
 chicken	chicken	FOOD	phthalates	phthalate	INTERMEDIARY_CONCEPT	in	PART-OF-I
 suicide	suicide	INTERMEDIARY_CONCEPT	coffee	coffee	FOOD	is associated with decreased	LINKED-TO-I
-fat	fat	INTERMEDIARY_CONCEPT	nuts	nut	FOOD	, such as	IS-A
 soy milk	soy milk	FOOD	calcium	calcium	INTERMEDIARY_CONCEPT	in	PART-OF-I
 statins	statin	INTERMEDIARY_CONCEPT	breast cancer	breast cancer	DISEASE	had decreased	EFFECT
 popcorn lung	popcorn lung	INTERMEDIARY_CONCEPT	workers	worker	INTERMEDIARY_CONCEPT	in	PART-OF
@@ -395,29 +353,27 @@ spinach	spinach	FOOD	aromatase	aromatase	INTERMEDIARY_CONCEPT	dropped	EFFECT
 chocolate	chocolate	FOOD	sugar	sugar	FOOD	in	PART-OF-I
 carcinogens	carcinogen	INTERMEDIARY_CONCEPT	animal fat	animal fat	INTERMEDIARY_CONCEPT	in	PART-OF
 oxidant stress	oxidant stress	INTERMEDIARY_CONCEPT	spike	spike	INTERMEDIARY_CONCEPT	in	PART-OF-I
+calcium	calcium	INTERMEDIARY_CONCEPT	protein	protein	INTERMEDIARY_CONCEPT	boosts	EFFECT-I
 pill form	pill form	INTERMEDIARY_CONCEPT	vinegar	vinegar	FOOD	in	PART-OF-I
 seafood	seafood	FOOD	reaction	reaction	INTERMEDIARY_CONCEPT	due to	CAUSE
 neurodegenerative diseases	neurodegenerative diseases	DISEASE	als	al	INTERMEDIARY_CONCEPT	like	IS-A
 exercise	exercise	INTERMEDIARY_CONCEPT	free radicals	free radicals	INTERMEDIARY_CONCEPT	creates	CAUSE
 swap	swap	INTERMEDIARY_CONCEPT	soy protein	soy protein	FOOD	in	PART-OF
-cheese	cheese	FOOD	steroids	steroid	INTERMEDIARY_CONCEPT	in	PART-OF-I
 antibiotics	antibiotic	INTERMEDIARY_CONCEPT	white meat	white meat	FOOD	in	PART-OF
-amyloid beta	amyloid beta	INTERMEDIARY_CONCEPT	alzheimer	alzheimer	INTERMEDIARY_CONCEPT	in	PART-OF
 beans	bean	FOOD	dioxins	dioxin	INTERMEDIARY_CONCEPT	block the effects of	EFFECT
 crohn	crohn	INTERMEDIARY_CONCEPT	inflammatory bowel diseases	inflammatory bowel diseases	DISEASE	such as	HYPERNYMY
 viruses	virus	DISEASE	chicken meat	chicken meat	FOOD	in	PART-OF
 statins	statin	INTERMEDIARY_CONCEPT	cholesterol-lowering drugs	cholesterol-lowering drugs	INTERMEDIARY_CONCEPT	, such as	HYPERNYMY
 poultry exposure	poultry exposure	INTERMEDIARY_CONCEPT	liver	liver	INTERMEDIARY_CONCEPT	tied to	LINKED-TO
-igf	igf	INTERMEDIARY_CONCEPT	childhood	childhood	INTERMEDIARY_CONCEPT	in	PART-OF
 milk proteins	milk proteins	FOOD	breast milk	breast milk	FOOD	in	PART-OF
 blood sugar	blood sugar	INTERMEDIARY_CONCEPT	saturated fat	saturated fat	INTERMEDIARY_CONCEPT	raises	EFFECT-I
-urinary tract infections	urinary tract infections	DISEASE	carotenoids	carotenoid	INTERMEDIARY_CONCEPT	in	PART-OF
 milk	milk	FOOD	acne	acne	DISEASE	in	PART-OF-I
 grapes	grape	FOOD	aromatase	aromatase	INTERMEDIARY_CONCEPT	suppress the activity of	EFFECT
 heterocyclic amines	heterocyclic amines	INTERMEDIARY_CONCEPT	chicken	chicken	FOOD	in	PART-OF
 free radicals	free radicals	INTERMEDIARY_CONCEPT	dna damage	dna damage	INTERMEDIARY_CONCEPT	would decrease the rate of	EFFECT
 apple	apple	FOOD	sugar	sugar	FOOD	in	PART-OF-I
 prevotella	prevotella	INTERMEDIARY_CONCEPT	carbohydrates	carbohydrate	INTERMEDIARY_CONCEPT	are associated with the	LINKED-TO-I
+protein	protein	INTERMEDIARY_CONCEPT	miso	miso	FOOD	in	PART-OF
 animal products	animal products	INTERMEDIARY_CONCEPT	fish oil	fish oil	INTERMEDIARY_CONCEPT	such as	IS-A
 mediterranean diet	mediterranean diet	INTERMEDIARY_CONCEPT	sodium intake	sodium intake	INTERMEDIARY_CONCEPT	is	HYPERNYMY
 pain	pain	INTERMEDIARY_CONCEPT	muscle damage	muscle damage	INTERMEDIARY_CONCEPT	to cause	CAUSED-BY
@@ -444,14 +400,12 @@ tea drinking	tea drinking	INTERMEDIARY_CONCEPT	sign	sign	INTERMEDIARY_CONCEPT	is
 tomatoes	tomato	FOOD	red pigment	red pigment	INTERMEDIARY_CONCEPT	in	PART-OF-I
 vegetarian women	vegetarian women	INTERMEDIARY_CONCEPT	breast cancer	breast cancer	DISEASE	in	PART-OF-I
 cholesterol	cholesterol	INTERMEDIARY_CONCEPT	egg	egg	FOOD	in	PART-OF
-anthocyanin phytonutrients	anthocyanin phytonutrients	INTERMEDIARY_CONCEPT	tart	tart	INTERMEDIARY_CONCEPT	in	PART-OF
 death	death	DISEASE	muscle	muscle	INTERMEDIARY_CONCEPT	in	PART-OF-I
 poultry	poultry	FOOD	salmonella	salmonella	INTERMEDIARY_CONCEPT	are	IS-A
 nutritional yeast	nutritional yeast	FOOD	infection	infection	DISEASE	cut their rates of	EFFECT
 cake	cake	INTERMEDIARY_CONCEPT	cholesterol	cholesterol	INTERMEDIARY_CONCEPT	in	PART-OF-I
 salt	salt	INTERMEDIARY_CONCEPT	miso	miso	FOOD	in	PART-OF
 choline	choline	INTERMEDIARY_CONCEPT	eggs	egg	FOOD	in	PART-OF
-life	life	INTERMEDIARY_CONCEPT	chemical pollutants	chemical pollutants	INTERMEDIARY_CONCEPT	in	PART-OF-I
 acids	acid	INTERMEDIARY_CONCEPT	lactic acid	lactic acid	INTERMEDIARY_CONCEPT	like	IS-A
 biogenic amines	biogenic amines	INTERMEDIARY_CONCEPT	seafood	seafood	FOOD	in	PART-OF
 persistent pollutants	persistent pollutants	INTERMEDIARY_CONCEPT	ddt	ddt	INTERMEDIARY_CONCEPT	like	IS-A
@@ -473,7 +427,6 @@ pregnancy	pregnancy	INTERMEDIARY_CONCEPT	vomiting	vomit	INTERMEDIARY_CONCEPT	in	
 nitrites	nitrite	INTERMEDIARY_CONCEPT	celery	celery	FOOD	to create	CAUSED-BY
 sheep	sheep	INTERMEDIARY_CONCEPT	infertility	infertility	DISEASE	in	PART-OF-I
 turmeric	turmeric	FOOD	dna damage	dna damage	INTERMEDIARY_CONCEPT	such as	HYPERNYMY
-neurotoxic chemicals	neurotoxic chemicals	INTERMEDIARY_CONCEPT	dairy	dairy	INTERMEDIARY_CONCEPT	in	PART-OF
 lifestyle medicine	lifestyle medicine	INTERMEDIARY_CONCEPT	specialty	specialty	INTERMEDIARY_CONCEPT	is	IS-A
 vaccines	vaccine	INTERMEDIARY_CONCEPT	mercury	mercury	INTERMEDIARY_CONCEPT	-containing	PART-OF-I
 cooking	cooking	INTERMEDIARY_CONCEPT	carcinogens	carcinogen	INTERMEDIARY_CONCEPT	created by	CAUSE
@@ -488,16 +441,12 @@ fibromyalgia	fibromyalgia	DISEASE	sweeteners	sweetener	FOOD	such as	HYPERNYMY
 diabetes	diabetes	INTERMEDIARY_CONCEPT	eggs	egg	FOOD	associated with	LINKED-TO-I
 infertility	infertility	DISEASE	sheep	sheep	INTERMEDIARY_CONCEPT	in	PART-OF
 pro-oxidant	pro-oxidant	INTERMEDIARY_CONCEPT	iron	iron	INTERMEDIARY_CONCEPT	is a	IS-A
-manure	manure	INTERMEDIARY_CONCEPT	milk	milk	FOOD	in	PART-OF
 chocolate	chocolate	FOOD	calories	calorie	INTERMEDIARY_CONCEPT	in	PART-OF-I
 biomarkers	biomarker	INTERMEDIARY_CONCEPT	psa	psa	INTERMEDIARY_CONCEPT	such as	IS-A
 cholesterol	cholesterol	INTERMEDIARY_CONCEPT	eggs	egg	FOOD	, found in	PART-OF
 processed foods	processed foods	FOOD	steroids	steroid	INTERMEDIARY_CONCEPT	in	PART-OF-I
 killers	killer	INTERMEDIARY_CONCEPT	heart disease	heart disease	DISEASE	like	IS-A
-vegetarians	vegetarian	INTERMEDIARY_CONCEPT	active ingredient	active ingredient	INTERMEDIARY_CONCEPT	in	PART-OF-I
 leafy vegetables	leafy vegetables	FOOD	spinach	spinach	FOOD	like	IS-A
-fat	fat	INTERMEDIARY_CONCEPT	nutrition	nutrition	INTERMEDIARY_CONCEPT	helps suck up the	EFFECT
-survival	survival	INTERMEDIARY_CONCEPT	dairy	dairy	INTERMEDIARY_CONCEPT	in	PART-OF-I
 artificial sweeteners	artificial sweeteners	FOOD	sweet	sweet	INTERMEDIARY_CONCEPT	in	PART-OF
 domoic acid	domoic acid	INTERMEDIARY_CONCEPT	tuna	tuna	FOOD	in	PART-OF
 intestinal infections	intestinal infections	INTERMEDIARY_CONCEPT	piglets	piglet	INTERMEDIARY_CONCEPT	in	PART-OF
@@ -511,20 +460,17 @@ tomatoes	tomato	FOOD	lycopene	lycopene	INTERMEDIARY_CONCEPT	in	PART-OF-I
 atherosclerosis	atherosclerosis	DISEASE	vegan diet	vegan diet	INTERMEDIARY_CONCEPT	could reverse	EFFECT-I
 respiratory tract infections	respiratory tract infections	DISEASE	pneumonia	pneumonia	DISEASE	such as	IS-A
 allergy	allergy	DISEASE	antibodies	antibody	INTERMEDIARY_CONCEPT	associated	LINKED-TO
-prevalence	prevalence	INTERMEDIARY_CONCEPT	infection	infection	DISEASE	in	PART-OF-I
 water	water	INTERMEDIARY_CONCEPT	nutrition	nutrition	INTERMEDIARY_CONCEPT	is a source of	PART-OF-I
 food poisoning	food poisoning	FOOD	salmonella	salmonella	INTERMEDIARY_CONCEPT	like	IS-A
 raisin bran	raisin bran	FOOD	raisins	raisin	FOOD	in	PART-OF-I
 eggs	egg	FOOD	salmonella	salmonella	INTERMEDIARY_CONCEPT	in	PART-OF-I
 kombu	kombu	INTERMEDIARY_CONCEPT	soymilk	soymilk	FOOD	-containing	PART-OF
-mood	mood	INTERMEDIARY_CONCEPT	fat	fat	INTERMEDIARY_CONCEPT	in	PART-OF
 polonium	polonium	INTERMEDIARY_CONCEPT	cigarettes	cigarette	INTERMEDIARY_CONCEPT	in	PART-OF
 eggs	egg	FOOD	macular degeneration	macular degeneration	DISEASE	help people with	EFFECT
 epidemic	epidemic	INTERMEDIARY_CONCEPT	diabetes	diabetes	INTERMEDIARY_CONCEPT	in	PART-OF
 eggs	egg	FOOD	diabetes	diabetes	INTERMEDIARY_CONCEPT	associated with	LINKED-TO
 deformities	deformity	DISEASE	rickets	rickets	DISEASE	associated with	LINKED-TO
 nuts	nut	FOOD	fiber	fiber	INTERMEDIARY_CONCEPT	in	PART-OF-I
-eating eggs	eating eggs	FOOD	egg consumption	egg consumption	INTERMEDIARY_CONCEPT	in	PART-OF
 meat carcinogens	meat carcinogens	INTERMEDIARY_CONCEPT	chicken	chicken	FOOD	in	PART-OF
 brain health	brain health	INTERMEDIARY_CONCEPT	dha	dha	INTERMEDIARY_CONCEPT	in	PART-OF-I
 bread	bread	FOOD	gluten	gluten	FOOD	packed	PART-OF
@@ -551,7 +497,6 @@ breast cancer	breast cancer	DISEASE	bovine leukemia virus	bovine leukemia virus	
 arteries	artery	INTERMEDIARY_CONCEPT	cardiac disease	cardiac disease	DISEASE	associated with	LINKED-TO
 virus	virus	DISEASE	poultry	poultry	FOOD	in	PART-OF
 tums	tum	INTERMEDIARY_CONCEPT	pills	pill	INTERMEDIARY_CONCEPT	—like	HYPERNYMY
-fat	fat	INTERMEDIARY_CONCEPT	bacteroides	bacteroide	INTERMEDIARY_CONCEPT	are associated with the	LINKED-TO
 dementia	dementia	DISEASE	alzheimer	alzheimer	INTERMEDIARY_CONCEPT	in	PART-OF
 tea	tea	FOOD	drinks	drink	FOOD	, such as	HYPERNYMY
 cancer prevention	cancer prevention	INTERMEDIARY_CONCEPT	poultry exposure	poultry exposure	INTERMEDIARY_CONCEPT	in	PART-OF
@@ -560,9 +505,7 @@ allergies	allergy	DISEASE	childhood	childhood	INTERMEDIARY_CONCEPT	in	PART-OF
 patients	patient	INTERMEDIARY_CONCEPT	remission	remission	INTERMEDIARY_CONCEPT	in	PART-OF-I
 smoking	smoking	INTERMEDIARY_CONCEPT	lung cancer	lung cancer	DISEASE	causes	CAUSED-BY
 death	death	DISEASE	galactose	galactose	INTERMEDIARY_CONCEPT	associated with the	LINKED-TO
-brain	brain	INTERMEDIARY_CONCEPT	fat	fat	INTERMEDIARY_CONCEPT	is	HYPERNYMY
 bacon	bacon	FOOD	animal products	animal products	INTERMEDIARY_CONCEPT	such as	HYPERNYMY
-conventional diet	conventional diet	INTERMEDIARY_CONCEPT	leucine	leucine	INTERMEDIARY_CONCEPT	in	PART-OF
 bpa	bpa	INTERMEDIARY_CONCEPT	plastics	plastic	INTERMEDIARY_CONCEPT	, found in	PART-OF
 pregnancy	pregnancy	INTERMEDIARY_CONCEPT	shorter cerebellums	shorter cerebellums	INTERMEDIARY_CONCEPT	, including	IS-A
 preparation	preparation	INTERMEDIARY_CONCEPT	teeth	tooth	INTERMEDIARY_CONCEPT	in	PART-OF-I
@@ -571,8 +514,6 @@ aspirin	aspirin	INTERMEDIARY_CONCEPT	anti-inflammatory drugs	anti-inflammatory d
 poultry	poultry	FOOD	mortality	mortality	INTERMEDIARY_CONCEPT	associated with	LINKED-TO-I
 proxy	proxy	INTERMEDIARY_CONCEPT	animal protein	animal protein	INTERMEDIARY_CONCEPT	is just a	IS-A
 als	al	INTERMEDIARY_CONCEPT	neurodegenerative diseases	neurodegenerative diseases	DISEASE	, including	HYPERNYMY
-sitting	sit	INTERMEDIARY_CONCEPT	raw broccoli	raw broccoli	FOOD	in	PART-OF
-milk	milk	FOOD	girls	girl	INTERMEDIARY_CONCEPT	in	PART-OF
 neurotoxic chemicals	neurotoxic chemicals	INTERMEDIARY_CONCEPT	cheese	cheese	FOOD	in	PART-OF
 glucose	glucose	INTERMEDIARY_CONCEPT	insulin sensitivity	insulin sensitivity	DISEASE	in	PART-OF-I
 cancer patients	cancer patients	INTERMEDIARY_CONCEPT	survival	survival	INTERMEDIARY_CONCEPT	in	PART-OF-I
@@ -586,11 +527,9 @@ cigarette	cigarette	INTERMEDIARY_CONCEPT	benzene	benzene	INTERMEDIARY_CONCEPT	in
 hummus	hummus	FOOD	carrot	carrot	FOOD	in	PART-OF-I
 folks	folk	INTERMEDIARY_CONCEPT	brain	brain	INTERMEDIARY_CONCEPT	in	PART-OF-I
 grains	grain	INTERMEDIARY_CONCEPT	gluten	gluten	FOOD	-containing	PART-OF-I
-acne	acne	DISEASE	dairy	dairy	INTERMEDIARY_CONCEPT	in	PART-OF-I
 parasites	parasite	INTERMEDIARY_CONCEPT	burgers	burger	INTERMEDIARY_CONCEPT	in	PART-OF
 grapes	grape	FOOD	resveratrol	resveratrol	INTERMEDIARY_CONCEPT	in	PART-OF-I
 raisins	raisin	FOOD	energy	energy	INTERMEDIARY_CONCEPT	such as	HYPERNYMY
-chicken	chicken	FOOD	allergies	allergy	DISEASE	in	PART-OF-I
 brains	brain	INTERMEDIARY_CONCEPT	mercury	mercury	INTERMEDIARY_CONCEPT	due to the high levels of	CAUSED-BY
 endostatin	endostatin	INTERMEDIARY_CONCEPT	angiogenesis inhibitors	angiogenesis inhibitors	INTERMEDIARY_CONCEPT	like	HYPERNYMY
 seafood	seafood	FOOD	domoic acid	domoic acid	INTERMEDIARY_CONCEPT	, found in	PART-OF-I
@@ -598,7 +537,6 @@ chronic diseases	chronic diseases	DISEASE	cardiovascular disease	cardiovascular 
 animal products	animal products	INTERMEDIARY_CONCEPT	pesticides	pesticide	INTERMEDIARY_CONCEPT	in	PART-OF-I
 soymilk	soymilk	FOOD	kombu	kombu	INTERMEDIARY_CONCEPT	-containing	PART-OF-I
 diabetes	diabetes	INTERMEDIARY_CONCEPT	aid	aid	INTERMEDIARY_CONCEPT	in	PART-OF-I
-odds	odds	INTERMEDIARY_CONCEPT	suffering	suffer	INTERMEDIARY_CONCEPT	are	HYPERNYMY
 treatment	treatment	INTERMEDIARY_CONCEPT	cardiovascular disease	cardiovascular disease	DISEASE	in	PART-OF
 depressive symptoms	depressive symptoms	INTERMEDIARY_CONCEPT	inflammation	inflammation	DISEASE	to trigger	CAUSED-BY
 casein	casein	INTERMEDIARY_CONCEPT	cow	cow	INTERMEDIARY_CONCEPT	in	PART-OF
@@ -610,27 +548,22 @@ bioflavonoids	bioflavonoid	INTERMEDIARY_CONCEPT	citrus	citrus	FOOD	in	PART-OF
 dioxins	dioxin	INTERMEDIARY_CONCEPT	industrial toxins	industrial toxins	INTERMEDIARY_CONCEPT	such as	HYPERNYMY
 cardiovascular disease	cardiovascular disease	DISEASE	treatment	treatment	INTERMEDIARY_CONCEPT	in	PART-OF-I
 phytochemicals	phytochemical	INTERMEDIARY_CONCEPT	beans	bean	FOOD	in	PART-OF
-stevia	stevia	FOOD	graph	graph	INTERMEDIARY_CONCEPT	in	PART-OF-I
 sugar	sugar	FOOD	chocolate	chocolate	FOOD	in	PART-OF
 folate	folate	INTERMEDIARY_CONCEPT	beans	bean	FOOD	in	PART-OF
 chicken	chicken	FOOD	meat carcinogens	meat carcinogens	INTERMEDIARY_CONCEPT	in	PART-OF-I
 blueberries	blueberry	FOOD	fresh fruits	fresh fruits	FOOD	such as	HYPERNYMY
 teas	tea	FOOD	hibiscus	hibiscus	FOOD	like	IS-A
 killer	killer	INTERMEDIARY_CONCEPT	strokes	stroke	DISEASE	are	IS-A
-peoria	peoria	INTERMEDIARY_CONCEPT	doses	dose	INTERMEDIARY_CONCEPT	in	PART-OF-I
 salmonella	salmonella	INTERMEDIARY_CONCEPT	poultry	poultry	FOOD	in	PART-OF
 phosphate additives	phosphate additives	INTERMEDIARY_CONCEPT	chicken	chicken	FOOD	in	PART-OF
 bread	bread	FOOD	gluten	gluten	FOOD	-containing	PART-OF-I
 anthocyanins	anthocyanin	INTERMEDIARY_CONCEPT	bananas	banana	FOOD	in	PART-OF
 fiber	fiber	INTERMEDIARY_CONCEPT	nutritional yeast	nutritional yeast	FOOD	in	PART-OF
 nuts	nut	FOOD	peanuts	peanut	FOOD	, including	IS-A
-livestock	livestock	INTERMEDIARY_CONCEPT	diabetes	diabetes	INTERMEDIARY_CONCEPT	in	PART-OF-I
 bump	bump	INTERMEDIARY_CONCEPT	potassium	potassium	INTERMEDIARY_CONCEPT	in	PART-OF
 alzheimer	alzheimer	INTERMEDIARY_CONCEPT	brain diseases	brain diseases	DISEASE	like	HYPERNYMY
 kidney failure	kidney failure	DISEASE	death	death	DISEASE	in	PART-OF-I
-artery	artery	INTERMEDIARY_CONCEPT	plaque	plaque	INTERMEDIARY_CONCEPT	in	PART-OF-I
 dried fruit	dried fruit	FOOD	preservative	preservative	INTERMEDIARY_CONCEPT	in	PART-OF-I
-beef	beef	FOOD	genitals	genitals	INTERMEDIARY_CONCEPT	in	PART-OF-I
 grapefruit	grapefruit	FOOD	phytochemicals	phytochemical	INTERMEDIARY_CONCEPT	in	PART-OF-I
 gluten	gluten	FOOD	bread	bread	FOOD	-containing	PART-OF
 inflammatory response	inflammatory response	INTERMEDIARY_CONCEPT	animal protein	animal protein	INTERMEDIARY_CONCEPT	triggered by the	CAUSED-BY
@@ -655,14 +588,12 @@ estrogens	estrogen	INTERMEDIARY_CONCEPT	hops	hop	FOOD	in	PART-OF
 dental x-rays	dental x-rays	INTERMEDIARY_CONCEPT	radiation	radiation	INTERMEDIARY_CONCEPT	such as	HYPERNYMY
 tea	tea	FOOD	bergamottin	bergamottin	INTERMEDIARY_CONCEPT	is a source of	PART-OF-I
 trans fats	trans fats	INTERMEDIARY_CONCEPT	food additives	food additives	FOOD	like	HYPERNYMY
-stickiness	stickiness	INTERMEDIARY_CONCEPT	urine	urine	INTERMEDIARY_CONCEPT	in	PART-OF
 poultry	poultry	FOOD	contamination	contamination	INTERMEDIARY_CONCEPT	in	PART-OF-I
 cranberry juice	cranberry juice	FOOD	sugar	sugar	FOOD	without added	PART-OF-I
 splenda	splenda	INTERMEDIARY_CONCEPT	artificial sweeteners	artificial sweeteners	FOOD	like	HYPERNYMY
 preservatives	preservative	INTERMEDIARY_CONCEPT	dioxin	dioxin	INTERMEDIARY_CONCEPT	-containing	PART-OF-I
 israel	israel	INTERMEDIARY_CONCEPT	boy	boy	INTERMEDIARY_CONCEPT	in	PART-OF-I
 xenoestrogens	xenoestrogen	INTERMEDIARY_CONCEPT	polychlorinated biphenyls	polychlorinated biphenyls	INTERMEDIARY_CONCEPT	like	IS-A
-gmo	gmo	INTERMEDIARY_CONCEPT	gmo soy	gmo soy	INTERMEDIARY_CONCEPT	is	IS-A
 chronic inflammation	chronic inflammation	INTERMEDIARY_CONCEPT	atherosclerosis	atherosclerosis	DISEASE	in	PART-OF
 inflammation	inflammation	DISEASE	domesticated animal	domesticated animal	INTERMEDIARY_CONCEPT	triggered by	CAUSED-BY
 diabetes risk	diabetes risk	INTERMEDIARY_CONCEPT	iron	iron	INTERMEDIARY_CONCEPT	was associated with	LINKED-TO-I
@@ -672,7 +603,6 @@ mushrooms	mushroom	FOOD	pyrogallol	pyrogallol	INTERMEDIARY_CONCEPT	, found in	PA
 heart disease	heart disease	DISEASE	killers	killer	INTERMEDIARY_CONCEPT	like	HYPERNYMY
 dna	dna	INTERMEDIARY_CONCEPT	liquid smoke	liquid smoke	INTERMEDIARY_CONCEPT	causes	CAUSED-BY
 survival	survival	INTERMEDIARY_CONCEPT	cancer patients	cancer patients	INTERMEDIARY_CONCEPT	in	PART-OF
-dairy intake	dairy intake	INTERMEDIARY_CONCEPT	life	life	INTERMEDIARY_CONCEPT	in	PART-OF
 dha	dha	INTERMEDIARY_CONCEPT	brain health	brain health	INTERMEDIARY_CONCEPT	in	PART-OF
 cranberries	cranberry	FOOD	nutrient synergy	nutrient synergy	INTERMEDIARY_CONCEPT	in	PART-OF-I
 sodium bicarbonate	sodium bicarbonate	INTERMEDIARY_CONCEPT	kidney	kidney	INTERMEDIARY_CONCEPT	decreases	EFFECT
@@ -680,19 +610,18 @@ neurodegenerative diseases	neurodegenerative diseases	DISEASE	alzheimer	alzheime
 apples	apple	FOOD	fungal toxins	fungal toxins	INTERMEDIARY_CONCEPT	in	PART-OF-I
 uganda	uganda	INTERMEDIARY_CONCEPT	bread	bread	FOOD	in	PART-OF-I
 peppermint	peppermint	FOOD	nausea	nausea	DISEASE	cut	EFFECT
-poultry	poultry	FOOD	campylobacter	campylobacter	INTERMEDIARY_CONCEPT	are	IS-A
 heme iron	heme iron	INTERMEDIARY_CONCEPT	animal products	animal products	INTERMEDIARY_CONCEPT	in	PART-OF
 chinese	chinese	INTERMEDIARY_CONCEPT	lead	lead	INTERMEDIARY_CONCEPT	in	PART-OF-I
 diabetes	diabetes	INTERMEDIARY_CONCEPT	obesity	obesity	DISEASE	predisposes us to	CAUSED-BY
 melatonin	melatonin	INTERMEDIARY_CONCEPT	cherries	cherry	FOOD	were a source of	PART-OF
 carotenoid phytonutrient	carotenoid phytonutrient	INTERMEDIARY_CONCEPT	lutein	lutein	INTERMEDIARY_CONCEPT	is a	IS-A
 broccoli	broccoli	FOOD	active ingredient	active ingredient	INTERMEDIARY_CONCEPT	in	PART-OF-I
+miso	miso	FOOD	protein	protein	INTERMEDIARY_CONCEPT	in	PART-OF-I
 arsenic	arsenic	INTERMEDIARY_CONCEPT	pesticides	pesticide	INTERMEDIARY_CONCEPT	-containing	PART-OF
 chickens	chicken	FOOD	causes obesity	causes obesity	INTERMEDIARY_CONCEPT	in	PART-OF-I
 pritikin	pritikin	INTERMEDIARY_CONCEPT	who	who	INTERMEDIARY_CONCEPT	is	IS-A
 antiangiogenesis	antiangiogenesis	INTERMEDIARY_CONCEPT	therapies	therapy	INTERMEDIARY_CONCEPT	like	HYPERNYMY
 water	water	INTERMEDIARY_CONCEPT	vinegar	vinegar	FOOD	in	PART-OF-I
-palmitic acid	palmitic acid	INTERMEDIARY_CONCEPT	fats	fat	INTERMEDIARY_CONCEPT	like	HYPERNYMY
 milk	milk	FOOD	goji berries	goji berries	FOOD	in	PART-OF-I
 vitamin supplements	vitamin supplements	INTERMEDIARY_CONCEPT	vitamin c	vitamin c	INTERMEDIARY_CONCEPT	, such as	IS-A
 diabetics	diabetic	INTERMEDIARY_CONCEPT	vinegar	vinegar	FOOD	in	PART-OF-I
@@ -702,28 +631,23 @@ cigarettes	cigarette	INTERMEDIARY_CONCEPT	radioactive polonium	radioactive polon
 vegetarian	vegetarian	INTERMEDIARY_CONCEPT	daily diet	daily diet	INTERMEDIARY_CONCEPT	is	IS-A
 antacids	antacid	INTERMEDIARY_CONCEPT	market	market	INTERMEDIARY_CONCEPT	(like	HYPERNYMY
 ham	ham	INTERMEDIARY_CONCEPT	pork	pork	FOOD	is	HYPERNYMY
+protein	protein	INTERMEDIARY_CONCEPT	milk	milk	FOOD	in	PART-OF
 flight	flight	INTERMEDIARY_CONCEPT	apple juice	apple juice	FOOD	is	HYPERNYMY
-carbohydrate	carbohydrate	INTERMEDIARY_CONCEPT	mood	mood	INTERMEDIARY_CONCEPT	in	PART-OF-I
 apple juice	apple juice	FOOD	sugar	sugar	FOOD	in	PART-OF-I
 irritable bowel syndrome	irritable bowel syndrome	DISEASE	cayenne pepper	cayenne pepper	FOOD	could help with	EFFECT-I
 vitamin d	vitamin d	INTERMEDIARY_CONCEPT	mushrooms	mushroom	FOOD	is	IS-A
 growth hormone	growth hormone	INTERMEDIARY_CONCEPT	igf-1	igf-1	INTERMEDIARY_CONCEPT	is a	IS-A
-high fructose	high fructose	INTERMEDIARY_CONCEPT	soda	soda	INTERMEDIARY_CONCEPT	in	PART-OF
 muscle	muscle	INTERMEDIARY_CONCEPT	death	death	DISEASE	in	PART-OF
-doses	dose	INTERMEDIARY_CONCEPT	peoria	peoria	INTERMEDIARY_CONCEPT	in	PART-OF
 gout sufferers	gout sufferers	INTERMEDIARY_CONCEPT	attacks	attack	INTERMEDIARY_CONCEPT	in	PART-OF-I
 beef	beef	FOOD	saturated fat	saturated fat	INTERMEDIARY_CONCEPT	without the	PART-OF-I
 vitamin c	vitamin c	INTERMEDIARY_CONCEPT	vitamin supplements	vitamin supplements	INTERMEDIARY_CONCEPT	, such as	HYPERNYMY
 pancreatic cancer	pancreatic cancer	DISEASE	vegetable oil	vegetable oil	FOOD	is associated with	LINKED-TO-I
 emphysema	emphysema	DISEASE	copd	copd	DISEASE	—like	HYPERNYMY
-animal fat	animal fat	INTERMEDIARY_CONCEPT	fat	fat	INTERMEDIARY_CONCEPT	in	PART-OF-I
 pork	pork	FOOD	foodborne illness	foodborne illness	INTERMEDIARY_CONCEPT	tied to	LINKED-TO-I
 chicken	chicken	FOOD	viruses	virus	DISEASE	in	PART-OF-I
-olives	olive	FOOD	fat	fat	INTERMEDIARY_CONCEPT	in	PART-OF-I
 processed foods	processed foods	FOOD	health	health	INTERMEDIARY_CONCEPT	have	PART-OF-I
 calcium	calcium	INTERMEDIARY_CONCEPT	milk	milk	FOOD	in	PART-OF
 carbohydrates	carbohydrate	INTERMEDIARY_CONCEPT	insulin	insulin	INTERMEDIARY_CONCEPT	cause a release of	CAUSE
-nuts	nut	FOOD	fat	fat	INTERMEDIARY_CONCEPT	are the best source of	PART-OF-I
 breastfeeding	breastfeed	INTERMEDIARY_CONCEPT	toxicity	toxicity	INTERMEDIARY_CONCEPT	in	PART-OF-I
 health	health	INTERMEDIARY_CONCEPT	nitrate	nitrate	INTERMEDIARY_CONCEPT	such as	IS-A
 pneumonia	pneumonia	DISEASE	respiratory tract infections	respiratory tract infections	DISEASE	such as	HYPERNYMY
@@ -739,9 +663,7 @@ phytates	phytate	INTERMEDIARY_CONCEPT	beans	bean	FOOD	, found in	PART-OF
 crystallization	crystallization	INTERMEDIARY_CONCEPT	inflammatory arthritis	inflammatory arthritis	INTERMEDIARY_CONCEPT	caused by the	CAUSE
 smoothies	smoothie	INTERMEDIARY_CONCEPT	amla	amla	FOOD	have	PART-OF-I
 dna	dna	INTERMEDIARY_CONCEPT	carcinogens	carcinogen	INTERMEDIARY_CONCEPT	cause	CAUSED-BY
-omega	omega	INTERMEDIARY_CONCEPT	bioequivalent	bioequivalent	INTERMEDIARY_CONCEPT	are	HYPERNYMY
 mouthwash	mouthwash	INTERMEDIARY_CONCEPT	alcohol	alcohol	FOOD	-containing	PART-OF-I
-fat	fat	INTERMEDIARY_CONCEPT	industrial contaminants	industrial contaminants	INTERMEDIARY_CONCEPT	in	PART-OF-I
 omega-3s	omega-3	INTERMEDIARY_CONCEPT	dha	dha	INTERMEDIARY_CONCEPT	like	IS-A
 taking supplements	taking supplements	INTERMEDIARY_CONCEPT	potassium	potassium	INTERMEDIARY_CONCEPT	such as	IS-A
 mint leaves	mint leaves	INTERMEDIARY_CONCEPT	water	water	INTERMEDIARY_CONCEPT	in	PART-OF
@@ -754,11 +676,9 @@ chai tea	chai tea	FOOD	ingredient	ingredient	INTERMEDIARY_CONCEPT	in	PART-OF-I
 upper respiratory tract infections	upper respiratory tract infections	DISEASE	common cold	common cold	DISEASE	such as the	IS-A
 livestock	livestock	INTERMEDIARY_CONCEPT	infection	infection	DISEASE	in	PART-OF-I
 aids	aid	INTERMEDIARY_CONCEPT	weight loss	weight loss	DISEASE	in	PART-OF
-china	china	INTERMEDIARY_CONCEPT	ddt	ddt	INTERMEDIARY_CONCEPT	are food sources of	PART-OF-I
 stomach	stomach	INTERMEDIARY_CONCEPT	aid	aid	INTERMEDIARY_CONCEPT	in	PART-OF-I
 antibodies	antibody	INTERMEDIARY_CONCEPT	allergy	allergy	DISEASE	associated	LINKED-TO-I
 estrogen	estrogen	INTERMEDIARY_CONCEPT	breast cancer	breast cancer	DISEASE	in	PART-OF
-industrial contaminants	industrial contaminants	INTERMEDIARY_CONCEPT	fat	fat	INTERMEDIARY_CONCEPT	in	PART-OF
 dairy products	dairy products	FOOD	american diet	american diet	INTERMEDIARY_CONCEPT	is	IS-A
 asthma	asthma	DISEASE	breathing	breathing	INTERMEDIARY_CONCEPT	triggered by	CAUSED-BY
 multiple myeloma	multiple myeloma	DISEASE	pickled vegetables	pickled vegetables	FOOD	are associated with	LINKED-TO-I
@@ -768,22 +688,17 @@ c. diff	c. diff	INTERMEDIARY_CONCEPT	bugs	bug	INTERMEDIARY_CONCEPT	such as salmo
 lignans	lignan	INTERMEDIARY_CONCEPT	sesame seeds	sesame seeds	FOOD	in	PART-OF
 carcinogens	carcinogen	INTERMEDIARY_CONCEPT	dna mutations	dna mutations	INTERMEDIARY_CONCEPT	cause	CAUSE
 dna damage	dna damage	INTERMEDIARY_CONCEPT	free radicals	free radicals	INTERMEDIARY_CONCEPT	would decrease the rate of	EFFECT-I
+whipped cream	whipped cream	FOOD	protein	protein	INTERMEDIARY_CONCEPT	in	PART-OF-I
 music	music	INTERMEDIARY_CONCEPT	metabolism	metabolism	INTERMEDIARY_CONCEPT	slow our	EFFECT
 breast milk	breast milk	FOOD	milk proteins	milk proteins	FOOD	in	PART-OF-I
 anthocyanin phytonutrients	anthocyanin phytonutrients	INTERMEDIARY_CONCEPT	cherries	cherry	FOOD	in	PART-OF
 arsenic	arsenic	INTERMEDIARY_CONCEPT	apple juice	apple juice	FOOD	in	PART-OF
 sunlight	sunlight	INTERMEDIARY_CONCEPT	uv rays	uv rays	INTERMEDIARY_CONCEPT	in	PART-OF-I
-play	play	INTERMEDIARY_CONCEPT	cancer rates	cancer rates	INTERMEDIARY_CONCEPT	in	PART-OF
 pre-school children	pre-school children	INTERMEDIARY_CONCEPT	constipation	constipation	DISEASE	in	PART-OF-I
-nuts	nut	FOOD	fat	fat	INTERMEDIARY_CONCEPT	such as	HYPERNYMY
 polyphenols	polyphenol	INTERMEDIARY_CONCEPT	tea	tea	FOOD	is a great source of	PART-OF
 spike	spike	INTERMEDIARY_CONCEPT	oxidation	oxidation	INTERMEDIARY_CONCEPT	in	PART-OF
 osteoarthritis	osteoarthritis	DISEASE	pain	pain	INTERMEDIARY_CONCEPT	associated with both	LINKED-TO-I
-infections	infection	DISEASE	chicken	chicken	FOOD	in	PART-OF
 atherosclerosis	atherosclerosis	DISEASE	brain	brain	INTERMEDIARY_CONCEPT	due to	CAUSE
-girls	girl	INTERMEDIARY_CONCEPT	endometrial cancer	endometrial cancer	DISEASE	in	PART-OF-I
-depression	depression	INTERMEDIARY_CONCEPT	tomatoes	tomato	FOOD	in	PART-OF
-cows	cow	INTERMEDIARY_CONCEPT	teats	teat	INTERMEDIARY_CONCEPT	in	PART-OF-I
 steroids	steroid	INTERMEDIARY_CONCEPT	farm animals	farm animals	INTERMEDIARY_CONCEPT	in	PART-OF
 patients	patient	INTERMEDIARY_CONCEPT	remission	remission	INTERMEDIARY_CONCEPT	in	PART-OF
 soda	soda	INTERMEDIARY_CONCEPT	cranberry juice	cranberry juice	FOOD	in	PART-OF
@@ -796,9 +711,9 @@ mozart	mozart	INTERMEDIARY_CONCEPT	testosterone	testosterone	INTERMEDIARY_CONCEP
 farmworkers	farmworker	INTERMEDIARY_CONCEPT	exposure	exposure	INTERMEDIARY_CONCEPT	—like	HYPERNYMY
 milk	milk	FOOD	uric acid	uric acid	INTERMEDIARY_CONCEPT	caused	CAUSE
 adverse effects	adverse effects	INTERMEDIARY_CONCEPT	erectile dysfunction	erectile dysfunction	DISEASE	such as	IS-A
-multivitamins	multivitamin	FOOD	vitamin supplements	vitamin supplements	INTERMEDIARY_CONCEPT	such as	HYPERNYMY
 foodborne pathogens	foodborne pathogens	INTERMEDIARY_CONCEPT	salmonella	salmonella	INTERMEDIARY_CONCEPT	like	IS-A
 ketchup	ketchup	FOOD	nicotine	nicotine	INTERMEDIARY_CONCEPT	in	PART-OF-I
+proteins	protein	INTERMEDIARY_CONCEPT	cow	cow	INTERMEDIARY_CONCEPT	in	PART-OF
 phytoestrogens	phytoestrogen	INTERMEDIARY_CONCEPT	soy	soy	FOOD	in	PART-OF
 raisins	raisin	FOOD	blood sugar	blood sugar	INTERMEDIARY_CONCEPT	caused less of a	CAUSE
 cigarette	cigarette	INTERMEDIARY_CONCEPT	dioxins	dioxin	INTERMEDIARY_CONCEPT	in	PART-OF-I
@@ -807,9 +722,7 @@ vitamin e	vitamin e	INTERMEDIARY_CONCEPT	vitamin	vitamin	FOOD	was the	HYPERNYMY
 sun	sun	INTERMEDIARY_CONCEPT	carbs	carb	INTERMEDIARY_CONCEPT	such as	HYPERNYMY
 brain diseases	brain diseases	DISEASE	alzheimer	alzheimer	INTERMEDIARY_CONCEPT	like	IS-A
 death	death	DISEASE	choline	choline	INTERMEDIARY_CONCEPT	is	HYPERNYMY
-yellow pigment	yellow pigment	INTERMEDIARY_CONCEPT	patients	patient	INTERMEDIARY_CONCEPT	in	PART-OF
 phytoestrogens	phytoestrogen	INTERMEDIARY_CONCEPT	flaxseeds	flaxseed	FOOD	in	PART-OF
-china	china	INTERMEDIARY_CONCEPT	diabetes	diabetes	INTERMEDIARY_CONCEPT	in	PART-OF-I
 animal proteins	animal proteins	INTERMEDIARY_CONCEPT	neu5gc	neu5gc	INTERMEDIARY_CONCEPT	, such as	IS-A
 white blood cells	white blood cells	INTERMEDIARY_CONCEPT	autoimmune	autoimmune	INTERMEDIARY_CONCEPT	in	PART-OF
 omega 3	omega 3	INTERMEDIARY_CONCEPT	chicken	chicken	FOOD	has low levels of	PART-OF
@@ -818,11 +731,11 @@ cigarettes	cigarette	INTERMEDIARY_CONCEPT	atherosclerosis	atherosclerosis	DISEAS
 babies	baby	INTERMEDIARY_CONCEPT	iq	iq	INTERMEDIARY_CONCEPT	in	PART-OF-I
 saturated fat	saturated fat	INTERMEDIARY_CONCEPT	fertility	fertility	INTERMEDIARY_CONCEPT	associated with	LINKED-TO-I
 sulforaphane	sulforaphane	INTERMEDIARY_CONCEPT	broccoli sprouts	broccoli sprouts	INTERMEDIARY_CONCEPT	releases	PART-OF
+proteins	protein	INTERMEDIARY_CONCEPT	sulfur	sulfur	INTERMEDIARY_CONCEPT	-containing	PART-OF-I
 blood	blood	INTERMEDIARY_CONCEPT	standard american diet	standard american diet	INTERMEDIARY_CONCEPT	is so toxic to the	EFFECT-I
 blood	blood	INTERMEDIARY_CONCEPT	farm	farm	INTERMEDIARY_CONCEPT	is associated with higher rates of	LINKED-TO-I
 multiple myeloma	multiple myeloma	DISEASE	turmeric	turmeric	FOOD	killed	EFFECT-I
 french fries	french fries	FOOD	carbs	carb	INTERMEDIARY_CONCEPT	such as	HYPERNYMY
-pork	pork	FOOD	mrsa	mrsa	INTERMEDIARY_CONCEPT	in	PART-OF-I
 vitamin e	vitamin e	INTERMEDIARY_CONCEPT	vitamin supplements	vitamin supplements	INTERMEDIARY_CONCEPT	such as	HYPERNYMY
 girls	girl	INTERMEDIARY_CONCEPT	animal protein	animal protein	INTERMEDIARY_CONCEPT	associated with	LINKED-TO
 acne	acne	DISEASE	milk	milk	FOOD	cause	CAUSED-BY
@@ -834,7 +747,6 @@ poultry	poultry	FOOD	liver	liver	INTERMEDIARY_CONCEPT	tied to	LINKED-TO
 isoflavones	isoflavone	INTERMEDIARY_CONCEPT	soy foods	soy foods	FOOD	in	PART-OF
 health	health	INTERMEDIARY_CONCEPT	processed foods	processed foods	FOOD	have	PART-OF
 toxicity	toxicity	INTERMEDIARY_CONCEPT	broccoli	broccoli	FOOD	due to	CAUSED-BY
-fat	fat	INTERMEDIARY_CONCEPT	brain	brain	INTERMEDIARY_CONCEPT	is	IS-A
 tea	tea	FOOD	blood pressure	blood pressure	INTERMEDIARY_CONCEPT	lowers	EFFECT
 high fructose corn syrup	high fructose corn syrup	FOOD	pro-oxidant	pro-oxidant	INTERMEDIARY_CONCEPT	acts as a	HYPERNYMY
 vitamin d	vitamin d	INTERMEDIARY_CONCEPT	mushrooms	mushroom	FOOD	in	PART-OF
@@ -844,14 +756,12 @@ breathing	breathing	INTERMEDIARY_CONCEPT	bump	bump	INTERMEDIARY_CONCEPT	in	PART-
 acetic acid	acetic acid	INTERMEDIARY_CONCEPT	vinegar	vinegar	FOOD	in	PART-OF
 igf	igf	INTERMEDIARY_CONCEPT	signal	signal	INTERMEDIARY_CONCEPT	is	IS-A
 vision loss	vision loss	INTERMEDIARY_CONCEPT	cataracts	cataract	DISEASE	is	HYPERNYMY
-inflammation	inflammation	DISEASE	glycotoxins	glycotoxin	INTERMEDIARY_CONCEPT	in	PART-OF-I
 who	who	INTERMEDIARY_CONCEPT	pesticides	pesticide	INTERMEDIARY_CONCEPT	have higher levels of	PART-OF-I
 animal protein	animal protein	INTERMEDIARY_CONCEPT	amino acids	amino acids	INTERMEDIARY_CONCEPT	in	PART-OF-I
 vegan diet	vegan diet	INTERMEDIARY_CONCEPT	atherosclerosis	atherosclerosis	DISEASE	could reverse	EFFECT
 mints	mint	FOOD	gastrocolic reflex	gastrocolic reflex	INTERMEDIARY_CONCEPT	are used to reduce the	EFFECT
 liquid smoke	liquid smoke	INTERMEDIARY_CONCEPT	dna mutations	dna mutations	INTERMEDIARY_CONCEPT	causes	CAUSE
 girls	girl	INTERMEDIARY_CONCEPT	puberty	puberty	INTERMEDIARY_CONCEPT	in	PART-OF-I
-nuts	nut	FOOD	fat	fat	INTERMEDIARY_CONCEPT	boost	EFFECT
 brain damage	brain damage	INTERMEDIARY_CONCEPT	adolescents	adolescent	INTERMEDIARY_CONCEPT	in	PART-OF
 seeds	seed	FOOD	flax	flax	FOOD	in	PART-OF
 ibs	ib	INTERMEDIARY_CONCEPT	kiwi fruit	kiwi fruit	FOOD	in	PART-OF
@@ -865,9 +775,7 @@ inflammation	inflammation	DISEASE	dioxin	dioxin	INTERMEDIARY_CONCEPT	triggered b
 contamination	contamination	INTERMEDIARY_CONCEPT	poultry	poultry	FOOD	in	PART-OF
 dha	dha	INTERMEDIARY_CONCEPT	fish oil	fish oil	INTERMEDIARY_CONCEPT	in	PART-OF
 berries	berry	FOOD	flavonoids	flavonoid	INTERMEDIARY_CONCEPT	in	PART-OF-I
-metastasis	metastasis	DISEASE	strawberries	strawberry	FOOD	in	PART-OF
 turkey	turkey	INTERMEDIARY_CONCEPT	putrescine	putrescine	INTERMEDIARY_CONCEPT	in	PART-OF-I
-ginger	ginger	FOOD	herbs	herb	FOOD	like	HYPERNYMY
 statins	statin	INTERMEDIARY_CONCEPT	lipitor	lipitor	INTERMEDIARY_CONCEPT	like	IS-A
 beta-carotene	beta-carotene	INTERMEDIARY_CONCEPT	carotenoids	carotenoid	INTERMEDIARY_CONCEPT	like	HYPERNYMY
 muscle	muscle	INTERMEDIARY_CONCEPT	iron	iron	INTERMEDIARY_CONCEPT	in	PART-OF-I
@@ -883,7 +791,7 @@ dairy intake	dairy intake	INTERMEDIARY_CONCEPT	adolescence	adolescence	INTERMEDI
 aluminum	aluminum	INTERMEDIARY_CONCEPT	tea	tea	FOOD	in	PART-OF
 girls	girl	INTERMEDIARY_CONCEPT	breast development	breast development	INTERMEDIARY_CONCEPT	in	PART-OF-I
 breast cancer	breast cancer	DISEASE	flaxseeds	flaxseed	FOOD	in	PART-OF-I
-fat	fat	INTERMEDIARY_CONCEPT	nuts	nut	FOOD	are the best source of	PART-OF
+protein	protein	INTERMEDIARY_CONCEPT	colon cancer	colon cancer	DISEASE	slows the growth of	EFFECT
 menstrual symptoms	menstrual symptoms	INTERMEDIARY_CONCEPT	cramping	cramp	DISEASE	, including	IS-A
 animal products	animal products	INTERMEDIARY_CONCEPT	dairy	dairy	INTERMEDIARY_CONCEPT	such as fish, meat and	IS-A
 dha	dha	INTERMEDIARY_CONCEPT	fish flesh	fish flesh	INTERMEDIARY_CONCEPT	in	PART-OF
@@ -910,8 +818,6 @@ blood	blood	INTERMEDIARY_CONCEPT	spike	spike	INTERMEDIARY_CONCEPT	in	PART-OF-I
 penis size	penis size	INTERMEDIARY_CONCEPT	infant	infant	INTERMEDIARY_CONCEPT	in	PART-OF
 vegetarians	vegetarian	INTERMEDIARY_CONCEPT	chronic disease	chronic disease	DISEASE	in	PART-OF-I
 heart muscle	heart muscle	INTERMEDIARY_CONCEPT	death	death	DISEASE	in	PART-OF
-beta-carotene	beta-carotene	INTERMEDIARY_CONCEPT	pill form	pill form	INTERMEDIARY_CONCEPT	in	PART-OF
-fatty streaks	fatty streaks	INTERMEDIARY_CONCEPT	bad cholesterol	bad cholesterol	INTERMEDIARY_CONCEPT	in	PART-OF-I
 loss	loss	INTERMEDIARY_CONCEPT	intelligence	intelligence	INTERMEDIARY_CONCEPT	in	PART-OF
 pain	pain	INTERMEDIARY_CONCEPT	rheumatoid arthritis	rheumatoid arthritis	DISEASE	associated with	LINKED-TO
 nitrosamines	nitrosamine	INTERMEDIARY_CONCEPT	bacon	bacon	FOOD	in	PART-OF
@@ -921,8 +827,6 @@ mercury	mercury	INTERMEDIARY_CONCEPT	salmon	salmon	INTERMEDIARY_CONCEPT	in	PART-
 chicken	chicken	FOOD	carcinogens	carcinogen	INTERMEDIARY_CONCEPT	in	PART-OF-I
 intelligence	intelligence	INTERMEDIARY_CONCEPT	loss	loss	INTERMEDIARY_CONCEPT	in	PART-OF-I
 reductionism	reductionism	INTERMEDIARY_CONCEPT	nutrition	nutrition	INTERMEDIARY_CONCEPT	in	PART-OF
-gout	gout	DISEASE	uric acid	uric acid	INTERMEDIARY_CONCEPT	in	PART-OF-I
-beans	bean	FOOD	tea	tea	FOOD	is	IS-A
 cholesterol	cholesterol	INTERMEDIARY_CONCEPT	baggage	baggage	INTERMEDIARY_CONCEPT	, such as	HYPERNYMY
 beans	bean	FOOD	soy	soy	FOOD	, such as	IS-A
 eggs	egg	FOOD	cholesterol	cholesterol	INTERMEDIARY_CONCEPT	, found in	PART-OF-I
@@ -934,9 +838,7 @@ yellow pigment	yellow pigment	INTERMEDIARY_CONCEPT	curry powder	curry powder	FOO
 dementia	dementia	DISEASE	shot	shot	INTERMEDIARY_CONCEPT	has	PART-OF-I
 brain tumors	brain tumors	DISEASE	x-rays	x-rays	INTERMEDIARY_CONCEPT	caused the	CAUSED-BY
 herbs	herb	FOOD	cardiovascular disease	cardiovascular disease	DISEASE	in	PART-OF
-avocados	avocado	FOOD	human cells	human cells	INTERMEDIARY_CONCEPT	in	PART-OF-I
 bone	bone	INTERMEDIARY_CONCEPT	tissues	tissue	INTERMEDIARY_CONCEPT	, including	HYPERNYMY
-sugar	sugar	FOOD	death	death	DISEASE	in	PART-OF-I
 yogurt	yogurt	FOOD	butter	butter	FOOD	packed with	PART-OF-I
 infection	infection	DISEASE	nutritional yeast	nutritional yeast	FOOD	cut their rates of	EFFECT-I
 preservatives	preservative	INTERMEDIARY_CONCEPT	nitrites	nitrite	INTERMEDIARY_CONCEPT	are	IS-A
@@ -949,7 +851,6 @@ processed meats	processed meats	FOOD	ham	ham	INTERMEDIARY_CONCEPT	such as	IS-A
 whole grains	whole grains	FOOD	phytates	phytate	INTERMEDIARY_CONCEPT	in	PART-OF-I
 acne	acne	DISEASE	milk intake	milk intake	INTERMEDIARY_CONCEPT	causes	CAUSED-BY
 broccoli	broccoli	FOOD	garlic	garlic	FOOD	in	PART-OF
-fat	fat	INTERMEDIARY_CONCEPT	chocolate	chocolate	FOOD	in	PART-OF
 milk intake	milk intake	INTERMEDIARY_CONCEPT	acne	acne	DISEASE	causes	CAUSE
 water	water	INTERMEDIARY_CONCEPT	green leafies	green leafies	INTERMEDIARY_CONCEPT	in	PART-OF-I
 drink	drink	FOOD	tea	tea	FOOD	is	HYPERNYMY
@@ -962,8 +863,6 @@ mrsa	mrsa	INTERMEDIARY_CONCEPT	superbugs	superbug	INTERMEDIARY_CONCEPT	such as	H
 fructose	fructose	INTERMEDIARY_CONCEPT	hfcs	hfc	INTERMEDIARY_CONCEPT	in	PART-OF
 atherosclerosis	atherosclerosis	DISEASE	cholesterol	cholesterol	INTERMEDIARY_CONCEPT	in	PART-OF-I
 calcium	calcium	INTERMEDIARY_CONCEPT	cow	cow	INTERMEDIARY_CONCEPT	in	PART-OF
-heart attacks	heart attacks	DISEASE	fat	fat	INTERMEDIARY_CONCEPT	had a plug of	PART-OF-I
-grapefruit	grapefruit	FOOD	beans	bean	FOOD	such as	HYPERNYMY
 lamb	lamb	INTERMEDIARY_CONCEPT	parasites	parasite	INTERMEDIARY_CONCEPT	in	PART-OF-I
 chicken	chicken	FOOD	salmonella	salmonella	INTERMEDIARY_CONCEPT	in	PART-OF-I
 fish consumption	fish consumption	INTERMEDIARY_CONCEPT	pcbs	pcb	INTERMEDIARY_CONCEPT	is	IS-A
@@ -975,20 +874,16 @@ cholesterol	cholesterol	INTERMEDIARY_CONCEPT	saturated fat	saturated fat	INTERME
 sodium bicarbonate	sodium bicarbonate	INTERMEDIARY_CONCEPT	baking soda	baking soda	INTERMEDIARY_CONCEPT	is	IS-A
 burn	burn	DISEASE	brown adipose tissue	brown adipose tissue	INTERMEDIARY_CONCEPT	helps	EFFECT-I
 label	label	INTERMEDIARY_CONCEPT	lying	lie	INTERMEDIARY_CONCEPT	is	HYPERNYMY
-numbness	numbness	DISEASE	bowel habits	bowel habits	INTERMEDIARY_CONCEPT	in	PART-OF
 viruses	virus	DISEASE	chicken	chicken	FOOD	in	PART-OF
-standard diet	standard diet	INTERMEDIARY_CONCEPT	leucine	leucine	INTERMEDIARY_CONCEPT	in	PART-OF
 soy	soy	FOOD	plant estrogens	plant estrogens	INTERMEDIARY_CONCEPT	in	PART-OF-I
 patients	patient	INTERMEDIARY_CONCEPT	angina	angina	INTERMEDIARY_CONCEPT	in	PART-OF-I
 pills	pill	INTERMEDIARY_CONCEPT	tums	tum	INTERMEDIARY_CONCEPT	—like	IS-A
 virus	virus	DISEASE	plant-based diet	plant-based diet	INTERMEDIARY_CONCEPT	is just a	IS-A
-fat	fat	INTERMEDIARY_CONCEPT	nuts	nut	FOOD	in	PART-OF
 turkey	turkey	INTERMEDIARY_CONCEPT	poultry	poultry	FOOD	such as	HYPERNYMY
 herbs	herb	FOOD	inflammation	inflammation	DISEASE	has the power to reduce	EFFECT
 acrylamide	acrylamide	INTERMEDIARY_CONCEPT	carbohydrates	carbohydrate	INTERMEDIARY_CONCEPT	due to the effects of	CAUSE
 iron	iron	INTERMEDIARY_CONCEPT	muscle	muscle	INTERMEDIARY_CONCEPT	in	PART-OF
 carcinogens	carcinogen	INTERMEDIARY_CONCEPT	pesticides	pesticide	INTERMEDIARY_CONCEPT	, such as	IS-A
-beans	bean	FOOD	cancer cells	cancer cells	INTERMEDIARY_CONCEPT	in	PART-OF-I
 cells	cell	INTERMEDIARY_CONCEPT	insulin sensitivity	insulin sensitivity	DISEASE	in	PART-OF-I
 beans	bean	FOOD	phytochemicals	phytochemical	INTERMEDIARY_CONCEPT	in	PART-OF-I
 heterocyclic amines	heterocyclic amines	INTERMEDIARY_CONCEPT	cooked meat	cooked meat	FOOD	in	PART-OF
@@ -1006,19 +901,15 @@ vegetarian	vegetarian	INTERMEDIARY_CONCEPT	breast cancer	breast cancer	DISEASE	i
 salmonella	salmonella	INTERMEDIARY_CONCEPT	bugs	bug	INTERMEDIARY_CONCEPT	such as	HYPERNYMY
 spike	spike	INTERMEDIARY_CONCEPT	blood sugar	blood sugar	INTERMEDIARY_CONCEPT	in	PART-OF
 inflammation	inflammation	DISEASE	carcinoma	carcinoma	DISEASE	in	PART-OF
-infectious diseases	infectious diseases	DISEASE	chickens	chicken	FOOD	in	PART-OF
 poultry	poultry	FOOD	salmonella contamination	salmonella contamination	INTERMEDIARY_CONCEPT	in	PART-OF-I
 inflammation	inflammation	DISEASE	pain	pain	INTERMEDIARY_CONCEPT	caused by	CAUSE
 healthy diet	healthy diet	INTERMEDIARY_CONCEPT	beans	bean	FOOD	as a part of a	PART-OF-I
 mood	mood	INTERMEDIARY_CONCEPT	omnivores	omnivore	INTERMEDIARY_CONCEPT	in	PART-OF
 alzheimer	alzheimer	INTERMEDIARY_CONCEPT	dementia	dementia	DISEASE	in	PART-OF-I
-nuts	nut	FOOD	fat	fat	INTERMEDIARY_CONCEPT	in	PART-OF-I
 fiber	fiber	INTERMEDIARY_CONCEPT	whole foods	whole foods	FOOD	packed with	PART-OF
 insulin resistance	insulin resistance	DISEASE	blood	blood	INTERMEDIARY_CONCEPT	causes	CAUSED-BY
-improved survival	improved survival	INTERMEDIARY_CONCEPT	breast cancer	breast cancer	DISEASE	in	PART-OF
 insulin resistance	insulin resistance	DISEASE	diabetes	diabetes	INTERMEDIARY_CONCEPT	are caused by	CAUSE
 smoking	smoking	INTERMEDIARY_CONCEPT	moderation	moderation	INTERMEDIARY_CONCEPT	in	PART-OF
-life	life	INTERMEDIARY_CONCEPT	dairy intake	dairy intake	INTERMEDIARY_CONCEPT	in	PART-OF-I
 short-chain fatty acids	short-chain fatty acids	INTERMEDIARY_CONCEPT	ph	ph	INTERMEDIARY_CONCEPT	is caused by	CAUSE
 ginger	ginger	FOOD	amyloid	amyloid	INTERMEDIARY_CONCEPT	in	PART-OF
 chicken	chicken	FOOD	neurotoxic chemicals	neurotoxic chemicals	INTERMEDIARY_CONCEPT	in	PART-OF-I
@@ -1031,10 +922,8 @@ sleeping pills	sleeping pills	INTERMEDIARY_CONCEPT	valium	valium	INTERMEDIARY_CO
 diabetes	diabetes	INTERMEDIARY_CONCEPT	treatment	treatment	INTERMEDIARY_CONCEPT	in	PART-OF-I
 cholesterol	cholesterol	INTERMEDIARY_CONCEPT	split peas	split peas	FOOD	cut	EFFECT-I
 fiber	fiber	INTERMEDIARY_CONCEPT	potassium	potassium	INTERMEDIARY_CONCEPT	is	HYPERNYMY
-nuts	nut	FOOD	life	life	INTERMEDIARY_CONCEPT	in	PART-OF
 processed foods	processed foods	FOOD	flavor	flavor	INTERMEDIARY_CONCEPT	in	PART-OF-I
 dairy	dairy	INTERMEDIARY_CONCEPT	steroids	steroid	INTERMEDIARY_CONCEPT	in	PART-OF-I
-ingredient	ingredient	INTERMEDIARY_CONCEPT	salads	salad	FOOD	in	PART-OF
 vomiting	vomit	INTERMEDIARY_CONCEPT	morning sickness	morning sickness	DISEASE	associated with	LINKED-TO
 platelet	platelet	INTERMEDIARY_CONCEPT	tomatoes	tomato	FOOD	lowered	EFFECT-I
 carnitine	carnitine	INTERMEDIARY_CONCEPT	tmao production	tmao production	INTERMEDIARY_CONCEPT	in	PART-OF
@@ -1048,9 +937,7 @@ thyroid gland	thyroid gland	INTERMEDIARY_CONCEPT	immune system	immune system	INT
 hunger	hunger	INTERMEDIARY_CONCEPT	feelings	feeling	INTERMEDIARY_CONCEPT	like	HYPERNYMY
 treatment	treatment	INTERMEDIARY_CONCEPT	dna damage	dna damage	INTERMEDIARY_CONCEPT	associated with this	LINKED-TO-I
 folate	folate	INTERMEDIARY_CONCEPT	kiwifruit	kiwifruit	INTERMEDIARY_CONCEPT	has	PART-OF
-saturated fat	saturated fat	INTERMEDIARY_CONCEPT	dysfunction	dysfunction	DISEASE	causes	CAUSE
 dna	dna	INTERMEDIARY_CONCEPT	cancer cells	cancer cells	INTERMEDIARY_CONCEPT	wither away as their	PART-OF
-stevia	stevia	FOOD	big spike	big spike	INTERMEDIARY_CONCEPT	in	PART-OF-I
 tobacco	tobacco	FOOD	copd	copd	DISEASE	is caused by	CAUSE
 fiber	fiber	INTERMEDIARY_CONCEPT	fruit juice	fruit juice	FOOD	is	IS-A
 diabetes	diabetes	INTERMEDIARY_CONCEPT	beta cells	beta cells	INTERMEDIARY_CONCEPT	in	PART-OF-I
@@ -1063,12 +950,10 @@ infertility	infertility	DISEASE	meat intake	meat intake	INTERMEDIARY_CONCEPT	is 
 steroid hormones	steroid hormones	INTERMEDIARY_CONCEPT	dairy	dairy	INTERMEDIARY_CONCEPT	in	PART-OF
 pressure cooking	pressure cooking	INTERMEDIARY_CONCEPT	antioxidant content	antioxidant content	INTERMEDIARY_CONCEPT	reduce the	EFFECT
 turmeric	turmeric	FOOD	multiple myeloma	multiple myeloma	DISEASE	killed	EFFECT
-plaque	plaque	INTERMEDIARY_CONCEPT	artery	artery	INTERMEDIARY_CONCEPT	in	PART-OF
-bacterial endotoxins	bacterial endotoxins	INTERMEDIARY_CONCEPT	inflammation	inflammation	DISEASE	in	PART-OF
+beans	bean	FOOD	protein	protein	INTERMEDIARY_CONCEPT	—like	HYPERNYMY
 pickled vegetables	pickled vegetables	FOOD	multiple myeloma	multiple myeloma	DISEASE	are associated with	LINKED-TO
 skin	skin	INTERMEDIARY_CONCEPT	red wine	red wine	FOOD	in	PART-OF
 caffeine	caffeine	INTERMEDIARY_CONCEPT	chickens	chicken	FOOD	helps keeps the	EFFECT
-graph	graph	INTERMEDIARY_CONCEPT	remission	remission	INTERMEDIARY_CONCEPT	in	PART-OF
 fragrance	fragrance	INTERMEDIARY_CONCEPT	massage	massage	INTERMEDIARY_CONCEPT	without the	PART-OF
 viagra	viagra	INTERMEDIARY_CONCEPT	nitric oxide	nitric oxide	INTERMEDIARY_CONCEPT	works: it boosts	EFFECT
 water	water	INTERMEDIARY_CONCEPT	nettle tea	nettle tea	FOOD	in	PART-OF
@@ -1090,7 +975,6 @@ carcinogens	carcinogen	INTERMEDIARY_CONCEPT	cooking	cooking	INTERMEDIARY_CONCEPT
 breast cancer	breast cancer	DISEASE	estrogen	estrogen	INTERMEDIARY_CONCEPT	in	PART-OF-I
 brain	brain	INTERMEDIARY_CONCEPT	mercury	mercury	INTERMEDIARY_CONCEPT	is bad for	EFFECT-I
 mercury	mercury	INTERMEDIARY_CONCEPT	seafood	seafood	FOOD	, including	HYPERNYMY
-bump	bump	INTERMEDIARY_CONCEPT	fukushima	fukushima	INTERMEDIARY_CONCEPT	in	PART-OF
 bovine casomorphin	bovine casomorphin	INTERMEDIARY_CONCEPT	milk	milk	FOOD	in	PART-OF
 choice	choice	INTERMEDIARY_CONCEPT	potato consumption	potato consumption	INTERMEDIARY_CONCEPT	in	PART-OF
 lavender	lavender	FOOD	findings	finding	INTERMEDIARY_CONCEPT	in	PART-OF-I
@@ -1123,18 +1007,14 @@ adventists	adventist	INTERMEDIARY_CONCEPT	caloric restriction	caloric restrictio
 yersinia	yersinia	INTERMEDIARY_CONCEPT	pork	pork	FOOD	in	PART-OF
 curry powder	curry powder	FOOD	yellow pigment	yellow pigment	INTERMEDIARY_CONCEPT	in	PART-OF-I
 cardiovascular diseases	cardiovascular diseases	DISEASE	stroke	stroke	DISEASE	such as	IS-A
-soda	soda	INTERMEDIARY_CONCEPT	high fructose	high fructose	INTERMEDIARY_CONCEPT	in	PART-OF-I
 kale	kale	FOOD	leafy vegetables	leafy vegetables	FOOD	like	HYPERNYMY
 beans	bean	FOOD	nuts	nut	FOOD	such as soy, and	IS-A
 pcb	pcb	INTERMEDIARY_CONCEPT	persistent organic pollutants	persistent organic pollutants	INTERMEDIARY_CONCEPT	such as	HYPERNYMY
 cayenne pepper	cayenne pepper	FOOD	irritable bowel syndrome	irritable bowel syndrome	DISEASE	could help with	EFFECT
 bologna	bologna	INTERMEDIARY_CONCEPT	cured meats	cured meats	FOOD	like	HYPERNYMY
 insulin sensitivity	insulin sensitivity	DISEASE	glucose	glucose	INTERMEDIARY_CONCEPT	in	PART-OF
-methionine	methionine	INTERMEDIARY_CONCEPT	inflammatory bowel diseases	inflammatory bowel diseases	DISEASE	like	HYPERNYMY
-childhood	childhood	INTERMEDIARY_CONCEPT	play	play	INTERMEDIARY_CONCEPT	in	PART-OF-I
 ddt	ddt	INTERMEDIARY_CONCEPT	pesticides	pesticide	INTERMEDIARY_CONCEPT	like	HYPERNYMY
 tea	tea	FOOD	aluminum	aluminum	INTERMEDIARY_CONCEPT	in	PART-OF-I
-flax seeds	flax seeds	FOOD	lignans	lignan	INTERMEDIARY_CONCEPT	in	PART-OF-I
 immune system	immune system	INTERMEDIARY_CONCEPT	tumors	tumor	DISEASE	are able to trick our	EFFECT-I
 beverages	beverage	FOOD	soda	soda	INTERMEDIARY_CONCEPT	like	IS-A
 carcinogens	carcinogen	INTERMEDIARY_CONCEPT	smoke	smoke	INTERMEDIARY_CONCEPT	in	PART-OF
@@ -1147,7 +1027,6 @@ blood	blood	INTERMEDIARY_CONCEPT	insulin resistance	insulin resistance	DISEASE	c
 neu5gc	neu5gc	INTERMEDIARY_CONCEPT	inflammation	inflammation	DISEASE	triggers	CAUSE
 seaweed	seaweed	INTERMEDIARY_CONCEPT	pills	pill	INTERMEDIARY_CONCEPT	in	PART-OF
 standard american diet	standard american diet	INTERMEDIARY_CONCEPT	blood	blood	INTERMEDIARY_CONCEPT	is so toxic to	EFFECT
-steroids	steroid	INTERMEDIARY_CONCEPT	cheese	cheese	FOOD	in	PART-OF
 aid	aid	INTERMEDIARY_CONCEPT	diabetes	diabetes	INTERMEDIARY_CONCEPT	in	PART-OF
 saturated fat	saturated fat	INTERMEDIARY_CONCEPT	fat cells	fat cells	INTERMEDIARY_CONCEPT	filled with	PART-OF
 xenoestrogens	xenoestrogen	INTERMEDIARY_CONCEPT	birth defects	birth defects	DISEASE	are associated with	LINKED-TO
@@ -1159,7 +1038,6 @@ hibiscus	hibiscus	FOOD	herbal tea	herbal tea	FOOD	is	IS-A
 vitamin c	vitamin c	INTERMEDIARY_CONCEPT	acids	acid	INTERMEDIARY_CONCEPT	like	HYPERNYMY
 beef	beef	FOOD	sex steroid hormones	sex steroid hormones	INTERMEDIARY_CONCEPT	in	PART-OF-I
 plant fat	plant fat	INTERMEDIARY_CONCEPT	nuts	nut	FOOD	, such as	IS-A
-childhood	childhood	INTERMEDIARY_CONCEPT	prevent prediabetes	prevent prediabetes	INTERMEDIARY_CONCEPT	in	PART-OF-I
 heme iron	heme iron	INTERMEDIARY_CONCEPT	muscle	muscle	INTERMEDIARY_CONCEPT	in	PART-OF
 guidelines	guideline	INTERMEDIARY_CONCEPT	who	who	INTERMEDIARY_CONCEPT	creates	CAUSED-BY
 heterocyclic amines	heterocyclic amines	INTERMEDIARY_CONCEPT	carcinogens	carcinogen	INTERMEDIARY_CONCEPT	such as	HYPERNYMY
@@ -1171,7 +1049,6 @@ boosting	boost	INTERMEDIARY_CONCEPT	placebo	placebo	INTERMEDIARY_CONCEPT	in	PART
 urine	urine	INTERMEDIARY_CONCEPT	smell	smell	INTERMEDIARY_CONCEPT	like	HYPERNYMY
 who	who	INTERMEDIARY_CONCEPT	insulin	insulin	INTERMEDIARY_CONCEPT	are	HYPERNYMY
 nutrient synergy	nutrient synergy	INTERMEDIARY_CONCEPT	cranberries	cranberry	FOOD	in	PART-OF
-sweet	sweet	INTERMEDIARY_CONCEPT	anthocyanin phytonutrients	anthocyanin phytonutrients	INTERMEDIARY_CONCEPT	in	PART-OF-I
 methylmercury	methylmercury	INTERMEDIARY_CONCEPT	seafood	seafood	FOOD	in	PART-OF
 pyrogallol	pyrogallol	INTERMEDIARY_CONCEPT	mushrooms	mushroom	FOOD	, found in	PART-OF
 vinegar	vinegar	FOOD	diabetics	diabetic	INTERMEDIARY_CONCEPT	in	PART-OF
@@ -1179,7 +1056,6 @@ hops	hop	FOOD	phytoestrogen	phytoestrogen	INTERMEDIARY_CONCEPT	in	PART-OF-I
 e. coli	e. coli	INTERMEDIARY_CONCEPT	chicken meat	chicken meat	FOOD	in	PART-OF
 milk	milk	FOOD	sugar	sugar	FOOD	in	PART-OF-I
 fecal contamination	fecal contamination	INTERMEDIARY_CONCEPT	poultry	poultry	FOOD	in	PART-OF
-patients	patient	INTERMEDIARY_CONCEPT	yellow pigment	yellow pigment	INTERMEDIARY_CONCEPT	in	PART-OF-I
 dna mutations	dna mutations	INTERMEDIARY_CONCEPT	carcinogens	carcinogen	INTERMEDIARY_CONCEPT	cause	CAUSED-BY
 yersinia	yersinia	INTERMEDIARY_CONCEPT	pork	pork	FOOD	in	PART-OF-I
 leukemia	leukemia	DISEASE	milk	milk	FOOD	in	PART-OF
@@ -1188,12 +1064,12 @@ beef	beef	FOOD	iron	iron	INTERMEDIARY_CONCEPT	in	PART-OF-I
 butter flavor	butter flavor	INTERMEDIARY_CONCEPT	microwave	microwave	INTERMEDIARY_CONCEPT	in	PART-OF
 water	water	INTERMEDIARY_CONCEPT	estrogenic compounds	estrogenic compounds	INTERMEDIARY_CONCEPT	in	PART-OF-I
 pigs	pig	INTERMEDIARY_CONCEPT	hepatitis e	hepatitis e	DISEASE	are the reservoirs of the	PART-OF-I
+anxiety	anxiety	INTERMEDIARY_CONCEPT	protein	protein	INTERMEDIARY_CONCEPT	are associated with lower levels of	LINKED-TO-I
 soft drinks	soft drinks	FOOD	benzene	benzene	INTERMEDIARY_CONCEPT	have	PART-OF-I
 arginine	arginine	INTERMEDIARY_CONCEPT	seeds	seed	FOOD	are a source of	PART-OF
 detoxifying enzymes	detoxifying enzymes	INTERMEDIARY_CONCEPT	broccoli	broccoli	FOOD	boosts the	EFFECT-I
 salmonella contamination	salmonella contamination	INTERMEDIARY_CONCEPT	poultry	poultry	FOOD	in	PART-OF
 turmeric	turmeric	FOOD	curcumin	curcumin	INTERMEDIARY_CONCEPT	in	PART-OF-I
-gut	gut	INTERMEDIARY_CONCEPT	fat	fat	INTERMEDIARY_CONCEPT	causes our	CAUSED-BY
 breast cancer	breast cancer	DISEASE	cooked meat	cooked meat	FOOD	caused by the	CAUSED-BY
 downer	downer	INTERMEDIARY_CONCEPT	anxiety	anxiety	INTERMEDIARY_CONCEPT	, without the	PART-OF
 vegetarians	vegetarian	INTERMEDIARY_CONCEPT	cadmium	cadmium	INTERMEDIARY_CONCEPT	had lower levels of	EFFECT
@@ -1221,12 +1097,9 @@ nut consumption	nut consumption	INTERMEDIARY_CONCEPT	death	death	DISEASE	associa
 chicken	chicken	FOOD	beta-carboline alkaloids	beta-carboline alkaloids	INTERMEDIARY_CONCEPT	, including	IS-A
 nuts	nut	FOOD	nutrition	nutrition	INTERMEDIARY_CONCEPT	are packed with	PART-OF-I
 antioxidant intake	antioxidant intake	INTERMEDIARY_CONCEPT	asthma	asthma	DISEASE	in	PART-OF
-fat	fat	INTERMEDIARY_CONCEPT	heart attacks	heart attacks	DISEASE	had a plug of	PART-OF
-diabetics	diabetic	INTERMEDIARY_CONCEPT	ground flax	ground flax	FOOD	in	PART-OF-I
 garlic	garlic	FOOD	broccoli	broccoli	FOOD	in	PART-OF-I
 adolescence	adolescence	INTERMEDIARY_CONCEPT	dairy intake	dairy intake	INTERMEDIARY_CONCEPT	in	PART-OF-I
 potassium	potassium	INTERMEDIARY_CONCEPT	bump	bump	INTERMEDIARY_CONCEPT	in	PART-OF-I
-raw	raw	INTERMEDIARY_CONCEPT	polonium	polonium	INTERMEDIARY_CONCEPT	in	PART-OF-I
 girls	girl	INTERMEDIARY_CONCEPT	french fries	french fries	FOOD	associated with	LINKED-TO
 pancreatic cancer	pancreatic cancer	DISEASE	carbs	carb	INTERMEDIARY_CONCEPT	was associated with	LINKED-TO-I
 sciatica	sciatica	DISEASE	back pain	back pain	DISEASE	is	HYPERNYMY
@@ -1237,7 +1110,6 @@ processed meats	processed meats	FOOD	nitrites	nitrite	INTERMEDIARY_CONCEPT	in	PA
 domesticated animal	domesticated animal	INTERMEDIARY_CONCEPT	inflammation	inflammation	DISEASE	triggered by	CAUSE
 inflammation	inflammation	DISEASE	depression	depression	INTERMEDIARY_CONCEPT	associated with	LINKED-TO
 ampk	ampk	INTERMEDIARY_CONCEPT	boost	boost	INTERMEDIARY_CONCEPT	in	PART-OF-I
-dysfunction	dysfunction	DISEASE	saturated fat	saturated fat	INTERMEDIARY_CONCEPT	causes	CAUSED-BY
 depression	depression	INTERMEDIARY_CONCEPT	inflammation	inflammation	DISEASE	associated with	LINKED-TO-I
 gluten intolerance	gluten intolerance	INTERMEDIARY_CONCEPT	disorder	disorder	DISEASE	associated with	LINKED-TO-I
 cholesterol	cholesterol	INTERMEDIARY_CONCEPT	atherosclerosis	atherosclerosis	DISEASE	is the cause of	CAUSE
@@ -1250,7 +1122,6 @@ cooking	cooking	INTERMEDIARY_CONCEPT	carcinogens	carcinogen	INTERMEDIARY_CONCEPT
 dioxins	dioxin	INTERMEDIARY_CONCEPT	beans	bean	FOOD	block the effects of	EFFECT-I
 turmeric	turmeric	FOOD	pigment	pigment	INTERMEDIARY_CONCEPT	in	PART-OF-I
 saturated fat	saturated fat	INTERMEDIARY_CONCEPT	coconut oil	coconut oil	FOOD	, found in	PART-OF
-apple juice	apple juice	FOOD	fungal toxins	fungal toxins	INTERMEDIARY_CONCEPT	in	PART-OF-I
 spirulina	spirulina	INTERMEDIARY_CONCEPT	blue-green algae	blue-green algae	INTERMEDIARY_CONCEPT	is a type of	HYPERNYMY
 turmeric	turmeric	FOOD	bioavailability	bioavailability	INTERMEDIARY_CONCEPT	boosts the	EFFECT
 sugar	sugar	FOOD	fructose	fructose	INTERMEDIARY_CONCEPT	in	PART-OF-I
@@ -1259,20 +1130,16 @@ breast cancer	breast cancer	DISEASE	pumpkin seeds	pumpkin seeds	FOOD	were associ
 erectile dysfunction	erectile dysfunction	DISEASE	adverse effects	adverse effects	INTERMEDIARY_CONCEPT	such as	HYPERNYMY
 remission	remission	INTERMEDIARY_CONCEPT	uc	uc	INTERMEDIARY_CONCEPT	in	PART-OF-I
 antioxidant activity	antioxidant activity	INTERMEDIARY_CONCEPT	spike	spike	INTERMEDIARY_CONCEPT	in	PART-OF-I
-beans	bean	FOOD	grapefruit	grapefruit	FOOD	such as	IS-A
+colon cancer	colon cancer	DISEASE	protein	protein	INTERMEDIARY_CONCEPT	slows the growth of	EFFECT-I
 dna mutations	dna mutations	INTERMEDIARY_CONCEPT	smoking	smoking	INTERMEDIARY_CONCEPT	caused by	CAUSED-BY
 vegans	vegan	INTERMEDIARY_CONCEPT	cancer risk	cancer risk	INTERMEDIARY_CONCEPT	lowers	EFFECT
 bph	bph	INTERMEDIARY_CONCEPT	check	check	INTERMEDIARY_CONCEPT	in	PART-OF
 curcumin	curcumin	INTERMEDIARY_CONCEPT	turmeric	turmeric	FOOD	-containing	PART-OF
 growth promoters	growth promoters	INTERMEDIARY_CONCEPT	agriculture	agriculture	INTERMEDIARY_CONCEPT	in	PART-OF
-mrsa	mrsa	INTERMEDIARY_CONCEPT	pork	pork	FOOD	in	PART-OF
 dairy	dairy	INTERMEDIARY_CONCEPT	steroid hormones	steroid hormones	INTERMEDIARY_CONCEPT	in	PART-OF-I
-fats	fat	INTERMEDIARY_CONCEPT	palmitic acid	palmitic acid	INTERMEDIARY_CONCEPT	like	IS-A
-tea	tea	FOOD	matcha	matcha	INTERMEDIARY_CONCEPT	is	HYPERNYMY
 nitrites	nitrite	INTERMEDIARY_CONCEPT	preservatives	preservative	INTERMEDIARY_CONCEPT	are	HYPERNYMY
 poultry workers	poultry workers	INTERMEDIARY_CONCEPT	cancer mortality	cancer mortality	INTERMEDIARY_CONCEPT	in	PART-OF-I
 blood	blood	INTERMEDIARY_CONCEPT	cholesterol	cholesterol	INTERMEDIARY_CONCEPT	cause the	CAUSED-BY
-dairy	dairy	INTERMEDIARY_CONCEPT	survival	survival	INTERMEDIARY_CONCEPT	in	PART-OF
 nutrition education	nutrition education	INTERMEDIARY_CONCEPT	medical schools	medical schools	INTERMEDIARY_CONCEPT	in	PART-OF
 heterocyclic amines	heterocyclic amines	INTERMEDIARY_CONCEPT	chicken samples	chicken samples	INTERMEDIARY_CONCEPT	in	PART-OF
 cherries	cherry	FOOD	anthocyanin phytonutrients	anthocyanin phytonutrients	INTERMEDIARY_CONCEPT	in	PART-OF-I
@@ -1286,14 +1153,13 @@ animal products	animal products	INTERMEDIARY_CONCEPT	weight gain	weight gain	DIS
 vegans	vegan	INTERMEDIARY_CONCEPT	igf-1	igf-1	INTERMEDIARY_CONCEPT	in	PART-OF-I
 colorectal cancer	colorectal cancer	DISEASE	survival	survival	INTERMEDIARY_CONCEPT	in	PART-OF-I
 bone	bone	INTERMEDIARY_CONCEPT	tissues	tissue	INTERMEDIARY_CONCEPT	(like	HYPERNYMY
+phosphorus	phosphorus	INTERMEDIARY_CONCEPT	protein	protein	INTERMEDIARY_CONCEPT	has	PART-OF
 animal fat	animal fat	INTERMEDIARY_CONCEPT	saturated fat	saturated fat	INTERMEDIARY_CONCEPT	in	PART-OF-I
 ldl	ldl	INTERMEDIARY_CONCEPT	eating nuts	eating nuts	FOOD	lowers	EFFECT-I
 skim milk	skim milk	FOOD	milk	milk	FOOD	is	HYPERNYMY
 pesticides	pesticide	INTERMEDIARY_CONCEPT	breast milk	breast milk	FOOD	, such as pcbs and	HYPERNYMY
 sodium intake	sodium intake	INTERMEDIARY_CONCEPT	mediterranean diet	mediterranean diet	INTERMEDIARY_CONCEPT	is	IS-A
-leukemia	leukemia	DISEASE	b-cell	b-cell	INTERMEDIARY_CONCEPT	, including	IS-A
 beer	beer	FOOD	phytoestrogen	phytoestrogen	INTERMEDIARY_CONCEPT	in	PART-OF-I
-hens	hen	INTERMEDIARY_CONCEPT	death	death	DISEASE	in	PART-OF-I
 brain	brain	INTERMEDIARY_CONCEPT	atherosclerosis	atherosclerosis	DISEASE	due to	CAUSED-BY
 short-chain fatty acids	short-chain fatty acids	INTERMEDIARY_CONCEPT	butyrate	butyrate	INTERMEDIARY_CONCEPT	—like	IS-A
 beta cells	beta cells	INTERMEDIARY_CONCEPT	diabetes	diabetes	INTERMEDIARY_CONCEPT	in	PART-OF
@@ -1307,17 +1173,16 @@ neurotoxins	neurotoxin	INTERMEDIARY_CONCEPT	bmaa	bmaa	INTERMEDIARY_CONCEPT	is	HY
 relapses	relapse	DISEASE	crohn	crohn	INTERMEDIARY_CONCEPT	in	PART-OF
 eggs	egg	FOOD	cholesterol	cholesterol	INTERMEDIARY_CONCEPT	in	PART-OF-I
 mercury	mercury	INTERMEDIARY_CONCEPT	vaccinations	vaccination	INTERMEDIARY_CONCEPT	in	PART-OF
+protein	protein	INTERMEDIARY_CONCEPT	wheat	wheat	FOOD	in	PART-OF
 tomatoes	tomato	FOOD	platelet activation	platelet activation	INTERMEDIARY_CONCEPT	lowered	EFFECT
 grains	grain	INTERMEDIARY_CONCEPT	brain	brain	INTERMEDIARY_CONCEPT	protective of the	EFFECT
 arteries	artery	INTERMEDIARY_CONCEPT	cholesterol	cholesterol	INTERMEDIARY_CONCEPT	due to	CAUSED-BY
 carcinomas	carcinoma	DISEASE	breast cancer	breast cancer	DISEASE	like	IS-A
 bump	bump	INTERMEDIARY_CONCEPT	cancer risk	cancer risk	INTERMEDIARY_CONCEPT	in	PART-OF
-mgus	mgus	INTERMEDIARY_CONCEPT	who	who	INTERMEDIARY_CONCEPT	have	PART-OF
 radioactive polonium	radioactive polonium	INTERMEDIARY_CONCEPT	cigarettes	cigarette	INTERMEDIARY_CONCEPT	in	PART-OF
 seeds	seed	FOOD	phytosterols	phytosterol	INTERMEDIARY_CONCEPT	are packed with	PART-OF-I
 zoonotic disease	zoonotic disease	DISEASE	hepatitis e	hepatitis e	DISEASE	is a	IS-A
 aluminum	aluminum	INTERMEDIARY_CONCEPT	antiperspirants	antiperspirant	INTERMEDIARY_CONCEPT	-containing	PART-OF
-nuts	nut	FOOD	fats	fat	INTERMEDIARY_CONCEPT	like	HYPERNYMY
 broccoli	broccoli	FOOD	tor	tor	INTERMEDIARY_CONCEPT	in	PART-OF-I
 citrus	citrus	FOOD	hesperidin	hesperidin	INTERMEDIARY_CONCEPT	in	PART-OF-I
 saturated fat	saturated fat	INTERMEDIARY_CONCEPT	calories	calorie	INTERMEDIARY_CONCEPT	in	PART-OF-I
@@ -1325,7 +1190,6 @@ breast cancer	breast cancer	DISEASE	cholesterol	cholesterol	INTERMEDIARY_CONCEPT
 curry powder	curry powder	FOOD	spice turmeric	spice turmeric	FOOD	, found in	PART-OF-I
 osteoarthritis	osteoarthritis	DISEASE	rose hips	rose hips	FOOD	is	HYPERNYMY
 dioxins	dioxin	INTERMEDIARY_CONCEPT	dairy	dairy	INTERMEDIARY_CONCEPT	in	PART-OF
-alcohol	alcohol	FOOD	saliva	saliva	INTERMEDIARY_CONCEPT	in	PART-OF
 gluten	gluten	FOOD	bread	bread	FOOD	packed	PART-OF-I
 potassium	potassium	INTERMEDIARY_CONCEPT	taking supplements	taking supplements	INTERMEDIARY_CONCEPT	such as	HYPERNYMY
 aluminum	aluminum	INTERMEDIARY_CONCEPT	cheese	cheese	FOOD	in	PART-OF-I
@@ -1340,11 +1204,9 @@ dna damage	dna damage	INTERMEDIARY_CONCEPT	radiation	radiation	INTERMEDIARY_CONC
 pancreatic cancer	pancreatic cancer	DISEASE	beef	beef	FOOD	is associated with	LINKED-TO
 cholesterol	cholesterol	INTERMEDIARY_CONCEPT	fiber	fiber	INTERMEDIARY_CONCEPT	lowers	EFFECT-I
 amla	amla	FOOD	smoothies	smoothie	INTERMEDIARY_CONCEPT	in	PART-OF
-carotenoids	carotenoid	INTERMEDIARY_CONCEPT	urinary tract infections	urinary tract infections	DISEASE	in	PART-OF-I
 immune systems	immune systems	INTERMEDIARY_CONCEPT	virus	virus	DISEASE	are able to clear the	EFFECT
 medical school	medical school	INTERMEDIARY_CONCEPT	clinical nutrition	clinical nutrition	INTERMEDIARY_CONCEPT	in	PART-OF-I
 breast cancer	breast cancer	DISEASE	vegetarian	vegetarian	INTERMEDIARY_CONCEPT	in	PART-OF
-inflammation	inflammation	DISEASE	bacterial endotoxins	bacterial endotoxins	INTERMEDIARY_CONCEPT	in	PART-OF-I
 pollution	pollution	INTERMEDIARY_CONCEPT	seafood	seafood	FOOD	in	PART-OF
 findings	finding	INTERMEDIARY_CONCEPT	plant-based diet	plant-based diet	INTERMEDIARY_CONCEPT	do suggest a favorable effect of a	EFFECT
 muscle damage	muscle damage	INTERMEDIARY_CONCEPT	statin	statin	INTERMEDIARY_CONCEPT	in	PART-OF
@@ -1369,7 +1231,6 @@ constipation	constipation	DISEASE	young children	young children	INTERMEDIARY_CON
 oxalate	oxalate	INTERMEDIARY_CONCEPT	cinnamon	cinnamon	FOOD	in	PART-OF
 inflammation	inflammation	DISEASE	animal products	animal products	INTERMEDIARY_CONCEPT	caused	CAUSED-BY
 ldl	ldl	INTERMEDIARY_CONCEPT	eggs	egg	FOOD	raise	EFFECT-I
-nuts	nut	FOOD	fat	fat	INTERMEDIARY_CONCEPT	are so filled with	PART-OF-I
 x-rays	x-rays	INTERMEDIARY_CONCEPT	brain tumors	brain tumors	DISEASE	caused the	CAUSE
 celery	celery	FOOD	nitrites	nitrite	INTERMEDIARY_CONCEPT	to create	CAUSE
 survival	survival	INTERMEDIARY_CONCEPT	colorectal cancer	colorectal cancer	DISEASE	in	PART-OF
@@ -1380,7 +1241,6 @@ lycopene	lycopene	INTERMEDIARY_CONCEPT	salsa	salsa	FOOD	is packed with	PART-OF
 arthritis	arthritis	DISEASE	inflammation	inflammation	DISEASE	in	PART-OF-I
 supplementation	supplementation	INTERMEDIARY_CONCEPT	pregnancy	pregnancy	INTERMEDIARY_CONCEPT	in	PART-OF
 copper	copper	INTERMEDIARY_CONCEPT	multivitamins	multivitamin	FOOD	in	PART-OF
-youth	youth	INTERMEDIARY_CONCEPT	death	death	DISEASE	in	PART-OF-I
 dioxins	dioxin	INTERMEDIARY_CONCEPT	cigarette	cigarette	INTERMEDIARY_CONCEPT	in	PART-OF
 orange juice	orange juice	FOOD	carbohydrates	carbohydrate	INTERMEDIARY_CONCEPT	in	PART-OF-I
 pcb	pcb	INTERMEDIARY_CONCEPT	perfluorochemicals	perfluorochemical	INTERMEDIARY_CONCEPT	like	HYPERNYMY
@@ -1393,12 +1253,10 @@ carcinoma	carcinoma	DISEASE	inflammation	inflammation	DISEASE	in	PART-OF-I
 lung cancer	lung cancer	DISEASE	smoking	smoking	INTERMEDIARY_CONCEPT	causes	CAUSE
 signal	signal	INTERMEDIARY_CONCEPT	igf	igf	INTERMEDIARY_CONCEPT	is	HYPERNYMY
 iq	iq	INTERMEDIARY_CONCEPT	babies	baby	INTERMEDIARY_CONCEPT	in	PART-OF
-endometrial cancer	endometrial cancer	DISEASE	girls	girl	INTERMEDIARY_CONCEPT	in	PART-OF
 potatoes	potato	FOOD	water	water	INTERMEDIARY_CONCEPT	in	PART-OF
 chronic diseases	chronic diseases	DISEASE	inflammation	inflammation	DISEASE	associated with	LINKED-TO
 phytates	phytate	INTERMEDIARY_CONCEPT	beans	bean	FOOD	in	PART-OF
 beets	beet	FOOD	oxalates	oxalate	INTERMEDIARY_CONCEPT	do have a lot of	PART-OF-I
-vitamin supplements	vitamin supplements	INTERMEDIARY_CONCEPT	multivitamins	multivitamin	FOOD	such as	IS-A
 fiber	fiber	INTERMEDIARY_CONCEPT	blood pressure	blood pressure	INTERMEDIARY_CONCEPT	lowered	EFFECT
 cancer risk	cancer risk	INTERMEDIARY_CONCEPT	immunosuppression	immunosuppression	INTERMEDIARY_CONCEPT	decreases	EFFECT-I
 boston	boston	INTERMEDIARY_CONCEPT	hospital	hospital	INTERMEDIARY_CONCEPT	in	PART-OF-I
@@ -1462,7 +1320,6 @@ bacon	bacon	FOOD	cured meats	cured meats	FOOD	such as	HYPERNYMY
 noni	nonus	FOOD	exotic fruits	exotic fruits	FOOD	like	HYPERNYMY
 sugar water	sugar water	FOOD	crystallizes	crystallize	INTERMEDIARY_CONCEPT	like	HYPERNYMY
 colon cancer	colon cancer	DISEASE	stool size	stool size	INTERMEDIARY_CONCEPT	in	PART-OF
-dairy	dairy	INTERMEDIARY_CONCEPT	neurotoxic chemicals	neurotoxic chemicals	INTERMEDIARY_CONCEPT	in	PART-OF-I
 vaccines	vaccine	INTERMEDIARY_CONCEPT	aluminum	aluminum	INTERMEDIARY_CONCEPT	in	PART-OF-I
 farm	farm	INTERMEDIARY_CONCEPT	anabolic steroids	anabolic steroids	INTERMEDIARY_CONCEPT	in	PART-OF-I
 carbohydrates	carbohydrate	INTERMEDIARY_CONCEPT	insulin	insulin	INTERMEDIARY_CONCEPT	trigger a release of	CAUSE
@@ -1494,8 +1351,6 @@ cholesterol-lowering drugs	cholesterol-lowering drugs	INTERMEDIARY_CONCEPT	stati
 flaxseeds	flaxseed	FOOD	lignans	lignan	INTERMEDIARY_CONCEPT	are packed with	PART-OF-I
 phip	phip	INTERMEDIARY_CONCEPT	cooked meat	cooked meat	FOOD	like	HYPERNYMY
 animal proteins	animal proteins	INTERMEDIARY_CONCEPT	soy	soy	FOOD	—like	IS-A
-salads	salad	FOOD	ingredient	ingredient	INTERMEDIARY_CONCEPT	in	PART-OF-I
-diet soda	diet soda	INTERMEDIARY_CONCEPT	pork tapeworms	pork tapeworms	INTERMEDIARY_CONCEPT	in	PART-OF-I
 saturated fat	saturated fat	INTERMEDIARY_CONCEPT	chocolate	chocolate	FOOD	in	PART-OF
 inflammation	inflammation	DISEASE	meat molecule	meat molecule	INTERMEDIARY_CONCEPT	associated with	LINKED-TO-I
 chicken samples	chicken samples	INTERMEDIARY_CONCEPT	heterocyclic amines	heterocyclic amines	INTERMEDIARY_CONCEPT	in	PART-OF-I
@@ -1507,16 +1362,11 @@ surgery	surgery	INTERMEDIARY_CONCEPT	modern medicine	modern medicine	INTERMEDIAR
 apples	apple	FOOD	ages	age	INTERMEDIARY_CONCEPT	in	PART-OF-I
 dyspepsia	dyspepsia	DISEASE	pepsi	pepsi	FOOD	in	PART-OF-I
 campylobacter infections	campylobacter infections	DISEASE	infants	infant	INTERMEDIARY_CONCEPT	in	PART-OF
-urine	urine	INTERMEDIARY_CONCEPT	stickiness	stickiness	INTERMEDIARY_CONCEPT	in	PART-OF-I
 illnesses	illness	INTERMEDIARY_CONCEPT	depression	depression	INTERMEDIARY_CONCEPT	like	IS-A
 dha	dha	INTERMEDIARY_CONCEPT	omega-3s	omega-3	INTERMEDIARY_CONCEPT	like	HYPERNYMY
 dental x-rays	dental x-rays	INTERMEDIARY_CONCEPT	brain tumors	brain tumors	DISEASE	cause	CAUSE
-nutrition	nutrition	INTERMEDIARY_CONCEPT	fat	fat	INTERMEDIARY_CONCEPT	helps suck up the	EFFECT-I
-prozac	prozac	INTERMEDIARY_CONCEPT	neurotransmitters	neurotransmitter	INTERMEDIARY_CONCEPT	like	HYPERNYMY
-brown fat	brown fat	INTERMEDIARY_CONCEPT	patients	patient	INTERMEDIARY_CONCEPT	in	PART-OF
 spike	spike	INTERMEDIARY_CONCEPT	oxidant stress	oxidant stress	INTERMEDIARY_CONCEPT	in	PART-OF
 goji berries	goji berries	FOOD	milk	milk	FOOD	in	PART-OF
-girls	girl	INTERMEDIARY_CONCEPT	chemical pollutants	chemical pollutants	INTERMEDIARY_CONCEPT	in	PART-OF-I
 stress	stress	INTERMEDIARY_CONCEPT	exercise	exercise	INTERMEDIARY_CONCEPT	is a	IS-A
 poison	poison	INTERMEDIARY_CONCEPT	fluoride	fluoride	INTERMEDIARY_CONCEPT	is a	IS-A
 allergic reactions	allergic reactions	DISEASE	chicken	chicken	FOOD	in	PART-OF
@@ -1530,12 +1380,9 @@ salmonella contamination	salmonella contamination	INTERMEDIARY_CONCEPT	poultry p
 contamination	contamination	INTERMEDIARY_CONCEPT	drug residues	drug residues	INTERMEDIARY_CONCEPT	in	PART-OF
 nightshade	nightshade	FOOD	tobacco	tobacco	FOOD	is a	IS-A
 eggs	egg	FOOD	sex hormones	sex hormones	INTERMEDIARY_CONCEPT	in	PART-OF-I
-arsenic	arsenic	INTERMEDIARY_CONCEPT	rice	rice	FOOD	in	PART-OF
 insulin	insulin	INTERMEDIARY_CONCEPT	who	who	INTERMEDIARY_CONCEPT	are	IS-A
 calcium	calcium	INTERMEDIARY_CONCEPT	broccoli	broccoli	FOOD	, such as	IS-A
-workers	worker	INTERMEDIARY_CONCEPT	soy	soy	FOOD	in	PART-OF
 peoria	peoria	INTERMEDIARY_CONCEPT	market	market	INTERMEDIARY_CONCEPT	in	PART-OF-I
-bowel habits	bowel habits	INTERMEDIARY_CONCEPT	numbness	numbness	DISEASE	in	PART-OF-I
 casein	casein	INTERMEDIARY_CONCEPT	milk	milk	FOOD	in	PART-OF
 omega	omega	INTERMEDIARY_CONCEPT	flax seeds	flax seeds	FOOD	are	HYPERNYMY
 depression	depression	INTERMEDIARY_CONCEPT	illnesses	illness	INTERMEDIARY_CONCEPT	like	HYPERNYMY
@@ -1547,7 +1394,6 @@ egg	egg	FOOD	saturated fat	saturated fat	INTERMEDIARY_CONCEPT	would have	PART-OF
 water	water	INTERMEDIARY_CONCEPT	potatoes	potato	FOOD	in	PART-OF-I
 pesticides	pesticide	INTERMEDIARY_CONCEPT	ddt	ddt	INTERMEDIARY_CONCEPT	like	IS-A
 trigger	trigger	INTERMEDIARY_CONCEPT	milk	milk	FOOD	is a	IS-A
-uric acid	uric acid	INTERMEDIARY_CONCEPT	gout	gout	DISEASE	in	PART-OF
 tomatoes	tomato	FOOD	lycopene	lycopene	INTERMEDIARY_CONCEPT	, found in	PART-OF-I
 plastics	plastic	INTERMEDIARY_CONCEPT	bpa	bpa	INTERMEDIARY_CONCEPT	, found in	PART-OF-I
 diabetes	diabetes	INTERMEDIARY_CONCEPT	iron	iron	INTERMEDIARY_CONCEPT	was associated with	LINKED-TO-I
@@ -1569,12 +1415,10 @@ antibodies	antibody	INTERMEDIARY_CONCEPT	crohn	crohn	INTERMEDIARY_CONCEPT	in	PAR
 beet juice	beet juice	INTERMEDIARY_CONCEPT	nitrate	nitrate	INTERMEDIARY_CONCEPT	is	HYPERNYMY
 beans	bean	FOOD	folate	folate	INTERMEDIARY_CONCEPT	in	PART-OF-I
 air pollution	air pollution	INTERMEDIARY_CONCEPT	lung inflammation	lung inflammation	DISEASE	cause	CAUSE
-strawberries	strawberry	FOOD	metastasis	metastasis	DISEASE	in	PART-OF-I
 eating eggs	eating eggs	FOOD	cholesterol levels	cholesterol levels	INTERMEDIARY_CONCEPT	lowers	EFFECT
 obesity	obesity	DISEASE	non-alcoholic fatty liver disease	non-alcoholic fatty liver disease	DISEASE	due to	CAUSE
 orange juice	orange juice	FOOD	vodka	vodka	FOOD	in	PART-OF-I
 kiwi	kiwi	FOOD	ibs	ib	INTERMEDIARY_CONCEPT	in	PART-OF-I
-who	who	INTERMEDIARY_CONCEPT	mgus	mgus	INTERMEDIARY_CONCEPT	have	PART-OF-I
 agent	agent	INTERMEDIARY_CONCEPT	beer	beer	FOOD	in	PART-OF
 beer	beer	FOOD	alcohol	alcohol	FOOD	in	PART-OF-I
 oxalates	oxalate	INTERMEDIARY_CONCEPT	cinnamon	cinnamon	FOOD	in	PART-OF
@@ -1602,16 +1446,11 @@ tomatoes	tomato	FOOD	pigment	pigment	INTERMEDIARY_CONCEPT	in	PART-OF-I
 cinnamon	cinnamon	FOOD	oxalate	oxalate	INTERMEDIARY_CONCEPT	in	PART-OF-I
 american diet	american diet	INTERMEDIARY_CONCEPT	dairy products	dairy products	FOOD	is	HYPERNYMY
 prostate	prostate	INTERMEDIARY_CONCEPT	prostate cancer	prostate cancer	DISEASE	in	PART-OF-I
-fat	fat	INTERMEDIARY_CONCEPT	nuts	nut	FOOD	are so filled with	PART-OF
 flax seeds	flax seeds	FOOD	breast cancer survival	breast cancer survival	INTERMEDIARY_CONCEPT	are	IS-A
 cholesterol	cholesterol	INTERMEDIARY_CONCEPT	cancer cells	cancer cells	INTERMEDIARY_CONCEPT	have higher levels of	PART-OF
-neurotoxin	neurotoxin	INTERMEDIARY_CONCEPT	meat consumption	meat consumption	INTERMEDIARY_CONCEPT	is	HYPERNYMY
 pork	pork	FOOD	parasite	parasite	INTERMEDIARY_CONCEPT	in	PART-OF-I
-nuts	nut	FOOD	phytoestrogens	phytoestrogen	INTERMEDIARY_CONCEPT	in	PART-OF-I
 aspartame	aspartame	FOOD	diet soda	diet soda	INTERMEDIARY_CONCEPT	in	PART-OF
-neurotransmitters	neurotransmitter	INTERMEDIARY_CONCEPT	prozac	prozac	INTERMEDIARY_CONCEPT	like	IS-A
 viagra	viagra	INTERMEDIARY_CONCEPT	pills	pill	INTERMEDIARY_CONCEPT	like	HYPERNYMY
-fat	fat	INTERMEDIARY_CONCEPT	nuts	nut	FOOD	boost	EFFECT-I
 headaches	headache	DISEASE	aspartame	aspartame	FOOD	associated with	LINKED-TO
 cholesterol	cholesterol	INTERMEDIARY_CONCEPT	eggs	egg	FOOD	lowers	EFFECT-I
 iron	iron	INTERMEDIARY_CONCEPT	diabetes	diabetes	INTERMEDIARY_CONCEPT	was associated with	LINKED-TO
@@ -1625,21 +1464,17 @@ rickets	rickets	DISEASE	deformities	deformity	DISEASE	associated with	LINKED-TO-
 chicken	chicken	FOOD	omega 3	omega 3	INTERMEDIARY_CONCEPT	has low levels of	PART-OF-I
 chicken	chicken	FOOD	preservatives	preservative	INTERMEDIARY_CONCEPT	in	PART-OF-I
 polycyclic aromatic hydrocarbons	polycyclic aromatic hydrocarbons	INTERMEDIARY_CONCEPT	meat fumes	meat fumes	INTERMEDIARY_CONCEPT	in	PART-OF
-raw broccoli	raw broccoli	FOOD	sitting	sit	INTERMEDIARY_CONCEPT	in	PART-OF-I
-leucine	leucine	INTERMEDIARY_CONCEPT	standard diet	standard diet	INTERMEDIARY_CONCEPT	in	PART-OF-I
 bioavailability	bioavailability	INTERMEDIARY_CONCEPT	turmeric	turmeric	FOOD	boosts the	EFFECT-I
 infertility	infertility	DISEASE	beverage	beverage	FOOD	associated with	LINKED-TO-I
 sperm counts	sperm counts	INTERMEDIARY_CONCEPT	processed meat	processed meat	FOOD	associated with	LINKED-TO
 remission	remission	INTERMEDIARY_CONCEPT	patients	patient	INTERMEDIARY_CONCEPT	in	PART-OF
 tissues	tissue	INTERMEDIARY_CONCEPT	bone	bone	INTERMEDIARY_CONCEPT	, including	IS-A
-carbohydrates	carbohydrate	INTERMEDIARY_CONCEPT	mood	mood	INTERMEDIARY_CONCEPT	in	PART-OF
 vegetarian	vegetarian	INTERMEDIARY_CONCEPT	phytate	phytate	INTERMEDIARY_CONCEPT	in	PART-OF-I
 drinking water	drinking water	FOOD	benzene	benzene	INTERMEDIARY_CONCEPT	in	PART-OF-I
 fiber	fiber	INTERMEDIARY_CONCEPT	dried fruit	dried fruit	FOOD	are packed with	PART-OF
 soy	soy	FOOD	phytoestrogens	phytoestrogen	INTERMEDIARY_CONCEPT	, found in	PART-OF-I
 seeds	seed	FOOD	breast cancer	breast cancer	DISEASE	in	PART-OF
 neurotransmitters	neurotransmitter	INTERMEDIARY_CONCEPT	serotonin	serotonin	INTERMEDIARY_CONCEPT	such as dopamine and	IS-A
-cheese	cheese	FOOD	pesticides	pesticide	INTERMEDIARY_CONCEPT	in	PART-OF-I
 animal products	animal products	INTERMEDIARY_CONCEPT	heme iron	heme iron	INTERMEDIARY_CONCEPT	in	PART-OF-I
 inflammation	inflammation	DISEASE	cartilage	cartilage	INTERMEDIARY_CONCEPT	is caused by	CAUSE
 iga	iga	INTERMEDIARY_CONCEPT	antibodies	antibody	INTERMEDIARY_CONCEPT	like	HYPERNYMY
@@ -1663,25 +1498,22 @@ raw	raw	INTERMEDIARY_CONCEPT	endotoxins	endotoxin	INTERMEDIARY_CONCEPT	in	PART-O
 dietary guidelines	dietary guidelines	INTERMEDIARY_CONCEPT	sodium	sodium	INTERMEDIARY_CONCEPT	in	PART-OF-I
 brain damage	brain damage	INTERMEDIARY_CONCEPT	mercury	mercury	INTERMEDIARY_CONCEPT	caused by the	CAUSED-BY
 dried fruit	dried fruit	FOOD	fiber	fiber	INTERMEDIARY_CONCEPT	are packed with	PART-OF-I
-chemical pollutants	chemical pollutants	INTERMEDIARY_CONCEPT	girls	girl	INTERMEDIARY_CONCEPT	in	PART-OF
 carcinogens	carcinogen	INTERMEDIARY_CONCEPT	nitrosamines	nitrosamine	INTERMEDIARY_CONCEPT	are the	IS-A
 narrowed arteries	narrowed arteries	INTERMEDIARY_CONCEPT	cholesterol	cholesterol	INTERMEDIARY_CONCEPT	due to	CAUSED-BY
 titanium dioxide	titanium dioxide	INTERMEDIARY_CONCEPT	inflammation	inflammation	DISEASE	to see if it would cause	CAUSE
 fruit juice	fruit juice	FOOD	fiber	fiber	INTERMEDIARY_CONCEPT	is	HYPERNYMY
 chemical pollutants	chemical pollutants	INTERMEDIARY_CONCEPT	premature puberty	premature puberty	INTERMEDIARY_CONCEPT	due to	CAUSE
 heart disease	heart disease	DISEASE	inflammation	inflammation	DISEASE	such as	HYPERNYMY
-childhood	childhood	INTERMEDIARY_CONCEPT	fatty streaks	fatty streaks	INTERMEDIARY_CONCEPT	in	PART-OF-I
 vitamin c	vitamin c	INTERMEDIARY_CONCEPT	cancer treatment	cancer treatment	INTERMEDIARY_CONCEPT	in	PART-OF
 irritation	irritation	INTERMEDIARY_CONCEPT	chemotherapy	chemotherapy	INTERMEDIARY_CONCEPT	associated with	LINKED-TO
 persistent organic pollutants	persistent organic pollutants	INTERMEDIARY_CONCEPT	pcb	pcb	INTERMEDIARY_CONCEPT	such as	IS-A
+soy	soy	FOOD	protein	protein	INTERMEDIARY_CONCEPT	in	PART-OF-I
 cheese	cheese	FOOD	aluminum	aluminum	INTERMEDIARY_CONCEPT	in	PART-OF
 beets	beet	FOOD	nitrate-rich vegetables	nitrate-rich vegetables	FOOD	such as	HYPERNYMY
-allergies	allergy	DISEASE	chicken	chicken	FOOD	in	PART-OF
 wine	wine	FOOD	drinks	drink	FOOD	such as	HYPERNYMY
 chronic disease	chronic disease	DISEASE	vegetarians	vegetarian	INTERMEDIARY_CONCEPT	in	PART-OF
 ph	ph	INTERMEDIARY_CONCEPT	short-chain fatty acids	short-chain fatty acids	INTERMEDIARY_CONCEPT	is caused by	CAUSED-BY
 cholesterol	cholesterol	INTERMEDIARY_CONCEPT	gestational diabetes	gestational diabetes	DISEASE	were associated with elevated [	LINKED-TO
-death	death	DISEASE	hens	hen	INTERMEDIARY_CONCEPT	in	PART-OF
 pumpkin seeds	pumpkin seeds	FOOD	breast cancer	breast cancer	DISEASE	were associated with reduced	LINKED-TO
 amla	amla	FOOD	smoothies	smoothie	INTERMEDIARY_CONCEPT	have	PART-OF
 triphala	triphala	INTERMEDIARY_CONCEPT	mercury	mercury	INTERMEDIARY_CONCEPT	in	PART-OF-I
@@ -1690,9 +1522,7 @@ hexachlorobenzene	hexachlorobenzene	INTERMEDIARY_CONCEPT	persistent pollutants	p
 bergamottin	bergamottin	INTERMEDIARY_CONCEPT	tea	tea	FOOD	is a source of	PART-OF
 vomiting	vomit	INTERMEDIARY_CONCEPT	pregnancy	pregnancy	INTERMEDIARY_CONCEPT	in	PART-OF
 phip	phip	INTERMEDIARY_CONCEPT	heterocyclic amines	heterocyclic amines	INTERMEDIARY_CONCEPT	, including	HYPERNYMY
-tomatoes	tomato	FOOD	depression	depression	INTERMEDIARY_CONCEPT	in	PART-OF-I
 hepatitis e	hepatitis e	DISEASE	zoonotic disease	zoonotic disease	DISEASE	is a	HYPERNYMY
-salmon	salmon	INTERMEDIARY_CONCEPT	fat	fat	INTERMEDIARY_CONCEPT	in	PART-OF-I
 vitamin	vitamin	FOOD	mortality	mortality	INTERMEDIARY_CONCEPT	in	PART-OF-I
 casomorphin	casomorphin	INTERMEDIARY_CONCEPT	milk	milk	FOOD	in	PART-OF
 deli meat	deli meat	FOOD	listeria	listeria	INTERMEDIARY_CONCEPT	in	PART-OF-I
@@ -1702,10 +1532,8 @@ sea vegetables	sea vegetables	FOOD	fiber	fiber	INTERMEDIARY_CONCEPT	in	PART-OF-I
 cancer growth	cancer growth	INTERMEDIARY_CONCEPT	strawberries	strawberry	FOOD	blocked	EFFECT-I
 cured meats	cured meats	FOOD	nitrite	nitrite	INTERMEDIARY_CONCEPT	in	PART-OF-I
 carrot	carrot	FOOD	hummus	hummus	FOOD	in	PART-OF
-fat	fat	INTERMEDIARY_CONCEPT	nuts	nut	FOOD	such as	IS-A
 estrogen	estrogen	INTERMEDIARY_CONCEPT	skim milk	skim milk	FOOD	in	PART-OF
 mayo	mayo	FOOD	recipe	recipe	INTERMEDIARY_CONCEPT	like	HYPERNYMY
-active ingredient	active ingredient	INTERMEDIARY_CONCEPT	vegetarians	vegetarian	INTERMEDIARY_CONCEPT	in	PART-OF
 cholesterol	cholesterol	INTERMEDIARY_CONCEPT	erectile dysfunction	erectile dysfunction	DISEASE	is because it predicts	CAUSE
 active ingredient	active ingredient	INTERMEDIARY_CONCEPT	roundup	roundup	INTERMEDIARY_CONCEPT	in	PART-OF
 anxiety	anxiety	INTERMEDIARY_CONCEPT	downer	downer	INTERMEDIARY_CONCEPT	, without the	PART-OF-I
@@ -1716,10 +1544,7 @@ broccoli	broccoli	FOOD	detoxifying enzymes	detoxifying enzymes	INTERMEDIARY_CONC
 childhood	childhood	INTERMEDIARY_CONCEPT	rickets	rickets	DISEASE	in	PART-OF-I
 soda	soda	INTERMEDIARY_CONCEPT	ascorbic acid	ascorbic acid	INTERMEDIARY_CONCEPT	in	PART-OF-I
 vitamin b12	vitamin b12	INTERMEDIARY_CONCEPT	dementia	dementia	DISEASE	due to	CAUSE
-graph	graph	INTERMEDIARY_CONCEPT	stevia	stevia	FOOD	in	PART-OF
 big spike	big spike	INTERMEDIARY_CONCEPT	inflammation	inflammation	DISEASE	in	PART-OF
-cancer rates	cancer rates	INTERMEDIARY_CONCEPT	play	play	INTERMEDIARY_CONCEPT	in	PART-OF-I
-cranberry juice	cranberry juice	FOOD	sodium	sodium	INTERMEDIARY_CONCEPT	in	PART-OF-I
 putrescine	putrescine	INTERMEDIARY_CONCEPT	turkey	turkey	INTERMEDIARY_CONCEPT	in	PART-OF
 feelings	feeling	INTERMEDIARY_CONCEPT	boost	boost	INTERMEDIARY_CONCEPT	in	PART-OF-I
 carbs	carb	INTERMEDIARY_CONCEPT	lentil	lentil	FOOD	in	PART-OF
@@ -1731,7 +1556,6 @@ baking	bake	INTERMEDIARY_CONCEPT	eggs	egg	FOOD	in	PART-OF-I
 treatment	treatment	INTERMEDIARY_CONCEPT	gerson therapy	gerson therapy	INTERMEDIARY_CONCEPT	in	PART-OF
 medium-chain fatty acids	medium-chain fatty acids	INTERMEDIARY_CONCEPT	coconut	coconut	FOOD	in	PART-OF
 broccoli phytonutrients	broccoli phytonutrients	INTERMEDIARY_CONCEPT	spike	spike	INTERMEDIARY_CONCEPT	in	PART-OF-I
-aspirin	aspirin	INTERMEDIARY_CONCEPT	painkiller	painkiller	INTERMEDIARY_CONCEPT	in	PART-OF-I
 adolescents	adolescent	INTERMEDIARY_CONCEPT	runny nose	runny nose	INTERMEDIARY_CONCEPT	in	PART-OF-I
 colon	colon	INTERMEDIARY_CONCEPT	digestion	digestion	INTERMEDIARY_CONCEPT	in	PART-OF
 fructose	fructose	INTERMEDIARY_CONCEPT	sugar	sugar	FOOD	in	PART-OF
@@ -1753,7 +1577,6 @@ teens	teens	INTERMEDIARY_CONCEPT	pizza	pizza	FOOD	is	HYPERNYMY
 beans	bean	FOOD	phytates	phytate	INTERMEDIARY_CONCEPT	, found in	PART-OF-I
 patulin	patulin	INTERMEDIARY_CONCEPT	apple juice	apple juice	FOOD	in	PART-OF
 alcohol	alcohol	FOOD	breast cancer	breast cancer	DISEASE	in	PART-OF
-eggs	egg	FOOD	carnitine	carnitine	INTERMEDIARY_CONCEPT	in	PART-OF-I
 chicken	chicken	FOOD	phosphate additives	phosphate additives	INTERMEDIARY_CONCEPT	in	PART-OF
 peanuts	peanut	FOOD	nuts	nut	FOOD	, including	HYPERNYMY
 cigarettes	cigarette	INTERMEDIARY_CONCEPT	polonium	polonium	INTERMEDIARY_CONCEPT	in	PART-OF-I
@@ -1761,17 +1584,14 @@ salsa	salsa	FOOD	lycopene	lycopene	INTERMEDIARY_CONCEPT	is packed with	PART-OF-I
 nutrition	nutrition	INTERMEDIARY_CONCEPT	medical school	medical school	INTERMEDIARY_CONCEPT	in	PART-OF
 fiber	fiber	INTERMEDIARY_CONCEPT	nuts	nut	FOOD	in	PART-OF
 apple	apple	FOOD	arsenic	arsenic	INTERMEDIARY_CONCEPT	in	PART-OF-I
-pill form	pill form	INTERMEDIARY_CONCEPT	beta-carotene	beta-carotene	INTERMEDIARY_CONCEPT	in	PART-OF-I
 diabetes	diabetes	INTERMEDIARY_CONCEPT	insulin resistance	insulin resistance	DISEASE	are caused by	CAUSED-BY
 antioxidant content	antioxidant content	INTERMEDIARY_CONCEPT	pressure cooking	pressure cooking	INTERMEDIARY_CONCEPT	reduce the	EFFECT-I
 breast cancer	breast cancer	DISEASE	virus	virus	DISEASE	in	PART-OF-I
-cancer cells	cancer cells	INTERMEDIARY_CONCEPT	beans	bean	FOOD	in	PART-OF
 crohn	crohn	INTERMEDIARY_CONCEPT	preventing relapse	preventing relapse	INTERMEDIARY_CONCEPT	in	PART-OF-I
 killers	killer	INTERMEDIARY_CONCEPT	heart disease	heart disease	DISEASE	, such as	IS-A
 common cold	common cold	DISEASE	upper respiratory tract infections	upper respiratory tract infections	DISEASE	such as the	HYPERNYMY
 drug residues	drug residues	INTERMEDIARY_CONCEPT	contamination	contamination	INTERMEDIARY_CONCEPT	in	PART-OF-I
-tart	tart	INTERMEDIARY_CONCEPT	anthocyanin phytonutrients	anthocyanin phytonutrients	INTERMEDIARY_CONCEPT	in	PART-OF-I
-fat	fat	INTERMEDIARY_CONCEPT	olives	olive	FOOD	in	PART-OF
+protein	protein	INTERMEDIARY_CONCEPT	cow	cow	INTERMEDIARY_CONCEPT	in	PART-OF
 heterocyclic amines	heterocyclic amines	INTERMEDIARY_CONCEPT	phip	phip	INTERMEDIARY_CONCEPT	, including	IS-A
 patients	patient	INTERMEDIARY_CONCEPT	wheatgrass juice	wheatgrass juice	INTERMEDIARY_CONCEPT	in	PART-OF-I
 kidney	kidney	INTERMEDIARY_CONCEPT	death	death	DISEASE	in	PART-OF-I
@@ -1779,7 +1599,6 @@ adolescence	adolescence	INTERMEDIARY_CONCEPT	breast cancer	breast cancer	DISEASE
 pigment	pigment	INTERMEDIARY_CONCEPT	turmeric	turmeric	FOOD	in	PART-OF
 cholesterol	cholesterol	INTERMEDIARY_CONCEPT	cancer cells	cancer cells	INTERMEDIARY_CONCEPT	have higher levels of these	PART-OF
 skin cancer	skin cancer	DISEASE	arsenic	arsenic	INTERMEDIARY_CONCEPT	caused by	CAUSED-BY
-diabetes	diabetes	INTERMEDIARY_CONCEPT	china	china	INTERMEDIARY_CONCEPT	in	PART-OF
 berries	berry	FOOD	milk	milk	FOOD	in	PART-OF
 animal products	animal products	INTERMEDIARY_CONCEPT	inflammation	inflammation	DISEASE	trigger	CAUSE
 dairy	dairy	INTERMEDIARY_CONCEPT	animal products	animal products	INTERMEDIARY_CONCEPT	such as fish, meat and	HYPERNYMY
@@ -1791,17 +1610,14 @@ boost	boost	INTERMEDIARY_CONCEPT	feelings	feeling	INTERMEDIARY_CONCEPT	in	PART-O
 blood sugar	blood sugar	INTERMEDIARY_CONCEPT	big spike	big spike	INTERMEDIARY_CONCEPT	in	PART-OF-I
 ibs	ib	INTERMEDIARY_CONCEPT	kiwi	kiwi	FOOD	in	PART-OF
 iron	iron	INTERMEDIARY_CONCEPT	beef	beef	FOOD	in	PART-OF
-graphs	graph	INTERMEDIARY_CONCEPT	bpa	bpa	INTERMEDIARY_CONCEPT	like	IS-A
 e. coli	e. coli	INTERMEDIARY_CONCEPT	chicken	chicken	FOOD	in	PART-OF
 insulin	insulin	INTERMEDIARY_CONCEPT	milk	milk	FOOD	in	PART-OF
 butterfat	butterfat	INTERMEDIARY_CONCEPT	yogurt	yogurt	FOOD	packed with	PART-OF
-chickens	chicken	FOOD	infectious diseases	infectious diseases	DISEASE	in	PART-OF-I
 smoking	smoking	INTERMEDIARY_CONCEPT	emphysema	emphysema	DISEASE	in	PART-OF-I
 olive oil	olive oil	FOOD	fruit juice	fruit juice	FOOD	like	IS-A
 nuts	nut	FOOD	bad cholesterol	bad cholesterol	INTERMEDIARY_CONCEPT	drop your	EFFECT
 no fiber	no fiber	INTERMEDIARY_CONCEPT	junk food	junk food	FOOD	in	PART-OF
 fish oil	fish oil	INTERMEDIARY_CONCEPT	dha	dha	INTERMEDIARY_CONCEPT	in	PART-OF-I
-patients	patient	INTERMEDIARY_CONCEPT	brown fat	brown fat	INTERMEDIARY_CONCEPT	in	PART-OF-I
 lead	lead	INTERMEDIARY_CONCEPT	nutritional yeast	nutritional yeast	FOOD	carry	PART-OF
 beet	beet	FOOD	vitamin c	vitamin c	INTERMEDIARY_CONCEPT	in	PART-OF-I
 toxicity	toxicity	INTERMEDIARY_CONCEPT	cooking	cooking	INTERMEDIARY_CONCEPT	will reduce the	EFFECT-I
@@ -1813,7 +1629,6 @@ salmonella	salmonella	INTERMEDIARY_CONCEPT	alfalfa	alfalfa	FOOD	in	PART-OF
 apple juice	apple juice	FOOD	patulin	patulin	INTERMEDIARY_CONCEPT	in	PART-OF-I
 ulcerative colitis	ulcerative colitis	DISEASE	inflammatory bowel diseases	inflammatory bowel diseases	DISEASE	, such as	HYPERNYMY
 clinical nutrition	clinical nutrition	INTERMEDIARY_CONCEPT	medical school	medical school	INTERMEDIARY_CONCEPT	in	PART-OF
-cranberries	cranberry	FOOD	ulcers	ulcer	DISEASE	in	PART-OF-I
 mushrooms	mushroom	FOOD	vitamin d	vitamin d	INTERMEDIARY_CONCEPT	in	PART-OF-I
 muscle	muscle	INTERMEDIARY_CONCEPT	inflammation	inflammation	DISEASE	caused by	CAUSE
 saturated fat	saturated fat	INTERMEDIARY_CONCEPT	cholesterol	cholesterol	INTERMEDIARY_CONCEPT	without the	PART-OF-I
@@ -1827,29 +1642,25 @@ eating eggs	eating eggs	FOOD	cholesterol levels	cholesterol levels	INTERMEDIARY_
 acrylamide	acrylamide	INTERMEDIARY_CONCEPT	french fries	french fries	FOOD	in	PART-OF
 milk	milk	FOOD	uric acid	uric acid	INTERMEDIARY_CONCEPT	lowers	EFFECT
 titanium dioxide	titanium dioxide	INTERMEDIARY_CONCEPT	nanoparticles	nanoparticle	INTERMEDIARY_CONCEPT	such as	HYPERNYMY
-bad cholesterol	bad cholesterol	INTERMEDIARY_CONCEPT	fatty streaks	fatty streaks	INTERMEDIARY_CONCEPT	in	PART-OF
 carcinogens	carcinogen	INTERMEDIARY_CONCEPT	retail	retail	INTERMEDIARY_CONCEPT	in	PART-OF
 inflammation	inflammation	DISEASE	eggs	egg	FOOD	thought to cause	CAUSED-BY
 constipation	constipation	DISEASE	infants	infant	INTERMEDIARY_CONCEPT	in	PART-OF
-pesticides	pesticide	INTERMEDIARY_CONCEPT	cheese	cheese	FOOD	in	PART-OF
 ornish	ornish	INTERMEDIARY_CONCEPT	plant-based diet	plant-based diet	INTERMEDIARY_CONCEPT	like	HYPERNYMY
 findings	finding	INTERMEDIARY_CONCEPT	lavender	lavender	FOOD	in	PART-OF
 statins	statin	INTERMEDIARY_CONCEPT	lipitor	lipitor	INTERMEDIARY_CONCEPT	, such as	IS-A
-diabetes	diabetes	INTERMEDIARY_CONCEPT	livestock	livestock	INTERMEDIARY_CONCEPT	in	PART-OF
 contamination	contamination	INTERMEDIARY_CONCEPT	chicken	chicken	FOOD	in	PART-OF
 tmao levels	tmao levels	INTERMEDIARY_CONCEPT	bump	bump	INTERMEDIARY_CONCEPT	in	PART-OF-I
 lemonin	lemonin	INTERMEDIARY_CONCEPT	lemonoids	lemonoid	INTERMEDIARY_CONCEPT	like	HYPERNYMY
 lead	lead	INTERMEDIARY_CONCEPT	triphala	triphala	INTERMEDIARY_CONCEPT	in	PART-OF
-big spike	big spike	INTERMEDIARY_CONCEPT	stevia	stevia	FOOD	in	PART-OF
 whole grains	whole grains	FOOD	oats	oats	FOOD	, such as	IS-A
 cancer cells	cancer cells	INTERMEDIARY_CONCEPT	cholesterol	cholesterol	INTERMEDIARY_CONCEPT	have higher levels of these	PART-OF-I
 bone mineral density	bone mineral density	INTERMEDIARY_CONCEPT	bone health	bone health	INTERMEDIARY_CONCEPT	, such as	HYPERNYMY
 saliva	saliva	INTERMEDIARY_CONCEPT	acetaldehyde	acetaldehyde	INTERMEDIARY_CONCEPT	in	PART-OF-I
 anthocyanins	anthocyanin	INTERMEDIARY_CONCEPT	blueberries	blueberry	FOOD	in	PART-OF
+protein	protein	INTERMEDIARY_CONCEPT	beans	bean	FOOD	—like	IS-A
 lies	lie	INTERMEDIARY_CONCEPT	infants	infant	INTERMEDIARY_CONCEPT	in	PART-OF
 dairy	dairy	INTERMEDIARY_CONCEPT	calcium	calcium	INTERMEDIARY_CONCEPT	in	PART-OF-I
 hibiscus tea	hibiscus tea	FOOD	herbal teas	herbal teas	FOOD	, such as	HYPERNYMY
-life	life	INTERMEDIARY_CONCEPT	nuts	nut	FOOD	in	PART-OF-I
 fat burning	fat burning	INTERMEDIARY_CONCEPT	grapes	grape	FOOD	in	PART-OF-I
 inflammation	inflammation	DISEASE	muscle	muscle	INTERMEDIARY_CONCEPT	caused by	CAUSED-BY
 inflammation	inflammation	DISEASE	depressive symptoms	depressive symptoms	INTERMEDIARY_CONCEPT	to trigger	CAUSE
@@ -1880,19 +1691,15 @@ milk	milk	FOOD	steroid hormones	steroid hormones	INTERMEDIARY_CONCEPT	in	PART-OF
 arterial stiffness	arterial stiffness	INTERMEDIARY_CONCEPT	adulthood	adulthood	INTERMEDIARY_CONCEPT	in	PART-OF
 antibiotic residues	antibiotic residues	INTERMEDIARY_CONCEPT	dietary contaminants	dietary contaminants	INTERMEDIARY_CONCEPT	—like	HYPERNYMY
 coffee	coffee	FOOD	beans	bean	FOOD	is	HYPERNYMY
-suffering	suffer	INTERMEDIARY_CONCEPT	odds	odds	INTERMEDIARY_CONCEPT	are	IS-A
 milk	milk	FOOD	skim milk	skim milk	FOOD	is	IS-A
 mushrooms	mushroom	FOOD	vitamin d	vitamin d	INTERMEDIARY_CONCEPT	is	HYPERNYMY
-sodium	sodium	INTERMEDIARY_CONCEPT	cranberry juice	cranberry juice	FOOD	in	PART-OF
 soft drinks	soft drinks	FOOD	corn syrup	corn syrup	FOOD	in	PART-OF-I
 flaxseed	flaxseed	FOOD	muffin	muffin	FOOD	-containing	PART-OF
 cancer mortality	cancer mortality	INTERMEDIARY_CONCEPT	poultry exposure	poultry exposure	INTERMEDIARY_CONCEPT	associated with	LINKED-TO
 mercury	mercury	INTERMEDIARY_CONCEPT	tuna	tuna	FOOD	in	PART-OF
-meat science	meat science	INTERMEDIARY_CONCEPT	ham	ham	INTERMEDIARY_CONCEPT	in	PART-OF-I
 dietary contaminants	dietary contaminants	INTERMEDIARY_CONCEPT	antibiotic residues	antibiotic residues	INTERMEDIARY_CONCEPT	—like	IS-A
 pathogens	pathogen	INTERMEDIARY_CONCEPT	salmonella	salmonella	INTERMEDIARY_CONCEPT	like	IS-A
 farm	farm	INTERMEDIARY_CONCEPT	dioxins	dioxin	INTERMEDIARY_CONCEPT	in	PART-OF-I
-nuts	nut	FOOD	fat	fat	INTERMEDIARY_CONCEPT	boosted	EFFECT
 neurotoxic chemicals	neurotoxic chemicals	INTERMEDIARY_CONCEPT	chicken	chicken	FOOD	in	PART-OF
 spice turmeric	spice turmeric	FOOD	curry powder	curry powder	FOOD	, found in	PART-OF
 carbs	carb	INTERMEDIARY_CONCEPT	sun	sun	INTERMEDIARY_CONCEPT	such as	IS-A
@@ -1906,16 +1713,13 @@ milk	milk	FOOD	skim milk	skim milk	FOOD	is	HYPERNYMY
 hamburgers	hamburger	FOOD	processed foods	processed foods	FOOD	such as	HYPERNYMY
 cured meats	cured meats	FOOD	ham	ham	INTERMEDIARY_CONCEPT	such as bacon and	IS-A
 cancer cells	cancer cells	INTERMEDIARY_CONCEPT	curry powder	curry powder	FOOD	kills	EFFECT-I
-chemical pollutants	chemical pollutants	INTERMEDIARY_CONCEPT	life	life	INTERMEDIARY_CONCEPT	in	PART-OF
 arachidonic acid	arachidonic acid	INTERMEDIARY_CONCEPT	chicken	chicken	FOOD	in	PART-OF
+leucine	leucine	INTERMEDIARY_CONCEPT	protein	protein	INTERMEDIARY_CONCEPT	in	PART-OF
 obesity	obesity	DISEASE	kidney cancer	kidney cancer	DISEASE	, such as	HYPERNYMY
 gerd	gerd	DISEASE	heartburn	heartburn	DISEASE	, such as	IS-A
-cassia cinnamon	cassia cinnamon	FOOD	liver	liver	INTERMEDIARY_CONCEPT	in	PART-OF-I
-alzheimer	alzheimer	INTERMEDIARY_CONCEPT	amyloid beta	amyloid beta	INTERMEDIARY_CONCEPT	in	PART-OF-I
 uc	uc	INTERMEDIARY_CONCEPT	remission	remission	INTERMEDIARY_CONCEPT	in	PART-OF
 mortality	mortality	INTERMEDIARY_CONCEPT	poultry	poultry	FOOD	in	PART-OF
 colon	colon	INTERMEDIARY_CONCEPT	butyrate	butyrate	INTERMEDIARY_CONCEPT	is	HYPERNYMY
-remission	remission	INTERMEDIARY_CONCEPT	graph	graph	INTERMEDIARY_CONCEPT	in	PART-OF-I
 hospitals	hospital	INTERMEDIARY_CONCEPT	cigarettes	cigarette	INTERMEDIARY_CONCEPT	in	PART-OF-I
 oxalates	oxalate	INTERMEDIARY_CONCEPT	beets	beet	FOOD	do have a lot of	PART-OF
 autopsies	autopsy	INTERMEDIARY_CONCEPT	uganda	uganda	INTERMEDIARY_CONCEPT	in	PART-OF
@@ -1925,7 +1729,6 @@ nuts	nut	FOOD	cashews	cashew	FOOD	like	IS-A
 remission	remission	INTERMEDIARY_CONCEPT	patients	patient	INTERMEDIARY_CONCEPT	in	PART-OF-I
 cat	cat	INTERMEDIARY_CONCEPT	x-rays	x-rays	INTERMEDIARY_CONCEPT	released by	PART-OF-I
 cancer growth	cancer growth	INTERMEDIARY_CONCEPT	standard american diet	standard american diet	INTERMEDIARY_CONCEPT	slows	EFFECT-I
-fat	fat	INTERMEDIARY_CONCEPT	nuts	nut	FOOD	boosted	EFFECT-I
 neurodegenerative diseases	neurodegenerative diseases	DISEASE	alzheimer	alzheimer	INTERMEDIARY_CONCEPT	such as	IS-A
 split peas	split peas	FOOD	cholesterol	cholesterol	INTERMEDIARY_CONCEPT	cut	EFFECT
 tomato juice	tomato juice	FOOD	inflammation	inflammation	DISEASE	decreases	EFFECT
@@ -1936,12 +1739,10 @@ drinking water	drinking water	FOOD	estrogens	estrogen	INTERMEDIARY_CONCEPT	in	PA
 stevia	stevia	FOOD	active ingredient	active ingredient	INTERMEDIARY_CONCEPT	in	PART-OF-I
 lignans	lignan	INTERMEDIARY_CONCEPT	flaxseeds	flaxseed	FOOD	in	PART-OF
 breast development	breast development	INTERMEDIARY_CONCEPT	girls	girl	INTERMEDIARY_CONCEPT	in	PART-OF
-ddt	ddt	INTERMEDIARY_CONCEPT	china	china	INTERMEDIARY_CONCEPT	are food sources of	PART-OF
 animal fat	animal fat	INTERMEDIARY_CONCEPT	carcinogens	carcinogen	INTERMEDIARY_CONCEPT	in	PART-OF-I
 chronic constipation	chronic constipation	INTERMEDIARY_CONCEPT	infants	infant	INTERMEDIARY_CONCEPT	in	PART-OF
 green tea	green tea	FOOD	relaxant phytonutrient	relaxant phytonutrient	INTERMEDIARY_CONCEPT	in	PART-OF-I
 medical journals	medical journals	INTERMEDIARY_CONCEPT	gluten	gluten	FOOD	in	PART-OF-I
-fat	fat	INTERMEDIARY_CONCEPT	animal fat	animal fat	INTERMEDIARY_CONCEPT	in	PART-OF
 beef	beef	FOOD	cholesterol	cholesterol	INTERMEDIARY_CONCEPT	lowers	EFFECT
 crystallizes	crystallize	INTERMEDIARY_CONCEPT	sugar water	sugar water	FOOD	like	IS-A
 feelings	feeling	INTERMEDIARY_CONCEPT	hunger	hunger	INTERMEDIARY_CONCEPT	like	IS-A
@@ -1956,10 +1757,7 @@ childhood	childhood	INTERMEDIARY_CONCEPT	allergies	allergy	DISEASE	in	PART-OF-I
 animal products	animal products	INTERMEDIARY_CONCEPT	dairy	dairy	INTERMEDIARY_CONCEPT	such as	IS-A
 rice	rice	FOOD	zinc	zinc	INTERMEDIARY_CONCEPT	in	PART-OF-I
 antibiotic residues	antibiotic residues	INTERMEDIARY_CONCEPT	dietary contaminants	dietary contaminants	INTERMEDIARY_CONCEPT	such as	HYPERNYMY
-seafood	seafood	FOOD	blue-green algae	blue-green algae	INTERMEDIARY_CONCEPT	in	PART-OF-I
-egg consumption	egg consumption	INTERMEDIARY_CONCEPT	eating eggs	eating eggs	FOOD	in	PART-OF-I
 cholesterol	cholesterol	INTERMEDIARY_CONCEPT	atherosclerosis	atherosclerosis	DISEASE	in	PART-OF
-seafood	seafood	FOOD	radiation exposure	radiation exposure	INTERMEDIARY_CONCEPT	in	PART-OF-I
 massage	massage	INTERMEDIARY_CONCEPT	fragrance	fragrance	INTERMEDIARY_CONCEPT	without the	PART-OF-I
 appetite	appetite	INTERMEDIARY_CONCEPT	vinegar	vinegar	FOOD	helps with both	EFFECT-I
 cancer-causing viruses	cancer-causing viruses	DISEASE	poultry products	poultry products	FOOD	in	PART-OF
@@ -1972,15 +1770,12 @@ iodine	iodine	INTERMEDIARY_CONCEPT	kombu	kombu	INTERMEDIARY_CONCEPT	is such a go
 chicken	chicken	FOOD	heme iron	heme iron	INTERMEDIARY_CONCEPT	in	PART-OF-I
 uv rays	uv rays	INTERMEDIARY_CONCEPT	sunlight	sunlight	INTERMEDIARY_CONCEPT	in	PART-OF
 vegetarian diets	vegetarian diets	INTERMEDIARY_CONCEPT	phytate	phytate	INTERMEDIARY_CONCEPT	in	PART-OF-I
-death	death	DISEASE	youth	youth	INTERMEDIARY_CONCEPT	in	PART-OF
 eggs	egg	FOOD	inflammation	inflammation	DISEASE	thought to cause	CAUSE
 lipitor	lipitor	INTERMEDIARY_CONCEPT	statins	statin	INTERMEDIARY_CONCEPT	, such as	HYPERNYMY
 yogurt	yogurt	FOOD	butterfat	butterfat	INTERMEDIARY_CONCEPT	packed with	PART-OF-I
-arteries	artery	INTERMEDIARY_CONCEPT	allergies	allergy	DISEASE	in	PART-OF
 carcinogen	carcinogen	INTERMEDIARY_CONCEPT	mutations	mutation	INTERMEDIARY_CONCEPT	caused by the	CAUSE
 phytates	phytate	INTERMEDIARY_CONCEPT	whole grains	whole grains	FOOD	in	PART-OF
 8-pn	8-pn	INTERMEDIARY_CONCEPT	beer	beer	FOOD	in	PART-OF
-lignans	lignan	INTERMEDIARY_CONCEPT	flax seeds	flax seeds	FOOD	in	PART-OF
 metabolism	metabolism	INTERMEDIARY_CONCEPT	music	music	INTERMEDIARY_CONCEPT	slow our	EFFECT-I
 turmeric	turmeric	FOOD	black pepper	black pepper	FOOD	boosts the level of the	EFFECT-I
 bacon	bacon	FOOD	carcinogenic nitrosamines	carcinogenic nitrosamines	INTERMEDIARY_CONCEPT	in	PART-OF-I
@@ -1998,16 +1793,15 @@ seeds	seed	FOOD	plant-based diet	plant-based diet	INTERMEDIARY_CONCEPT	, includi
 red wine	red wine	FOOD	grapes	grape	FOOD	in	PART-OF-I
 whole grains	whole grains	FOOD	fiber	fiber	INTERMEDIARY_CONCEPT	in	PART-OF-I
 enzymes	enzyme	INTERMEDIARY_CONCEPT	grapefruit	grapefruit	FOOD	suppress the	EFFECT-I
-carotenoids	carotenoid	INTERMEDIARY_CONCEPT	oxidative stress	oxidative stress	INTERMEDIARY_CONCEPT	in	PART-OF-I
 barley	barley	FOOD	grains	grain	INTERMEDIARY_CONCEPT	, such as oats and	HYPERNYMY
 antibodies	antibody	INTERMEDIARY_CONCEPT	crohn's disease	crohn's disease	DISEASE	in	PART-OF
 atherosclerosis	atherosclerosis	DISEASE	agent	agent	INTERMEDIARY_CONCEPT	in	PART-OF-I
 acidosis	acidosis	DISEASE	patients	patient	INTERMEDIARY_CONCEPT	in	PART-OF
 meat fumes	meat fumes	INTERMEDIARY_CONCEPT	polycyclic aromatic hydrocarbons	polycyclic aromatic hydrocarbons	INTERMEDIARY_CONCEPT	in	PART-OF-I
 broccoli	broccoli	FOOD	enzyme	enzyme	INTERMEDIARY_CONCEPT	in	PART-OF-I
+cow	cow	INTERMEDIARY_CONCEPT	proteins	protein	INTERMEDIARY_CONCEPT	in	PART-OF-I
 avocados	avocado	FOOD	cholesterol	cholesterol	INTERMEDIARY_CONCEPT	had	PART-OF-I
 whole foods	whole foods	FOOD	fiber	fiber	INTERMEDIARY_CONCEPT	packed with	PART-OF-I
-cause inflammation	cause inflammation	INTERMEDIARY_CONCEPT	chicken	chicken	FOOD	in	PART-OF
 beans	bean	FOOD	astrocytes	astrocyte	INTERMEDIARY_CONCEPT	help protect	EFFECT
 cow	cow	INTERMEDIARY_CONCEPT	casein	casein	INTERMEDIARY_CONCEPT	in	PART-OF-I
 aluminum excretion	aluminum excretion	INTERMEDIARY_CONCEPT	spike	spike	INTERMEDIARY_CONCEPT	in	PART-OF-I
@@ -2016,7 +1810,6 @@ phytoestrogens	phytoestrogen	INTERMEDIARY_CONCEPT	flax seeds	flax seeds	FOOD	in	
 use antibiotics	use antibiotics	INTERMEDIARY_CONCEPT	agriculture	agriculture	INTERMEDIARY_CONCEPT	in	PART-OF
 soy protein	soy protein	FOOD	miso	miso	FOOD	in	PART-OF
 chicken	chicken	FOOD	arsenic	arsenic	INTERMEDIARY_CONCEPT	in	PART-OF-I
-b-cell	b-cell	INTERMEDIARY_CONCEPT	leukemia	leukemia	DISEASE	, including	HYPERNYMY
 mrsa	mrsa	INTERMEDIARY_CONCEPT	operations	operation	INTERMEDIARY_CONCEPT	was each associated with	LINKED-TO-I
 tor	tor	INTERMEDIARY_CONCEPT	broccoli	broccoli	FOOD	in	PART-OF
 salmon	salmon	INTERMEDIARY_CONCEPT	saturated fat	saturated fat	INTERMEDIARY_CONCEPT	in	PART-OF-I
@@ -2025,7 +1818,6 @@ yersinia enterocolitica	yersinia enterocolitica	INTERMEDIARY_CONCEPT	pork	pork	F
 mood	mood	INTERMEDIARY_CONCEPT	gut	gut	INTERMEDIARY_CONCEPT	in	PART-OF
 nutrition	nutrition	INTERMEDIARY_CONCEPT	medical education	medical education	INTERMEDIARY_CONCEPT	in	PART-OF-I
 acne	acne	DISEASE	milk	milk	FOOD	in	PART-OF
-cranberries	cranberry	FOOD	cancer cells	cancer cells	INTERMEDIARY_CONCEPT	in	PART-OF-I
 vitamin c	vitamin c	INTERMEDIARY_CONCEPT	vitamin supplements	vitamin supplements	INTERMEDIARY_CONCEPT	such as	HYPERNYMY
 adolescents	adolescent	INTERMEDIARY_CONCEPT	brain damage	brain damage	INTERMEDIARY_CONCEPT	in	PART-OF-I
 estrogens	estrogen	INTERMEDIARY_CONCEPT	soy	soy	FOOD	in	PART-OF
@@ -2047,7 +1839,6 @@ glycotoxins	glycotoxin	INTERMEDIARY_CONCEPT	cigarette	cigarette	INTERMEDIARY_CON
 breast cancer	breast cancer	DISEASE	statins	statin	INTERMEDIARY_CONCEPT	had decreased	EFFECT-I
 toxin genes	toxin genes	INTERMEDIARY_CONCEPT	chickens	chicken	FOOD	could spread	PART-OF
 milk	milk	FOOD	bovine casomorphin	bovine casomorphin	INTERMEDIARY_CONCEPT	in	PART-OF-I
-eczema	eczema	DISEASE	adolescents	adolescent	INTERMEDIARY_CONCEPT	in	PART-OF
 plant-based diet	plant-based diet	INTERMEDIARY_CONCEPT	ornish	ornish	INTERMEDIARY_CONCEPT	like	IS-A
 beans	bean	FOOD	soy	soy	FOOD	such as	IS-A
 monounsaturated fats	monounsaturated fats	INTERMEDIARY_CONCEPT	nuts	nut	FOOD	in	PART-OF
@@ -2076,24 +1867,20 @@ mortality	mortality	INTERMEDIARY_CONCEPT	poultry	poultry	FOOD	associated with	LI
 vegetable oil	vegetable oil	FOOD	pancreatic cancer	pancreatic cancer	DISEASE	is associated with	LINKED-TO
 figs	fig	FOOD	fiber	fiber	INTERMEDIARY_CONCEPT	are so packed with	PART-OF-I
 milk	milk	FOOD	insulin	insulin	INTERMEDIARY_CONCEPT	in	PART-OF-I
-mood	mood	INTERMEDIARY_CONCEPT	carbohydrate	carbohydrate	INTERMEDIARY_CONCEPT	in	PART-OF
 poultry slaughtering	poultry slaughtering	INTERMEDIARY_CONCEPT	workers	worker	INTERMEDIARY_CONCEPT	in	PART-OF-I
+protein	protein	INTERMEDIARY_CONCEPT	phosphorus	phosphorus	INTERMEDIARY_CONCEPT	has	PART-OF-I
 tums	tum	INTERMEDIARY_CONCEPT	pills	pill	INTERMEDIARY_CONCEPT	like	HYPERNYMY
 insulin sensitivity	insulin sensitivity	DISEASE	pigs	pig	INTERMEDIARY_CONCEPT	in	PART-OF
 phytosterols	phytosterol	INTERMEDIARY_CONCEPT	seeds	seed	FOOD	are packed with	PART-OF
-matcha	matcha	INTERMEDIARY_CONCEPT	tea	tea	FOOD	is	IS-A
 salmonella	salmonella	INTERMEDIARY_CONCEPT	chicken	chicken	FOOD	laced with	PART-OF
 carbohydrates	carbohydrate	INTERMEDIARY_CONCEPT	acrylamide	acrylamide	INTERMEDIARY_CONCEPT	due to the effects of	CAUSED-BY
 caffeine	caffeine	INTERMEDIARY_CONCEPT	tea	tea	FOOD	in	PART-OF
 girls	girl	INTERMEDIARY_CONCEPT	premature puberty	premature puberty	INTERMEDIARY_CONCEPT	in	PART-OF-I
-fatty streaks	fatty streaks	INTERMEDIARY_CONCEPT	childhood	childhood	INTERMEDIARY_CONCEPT	in	PART-OF
 rosy glow	rosy glow	INTERMEDIARY_CONCEPT	cardiovascular health	cardiovascular health	INTERMEDIARY_CONCEPT	associated with	LINKED-TO
 pork	pork	FOOD	yersinia enterocolitica	yersinia enterocolitica	INTERMEDIARY_CONCEPT	in	PART-OF-I
-blue-green algae	blue-green algae	INTERMEDIARY_CONCEPT	seafood	seafood	FOOD	in	PART-OF
 pathogens	pathogen	INTERMEDIARY_CONCEPT	salmonella	salmonella	INTERMEDIARY_CONCEPT	such as	IS-A
 sugar	sugar	FOOD	pancreatic cancer	pancreatic cancer	DISEASE	tied to	LINKED-TO
 bmaa	bmaa	INTERMEDIARY_CONCEPT	brains	brain	INTERMEDIARY_CONCEPT	had	PART-OF
-sunlight	sunlight	INTERMEDIARY_CONCEPT	chlorophyll	chlorophyll	INTERMEDIARY_CONCEPT	in	PART-OF-I
 virus	virus	DISEASE	immune systems	immune systems	INTERMEDIARY_CONCEPT	are able to clear the	EFFECT-I
 milk drinkers	milk drinkers	INTERMEDIARY_CONCEPT	acne	acne	DISEASE	in	PART-OF-I
 immunity	immunity	INTERMEDIARY_CONCEPT	athletes	athlete	INTERMEDIARY_CONCEPT	in	PART-OF
@@ -2112,16 +1899,13 @@ igf-1	igf-1	INTERMEDIARY_CONCEPT	vegans	vegan	INTERMEDIARY_CONCEPT	in	PART-OF
 preventing relapse	preventing relapse	INTERMEDIARY_CONCEPT	crohn	crohn	INTERMEDIARY_CONCEPT	in	PART-OF
 hepatitis e	hepatitis e	DISEASE	pigs	pig	INTERMEDIARY_CONCEPT	are the reservoirs of the	PART-OF
 nicotine	nicotine	INTERMEDIARY_CONCEPT	ketchup	ketchup	FOOD	in	PART-OF
-genitals	genitals	INTERMEDIARY_CONCEPT	beef	beef	FOOD	in	PART-OF
-fats	fat	INTERMEDIARY_CONCEPT	nuts	nut	FOOD	like	IS-A
+protein	protein	INTERMEDIARY_CONCEPT	leucine	leucine	INTERMEDIARY_CONCEPT	in	PART-OF-I
 hospital	hospital	INTERMEDIARY_CONCEPT	boston	boston	INTERMEDIARY_CONCEPT	in	PART-OF
 platelets	platelet	INTERMEDIARY_CONCEPT	blood clots	blood clots	DISEASE	are what trigger the	CAUSE
-nuts	nut	FOOD	fat	fat	INTERMEDIARY_CONCEPT	, such as	HYPERNYMY
 insulin	insulin	INTERMEDIARY_CONCEPT	carbohydrates	carbohydrate	INTERMEDIARY_CONCEPT	trigger a release of	CAUSED-BY
 garlic	garlic	FOOD	inflammation	inflammation	DISEASE	decreases	EFFECT
 iron	iron	INTERMEDIARY_CONCEPT	pro-oxidant	pro-oxidant	INTERMEDIARY_CONCEPT	is a	HYPERNYMY
 lycopene	lycopene	INTERMEDIARY_CONCEPT	tomatoes	tomato	FOOD	in	PART-OF
-herbs	herb	FOOD	ginger	ginger	FOOD	like	IS-A
 blueberries	blueberry	FOOD	anthocyanins	anthocyanin	INTERMEDIARY_CONCEPT	in	PART-OF-I
 death	death	DISEASE	rheumatoid arthritis	rheumatoid arthritis	DISEASE	in	PART-OF
 urinary tract infections	urinary tract infections	DISEASE	rectal flora	rectal flora	INTERMEDIARY_CONCEPT	serve as a reservoir for	PART-OF
@@ -2129,7 +1913,6 @@ bananas	banana	FOOD	vitamin c	vitamin c	INTERMEDIARY_CONCEPT	in	PART-OF-I
 radioactivity	radioactivity	INTERMEDIARY_CONCEPT	seafood	seafood	FOOD	in	PART-OF
 brown rice	brown rice	FOOD	diabetes	diabetes	INTERMEDIARY_CONCEPT	reduced	EFFECT
 cancer mortality	cancer mortality	INTERMEDIARY_CONCEPT	poultry workers	poultry workers	INTERMEDIARY_CONCEPT	in	PART-OF
-bioequivalent	bioequivalent	INTERMEDIARY_CONCEPT	omega	omega	INTERMEDIARY_CONCEPT	are	IS-A
 fiber	fiber	INTERMEDIARY_CONCEPT	sea vegetables	sea vegetables	FOOD	in	PART-OF
 paratuberculosis	paratuberculosis	DISEASE	type 1 diabetes	type 1 diabetes	DISEASE	be a "trigger for	CAUSE
 anxiety	anxiety	INTERMEDIARY_CONCEPT	downer	downer	INTERMEDIARY_CONCEPT	without the	PART-OF-I
@@ -2137,7 +1920,6 @@ lutein	lutein	INTERMEDIARY_CONCEPT	carotenoid phytonutrient	carotenoid phytonutr
 detoxifying enzymes	detoxifying enzymes	INTERMEDIARY_CONCEPT	broccoli	broccoli	FOOD	boosted the	EFFECT-I
 skim milk	skim milk	FOOD	estrogen	estrogen	INTERMEDIARY_CONCEPT	in	PART-OF-I
 death	death	DISEASE	nut	nut	FOOD	associated with	LINKED-TO
-fat	fat	INTERMEDIARY_CONCEPT	nuts	nut	FOOD	are a preferable source of	PART-OF
 allergies	allergy	DISEASE	adulthood	adulthood	INTERMEDIARY_CONCEPT	in	PART-OF
 inflammation	inflammation	DISEASE	heart disease	heart disease	DISEASE	such as	IS-A
 inflammation	inflammation	DISEASE	fish oil	fish oil	INTERMEDIARY_CONCEPT	decreases	EFFECT-I
@@ -2172,13 +1954,10 @@ calories	calorie	INTERMEDIARY_CONCEPT	chocolate	chocolate	FOOD	in	PART-OF
 triphala	triphala	INTERMEDIARY_CONCEPT	lead	lead	INTERMEDIARY_CONCEPT	in	PART-OF-I
 poultry products	poultry products	FOOD	cancer-causing viruses	cancer-causing viruses	DISEASE	in	PART-OF-I
 cholesterol	cholesterol	INTERMEDIARY_CONCEPT	age	age	INTERMEDIARY_CONCEPT	in	PART-OF-I
-china	china	INTERMEDIARY_CONCEPT	diabetes epidemic	diabetes epidemic	INTERMEDIARY_CONCEPT	in	PART-OF-I
-diabetes epidemic	diabetes epidemic	INTERMEDIARY_CONCEPT	china	china	INTERMEDIARY_CONCEPT	in	PART-OF
 strokes	stroke	DISEASE	killer	killer	INTERMEDIARY_CONCEPT	are	HYPERNYMY
-chicken	chicken	FOOD	cause inflammation	cause inflammation	INTERMEDIARY_CONCEPT	in	PART-OF-I
 patulin	patulin	INTERMEDIARY_CONCEPT	mycotoxin	mycotoxin	INTERMEDIARY_CONCEPT	is a	HYPERNYMY
-bpa	bpa	INTERMEDIARY_CONCEPT	graphs	graph	INTERMEDIARY_CONCEPT	like	HYPERNYMY
 goji berries	goji berries	FOOD	herbs	herb	FOOD	such as	HYPERNYMY
+cow	cow	INTERMEDIARY_CONCEPT	protein	protein	INTERMEDIARY_CONCEPT	in	PART-OF-I
 muscles	muscle	INTERMEDIARY_CONCEPT	peppermint	peppermint	FOOD	does is relax the	EFFECT-I
 infants	infant	INTERMEDIARY_CONCEPT	lies	lie	INTERMEDIARY_CONCEPT	in	PART-OF-I
 beef	beef	FOOD	steroid hormones	steroid hormones	INTERMEDIARY_CONCEPT	in	PART-OF-I
@@ -2194,9 +1973,7 @@ bacon	bacon	FOOD	esophageal cancer	esophageal cancer	DISEASE	in	PART-OF-I
 cigarette smoke	cigarette smoke	INTERMEDIARY_CONCEPT	glycotoxins	glycotoxin	INTERMEDIARY_CONCEPT	in	PART-OF-I
 apples	apple	FOOD	vitamin c	vitamin c	INTERMEDIARY_CONCEPT	in	PART-OF-I
 cherries	cherry	FOOD	melatonin	melatonin	INTERMEDIARY_CONCEPT	were a source of	PART-OF-I
-fats	fat	INTERMEDIARY_CONCEPT	animal products	animal products	INTERMEDIARY_CONCEPT	in	PART-OF
 phytate	phytate	INTERMEDIARY_CONCEPT	vegetarian	vegetarian	INTERMEDIARY_CONCEPT	in	PART-OF
-phytoestrogens	phytoestrogen	INTERMEDIARY_CONCEPT	breast cancer	breast cancer	DISEASE	in	PART-OF
 animal products	animal products	INTERMEDIARY_CONCEPT	iron	iron	INTERMEDIARY_CONCEPT	in	PART-OF-I
 active ingredient	active ingredient	INTERMEDIARY_CONCEPT	broccoli	broccoli	FOOD	in	PART-OF
 doughnuts	doughnut	INTERMEDIARY_CONCEPT	prostate cancer	prostate cancer	DISEASE	was associated with about a third greater odds of	LINKED-TO
@@ -2215,15 +1992,11 @@ lead	lead	INTERMEDIARY_CONCEPT	chinese	chinese	INTERMEDIARY_CONCEPT	in	PART-OF
 sun	sun	INTERMEDIARY_CONCEPT	uv rays	uv rays	INTERMEDIARY_CONCEPT	in	PART-OF-I
 cognitive dysfunction	cognitive dysfunction	DISEASE	alzheimer	alzheimer	INTERMEDIARY_CONCEPT	in	PART-OF
 healthy diets	healthy diets	INTERMEDIARY_CONCEPT	beans	bean	FOOD	in	PART-OF-I
-girls	girl	INTERMEDIARY_CONCEPT	milk	milk	FOOD	in	PART-OF-I
-human cells	human cells	INTERMEDIARY_CONCEPT	avocados	avocado	FOOD	in	PART-OF
 cooked meat	cooked meat	FOOD	heterocyclic amines	heterocyclic amines	INTERMEDIARY_CONCEPT	in	PART-OF-I
 amyloidosis	amyloidosis	DISEASE	leprosy	leprosy	DISEASE	triggered by	CAUSED-BY
-kangaroo meat	kangaroo meat	FOOD	inflammation	inflammation	DISEASE	triggered by	CAUSE
 bad cholesterol	bad cholesterol	INTERMEDIARY_CONCEPT	nuts	nut	FOOD	drop your	EFFECT-I
 platelet activation	platelet activation	INTERMEDIARY_CONCEPT	tomatoes	tomato	FOOD	lowered	EFFECT-I
 table sugar	table sugar	FOOD	fructose	fructose	INTERMEDIARY_CONCEPT	is	HYPERNYMY
-phosphorus	phosphorus	INTERMEDIARY_CONCEPT	kidney function	kidney function	INTERMEDIARY_CONCEPT	in	PART-OF
 prediabetes	prediabete	DISEASE	insulin resistance	insulin resistance	DISEASE	is what causes	CAUSED-BY
 dairy	dairy	INTERMEDIARY_CONCEPT	dioxins	dioxin	INTERMEDIARY_CONCEPT	in	PART-OF-I
 obesity	obesity	DISEASE	diabetes	diabetes	INTERMEDIARY_CONCEPT	predisposes us to	CAUSE
@@ -2245,7 +2018,6 @@ juice	juice	INTERMEDIARY_CONCEPT	muscle soreness	muscle soreness	DISEASE	could r
 plant estrogens	plant estrogens	INTERMEDIARY_CONCEPT	soy	soy	FOOD	in	PART-OF
 death	death	DISEASE	heart muscle	heart muscle	INTERMEDIARY_CONCEPT	in	PART-OF-I
 pesticides	pesticide	INTERMEDIARY_CONCEPT	milk	milk	FOOD	in	PART-OF
-salmonella	salmonella	INTERMEDIARY_CONCEPT	salmonellosis	salmonellosis	DISEASE	in	PART-OF
 igf-1	igf-1	INTERMEDIARY_CONCEPT	growth hormone	growth hormone	INTERMEDIARY_CONCEPT	is a	HYPERNYMY
 steroids	steroid	INTERMEDIARY_CONCEPT	dairy	dairy	INTERMEDIARY_CONCEPT	in	PART-OF
 urine	urine	INTERMEDIARY_CONCEPT	antibiotics	antibiotic	INTERMEDIARY_CONCEPT	in	PART-OF-I
@@ -2259,7 +2031,6 @@ cheese	cheese	FOOD	calcium	calcium	INTERMEDIARY_CONCEPT	in	PART-OF-I
 sulforaphane	sulforaphane	INTERMEDIARY_CONCEPT	broccoli	broccoli	FOOD	in	PART-OF
 eggs	egg	FOOD	heterocyclic amines	heterocyclic amines	INTERMEDIARY_CONCEPT	in	PART-OF-I
 indonesia	indonesia	INTERMEDIARY_CONCEPT	tofu	tofu	FOOD	in	PART-OF-I
-life	life	INTERMEDIARY_CONCEPT	drinking	drinking	INTERMEDIARY_CONCEPT	in	PART-OF-I
 carrots	carrot	FOOD	roots	root	FOOD	are	HYPERNYMY
 flaxseeds	flaxseed	FOOD	burgers	burger	INTERMEDIARY_CONCEPT	in	PART-OF
 dna damage	dna damage	INTERMEDIARY_CONCEPT	turmeric	turmeric	FOOD	such as	IS-A
@@ -2270,7 +2041,6 @@ sulfur	sulfur	INTERMEDIARY_CONCEPT	amino acids	amino acids	INTERMEDIARY_CONCEPT	
 endotoxins	endotoxin	INTERMEDIARY_CONCEPT	animal products	animal products	INTERMEDIARY_CONCEPT	in	PART-OF
 heart disease	heart disease	DISEASE	killers	killer	INTERMEDIARY_CONCEPT	, such as	HYPERNYMY
 nitrate	nitrate	INTERMEDIARY_CONCEPT	beet juice	beet juice	INTERMEDIARY_CONCEPT	is	IS-A
-salmonellosis	salmonellosis	DISEASE	salmonella	salmonella	INTERMEDIARY_CONCEPT	in	PART-OF-I
 milk	milk	FOOD	skim milk	skim milk	FOOD	, including	IS-A
 fructose	fructose	INTERMEDIARY_CONCEPT	blueberries	blueberry	FOOD	in	PART-OF
 seafood	seafood	FOOD	mercury	mercury	INTERMEDIARY_CONCEPT	, including	IS-A
@@ -2278,46 +2048,42 @@ junk food	junk food	FOOD	trans fat	trans fat	INTERMEDIARY_CONCEPT	, found in	PAR
 watermelons	watermelon	FOOD	citruline	citruline	INTERMEDIARY_CONCEPT	in	PART-OF-I
 mortality	mortality	INTERMEDIARY_CONCEPT	poultry workers	poultry workers	INTERMEDIARY_CONCEPT	in	PART-OF
 pills	pill	INTERMEDIARY_CONCEPT	viagra	viagra	INTERMEDIARY_CONCEPT	like	IS-A
+protein	protein	INTERMEDIARY_CONCEPT	pork	pork	FOOD	in	PART-OF
 listeria	listeria	INTERMEDIARY_CONCEPT	deli meat	deli meat	FOOD	in	PART-OF
 kombu	kombu	INTERMEDIARY_CONCEPT	iodine	iodine	INTERMEDIARY_CONCEPT	is such a good source of	PART-OF-I
 pathogens	pathogen	INTERMEDIARY_CONCEPT	noroviruses	norovirus	DISEASE	due to	CAUSED-BY
 lemonoids	lemonoid	INTERMEDIARY_CONCEPT	lemonin	lemonin	INTERMEDIARY_CONCEPT	like	IS-A
 neu5gc	neu5gc	INTERMEDIARY_CONCEPT	animal proteins	animal proteins	INTERMEDIARY_CONCEPT	, such as	HYPERNYMY
-cancer cells	cancer cells	INTERMEDIARY_CONCEPT	cranberries	cranberry	FOOD	in	PART-OF
 therapies	therapy	INTERMEDIARY_CONCEPT	antiangiogenesis	antiangiogenesis	INTERMEDIARY_CONCEPT	like	IS-A
 miso	miso	FOOD	soy protein	soy protein	FOOD	in	PART-OF-I
-fat	fat	INTERMEDIARY_CONCEPT	mood	mood	INTERMEDIARY_CONCEPT	in	PART-OF-I
 breast milk	breast milk	FOOD	pcbs	pcb	INTERMEDIARY_CONCEPT	, such as	IS-A
 listeria	listeria	INTERMEDIARY_CONCEPT	deli meats	deli meats	FOOD	in	PART-OF
 gestational diabetes	gestational diabetes	DISEASE	cholesterol	cholesterol	INTERMEDIARY_CONCEPT	were associated with elevated [	LINKED-TO-I
 liver	liver	INTERMEDIARY_CONCEPT	igf-1	igf-1	INTERMEDIARY_CONCEPT	is released by our	PART-OF-I
 pregnancy	pregnancy	INTERMEDIARY_CONCEPT	adverse effects	adverse effects	INTERMEDIARY_CONCEPT	have	PART-OF-I
 strawberries	strawberry	FOOD	patients	patient	INTERMEDIARY_CONCEPT	in	PART-OF
-phytoestrogens	phytoestrogen	INTERMEDIARY_CONCEPT	nuts	nut	FOOD	in	PART-OF
 broccoli	broccoli	FOOD	toxicity	toxicity	INTERMEDIARY_CONCEPT	due to	CAUSE
+protein	protein	INTERMEDIARY_CONCEPT	anxiety	anxiety	INTERMEDIARY_CONCEPT	are associated with lower levels of	LINKED-TO
 animal products	animal products	INTERMEDIARY_CONCEPT	endotoxins	endotoxin	INTERMEDIARY_CONCEPT	in	PART-OF-I
 smell	smell	INTERMEDIARY_CONCEPT	urine	urine	INTERMEDIARY_CONCEPT	like	IS-A
 plant-based diet	plant-based diet	INTERMEDIARY_CONCEPT	enzyme	enzyme	INTERMEDIARY_CONCEPT	helps to boost this	EFFECT
-skin cancer	skin cancer	DISEASE	childhood	childhood	INTERMEDIARY_CONCEPT	in	PART-OF
 chicken	chicken	FOOD	fecal bacteria	fecal bacteria	INTERMEDIARY_CONCEPT	in	PART-OF-I
 mediterranean diet	mediterranean diet	INTERMEDIARY_CONCEPT	diet high	diet high	INTERMEDIARY_CONCEPT	is a	HYPERNYMY
 treatments	treatment	INTERMEDIARY_CONCEPT	acupuncture	acupuncture	INTERMEDIARY_CONCEPT	like	IS-A
-fat	fat	INTERMEDIARY_CONCEPT	grapes	grape	FOOD	in	PART-OF-I
 eggs	egg	FOOD	cholesterol	cholesterol	INTERMEDIARY_CONCEPT	could shoot their	EFFECT
 apples	apple	FOOD	tangeretin	tangeretin	INTERMEDIARY_CONCEPT	in	PART-OF-I
 gingivitis	gingivitis	DISEASE	periodontal diseases	periodontal diseases	DISEASE	like	HYPERNYMY
 beta-carotene	beta-carotene	INTERMEDIARY_CONCEPT	carrot	carrot	FOOD	in	PART-OF
 cholesterol	cholesterol	INTERMEDIARY_CONCEPT	breast cancer	breast cancer	DISEASE	boosts	EFFECT
 grapes	grape	FOOD	fat burning	fat burning	INTERMEDIARY_CONCEPT	in	PART-OF
-bacteroides	bacteroide	INTERMEDIARY_CONCEPT	fat	fat	INTERMEDIARY_CONCEPT	are associated with the	LINKED-TO-I
 astrocytes	astrocyte	INTERMEDIARY_CONCEPT	beans	bean	FOOD	would help protect	EFFECT-I
-lignans	lignan	INTERMEDIARY_CONCEPT	tea	tea	FOOD	in	PART-OF
 benzene	benzene	INTERMEDIARY_CONCEPT	cigarette	cigarette	INTERMEDIARY_CONCEPT	in	PART-OF
 mercury	mercury	INTERMEDIARY_CONCEPT	corn syrup	corn syrup	FOOD	in	PART-OF
 aging	age	INTERMEDIARY_CONCEPT	dairy	dairy	INTERMEDIARY_CONCEPT	accelerates the	EFFECT-I
 girls	girl	INTERMEDIARY_CONCEPT	early onset puberty	early onset puberty	INTERMEDIARY_CONCEPT	in	PART-OF-I
 industrial toxins	industrial toxins	INTERMEDIARY_CONCEPT	dioxins	dioxin	INTERMEDIARY_CONCEPT	such as	IS-A
 salmonella	salmonella	INTERMEDIARY_CONCEPT	poultry	poultry	FOOD	are	HYPERNYMY
+protein	protein	INTERMEDIARY_CONCEPT	whipped cream	whipped cream	FOOD	in	PART-OF
 vegan	vegan	INTERMEDIARY_CONCEPT	fry	fry	INTERMEDIARY_CONCEPT	in	PART-OF-I
 sweet potatoes	sweet potatoes	FOOD	roots	root	FOOD	like	HYPERNYMY
 amino acids	amino acids	INTERMEDIARY_CONCEPT	aging	age	INTERMEDIARY_CONCEPT	associated with	LINKED-TO
@@ -2326,12 +2092,12 @@ hops	hop	FOOD	estrogens	estrogen	INTERMEDIARY_CONCEPT	in	PART-OF-I
 carbs	carb	INTERMEDIARY_CONCEPT	pancreatic cancer	pancreatic cancer	DISEASE	was associated with	LINKED-TO
 heart disease	heart disease	DISEASE	disability	disability	INTERMEDIARY_CONCEPT	associated with	LINKED-TO-I
 weight gain	weight gain	DISEASE	animal products	animal products	INTERMEDIARY_CONCEPT	is associated with	LINKED-TO-I
-glycotoxins	glycotoxin	INTERMEDIARY_CONCEPT	inflammation	inflammation	DISEASE	in	PART-OF
 corn syrup	corn syrup	FOOD	mercury	mercury	INTERMEDIARY_CONCEPT	in	PART-OF-I
 carob	carob	FOOD	fiber	fiber	INTERMEDIARY_CONCEPT	in	PART-OF-I
+milk	milk	FOOD	protein	protein	INTERMEDIARY_CONCEPT	in	PART-OF-I
 pigment	pigment	INTERMEDIARY_CONCEPT	tomatoes	tomato	FOOD	in	PART-OF
+wheat	wheat	FOOD	protein	protein	INTERMEDIARY_CONCEPT	in	PART-OF-I
 ulcerative colitis	ulcerative colitis	DISEASE	production	production	INTERMEDIARY_CONCEPT	is associated with	LINKED-TO-I
-broccoli	broccoli	FOOD	detoxifying enzymes	detoxifying enzymes	INTERMEDIARY_CONCEPT	in	PART-OF-I
 inflammation	inflammation	DISEASE	tomato juice	tomato juice	FOOD	decreases	EFFECT-I
 choline	choline	INTERMEDIARY_CONCEPT	death	death	DISEASE	is	IS-A
 crohn	crohn	INTERMEDIARY_CONCEPT	antibodies	antibody	INTERMEDIARY_CONCEPT	in	PART-OF-I
@@ -2366,11 +2132,11 @@ chocolate	chocolate	FOOD	flavonoids	flavonoid	INTERMEDIARY_CONCEPT	in	PART-OF-I
 schizophrenia	schizophrenia	DISEASE	brain diseases	brain diseases	DISEASE	such as	HYPERNYMY
 vegans	vegan	INTERMEDIARY_CONCEPT	growth hormones	growth hormones	INTERMEDIARY_CONCEPT	in	PART-OF-I
 flower	flower	FOOD	broccoli florets	broccoli florets	INTERMEDIARY_CONCEPT	are just clusters of	PART-OF
+proteins	protein	INTERMEDIARY_CONCEPT	milk	milk	FOOD	in	PART-OF
 celery	celery	FOOD	nitrates	nitrate	INTERMEDIARY_CONCEPT	in	PART-OF-I
 carcinogen	carcinogen	INTERMEDIARY_CONCEPT	dna mutations	dna mutations	INTERMEDIARY_CONCEPT	caused by the	CAUSE
 spike	spike	INTERMEDIARY_CONCEPT	blood pressure	blood pressure	INTERMEDIARY_CONCEPT	in	PART-OF
 sugar	sugar	FOOD	cranberry juice	cranberry juice	FOOD	without added	PART-OF
-campylobacter	campylobacter	INTERMEDIARY_CONCEPT	poultry	poultry	FOOD	are	HYPERNYMY
 mortality	mortality	INTERMEDIARY_CONCEPT	vitamin d	vitamin d	INTERMEDIARY_CONCEPT	in	PART-OF
 leprosy	leprosy	DISEASE	amyloidosis	amyloidosis	DISEASE	triggered by	CAUSE
 active ingredient	active ingredient	INTERMEDIARY_CONCEPT	turmeric	turmeric	FOOD	in	PART-OF
@@ -2380,7 +2146,6 @@ inflammation	inflammation	DISEASE	bleeding	bleed	DISEASE	like	IS-A
 calcium intake	calcium intake	INTERMEDIARY_CONCEPT	dairy consumption	dairy consumption	INTERMEDIARY_CONCEPT	due to	CAUSED-BY
 poultry	poultry	FOOD	cancer-causing herpesvirus	cancer-causing herpesvirus	DISEASE	in	PART-OF-I
 gastrocolic reflex	gastrocolic reflex	INTERMEDIARY_CONCEPT	mints	mint	FOOD	are used to reduce the	EFFECT-I
-tea	tea	FOOD	lignans	lignan	INTERMEDIARY_CONCEPT	in	PART-OF-I
 microwave	microwave	INTERMEDIARY_CONCEPT	butter flavor	butter flavor	INTERMEDIARY_CONCEPT	in	PART-OF-I
 valium	valium	INTERMEDIARY_CONCEPT	sleeping pills	sleeping pills	INTERMEDIARY_CONCEPT	like	HYPERNYMY
 neurotoxins	neurotoxin	INTERMEDIARY_CONCEPT	bmaa	bmaa	INTERMEDIARY_CONCEPT	is	IS-A
@@ -2392,19 +2157,17 @@ who	who	INTERMEDIARY_CONCEPT	pritikin	pritikin	INTERMEDIARY_CONCEPT	is	HYPERNYMY
 nanoparticles	nanoparticle	INTERMEDIARY_CONCEPT	titanium dioxide	titanium dioxide	INTERMEDIARY_CONCEPT	such as	IS-A
 amino acids	amino acids	INTERMEDIARY_CONCEPT	leucine	leucine	INTERMEDIARY_CONCEPT	, such as	IS-A
 e. coli	e. coli	INTERMEDIARY_CONCEPT	beef	beef	FOOD	in	PART-OF
-fukushima	fukushima	INTERMEDIARY_CONCEPT	bump	bump	INTERMEDIARY_CONCEPT	in	PART-OF-I
 tea	tea	FOOD	love	love	INTERMEDIARY_CONCEPT	in	PART-OF-I
 eggs	egg	FOOD	choline	choline	INTERMEDIARY_CONCEPT	, found in	PART-OF-I
 hibiscus	hibiscus	FOOD	teas	tea	FOOD	like	HYPERNYMY
 moderation	moderation	INTERMEDIARY_CONCEPT	smoking	smoking	INTERMEDIARY_CONCEPT	in	PART-OF-I
 blue-green algae	blue-green algae	INTERMEDIARY_CONCEPT	spirulina	spirulina	INTERMEDIARY_CONCEPT	is a type of	IS-A
-adolescents	adolescent	INTERMEDIARY_CONCEPT	eczema	eczema	DISEASE	in	PART-OF-I
 estrogen	estrogen	INTERMEDIARY_CONCEPT	steroid	steroid	INTERMEDIARY_CONCEPT	is a	HYPERNYMY
 acupuncture	acupuncture	INTERMEDIARY_CONCEPT	treatments	treatment	INTERMEDIARY_CONCEPT	like	HYPERNYMY
+sulfur	sulfur	INTERMEDIARY_CONCEPT	proteins	protein	INTERMEDIARY_CONCEPT	-containing	PART-OF
 folic acid	folic acid	INTERMEDIARY_CONCEPT	pills	pill	INTERMEDIARY_CONCEPT	in	PART-OF
 testosterone	testosterone	INTERMEDIARY_CONCEPT	boost	boost	INTERMEDIARY_CONCEPT	in	PART-OF-I
 dementia	dementia	DISEASE	alzheimer's	alzheimer	INTERMEDIARY_CONCEPT	in	PART-OF
-inflammatory bowel diseases	inflammatory bowel diseases	DISEASE	methionine	methionine	INTERMEDIARY_CONCEPT	like	IS-A
 water	water	INTERMEDIARY_CONCEPT	tomatoes	tomato	FOOD	are	IS-A
 inflammation	inflammation	DISEASE	arthritis	arthritis	DISEASE	in	PART-OF
 saturated fat	saturated fat	INTERMEDIARY_CONCEPT	egg	egg	FOOD	would have	PART-OF
@@ -2444,13 +2207,11 @@ pcbs	pcb	INTERMEDIARY_CONCEPT	breast milk	breast milk	FOOD	, such as	HYPERNYMY
 nutrition	nutrition	INTERMEDIARY_CONCEPT	medical education	medical education	INTERMEDIARY_CONCEPT	in	PART-OF
 ldl	ldl	INTERMEDIARY_CONCEPT	trans fat	trans fat	INTERMEDIARY_CONCEPT	in	PART-OF
 greece	greece	INTERMEDIARY_CONCEPT	dietary guidelines	dietary guidelines	INTERMEDIARY_CONCEPT	in	PART-OF-I
-fish consumption	fish consumption	INTERMEDIARY_CONCEPT	salmon	salmon	INTERMEDIARY_CONCEPT	is	IS-A
 uric acid	uric acid	INTERMEDIARY_CONCEPT	milk	milk	FOOD	caused	CAUSED-BY
 boys	boy	INTERMEDIARY_CONCEPT	puberty	puberty	INTERMEDIARY_CONCEPT	in	PART-OF-I
 animal protein	animal protein	INTERMEDIARY_CONCEPT	girls	girl	INTERMEDIARY_CONCEPT	associated with	LINKED-TO-I
 milk	milk	FOOD	animal products	animal products	INTERMEDIARY_CONCEPT	such as	HYPERNYMY
 persistent organic pollutants	persistent organic pollutants	INTERMEDIARY_CONCEPT	dioxins	dioxin	INTERMEDIARY_CONCEPT	like	IS-A
-penicillin	penicillin	INTERMEDIARY_CONCEPT	peoria	peoria	INTERMEDIARY_CONCEPT	in	PART-OF
 cancer cells	cancer cells	INTERMEDIARY_CONCEPT	dna	dna	INTERMEDIARY_CONCEPT	wither away as their	PART-OF-I
 inflammation	inflammation	DISEASE	gluten	gluten	FOOD	caused by	CAUSED-BY
 dermatology	dermatology	INTERMEDIARY_CONCEPT	irritation	irritation	INTERMEDIARY_CONCEPT	in	PART-OF-I
@@ -2465,7 +2226,6 @@ fiber	fiber	INTERMEDIARY_CONCEPT	cholesterol	cholesterol	INTERMEDIARY_CONCEPT	lo
 plastics	plastic	INTERMEDIARY_CONCEPT	bpa	bpa	INTERMEDIARY_CONCEPT	in	PART-OF-I
 pigs	pig	INTERMEDIARY_CONCEPT	insulin sensitivity	insulin sensitivity	DISEASE	in	PART-OF-I
 carcinogens	carcinogen	INTERMEDIARY_CONCEPT	cigarette smoke	cigarette smoke	INTERMEDIARY_CONCEPT	in	PART-OF
-polonium	polonium	INTERMEDIARY_CONCEPT	raw	raw	INTERMEDIARY_CONCEPT	in	PART-OF
 respiratory infections	respiratory infections	DISEASE	influenza	influenza	DISEASE	like	IS-A
 food restaurants	food restaurants	INTERMEDIARY_CONCEPT	mcdonald	mcdonald	INTERMEDIARY_CONCEPT	like	IS-A
 fiber	fiber	INTERMEDIARY_CONCEPT	figs	fig	FOOD	are so packed with	PART-OF
@@ -2478,11 +2238,10 @@ preservatives	preservative	INTERMEDIARY_CONCEPT	junk food	junk food	FOOD	in	PART
 pill	pill	INTERMEDIARY_CONCEPT	vinegar	vinegar	FOOD	in	PART-OF-I
 salt	salt	INTERMEDIARY_CONCEPT	stomach cancer	stomach cancer	DISEASE	associated with	LINKED-TO-I
 cholesterol	cholesterol	INTERMEDIARY_CONCEPT	eggs	egg	FOOD	are the top source of	PART-OF
-oxidative stress	oxidative stress	INTERMEDIARY_CONCEPT	carotenoids	carotenoid	INTERMEDIARY_CONCEPT	in	PART-OF
 iodine	iodine	INTERMEDIARY_CONCEPT	teats	teat	INTERMEDIARY_CONCEPT	in	PART-OF-I
 amino acids	amino acids	INTERMEDIARY_CONCEPT	milk	milk	FOOD	in	PART-OF
+protein	protein	INTERMEDIARY_CONCEPT	sweet potatoes	sweet potatoes	FOOD	in	PART-OF
 flaxseeds	flaxseed	FOOD	lignans	lignan	INTERMEDIARY_CONCEPT	in	PART-OF-I
-chocolate	chocolate	FOOD	fat	fat	INTERMEDIARY_CONCEPT	in	PART-OF-I
 poultry	poultry	FOOD	cancer-causing viruses	cancer-causing viruses	DISEASE	in	PART-OF-I
 dioxins	dioxin	INTERMEDIARY_CONCEPT	farm	farm	INTERMEDIARY_CONCEPT	in	PART-OF
 milk	milk	FOOD	pesticides	pesticide	INTERMEDIARY_CONCEPT	, such as pcbs and	IS-A
@@ -2494,9 +2253,7 @@ lutein	lutein	INTERMEDIARY_CONCEPT	carotenoid	carotenoid	INTERMEDIARY_CONCEPT	is
 macular degeneration	macular degeneration	DISEASE	eggs	egg	FOOD	help people with	EFFECT-I
 inflammatory bowel diseases	inflammatory bowel diseases	DISEASE	ulcerative colitis	ulcerative colitis	DISEASE	, such as	IS-A
 triggering inflammation	triggering inflammation	INTERMEDIARY_CONCEPT	arthritis	arthritis	DISEASE	in	PART-OF
-fungal toxins	fungal toxins	INTERMEDIARY_CONCEPT	apple juice	apple juice	FOOD	in	PART-OF
 bananas	banana	FOOD	anthocyanins	anthocyanin	INTERMEDIARY_CONCEPT	in	PART-OF-I
-inflammation	inflammation	DISEASE	kangaroo meat	kangaroo meat	FOOD	triggered by	CAUSED-BY
 egg nutrition center	egg nutrition center	INTERMEDIARY_CONCEPT	american egg board	american egg board	INTERMEDIARY_CONCEPT	was created by the	CAUSED-BY
 insomnia	insomnia	DISEASE	aid	aid	INTERMEDIARY_CONCEPT	in	PART-OF-I
 inflammation	inflammation	DISEASE	pain	pain	INTERMEDIARY_CONCEPT	is caused by	CAUSE
@@ -2511,9 +2268,7 @@ alzheimer's	alzheimer	INTERMEDIARY_CONCEPT	dementia	dementia	DISEASE	in	PART-OF-
 anabolic steroids	anabolic steroids	INTERMEDIARY_CONCEPT	farm animals	farm animals	INTERMEDIARY_CONCEPT	in	PART-OF
 arachidonic acid	arachidonic acid	INTERMEDIARY_CONCEPT	vegetarian	vegetarian	INTERMEDIARY_CONCEPT	in	PART-OF
 phytosterols	phytosterol	INTERMEDIARY_CONCEPT	seeds	seed	FOOD	in	PART-OF
-allergies	allergy	DISEASE	arteries	artery	INTERMEDIARY_CONCEPT	in	PART-OF-I
 green leafies	green leafies	INTERMEDIARY_CONCEPT	water	water	INTERMEDIARY_CONCEPT	in	PART-OF
-detoxifying enzymes	detoxifying enzymes	INTERMEDIARY_CONCEPT	broccoli	broccoli	FOOD	in	PART-OF
 infants	infant	INTERMEDIARY_CONCEPT	campylobacter infections	campylobacter infections	DISEASE	in	PART-OF-I
 antibodies	antibody	INTERMEDIARY_CONCEPT	iga	iga	INTERMEDIARY_CONCEPT	like	IS-A
 pork	pork	FOOD	yersinia	yersinia	INTERMEDIARY_CONCEPT	in	PART-OF-I
@@ -2531,14 +2286,12 @@ brains	brain	INTERMEDIARY_CONCEPT	bmaa	bmaa	INTERMEDIARY_CONCEPT	had	PART-OF-I
 vaccinations	vaccination	INTERMEDIARY_CONCEPT	mercury	mercury	INTERMEDIARY_CONCEPT	in	PART-OF-I
 gerson therapy	gerson therapy	INTERMEDIARY_CONCEPT	treatment	treatment	INTERMEDIARY_CONCEPT	in	PART-OF-I
 cortisol	cortisol	INTERMEDIARY_CONCEPT	stress hormone	stress hormone	INTERMEDIARY_CONCEPT	is a	HYPERNYMY
-fats	fat	INTERMEDIARY_CONCEPT	pcbs	pcb	INTERMEDIARY_CONCEPT	are associated with the	LINKED-TO-I
 chicken	chicken	FOOD	salmonella	salmonella	INTERMEDIARY_CONCEPT	laced with	PART-OF-I
 coffee	coffee	FOOD	suicide	suicide	INTERMEDIARY_CONCEPT	is associated with decreased	LINKED-TO
 blood pressure	blood pressure	INTERMEDIARY_CONCEPT	tea	tea	FOOD	lowers	EFFECT-I
 ages	age	INTERMEDIARY_CONCEPT	apples	apple	FOOD	in	PART-OF
 stroke	stroke	DISEASE	cardiovascular diseases	cardiovascular diseases	DISEASE	such as	HYPERNYMY
 toxicity	toxicity	INTERMEDIARY_CONCEPT	breastfeeding	breastfeed	INTERMEDIARY_CONCEPT	in	PART-OF
-womb	womb	INTERMEDIARY_CONCEPT	breast milk	breast milk	FOOD	in	PART-OF
 processed meat	processed meat	FOOD	sperm counts	sperm counts	INTERMEDIARY_CONCEPT	associated with	LINKED-TO-I
 turmeric	turmeric	FOOD	yellow pigment	yellow pigment	INTERMEDIARY_CONCEPT	in	PART-OF-I
 infant	infant	INTERMEDIARY_CONCEPT	penis size	penis size	INTERMEDIARY_CONCEPT	in	PART-OF-I
@@ -2547,20 +2300,17 @@ chocolate	chocolate	FOOD	saturated fat	saturated fat	INTERMEDIARY_CONCEPT	in	PAR
 young children	young children	INTERMEDIARY_CONCEPT	constipation	constipation	DISEASE	in	PART-OF-I
 lentil	lentil	FOOD	carbs	carb	INTERMEDIARY_CONCEPT	in	PART-OF-I
 salt intake	salt intake	INTERMEDIARY_CONCEPT	stomach cancer	stomach cancer	DISEASE	associated with	LINKED-TO-I
-painkiller	painkiller	INTERMEDIARY_CONCEPT	aspirin	aspirin	INTERMEDIARY_CONCEPT	in	PART-OF
 vitamin	vitamin	FOOD	vitamin e	vitamin e	INTERMEDIARY_CONCEPT	was the	IS-A
 sodium	sodium	INTERMEDIARY_CONCEPT	dietary guidelines	dietary guidelines	INTERMEDIARY_CONCEPT	in	PART-OF
 cholesterol	cholesterol	INTERMEDIARY_CONCEPT	avocados	avocado	FOOD	had	PART-OF
 farm	farm	INTERMEDIARY_CONCEPT	blood	blood	INTERMEDIARY_CONCEPT	is associated with higher rates of	LINKED-TO
 fresh fruits	fresh fruits	FOOD	blueberries	blueberry	FOOD	such as	IS-A
-childhood	childhood	INTERMEDIARY_CONCEPT	skin cancer	skin cancer	DISEASE	in	PART-OF-I
 fiber	fiber	INTERMEDIARY_CONCEPT	prebiotics	prebiotic	FOOD	, such as	HYPERNYMY
 cured meats	cured meats	FOOD	bologna	bologna	INTERMEDIARY_CONCEPT	like	IS-A
 blood sugar	blood sugar	INTERMEDIARY_CONCEPT	diabetics	diabetic	INTERMEDIARY_CONCEPT	in	PART-OF
 pork	pork	FOOD	ractopamine	ractopamine	INTERMEDIARY_CONCEPT	in	PART-OF-I
 sweet	sweet	INTERMEDIARY_CONCEPT	artificial sweeteners	artificial sweeteners	FOOD	in	PART-OF-I
 estrogen	estrogen	INTERMEDIARY_CONCEPT	steroid hormones	steroid hormones	INTERMEDIARY_CONCEPT	like	HYPERNYMY
-drinking	drinking	INTERMEDIARY_CONCEPT	life	life	INTERMEDIARY_CONCEPT	in	PART-OF
 boost	boost	INTERMEDIARY_CONCEPT	testosterone	testosterone	INTERMEDIARY_CONCEPT	in	PART-OF
 testosterone	testosterone	INTERMEDIARY_CONCEPT	mozart	mozart	INTERMEDIARY_CONCEPT	suppressed	EFFECT-I
 abdominal aortic aneurysms	abdominal aortic aneurysms	DISEASE	ballooning bulges	ballooning bulges	INTERMEDIARY_CONCEPT	are	HYPERNYMY
@@ -2570,9 +2320,7 @@ liver cancer	liver cancer	DISEASE	cranberry juice	cranberry juice	FOOD	suppresse
 tobacco	tobacco	FOOD	nightshade	nightshade	FOOD	is a	HYPERNYMY
 nuts	nut	FOOD	breast cancer	breast cancer	DISEASE	suppressed	EFFECT
 chocolate	chocolate	FOOD	excess calories	excess calories	INTERMEDIARY_CONCEPT	in	PART-OF-I
-carnitine	carnitine	INTERMEDIARY_CONCEPT	eggs	egg	FOOD	in	PART-OF
 parkinson	parkinson	INTERMEDIARY_CONCEPT	dairy intake	dairy intake	INTERMEDIARY_CONCEPT	in	PART-OF-I
-nausea	nausea	DISEASE	vomiting	vomit	INTERMEDIARY_CONCEPT	in	PART-OF-I
 worms	worm	INTERMEDIARY_CONCEPT	brain parasites	brain parasites	INTERMEDIARY_CONCEPT	such as	HYPERNYMY
 death	death	DISEASE	kidney failure	kidney failure	DISEASE	in	PART-OF
 cardiovascular health	cardiovascular health	INTERMEDIARY_CONCEPT	rosy glow	rosy glow	INTERMEDIARY_CONCEPT	associated with	LINKED-TO-I
@@ -2580,17 +2328,13 @@ puberty	puberty	INTERMEDIARY_CONCEPT	girls	girl	INTERMEDIARY_CONCEPT	in	PART-OF
 hospitals	hospital	INTERMEDIARY_CONCEPT	uganda	uganda	INTERMEDIARY_CONCEPT	in	PART-OF
 milk	milk	FOOD	berries	berry	FOOD	in	PART-OF-I
 animal products	animal products	INTERMEDIARY_CONCEPT	inflammation	inflammation	DISEASE	cause	CAUSE
-china	china	INTERMEDIARY_CONCEPT	obesity	obesity	DISEASE	in	PART-OF-I
 standard american diet	standard american diet	INTERMEDIARY_CONCEPT	blood	blood	INTERMEDIARY_CONCEPT	is so toxic to the	EFFECT
 market	market	INTERMEDIARY_CONCEPT	antacids	antacid	INTERMEDIARY_CONCEPT	like	IS-A
 inflammation	inflammation	DISEASE	atherosclerosis	atherosclerosis	DISEASE	in	PART-OF
 bovine leukemia virus	bovine leukemia virus	DISEASE	breast cancer	breast cancer	DISEASE	in	PART-OF
-animal products	animal products	INTERMEDIARY_CONCEPT	fats	fat	INTERMEDIARY_CONCEPT	in	PART-OF-I
 ingredient	ingredient	INTERMEDIARY_CONCEPT	chai tea	chai tea	FOOD	in	PART-OF
-grapes	grape	FOOD	fat	fat	INTERMEDIARY_CONCEPT	in	PART-OF
 domoic acid	domoic acid	INTERMEDIARY_CONCEPT	seafood	seafood	FOOD	, found in	PART-OF
 curry powder	curry powder	FOOD	pigment	pigment	INTERMEDIARY_CONCEPT	in	PART-OF-I
-childhood	childhood	INTERMEDIARY_CONCEPT	igf	igf	INTERMEDIARY_CONCEPT	in	PART-OF-I
 sausages	sausage	FOOD	thyroid	thyroid	INTERMEDIARY_CONCEPT	-containing	PART-OF-I
 silence	silence	INTERMEDIARY_CONCEPT	sitting	sit	INTERMEDIARY_CONCEPT	in	PART-OF-I
 ldl	ldl	INTERMEDIARY_CONCEPT	breast tumors	breast tumors	DISEASE	with higher levels of	PART-OF
@@ -2599,6 +2343,7 @@ milk	milk	FOOD	calcium	calcium	INTERMEDIARY_CONCEPT	in	PART-OF-I
 beef	beef	FOOD	pancreatic cancer	pancreatic cancer	DISEASE	is associated with	LINKED-TO-I
 cured meats	cured meats	FOOD	bacon	bacon	FOOD	like	IS-A
 beer	beer	FOOD	8-pn	8-pn	INTERMEDIARY_CONCEPT	in	PART-OF-I
+milk	milk	FOOD	proteins	protein	INTERMEDIARY_CONCEPT	in	PART-OF-I
 statins	statin	INTERMEDIARY_CONCEPT	therapies	therapy	INTERMEDIARY_CONCEPT	such as	HYPERNYMY
 erythritol	erythritol	INTERMEDIARY_CONCEPT	sweetener	sweetener	FOOD	like	HYPERNYMY
 diet high	diet high	INTERMEDIARY_CONCEPT	mediterranean diet	mediterranean diet	INTERMEDIARY_CONCEPT	is a	IS-A
@@ -2607,7 +2352,6 @@ virus	virus	DISEASE	obesity	obesity	DISEASE	first associated with	LINKED-TO
 herbs	herb	FOOD	goji berries	goji berries	FOOD	such as	IS-A
 diabetics	diabetic	INTERMEDIARY_CONCEPT	blood sugar	blood sugar	INTERMEDIARY_CONCEPT	in	PART-OF-I
 copd	copd	DISEASE	tobacco	tobacco	FOOD	is caused by	CAUSED-BY
-dairy	dairy	INTERMEDIARY_CONCEPT	acne	acne	DISEASE	in	PART-OF
 astrocytes	astrocyte	INTERMEDIARY_CONCEPT	beans	bean	FOOD	help protect	EFFECT-I
 leading killer	leading killer	INTERMEDIARY_CONCEPT	parkinson	parkinson	INTERMEDIARY_CONCEPT	is	HYPERNYMY
 carcinogens	carcinogen	INTERMEDIARY_CONCEPT	dna	dna	INTERMEDIARY_CONCEPT	cause	CAUSE
@@ -2626,7 +2370,6 @@ tea	tea	FOOD	drink	drink	FOOD	is	IS-A
 calcium	calcium	INTERMEDIARY_CONCEPT	soy milk	soy milk	FOOD	in	PART-OF
 medical education	medical education	INTERMEDIARY_CONCEPT	nutrition	nutrition	INTERMEDIARY_CONCEPT	in	PART-OF-I
 nuts	nut	FOOD	flavonoid phytonutrients	flavonoid phytonutrients	INTERMEDIARY_CONCEPT	in	PART-OF-I
-fat	fat	INTERMEDIARY_CONCEPT	salmon	salmon	INTERMEDIARY_CONCEPT	in	PART-OF
 eggs	egg	FOOD	choline	choline	INTERMEDIARY_CONCEPT	in	PART-OF-I
 liver	liver	INTERMEDIARY_CONCEPT	poultry exposure	poultry exposure	INTERMEDIARY_CONCEPT	tied to	LINKED-TO-I
 bmaa	bmaa	INTERMEDIARY_CONCEPT	seafood	seafood	FOOD	, found in	PART-OF
@@ -2635,5 +2378,3 @@ brain damage	brain damage	INTERMEDIARY_CONCEPT	homocysteine	homocysteine	INTERME
 tomatoes	tomato	FOOD	platelet	platelet	INTERMEDIARY_CONCEPT	lowered	EFFECT
 enzyme	enzyme	INTERMEDIARY_CONCEPT	broccoli	broccoli	FOOD	in	PART-OF
 chronic diseases	chronic diseases	DISEASE	coronary heart disease	coronary heart disease	DISEASE	such as	IS-A
-tea	tea	FOOD	beans	bean	FOOD	is	HYPERNYMY
-death	death	DISEASE	sugar	sugar	FOOD	in	PART-OF

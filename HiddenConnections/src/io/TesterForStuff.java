@@ -41,7 +41,7 @@ public class TesterForStuff {
 	}
 	
 	public void lookForPatternMatch(String sentenceString, String pattern) {
-		if(sentenceString.contains("steroid") && sentenceString.contains("dairy")){
+		if(sentenceString.contains("dairy") && sentenceString.contains("acne")){
 
 			Set<Pair<String>> candidates = new HashSet<Pair<String>>();
 
@@ -52,7 +52,8 @@ public class TesterForStuff {
 			    String temp2 = "";
 			    String before = sentenceString.substring(0, matcher.start()).trim();
 			    String after = sentenceString.substring(matcher.end()).trim();
-			   
+			    System.out.println("BEFORE " + before);
+			    System.out.println("AFTER " + after);
 			    List<String> term1_candidate = new ArrayList<String>();
 			    List<String> term2_candidate = new ArrayList<String>();
 			    List<String> term1_candidatePOS = new ArrayList<String>();

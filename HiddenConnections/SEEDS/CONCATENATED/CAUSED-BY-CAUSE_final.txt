@@ -25,7 +25,6 @@ brain damage	mercury	caused by the	CAUSED-BY
 mutations	carcinogen	caused by the	CAUSED-BY
 inflammation	domesticated animal	triggered by	CAUSED-BY
 amyloidosis	leprosy	triggered by	CAUSED-BY
-inflammation	kangaroo meat	triggered by	CAUSED-BY
 inflammation	dioxin	triggered by	CAUSED-BY
 asthma	breathing	triggered by	CAUSED-BY
 allergies	tick bites	triggered by	CAUSED-BY
@@ -35,7 +34,6 @@ pathogens	noroviruses	due to	CAUSED-BY
 arteries	cholesterol	due to	CAUSED-BY
 oils	steam	due to	CAUSED-BY
 meat	arachidonic acid	due to	CAUSED-BY
-meat	vitamin a	due to	CAUSED-BY
 brain	atherosclerosis	due to	CAUSED-BY
 chickens	genetic manipulation	due to	CAUSED-BY
 toxicity	broccoli	due to	CAUSED-BY
@@ -45,7 +43,6 @@ viruses	manure	due to	CAUSED-BY
 coli exposure	bacteria	due to	CAUSED-BY
 dementia	vitamin b12	due to	CAUSED-BY
 reaction	seafood	due to	CAUSED-BY
-meat	ddt	due to	CAUSED-BY
 fecal pathogens	noroviruses	due to	CAUSED-BY
 premature puberty	chemical pollutants	due to	CAUSED-BY
 phytonutrients	nutrient synergy	due to	CAUSED-BY
@@ -87,7 +84,6 @@ pathogens	noroviruses	due to	CAUSED-BY
 arteries	cholesterol	due to	CAUSED-BY
 oils	steam	due to	CAUSED-BY
 meat	arachidonic acid	due to	CAUSED-BY
-meat	vitamin a	due to	CAUSED-BY
 brain	atherosclerosis	due to	CAUSED-BY
 chickens	genetic manipulation	due to	CAUSED-BY
 toxicity	broccoli	due to	CAUSED-BY
@@ -97,7 +93,6 @@ viruses	manure	due to	CAUSED-BY
 coli exposure	bacteria	due to	CAUSED-BY
 dementia	vitamin b12	due to	CAUSED-BY
 reaction	seafood	due to	CAUSED-BY
-meat	ddt	due to	CAUSED-BY
 fecal pathogens	noroviruses	due to	CAUSED-BY
 premature puberty	chemical pollutants	due to	CAUSED-BY
 phytonutrients	nutrient synergy	due to	CAUSED-BY
@@ -119,7 +114,6 @@ toxins	cooking	created by	CAUSED-BY
 carcinogens	cooking	created by	CAUSED-BY
 inflammation	domesticated animal	triggered by	CAUSED-BY
 amyloidosis	leprosy	triggered by	CAUSED-BY
-inflammation	kangaroo meat	triggered by	CAUSED-BY
 inflammation	dioxin	triggered by	CAUSED-BY
 asthma	breathing	triggered by	CAUSED-BY
 allergies	tick bites	triggered by	CAUSED-BY
@@ -140,7 +134,6 @@ smoking	lung cancer	causes	CAUSED-BY
 dna	liquid smoke	causes	CAUSED-BY
 insulin resistance	blood	causes	CAUSED-BY
 inflammation	animal foods	causes	CAUSED-BY
-dysfunction	saturated fat	causes	CAUSED-BY
 insulin resistance	sucralose	causes	CAUSED-BY
 insulin	sucralose	causes	CAUSED-BY
 cancer	cigarette smoking	causes	CAUSED-BY
@@ -148,34 +141,32 @@ dna mutations	liquid smoke	causes	CAUSED-BY
 guidelines	who	creates	CAUSED-BY
 free radicals	exercise	creates	CAUSED-BY
 heterocyclic amines	fish	creates	CAUSED-BY
+infections	bacteria	cause	CAUSED-BY
 acne	milk	cause	CAUSED-BY
+dysfunction	free radicals	cause	CAUSED-BY
 dna mutations	carcinogens	cause	CAUSED-BY
+cancer	cell phones	cause	CAUSED-BY
+inflammation	animal products	cause	CAUSED-BY
 brain tumors	dental x-rays	cause	CAUSED-BY
 cancer	betel nuts	cause	CAUSED-BY
 plaque	bacteria	cause	CAUSED-BY
-dna mutations	hormones	cause	CAUSED-BY
 inflammation	meat	cause	CAUSED-BY
 lung inflammation	air pollution	cause	CAUSED-BY
 dna	carcinogens	cause	CAUSED-BY
-infections	bacteria	cause	CAUSED-BY
-dysfunction	free radicals	cause	CAUSED-BY
-cancer	cell phones	cause	CAUSED-BY
-inflammation	animal products	cause	CAUSED-BY
 depressive symptoms	inflammation	to trigger	CAUSED-BY
 strokes	arteries	to trigger	CAUSED-BY
+infections	bacteria	cause	CAUSED-BY
 acne	milk	cause	CAUSED-BY
+dysfunction	free radicals	cause	CAUSED-BY
 dna mutations	carcinogens	cause	CAUSED-BY
+cancer	cell phones	cause	CAUSED-BY
+inflammation	animal products	cause	CAUSED-BY
 brain tumors	dental x-rays	cause	CAUSED-BY
 cancer	betel nuts	cause	CAUSED-BY
 plaque	bacteria	cause	CAUSED-BY
-dna mutations	hormones	cause	CAUSED-BY
 inflammation	meat	cause	CAUSED-BY
 lung inflammation	air pollution	cause	CAUSED-BY
 dna	carcinogens	cause	CAUSED-BY
-infections	bacteria	cause	CAUSED-BY
-dysfunction	free radicals	cause	CAUSED-BY
-cancer	cell phones	cause	CAUSED-BY
-inflammation	animal products	cause	CAUSED-BY
 blood sugar	raisins	caused less of a	CAUSED-BY
 nitrites	celery	to create	CAUSED-BY
 insulin	fish	causes triple the	CAUSED-BY
@@ -187,7 +178,6 @@ smoking	lung cancer	causes	CAUSED-BY
 dna	liquid smoke	causes	CAUSED-BY
 insulin resistance	blood	causes	CAUSED-BY
 inflammation	animal foods	causes	CAUSED-BY
-dysfunction	saturated fat	causes	CAUSED-BY
 insulin resistance	sucralose	causes	CAUSED-BY
 insulin	sucralose	causes	CAUSED-BY
 cancer	cigarette smoking	causes	CAUSED-BY
@@ -250,7 +240,6 @@ mercury	brain damage	caused by the	CAUSE
 carcinogen	mutations	caused by the	CAUSE
 domesticated animal	inflammation	triggered by	CAUSE
 leprosy	amyloidosis	triggered by	CAUSE
-kangaroo meat	inflammation	triggered by	CAUSE
 dioxin	inflammation	triggered by	CAUSE
 breathing	asthma	triggered by	CAUSE
 tick bites	allergies	triggered by	CAUSE
@@ -260,7 +249,6 @@ noroviruses	pathogens	due to	CAUSE
 cholesterol	arteries	due to	CAUSE
 steam	oils	due to	CAUSE
 arachidonic acid	meat	due to	CAUSE
-vitamin a	meat	due to	CAUSE
 atherosclerosis	brain	due to	CAUSE
 genetic manipulation	chickens	due to	CAUSE
 broccoli	toxicity	due to	CAUSE
@@ -270,7 +258,6 @@ manure	viruses	due to	CAUSE
 bacteria	coli exposure	due to	CAUSE
 vitamin b12	dementia	due to	CAUSE
 seafood	reaction	due to	CAUSE
-ddt	meat	due to	CAUSE
 noroviruses	fecal pathogens	due to	CAUSE
 chemical pollutants	premature puberty	due to	CAUSE
 nutrient synergy	phytonutrients	due to	CAUSE
@@ -312,7 +299,6 @@ noroviruses	pathogens	due to	CAUSE
 cholesterol	arteries	due to	CAUSE
 steam	oils	due to	CAUSE
 arachidonic acid	meat	due to	CAUSE
-vitamin a	meat	due to	CAUSE
 atherosclerosis	brain	due to	CAUSE
 genetic manipulation	chickens	due to	CAUSE
 broccoli	toxicity	due to	CAUSE
@@ -322,7 +308,6 @@ manure	viruses	due to	CAUSE
 bacteria	coli exposure	due to	CAUSE
 vitamin b12	dementia	due to	CAUSE
 seafood	reaction	due to	CAUSE
-ddt	meat	due to	CAUSE
 noroviruses	fecal pathogens	due to	CAUSE
 chemical pollutants	premature puberty	due to	CAUSE
 nutrient synergy	phytonutrients	due to	CAUSE
@@ -344,7 +329,6 @@ cooking	toxins	created by	CAUSE
 cooking	carcinogens	created by	CAUSE
 domesticated animal	inflammation	triggered by	CAUSE
 leprosy	amyloidosis	triggered by	CAUSE
-kangaroo meat	inflammation	triggered by	CAUSE
 dioxin	inflammation	triggered by	CAUSE
 breathing	asthma	triggered by	CAUSE
 tick bites	allergies	triggered by	CAUSE
@@ -365,7 +349,6 @@ lung cancer	smoking	causes	CAUSE
 liquid smoke	dna	causes	CAUSE
 blood	insulin resistance	causes	CAUSE
 animal foods	inflammation	causes	CAUSE
-saturated fat	dysfunction	causes	CAUSE
 sucralose	insulin resistance	causes	CAUSE
 sucralose	insulin	causes	CAUSE
 cigarette smoking	cancer	causes	CAUSE
@@ -373,34 +356,32 @@ liquid smoke	dna mutations	causes	CAUSE
 who	guidelines	creates	CAUSE
 exercise	free radicals	creates	CAUSE
 fish	heterocyclic amines	creates	CAUSE
+bacteria	infections	cause	CAUSE
 milk	acne	cause	CAUSE
+free radicals	dysfunction	cause	CAUSE
 carcinogens	dna mutations	cause	CAUSE
+cell phones	cancer	cause	CAUSE
+animal products	inflammation	cause	CAUSE
 dental x-rays	brain tumors	cause	CAUSE
 betel nuts	cancer	cause	CAUSE
 bacteria	plaque	cause	CAUSE
-hormones	dna mutations	cause	CAUSE
 meat	inflammation	cause	CAUSE
 air pollution	lung inflammation	cause	CAUSE
 carcinogens	dna	cause	CAUSE
-bacteria	infections	cause	CAUSE
-free radicals	dysfunction	cause	CAUSE
-cell phones	cancer	cause	CAUSE
-animal products	inflammation	cause	CAUSE
 inflammation	depressive symptoms	to trigger	CAUSE
 arteries	strokes	to trigger	CAUSE
+bacteria	infections	cause	CAUSE
 milk	acne	cause	CAUSE
+free radicals	dysfunction	cause	CAUSE
 carcinogens	dna mutations	cause	CAUSE
+cell phones	cancer	cause	CAUSE
+animal products	inflammation	cause	CAUSE
 dental x-rays	brain tumors	cause	CAUSE
 betel nuts	cancer	cause	CAUSE
 bacteria	plaque	cause	CAUSE
-hormones	dna mutations	cause	CAUSE
 meat	inflammation	cause	CAUSE
 air pollution	lung inflammation	cause	CAUSE
 carcinogens	dna	cause	CAUSE
-bacteria	infections	cause	CAUSE
-free radicals	dysfunction	cause	CAUSE
-cell phones	cancer	cause	CAUSE
-animal products	inflammation	cause	CAUSE
 raisins	blood sugar	caused less of a	CAUSE
 celery	nitrites	to create	CAUSE
 fish	insulin	causes triple the	CAUSE
@@ -412,7 +393,6 @@ lung cancer	smoking	causes	CAUSE
 liquid smoke	dna	causes	CAUSE
 blood	insulin resistance	causes	CAUSE
 animal foods	inflammation	causes	CAUSE
-saturated fat	dysfunction	causes	CAUSE
 sucralose	insulin resistance	causes	CAUSE
 sucralose	insulin	causes	CAUSE
 cigarette smoking	cancer	causes	CAUSE
