@@ -240,7 +240,7 @@ public class TesterForStuff {
 		 luceneSearchAll("in", "diabetes", "estrogen");
 		 luceneSearchAll("in", "diabetes", "estrogens");*/
 		 
-		 luceneSearchTwoTerms("breast cancer", "coconut oil",  "EVALUATION SETS/DOCDUMP/INDEX SENTENCES");
+		 luceneSearchPattern("in", "arachidonic acid");
 		/*Double ic = 1.97389719743579;
 		if(ic >= 2.0){
 			System.out.println(">=");
@@ -275,6 +275,7 @@ public class TesterForStuff {
 					}
 					System.out.println(path);
 					System.out.println(candidates);
+
 			  }
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
