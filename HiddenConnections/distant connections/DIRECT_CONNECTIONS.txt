@@ -1,0 +1,52 @@
+
+chicken	PART-OF-I	allergic reactions
+cayenne pepper	EFFECT	irritable bowel syndrome
+poultry	PART-OF-I	virus
+herb	EFFECT	inflammation
+pork	PART-OF-I	virus
+sugar	LINKED-TO	pancreatic cancer
+milk	CAUSE	acne
+chicken	PART-OF-I	virus
+aspartame	LINKED-TO-I	headache
+tobacco	CAUSE	copd
+chicken	PART-OF-I	obesity
+strawberry	EFFECT	colon cancer
+flaxseed	PART-OF	breast cancer
+beverage	LINKED-TO	infertility
+garlic	EFFECT	inflammation
+pepsi	PART-OF	dyspepsia
+milk	PART-OF-I	leukemia
+ginger	HYPERNYMY	nausea
+pumpkin seeds	LINKED-TO	breast cancer
+herb	PART-OF	cardiovascular disease
+nut	EFFECT	stroke
+sweetener	IS-A	fibromyalgia
+alcohol	PART-OF	breast cancer
+cooked meat	CAUSE	muscle tremors
+poultry products	PART-OF-I	cancer-causing viruses
+poultry	PART-OF-I	cancer-causing herpesvirus
+poultry	PART-OF-I	cancer-causing viruses
+egg	EFFECT	macular degeneration
+processed meats	EFFECT	botulism
+tomato juice	EFFECT	inflammation
+beef	LINKED-TO-I	pancreatic cancer
+cooked meat	CAUSE	breast cancer
+rose hips	IS-A	osteoarthritis
+milk	PART-OF-I	bovine leukemia
+juice	EFFECT	muscle soreness
+barbecue	LINKED-TO	birth weight
+cranberry juice	EFFECT	liver cancer
+seed	PART-OF	breast cancer
+retail meat	PART-OF-I	infectious virus
+turmeric	EFFECT	multiple myeloma
+chicken meat	PART-OF-I	virus
+nutritional yeast	EFFECT	infection
+gluten	CAUSE	inflammation
+nut	EFFECT	breast cancer
+vegetable oil	LINKED-TO	pancreatic cancer
+pickled vegetables	LINKED-TO	multiple myeloma
+nut	LINKED-TO-I	death
+peppermint	EFFECT	nausea
+egg	CAUSE	inflammation
+milk	PART-OF-I	acne
+bacon	PART-OF-I	esophageal cancer

@@ -12,6 +12,7 @@ import java.util.Set;
 import io.Writer;
 
 public class Knoten {
+	private static final String DISTANT_CONNECTIONS_DIRECT_CONNECTIONS_TXT = "distant connections/DIRECT_CONNECTIONS.txt";
 	private static final String OUTPUT_OF_PROJECT = "distant connections/FINAL.txt";
 	private static String pathToClusteredTerms = "terms/all_terms_and_variants_with10_filtered_clustered.txt";
 	private static final String DISTANT_CONNECTIONS_FINAL_INPUT = "distant connections/ALL_RELATIONS_WITH_RELEVANT_INFO.txt";
@@ -145,12 +146,14 @@ public class Knoten {
 		ArrayList<String> all_paths = getAllPaths(3);
 		Set<String> results = new HashSet<String>();
 		Writer.overwriteFile("", OUTPUT_OF_PROJECT);
+		Writer.overwriteFile("", DISTANT_CONNECTIONS_DIRECT_CONNECTIONS_TXT);
 		for (String s: all_paths){
 			results.add(s);
 		}
 		
 		for(String result: results){
 			if(result.split("\t").length == 3){
+				Writer.appendLineToFile(result, DISTANT_CONNECTIONS_DIRECT_CONNECTIONS_TXT);
 				continue;
 			}
 			Writer.appendLineToFile(result, OUTPUT_OF_PROJECT);
