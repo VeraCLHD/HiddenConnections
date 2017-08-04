@@ -19,7 +19,6 @@ public class XMLParserMesh {
 
 private static final String MESH_QUAL2017_XML = "mesh/qual2017.xml";
 private static final String MESH_DESC2017_XML = "mesh/desc2017.xml";
-private StanfordLemmatizer lemmatizer = new StanfordLemmatizer();
 
 public static void main(String argv[]) {
 	Writer.overwriteFile("", "meshIDs.txt");

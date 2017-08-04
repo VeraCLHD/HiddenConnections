@@ -78,7 +78,7 @@ apple	gestational diabetes	0
 prebiotic	gestational diabetes	0
 whole foods	gestational diabetes	0
 coconut oil	gestational diabetes	0
-processed meats	inflammation	0
+processed meats	inflammation	1
 wheat	colon cancer	0
 milk	death	1
 chocolate	atherosclerosis	0
@@ -239,7 +239,7 @@ chicken	norovirus	0
 nutritional yeast	atherosclerosis	0
 split peas	atherosclerosis	0
 poultry	infection	1
-sweet potatoes	colon cancer	0
+sweet potatoes	colon cancer	1
 fig	nonalcoholic fatty liver	0
 bt corn	inflammation	0
 dried fruit	breast cancer	0

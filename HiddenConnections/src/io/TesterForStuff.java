@@ -41,7 +41,6 @@ public class TesterForStuff {
 	}
 	
 	public void lookForPatternMatch(String sentenceString, String pattern) {
-		if(sentenceString.contains("dairy") && sentenceString.contains("acne")){
 
 			Set<Pair<String>> candidates = new HashSet<Pair<String>>();
 
@@ -52,8 +51,6 @@ public class TesterForStuff {
 			    String temp2 = "";
 			    String before = sentenceString.substring(0, matcher.start()).trim();
 			    String after = sentenceString.substring(matcher.end()).trim();
-			    System.out.println("BEFORE " + before);
-			    System.out.println("AFTER " + after);
 			    List<String> term1_candidate = new ArrayList<String>();
 			    List<String> term2_candidate = new ArrayList<String>();
 			    List<String> term1_candidatePOS = new ArrayList<String>();
@@ -122,23 +119,18 @@ public class TesterForStuff {
 					if(!temp1.equals(temp2)){
 						Pair<String> pair = new Pair<String>(temp1, temp2);
 						candidates.add(pair);
-						System.out.println(temp1 + " " + temp2);
+
 					}
 					
 				}
 
 		}
-		}
-			
-		
-
-		
 		
 	}
 	public static void main(String[] args) {
-		TesterForStuff ts = new TesterForStuff();
+		/*TesterForStuff ts = new TesterForStuff();
 		ts.readAllTerms();
-		ts.searchPatternLikeBootstrapper( "in");
+		ts.searchPatternLikeBootstrapper( "in");*/
 		/*Document doc;
 		try {
 			 Connection.Response loginForm = Jsoup.connect("http://scienceofdiet.com/login").userAgent("vera bachelorarbeit")
@@ -248,7 +240,7 @@ public class TesterForStuff {
 		 luceneSearchAll("in", "diabetes", "estrogen");
 		 luceneSearchAll("in", "diabetes", "estrogens");*/
 		 
-		 luceneSearchTwoTerms("carotenoids", "urinary tract infections"  );
+		 luceneSearchTwoTerms("breast cancer", "coconut oil",  "EVALUATION SETS/DOCDUMP/INDEX SENTENCES");
 		/*Double ic = 1.97389719743579;
 		if(ic >= 2.0){
 			System.out.println(">=");
@@ -258,11 +250,11 @@ public class TesterForStuff {
 	
 	}
 	
-	private static void luceneSearchTwoTerms(String term1, String term2) {
+	private static void luceneSearchTwoTerms(String term1, String term2, String dir) {
 		LuceneSearcher ls = new LuceneSearcher();
 		  Set<String> set;
 		try {
-			set = ls.doSearch("\"" + term1 +"\"" + "AND" + "\"" + term2 +"\"", "IndexDirectory/");
+			set = ls.doSearch("\"" + term1 +"\"" + "AND" + "\"" + term2 +"\"", dir);
 			for(String path: set){
 				  String str = Reader.readContentOfFile(path);
 				  Set<String> candidates = new HashSet<String>();

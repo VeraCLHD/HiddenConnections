@@ -10,6 +10,7 @@ import java.util.Set;
 
 import org.apache.lucene.queryparser.classic.ParseException;
 
+import edu.stanford.nlp.simple.Sentence;
 import io.Reader;
 import io.Writer;
 import overall.LuceneSearcher;
@@ -17,7 +18,7 @@ import overall.Pair;
 
 public class AutomaticEvaluation {
 	private static final String EVALUATION_ALL_EVALS_TXT = "evaluation/allEvals.txt";
-	private static final String DISTANT_CONNECTIONS_FINAL_TXT = "evaluation/FINAL_MANUAL.txt";
+	private static final String DISTANT_CONNECTIONS_FINAL_TXT = "distant connections/FINAL.txt";
 	public static final String FINAL_VARIANTS = "terms/finalVariants.txt";
 	public Map<String, Set<String>> variations = new HashMap<String, Set<String>>();
 	public LuceneSearcher ls = new LuceneSearcher();
@@ -26,9 +27,7 @@ public class AutomaticEvaluation {
 	private String EVAL_SOURCE;
 	private String EVAL_SOURCE_NAME;
 	private static final String EVALUATION_RANDOM_COMBINATIONS_TXT = "evaluation/randomCombinations.txt";
-	
-
-	
+	// lemmatizer for multiword terms
 
 	public AutomaticEvaluation(String evaluationSourcePath, String evaluationSourceName) {
 		this.setEVAL_SOURCE(evaluationSourcePath);
@@ -42,7 +41,7 @@ public class AutomaticEvaluation {
 	public static void main(String[] args) {
 		BaselineRandom br = new BaselineRandom();
 		br.readInformationContentFile();
-		br.readTerms();
+		br.readFinalVariants();
 		
 		
 		Writer.overwriteFile("", EVALUATION_ALL_EVALS_TXT);
@@ -103,6 +102,9 @@ public class AutomaticEvaluation {
 		Set<String> set = new HashSet<String>();
 		Set<String> var1 = this.getVariations().get(lemma1);
 		Set<String> var2 = this.getVariations().get(lemma2);
+		addLemmatizedMultiword(lemma1, var1);
+		addLemmatizedMultiword(lemma2, var2);
+		
 		for(String variant1: var1){
 			for(String variant2: var2){
 				if(!variant1.equals(variant2)){
@@ -126,6 +128,17 @@ public class AutomaticEvaluation {
 		return result;
 		
 		
+	}
+
+	private void addLemmatizedMultiword(String lemma1, Set<String> var1) {
+		if(lemma1.contains(" ")){
+			List<String> splitted = Arrays.asList(lemma1.split(" "));
+			String last = splitted.get(splitted.size()-1).trim();
+	        String tokenLemma = new Sentence(last).lemma(0);
+	        String multiword = String.join(" ", splitted.subList(0, splitted.size()-1)) +" " + tokenLemma;
+	        //System.out.println(lemma1 + " " + multiword);
+	        var1.add(multiword);
+		}
 	}
 	
 	public void readNewPairs(String results){

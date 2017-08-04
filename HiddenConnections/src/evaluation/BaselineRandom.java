@@ -20,7 +20,7 @@ public class BaselineRandom {
 	public Set<Pair<String>> pairsToEvaluate = new HashSet<Pair<String>>();
 	private Set<String> generalTermsToExclude = new HashSet<String>();
 	
-	public void readTerms(){
+	public void readFinalVariants(){
 		List<String> lines = Reader.readLinesList("terms/finalVariants.txt");
 		for(String line: lines){
 			if(!line.isEmpty()){
