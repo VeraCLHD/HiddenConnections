@@ -1,0 +1,10 @@
+dna mutations	smoking	caused by	CAUSED-BY
+dna mutations	smoking	caused by	CAUSED-BY
+dna mutations	carcinogen	caused by the	CAUSED-BY
+dna mutations	liquid smoke	causes	CAUSED-BY
+dna mutations	carcinogens	cause	CAUSED-BY
+carcinogen	dna mutations	caused by the	CAUSE
+smoking	dna mutations	caused by	CAUSE
+liquid smoke	dna mutations	causes	CAUSE
+carcinogens	dna mutations	cause	CAUSE
+carcinogens	dna mutations	cause	CAUSE

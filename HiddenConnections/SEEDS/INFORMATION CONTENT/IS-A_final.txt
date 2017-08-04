@@ -1,4 +1,3 @@
-
 fish	salmon	, including	IS-A
 diseases	cancer	, including	IS-A
 radiation	radiation exposure	, including	IS-A
