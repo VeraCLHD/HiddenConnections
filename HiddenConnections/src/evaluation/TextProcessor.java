@@ -25,7 +25,7 @@ public class TextProcessor {
 	private static final String DOCDUMP_TXT = "EVALUATION SETS/DOCDUMP/doc_dump.txt";
 	private static final String INDEX_DOCDUMP_TEXTST = "EVALUATION SETS/DOCDUMP/INDEX TEXTS/";
 	private static final String INDEX_DOCDUMP_PARAGRAHPS = "EVALUATION SETS/DOCDUMP/INDEX PARAGRAPHS/";
-	private static final String INDEX_DOCDUMP_SENTENCES = "EVALUATION SETS/DOCDUMP/INDEX SENTENCES/";
+	private static final String INDEX_DOCDUMP_SENTENCES = "EVALUATION SETS/DOCDUMP/INDEX DOCDUMP/";
 	
 	//docdump 1 text
 	public void readAndRewriterDocDumpSingeText(String pathToSource, int IndexOfText, String pathToOutput){
