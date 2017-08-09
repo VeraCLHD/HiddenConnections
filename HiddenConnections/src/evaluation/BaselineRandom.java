@@ -42,7 +42,7 @@ public class BaselineRandom {
 	public void buildRandomCombinations(){
 		// nextInt is normally exclusive of the top value,
 		// so add 1 to make it inclusive
-		Writer.overwriteFile("", EVALUATION_RANDOM_COMBINATIONS_TXT);;
+		Writer.overwriteFile("", EVALUATION_RANDOM_COMBINATIONS_TXT);
 		for(String food: this.getSetFoods()){
 			Pair<String> pair = buildOneRandomCombination(food);
 			pairsToEvaluate.add(pair);

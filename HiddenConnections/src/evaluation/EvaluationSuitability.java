@@ -8,18 +8,22 @@ import java.util.Set;
 import org.apache.lucene.queryparser.classic.ParseException;
 
 import io.Reader;
+import io.Writer;
 import overall.LuceneSearcher;
 
 public class EvaluationSuitability {
+	private static final String TERMS_EVALUATION_SUITABILITY_TXT = "terms/evaluation_suitability.txt";
 	public String evaluation_source = "";
 	public Double allTerms = 0.0;
 	public Double foundInEvalSource = 0.0;
 	
 	private static Set<String> terms = new HashSet<String>();
 	private static final String pathToAllTerms = "terms/all_terms_and_variants_with10_filtered.txt";
+	private static final String pathToOriginalTerms = "terms/original_terms.txt";
 	
 	public EvaluationSuitability(String evaluationSource){
 		this.setEvaluation_source(evaluationSource);
+		this.setFoundInEvalSource(0.0);
 	}
 	
 	public  void readTerms(String path){
@@ -65,15 +69,39 @@ public class EvaluationSuitability {
 			
 		}
 		
-		Double ratio = this.getFoundInEvalSource()/this.getAllTerms();
-		System.out.println(ratio);
+		
 		
 	}
 	
 	public static void main(String[] args) {
-		EvaluationSuitability es = new EvaluationSuitability("NF");
-		es.evaluateSuitability(pathToAllTerms);
+		Writer.overwriteFile("", TERMS_EVALUATION_SUITABILITY_TXT);
+		Writer.appendLineToFile("ORIGINAL TERMS", TERMS_EVALUATION_SUITABILITY_TXT);
+		writeResultsToFile(pathToOriginalTerms);
+		Writer.appendLineToFile("ALL TERMS", TERMS_EVALUATION_SUITABILITY_TXT);
+		writeResultsToFile(pathToAllTerms);
 
+	}
+
+	private static void writeResultsToFile(String path) {
+		EvaluationSuitability es = new EvaluationSuitability("NF");
+		es.evaluateSuitability(path);
+		Writer.appendLineToFile("SOURCE: " + es.getEvaluation_source(), TERMS_EVALUATION_SUITABILITY_TXT);
+		Double ratio = es.getFoundInEvalSource()/es.getAllTerms();
+		Writer.appendLineToFile(ratio.toString(), TERMS_EVALUATION_SUITABILITY_TXT);
+		
+		
+		EvaluationSuitability authority = new EvaluationSuitability("AUTHORITYNUTRITION");
+		authority.evaluateSuitability(path);
+		Writer.appendLineToFile("SOURCE: " + authority.getEvaluation_source(), TERMS_EVALUATION_SUITABILITY_TXT);
+		Double ratioA = authority.getFoundInEvalSource()/authority.getAllTerms();
+		Writer.appendLineToFile(ratioA.toString(), TERMS_EVALUATION_SUITABILITY_TXT);
+		
+		
+		EvaluationSuitability docdump = new EvaluationSuitability("DOCDUMP");
+		docdump.evaluateSuitability(path);
+		Writer.appendLineToFile("SOURCE: " + docdump.getEvaluation_source(), TERMS_EVALUATION_SUITABILITY_TXT);
+		Double ratioD = docdump.getFoundInEvalSource()/docdump.getAllTerms();
+		Writer.appendLineToFile(ratioD.toString(), TERMS_EVALUATION_SUITABILITY_TXT);
 	}
 	
 	public Double getFoundInEvalSource() {
