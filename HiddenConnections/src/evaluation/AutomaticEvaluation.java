@@ -17,7 +17,9 @@ import overall.LuceneSearcher;
 import overall.Pair;
 
 public class AutomaticEvaluation {
-	private static final String EVALUATION_ALL_EVALS_TXT = "evaluation/allEvals.txt";
+	private static final String EVALUATION_SETS_AUTHORITYNUTRITION_INDEX_AUTHORITYNUTRITION = "EVALUATION SETS/AUTHORITYNUTRITION/INDEX AUTHORITYNUTRITION/";
+	private static final String EVALUATION_SETS_DOCDUMP_INDEX_DOCDUMP = "EVALUATION SETS/DOCDUMP/INDEX DOCDUMP/";
+	private String EVALUATION_ALL_EVALS_TXT;
 	private static final String DISTANT_CONNECTIONS_FINAL_TXT = "distant connections/FINAL.txt";
 	public static final String FINAL_VARIANTS = "terms/finalVariants.txt";
 	public Map<String, Set<String>> variations = new HashMap<String, Set<String>>();
@@ -26,12 +28,16 @@ public class AutomaticEvaluation {
 	public Set<Pair<String>> pairsToEvaluate = new HashSet<Pair<String>>();
 	private String EVAL_SOURCE;
 	private String EVAL_SOURCE_NAME;
-	private static final String EVALUATION_RANDOM_COMBINATIONS_TXT = "evaluation/randomCombinations.txt";
-	// lemmatizer for multiword terms
+	private String EVALUATION_RANDOM_COMBINATIONS_TXT;
+	private String whichFoods;
 
-	public AutomaticEvaluation(String evaluationSourcePath, String evaluationSourceName) {
+
+	public AutomaticEvaluation(String evaluationSourcePath, String evaluationSourceName, String whichFoods) {
 		this.setEVAL_SOURCE(evaluationSourcePath);
 		this.setEVAL_SOURCE_NAME(evaluationSourceName);
+		this.setEVALUATION_ALL_EVALS_TXT("evaluation/" + whichFoods + "/allEvals.txt");
+		this.setEVALUATION_RANDOM_COMBINATIONS_TXT( "evaluation/" + whichFoods +"/randomCombinations.txt");
+		this.setWhichFoods(whichFoods);
 	}
 
 	public Map<String, Set<String>> getVariations() {
@@ -39,38 +45,70 @@ public class AutomaticEvaluation {
 	}
 
 	public static void main(String[] args) {
-		BaselineRandom br = new BaselineRandom();
-		br.readInformationContentFile();
-		br.readFinalVariants();
-		
-		
-		Writer.overwriteFile("", EVALUATION_ALL_EVALS_TXT);
-		//baseline 1
-		evaluate("IndexDirectory/", "Baseline1", DISTANT_CONNECTIONS_FINAL_TXT);
-		evaluate("EVALUATION SETS/DOCDUMP/INDEX SENTENCES/", "DOCDUMP", DISTANT_CONNECTIONS_FINAL_TXT);
-		evaluate("EVALUATION SETS/AUTHORITYNUTRITION/INDEX AUTHORITYNUTRITION/", "AUTHORITY", DISTANT_CONNECTIONS_FINAL_TXT);
-		for(int i=0; i<10;i++){
-			br.buildRandomCombinations();
-			evaluate("EVALUATION SETS/DOCDUMP/INDEX DOCDUMP/", "DOCDUMP_RANDOM" + i, EVALUATION_RANDOM_COMBINATIONS_TXT);
-			evaluate("EVALUATION SETS/AUTHORITYNUTRITION/INDEX AUTHORITYNUTRITION/", "AUTHORITY_RANDOM" + i, EVALUATION_RANDOM_COMBINATIONS_TXT);
-		}
-		
+
+		evaluateAllOrOnlyRelevant("ALL");
+		evaluateAllOrOnlyRelevant("RESULTS_ONLY");
 
 	}
 
-	private static void evaluate(String path_toIndexed, String nameOfSource, String pathToConnections) {
-		Writer.overwriteFile("", "evaluation/" + "evaluation_paths_" + nameOfSource + ".txt");
-		Writer.overwriteFile("", "evaluation/evaluation_" + nameOfSource + ".txt");
-		AutomaticEvaluation ae = new AutomaticEvaluation(path_toIndexed, nameOfSource);
-		ae.readFinalVariants(FINAL_VARIANTS);
-		ae.readNewPairs(pathToConnections);
+	private static void evaluateAllOrOnlyRelevant(String whichFoods) {
+		Writer.overwriteFile("", "evaluation/" + whichFoods + "/allEvals.txt");
+		
+		BaselineRandom br = new BaselineRandom();
+		br.readInformationContentFile();
+		br.readAndAddFoodsDiseases();
+		br.readOnlyFoodsFromResults();
+		
+		AutomaticEvaluation ae = new AutomaticEvaluation("IndexDirectory/", "Baseline1", whichFoods);
+		ae.evaluate(DISTANT_CONNECTIONS_FINAL_TXT);
+		AutomaticEvaluation docdump = new AutomaticEvaluation(EVALUATION_SETS_DOCDUMP_INDEX_DOCDUMP, "DOCDUMP", whichFoods);
+		docdump.evaluate(DISTANT_CONNECTIONS_FINAL_TXT);
+		AutomaticEvaluation auth = new AutomaticEvaluation(EVALUATION_SETS_AUTHORITYNUTRITION_INDEX_AUTHORITYNUTRITION, "AUTHORITY", whichFoods);
+		auth.evaluate(DISTANT_CONNECTIONS_FINAL_TXT);
+	
+		for(int i=0; i<10;i++){
+			if(whichFoods.equals("ALL")){
+				br.buildRandomCombinations(br.getSetFoods(), "evaluation/" + "ALL" +"/randomCombinations.txt");
+			} else if(whichFoods.equals("RESULTS_ONLY")){
+				br.buildRandomCombinations(br.getOnlyResultFoods(), "evaluation/" + "RESULTS_ONLY" +"/randomCombinations.txt");
+			}
+			
+			AutomaticEvaluation randomDoc = new AutomaticEvaluation(EVALUATION_SETS_DOCDUMP_INDEX_DOCDUMP, "DOCDUMP_RANDOM" + i, whichFoods);
+			randomDoc.evaluate(randomDoc.EVALUATION_RANDOM_COMBINATIONS_TXT);
+			AutomaticEvaluation randomAuth = new AutomaticEvaluation(EVALUATION_SETS_AUTHORITYNUTRITION_INDEX_AUTHORITYNUTRITION, "AUTHORITY_RANDOM" + i, whichFoods);
+			randomAuth.evaluate(randomAuth.EVALUATION_RANDOM_COMBINATIONS_TXT);
+		}
+	}
+
+	public String getEVALUATION_ALL_EVALS_TXT() {
+		return EVALUATION_ALL_EVALS_TXT;
+	}
+
+	public void setEVALUATION_ALL_EVALS_TXT(String eVALUATION_ALL_EVALS_TXT) {
+		EVALUATION_ALL_EVALS_TXT = eVALUATION_ALL_EVALS_TXT;
+	}
+
+	public String getEVALUATION_RANDOM_COMBINATIONS_TXT() {
+		return EVALUATION_RANDOM_COMBINATIONS_TXT;
+	}
+
+	public void setEVALUATION_RANDOM_COMBINATIONS_TXT(String eVALUATION_RANDOM_COMBINATIONS_TXT) {
+		EVALUATION_RANDOM_COMBINATIONS_TXT = eVALUATION_RANDOM_COMBINATIONS_TXT;
+	}
+
+	private void evaluate(String pathToConnections) {
+		Writer.overwriteFile("", "evaluation/" + this.getWhichFoods() +  "/evaluation_paths_" + this.getEVAL_SOURCE_NAME() + ".txt");
+		Writer.overwriteFile("", "evaluation/" + this.getWhichFoods() + "/evaluation_" + this.getEVAL_SOURCE_NAME() + ".txt");
+		
+		this.readFinalVariants(FINAL_VARIANTS);
+		this.readNewPairs(pathToConnections);
 		double countTotal = 0.0;
 		double truePositives = 0.0;
 		double falsePositives = 0.0;
-		for(Pair<String> pair: ae.pairsToEvaluate){
+		for(Pair<String> pair: this.pairsToEvaluate){
 			countTotal +=1.0;
 			String line = pair.first + "\t" + pair.second + "\t";
-			if(ae.findOnePairOfLemmas(pair.first, pair.second, path_toIndexed)){
+			if(this.findOnePairOfLemmas(pair.first, pair.second, this.getEVAL_SOURCE())){
 				line += "1";
 				truePositives +=1.0;
 			
@@ -79,10 +117,10 @@ public class AutomaticEvaluation {
 				falsePositives +=1.0; 
 			}
 			
-			Writer.appendLineToFile(line, "evaluation/evaluation_" + nameOfSource + ".txt");
+			Writer.appendLineToFile(line, "evaluation/" + this.getWhichFoods() + "/evaluation_" + this.getEVAL_SOURCE_NAME() + ".txt");
 		}
 		
-		Writer.appendLineToFile(nameOfSource + "\t" +truePositives + "\t" + falsePositives + "\t" + countTotal + "\t" + truePositives/countTotal, EVALUATION_ALL_EVALS_TXT);
+		Writer.appendLineToFile(this.getEVAL_SOURCE_NAME() + "\t" +truePositives + "\t" + falsePositives + "\t" + countTotal + "\t" + truePositives/countTotal, EVALUATION_ALL_EVALS_TXT);
 	}
 	
 	public void readFinalVariants(String filename){
@@ -122,7 +160,7 @@ public class AutomaticEvaluation {
 		if(!set.isEmpty()){
 			result = true;
 			String line = lemma1 + "\t" + lemma2 + "\t" + set;
-			Writer.appendLineToFile(line, "evaluation/evaluation_paths_" + this.getEVAL_SOURCE_NAME() + ".txt");
+			Writer.appendLineToFile(line, "evaluation/" + this.getWhichFoods() +"/evaluation_paths_" + this.getEVAL_SOURCE_NAME() + ".txt");
 		}
 		
 		return result;
@@ -172,6 +210,14 @@ public class AutomaticEvaluation {
 
 	public void setEVAL_SOURCE_NAME(String eVAL_SOURCE_NAME) {
 		EVAL_SOURCE_NAME = eVAL_SOURCE_NAME;
+	}
+
+	public String getWhichFoods() {
+		return whichFoods;
+	}
+
+	public void setWhichFoods(String whichFoods) {
+		this.whichFoods = whichFoods;
 	}
 
 }
