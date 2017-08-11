@@ -20,6 +20,8 @@ import bootstrapping.Bootstrapper;
 import edu.stanford.nlp.parser.lexparser.LexicalizedParser;
 import edu.stanford.nlp.parser.lexparser.Options;
 import edu.stanford.nlp.simple.Sentence;
+import edu.stanford.nlp.trees.CollinsHeadFinder;
+import edu.stanford.nlp.trees.HeadFinder;
 import edu.stanford.nlp.trees.Tree;
 import edu.stanford.nlp.trees.tregex.TregexMatcher;
 import edu.stanford.nlp.trees.tregex.TregexPattern;
@@ -240,13 +242,8 @@ public class TesterForStuff {
 		 luceneSearchAll("in", "diabetes", "estrogen");
 		 luceneSearchAll("in", "diabetes", "estrogens");*/
 		 
-		 luceneSearchPattern("in", "arachidonic acid");
-		/*Double ic = 1.97389719743579;
-		if(ic >= 2.0){
-			System.out.println(">=");
-		} if(ic <= 2.0){
-			System.out.println("<");
-		}*/
+		//luceneSearchTwoTerms("dna damage", "turmeric", "IndexDirectory/");
+		GetNounPhrases("Toxins in seafood, including mercury, can present risks during pregnancy. ", "@NP << @NN");
 	
 	}
 	
@@ -381,11 +378,10 @@ public class TesterForStuff {
 	}
 	}
 	
-	public static void GetNounPhrases()
+	public static void GetNounPhrases(String sentence, String pattern)
 	{
 		LexicalizedParser lp1 = LexicalizedParser.loadModel();
 		
-		String sentence = "Since the same hormonal changes associated with eating more plant-based diets seemed to improve premenstrual and menstrual symptoms.".replaceAll("[^a-zA-Z]+$", "");
 		// output: [degenerative, cancer, cancer], [alzheimers]. The risk of terms not being recognized is too high
 		/*Sentence sent = new Sentence(sentence);
 		sent.posTags();
@@ -398,22 +394,19 @@ public class TesterForStuff {
 		//https://nlp.stanford.edu/software/tregex/The_Wonderful_World_of_Tregex.ppt/ - NP parent of NP extracts the longest NP
 		//TregexPattern patternMW = TregexPattern.compile("NP [ << NNS | << NN | << NNPS | << NNP ]");
 		// NP < (@NP !<< @NP . (/^such/ . /^as/))
-		TregexPattern patternMW = TregexPattern.compile("(@NP !<< @NP . (/^such/ . /^as/))");
-		TregexPattern patternM2 = TregexPattern.compile("(@NP !<< @NP)"); 
+		TregexPattern patternM2 = TregexPattern.compile(pattern); 
 		// Run the pattern on one particular tree 
 		TregexMatcher matcher = patternM2.matcher(parse); 
 		// Iterate over all of the subtrees that matched
-		List<Tree> phraseList=new ArrayList<Tree>();
+		//List<Tree> phraseList=new ArrayList<Tree>();
 		if (matcher.findNextMatchingNode()) { 
 		  Tree match = matcher.getMatch(); 
+		  System.out.println(match);
 		  // do what we want to with the subtree
-		  phraseList.add(match);
-		  
-		 
+		 // phraseList.add(match);
 		}
-	for(Tree subtree: phraseList){
-		System.out.println(subtree.getLeaves().toString());
-	}
+		
+		parse.pennPrint();
 	
 	
 	/*for(int i = 0; i< phraseList.size(); i++){
@@ -460,6 +453,22 @@ public class TesterForStuff {
 	    
 	    
 		return result;
+	}
+	
+	public boolean isTempANP(String temp){
+		boolean result = false;
+		LexicalizedParser lp1 = LexicalizedParser.loadModel();
+		Tree parse = lp1.parse(temp);
+		TregexPattern patternM2 = TregexPattern.compile("(@NP !<< @NP)"); 
+		// Run the pattern on one particular tree 
+		TregexMatcher matcher = patternM2.matcher(parse);
+		if (matcher.findNextMatchingNode()) { 
+		  Tree match = matcher.getMatch(); 
+		  // do what we want to with the subtree
+		  result = true;
+		 
+		}
+	return result;
 	}
 	
 	

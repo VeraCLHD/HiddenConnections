@@ -457,21 +457,7 @@ public class Bootstrapper {
 		
 	}
 	
-	public boolean isTempANP(String temp){
-		boolean result = false;
-		LexicalizedParser lp1 = LexicalizedParser.loadModel();
-		Tree parse = lp1.parse(temp);
-		TregexPattern patternM2 = TregexPattern.compile("(@NP !<< @NP)"); 
-		// Run the pattern on one particular tree 
-		TregexMatcher matcher = patternM2.matcher(parse);
-		if (matcher.findNextMatchingNode()) { 
-		  Tree match = matcher.getMatch(); 
-		  // do what we want to with the subtree
-		  result = true;
-		 
-		}
-	return result;
-	}
+
 	
 	
 	public static void readAllTerms(){
