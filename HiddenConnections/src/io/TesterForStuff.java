@@ -242,8 +242,8 @@ public class TesterForStuff {
 		 luceneSearchAll("in", "diabetes", "estrogen");
 		 luceneSearchAll("in", "diabetes", "estrogens");*/
 		 
-		//luceneSearchTwoTerms("dna damage", "turmeric", "IndexDirectory/");
-		GetNounPhrases("Toxins in seafood, including mercury, can present risks during pregnancy. ", "@NP << @NN");
+		luceneSearchTwoTerms("mortality", "poultry workers", "IndexDirectory/");
+		//GetNounPhrases("Toxins in seafood, including mercury, can present risks during pregnancy. ", "@NP << @NN");
 	
 	}
 	

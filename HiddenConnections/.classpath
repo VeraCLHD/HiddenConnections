@@ -21,13 +21,13 @@
 	<classpathentry kind="lib" path="C:/Users/XMobile/Desktop/Kitty Bachelorarbeit/resoruces/plexus-utils-1.5.7.jar"/>
 	<classpathentry kind="lib" path="C:/Users/XMobile/Veras Google Drive/Bacheloarbeit/resources/edu.mit.jwi_2.4.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/XMobile/Veras Google Drive/Bacheloarbeit/resources/kea-5.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/XMobile/Desktop/Kitty Bachelorarbeit/lucene-6.5.1/lucene-6.5.1/core/lucene-core-6.5.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/XMobile/Desktop/Kitty Bachelorarbeit/lucene-6.5.1/lucene-6.5.1/queryparser/lucene-queryparser-6.5.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/XMobile/Desktop/Kitty Bachelorarbeit/httpclient-4.3.3.jar"/>
 	<classpathentry kind="lib" path="C:/Users/XMobile/Desktop/Kitty Bachelorarbeit/jsoup-1.8.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/XMobile/Desktop/Kitty Bachelorarbeit/pdfbox-app-1.8.9.jar"/>
 	<classpathentry kind="lib" path="C:/Users/XMobile/Desktop/Kitty Bachelorarbeit/resoruces/gs-core-1.3/gs-core-1.3/gs-core-1.3.jar"/>
 	<classpathentry kind="lib" path="C:/Users/XMobile/Desktop/Kitty Bachelorarbeit/resoruces/gs-core-1.3/gs-core-1.3/gs-core-1.3-javadoc.jar"/>
 	<classpathentry kind="lib" path="C:/Users/XMobile/Desktop/Kitty Bachelorarbeit/resoruces/gs-core-1.3/gs-core-1.3/gs-core-1.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/XMobile/Desktop/Kitty Bachelorarbeit/resoruces/lucene-6.5.1/lucene-6.5.1/queryparser/lucene-queryparser-6.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/XMobile/Desktop/Kitty Bachelorarbeit/resoruces/lucene-6.5.1/lucene-6.5.1/core/lucene-core-6.5.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

@@ -41,7 +41,7 @@ public class DependencyParserDemo  {
       }
     }
 
-    String text = "Though babies are exposed to toxins and environmental pollutants excreted from the mother’s body into breast milk, such as pcbs and pesticides, epidemiological studies indicate any negative effects of these compounds are outweighed by protective effects conferred by other components of mother’s milk.";
+    String text = "Toxins in seafood, including mercury, can present risks during pregnancy.";
 
     MaxentTagger tagger = new MaxentTagger(taggerPath);
     DependencyParser parser = DependencyParser.loadFromModelFile(modelPath);
