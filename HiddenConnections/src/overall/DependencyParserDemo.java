@@ -6,6 +6,7 @@ import edu.stanford.nlp.parser.nndep.DependencyParser;
 import edu.stanford.nlp.process.DocumentPreprocessor;
 import edu.stanford.nlp.tagger.maxent.MaxentTagger;
 import edu.stanford.nlp.trees.GrammaticalStructure;
+import edu.stanford.nlp.trees.Tree;
 import edu.stanford.nlp.util.logging.Redwood;
 
 import java.io.StringReader;
@@ -50,8 +51,9 @@ public class DependencyParserDemo  {
     for (List<HasWord> sentence : tokenizer) {
       List<TaggedWord> tagged = tagger.tagSentence(sentence);
       GrammaticalStructure gs = parser.predict(tagged);
+      
 
-      // Print typed dependencies
+    	  
       log.info(gs);
     }
   }

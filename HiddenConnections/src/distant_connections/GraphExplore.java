@@ -3,6 +3,8 @@ package distant_connections;
 import org.graphstream.graph.Graph;
 import org.graphstream.graph.Node;
 import org.graphstream.graph.implementations.SingleGraph;
+import org.graphstream.ui.view.View;
+import org.graphstream.ui.view.Viewer;
 
 import io.Reader;
 import io.Writer;
@@ -20,7 +22,7 @@ public class GraphExplore {
 	Set<String> set = new HashSet<String>();
 	
 	 protected String styleSheet =
-		        "node {" +
+		        /*"node {" +
 		        "	fill-color: black;" +
 		        "size: 20px;" +
 		        "stroke-mode: plain;" +
@@ -31,13 +33,29 @@ public class GraphExplore {
 		        "}" +
 		        "node.marked {" +
 		        "	fill-color: red;" +
-		        "}";
+		        "}";*/
+			 "node {" +
+		        "padding: 10px, 10px;" +
+			"size: 20px;" +
+			"fill-color: #777;" +
+			 "text-size: 20px;" +
+			"text-alignment: right;" +
+			"z-index: 0;" +
+		"}" +
+
+		"edge {"+
+			"shape: line;"+
+			"fill-color: #222;" +
+			"arrow-size: 3px, 2px;"+
+		"}" +
+	 "graph { padding:  10px; fill-color: #EEE; }";
+	
 	 
 	   
 
 	 
 	private static final String DISTANT_CONNECTIONS_FINAL = "SEEDS/INFORMATION CONTENT/IS-A_final.txt";
-    Graph graph = new SingleGraph("Health Graph");
+    Graph graph = new MultiGraph("Health Graph");
     
 	public void readGraph(){
 		
@@ -54,18 +72,25 @@ public class GraphExplore {
 	}
     public GraphExplore() {
 
-
+    	graph.addAttribute("ui.quality");
+        graph.addAttribute("ui.antialias");
         graph.addAttribute("ui.stylesheet", styleSheet);
         graph.addAttribute("ui.screenshot", "");
         graph.setAutoCreate(false);
         graph.setStrict(false);
-        graph.display();
+        Viewer viewer = graph.display(false);
+        View view = viewer.getDefaultView();
+       graph.display(true);
+       // viewer.enableAutoLayout();
+   
         readGraph();
         for (Node node : graph) {
             node.addAttribute("ui.label", node.getId());
-            node.addAttribute("ui.style", "fill-color: rgb(0,100,255);");
+            node.addAttribute("ui.style", "text-offset: -10000;");
+           // node.addAttribute(arg0, );
         }
-
+        
+        
         //explore(graph.getNode("smoking"));
        
     }
@@ -87,7 +112,8 @@ public class GraphExplore {
    
 
 	public static void main(String[] args) {
-	     new GraphExplore();
+		System.setProperty("org.graphstream.ui.renderer", "org.graphstream.ui.j2dviewer.J2DGraphRenderer"); 
+		new GraphExplore();
 
 	}
 

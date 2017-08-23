@@ -22,6 +22,7 @@ import edu.stanford.nlp.parser.lexparser.Options;
 import edu.stanford.nlp.simple.Sentence;
 import edu.stanford.nlp.trees.CollinsHeadFinder;
 import edu.stanford.nlp.trees.HeadFinder;
+import edu.stanford.nlp.trees.SemanticHeadFinder;
 import edu.stanford.nlp.trees.Tree;
 import edu.stanford.nlp.trees.tregex.TregexMatcher;
 import edu.stanford.nlp.trees.tregex.TregexPattern;
@@ -130,6 +131,8 @@ public class TesterForStuff {
 		
 	}
 	public static void main(String[] args) {
+		parseTree("Toxins in seafood, including mercury are dangerous.");
+		System.out.println("______________");
 		/*TesterForStuff ts = new TesterForStuff();
 		ts.readAllTerms();
 		ts.searchPatternLikeBootstrapper( "in");*/
@@ -365,8 +368,8 @@ public class TesterForStuff {
 
 	}
 
-	private static void parseTree() {
-		String sent2 = "eating fruit";
+	private static void parseTree(String str) {
+		String sent2 = str;
 		Sentence sent2_1 = new Sentence(sent2);
 		LexicalizedParser lp1 = LexicalizedParser.loadModel();
 		
@@ -374,7 +377,12 @@ public class TesterForStuff {
 		List<Tree> phraseList=new ArrayList<Tree>();
 		
 	for(Tree subtree: parse){
-		System.out.println(subtree.getChildrenAsList());
+
+	    	  if ((subtree.label().value().equals("NP") )) {
+	    	  System.out.println(subtree.getLeaves());
+	    	  System.out.println(subtree.headTerminal(new SemanticHeadFinder(),null)); 
+	    	  } 
+		
 	}
 	}
 	
